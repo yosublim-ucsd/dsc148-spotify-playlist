@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,649 likes - 132 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,023 likes - 132 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 131 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 |
 | 132 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 
-Snapshot ID: `MCw3ZmM2MzliZDhiYTZlMmI1NmQ2ODIzMmRkNjU3MDk2OWIyNjNiOWQ0`
+Snapshot ID: `MCw5YWJlYjllNGIzYjdkNzQ3NjAwNjZkMTU5MGFlODY3ZDZhYTI4NDgz`

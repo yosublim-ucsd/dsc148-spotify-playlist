@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "album": {
         "name": "Abcdario",
         "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
       },
@@ -132,6 +150,28 @@
       "duration_ms": 260000,
       "name": "Ahora Bailas Con \u00c9l",
       "url": "https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR"
+    },
+    {
+      "album": {
+        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
+        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
     },
     {
       "album": {
@@ -792,7 +832,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 173133,
       "name": "Dia de Enero",
       "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
@@ -1113,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+    },
+    {
+      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
       },
@@ -1150,7 +1208,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
@@ -1240,7 +1298,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 256885,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
@@ -1334,7 +1392,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 192866,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
@@ -1534,6 +1592,24 @@
       "duration_ms": 132631,
       "name": "la del rencoroso",
       "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
+    },
+    {
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "album": {
@@ -2024,6 +2100,24 @@
       "duration_ms": 220866,
       "name": "Me Rend\u00ed",
       "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
+    },
+    {
+      "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
       "album": {
@@ -2849,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Ahora Y Siempre",
+        "url": "https://open.spotify.com/album/6LCpvp7Jgbr8bV9PKGlHuI"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Por Tu Amor - Duranguense",
+      "url": "https://open.spotify.com/track/1jBYN6IEVkExTE3R4O9trC"
+    },
+    {
+      "album": {
         "name": "Prenda del Alma - Spotify Singles",
         "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
       },
@@ -2890,7 +3002,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 305120,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
@@ -3162,7 +3274,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -3654,7 +3766,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
@@ -3978,6 +4090,28 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "UNA BALA",
+      "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
     {
       "album": {

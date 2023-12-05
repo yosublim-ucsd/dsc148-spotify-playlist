@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIAiOhAAyKX.md) - [plain]
 
 > if bunny is on, you know it's a good perreo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,219 likes - 43 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,233 likes - 43 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIAiOhAAyKX.md) - [plain]
 | 10 | [CANCIÓN CON YANDEL](https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 3:29 |
 | 11 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
 | 12 | [Bellacoso](https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Bellacoso](https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG) | 4:17 |
-| 13 | [MOJAITA](https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:07 |
-| 14 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 |
-| 15 | [Te Boté \- Remix](https://open.spotify.com/track/3X5M53Xi5k1SijRtZMM3TA) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Now Or Never](https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT) | 6:57 |
+| 13 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 |
+| 14 | [Te Boté \- Remix](https://open.spotify.com/track/3X5M53Xi5k1SijRtZMM3TA) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Now Or Never](https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT) | 6:57 |
+| 15 | [MOJAITA](https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:07 |
 | 16 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 17 | [CUIDAO POR AHÍ](https://open.spotify.com/track/6SYSu569pfYdkDT9A5lZqi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:18 |
 | 18 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIAiOhAAyKX.md) - [plain]
 | 42 | [PA' ROMPERLA](https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 3:14 |
 | 43 | [Cuando Perriabas](https://open.spotify.com/track/5mj8WVFcKdGA8p9HWGTSLc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:08 |
 
-Snapshot ID: `MCw0OGRmODBmMzA2ZTA3YmE2MzU1MTI0NmY2MjljMzBjOGVlYzNlYWRi`
+Snapshot ID: `MCwzNmJhZWI0ZjViMzZkY2YxMjk1MWI4ZWUxNGIyNDcxMWI5NzFkMmUy`

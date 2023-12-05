@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-123 songs - 6 hr 59 min
+125 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Calming Waves](https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Calming Waves](https://open.spotify.com/album/0pxJDyihqbjbxEvzk75Yee) | 2:45 | 2022-08-11 |  |
 | [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-05-26 | 2023-01-21 |
 | [Come Hang With Me](https://open.spotify.com/track/3nkVPQqsAnSVfcwJ2tHXh1) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Come Hang With Me](https://open.spotify.com/album/6dhlzRNnvtYFO7lLomD8hS) | 1:55 | 2022-05-26 | 2023-10-06 |
+| [Compassion](https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Compassion](https://open.spotify.com/album/1FOn0VvwCxcGzUkjnrbSMP) | 2:23 | 2023-12-04 |  |
 | [Dance of Calming Sun](https://open.spotify.com/track/21FOpLRPeaNDp4kLANJL9A) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:31 | 2022-05-26 | 2023-10-06 |
 | [Divine Dimension](https://open.spotify.com/track/73wOT1CUYdr9MDrQbhV3C1) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Divine Dimension](https://open.spotify.com/album/6AOlsCPCkbUSRb5faWJcYm) | 2:20 | 2022-09-30 |  |
 | [Drums of Shamanic Ritual](https://open.spotify.com/track/0zbUcJfHT0cvEpxOmIlKNx) | [Relaxing Zen Music Therapy](https://open.spotify.com/artist/1uWS5oGawRMbrNpjVFOqAp) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 3:43 | 2022-05-26 |  |
@@ -114,6 +115,7 @@
 | [The Spirit of the Drum](https://open.spotify.com/track/2TFtiG9PkXpRezasuBiS0h) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:32 | 2022-05-26 | 2023-03-10 |
 | [Thunderbrand](https://open.spotify.com/track/33qhC5OfZdelrQgvARr2eB) | [Leafgolden](https://open.spotify.com/artist/0jiudEshVEEN5Uo6gmtrLP) | [Thunderbrand](https://open.spotify.com/album/3kBafXQoV4nipuxyBmYiYe) | 2:18 | 2022-05-26 |  |
 | [Time to Travel](https://open.spotify.com/track/1NqnBiNkkk3tdCErFQLty3) | [Five Senses Meditation Sanctuary](https://open.spotify.com/artist/2yQankcHwEvfEbpyRXqeVz) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 3:34 | 2022-05-26 |  |
+| [Total Control](https://open.spotify.com/track/0cpkNoiOYPwSLBkLYrSR2S) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Total Control](https://open.spotify.com/album/0dvDilmdlUm6FB9DqJMwOM) | 2:57 | 2023-12-04 |  |
 | [Trade Of Secrets](https://open.spotify.com/track/5C7NrlDJsXEPG3D6FQCtOX) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Ghostly Dome](https://open.spotify.com/album/6wAt1Jv6LDK1D23tqgW8h8) | 1:47 | 2022-10-14 | 2023-10-06 |
 | [Umbra](https://open.spotify.com/track/0fntC0LdWp1KTZtxQBab5Z) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [Umbra](https://open.spotify.com/album/2jWji8ZKEpNsoJzvFOkYLf) | 2:18 | 2023-01-11 |  |
 | [Useful Wisdom](https://open.spotify.com/track/1vpZOt4glHPLzTnt5TVnIM) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Intrapersonal Experience](https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg) | 4:48 | 2023-06-09 |  |

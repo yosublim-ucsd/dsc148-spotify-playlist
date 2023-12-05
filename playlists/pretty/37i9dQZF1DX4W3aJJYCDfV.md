@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Tyla \(pictured\), D\-Block Europe, Taylor Swift and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,957 likes - 124 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,021 likes - 124 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 48 | [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 |
 | 49 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 |
 | 50 | [OPENHEARTED](https://open.spotify.com/track/539JumVF9YnJK22sgUCWTm) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [this is no longer a dream \[DELUXE\]](https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d) | 4:05 |
-| 51 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 51 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 52 | [Petroleum](https://open.spotify.com/track/22IHrv0zdTCRwKh3nlqYiD) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Petroleum](https://open.spotify.com/album/3LNsDUxrOFNU1VTP2DF3vz) | 3:39 |
 | 53 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
 | 54 | [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [jamcod](https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [jamcod](https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM) | 3:59 |
 | 124 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 |
 
-Snapshot ID: `MCw0N2JjZTFkNzViZjBmYjY2MWNhMTBjNTY3OGVjZWVlNGViZDY5YzQz`
+Snapshot ID: `MCwxNDRkOThmZDllMmM0M2U3OTk3NGU3ODA1MzM3ZWQ0YjU0ZmY4Y2Rj`

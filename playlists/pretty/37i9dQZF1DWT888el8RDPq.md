@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici italiane e internazionali per un autunno preso bene ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,382 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,401 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 26 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
 | 27 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
 | 28 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
-| 29 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
+| 29 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
 | 30 | [Radical](https://open.spotify.com/track/29cNIWFw9RJzd4OXsJLCNB) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Radical](https://open.spotify.com/album/7lg6FSoBd77TI3KViyOPoT) | 2:59 |
-| 31 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
+| 31 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 32 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 33 | [I Feel It Coming](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:29 |
 | 34 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 59 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 60 | [Your Name on It](https://open.spotify.com/track/2M1YP2tCLehFHwZ6WasfrE) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Your Name on It](https://open.spotify.com/album/4w6oNmCWrpdMwHJE5WMlth) | 2:17 |
 | 61 | [Hit the Road Jack](https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 1:59 |
-| 62 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
+| 62 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 |
 | 63 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
-| 64 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 |
+| 64 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 65 | [Stolen Dance](https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary \(Bonus Track Version\)](https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN) | 5:13 |
 | 66 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
 | 67 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 76 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 |
 | 77 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 |
 | 78 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
-| 79 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
-| 80 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
+| 79 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
+| 80 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
 | 81 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 82 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
 | 83 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 95 | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
 | 96 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 |
 | 97 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
-| 98 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 |
-| 99 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 |
-| 100 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 |
+| 98 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 |
+| 99 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 |
+| 100 | [Si, ah](https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Regardez moi](https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd) | 2:52 |
 
-Snapshot ID: `MCw5ZDQ3ZDRlMWZmYmU3MDgxYWVlZDZhNzgwMmVkZjY3OWY5YzRhNWIy`
+Snapshot ID: `MCwzYjMyYzgxZjY4MGQ1ZTI3N2Q4ZjkxYWVhNGM2ZTI1YWYxMTFkNjIw`

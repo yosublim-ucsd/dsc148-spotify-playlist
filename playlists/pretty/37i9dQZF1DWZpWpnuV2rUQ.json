@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que quer\u00e9s escuchar [ERNES]",
-  "num_followers": 62534,
+  "num_followers": 62567,
   "original_name": "EyTeen!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjE2OGZmNzdmOTNiZGM0OTAzZjUyN2FlZTU4NjEzYjhiMjM1NDQz",
+  "snapshot_id": "MCw0OGYyZDk3M2RlMzlhZTMyZjlhMDA4ZDk4YjE1ZTE4M2FkOGJlNDA4",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "A M\u00ed",
         "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Antes de Perderte",
-        "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Antes de Perderte",
-      "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Dos Besitos",
         "url": "https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 149083,
       "name": "Dos Besitos",
       "url": "https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -695,22 +695,6 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -759,54 +743,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "ULALA (OOH LA LA)",
-        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 188009,
-      "name": "ULALA (OOH LA LA)",
-      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Destinologia",
-        "url": "https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "Ciudad M\u00e1gica",
-      "url": "https://open.spotify.com/track/29Bjl63rfik8188v8J08hQ"
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -831,6 +779,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "511",
         "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 106095,
       "name": "TOI HECHO",
       "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Antes de Perderte",
+        "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Antes de Perderte",
+      "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Destinologia",
+        "url": "https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "Ciudad M\u00e1gica",
+      "url": "https://open.spotify.com/track/29Bjl63rfik8188v8J08hQ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Voragine",
         "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 281386,
       "name": "Cae el Sol",
       "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1003,22 +987,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "\u00c9xtasis",
-        "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
         }
       ],
-      "duration_ms": 191606,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
+      "duration_ms": 216386,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1039,54 +1019,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+        "name": "\u00c9xtasis",
+        "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
           "name": "Maria Becerra",
           "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5aVhIDZmDeMt2C2ZMX5KoH"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 125828,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
+      "duration_ms": 191606,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1111,6 +1059,42 @@
       "duration_ms": 179258,
       "name": "De Nada - Remix",
       "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 125828,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 197647,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5aVhIDZmDeMt2C2ZMX5KoH"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "ANTAGONISTA",
         "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Llor\u00e9",
         "url": "https://open.spotify.com/album/2ANjDgD1l0k62ysGqlYq3F"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 157959,
       "name": "Llor\u00e9",
       "url": "https://open.spotify.com/track/0vZK1SF9YvleinESXpukDF"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "cuatro veinte",
-        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Mal\u00e9fica",
         "url": "https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 183413,
       "name": "Mal\u00e9fica",
       "url": "https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 162098,
-      "name": "Qui\u00e9nes Son?",
-      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1519,6 +1503,42 @@
       "duration_ms": 217951,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Qui\u00e9nes Son?",
+      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Hace Calor",
+        "url": "https://open.spotify.com/album/6kfkMEQwnXozr3dnjZI9ZW"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 201197,
+      "name": "Hace Calor",
+      "url": "https://open.spotify.com/track/5j3wzSS6z80VEs71O0gysC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1555,26 +1575,6 @@
       "duration_ms": 241847,
       "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) - Remix",
       "url": "https://open.spotify.com/track/7ifCZvsDAyzveOHqUYbrpz"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Hace Calor",
-        "url": "https://open.spotify.com/album/6kfkMEQwnXozr3dnjZI9ZW"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 201197,
-      "name": "Hace Calor",
-      "url": "https://open.spotify.com/track/5j3wzSS6z80VEs71O0gysC"
     },
     {
       "added_at": "2023-10-20 03:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODhlYTQwNGJkZjg4MGYxZTNlNGZmN2JlYzdlMjBmOTk0ODZmMDcx",
+  "snapshot_id": "MCwwNmFlMjVjMTM1ZTIyM2M2YmIxOWU4YWE5ZjMzZjRiM2NjMGJiNjJh",
   "tracks": [
     {
       "added_at": "2023-11-10 17:37:13",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Pieces of a Man",
         "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
       },
@@ -175,34 +175,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -223,22 +207,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "I Want a Little Sugar In My Bowl",
-      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -255,6 +223,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "I Want a Little Sugar In My Bowl",
+      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 165066,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -363,22 +363,6 @@
       "duration_ms": 249333,
       "name": "You Ain't The Problem",
       "url": "https://open.spotify.com/track/3zJ5RDG0bLQAV2rntFgUtb"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -463,6 +447,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 278866,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Drunk On A Flight",
         "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 182857,
       "name": "Drunk On A Flight",
       "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
-      },
-      "artists": [
-        {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 231044,
       "name": "Kissing My Love",
       "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 183963,
       "name": "Us",
       "url": "https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Got To Be Good",
         "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 159933,
       "name": "Got To Be Good",
       "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 195037,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 164448,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 186394,
       "name": "BBQ Energy",
       "url": "https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 164448,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Angels & Queens - Part I (Track by Track)",
+        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/65PxIf97kRctYT8rshapFc"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Angels & Queens - Part I (Track by Track)",
-        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
     },
     {
       "added_at": "2023-11-10 17:37:13",

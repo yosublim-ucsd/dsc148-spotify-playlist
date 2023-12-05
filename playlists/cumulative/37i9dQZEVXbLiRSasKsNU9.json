@@ -4864,7 +4864,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 122520,
       "name": "BELLYDANCING",
       "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
@@ -15216,7 +15216,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
@@ -15346,7 +15346,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -16078,7 +16078,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 277021,
       "name": "Hua Main (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/54PRUdMOYzglMGnsg9kIta"
@@ -17062,7 +17062,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
@@ -20476,6 +20476,28 @@
       "duration_ms": 165427,
       "name": "LDR - Sped Up",
       "url": "https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd"
+    },
+    {
+      "album": {
+        "name": "Le Gustan lo' Flaites",
+        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Le Gustan lo' Flaites",
+      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
     },
     {
       "album": {

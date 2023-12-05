@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-25",
-  "description": "NSWER! It's Party O'Clock!",
+  "description": "NSWER! Change up!",
   "name": "This Is NMIXX",
   "tracks": [
     {
@@ -974,6 +974,24 @@
       "duration_ms": 179360,
       "name": "Roller Coaster (Inst.)",
       "url": "https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT"
+    },
+    {
+      "album": {
+        "name": "So\u00f1ar (Breaker)",
+        "url": "https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "So\u00f1ar (Breaker)",
+      "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
     },
     {
       "album": {

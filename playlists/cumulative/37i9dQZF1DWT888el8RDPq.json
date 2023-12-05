@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 176431,
       "name": "know that you're not alone",
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
@@ -5278,6 +5278,24 @@
       "duration_ms": 141218,
       "name": "Shut Me Up",
       "url": "https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v"
+    },
+    {
+      "album": {
+        "name": "Regardez moi",
+        "url": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd"
+      },
+      "artists": [
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172850,
+      "name": "Si, ah",
+      "url": "https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw"
     },
     {
       "album": {

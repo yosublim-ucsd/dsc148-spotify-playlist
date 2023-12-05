@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ไฮไลท์ปี 2023 เพลย์ลิสต์ Fresh Finds Thailand\. ศิลปิน: Chilax\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,888 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,892 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 49 | [นภา \| Happiness](https://open.spotify.com/track/6129ONQYtfoyR5p7TZC4ha) | [alittlebirdtoldme](https://open.spotify.com/artist/5kVhCKFH2S8hoGSyOMTo2U) | [นภา \| Happiness](https://open.spotify.com/album/4vUE8Xt5mvkjnEW69YXJSt) | 3:54 |
 | 50 | [ยังไม่มีคำตอบสำหรับเรื่องนี้](https://open.spotify.com/track/5GpbZoZk0MgkyBFEClIISi) | [SURFF](https://open.spotify.com/artist/0LJ6cw64d0z2B5oHIlaAt2) | [ยังไม่มีคำตอบสำหรับเรื่องนี้](https://open.spotify.com/album/4Bx677XmLQcn4B67GakgWI) | 5:00 |
 
-Snapshot ID: `MCw3YjI4ZjNmYWJhYWQ5Y2U5OTliZGY3YzVmNWNmZjk4MDhlMzQ0MjRk`
+Snapshot ID: `MCxkYmRmZTQ2OTExOGU3ZGRjMzE3MjE0MThkYjBmNjZlZmQ5YjNlOTJj`

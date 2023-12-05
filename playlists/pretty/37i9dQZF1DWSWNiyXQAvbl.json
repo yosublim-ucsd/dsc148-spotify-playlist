@@ -1,12 +1,12 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 478580,
+  "num_followers": 478649,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzZlOTE1NjRlYmQ3YzhmNzA4NjVlODA4YjViNzJhNTQxN2Y1MTI0",
+  "snapshot_id": "MCw3MmUwOTRlNjM0NDAzNDdkOGE3MmY3YmI3MDBlOWEzNGMxNjI3Y2Mz",
   "tracks": [
     {
       "added_at": "2023-10-17 16:13:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
         "name": "Even In The Quietest Moments",
         "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
@@ -135,6 +119,42 @@
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2023-10-17 16:13:12",
@@ -187,26 +207,6 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
-        "name": "Rock Of The Westies",
-        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2023-10-17 16:13:12",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
         "name": "Once Upon A Star",
         "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 170360,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
     },
     {
       "added_at": "2023-10-17 16:13:12",

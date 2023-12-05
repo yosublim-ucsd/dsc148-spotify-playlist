@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Eugenio Esquivel, Sebastián Esquivel, Grupo Marca Registrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,377 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,475 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
 | 50 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
 
-Snapshot ID: `MCw5ZGMzMjBmMmYxZWEzZTMwMmQ3NWE4YzE4YWM2NTk5YmY1NTJhZDll`
+Snapshot ID: `MCw2N2E2YTZlNjM4NTk4OTU5OWEyNjNkYTNhYjk1Zjc2MzM2Mzc0MWRl`

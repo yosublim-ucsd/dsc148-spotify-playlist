@@ -4,7 +4,7 @@
 
 > ¡Ponte a jalar sin miedo al éxito!
 
-100 songs - 5 hr 24 min
+101 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-07-04 |  |
 | [Así Soy](https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Así Soy](https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY) | 3:56 | 2023-07-04 |  |
 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 | 2023-07-04 |  |
+| [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2023-07-04 |  |
 | [Bombos y Tarolas](https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH) | 4:52 | 2023-07-04 |  |
 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 | 2023-07-04 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 | 2023-07-04 |  |
@@ -42,7 +43,7 @@
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2023-07-04 |  |
 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 | 2023-07-04 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:45 | 2023-07-04 |  |
-| [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 | 2023-07-04 |  |
+| [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 | 2023-07-04 | 2023-12-05 |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2023-07-04 |  |
 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 | 2023-07-04 |  |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-07-04 |  |

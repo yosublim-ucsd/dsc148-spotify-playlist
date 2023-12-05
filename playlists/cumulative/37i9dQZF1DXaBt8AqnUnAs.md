@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-399 songs - 19 hr 43 min
+400 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [FANFIC](https://open.spotify.com/track/0468vx9SCE18yxtWyYKM6r) | [NN3RD](https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839), [SaraH](https://open.spotify.com/artist/3NkF2WYP1E10LDHlukuLbW), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [FANFIC](https://open.spotify.com/album/43fGjj9DLiuS7DUdbNldc8) | 2:26 | 2023-02-17 | 2023-03-11 |
 | [Faz Tempo](https://open.spotify.com/track/1h377jjzCyoi9v6xv5pyW1) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Faz Tempo](https://open.spotify.com/album/3n6SL169uRnKgHr8hfw9Ih) | 3:29 | 2022-10-28 | 2022-11-12 |
 | [Faço Com Vontade Amor](https://open.spotify.com/track/0tau87KGvLrRu2U9I7UH2E) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt), [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g) | [Faço Com Vontade Amor](https://open.spotify.com/album/0aFTO9sYGXRwuLoULUfI1K) | 1:57 | 2023-01-13 | 2023-01-21 |
-| [Feridas Abertas](https://open.spotify.com/track/6S00iFG7VSum4SgXoNXha8) | [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Feridas Abertas](https://open.spotify.com/album/4bxhpFYA9ixhMcSj7Ahx2D) | 3:35 | 2023-07-28 |  |
+| [Feridas Abertas](https://open.spotify.com/track/6S00iFG7VSum4SgXoNXha8) | [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Feridas Abertas](https://open.spotify.com/album/4bxhpFYA9ixhMcSj7Ahx2D) | 3:35 | 2023-07-28 | 2023-12-05 |
 | [Fica](https://open.spotify.com/track/5XoCHhUCrv2seffIGVzJ3x) | [K4tt0](https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3) | [Fica](https://open.spotify.com/album/4ms8gh4HzAV6LLWSfMB6jO) | 3:31 | 2022-08-12 | 2023-05-27 |
 | [Filha da Primeira Dama](https://open.spotify.com/track/1ys92qqJhLRgD3jaTPCfs2) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Filha da Primeira Dama](https://open.spotify.com/album/08WzAYR9WHtIJUnNCcfvtj) | 2:42 | 2022-09-30 | 2023-01-06 |
 | [FILME](https://open.spotify.com/track/12jzQkI3F5VNdVgByUX0PW) | [Mirim](https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6) | [AGL](https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG) | 2:33 | 2023-07-07 | 2023-09-16 |
@@ -344,6 +344,7 @@
 | [Será Que Eu Posso...](https://open.spotify.com/track/38cV5MAHO41fMPrJoDTUmG) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Será Que Eu Posso...](https://open.spotify.com/album/50kyqL7iuPRh7HBV5cR17R) | 3:25 | 2022-03-07 | 2022-06-19 |
 | [Será?](https://open.spotify.com/track/3tdzYQGavoWCl8gkPcxywd) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Será?](https://open.spotify.com/album/57RuTZsU1fepATDckY87c8) | 3:14 | 2023-03-31 | 2023-06-17 |
 | [Seu Erro](https://open.spotify.com/track/6Lwxlj4xV0JG0VkTslT2Jh) | [Mentorzzin](https://open.spotify.com/artist/18S2hKSQUyNRY45vcMixEX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Seu Erro](https://open.spotify.com/album/4vIGO78CeGJ5vdAinZuxzP) | 3:02 | 2023-09-01 | 2023-10-21 |
+| [Sexy Love](https://open.spotify.com/track/1EhcRLOQ0acAeLW8KLb0mn) | [P2eli](https://open.spotify.com/artist/5tsySajIDzckBET0R9za2Y) | [Sexy Love](https://open.spotify.com/album/1HC5hJ1xQFFlZxbXbyrcZG) | 2:25 | 2023-12-04 |  |
 | [Sincero](https://open.spotify.com/track/6f8qxYAFrpf1h648KtUPKT) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Sincero](https://open.spotify.com/album/3KHOtsIXIIAYOdEPox0MEg) | 1:55 | 2023-02-17 | 2023-02-25 |
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-08-25 |  |
 | [Sintonia](https://open.spotify.com/track/1aJ0wRGBfeXjcI2hVBbpj0) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Sintonia](https://open.spotify.com/album/1dXx4MqT6GxJb8nBd61xeU) | 2:59 | 2022-06-24 | 2022-07-30 |

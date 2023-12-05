@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3efytkg9wcm.md) - [plain]
 
 > Featuring Paulo Londra, Duki, KAROL G, Ozuna & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,809 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,814 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3efytkg9wcm.md) - [plain]
 | 24 | [Piña](https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Piña](https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG) | 2:24 |
 | 25 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 |
 
-Snapshot ID: `MCw4ZDYyYzVmZWZlMjZhYTg0YzczYTZkZWVlZWYwNjc1ZDhkYTkwNzM5`
+Snapshot ID: `MCw1MTZkNTU3NTNmZjQ3ZTE1NzQ5N2IzMDgxZjgwNzViNGNjOGViMmY1`

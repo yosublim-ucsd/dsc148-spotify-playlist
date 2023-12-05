@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2118810,
+  "num_followers": 2118988,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjEzYTgxMmFkZDdiNjA0NzIzNWRlMDhjOGFhODlhMjA4ZDZhM2Y1",
+  "snapshot_id": "MCxhN2I3NmExMGM5YzkxM2RhMmQ2OTMwNmQwYmJlMTk5NGM4NmNmNjdh",
   "tracks": [
     {
       "added_at": "2023-11-22 15:17:18",
@@ -43,18 +43,22 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 143327,
+      "name": "HARLEY QUINN",
+      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -75,22 +79,18 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 143327,
-      "name": "HARLEY QUINN",
-      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -235,50 +219,18 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
-        "name": "I Hate That I Care",
-        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "I Hate That I Care",
-      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -299,6 +251,54 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "I Hate That I Care",
+        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "I Hate That I Care",
+      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 218577,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
         "name": "On My Love",
         "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
       },
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+      "duration_ms": 184320,
+      "name": "Vocation",
+      "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Vocation",
-      "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
         "name": "Steal The Show (From \"Elemental\")",
         "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 191779,
       "name": "Steal The Show - From \"Elemental\"",
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -1387,6 +1387,38 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "Love U Like That",
+        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Love U Like That",
+      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1423,22 +1455,6 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
         "name": "something to remember",
         "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
-        "name": "Love U Like That",
-        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Love U Like That",
-      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 173303,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
         "name": "Mirage (for Assassin's Creed Mirage)",
         "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
       },
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 173303,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
+      "duration_ms": 243946,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -1695,22 +1711,6 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "Eat Your Young",
-      "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
     },
     {
       "added_at": "2023-11-22 15:17:18",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-11-22 15:17:18",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 187888,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
-    },
-    {
-      "added_at": "2023-11-22 15:17:18",
-      "album": {
         "name": "Empires On Fire",
         "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "added_at": "2023-11-22 15:17:18",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 187888,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
     }
   ],
   "unique_name": "Daily Lift",

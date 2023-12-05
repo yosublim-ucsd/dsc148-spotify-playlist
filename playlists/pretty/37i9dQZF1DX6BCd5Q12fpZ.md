@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,778 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,777 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 28 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
 | 29 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
 | 30 | [Popular](https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Saade, Vol\. 1](https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7) | 3:00 |
-| 31 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 |
-| 32 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
+| 31 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
+| 32 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 |
 | 33 | [Golden Boy](https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp) | [Nadav Guedj](https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY) | [Nadav Guedj](https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE) | 3:00 |
 | 34 | [Ne partez pas sans moi \(Grand prix de L'Eurovision 1988\)](https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:06 |
-| 35 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
-| 36 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
-| 37 | [Always \- Single Version](https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z) | [Aysel](https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Always](https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC) | 2:54 |
+| 35 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
+| 36 | [Always \- Single Version](https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z) | [Aysel](https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Always](https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC) | 2:54 |
+| 37 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
 | 38 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
 | 39 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 40 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 61 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
 | 62 | [Playing with Fire](https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK) | [Ovi](https://open.spotify.com/artist/5bqiKYMVjdZjRxDojk5WXs), [Paula Seling](https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3) | [This Gig Almost Got Me Killed](https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K) | 3:02 |
 | 63 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
-| 64 | [A Million Voices](https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR) | [Polina Gagarina](https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr) | [A Million Voices](https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ) | 3:00 |
-| 65 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
+| 64 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
+| 65 | [A Million Voices](https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR) | [Polina Gagarina](https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr) | [A Million Voices](https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ) | 3:00 |
 | 66 | [My Star \- Original](https://open.spotify.com/track/0O0Xpnn4O9bKIgZv9ITqk1) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [My Star](https://open.spotify.com/album/7jsIyIJQJAQNwjPS01ERcK) | 3:04 |
 | 67 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
 | 68 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 | 75 | [Occidentali's Karma \(Eurovision Version\)](https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Occidentali's Karma \(Eurovision Version\)](https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E) | 3:03 |
 
-Snapshot ID: `MCwwMWRjZWI3OWQzMjcyNDc3NjhkMmI3MGFhNzcwMTMwZTA2MDQ5Y2I3`
+Snapshot ID: `MCw5ZTk5NmQ2Y2JjZDU4N2Y0MWRlMTJiOTFmZTkxOGYwODhkYzY3OTc5`

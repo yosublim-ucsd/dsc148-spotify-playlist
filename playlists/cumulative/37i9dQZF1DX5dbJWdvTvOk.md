@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-626 songs - 1 day 2 hr 31 min
+628 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Chiapas](https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Chiapas](https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl) | 3:05 | 2022-07-15 | 2023-03-11 |
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Choro pra Acalmar](https://open.spotify.com/track/50e5GkpVaPnZw4JtLvBzyL) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Iguazu Falls](https://open.spotify.com/album/22IAlT7WhxkkMaNOxuM6V1) | 3:07 | 2022-07-15 | 2023-04-22 |
-| [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 |  |
+| [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 | 2023-12-05 |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2023-04-21 | 2023-08-26 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-31 | 2023-04-22 |
 | [Coma Pedrosa](https://open.spotify.com/track/51cywj6ZBciJT6xKDm9wyV) | [Victor Alvida](https://open.spotify.com/artist/6Fw6K0ReXC3BS6IrmJU96R) | [Coma Pedrosa](https://open.spotify.com/album/0Eo35G5FqMSC4T1hKVnLw4) | 2:18 | 2022-07-15 | 2023-04-22 |
@@ -166,7 +166,7 @@
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 |  |
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-04-22 |
 | [Día Fácil](https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Día Fácil](https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb) | 3:01 | 2023-01-06 | 2023-04-22 |
-| [Echo Park](https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Echo Park](https://open.spotify.com/album/2RztZ6yJ4Da3Y2JV9xFm5n) | 2:48 | 2023-04-21 |  |
+| [Echo Park](https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Echo Park](https://open.spotify.com/album/2RztZ6yJ4Da3Y2JV9xFm5n) | 2:48 | 2023-04-21 | 2023-12-05 |
 | [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 | 2023-04-21 |  |
 | [Eclipse](https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 1:54 | 2022-07-15 | 2023-04-22 |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2023-04-21 |  |
@@ -359,6 +359,7 @@
 | [Melhor Coisa](https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Melhor Coisa](https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ) | 2:12 | 2023-04-21 |  |
 | [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 | 2023-10-13 |  |
 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 | 2022-07-15 | 2023-04-22 |
+| [Midnight Sun](https://open.spotify.com/track/2W1Wmp3VaJxOXVoE9ZZN6J) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Midnight Sun](https://open.spotify.com/album/3HsjYM8Niy1SbE4H7w7HtG) | 3:01 | 2023-11-24 |  |
 | [Milano](https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Milano](https://open.spotify.com/album/4da1Z9ZRNMf4SIiYegd94g) | 1:52 | 2022-07-15 | 2023-08-26 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 | 2023-04-22 |
 | [Mindwalking](https://open.spotify.com/track/2rCLuWRwCka6nCMOYJintR) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Mindwalking](https://open.spotify.com/album/2faqfHbeTfp4gz1SmMYOTC) | 2:11 | 2023-04-21 |  |
@@ -382,6 +383,7 @@
 | [My Bluesette Waltz](https://open.spotify.com/track/0OLstxDHvuG3oSnswAgM1t) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [My Bluesette Waltz](https://open.spotify.com/album/1L4n9pqVbiZwfdCbmfUJRC) | 3:21 | 2023-04-21 | 2023-05-13 |
 | [My Garden](https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [My Garden](https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8) | 2:57 | 2023-04-21 |  |
 | [My Place](https://open.spotify.com/track/7dZZosZeF6KE3dS2trkUal) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [My Place](https://open.spotify.com/album/3jVdXNaNTN21AhBj4BVqcd) | 3:07 | 2023-06-15 |  |
+| [Mértola](https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Mértola](https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm) | 3:01 | 2023-11-24 |  |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2023-04-21 |  |
 | [Nachtfalke](https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 4:21 | 2022-07-15 | 2023-03-11 |
 | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 | 2023-10-20 |

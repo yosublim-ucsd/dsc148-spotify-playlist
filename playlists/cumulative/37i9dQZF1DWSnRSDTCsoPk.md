@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-323 songs - 17 hr 47 min
+324 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bad Girl](https://open.spotify.com/track/7gavFJaP2PmDAOhO5VXjHS) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Beast Is The B2ST](https://open.spotify.com/album/3Bcq6nkfF1qUlHTFK9v3Je) | 3:13 | 2022-02-23 | 2022-07-03 |
 | [Bad Girl Good Girl](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) | 3:37 | 2022-02-23 | 2022-08-11 |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-18 |  |
-| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-10-18 |  |
+| [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 | 2023-10-18 |  |
+| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-10-18 | 2023-12-05 |
 | [bang](https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Afterschool 3rd Single BANG](https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h) | 3:18 | 2021-04-27 | 2022-07-28 |
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2022-02-23 |  |
 | [BE MINE](https://open.spotify.com/track/2offXFLPgX8MdU72dXDw34) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Paradise](https://open.spotify.com/album/4F8XrBym6NyfDnvlxI69aL) | 3:26 | 2021-04-27 | 2022-02-24 |

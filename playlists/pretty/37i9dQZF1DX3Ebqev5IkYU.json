@@ -1,12 +1,12 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1980019,
+  "num_followers": 1980006,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmVmYTAyYTQwY2E0OWEwNDc5NTllMWEwNmE2ZWJiNjQzOTRjY2Iw",
+  "snapshot_id": "MCxmN2YxZTcwNjQ4YTZmYTIyMmU0NzVjY2VlOTI2YWE0MzE1ZjRhYjFl",
   "tracks": [
     {
       "added_at": "2023-11-20 17:02:43",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -347,38 +343,22 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-11-20 17:02:43",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -399,6 +379,26 @@
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
+      "added_at": "2023-11-20 17:02:43",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-11-20 17:02:43",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -507,6 +487,22 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "added_at": "2023-11-20 17:02:43",
+      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -523,22 +519,6 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
-    },
-    {
-      "added_at": "2023-11-20 17:02:43",
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -571,6 +551,26 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2023-11-20 17:02:43",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2023-11-20 17:02:43",
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -795,6 +775,22 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2023-11-20 17:02:43",
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -819,18 +815,22 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
-        "name": "Other Boys",
-        "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 137065,
-      "name": "Other Boys",
-      "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
-    },
-    {
-      "added_at": "2023-11-20 17:02:43",
-      "album": {
         "name": "Hands On Me (feat. Meghan Trainor)",
         "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 183022,
       "name": "Hands On Me (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
+    },
+    {
+      "added_at": "2023-11-20 17:02:43",
+      "album": {
+        "name": "Other Boys",
+        "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 137065,
+      "name": "Other Boys",
+      "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 175671,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
-    },
-    {
-      "added_at": "2023-11-20 17:02:43",
-      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 148116,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
+    },
+    {
+      "added_at": "2023-11-20 17:02:43",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 175671,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
     },
     {
       "added_at": "2023-11-20 17:02:43",
@@ -1355,6 +1355,30 @@
     {
       "added_at": "2023-11-20 17:02:43",
       "album": {
+        "name": "Cynical (MistaJam Remix)",
+        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
+    },
+    {
+      "added_at": "2023-11-20 17:02:43",
+      "album": {
         "name": "Young Right Now",
         "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
       },
@@ -1411,30 +1435,6 @@
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
-    },
-    {
-      "added_at": "2023-11-20 17:02:43",
-      "album": {
-        "name": "Cynical (MistaJam Remix)",
-        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
     },
     {
       "added_at": "2023-11-20 17:02:43",

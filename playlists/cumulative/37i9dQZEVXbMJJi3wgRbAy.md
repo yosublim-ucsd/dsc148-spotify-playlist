@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-675 songs - 1 day 12 hr 3 min
+676 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2023-12-02 |  |
 | [ANDO](https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ANDO](https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D) | 2:52 | 2023-09-30 | 2023-12-03 |
 | [Animal](https://open.spotify.com/track/3OXxCquI8i14EigwILaLx9) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Animal](https://open.spotify.com/album/1R35ZqQyMMDZA8q4oMfVAJ) | 3:23 | 2021-03-27\* | 2021-06-06 |
+| [Anoche](https://open.spotify.com/track/60oAWR6EEBUftlu4UmCR5V) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx), [Juanjo Morgade](https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE) | [Anoche](https://open.spotify.com/album/4QMv2OO2DXXZado2E9Emos) | 2:18 | 2023-12-04 |  |
 | [Antes de Perderte](https://open.spotify.com/track/2LgxW2t2H6lAf7tJuOnxxj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:56 | 2022-08-06 | 2022-09-18 |
 | [Antes de Perderte](https://open.spotify.com/track/49ev1nUTrNxbjm04jaoL5Z) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:56 | 2022-06-25 | 2022-08-07 |
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-05 | 2022-06-26 |
@@ -489,7 +490,7 @@
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-10-13 | 2022-11-13 |
 | [PUNTO 40](https://open.spotify.com/track/58cEG7FsVoipRiRKUMgOjo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:10 | 2022-11-12 | 2023-01-22 |
 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 | 2022-11-08 | 2023-01-22 |
-| [PUNTO G](https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:31 | 2023-01-21 |  |
+| [PUNTO G](https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:31 | 2023-01-21 | 2023-12-05 |
 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 | 2023-08-22 |  |
 | [Que Dolor](https://open.spotify.com/track/48Pf7zioiN5Npe8EjDgoss) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Que Dolor](https://open.spotify.com/album/2fWmQAHo1dbqxz89LPV4Gj) | 3:01 | 2023-07-02 |  |
 | [Que Tiene la Noche](https://open.spotify.com/track/6ClL99PvuCeBLTFTdnR1Hw) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Causalidades](https://open.spotify.com/album/6zhawgybFcgvkdqpbFjbRK) | 2:59 | 2021-12-26 | 2022-01-04 |

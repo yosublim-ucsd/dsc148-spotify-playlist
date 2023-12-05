@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,745 likes - 128 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,775 likes - 126 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,28 +113,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 103 | [Coming Home](https://open.spotify.com/track/7aK0mcXTJ8SsDtXpELk19Z) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Positivity](https://open.spotify.com/album/716VE9ewUzN8m0TzuypI4W) | 3:20 |
 | 104 | [Looby Loo](https://open.spotify.com/track/16ZfuuiqOKcSli54cM4fU9) | [Natsuo Miyauchi](https://open.spotify.com/artist/5mY65Lrn8IWhyyDWIy7BjF) | [Five Little Speckled Frogs](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:36 |
 | 105 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 |
-| 106 | [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 |
-| 107 | [Elements of Quicksand](https://open.spotify.com/track/6ZyoHDnwJO6zy1xAOjAPQu) | [Chilloa](https://open.spotify.com/artist/5Q0zlGmb0xNmAgRUsWP7K6) | [Elements of Quicksand](https://open.spotify.com/album/49bEH6m6F74PrRw1iYWd36) | 2:54 |
-| 108 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 |
-| 109 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
-| 110 | [Shades Of Hope](https://open.spotify.com/track/7B5FCREpEtL8DusAJ1zyN9) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Shades Of Hope](https://open.spotify.com/album/79M8bCOYkbIJ5MPtGUUteD) | 3:36 |
-| 111 | [Onsen Ritual](https://open.spotify.com/track/5J4hAza3Nkap5HxhKYiCqE) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Onsen Ritual](https://open.spotify.com/album/591tvOCJ2yo8NytfM6atla) | 4:01 |
-| 112 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 |
-| 113 | [Dream Keeper](https://open.spotify.com/track/5MkHTzooL7E4aMVXzFpQDX) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [Dream Keeper](https://open.spotify.com/album/5xSDOT3xhjSlUvafM3jvjk) | 3:51 |
-| 114 | [Daybreak](https://open.spotify.com/track/5SnupCBChxbPv1rbzioIZK) | [Durma](https://open.spotify.com/artist/72SIhdZeLV1y5237YHyZot) | [Daybreak](https://open.spotify.com/album/2woY9tcBKK07rYw96yOTXD) | 3:29 |
-| 115 | [Dreamtime](https://open.spotify.com/track/3gtEg83VqmivKPUxhDLbSb) | [Melissa Styles](https://open.spotify.com/artist/5MJZC6Xx2EbqrBNbUHkyct) | [Dreamtime](https://open.spotify.com/album/3vkP1MukrrPFgRzlDXwn7g) | 2:02 |
-| 116 | [Forever](https://open.spotify.com/track/3HatNUmGOM2hGQf83VDz9m) | [The Sun Flower](https://open.spotify.com/artist/5VivCfdRKnDRfIJLfyh5Y0) | [Always](https://open.spotify.com/album/5RCShBWA2nbt7XbeoIGlzU) | 3:37 |
-| 117 | [Days Off](https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 2:39 |
-| 118 | [Perfect Stillness](https://open.spotify.com/track/0AHodj4ntSD8GHe9Amjjds) | [Moon Lakes](https://open.spotify.com/artist/46GLnKiAEhXShMrhcqYjWy) | [Perfect Stillness](https://open.spotify.com/album/6ICIXHDWpg5EHb9Jy0029R) | 3:45 |
-| 119 | [Leaving](https://open.spotify.com/track/1tssW7uMtvpgjdD4bEO5kW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [O B E](https://open.spotify.com/album/5kTgZfxe4yXefwI9Q9Tby5) | 3:58 |
-| 120 | [The Beach](https://open.spotify.com/track/4qqODkgsYwsORYJaKbykAZ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/1dj26uS9Dsk9psvsRBSoU2) | 3:01 |
-| 121 | [Mineral](https://open.spotify.com/track/4H4gOh4e8OlTr64rHJ7saG) | [Solandi](https://open.spotify.com/artist/4RfwbThCpe3mDfPgZYLhSB) | [Mineral](https://open.spotify.com/album/1fHqqyNXSVcFqSi8D6VnL2) | 3:07 |
-| 122 | [Star Fall](https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Echos From the Past](https://open.spotify.com/album/421b19yvmw3C7gbrbriAHr) | 3:22 |
-| 123 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 |
-| 124 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 |
-| 125 | [Creations](https://open.spotify.com/track/39je7LHAiJ7AEZZgU0wPVR) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Waters](https://open.spotify.com/album/4F5nRLj5pQ49lDZD654Zq4) | 2:44 |
-| 126 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 |
-| 127 | [Dream Maps](https://open.spotify.com/track/0NoCoOtd8LFywZnH9KIKGo) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Mind](https://open.spotify.com/album/2cAj2jNdLgh4pUwcfwiKyM) | 2:16 |
-| 128 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
+| 106 | [Elements of Quicksand](https://open.spotify.com/track/6ZyoHDnwJO6zy1xAOjAPQu) | [Chilloa](https://open.spotify.com/artist/5Q0zlGmb0xNmAgRUsWP7K6) | [Elements of Quicksand](https://open.spotify.com/album/49bEH6m6F74PrRw1iYWd36) | 2:54 |
+| 107 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 |
+| 108 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
+| 109 | [Shades Of Hope](https://open.spotify.com/track/7B5FCREpEtL8DusAJ1zyN9) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Shades Of Hope](https://open.spotify.com/album/79M8bCOYkbIJ5MPtGUUteD) | 3:36 |
+| 110 | [Onsen Ritual](https://open.spotify.com/track/5J4hAza3Nkap5HxhKYiCqE) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Onsen Ritual](https://open.spotify.com/album/591tvOCJ2yo8NytfM6atla) | 4:01 |
+| 111 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 |
+| 112 | [Dream Keeper](https://open.spotify.com/track/5MkHTzooL7E4aMVXzFpQDX) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [Dream Keeper](https://open.spotify.com/album/5xSDOT3xhjSlUvafM3jvjk) | 3:51 |
+| 113 | [Daybreak](https://open.spotify.com/track/5SnupCBChxbPv1rbzioIZK) | [Durma](https://open.spotify.com/artist/72SIhdZeLV1y5237YHyZot) | [Daybreak](https://open.spotify.com/album/2woY9tcBKK07rYw96yOTXD) | 3:29 |
+| 114 | [Dreamtime](https://open.spotify.com/track/3gtEg83VqmivKPUxhDLbSb) | [Melissa Styles](https://open.spotify.com/artist/5MJZC6Xx2EbqrBNbUHkyct) | [Dreamtime](https://open.spotify.com/album/3vkP1MukrrPFgRzlDXwn7g) | 2:02 |
+| 115 | [Forever](https://open.spotify.com/track/3HatNUmGOM2hGQf83VDz9m) | [The Sun Flower](https://open.spotify.com/artist/5VivCfdRKnDRfIJLfyh5Y0) | [Always](https://open.spotify.com/album/5RCShBWA2nbt7XbeoIGlzU) | 3:37 |
+| 116 | [Days Off](https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 2:39 |
+| 117 | [Perfect Stillness](https://open.spotify.com/track/0AHodj4ntSD8GHe9Amjjds) | [Moon Lakes](https://open.spotify.com/artist/46GLnKiAEhXShMrhcqYjWy) | [Perfect Stillness](https://open.spotify.com/album/6ICIXHDWpg5EHb9Jy0029R) | 3:45 |
+| 118 | [The Beach](https://open.spotify.com/track/4qqODkgsYwsORYJaKbykAZ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/1dj26uS9Dsk9psvsRBSoU2) | 3:01 |
+| 119 | [Mineral](https://open.spotify.com/track/4H4gOh4e8OlTr64rHJ7saG) | [Solandi](https://open.spotify.com/artist/4RfwbThCpe3mDfPgZYLhSB) | [Mineral](https://open.spotify.com/album/1fHqqyNXSVcFqSi8D6VnL2) | 3:07 |
+| 120 | [Star Fall](https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Echos From the Past](https://open.spotify.com/album/421b19yvmw3C7gbrbriAHr) | 3:22 |
+| 121 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 |
+| 122 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 |
+| 123 | [Creations](https://open.spotify.com/track/39je7LHAiJ7AEZZgU0wPVR) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Waters](https://open.spotify.com/album/4F5nRLj5pQ49lDZD654Zq4) | 2:44 |
+| 124 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 |
+| 125 | [Dream Maps](https://open.spotify.com/track/0NoCoOtd8LFywZnH9KIKGo) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Mind](https://open.spotify.com/album/2cAj2jNdLgh4pUwcfwiKyM) | 2:16 |
+| 126 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
 
-Snapshot ID: `MCw1ZDZjZDYyMDZkOWVmNmQ2MGY0ODNlZGZkNjg0ODEzY2U3OTljZjAw`
+Snapshot ID: `MCwyMzMxN2I4YzExNDFmNDAwMzYxYWI2Nzg2NWQ3NmMxODBkNGFhNDA1`

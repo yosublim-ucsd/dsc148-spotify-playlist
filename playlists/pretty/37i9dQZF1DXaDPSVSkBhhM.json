@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 65937,
+  "num_followers": 65976,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Mientras quede aliento",
-        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        }
-      ],
-      "duration_ms": 193086,
-      "name": "Mientras quede aliento",
-      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+        "name": "Mientras quede aliento",
+        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
         }
       ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+      "duration_ms": 193086,
+      "name": "Mientras quede aliento",
+      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -331,6 +315,22 @@
       "duration_ms": 217920,
       "name": "Apariencia",
       "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
-      },
-      "artists": [
-        {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
-        }
-      ],
-      "duration_ms": 216296,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "J\u00e4ula",
         "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
       },
       "artists": [
         {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+      "duration_ms": 216296,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "CARIBE 4 LIFE",
         "url": "https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "La teor\u00eda de los septenios",
-        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
-      },
-      "artists": [
-        {
-          "name": "Da Skate",
-          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
-        }
-      ],
-      "duration_ms": 151757,
-      "name": "No olvides de enfocarte siempre en lo importante",
-      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Bacard\u00ed",
         "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 151572,
       "name": "Bacard\u00ed",
       "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "La teor\u00eda de los septenios",
+        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
+      },
+      "artists": [
+        {
+          "name": "Da Skate",
+          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
+        }
+      ],
+      "duration_ms": 151757,
+      "name": "No olvides de enfocarte siempre en lo importante",
+      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Humanos Como T\u00fa",
         "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 228920,
       "name": "Humanos Como T\u00fa",
       "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Autodestrucci\u00f3n",
         "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 234437,
       "name": "Conversaciones Con Mi Almohada",
       "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2023-10-27 21:57:42",

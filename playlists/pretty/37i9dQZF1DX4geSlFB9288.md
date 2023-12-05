@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,265 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,639 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 19 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
 | 20 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
 | 21 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 |
-| 22 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 |
-| 23 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
+| 22 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
+| 23 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 |
 | 24 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 25 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 26 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 74 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
 | 75 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 |
 | 76 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 |
-| 77 | [Greek Tragedy \- Oliver Nelson TikTok Remix](https://open.spotify.com/track/64rqvMhAPLLEag310IG3z9) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Greek Tragedy \(Oliver Nelson TikTok Remix\)](https://open.spotify.com/album/1UglarHubZKdQNBzRLF7dt) | 5:06 |
-| 78 | [Mimi's Delivery Service](https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Mimi's Delivery Service](https://open.spotify.com/album/26i93seS4geUVSbjhloq5A) | 2:58 |
+| 77 | [Mimi's Delivery Service](https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Mimi's Delivery Service](https://open.spotify.com/album/26i93seS4geUVSbjhloq5A) | 2:58 |
+| 78 | [Greek Tragedy \- Oliver Nelson TikTok Remix](https://open.spotify.com/track/64rqvMhAPLLEag310IG3z9) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Greek Tragedy \(Oliver Nelson TikTok Remix\)](https://open.spotify.com/album/1UglarHubZKdQNBzRLF7dt) | 5:06 |
 | 79 | [Origami](https://open.spotify.com/track/3qpyxgH65qNhJ9hLS2gWrS) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Big Whoop](https://open.spotify.com/album/3LJ8HoyzFM8NA5M1zd7Z5W) | 2:54 |
 | 80 | [Ylang Ylang](https://open.spotify.com/track/6lAMnXLVCBPMXXWAK4lGSL) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [Ylang Ylang EP](https://open.spotify.com/album/0A13mnL2iaAoke3GXWsvB1) | 3:33 |
 | 81 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 90 | [Something Real](https://open.spotify.com/track/1tC7Kn0zul08kNgOnSm2GT) | [Lameboysharp](https://open.spotify.com/artist/2RXuhByfJ9xVRPDpotfoPY) | [Something Real](https://open.spotify.com/album/5IgdvVqArcvaiHHYV28Gbz) | 2:31 |
 | 91 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
 | 92 | [Settle Down](https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [It's 2016 Somewhere](https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec) | 2:58 |
-| 93 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 |
-| 94 | [do or die \(feat\. carolesdaughter\)](https://open.spotify.com/track/0x3UMvAP7cNqccSicFaBim) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [good grief](https://open.spotify.com/album/75y0jr3uig59oDXrVuDc65) | 2:51 |
+| 93 | [do or die \(feat\. carolesdaughter\)](https://open.spotify.com/track/0x3UMvAP7cNqccSicFaBim) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [good grief](https://open.spotify.com/album/75y0jr3uig59oDXrVuDc65) | 2:51 |
+| 94 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 |
 | 95 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
 | 96 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
-| 97 | [Set it on Fire](https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [LUNO](https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ) | 3:33 |
-| 98 | [Back to the Start](https://open.spotify.com/track/5TdgnDOtgNJRCxjrTVAwks) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/7cZsw4SlFBI5SzgaagTQe1) | 3:23 |
+| 97 | [Back to the Start](https://open.spotify.com/track/5TdgnDOtgNJRCxjrTVAwks) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/7cZsw4SlFBI5SzgaagTQe1) | 3:23 |
+| 98 | [Set it on Fire](https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [LUNO](https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ) | 3:33 |
 | 99 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
 | 100 | [thankful](https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM) | 2:26 |
 
-Snapshot ID: `MCxiZDI5MTg5ZmQxZDM4NjFkYjAwMmJkYWMwM2UyMDJkOWU5MmJkZTg3`
+Snapshot ID: `MCxhMjRjOGM3M2JmNzgxMTYyNjRlMDJiNzhkZmFlODM2NmJlMDg0YTM2`

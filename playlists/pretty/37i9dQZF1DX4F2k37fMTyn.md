@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,036 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,076 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 46 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 47 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 48 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
-| 49 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 |
-| 50 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
+| 49 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
+| 50 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 |
 | 51 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 52 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 | 53 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 54 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 |
 | 55 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 |
 | 56 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 |
-| 57 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 |
-| 58 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
+| 57 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
+| 58 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 |
 | 59 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
-| 60 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
+| 60 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 
-Snapshot ID: `MCwxNjVlNmNiYTFkMTg4NDNkZDhiYzMxY2E4NmVmMjdkZmZlZTE0ZWJk`
+Snapshot ID: `MCxjZDViNGMyN2VjYmY4OWE1MTg3NGQyY2FhMmI3Njc3ZjM1NTNhODI3`

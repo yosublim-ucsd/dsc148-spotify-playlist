@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Nadzira Shafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165,693 likes - 54 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,623 likes - 54 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 53 | [Aku Sayang Kamu](https://open.spotify.com/track/1lu1JZPI7s2cWIeIFYgjL3) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Aku Sayang Kamu](https://open.spotify.com/album/0eq61IIDrq945HH7oThPQW) | 4:15 |
 | 54 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 
-Snapshot ID: `MCwzOTg4ZjFkZWM3OGZiNTBhM2Q4NzExN2YwMjI4NWVmOWY4OGRhYzJi`
+Snapshot ID: `MCw3MzM5ODRmMjQyMjI3YWZiYmUxNjk4ZTZiNGVjYmVmNDg2ZWI2Njhj`

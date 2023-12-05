@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 8543,
+  "num_followers": 8550,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODVlNTJlNjRkNjU5ZWY2MGUwOGJmNGMwNDljY2E3MWRkNzdkMTgx",
+  "snapshot_id": "MCw4YzVkNzgxMmVmMzVmMDU2MjgwYzA5YzUzMTc2NDI1MGQyMDczMjcx",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 231854,
       "name": "CHOKE",
       "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Soda de Uva",
         "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
       },
@@ -459,26 +475,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Locochona",
-        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 148338,
-      "name": "Locochona",
-      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -495,18 +491,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+        "name": "Locochona",
+        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+      "duration_ms": 148338,
+      "name": "Locochona",
+      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Soy Vertical",
-        "url": "https://open.spotify.com/album/0GgXrrPAu26XWuakFBi0ph"
-      },
-      "artists": [
-        {
-          "name": "Marcela Viejo",
-          "url": "https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx"
-        }
-      ],
-      "duration_ms": 204608,
-      "name": "Soy Vertical",
-      "url": "https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "somos flores",
         "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 206727,
       "name": "somos flores",
       "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Soy Vertical",
+        "url": "https://open.spotify.com/album/0GgXrrPAu26XWuakFBi0ph"
+      },
+      "artists": [
+        {
+          "name": "Marcela Viejo",
+          "url": "https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx"
+        }
+      ],
+      "duration_ms": 204608,
+      "name": "Soy Vertical",
+      "url": "https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Kill V. Maim",
-        "url": "https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 254328,
-      "name": "Kill V. Maim",
-      "url": "https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 225587,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Kill V. Maim",
+        "url": "https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 254328,
+      "name": "Kill V. Maim",
+      "url": "https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Contradicktion",
+        "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
+      },
+      "artists": [
+        {
+          "name": "Las Decapitadas",
+          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
+        }
+      ],
+      "duration_ms": 125250,
+      "name": "Contradicktion",
+      "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Flores Sobre las Piedras",
         "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Corrida al Arco",
-        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 253456,
-      "name": "Corrida al Arco",
-      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Contradicktion",
-        "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
+        "name": "Corrida al Arco",
+        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
       },
       "artists": [
         {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 125250,
-      "name": "Contradicktion",
-      "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
+      "duration_ms": 253456,
+      "name": "Corrida al Arco",
+      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
     },
     {
       "added_at": "2023-07-28 20:39:17",

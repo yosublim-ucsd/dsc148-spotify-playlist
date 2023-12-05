@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Gautier Capuçon
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,682 likes - 68 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,768 likes - 68 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 67 | [Symphony No\. 8 in E\-Flat Major "Symphony of a Thousand": IIp\. Alles Vergängliche \- Live](https://open.spotify.com/track/1TsZ99n9X8nAEZDwvbKQGF) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Minnesota Orchestra](https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn), [Osmo Vänskä](https://open.spotify.com/artist/2GhXDeZqUWAqSpz7So8yUt), [Carolyn Sampson](https://open.spotify.com/artist/7FjSvvNq767gjo9ge8oXhP), [Jacquelyn Wagner](https://open.spotify.com/artist/3B7J8ZQok0XQggbypTLVJu), [Sasha Cooke](https://open.spotify.com/artist/0NTRZkrP4YaSfuRAMC7bRJ), [Jess Dandy](https://open.spotify.com/artist/0yV8vHfFs7haNp0Iv4xjug), [Barry Banks](https://open.spotify.com/artist/4gRhiYDhFnnY0kZTySVkEI), [Julian Orlishausen](https://open.spotify.com/artist/3tlLZ6QS7U7KpKAWjFf4Sf), [Christian Immler](https://open.spotify.com/artist/3X3Ec4ojGgBNhXYs8zUCYD), [Minnesota Chorale](https://open.spotify.com/artist/393UL0pTGL3DNvPfCSgTk7), [The National Lutheran Choir](https://open.spotify.com/artist/7hz41KzAPU4K0qUXDCc2ki), [Minnesota Boychoir](https://open.spotify.com/artist/6asEhsxX4vqP7DM5tzfitd), [Angelica Cantanti Youth Choirs](https://open.spotify.com/artist/2cnidjNCocUYVjrjzfwM4J) | [Mahler: Symphony No\. 8 in E\-Flat Major "Symphony of a Thousand" \(Live\)](https://open.spotify.com/album/4ZeiisnfvOsQXOWx7VPeP1) | 5:41 |
 | 68 | [Romanza for Cello and Piano](https://open.spotify.com/track/63Dwz38XNoCttUGU0WADiV) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Dmitry Yablonsky](https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb), [Laia Martín](https://open.spotify.com/artist/7mPIRijLjOKynw4JLqeelx) | [Casablancas, Casals & Others: Catalan Cello Works](https://open.spotify.com/album/1I9zjwpMpVehid2886yjDA) | 5:53 |
 
-Snapshot ID: `MCxkNTk3N2RkMmUwYWU1MmQ0MzYyZmMzZjE1OGVjOTU1ZDI3YjFhZGZl`
+Snapshot ID: `MCxlMjUyZDBhNjBiMTFkZWIzN2MyZWE0ZmY5MDBhMTI4ZjlmYWE4MjM3`

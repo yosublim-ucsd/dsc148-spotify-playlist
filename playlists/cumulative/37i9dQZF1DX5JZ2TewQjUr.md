@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: achi
 
-785 songs - 1 day 20 hr 22 min
+786 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,8 @@
 | [醉後 Black Out \(feat\. Tsui Chin Hung\)](https://open.spotify.com/track/2RmxP2Rpuoscz77tasDxst) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Tsui Chin Hung](https://open.spotify.com/artist/4iim34n0M5J5ua3fluGflT) | [Fuo.](https://open.spotify.com/album/6SrVTBtEk4rrESjDbf1S83) | 4:16 | 2023-03-24 | 2023-07-14 |
 | [重獲自信](https://open.spotify.com/track/1VucFdXeTVlq7E3tuQqP9i) | [LikHang](https://open.spotify.com/artist/1CjN9kt3l99SnJEyaspKIh) | [重獲自信](https://open.spotify.com/album/4x0KW73otW6TBS3CwO9FAm) | 4:55 | 2022-09-22 | 2023-01-06 |
 | [開朗咗 Fantastic](https://open.spotify.com/track/7M4QQtHG0KtgJBXOBbI4Np) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [開朗咗 Fantastic](https://open.spotify.com/album/1aScUtpMgve7K6bTtOU4f1) | 2:23 | 2023-02-16 | 2023-03-18 |
-| [雌雄同體](https://open.spotify.com/track/1BHc2pjfLXfntjrgs4TMGc) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [雌雄同體](https://open.spotify.com/album/3ReYvfsMslCtRwZAMF6uad) | 3:16 | 2023-11-09 |  |
+| [雌雄同體](https://open.spotify.com/track/1BHc2pjfLXfntjrgs4TMGc) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [雌雄同體](https://open.spotify.com/album/3ReYvfsMslCtRwZAMF6uad) | 3:16 | 2023-11-09 | 2023-12-05 |
+| [雌雄同體](https://open.spotify.com/track/3Na1t47af57acgITAyL1AR) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [雌雄同體](https://open.spotify.com/album/1dWHXyNedi6Hn2F3nvUisP) | 3:16 | 2023-11-30 |  |
 | [雙重標準](https://open.spotify.com/track/1OiklcoRnHkogk3CXZ5L5F) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [雙重標準](https://open.spotify.com/album/6zy9x4waP413cRXAGILBab) | 3:00 | 2022-10-06 | 2023-02-03 |
 | [雞蛋仔格仔餅](https://open.spotify.com/track/3shhAUfODtIk754wOX4drL) | [Ritchie Leong](https://open.spotify.com/artist/64Z9Y2gzSyj45yml0RNV4T), [Chit](https://open.spotify.com/artist/0zoxbSXMM8poZ2MOq4yKjs) | [雞蛋仔格仔餅](https://open.spotify.com/album/2nDRvEHuTF603Uv2flY5LK) | 3:35 | 2023-11-30 |  |
 | [離開的感覺](https://open.spotify.com/track/2bzbEJY3xfGkFJdy509uRP) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [離開的感覺](https://open.spotify.com/album/3w8OUJKYhA2AAPhltni2QG) | 3:30 | 2022-10-27 | 2023-02-03 |

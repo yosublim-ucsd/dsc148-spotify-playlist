@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 107843,
+  "num_followers": 107895,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTRlNDg1ZTVlYTVjNTIzYjhjZjg0M2YwNTJlZDkzMTEzNjA2YmJk",
+  "snapshot_id": "MCw2MzNkYjcxOGQzZDk5NTg3NTIzZjk1YmYzM2Y4YzhlMWQ0YTBhYWU5",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -775,26 +775,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        },
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "HAVEL",
         "url": "https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 210449,
       "name": "TAKE YOUR LIFE",
       "url": "https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",

@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 254270,
+  "num_followers": 254320,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMwMWU1MjNjMDI2OTc3M2NlZDJiZDMyZWQzNDBhMmE4MzgxNTY3",
+  "snapshot_id": "MCwyZWIyMGViM2JkNmYxMjkzNDdjOGMxMjdiZTkxYTNhN2FlMWUxYzdk",
   "tracks": [
     {
       "added_at": "2023-08-29 12:57:27",
@@ -291,18 +291,22 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
+      "duration_ms": 231532,
+      "name": "Besos En Guerra",
+      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -347,22 +351,18 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 231532,
-      "name": "Besos En Guerra",
-      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 205373,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 293106,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Millenium Hits",
         "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 281260,
       "name": "Persona Ideal",
       "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 293106,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
         "name": "Baute",
         "url": "https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+        "name": "Sinverguenza",
+        "url": "https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+      "duration_ms": 235893,
+      "name": "Pasos de gigantes",
+      "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1327,22 +1343,6 @@
       "duration_ms": 310973,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
-        "name": "Sinverguenza",
-        "url": "https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Pasos de gigantes",
-      "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Pafuera Telara\u00f1as",
-        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
-      },
-      "artists": [
-        {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
+      },
+      "artists": [
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
     },
     {
       "added_at": "2023-08-29 12:57:27",

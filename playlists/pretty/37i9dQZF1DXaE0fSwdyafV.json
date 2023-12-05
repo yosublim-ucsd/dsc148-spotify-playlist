@@ -1,6 +1,6 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 131554,
+  "num_followers": 131531,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 300683,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 295600,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+      "duration_ms": 300683,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Power Corruption and Lies",
-        "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 315333,
-      "name": "Age of Consent - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Power Corruption and Lies",
+        "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 315333,
+      "name": "Age of Consent - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Savage Daughter",
-        "url": "https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hester Ross",
-          "url": "https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI"
-        }
-      ],
-      "duration_ms": 178168,
-      "name": "Savage Daughter",
-      "url": "https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Z",
         "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 243744,
       "name": "Sweet November",
       "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Savage Daughter",
+        "url": "https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hester Ross",
+          "url": "https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Savage Daughter",
+      "url": "https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx"
     },
     {
       "added_at": "2023-07-11 23:25:54",

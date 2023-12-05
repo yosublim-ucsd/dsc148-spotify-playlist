@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
-  "num_followers": 312136,
+  "num_followers": 312334,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmJjNmZjYjQ1MDAwNGIyODNiZmJiZWE4ODFlZDJkZTJjNTlkNTUy",
+  "snapshot_id": "MCw0ZTczMWFjNGNkNjk2MGQ5OTIxNzA5MDQ4MjdkZDk1YmM0OTFmMDNi",
   "tracks": [
     {
       "added_at": "2022-02-09 09:10:51",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
     },
     {
+      "added_at": "2023-01-11 20:52:12",
+      "album": {
+        "name": "Hushaaru",
+        "url": "https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 173932,
+      "name": "Undiporaadhey",
+      "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
+    },
+    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Nenu Local",
@@ -231,42 +247,6 @@
       "duration_ms": 236617,
       "name": "Arere Yekkada",
       "url": "https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Gang Leader (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Inno Genga",
-          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
-        }
-      ],
-      "duration_ms": 271937,
-      "name": "Hoyna Hoyna",
-      "url": "https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM"
-    },
-    {
-      "added_at": "2023-01-11 20:52:12",
-      "album": {
-        "name": "Hushaaru",
-        "url": "https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 173932,
-      "name": "Undiporaadhey",
-      "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -289,24 +269,24 @@
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
+      "added_at": "2021-12-16 12:46:43",
       "album": {
-        "name": "Mirchi",
-        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+        "name": "Gang Leader (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
       },
       "artists": [
         {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Anitha",
-          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
+          "name": "Inno Genga",
+          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
         }
       ],
-      "duration_ms": 266760,
-      "name": "Idhedho Bagundhe",
-      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
+      "duration_ms": 271937,
+      "name": "Hoyna Hoyna",
+      "url": "https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -331,6 +311,42 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Mirchi",
+        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anitha",
+          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Idhedho Bagundhe",
+      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Geetha Govindam",
+        "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 266715,
+      "name": "Inkem Inkem Inkem Kaavaale",
+      "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Kumari 21 F",
         "url": "https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 299290,
       "name": "Meghaalu Lekunna",
       "url": "https://open.spotify.com/track/4YpxBrMONvVqbmXmYI2P5M"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Agnyaathavaasi",
-        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Baitikochi Chuste",
-      "url": "https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -397,58 +397,6 @@
       "url": "https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Geetha Govindam",
-        "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 266715,
-      "name": "Inkem Inkem Inkem Kaavaale",
-      "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 230048,
-      "name": "Saranga Dariya",
-      "url": "https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Nava Manmadhudu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 214765,
-      "name": "Emannavoo",
-      "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
-    },
-    {
       "added_at": "2023-01-10 09:27:27",
       "album": {
         "name": "Jinthaak Chithaka (From \"Dhamaka\")",
@@ -471,6 +419,22 @@
     {
       "added_at": "2021-12-16 12:46:43",
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 230048,
+      "name": "Saranga Dariya",
+      "url": "https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
       },
@@ -487,6 +451,22 @@
       "duration_ms": 221000,
       "name": "Srivalli",
       "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Agnyaathavaasi",
+        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Baitikochi Chuste",
+      "url": "https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -523,6 +503,22 @@
       "duration_ms": 216171,
       "name": "Guruvaram",
       "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
+    },
+    {
+      "added_at": "2023-02-10 09:20:04",
+      "album": {
+        "name": "Dhamaka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1pnE27pVlikgLeu4Lr8B0B"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        }
+      ],
+      "duration_ms": 130287,
+      "name": "Pulsar Bike",
+      "url": "https://open.spotify.com/track/3abjYvIGlKZGrNaM3Hw0op"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -601,20 +597,24 @@
       "url": "https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit"
     },
     {
-      "added_at": "2023-02-10 09:20:04",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Dhamaka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1pnE27pVlikgLeu4Lr8B0B"
+        "name": "Nava Manmadhudu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0"
       },
       "artists": [
         {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
         }
       ],
-      "duration_ms": 130287,
-      "name": "Pulsar Bike",
-      "url": "https://open.spotify.com/track/3abjYvIGlKZGrNaM3Hw0op"
+      "duration_ms": 214765,
+      "name": "Emannavoo",
+      "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB"
     },
     {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Jaanu",
+        "url": "https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "duration_ms": 364375,
+      "name": "Life Of Ram",
+      "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Amigos",
@@ -655,22 +671,6 @@
       "duration_ms": 281723,
       "name": "Enno Ratrulosthayi Remix Song",
       "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
-    },
-    {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Jaanu",
-        "url": "https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG"
-      },
-      "artists": [
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        }
-      ],
-      "duration_ms": 364375,
-      "name": "Life Of Ram",
-      "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "George Reddy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
-    },
-    {
       "added_at": "2023-05-04 06:50:45",
       "album": {
         "name": "18 Pages",
@@ -939,6 +923,22 @@
       "duration_ms": 252775,
       "name": "Yedurangula Vaana",
       "url": "https://open.spotify.com/track/2Q9QGlZC5J5rPeeU8oWpHX"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "George Reddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Seethamma Vakitlo Sirimalle Chettu",
-        "url": "https://open.spotify.com/album/4nbsEScX6MTTXwXFU2nAbc"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Sreerama Chandra",
-          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
-        },
-        {
-          "name": "Sirivennela Sitarama Sastry",
-          "url": "https://open.spotify.com/artist/68Xj3blh6BwkXQy26SFd3v"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Mari Antaga",
-      "url": "https://open.spotify.com/track/1VBvgXzwESW9V7DXXGSiwm"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Govindudu Andarivaadele",
         "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
       },
@@ -1161,24 +1137,28 @@
       "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Radhe Shyam",
-        "url": "https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel"
+        "name": "Seethamma Vakitlo Sirimalle Chettu",
+        "url": "https://open.spotify.com/album/4nbsEScX6MTTXwXFU2nAbc"
       },
       "artists": [
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
         },
         {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        },
+        {
+          "name": "Sirivennela Sitarama Sastry",
+          "url": "https://open.spotify.com/artist/68Xj3blh6BwkXQy26SFd3v"
         }
       ],
-      "duration_ms": 240070,
-      "name": "Ninnele",
-      "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
+      "duration_ms": 225953,
+      "name": "Mari Antaga",
+      "url": "https://open.spotify.com/track/1VBvgXzwESW9V7DXXGSiwm"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1223,6 +1203,26 @@
       "duration_ms": 271428,
       "name": "Yenno Yenno",
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Radhe Shyam",
+        "url": "https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 240070,
+      "name": "Ninnele",
+      "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
     },
     {
       "added_at": "2022-08-16 07:40:21",
@@ -1393,28 +1393,24 @@
       "url": "https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI"
     },
     {
-      "added_at": "2022-04-20 12:49:50",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Acharya",
-        "url": "https://open.spotify.com/album/1WqUN4uqBNeoMBgeyCblTv"
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL"
       },
       "artists": [
         {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
         },
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+          "name": "Pranavi",
+          "url": "https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR"
         }
       ],
-      "duration_ms": 259096,
-      "name": "Bhale Bhale Banjara",
-      "url": "https://open.spotify.com/track/1GP0KRgqPjkzG9SGuYZKZA"
+      "duration_ms": 237474,
+      "name": "Gusa Gusa Lade",
+      "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
     }
   ],
   "unique_name": "Tollywood Pearls",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Carlos Vives & Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,945 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,959 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 18 | [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 |
 | 19 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
 | 20 | [BACANO](https://open.spotify.com/track/7Bm8KAA3mcGu26Vnss7A4f) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [BACANO](https://open.spotify.com/album/6EdNPd2hYgS4AkTk1BNsS0) | 3:10 |
-| 21 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
-| 22 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
-| 23 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
+| 21 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
+| 22 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
+| 23 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
 | 24 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 25 | [Una Vida Buena](https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Una Vida Buena](https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW) | 2:10 |
 | 26 | [CRIMINAL](https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [CRIMINAL](https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB) | 3:00 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 44 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
 | 45 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 |
 | 46 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
-| 47 | [Bienvenidos a Mi Barrio](https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Bienvenidos a Mi Barrio](https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF) | 2:53 |
-| 48 | [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 |
-| 49 | [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 |
+| 47 | [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 |
+| 48 | [Bienvenidos a Mi Barrio](https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Bienvenidos a Mi Barrio](https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF) | 2:53 |
+| 49 | [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 |
 | 50 | [Espacio](https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Espacio](https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR) | 3:23 |
 
-Snapshot ID: `MCxiYzhhNGExMDU1MWEwNTg3M2E1ZGE0YjViNjU4Njg5MTI5ZWZkYTRk`
+Snapshot ID: `MCxlMGMzODAyZjJkN2I5N2Q0MDA3ZWJmYmM5NjI2M2ExODc4MThkNTEw`

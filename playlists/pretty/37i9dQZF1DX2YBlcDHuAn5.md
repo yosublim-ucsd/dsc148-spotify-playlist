@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,469 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,475 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 20 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 |
 | 21 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 22 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 |
-| 23 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 |
+| 23 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
 | 24 | [Pagan Run](https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG) | 4:33 |
-| 25 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
-| 26 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
-| 27 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
+| 25 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 |
+| 26 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
+| 27 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
 | 28 | [Today I Started Loving You Again](https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 2:36 |
 | 29 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 |
 | 30 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 36 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 |
 | 37 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 |
 | 38 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
-| 39 | [Times](https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y) | [Marlayne](https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr), [Hans Vermeulen](https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD) | [Times](https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l) | 4:04 |
-| 40 | [Dead End Street](https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi) | 2:58 |
+| 39 | [Dead End Street](https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi) | 2:58 |
+| 40 | [Times](https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y) | [Marlayne](https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr), [Hans Vermeulen](https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD) | [Times](https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l) | 4:04 |
 | 41 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 42 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 |
-| 43 | [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 |
-| 44 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
-| 45 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
+| 43 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
+| 44 | [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 |
+| 45 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 46 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 |
 | 47 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 |
 | 48 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 |
 | 49 | [Too Much Of A Woman](https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Too Much Of A Woman](https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d) | 3:13 |
 | 50 | [Driving Like A Dream Car Should](https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Driving Like A Dream Car Should](https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ) | 3:07 |
 
-Snapshot ID: `MCxhM2VjNmYyMDU1ZDg5MmY3YzliMjEzNDJmZDU5ZTJiY2ViYTFjODMy`
+Snapshot ID: `MCxlMjU3NDA2ZjMyN2UzZWE3ZmVhMTE5OTkxMzlkZWQ2MWNhOWNlNTZj`

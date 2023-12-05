@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,358 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309,253 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 46 | [ILY, HOW ARE YOU?](https://open.spotify.com/track/51sGd4PYmBWbVNMCAh3nd0) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:11 |
 | 47 | [Ready for the High](https://open.spotify.com/track/6gReaFvSI1Pabi3xE0Oh9V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:05 |
 | 48 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
-| 49 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
-| 50 | [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 |
-| 51 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
+| 49 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
+| 50 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
+| 51 | [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 |
 | 52 | [MAKEMEFEELALIVE](https://open.spotify.com/track/7AMllrhJtXgcTtJUbbF3PR) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 2:08 |
 | 53 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 |
 | 54 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 74 | [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 |
 | 75 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 |
 
-Snapshot ID: `MCwwYzUyYmVkMzkyMzlkOTc0NjI5M2FkYzE5MzYzYzcxMzEzNmMyNzcz`
+Snapshot ID: `MCxlMWU2YzhiNzU2ZGZhNjQ0Y2Y5YTY3ZGNiNTFjNGVjN2NkZTE1NGI5`

@@ -1,12 +1,12 @@
 {
   "description": "Country that made Country Cool! Cover: Martina McBride",
-  "num_followers": 1727977,
+  "num_followers": 1728217,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDIxNjE2OGYwOWZhOTNlNDNkZjA5YzRkNzM0ZmU1NGFmYzE2ZWNm",
+  "snapshot_id": "MCwwODk4ZDU3MDk4YWNjMzYyYTUwZjE1NzJhYTI1MTAwODZmYTE4Yjg3",
   "tracks": [
     {
       "added_at": "2023-12-01 19:20:57",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Dust On The Bottle",
-      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+      "duration_ms": 224666,
+      "name": "Dust On The Bottle",
+      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2023-12-01 19:20:57",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2023-12-01 19:20:57",
+      "album": {
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ"
+      },
+      "artists": [
+        {
+          "name": "Sammy Kershaw",
+          "url": "https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "She Don't Know She's Beautiful",
+      "url": "https://open.spotify.com/track/2oyS4THTUzUxT2lnHGzzIr"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Haunted Heart",
-        "url": "https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
       "artists": [
         {
-          "name": "Sammy Kershaw",
-          "url": "https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 174626,
-      "name": "She Don't Know She's Beautiful",
-      "url": "https://open.spotify.com/track/2oyS4THTUzUxT2lnHGzzIr"
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Indian Outlaw",
-      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
-    },
-    {
-      "added_at": "2023-12-01 19:20:57",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 285200,
       "name": "Fast as You",
       "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
+    },
+    {
+      "added_at": "2023-12-01 19:20:57",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Every Light In The House",
+      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Every Light In The House",
-      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
-    },
-    {
-      "added_at": "2023-12-01 19:20:57",
-      "album": {
         "name": "If I Could Make a Living",
         "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 133853,
       "name": "If I Could Make a Living",
       "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+    },
+    {
+      "added_at": "2023-12-01 19:20:57",
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Indian Outlaw",
+      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "T-R-O-U-B-L-E",
-        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
+        "name": "I Will Stand",
+        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 180160,
-      "name": "T-R-O-U-B-L-E",
-      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
+      "duration_ms": 205093,
+      "name": "She's Got It All",
+      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "I Will Stand",
-        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
+        "name": "T-R-O-U-B-L-E",
+        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 205093,
-      "name": "She's Got It All",
-      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
+      "duration_ms": 180160,
+      "name": "T-R-O-U-B-L-E",
+      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+        "name": "Honky Tonk Attitude",
+        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Life's a Dance",
-      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
+      "duration_ms": 272066,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Honky Tonk Attitude",
-        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 272066,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+      "duration_ms": 188840,
+      "name": "Life's a Dance",
+      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
+        "name": "Used To Want To Be A Cowboy",
+        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+      },
+      "artists": [
+        {
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "This Cowboy's Hat",
+      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+    },
+    {
+      "added_at": "2023-12-01 19:20:57",
+      "album": {
         "name": "Clay Walker",
         "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 260493,
       "name": "Gone Country",
       "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
-    },
-    {
-      "added_at": "2023-12-01 19:20:57",
-      "album": {
-        "name": "Used To Want To Be A Cowboy",
-        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
-      },
-      "artists": [
-        {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "This Cowboy's Hat",
-      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
-    },
-    {
-      "added_at": "2023-12-01 19:20:57",
-      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 206840,
       "name": "Wish I Didn't Know Now",
       "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
+    },
+    {
+      "added_at": "2023-12-01 19:20:57",
+      "album": {
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2023-12-01 19:20:57",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-12-01 19:20:57",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
-    },
-    {
-      "added_at": "2023-12-01 19:20:57",
-      "album": {
         "name": "Love Can Build A Bridge",
         "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 321373,
       "name": "Love Can Build A Bridge",
       "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
+    },
+    {
+      "added_at": "2023-12-01 19:20:57",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2023-12-01 19:20:57",

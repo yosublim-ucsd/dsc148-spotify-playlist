@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,441 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,455 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 40 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 41 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 42 | [VIP](https://open.spotify.com/track/3U8u7YFQvljmsBHsJWPBR3) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [i have a wing](https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14) | 3:14 |
-| 43 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
+| 43 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 |
 | 44 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 |
-| 45 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
+| 45 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 46 | [replica](https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:13 |
-| 47 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 |
+| 47 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
 | 48 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 |
 | 49 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
 | 50 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 |
 
-Snapshot ID: `MCxmMWNhNjFlNTdkNzVhMDVhZDNmMjUzMmM1ZDBjY2FmNjI2MTRiOThl`
+Snapshot ID: `MCxmZWZlMWU0MDZlOTliMTBkOGQ4ZTVmMDE3ODcyNWZkZTU2NjBmOGZk`

@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-298 songs - 16 hr 27 min
+300 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 | 2022-07-25 |  |
 | [Chill](https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Chill](https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR) | 4:03 | 2022-06-06 | 2022-07-29 |
 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 | 2022-07-25 |  |
+| [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 | 2023-12-04 |  |
 | [circle of feelings](https://open.spotify.com/track/0Zr57tyrXXfbnjejbNWwfg) | [g y l s](https://open.spotify.com/artist/5P9ZfGxqKllKQuq3xBfWSk) | [circle of feelings](https://open.spotify.com/album/3PvBRlnbO6mZSD4WwsV4c8) | 3:03 | 2022-06-06 | 2022-07-26 |
 | [Cloud](https://open.spotify.com/track/35kirOag3DTj2NZyvxfba5) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cloud](https://open.spotify.com/album/2spfiRY5MvsWFa81ZRnhp2) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [Cloud 9 \(feat\. Juan Periquet, Kakie & Cub Fuque\)](https://open.spotify.com/track/388eLgpqeex2oOj9DxKEYI) | [Luis Villanueva](https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX), [Cub Fuque](https://open.spotify.com/artist/47Vr0uma5dXBQ0nkSmqCXU), [Juan Periquet](https://open.spotify.com/artist/6zuxhwzRvx4f0Yeryu207j), [kakie](https://open.spotify.com/artist/3rMkO05Kgt99HDp4P41cbk) | [VOL\. 1 \(feat\. Kakie & Cub Fuque\)](https://open.spotify.com/album/4G4Ey7HMOteTfkYqYvcQDM) | 5:41 | 2022-06-06 | 2022-07-29 |
@@ -131,6 +132,7 @@
 | [Hollow](https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM) | [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Hollow](https://open.spotify.com/album/3MoWDXRBliC5gCdy7n6nFy) | 3:22 | 2022-06-06 | 2022-07-29 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-06-06 | 2022-07-29 |
 | [Hue](https://open.spotify.com/track/5uvmQ8YPZgdvgcK2HPG1PP) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Hue](https://open.spotify.com/album/0rPUtK4S7CrYaLK88ftb1i) | 2:52 | 2022-06-27 | 2022-07-04 |
+| [Human Nature](https://open.spotify.com/track/3t52A63M852sUyVOYWPheG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:57 | 2023-12-04 |  |
 | [I Don't Wanna Go](https://open.spotify.com/track/7tVtcdrkn4jXgRwVELs5vg) | [Route 83](https://open.spotify.com/artist/5uppePcM1uv6mrpw29yEds), [Kurt Fick](https://open.spotify.com/artist/5dYMPia3Y7276RzDi1gMSE) | [I Don't Wanna Go](https://open.spotify.com/album/6emngssZDyoa11zo4WDx7G) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [I Know \(with Timothy Adams\)](https://open.spotify.com/track/5oTJfzr9pZUL3RbjTsBqIL) | [Shyloh](https://open.spotify.com/artist/5H9CmuXeyRIyUMBbPKh2La), [Timothy Adams](https://open.spotify.com/artist/4CacRYUQWxozQ2871wJaaR) | [I Know \(with Timothy Adams\)](https://open.spotify.com/album/0vk3FXwatjbovun8nJwfUX) | 3:18 | 2022-06-06 | 2022-07-29 |
 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 | 2022-07-25 | 2022-10-13 |
@@ -244,7 +246,7 @@
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2022-07-25 | 2022-10-13 |
 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 | 2022-12-26 |  |
 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 | 2022-08-29 | 2022-10-13 |
-| [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 |  |
+| [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 | 2022-07-25 | 2023-12-05 |
 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 | 2022-07-25 |  |
 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 | 2023-09-11 |  |
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2022-07-25 |  |
@@ -286,7 +288,7 @@
 | [Vertigo](https://open.spotify.com/track/5Hje2TsqtKgPGADigZzpUr) | [Menchaca](https://open.spotify.com/artist/3DyMzyZlwWHxfuY6WJQAgf) | [Vertigo](https://open.spotify.com/album/4htIxETvvVEOUZbgaowI3Q) | 3:27 | 2022-06-06 | 2022-07-28 |
 | [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2022-06-06 | 2022-07-29 |
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-22 |  |
-| [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2022-07-25 |  |
+| [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2022-07-25 | 2023-12-05 |
 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 | 2023-01-09 |  |
 | [Want U Bad](https://open.spotify.com/track/5mk76DcUc1oQqOgcczreKB) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/5CKO535hsvwJ6DbgoWqdn9) | 3:42 | 2022-06-06 | 2023-01-07 |
 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 | 2022-07-25 |  |

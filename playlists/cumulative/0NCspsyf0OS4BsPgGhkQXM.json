@@ -5306,6 +5306,24 @@
     {
       "album": {
         "name": "Evil",
+        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
+      },
+      "artists": [
+        {
+          "name": "Doov",
+          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158235,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
+    },
+    {
+      "album": {
+        "name": "Evil",
         "url": "https://open.spotify.com/album/7ja5VOp4tMclsXAxiPsJgx"
       },
       "artists": [
@@ -8394,6 +8412,24 @@
       "duration_ms": 185520,
       "name": "I Feel Like I'm Drowning",
       "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
+    },
+    {
+      "album": {
+        "name": "I Have Places in High Friends",
+        "url": "https://open.spotify.com/album/3fqWnHKfXSh1TyYaC527Zh"
+      },
+      "artists": [
+        {
+          "name": "Adam After Hours",
+          "url": "https://open.spotify.com/artist/7k6KHl0kzO32bN1AUSeY8k"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304594,
+      "name": "I Have Places in High Friends",
+      "url": "https://open.spotify.com/track/1JngLy3zkKvhAcsM5ePodZ"
     },
     {
       "album": {
@@ -16694,6 +16730,24 @@
       "duration_ms": 237241,
       "name": "STAR MVCHINE",
       "url": "https://open.spotify.com/track/3VnxAsE1mWebpGJleOOGTj"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/2nSrsvtqiehmjkgZmU01KV"
+      },
+      "artists": [
+        {
+          "name": "ALEKO",
+          "url": "https://open.spotify.com/artist/6R5tjaHxFn7AcmWohxDP6X"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/5mToqBm5bPq6UbDT7wYuM3"
     },
     {
       "album": {

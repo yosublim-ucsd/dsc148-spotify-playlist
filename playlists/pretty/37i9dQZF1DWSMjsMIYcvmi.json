@@ -1,12 +1,12 @@
 {
   "description": "Press play, feel motivated and grind hard throughout your work day.",
-  "num_followers": 19097,
+  "num_followers": 19144,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDY3YmIzYzUwNjA4ZGZlYjdkYjY3ODcwYWM5OTNkNTAyMTgzMDll",
+  "snapshot_id": "MCxlZTI0NDEwZWVhNzE4NWRiM2E0OTI4NzdkNGQwZTUxNGFhM2FiNjFl",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Dance Monkey (Stripped Back) / Dance Monkey",
         "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
         "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Free Spirit",
         "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     }
   ],
   "unique_name": "9 to 5",

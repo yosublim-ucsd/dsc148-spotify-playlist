@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-741 songs - 1 day 7 hr 8 min
+742 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Heart in Hand](https://open.spotify.com/track/0huKJwIKDcpnZdlkYUYni9) | [Dakota Fields](https://open.spotify.com/artist/6CtFcUv9Kdu58sdYbCAt8g) | [Heart in Hand](https://open.spotify.com/album/5AvAyomaixNB3mRbdWyGti) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-05-27 | 2023-05-04 |
 | [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-05-27 |  |
-| [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-05-27 |  |
+| [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-05-27 | 2023-12-05 |
 | [Heather's Croft](https://open.spotify.com/track/1ZDPKU4OiLJoej4IFqOyHP) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Heather's Croft](https://open.spotify.com/album/74RBkn33VQFUsY4SDUqoE0) | 2:57 | 2022-05-27 | 2023-11-27 |
 | [Helgafell](https://open.spotify.com/track/1uLAimb1FsPL3K5n5f81SN) | [Agnes Ross](https://open.spotify.com/artist/6n0EoqtgCg1IHEMaU6J1ML) | [Hekla](https://open.spotify.com/album/7byhTf36ViyuDqCYmf4woy) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Help me find a way](https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Help me find a way](https://open.spotify.com/album/28W9ZCs4H4PenLaqNYYq2w) | 3:03 | 2022-05-27 | 2022-09-27 |
@@ -328,6 +328,7 @@
 | [Kallsjön](https://open.spotify.com/track/2uyPvB17vM4oxgS8FV3PJR) | [August Wester](https://open.spotify.com/artist/3uBpvuGyzQzsXcJEVVeYL0) | [Kallsjön](https://open.spotify.com/album/4udm7ZuoIBCgayXyhoV1tc) | 1:51 | 2022-05-27 | 2022-09-24 |
 | [Karlovy Vary](https://open.spotify.com/track/6UQU3rbYYESsfBcJOvZDHB) | [Maxim Pellas](https://open.spotify.com/artist/6odoEK73GIfn9uuCvcYZl4) | [Karlovy Vary](https://open.spotify.com/album/42Bm4yEdjetR7e5rxM1PDJ) | 2:24 | 2022-05-27 | 2023-11-01 |
 | [Kazimierz Dolny](https://open.spotify.com/track/272J47ncZqXTrgq31pcdMg) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Kazimierz Dolny](https://open.spotify.com/album/5Wya1DyWNDzQs2rOd6NJbt) | 1:47 | 2022-05-27 | 2022-09-24 |
+| [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Key Slip](https://open.spotify.com/track/0OHS8hN7EJ2FoqEDgWBqIQ) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Key Slip](https://open.spotify.com/album/2Ws05Ipm4kXXLazxumpjoe) | 2:33 | 2022-05-27 | 2022-09-24 |
 | [Keys of the mountains](https://open.spotify.com/track/1w3FLtV4CGE1gZCXP2NtWC) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Keys of the mountains](https://open.spotify.com/album/236fA8DlkFs1wmaA7mJEnl) | 2:08 | 2023-05-09 |  |
 | [Kokyu](https://open.spotify.com/track/5v9dmm3md5BdP2qpH0lriI) | [Mizuki Lee](https://open.spotify.com/artist/3Q4E32Z1xrz9ZrDx8pyB0y) | [Kokyu](https://open.spotify.com/album/5C72uHPlWlDljYbWxVGjhU) | 2:06 | 2022-05-27 | 2023-02-19 |

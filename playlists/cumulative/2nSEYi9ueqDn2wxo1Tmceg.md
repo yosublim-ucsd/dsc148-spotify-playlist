@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-707 songs - 2 day 0 hr 33 min
+708 songs - 2 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [It's Just A Bit Of Blood](https://open.spotify.com/track/4o9xGMKJTiNRqLiSV9ZrR6) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/6B1qz8kJ8VEnBAzVRM8UYC) | 4:46 | 2023-02-08 | 2023-03-16 |
 | [It's You](https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [It's You](https://open.spotify.com/album/68QR2RcoZoi8dMK0p0gLdm) | 4:45 | 2023-03-16 | 2023-05-04 |
 | [It's You \- Alan Braxe Remix](https://open.spotify.com/track/48tAxJPKyxs3KeIrKIzmuY) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [It's You \(Alan Braxe Remix\)](https://open.spotify.com/album/0KC0z52CypXX2vNTX8XX0h) | 4:37 | 2023-10-23 |  |
+| [It's You \- CAPYAC Remix](https://open.spotify.com/track/4Ck1cHb2gXGgzYbcH76nKp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [It's You \(CAPYAC Remix\)](https://open.spotify.com/album/0Cn5qiWz8IFJOJLW1flXUW) | 3:53 | 2023-12-04 |  |
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-03-31 | 2023-05-18 |
 | [It’s Recess Everywhere](https://open.spotify.com/track/3yNzY3oNkvXXkF5aY1vFc0) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [It’s Recess Everywhere](https://open.spotify.com/album/3UPQutwKzByCyMN3UYfxqv) | 4:49 | 2023-06-28 | 2023-08-03 |
 | [It’s Sin That's Got Its Hold Upon Us](https://open.spotify.com/track/1DoaT0yUuf9vtLO7cn7eYe) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [It’s Sin That's Got Its Hold Upon Us](https://open.spotify.com/album/1Nvsd1tvlaVTWtlMCxC7Zi) | 3:51 | 2023-10-04 | 2023-11-24 |

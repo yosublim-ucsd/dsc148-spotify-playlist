@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,775 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,831 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 20 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 |
 | 21 | [Pink Champagne](https://open.spotify.com/track/720ucZYHzfmoHxge37h8Pk) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV) | [Presenting Joe Liggins](https://open.spotify.com/album/3hszd9c8nejbnEIDwCwo3n) | 3:03 |
 | 22 | [I Don't Know](https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Presenting Willie Mabon](https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim) | 3:10 |
-| 23 | [It Hurts Me to My Heart](https://open.spotify.com/track/5zlYphxm4NbQLdwjmdedqP) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [Shake a Hand / It Hurts Me to My Heart](https://open.spotify.com/album/6EJmbWQA8saJygAAslAUVE) | 3:00 |
+| 23 | [Hurts Me to My Heart](https://open.spotify.com/track/3RqeEW3NmZUMJh7bw2aHwg) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [Teen\-Age Heart](https://open.spotify.com/album/6iPrlAwTOkbGr3iPMe8koM) | 3:01 |
 | 24 | [Smooth Sailing](https://open.spotify.com/track/6vubuLvaXL1bO4hQbAzG2E) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [Lullabies Of Birdland](https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K) | 3:06 |
 | 25 | [Hound Dog \- Big Mama Thornton](https://open.spotify.com/track/1D2Rry5X9rQefHiAgjDyzH) | [Marc Shaiman](https://open.spotify.com/artist/4A5NGno1SttXk4vB4SLGHo) | ["A Few Good Men" Soundtrack](https://open.spotify.com/album/427yEXDJIEwSyecqczfbLu) | 2:51 |
 | 26 | [Good Rockin' Daddy](https://open.spotify.com/track/2tVssyr73lk9hNQr5z7iAD) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:25 |

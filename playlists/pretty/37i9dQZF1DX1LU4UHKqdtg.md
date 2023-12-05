@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ATEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,908 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,202 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 52 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 |
 | 53 | [Grand Prix](https://open.spotify.com/track/5btc1Il6aABmVNUOjooNK8) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Grand Prix](https://open.spotify.com/album/6lriTwnKW6GIKoRYOJ2Dy9) | 3:07 |
 | 54 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 |
-| 55 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 |
+| 55 | [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 |
 | 56 | [CRIMINAL LOVE](https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [CRIMINAL LOVE](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) | 3:35 |
 | 57 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
 | 58 | [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 80 | [こんなに君を](https://open.spotify.com/track/0scTh8IQayvHhgTAC7gEsb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [こんなに君を](https://open.spotify.com/album/43HFNNbIHaLF3b7gLaQPCP) | 4:00 |
 
-Snapshot ID: `MCwxNTkzNzVlMzc3ZWM5MTBkZDg2ZGUwMmNlMGJhY2IyOTJjOGUxZmZk`
+Snapshot ID: `MCxkNmI0YWE3OWUzOTlmYTJiZjY3NGRhNGQyMjVjNTUxYmViMGE5NzVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Los nuevos clásicos para fiestear ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,565 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,592 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 20 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 21 | [Waste A Moment](https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:03 |
 | 22 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
-| 23 | [Undercover Martyn](https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:47 |
-| 24 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
-| 25 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 |
+| 23 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 |
+| 24 | [Undercover Martyn](https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:47 |
+| 25 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
 | 26 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
-| 27 | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 |
-| 28 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
+| 27 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
+| 28 | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 |
 | 29 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 | 30 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
 | 31 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 49 | [She Bangs the Drums \- Remastered](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
 | 50 | [Grace Kelly](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 3:07 |
 
-Snapshot ID: `MCxlOTkyZjNlNDU4MjEyNmU2YTgwOTQwNTU1YjRlZGE4ZTI5YjQ3ZmJl`
+Snapshot ID: `MCxjZTNjY2FiOGU2ZmIzMTlhZTMxZGZmYjg3YTkyNDJjOGJjZGE1NGIx`

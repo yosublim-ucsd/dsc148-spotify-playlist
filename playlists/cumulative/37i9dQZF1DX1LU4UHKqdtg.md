@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ATEEZ
 
-840 songs - 1 day 21 hr 52 min
+841 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-07 |  |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-12 | 2023-11-29 |
-| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 |  |
+| [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 | 2023-12-01 |  |
+| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-12-05 |
 | [Bambi](https://open.spotify.com/track/6eIUezhD3M6EAtxhQlbQ5i) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bambi](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-13 | 2022-12-24 |
 | [Bambi \- Instrumental](https://open.spotify.com/track/5Lzg5f2RPLqoQ1G78WVKFe) | [DAZBEE](https://open.spotify.com/artist/3kqdhGersPikNf9yOsjB6O) | [밤비](https://open.spotify.com/album/0zi3jrMTba0MvtIc99yjZq) | 3:23 | 2022-10-11 | 2022-10-15 |
 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 | 2023-07-07 | 2023-08-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
-  "num_followers": 134027,
+  "num_followers": 134034,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGY4NDY0ZTYxNGIzMzUyZmVlZDViNjhmN2NmOGVmZjY4MGI1MDIx",
+  "snapshot_id": "MCw1OWJiNjVjMzhmZjA5MjJkOGI1NzBiNzA5MzQyZDA3Mzk4MjRlNWVh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 129448,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Reina Leona",
         "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 187506,
       "name": "Reina Leona",
       "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "La cuarta hoja",
+        "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 163244,
+      "name": "Carretera y manta",
+      "url": "https://open.spotify.com/track/1tV4AlwNv9qM4snHDLUXbY"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "La cuarta hoja",
-        "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 163244,
-      "name": "Carretera y manta",
-      "url": "https://open.spotify.com/track/1tV4AlwNv9qM4snHDLUXbY"
+      "duration_ms": 129448,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -267,22 +267,6 @@
       "duration_ms": 160800,
       "name": "Te Conoc\u00ed Bailando",
       "url": "https://open.spotify.com/track/2HO4A7MVp34fAxn01MVoFC"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "NO HAY LEY",
-        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "NO HAY LEY",
-      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -387,6 +371,38 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "un d\u00eda en Par\u00eds",
+        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 242626,
+      "name": "un d\u00eda en Par\u00eds",
+      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Qu\u00edtate La Ropa",
         "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "un d\u00eda en Par\u00eds",
-        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 242626,
-      "name": "un d\u00eda en Par\u00eds",
-      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "\u00c1cido Sabor",
-        "url": "https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 210913,
-      "name": "\u00c1cido Sabor",
-      "url": "https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 176960,
       "name": "C\u00e1scara de Coco",
       "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "\u00c1cido Sabor",
+        "url": "https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 210913,
+      "name": "\u00c1cido Sabor",
+      "url": "https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Ya Va Pasar",
+        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "Ya Va Pasar",
+      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "El diablo en el cuerpo",
         "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
@@ -667,38 +683,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Ya Va Pasar",
-        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "Ya Va Pasar",
-      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 242445,
-      "name": "Te Queria",
-      "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "vivir en los dosmil",
         "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+      "duration_ms": 242445,
+      "name": "Te Queria",
+      "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "LALALAND",
+      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "LALALAND",
-      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 187234,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "LIBERTAD",
-        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 216961,
-      "name": "LIBERTAD",
-      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 225000,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "LIBERTAD",
+        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "LIBERTAD",
+      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "DESBARATA",
-        "url": "https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp"
+        "name": "La Caldera",
+        "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
       },
       "artists": [
         {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 166809,
-      "name": "Desbarata",
-      "url": "https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt"
+      "duration_ms": 216125,
+      "name": "Cara de Gitana",
+      "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "La Caldera",
-        "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
+        "name": "DESBARATA",
+        "url": "https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
         }
       ],
-      "duration_ms": 216125,
-      "name": "Cara de Gitana",
-      "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
+      "duration_ms": 166809,
+      "name": "Desbarata",
+      "url": "https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt"
     },
     {
       "added_at": "2023-12-01 05:01:00",

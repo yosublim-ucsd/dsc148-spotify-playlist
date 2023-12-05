@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2287,
+  "num_followers": 2292,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDQ2ZTVlOGNmMWE0MTg3MjZhYzAwZDUzYWQ2M2ZmMjI3NDU4MTM4",
+  "snapshot_id": "MCxlNzZiN2NiNjc0NDg2Y2FlNjQ0N2RhNTU2OTVkMWIwZTk5MDQ5YzVm",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "Longanis",
-      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 216270,
       "name": "Zoli mamzel (Remix 2016) [feat. Kymai, DJ Cutson & DJ Cedrik]",
       "url": "https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 209128,
+      "name": "Longanis",
+      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Music from Mauritius",
-        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
-      },
-      "artists": [
-        {
-          "name": "Denis Azor",
-          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
-        }
-      ],
-      "duration_ms": 174497,
-      "name": "Ambalaba",
-      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Main dans la main",
         "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
       },
@@ -455,30 +439,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La famille",
-        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
-        }
-      ],
-      "duration_ms": 247136,
-      "name": "Ingra",
-      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Sega Ar Pwa",
         "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
@@ -491,6 +451,22 @@
       "duration_ms": 287316,
       "name": "Sega Ar Pwa",
       "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Music from Mauritius",
+        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+      },
+      "artists": [
+        {
+          "name": "Denis Azor",
+          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
+        }
+      ],
+      "duration_ms": 174497,
+      "name": "Ambalaba",
+      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -527,18 +503,26 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+        "name": "La famille",
+        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
       },
       "artists": [
         {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
         }
       ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
+      "duration_ms": 247136,
+      "name": "Ingra",
+      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -563,6 +547,22 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "The Best of Jean-Marc Volcy",
         "url": "https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        }
+      ],
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "ZENFAN LAKAZ TOL",
         "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
-      },
-      "artists": [
-        {
-          "name": "B.I.G",
-          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Mo ti poule",
-      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 213531,
       "name": "To Kontan Koze",
       "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+      },
+      "artists": [
+        {
+          "name": "B.I.G",
+          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Mo ti poule",
+      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
     },
     {
       "added_at": "2022-08-11 10:05:16",

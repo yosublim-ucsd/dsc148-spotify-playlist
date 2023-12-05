@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these 60s and 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,373 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,426 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 33 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 |
 | 34 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 35 | [Build Me Up Buttercup \(Mono\)](https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 3:00 |
-| 36 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
-| 37 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
-| 38 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
+| 36 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
+| 37 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
+| 38 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 39 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 |
 | 40 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 |
 | 41 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 49 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
 | 50 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 |
 
-Snapshot ID: `MCwyYTlkYzU2NzQzMzY0YThkYzEwNDIyYjdkNDkwMDMzMDIyMzgwYzY0`
+Snapshot ID: `MCw4NTAwNTZhYTlmZTE4YjVhOTNjYjE3MGFiOWQyYmIyZTgxN2NjNTE3`

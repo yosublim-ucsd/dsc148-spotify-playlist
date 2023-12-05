@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,597 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,756 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 149 | [Blue](https://open.spotify.com/track/0PfurdlOZRYJ6pkrvHOkUh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:12 |
 | 150 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 
-Snapshot ID: `MCw2NzhhNTkxMWFmYjg0ZTQ2ZDRlNjA5MzFiOTBkMzRhOTJiMDNiNTk0`
+Snapshot ID: `MCxkZGRkZjUxOWY5ZjRkZjg1MWYwYjAwYTM4M2E0MzkzYTM4MTU3MGU0`

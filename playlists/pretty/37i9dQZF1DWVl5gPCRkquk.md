@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,893 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,922 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 54 | [Detour](https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG) | 3:33 |
 | 55 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
 | 56 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
-| 57 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 |
+| 57 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 | 58 | [The Wolves](https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:05 |
-| 59 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
+| 59 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 |
 | 60 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 |
 | 61 | [Anybody Else](https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 4:03 |
 | 62 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 69 | [Middle of the Morning](https://open.spotify.com/track/7LQWSJaHKYMSGmffJSujdu) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:40 |
 | 70 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 71 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
-| 72 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 |
-| 73 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 |
+| 72 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 |
+| 73 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 |
 | 74 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 |
 | 75 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 |
 | 76 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 83 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 | 84 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 85 | [I Won't](https://open.spotify.com/track/57RjBtEPLGPacFQRs4N9Ca) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't](https://open.spotify.com/album/0JY74Lv3SoBtoWWorW5j6s) | 3:18 |
-| 86 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
-| 87 | [Everyone's Moving Out East](https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:12 |
+| 86 | [Everyone's Moving Out East](https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:12 |
+| 87 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
 | 88 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 89 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
-| 90 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 |
-| 91 | [I Think Of Angels](https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 3:32 |
+| 90 | [I Think Of Angels](https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 3:32 |
+| 91 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 |
 | 92 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 93 | [How Come My Body](https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Inwards & Onwards](https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO) | 2:18 |
-| 94 | [Rattlesnake](https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Rattlesnake](https://open.spotify.com/album/5nps8HamV8gstkbUzHZxoG) | 4:56 |
-| 95 | [Alone](https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun EP](https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH) | 2:39 |
+| 94 | [Alone](https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun EP](https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH) | 2:39 |
+| 95 | [Rattlesnake](https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Rattlesnake](https://open.spotify.com/album/5nps8HamV8gstkbUzHZxoG) | 4:56 |
 | 96 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
 | 97 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 98 | [Carolina Rolling By](https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Carolina Rolling By](https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj) | 4:55 |
-| 99 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
+| 98 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
+| 99 | [Carolina Rolling By](https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Carolina Rolling By](https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj) | 4:55 |
 | 100 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 |
 
-Snapshot ID: `MCwzMjI4ZjBhNzllYWMyZWFlNzY5Nzk0NWQ5ZjczYTFjYTUyMzQwMDZj`
+Snapshot ID: `MCw2YTQxODVhNzlhMjQ0YzJhOWMyMGI2NDk4NmUyNWZmNmUxOTJiYzg3`

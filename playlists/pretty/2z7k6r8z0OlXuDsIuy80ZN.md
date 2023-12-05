@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 133,915 likes - 40 songs - 2 hr 1 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 133,988 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [CRIMINAL](https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [CRIMINAL](https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB) | 3:00 |
 | 40 | [5 estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 |
 
-Snapshot ID: `ODc2OSw4OGUxNTQ4MGNmZmQ0ZDc3ZmU1MjQ1NTZkNDM4YzQxMjVlMmNmMjQ3`
+Snapshot ID: `ODc3MywyY2E2NjMxYzg4Zjg2Y2ViMTRjYjBjMDUzMjQ5NjljZGU1MTU4MGEw`

@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 624883,
+  "num_followers": 624939,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQ1MDQ2ZDYzZTE0YTdkOThkNzlkN2M4YjI2OWZlZTQ0NjlmMzlj",
+  "snapshot_id": "MCxkZTdhZTk1ZmZmZTBjNmVmYzc4NTNhZGE5NGM1MTEzZTYzMDNmM2Ez",
   "tracks": [
     {
       "added_at": "2022-03-11 23:43:10",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Up From Below - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 306373,
       "name": "Home (2019 Remaster)",
       "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 322173,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -263,18 +263,34 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -323,22 +339,6 @@
       "duration_ms": 269893,
       "name": "All the Pretty Girls",
       "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Part Of The Light",
         "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Half The City",
         "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -827,38 +827,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -875,6 +843,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "Stronger Than That",
-      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "Stronger Than That",
+      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "The Joke",
-      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 294000,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "The Joke",
+      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "The Recordings of the Middle East",
         "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
         }
       ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1335,6 +1319,22 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "This Side of Jordan",
+        "url": "https://open.spotify.com/album/7qvtiRY9SJJaLhAOsghPhr"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "House of Stone",
+      "url": "https://open.spotify.com/track/7cpYEWqP3ayUzP8VNdMhtm"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "This Side of Jordan",
-        "url": "https://open.spotify.com/album/7qvtiRY9SJJaLhAOsghPhr"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "House of Stone",
-      "url": "https://open.spotify.com/track/7cpYEWqP3ayUzP8VNdMhtm"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Alas I Cannot Swim",
         "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 269083,
       "name": "Letter to Madeline",
       "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2022-03-11 23:43:10",

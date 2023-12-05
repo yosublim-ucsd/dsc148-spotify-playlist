@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,213 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,211 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 70 | [Nil se ina la](https://open.spotify.com/track/5zSR5MzbPGyfUztlvknkN7) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Clannad: Christ Church Cathedral](https://open.spotify.com/album/42ZTXOIsWIlHoquBMh26Ip) | 5:58 |
 | 71 | [The Auld Triangle](https://open.spotify.com/track/5dUxIdq8o7HSBDYqIEXcNR) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Irland's Nr\. 1 der Folksmusik](https://open.spotify.com/album/5I8sZOCGMCsSbR77CieNSs) | 2:56 |
 | 72 | [You're Such a Good Looking Woman](https://open.spotify.com/track/4JRDPPLROcM4Csy5rJLZK6) | [Joe Dolan](https://open.spotify.com/artist/3sebqZKFZ8aJsgQu4YaKQh) | [Legends of Irish Music: Joe Dolan](https://open.spotify.com/album/4a78TE1xzQ5w7Zkj8kwaSR) | 2:57 |
-| 73 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 3:01 |
+| 73 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 2:59 |
 | 74 | [Don't Go](https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk) | [Hothouse Flowers](https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok) | [People](https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF) | 3:49 |
 | 75 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
 | 76 | [Celebrate](https://open.spotify.com/track/7dBMNIdNLvF7cMJO1XaJe3) | [An Emotional Fish](https://open.spotify.com/artist/755vA87M6hpXKka7LbPJL8) | [Celebrate](https://open.spotify.com/album/1I5O3eLqZo3kRECx4YKlnH) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 79 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 |
 | 80 | [Nothing Compares 2 U \- Live](https://open.spotify.com/track/0s4iYgAV4SZF1Xli9PmE74) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [¡Released! The Human Rights Concerts \- An Embrace Of Hope](https://open.spotify.com/album/19JdXPQrKwjmL2rH2AfFs7) | 5:30 |
 
-Snapshot ID: `MCxmZTUzYmRkMDQxYzVmMjkxYjNmMTljZjkxN2U5NmZlOWM2MjMyY2E1`
+Snapshot ID: `MCwyYjc5MDEwMDQ4YzQ1ZWE0OGQ1OWFlMjEzN2ExZGU1MDJkY2FkM2Zh`

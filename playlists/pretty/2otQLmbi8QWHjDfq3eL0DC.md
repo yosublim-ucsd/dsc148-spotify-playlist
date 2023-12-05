@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
-### [HOUSE MUSIC 2023 \| TOP 100 DANCE HITS](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
+### [HOUSE MUSIC 2024 \| TOP 100 DANCE HITS](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2023!
+> The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2023 and 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,356,153 likes - 100 songs - 4 hr 43 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,356,179 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/track/4P4653vortdXtcHf4iXWW7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1) | 3:00 |
 | 100 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 |
 
-Snapshot ID: `MzQ3NyxjMGQ0ODBkNzMzMjlhNDQ4MjIzZjIxMDdlOTE4MTkyYjJkYzAwZjc3`
+Snapshot ID: `MzQ3OCxjN2Q4NjNlMDc2ZmM3NTY1OTcyYzYyNjViYzRhYTk4YmVkYTNhMjI3`

@@ -5784,7 +5784,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 153240,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
@@ -7716,7 +7716,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 168837,
       "name": "Denise",
       "url": "https://open.spotify.com/track/5teI9Zgk89j5MRNl6OtocU"
@@ -10592,7 +10592,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -12282,7 +12282,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
@@ -12968,7 +12968,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -17008,7 +17008,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -22284,7 +22284,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -23964,7 +23964,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 171093,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7"
@@ -24004,6 +24004,24 @@
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "album": {
@@ -30448,9 +30466,9 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 177480,
-      "name": "White Christmas",
+      "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
-  "num_followers": 173689,
+  "num_followers": 173770,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2Q3ZDM2M2IzYTkwZDM1YWJjODdkMzc5ZWJhNmZlYTI1YzllNjIz",
+  "snapshot_id": "MCxjZmFhZGVjOGQ3YTA4ZThkMDM2NjJjZWI3ZTM0MjU1MjJkYWE5Njgx",
   "tracks": [
     {
       "added_at": "2021-05-21 05:05:27",
@@ -231,22 +231,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -619,26 +619,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -671,22 +651,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Deseo Carnal",
-        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Ni t\u00fa ni nadie",
-      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -699,6 +663,42 @@
       "duration_ms": 217866,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Deseo Carnal",
+        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Ni t\u00fa ni nadie",
+      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Silueta",
-        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Palabra De Honor",
         "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 218951,
       "name": "Palabra De Honor",
       "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Silueta",
+        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 2",
         "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 195080,
       "name": "Cama y Mesa - Cama e Mesa",
       "url": "https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -847,22 +863,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "El Muchacho de los Ojos Tristes",
-      "url": "https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Completamente Tuya",
         "url": "https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g"
       },
@@ -879,18 +879,34 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+      "duration_ms": 207146,
+      "name": "El Muchacho de los Ojos Tristes",
+      "url": "https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Diez A\u00f1os Cantandole Al Amor",
+        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Este Terco Corazon",
+      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -943,22 +959,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Diez A\u00f1os Cantandole Al Amor",
-        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Este Terco Corazon",
-      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 320840,
       "name": "She Works Hard For The Money",
       "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
-        "name": "El Sonido Vol. 2",
-        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 261982,
-      "name": "Castillos",
-      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
+        "name": "Gracias Por La Musica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 333133,
+      "name": "Chiquitita - Spanish Version",
+      "url": "https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Gracias Por La Musica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
+        "name": "El Sonido Vol. 2",
+        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
         }
       ],
-      "duration_ms": 333133,
-      "name": "Chiquitita - Spanish Version",
-      "url": "https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo"
+      "duration_ms": 261982,
+      "name": "Castillos",
+      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
     },
     {
       "added_at": "2021-05-21 05:05:27",

@@ -4,7 +4,7 @@
 
 > Bask in the sound of soul, old and new.
 
-80 songs - 4 hr 52 min
+81 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2023-11-24 |  |
 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 | 2023-11-24 |  |
 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 | 2023-11-24 |  |
+| [Time To Lose](https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Outlines](https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU) | 2:50 | 2023-11-24 |  |
 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 | 2023-11-24 |  |
-| [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 | 2023-11-24 |  |
+| [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 | 2023-11-24 | 2023-12-05 |
 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2023-11-24 |  |
 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 | 2023-11-24 |  |
 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 | 2023-11-24 |  |

@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Chris Brown
 
-384 songs - 18 hr 29 min
+385 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Kizomba \(feat\. Franglish, Jonna Fraser & Unleaded\)](https://open.spotify.com/track/2yo9dRhpHG7b5AYgTGWfh5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 4:21 | 2023-06-14 | 2023-07-01 |
 | [Kleuterklas](https://open.spotify.com/track/2kMDzyjMglV9WxUjKhMg1A) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Kleuterklas](https://open.spotify.com/album/5ftpevvTQGLgSv871Fxptt) | 2:48 | 2023-06-14 | 2023-06-30 |
 | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Laat Die Hoodie Maar Hangen](https://open.spotify.com/album/4YgN9rdbto5MEEphIvVvL5) | 2:26 | 2023-06-14 | 2023-07-01 |
+| [Laatste Keer](https://open.spotify.com/track/3OBDE2Zx4u2YZYd0PUUOGp) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Laatste Keer](https://open.spotify.com/album/7rUuXDGfkkWAxDXFKTxigi) | 2:18 | 2023-12-04 |  |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-08-17 | 2023-10-13 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-02-23 | 2023-03-02 |
 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-06 | 2023-05-12 |
@@ -246,7 +247,7 @@
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-02-23 | 2023-03-28 |
 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 | 2023-03-30 | 2023-05-05 |
 | [On & On](https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:50 | 2023-03-30 | 2023-04-01 |
-| [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-25 |  |
+| [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-25 | 2023-12-05 |
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-27 | 2023-09-08 |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-08-07 | 2023-10-06 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-16 | 2023-11-03 |

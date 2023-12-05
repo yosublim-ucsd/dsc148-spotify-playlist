@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 118521,
+  "num_followers": 118559,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGE5YWQ2OGI4Nzc4Y2E1NTE1ZWU2NmJjYmY1N2FiMzA1ZTQ1MDM1",
+  "snapshot_id": "MCxhZmM5YzYwMDlkMWE3NTA5MDdlYzZmMTdjOTlhYzI3ODY2ZDJhM2Nh",
   "tracks": [
     {
       "added_at": "2023-10-13 16:37:54",
@@ -331,38 +331,6 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Abra os C\u00e9us",
-        "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 370746,
-      "name": "Majestade",
-      "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
-        "name": "S\u00f3 Faz Ajudar",
-        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 267983,
-      "name": "S\u00f3 Faz Ajudar",
-      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 285660,
       "name": "Ter Paz",
       "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
+        "name": "S\u00f3 Faz Ajudar",
+        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 267983,
+      "name": "S\u00f3 Faz Ajudar",
+      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
+        "name": "Abra os C\u00e9us",
+        "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 370746,
+      "name": "Majestade",
+      "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
+        "name": "Pra Que Eu Fosse Livre",
+        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
+      },
+      "artists": [
+        {
+          "name": "Klev",
+          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
+        }
+      ],
+      "duration_ms": 288857,
+      "name": "Pra Que Eu Fosse Livre",
+      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
         "name": "Quando o Eterno For Real",
         "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 216131,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
-        "name": "Pra Que Eu Fosse Livre",
-        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
-      },
-      "artists": [
-        {
-          "name": "Klev",
-          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
-        }
-      ],
-      "duration_ms": 288857,
-      "name": "Pra Que Eu Fosse Livre",
-      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
+        "name": "Sou o Teu Altar",
+        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Sou o Teu Altar",
+      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
         "name": "Esta\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Sou o Teu Altar",
-        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sou o Teu Altar",
-      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
         "name": "Tu \u00c9s Real",
         "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 302769,
       "name": "Tu \u00c9s Real",
       "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -883,6 +867,22 @@
       "duration_ms": 330005,
       "name": "Quem Disse? - Ao Vivo",
       "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Sua Vida Em Mim",
-        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Sua Vida Em Mim",
-      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
         "name": "Em Nome de Jesus",
         "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 307600,
       "name": "Em Nome de Jesus",
       "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado de Partir",
-        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Cora\u00e7\u00e3o Cansado de Partir",
-      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
         "name": "N\u00e3o Serei o Mesmo",
         "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 397096,
       "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
       "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cansado de Partir",
+        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Cora\u00e7\u00e3o Cansado de Partir",
+      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
     }
   ],
   "unique_name": "Revela\u00e7\u00e3o Gospel",

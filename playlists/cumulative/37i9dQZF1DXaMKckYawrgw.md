@@ -4,7 +4,7 @@
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-188 songs - 11 hr 25 min
+190 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Me cambiaste la vida](https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C) | 3:29 | 2023-03-31 |  |
 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 | 2023-02-03 |  |
 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2022-03-18 |  |
-| [Mejores Tiempos](https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [Mejores Tiempos](https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx) | 4:33 | 2022-03-18 |  |
+| [Mejores Tiempos](https://open.spotify.com/track/6TH5JYfCzgSOp7ihyMqr1Y) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [Mejores Tiempos](https://open.spotify.com/album/3sWgzBbKpZfn84Sxy5w25Y) | 4:32 | 2023-11-10 |  |
+| [Mejores Tiempos](https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [Mejores Tiempos](https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx) | 4:33 | 2022-03-18 | 2023-12-05 |
 | [Mi Chica Ideal](https://open.spotify.com/track/4VaIJ0IyODvob50CWAgYiX) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Pepe Grela](https://open.spotify.com/artist/6XENWUH8sbcMMKNf37O1eZ) | [Mi Chica Ideal](https://open.spotify.com/album/0VSazinx299J4PqvRkJZ0S) | 3:39 | 2023-08-31 |  |
 | [Mi Corazón Encantado](https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Cesar Franco](https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w) | [El Ska No Está en Extinción](https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT) | 3:58 | 2023-02-03 |  |
 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 | 2022-03-18 |  |
@@ -164,7 +165,8 @@
 | [Sol de Medianoche](https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI) | 4:10 | 2022-03-18 | 2023-02-04 |
 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 | 2022-03-18 |  |
 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 | 2023-04-21 |  |
-| [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 | 2022-03-18 |  |
+| [Somos del Barrio](https://open.spotify.com/track/6RNh1crAB3cHfdhmvqcxF3) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/2DPs2sq4ssLhLn1FwPwPnR) | 2:42 | 2023-11-10 |  |
+| [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 | 2022-03-18 | 2023-12-05 |
 | [Somos o No Somos](https://open.spotify.com/track/557Ru7PfUMmwAUfi8RHTWJ) | [LOS ADHERIDOS](https://open.spotify.com/artist/32Px2hy4FwNaG8qJSPXHbU) | [Somos o No Somos](https://open.spotify.com/album/5rx8rH5GpoW7f12VSiVaps) | 2:53 | 2023-10-13 |  |
 | [Soy Soledad](https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Soy Soledad](https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8) | 3:28 | 2022-03-25 | 2023-02-04 |
 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 | 2022-03-18 |  |

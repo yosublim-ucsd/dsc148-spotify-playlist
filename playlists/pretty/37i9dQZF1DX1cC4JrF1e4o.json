@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 383572,
+  "num_followers": 383760,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWI5OGFjNDRhMzMyNTU4N2FmZmE4M2QzYWYxZTM4YWFjNTNiMzMy",
+  "snapshot_id": "MCwzZjUyZjY4MGQwZWZlMDc4NDIxMGU2YWIwNTNmMzQzNmVlN2Q0ZDgz",
   "tracks": [
     {
       "added_at": "2023-10-24 04:44:54",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -239,22 +223,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
       },
@@ -271,18 +239,34 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -303,18 +287,34 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 141133,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -387,6 +371,38 @@
       "duration_ms": 295240,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -423,22 +439,6 @@
       "duration_ms": 190400,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
-        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 203306,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -507,18 +523,18 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "I Left My Heart In San Francisco",
-        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 170960,
-      "name": "(I Left My Heart) In San Francisco",
-      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+      "duration_ms": 165973,
+      "name": "Let There Be Love",
+      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -551,22 +567,6 @@
       "duration_ms": 155333,
       "name": "Danke Schoen",
       "url": "https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Let There Be Love",
-      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "The Genius Of Ray Charles",
         "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 164666,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 154866,
-      "name": "A Summer Place",
-      "url": "https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 197626,
       "name": "And I Love You So",
       "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 154866,
+      "name": "A Summer Place",
+      "url": "https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0"
     }
   ],
   "unique_name": "Crooner Classics",

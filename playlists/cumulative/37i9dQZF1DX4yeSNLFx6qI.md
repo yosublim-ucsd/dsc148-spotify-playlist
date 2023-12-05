@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-216 songs - 12 hr 35 min
+217 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [Si Te Vas](https://open.spotify.com/track/5NvC5LlIm7qu4Y8zEl5afq) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Peligro](https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk) | 3:07 | 2021-12-06 | 2022-02-13 |
 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 | 2021-12-06 |  |
+| [Siempre](https://open.spotify.com/track/0BEchAOL5T1QNNddI48Z6b) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 1:32 | 2023-12-01 |  |
 | [Siempre](https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN) | 1:32 | 2022-07-21 | 2023-04-14 |
 | [Siempre](https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341) | 1:32 | 2023-04-14 | 2023-12-04 |
 | [Sin Aire](https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Sin Aire](https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn) | 2:53 | 2021-12-06 | 2022-01-06 |
@@ -188,7 +189,7 @@
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-09-30 |
 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 | 2023-05-05 |  |
 | [Te miro a ti](https://open.spotify.com/track/33TPAEke4ngiWenZnNi5xq) | [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [Te miro a ti](https://open.spotify.com/album/36Kd5LZGDeE7ZhJB39J2c2) | 3:03 | 2021-12-06 | 2022-07-24 |
-| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-08-29 |  |
+| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-08-29 | 2023-12-05 |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2021-12-06 | 2023-07-22 |
 | [Te Olvidaré](https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 3:14 | 2021-12-06 | 2022-12-18 |
 | [Te Olvidaré](https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:14 | 2022-08-31 |  |

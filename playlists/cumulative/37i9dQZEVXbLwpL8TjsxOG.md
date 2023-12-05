@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-758 songs - 1 day 20 hr 56 min
+759 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 | 2023-11-22 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-02 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-13 | 2022-12-30 |
+| [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2023-12-04 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-06-12 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-11-18 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-27\* | 2021-08-08 |
@@ -309,7 +310,7 @@
 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 | 2023-10-07 | 2023-11-13 |
 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 | 2022-07-16 | 2022-08-24 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-12-04 |
-| [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-03 | 2023-12-04 |
+| [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-03 |  |
 | [ON](https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [ON](https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj) | 3:20 | 2023-10-05 |  |
 | [On my way](https://open.spotify.com/track/79letQC8rVM851Cz2ORR0z) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [On my way](https://open.spotify.com/album/2LBrOLQkQo3sisQP3v11ZT) | 5:15 | 2021-11-13 | 2022-02-13 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-03-27\* | 2021-05-29 |
@@ -536,14 +537,14 @@
 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 | 2021-08-28 | 2021-12-18 |
 | [初戀](https://open.spotify.com/track/1gGgVV7kyte91NOurgCbPo) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [初戀](https://open.spotify.com/album/3osmGX8eBAPlyeyQsYWUag) | 3:29 | 2022-05-15 | 2022-05-28 |
 | [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-05-19 | 2022-06-01 |
-| [到底發生過什麼事](https://open.spotify.com/track/1t5D0Y5VMTEISUpAZXoFpN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [X](https://open.spotify.com/album/0h1Cdmn1M3EM61yxpwRqja) | 4:19 | 2023-07-07 |  |
+| [到底發生過什麼事](https://open.spotify.com/track/1t5D0Y5VMTEISUpAZXoFpN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [X](https://open.spotify.com/album/0h1Cdmn1M3EM61yxpwRqja) | 4:19 | 2023-07-07 | 2023-12-05 |
 | [到底發生過什麼事](https://open.spotify.com/track/48yFnEAkBdOmqvhZ6NaR4U) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [到底發生過什麼事](https://open.spotify.com/album/7h9tAmlntUcHYb17Me9ge3) | 4:19 | 2022-10-25 | 2023-07-08 |
 | [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/track/5xzGrWbHvP8Qt5X4vzdlrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9), [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/album/527Jit9KyLZbnTZYoH72PJ) | 4:26 | 2023-03-27 | 2023-04-17 |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2021-09-19 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 3:19 | 2022-05-21 | 2023-01-14 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2021-11-28 | 2022-05-28 |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2023-09-30 | 2023-10-06 |
-| [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 | 2023-10-05 |  |
+| [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 | 2023-10-05 | 2023-12-05 |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2021-10-16 | 2022-03-11 |
 | [半](https://open.spotify.com/track/1QP9ug2pxr20UmbgyUlTA8) | [Jeremy Lee 李駿傑](https://open.spotify.com/artist/3aNQDIayeN5QYwx42wk9VF) | [半](https://open.spotify.com/album/1KISSK3yeJRExrmoVZVN1E) | 4:03 | 2022-02-23 | 2022-05-15 |
 | [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-01-28 | 2022-06-01 |
@@ -610,7 +611,7 @@
 | [拼命無恙 in Bb major](https://open.spotify.com/track/24tzRRz8r26gOmQB8PEZwv) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 4:01 | 2021-03-27\* | 2022-08-25 |
 | [搞不懂](https://open.spotify.com/track/4GAyYOUggQb4gxp3PGKcHc) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [搞不懂](https://open.spotify.com/album/6SspNBNITxDU3nB1izeQ24) | 3:06 | 2021-08-15 | 2022-04-09 |
 | [搞不懂 acoustic version](https://open.spotify.com/track/6I7fYI02GkZuWarRGL8MRH) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [搞不懂 acoustic version](https://open.spotify.com/album/0I7VX6tBGkz1knZZCSz62I) | 3:43 | 2021-10-08 | 2021-11-10 |
-| [擁抱後的歌](https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [擁抱後的歌](https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz) | 3:38 | 2023-07-25 | 2023-12-04 |
+| [擁抱後的歌](https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [擁抱後的歌](https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz) | 3:38 | 2023-07-25 |  |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2023-05-07 | 2023-05-27 |
 | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/track/2Z0nzG4jTLJCTx69vvrLCb) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/album/63uXlV6CWOZGDhf7SRTMzA) | 4:23 | 2022-11-13 | 2022-12-08 |
 | [救命稻草](https://open.spotify.com/track/4WBNWQZR2TCDanKIg95gpT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [救命稻草](https://open.spotify.com/album/5OlvQy8lBirp1AiU1ce8u7) | 4:21 | 2023-11-10 |  |
@@ -681,7 +682,7 @@
 | [盲婚啞嫁](https://open.spotify.com/track/0Rhz56u8K6hjzxNCGkJjhi) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [盲婚啞嫁](https://open.spotify.com/album/01V7sAkBawhdXnxjnmL9F2) | 3:43 | 2023-01-11 | 2023-02-25 |
 | [睡到三點](https://open.spotify.com/track/3J38ebFuwO7JOMItNdULOu) | [193](https://open.spotify.com/artist/4lYAh2AEuTUZsFPmuS2luG) | [睡到三點](https://open.spotify.com/album/6mQagOwuRUyqZUSQSYqds5) | 2:59 | 2021-05-22 | 2021-08-08 |
 | [砂之器](https://open.spotify.com/track/4o36qfelYYKAkPGPEQYu3u) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [砂之器](https://open.spotify.com/album/2opK4uFhMM7cLfD4OUR1Yr) | 4:57 | 2021-07-18 | 2022-01-14 |
-| [祝福](https://open.spotify.com/track/1VoTe7qVyqyMNLgZpQeugO) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:12 | 2023-12-03 |  |
+| [祝福](https://open.spotify.com/track/1VoTe7qVyqyMNLgZpQeugO) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:12 | 2023-12-03 | 2023-12-05 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-02 | 2022-11-19 |
 | [神奇之路 \(電影《媽媽的神奇小子》主題曲\)](https://open.spotify.com/track/3Kdlue3eVr9jf0Ns5wNPMj) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY), [香港兒童合唱團](https://open.spotify.com/artist/20GdoyuHyDOzJe7T2EcFqI) | [神奇之路 \(電影《媽媽的神奇小子》主題曲\)](https://open.spotify.com/album/3cQ4veFZMYoako464UeqXV) | 5:32 | 2021-08-08 | 2021-10-18 |
 | [神奇的糊塗魔藥](https://open.spotify.com/track/2Mpuy9fsafkQxX3DSow9xw) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [神奇的糊塗魔藥](https://open.spotify.com/album/4XXxhfDeaJggNFqZ9BOaS4) | 3:23 | 2021-03-27 | 2021-12-05 |

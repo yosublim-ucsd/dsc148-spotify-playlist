@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 8830,
+  "num_followers": 8883,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGYzZmY1ODQ5NGNjMTVjMGQ0YmFkNmNjMjc1ODIzZGJlNDc5YmMy",
+  "snapshot_id": "MCw0YmM3Zjg1MzBhNDI5ZmM5NDAyNzU3MDVmOGQ2OWJjYjY2MTBmMDZl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -107,26 +107,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
-      },
-      "artists": [
-        {
-          "name": "Sam Cross",
-          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
-        },
-        {
-          "name": "Kebyn Moon",
-          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
-        }
-      ],
-      "duration_ms": 115714,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Perdido en Memorias",
         "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 129882,
       "name": "Perdido en Memorias",
       "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
+      },
+      "artists": [
+        {
+          "name": "Sam Cross",
+          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
+        },
+        {
+          "name": "Kebyn Moon",
+          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
+        }
+      ],
+      "duration_ms": 115714,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Aves del Sur",
+        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 189811,
+      "name": "Aves del Sur",
+      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Cumbiero",
         "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 190000,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Aves del Sur",
-        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 189811,
-      "name": "Aves del Sur",
-      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Parque de Bugambilias",
-        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 153857,
-      "name": "Parque de Bugambilias",
-      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Floripa",
         "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 171870,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Parque de Bugambilias",
+        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 153857,
+      "name": "Parque de Bugambilias",
+      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Mindr",
-          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
-        }
-      ],
-      "duration_ms": 127586,
-      "name": "Viento de Arrabal",
-      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 124245,
       "name": "Donde Estas?",
       "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+        }
+      ],
+      "duration_ms": 127586,
+      "name": "Viento de Arrabal",
+      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "\u00d3leo sobre tela",
-        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "un atardecer a tu lado",
         "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "\u00d3leo sobre tela",
+        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Lofi Latino, Vol. 2",
         "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 138709,
       "name": "La Selva Nos Llama",
       "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Aguanc\u00f3",
-      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 112065,
       "name": "Happy To Help",
       "url": "https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Aguanc\u00f3",
+      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Mi\u00e9rcoles Azul",
+        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Monno Briceno",
+          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+        }
+      ],
+      "duration_ms": 167857,
+      "name": "Mi\u00e9rcoles Azul",
+      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -1091,22 +1111,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "Rambla Sur",
-      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Alc\u00e1zar",
         "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
       },
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Mi\u00e9rcoles Azul",
-        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Monno Briceno",
-          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
         }
       ],
-      "duration_ms": 167857,
-      "name": "Mi\u00e9rcoles Azul",
-      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
+      "duration_ms": 146933,
+      "name": "Rambla Sur",
+      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "soltarte (instrumental)",
         "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 176202,
       "name": "soltarte (instrumental)",
       "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Monstera",
-        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
+        "name": "Helado de Mango (Remix)",
+        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
       },
       "artists": [
         {
@@ -1288,17 +1288,17 @@
           "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         },
         {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
         },
         {
-          "name": "Acrylic Label",
-          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Monstera",
-      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+      "duration_ms": 141825,
+      "name": "Helado de Mango (Remix)",
+      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Acrylic Label",
+          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Ipanema Sunset",
         "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
       },
@@ -1467,30 +1491,6 @@
       "duration_ms": 108564,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Helado de Mango (Remix)",
-        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "Helado de Mango (Remix)",
-      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     }
   ],
   "unique_name": "lofi latino",

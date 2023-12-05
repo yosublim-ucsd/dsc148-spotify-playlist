@@ -1,12 +1,12 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 1032654,
+  "num_followers": 1032781,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTNhMDhiY2Y1ZjU5YTBmZWY1Y2ViZDBhOTljNDBlNTAyNjZmMjJj",
+  "snapshot_id": "MCw2OTVlYzkxMmM3NjBlZDE4MDhmMjYwY2YxOTgxN2QyMDcyNThkNmQx",
   "tracks": [
     {
       "added_at": "2023-04-11 19:14:43",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -379,26 +399,6 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 210367,
       "name": "MIA",
       "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-04-11 19:14:43",

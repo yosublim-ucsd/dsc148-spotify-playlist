@@ -1,12 +1,12 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 118063,
+  "num_followers": 118184,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTZhZGY4ZTMzYjMzOTdiZmY3NTkyNjI5NTczNmUwOWI2N2RlYmI3",
+  "snapshot_id": "MCxiNWM0ZWUxNzhlNjA5MDQ5NGRkMjkxZWQ2MzVkMDAwMzY1MzA1Zjk1",
   "tracks": [
     {
       "added_at": "2023-08-08 23:43:12",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -139,6 +155,26 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -151,6 +187,22 @@
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
+        "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 187907,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -175,54 +227,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
-        "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 187907,
-      "name": "Que Me Entierren Con La Banda",
-      "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
       },
@@ -239,22 +243,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Grandes Duetos",
-        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 178932,
-      "name": "Bandido De Amores",
-      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
+      "duration_ms": 170093,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
@@ -319,6 +335,22 @@
       "duration_ms": 176453,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -339,18 +371,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
       },
       "artists": [
         {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 170093,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -371,38 +403,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "El Cadete",
-      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -415,38 +415,6 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -467,6 +435,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Para Vivir Contigo",
         "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 155144,
       "name": "En La Barra",
       "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 157222,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Yo Vendo Unos Ojos Verdes",
         "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
@@ -583,54 +599,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Homenaje A Ramon Ayala",
-        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157222,
-      "name": "El Viejo Joven",
-      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
-        }
-      ],
-      "duration_ms": 151742,
-      "name": "Debajo De Los Laureles",
-      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "El Profeta Y Otros Caballos Famosos",
         "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
       },
@@ -647,6 +615,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Homenaje A Ramon Ayala",
+        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Amor Y L\u00e1grimas",
         "url": "https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 196487,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+        }
+      ],
+      "duration_ms": 151742,
+      "name": "Debajo De Los Laureles",
+      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Antes De Partir",
-        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 141920,
-      "name": "Lucio Vazquez",
-      "url": "https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Mi Mayor Anhelo",
         "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
-        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
+        "name": "Antes De Partir",
+        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 147514,
-      "name": "El Rey de Mil Coronas - En VIvo",
-      "url": "https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo"
+      "duration_ms": 141920,
+      "name": "Lucio Vazquez",
+      "url": "https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1075,6 +1059,22 @@
       "duration_ms": 160392,
       "name": "Que Chulos Ojos",
       "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
+        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 147514,
+      "name": "El Rey de Mil Coronas - En VIvo",
+      "url": "https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Corridos Arrolladores Vol. 1",
-        "url": "https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "El Tarasco",
-      "url": "https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Canciones Tristes Canciones",
-        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
+        "name": "Corridos Arrolladores Vol. 1",
+        "url": "https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap"
       },
       "artists": [
         {
-          "name": "Banda Roja de Jose Leon",
-          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 181498,
-      "name": "El Diablo En Una Botella",
-      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
+      "duration_ms": 189120,
+      "name": "El Tarasco",
+      "url": "https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1191,6 +1175,22 @@
       "duration_ms": 164337,
       "name": "Son las Dos de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Canciones Tristes Canciones",
+        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja de Jose Leon",
+          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "El Diablo En Una Botella",
+      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Por Las Calles Enlodadas",
-        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "El Amor No Se Vende",
-      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 196429,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Por Las Calles Enlodadas",
+        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1371,6 +1371,26 @@
       "duration_ms": 136453,
       "name": "Cuando Los Hombres Lloran",
       "url": "https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 175415,
+      "name": "Florita Del Alma",
+      "url": "https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1451,26 +1471,6 @@
       "duration_ms": 179298,
       "name": "Llegando Al Rancho",
       "url": "https://open.spotify.com/track/4eSuZPXeHth5Xlf4h4svfK"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 175415,
-      "name": "Florita Del Alma",
-      "url": "https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK"
     },
     {
       "added_at": "2023-08-08 23:43:12",

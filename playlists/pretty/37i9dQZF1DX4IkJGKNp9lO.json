@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30563,
+  "num_followers": 30574,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmE3ZDQ5ZDY0ZDM0YjAyNTJmZmVmYjQwNmJmMDIwZDI0MDBiZWFi",
+  "snapshot_id": "MCw1MGI2Y2JlY2RkOGEzOGM3ZTE3Y2JhZTNlZGFhZDQ3NzkwYzk5ZDc1",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "K\u00e4rlek och uppror",
+        "url": "https://open.spotify.com/album/0n2TPFl1JX4hWzt0iC4Dx0"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "800\u00b0",
+      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
       },
@@ -175,18 +191,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "K\u00e4rlek och uppror",
-        "url": "https://open.spotify.com/album/0n2TPFl1JX4hWzt0iC4Dx0"
+        "name": "Efter Allt",
+        "url": "https://open.spotify.com/album/3zEzsyQSqze5kbJLqjUnv4"
       },
       "artists": [
         {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+          "name": "Dia Psalma",
+          "url": "https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN"
         }
       ],
-      "duration_ms": 227333,
-      "name": "800\u00b0",
-      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz"
+      "duration_ms": 217040,
+      "name": "Luft",
+      "url": "https://open.spotify.com/track/0K6YetKSOrm4HPP1kBxtuX"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -239,22 +255,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Efter Allt",
-        "url": "https://open.spotify.com/album/3zEzsyQSqze5kbJLqjUnv4"
-      },
-      "artists": [
-        {
-          "name": "Dia Psalma",
-          "url": "https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Luft",
-      "url": "https://open.spotify.com/track/0K6YetKSOrm4HPP1kBxtuX"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY"
       },
@@ -283,6 +283,38 @@
       "duration_ms": 207160,
       "name": "Dricka Sprit Och H\u00e5lla K\u00e4ften",
       "url": "https://open.spotify.com/track/3EtDZnjDsQxkj5c54Lmvoa"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Staten & kapitalet",
+      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Gryningstid",
+        "url": "https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM"
+      },
+      "artists": [
+        {
+          "name": "Dia Psalma",
+          "url": "https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Hon F\u00e5r...",
+      "url": "https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -319,38 +351,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Gryningstid",
-        "url": "https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM"
-      },
-      "artists": [
-        {
-          "name": "Dia Psalma",
-          "url": "https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Hon F\u00e5r...",
-      "url": "https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 326400,
-      "name": "Staten & kapitalet",
-      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "MNW Klassiker - Imperiet",
         "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
       },
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Demons From the Past",
+        "url": "https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Alderland (NO)",
         "url": "https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 208202,
       "name": "Alderland (NO)",
       "url": "https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Demons From the Past",
-        "url": "https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb"
-      },
-      "artists": [
-        {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Tyst f\u00f6r fan",
-      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Kaos & Skr\u00e5l 85-87",
         "url": "https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq"
       },
@@ -591,6 +575,38 @@
       "duration_ms": 171373,
       "name": "Betongbarn",
       "url": "https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Tyst f\u00f6r fan",
+      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -627,18 +643,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+        "name": "Fr\u00e5n Fest Till Arrest",
+        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
       },
       "artists": [
         {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+          "name": "Gatans Lag",
+          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
         }
       ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
+      "duration_ms": 195200,
+      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
+      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 109800,
       "name": "En slemmig torsk",
       "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Fr\u00e5n Fest Till Arrest",
-        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
-      },
-      "artists": [
-        {
-          "name": "Gatans Lag",
-          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
-      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Med is i magen",
-        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Psykist Instabil",
-      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
         "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 174753,
       "name": "Jag l\u00e4mnar festen",
       "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Med is i magen",
+        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Psykist Instabil",
+      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
-        "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
-      "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "F\u00f6r Sverige",
         "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
       },
@@ -883,22 +867,6 @@
       "duration_ms": 205506,
       "name": "Hela hatet stormar",
       "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -931,6 +899,38 @@
       "duration_ms": 192362,
       "name": "Simpel Matematik",
       "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
+        "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
+      "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -979,6 +979,22 @@
       "duration_ms": 145520,
       "name": "Som En Doft Av Napalm",
       "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Rosita",
+        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
+      },
+      "artists": [
+        {
+          "name": "The Manikins",
+          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
+        }
+      ],
+      "duration_ms": 190976,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Rosita",
-        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
-      },
-      "artists": [
-        {
-          "name": "The Manikins",
-          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
-        }
-      ],
-      "duration_ms": 190976,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "I All Hast",
         "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
       },
@@ -1107,6 +1107,38 @@
       "duration_ms": 167266,
       "name": "Mitt Sista Andetag",
       "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Tidens tempo",
+      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Pyramiden",
+        "url": "https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Pyramiden",
+      "url": "https://open.spotify.com/track/7GbwZ7jTR2w4G4GekS9OHa"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1143,38 +1175,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Pyramiden",
-        "url": "https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Pyramiden",
-      "url": "https://open.spotify.com/track/7GbwZ7jTR2w4G4GekS9OHa"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 78800,
-      "name": "Jag vill bli som far",
-      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Urs\u00e4kta r\u00f6ran - vi river allt",
         "url": "https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Tretton \u00d6vningar i Mindfulness",
-        "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
-      },
-      "artists": [
-        {
-          "name": "EPA",
-          "url": "https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj"
-        }
-      ],
-      "duration_ms": 160148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Becksvart",
         "url": "https://open.spotify.com/album/10j4eMKww3Vibu641umgr5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 162880,
       "name": "B\u00f6rja om",
       "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Tretton \u00d6vningar i Mindfulness",
+        "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
+      },
+      "artists": [
+        {
+          "name": "EPA",
+          "url": "https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj"
+        }
+      ],
+      "duration_ms": 160148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
     }
   ],
   "unique_name": "Svensk Punk",

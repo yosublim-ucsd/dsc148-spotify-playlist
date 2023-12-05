@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:عبدالعزيز المعنى
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,376 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,402 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 |
 | 50 | [Shof Galbi](https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK) | [Eman AlShmety](https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd) | [Shof Galbi](https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf) | 3:49 |
 
-Snapshot ID: `MCwxNTlmYzQ3MmI0YTViODVmOWQ0Y2YzNDgyMTRhMzYyNGE5NjVhODY2`
+Snapshot ID: `MCw5NjdiMjNlYTZkMjMzOGNjM2EyMGMyNmYwNWFiZGVlZDVmM2Y5MzQ0`

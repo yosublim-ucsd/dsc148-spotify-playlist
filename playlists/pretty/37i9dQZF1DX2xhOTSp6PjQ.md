@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=V68FwFkMQsKXISH2sL7BdA">Inkos'yamagcokama</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,697 likes - 55 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,989 likes - 55 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 54 | [Ngeke Ungiphathe](https://open.spotify.com/track/2g1yV6PlYp2qYOdP6K2ui4) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Ngeke Ungiphathe](https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM) | 4:40 |
 | 55 | [Ujola Wedwa](https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Imeya KaZwelonke](https://open.spotify.com/artist/3zl4AeNCAnBdEVhjNt0PNQ) | [Fortaleza De Sol](https://open.spotify.com/album/4qp4clBnx37iNwbKlfNlzK) | 3:21 |
 
-Snapshot ID: `MCwyNDU2Y2JiZTFkOWNkOGQyOWNiNjFlZjEzZmY0ZWI0ODVjMzcwZDVm`
+Snapshot ID: `MCxjYTEwMzgyZTA5MWZkNDEyMDZhNjA2YWE1OTQzMTJjMTQ0MDQxYmE3`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 80. \n\n",
-  "num_followers": 122889,
+  "num_followers": 123105,
   "original_name": "Rock en Espa\u00f1ol: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDYxMjZiNzBmMzE2ZjQ0NjE4NjNiOThjODYxMmMzMjZmNGRiNDEw",
+  "snapshot_id": "MCwxOTRhODFmOGE1M2Y2NjU2NGZlMTA1OTY0MDY3NTVhNmM0OGRkN2E3",
   "tracks": [
     {
       "added_at": "2022-03-29 18:50:52",
@@ -235,38 +235,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Solos en Am\u00e9rica",
-        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "Cuando Seas Grande",
-      "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -283,18 +251,18 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+        "name": "Solos en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
         }
       ],
-      "duration_ms": 184080,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+      "duration_ms": 265706,
+      "name": "Cuando Seas Grande",
+      "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -347,8 +315,24 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 292573,
-      "name": "Nada Personal - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/4PBou1i63krEp3jKCPhxVD"
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -411,6 +395,22 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
       },
@@ -459,18 +459,34 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+      "duration_ms": 266826,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Nada Personal - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/4PBou1i63krEp3jKCPhxVD"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -491,70 +507,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 271400,
-      "name": "Perd\u00ed Mi Ojo de Venado",
-      "url": "https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "Doble Vida (Remastered)",
-        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "En La Ciudad De La Furia - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Venezia",
-      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Canciones",
         "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
       },
@@ -567,6 +519,22 @@
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 271400,
+      "name": "Perd\u00ed Mi Ojo de Venado",
+      "url": "https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -599,6 +567,22 @@
       "duration_ms": 225764,
       "name": "Paramar",
       "url": "https://open.spotify.com/track/6YbjZUR8F5ewBI1kHaIA1G"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -655,6 +639,22 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -667,54 +667,6 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 287605,
-      "name": "Sexo",
-      "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "No Me Dejan Salir",
-      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "30 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
-      },
-      "artists": [
-        {
-          "name": "Los Toreros Muertos",
-          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Yo No Me Llamo Javier",
-      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -735,6 +687,54 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 287605,
+      "name": "Sexo",
+      "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "30 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+      },
+      "artists": [
+        {
+          "name": "Los Toreros Muertos",
+          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Yo No Me Llamo Javier",
+      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -747,38 +747,6 @@
       "duration_ms": 265626,
       "name": "Por el Resto",
       "url": "https://open.spotify.com/track/2tgUxOJHTjFxKHmfhyZGuS"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
-        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 248225,
-      "name": "La Voz de los '80",
-      "url": "https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -811,6 +779,38 @@
       "duration_ms": 269813,
       "name": "Llamame, Si Me Necesitas",
       "url": "https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Musica De Contrabando",
+        "url": "https://open.spotify.com/album/73HchWHWCwNldGE8cFDfuS"
+      },
+      "artists": [
+        {
+          "name": "Danza Invisible",
+          "url": "https://open.spotify.com/artist/1MK9J20Op7jFgUDbLiy6m2"
+        }
+      ],
+      "duration_ms": 297960,
+      "name": "Sin aliento",
+      "url": "https://open.spotify.com/track/3jAgeQ5AmuV7UWhdvP651Y"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol: Los 80",

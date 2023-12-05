@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 
 > Get ready for good feels and fireworks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,349 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,339 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 17 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
 | 18 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 19 | [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 |
-| 20 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
-| 21 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
+| 20 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
+| 21 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
 | 22 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
 | 23 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
 | 24 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
@@ -43,19 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 33 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
 | 34 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 35 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
-| 36 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
-| 37 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
+| 36 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
+| 37 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 38 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
 | 39 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
 | 40 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 |
-| 41 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
-| 42 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
+| 41 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
+| 42 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
 | 43 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
 | 44 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
-| 45 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
-| 46 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
-| 47 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
-| 48 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
+| 45 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
+| 46 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
+| 47 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
+| 48 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 49 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
 | 50 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 51 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 71 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 72 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
 | 73 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
-| 74 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
-| 75 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
+| 74 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
+| 75 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
 
-Snapshot ID: `MCwzMGZmYjE5MjI5OTljMDZlY2Q5YWI5NGZkNTZmMjY5ZDE0Yjk2NmEy`
+Snapshot ID: `MCxiMDM5MzY4ZDM0ZGQzYjc3ZDY1NmE3NjhmYjI0N2JkYWNkMjBkNmQz`

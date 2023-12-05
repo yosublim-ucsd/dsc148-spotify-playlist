@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-169 songs - 9 hr 20 min
+170 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Don](https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:03 | 2023-07-14 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2023-07-14 | 2023-10-24 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2023-07-14 | 2023-10-24 |
+| [Donde digan las estrellas](https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Gonzalo Hermida](https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or) | [Donde digan las estrellas](https://open.spotify.com/album/688zCqVZX3ZJGjvaD8DiTY) | 3:32 | 2023-12-01 |  |
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2023-07-14 | 2023-10-24 |
 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 | 2023-07-14 | 2023-10-24 |
 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 | 2023-10-23 |  |
@@ -123,7 +124,7 @@
 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 | 2023-10-23 |  |
 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 | 2023-10-23 |  |
 | [Otra Mujer](https://open.spotify.com/track/2MRj3T1qeAKspLcjFdGKHB) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Otra Mujer](https://open.spotify.com/album/67rdsQqry27ufPGMjAi6ol) | 3:21 | 2023-07-14 | 2023-10-24 |
-| [Otro Lado](https://open.spotify.com/track/7MIvQKZ714X6urIoeZP77O) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:57 | 2023-10-23 |  |
+| [Otro Lado](https://open.spotify.com/track/7MIvQKZ714X6urIoeZP77O) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:57 | 2023-10-23 | 2023-12-05 |
 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 | 2023-10-23 |  |
 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 | 2023-11-24 |  |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2023-07-14 | 2023-10-24 |

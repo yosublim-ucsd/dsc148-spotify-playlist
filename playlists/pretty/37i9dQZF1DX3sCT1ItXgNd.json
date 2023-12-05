@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: i\u00f1igo quintero",
-  "num_followers": 991110,
+  "num_followers": 991164,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGUzMTU3ZmNhMzQ2MzFmODIxYmUwM2MxYmRiNjMwOGU2MmJiOGJj",
+  "snapshot_id": "MCxjN2Y3OTIxYWY2Y2EzMmU2MjZjOWI5MDlmZGNjODMzNDg0NmMyZDkz",
   "tracks": [
     {
       "added_at": "2023-11-30 23:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "No te enamores de \u00e9l",
-        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "Sobredosis",
         "url": "https://open.spotify.com/album/2CnZQxtqXpbo7qgbLuU0sd"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 156560,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/6TTkgmwbCnz8Y4oiUdzmtD"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "No te enamores de \u00e9l",
+        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -587,6 +587,26 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 205027,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
         "url": "https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 163401,
       "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 205027,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Me Enamoro",
+      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "Hablando En Plata",
         "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Me Enamoro",
-      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "cuando salto me duele",
         "url": "https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 189913,
       "name": "cuando salto me duele",
       "url": "https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -823,6 +807,22 @@
       "duration_ms": 164765,
       "name": "GOOD DAY (feat. Camidoh)",
       "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "Toxic Christmas",
+        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Toxic Christmas",
+      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Toxic Christmas",
-        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
+        "name": "Lugar Para\u00edso",
+        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Toxic Christmas",
-      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -963,22 +979,6 @@
       "duration_ms": 162500,
       "name": "En el mismo bar",
       "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Lugar Para\u00edso",
-        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
     },
     {
       "added_at": "2023-11-30 23:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Gabito Ballesteros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,067,340 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,069,724 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 49 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
 | 50 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 |
 
-Snapshot ID: `MCxmMjg4ZDBhMzMwYTYyYjFhNGEzZGZjYWMwMDBlNmJjYzg4M2ZiMDQ5`
+Snapshot ID: `MCw5MWQ5N2VkMzFkYWYwZWUwZjdmMjkzNmQxYzc4NTVjZTY5YTkzYjQ5`

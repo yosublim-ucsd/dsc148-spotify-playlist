@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1527851,
+  "num_followers": 1527738,
   "original_name": "Sommerhits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2UyMzBkY2EwNTY5ZGE4NWIxMTY1Mzc2YmQzMmZkNGRmM2E4YWFh",
+  "snapshot_id": "MCw3NGU0NjdhYjlhMDZjZTdiMmEwNmRiNDNkMmMzM2YzNGM3YWZlZmUx",
   "tracks": [
     {
       "added_at": "2023-09-13 13:59:55",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 155076,
       "name": "Phone",
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1139,6 +1139,30 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Cynical (MistaJam Remix)",
+        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
       },
@@ -1171,30 +1195,6 @@
       "duration_ms": 162352,
       "name": "About You Now (How I Feel)",
       "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
-        "name": "Cynical (MistaJam Remix)",
-        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
     },
     {
       "added_at": "2023-09-13 13:59:55",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 139422,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -1355,6 +1335,26 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-13 13:59:55",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "One with the Wolves",
-      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
-    },
-    {
-      "added_at": "2023-09-13 13:59:55",
-      "album": {
         "name": "Slow Low",
         "url": "https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 184364,
       "name": "Slow Low",
       "url": "https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO"
+    },
+    {
+      "added_at": "2023-09-13 13:59:55",
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "One with the Wolves",
+      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
     },
     {
       "added_at": "2023-09-13 13:59:55",

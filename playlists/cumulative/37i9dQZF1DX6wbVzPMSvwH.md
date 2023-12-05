@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-120 songs - 7 hr 33 min
+122 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Benderang!](https://open.spotify.com/track/7MMFSId5CetQIUqgdPXL6u) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Benderang!](https://open.spotify.com/album/6wbdYt8vMTWRpa5VVWevGM) | 4:48 | 2022-12-13 | 2023-08-09 |
 | [Berdua Bersama](https://open.spotify.com/track/37uQDKOul7QOmRFB6kiYyO) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Berdua Bersama](https://open.spotify.com/album/4WQIR3oZmS5ubTvFAqZiiV) | 3:38 | 2022-12-13 |  |
 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 | 2023-09-20 |  |
+| [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2023-12-04 |  |
 | [Bersamamu](https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:05 | 2022-12-13 | 2023-03-31 |
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |
 | [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-09-20 |  |
@@ -59,7 +60,7 @@
 | [Inikah Cinta](https://open.spotify.com/track/7r5qxtubYpPXYNSLX8CoGr) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [Inikah Cinta](https://open.spotify.com/album/77q9eYQmTvAbuAWRLM1eof) | 3:45 | 2022-12-13 |  |
 | [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-02-23 | 2023-04-18 |
 | [johnny forever](https://open.spotify.com/track/4l7TIfpqpWwQXHAkugf03E) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [johnny forever](https://open.spotify.com/album/6ontGIRczEhO0Tgsdf5cpi) | 3:12 | 2022-12-13 | 2023-06-08 |
-| [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 | 2022-12-13 |  |
+| [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 | 2022-12-13 | 2023-12-05 |
 | [Just For You](https://open.spotify.com/track/4pNSeZ3zFtBH0vmlCuhGyd) | [Stefaldo](https://open.spotify.com/artist/3Tc2unuhdKex8NKaXdFrni), [Gess Gerald](https://open.spotify.com/artist/63UF0ZF1mHyyRINKgFPRCF) | [Just For You](https://open.spotify.com/album/1ae8gFk03PTdu3HQsGHITe) | 3:27 | 2022-12-13 | 2023-03-31 |
 | [Kala Cinta Menggoda](https://open.spotify.com/track/4bYc6nyol1jKnCTUYtcr2E) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [My Love](https://open.spotify.com/album/1JGRzUgWJcj0mlgqsfiPGt) | 5:19 | 2023-03-22 | 2023-04-01 |
 | [Kala Cinta Menggoda](https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Chrisye "Untukku"](https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8) | 5:20 | 2023-07-13 |  |
@@ -67,6 +68,7 @@
 | [Kala Cinta Menggoda](https://open.spotify.com/track/2Lrl5kEt5tuD1s5NZxMoC0) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Kidung Abadi](https://open.spotify.com/album/4Mw0OMk9TKpUHCkFQ9Tej5) | 5:25 | 2023-03-30 | 2023-04-20 |
 | [Kala Cinta Menggoda \- When Love Seduces](https://open.spotify.com/track/06appkVEXqR9RY21CUWX7U) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Best Cinta \(Best Love\)](https://open.spotify.com/album/28ixVAc7oL2MC29F4Zpial) | 5:17 | 2023-04-17 | 2023-08-17 |
 | [Kamulah Satu\-Satunya](https://open.spotify.com/track/7qd2gICEYvgNJvYFWmDzA1) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Kamulah Satu\-Satunya](https://open.spotify.com/album/5yG5winkGz0uJNUofbpaiH) | 4:01 | 2022-12-13 |  |
+| [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2023-12-04 |  |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-12-13 | 2023-08-09 |
 | [Kehilangan](https://open.spotify.com/track/7IgGkjE5Ceph27pn47pAmr) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Kehilangan](https://open.spotify.com/album/5eW6letl2iRvCaFXkSgZVF) | 4:13 | 2023-06-20 |  |
 | [Khayalan Tingkat Tinggi](https://open.spotify.com/track/2hh76rbGThjiPE1vUVa9Lg) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Khayalan Tingkat Tinggi](https://open.spotify.com/album/0zjNUO3CQhuWDYZIeKT4l7) | 3:05 | 2023-07-06 |  |
@@ -117,7 +119,7 @@
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-11-14 |  |
 | [Teman Sejati](https://open.spotify.com/track/0GUJBGR3LfZPYi0jnLLV7l) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [CERITERA](https://open.spotify.com/album/3GXsFGyViN6r1JYvuHYYSG) | 3:39 | 2022-12-13 |  |
 | [Terbanglah Lepas](https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf), [Parlemen Pop](https://open.spotify.com/artist/4GPfmTXPBtz1eIdrdNOB3e) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:53 | 2022-12-13 | 2023-06-08 |
-| [Terdiam](https://open.spotify.com/track/3eEC4ad1GlR6eOiU06Hcuu) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Terdiam](https://open.spotify.com/album/68PWcMgXQ3nV0rHPk6GbLt) | 3:06 | 2022-12-13 |  |
+| [Terdiam](https://open.spotify.com/track/3eEC4ad1GlR6eOiU06Hcuu) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Terdiam](https://open.spotify.com/album/68PWcMgXQ3nV0rHPk6GbLt) | 3:06 | 2022-12-13 | 2023-12-05 |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2022-12-13 |  |
 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 | 2023-05-18 |  |
 | [The One \(feat\. Kara Chenoa\)](https://open.spotify.com/track/7AIXWUhYM5i1MrHOL28ef5) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [The One \(feat\. Kara Chenoa\)](https://open.spotify.com/album/3vxu37rHw5dnzi5Vb0I3jQ) | 3:46 | 2023-03-02 |  |

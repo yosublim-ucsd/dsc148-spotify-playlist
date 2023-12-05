@@ -4,7 +4,7 @@
 
 > canzoni felici italiane e internazionali per un autunno preso bene ☀️
 
-339 songs - 17 hr 2 min
+340 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Karma](https://open.spotify.com/track/5ROYn3uDIeZxs0KOIIkBmS) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Touché](https://open.spotify.com/album/2cIE6KJUfa7sKRviZRjtDL) | 2:44 | 2022-05-16 | 2022-06-11 |
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-01 | 2022-10-13 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2022-05-06 |  |
-| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-16 |  |
+| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-16 | 2023-12-05 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-02 | 2022-09-24 |
 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 | 2022-05-06 | 2022-10-15 |
 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2022-10-13 |  |
@@ -284,6 +284,7 @@
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-05-06 | 2022-09-24 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-27 | 2022-10-21 |
 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-03-01 | 2023-06-10 |
+| [Si, ah](https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Regardez moi](https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd) | 2:52 | 2023-11-24 |  |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-10-05 | 2022-10-22 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-21 | 2022-08-19 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-12 |  |

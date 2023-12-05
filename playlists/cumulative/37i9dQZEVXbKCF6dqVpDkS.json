@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -6130,7 +6130,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -9664,7 +9664,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -9726,7 +9726,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
@@ -10296,7 +10296,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 195859,
       "name": "Hier Mag Alles",
       "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
@@ -14006,7 +14006,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -15620,7 +15620,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -15754,7 +15754,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 174690,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB"
@@ -21802,7 +21802,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 203437,
       "name": "Stiekem",
       "url": "https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em"
@@ -23134,7 +23134,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 272709,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh"
@@ -25295,6 +25295,28 @@
     },
     {
       "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55453,
+      "name": "Wie Komt Er Alle Jaren",
+      "url": "https://open.spotify.com/track/4Xvq0McZanuNuROuA6IsQb"
+    },
+    {
+      "album": {
         "name": "Toxic Survival Pack",
         "url": "https://open.spotify.com/album/3oJ4RSyj040xw5TPAF3Lqh"
       },
@@ -25484,7 +25506,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

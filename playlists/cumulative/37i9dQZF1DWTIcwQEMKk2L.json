@@ -287,6 +287,42 @@
     },
     {
       "album": {
+        "name": "Before last month",
+        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
+      },
+      "artists": [
+        {
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124238,
+      "name": "Before last month",
+      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
+    },
+    {
+      "album": {
+        "name": "Box Of Photos",
+        "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
+      },
+      "artists": [
+        {
+          "name": "Alfie Walker",
+          "url": "https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149495,
+      "name": "Box Of Photos",
+      "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
+    },
+    {
+      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -676,7 +712,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 282824,
       "name": "Home",
       "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 158000,
       "name": "Mind Wide Open",
       "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
@@ -1080,6 +1116,24 @@
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+    },
+    {
+      "album": {
+        "name": "Never Blame The Young Ones",
+        "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
+      },
+      "artists": [
+        {
+          "name": "Alan Leon",
+          "url": "https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138823,
+      "name": "Never Blame The Young Ones",
+      "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
     },
     {
       "album": {
@@ -1718,7 +1772,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"

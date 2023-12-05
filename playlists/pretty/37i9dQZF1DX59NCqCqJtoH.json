@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1173022,
+  "num_followers": 1173126,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjNiNzQwNDg4OTE3MzY5NTFlZGU3ZjBjNTIyYzNiNDE2ZDNjMDk3",
+  "snapshot_id": "MCwyODQyN2M1ZjBmOWY2NzRjNTk3Zjc2Y2ExYmFhYjFjNzViYWY3OTk1",
   "tracks": [
     {
       "added_at": "2023-11-09 23:50:22",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Trauma",
-        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "How To Kill A Rockstar",
         "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 154756,
       "name": "Hate Me!",
       "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Rabbit Hearted.",
-        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 198807,
-      "name": "Silly Girl",
-      "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Rabbit Hearted.",
+        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 198807,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 166631,
+      "name": "Hollow Prayers",
+      "url": "https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 166631,
-      "name": "Hollow Prayers",
-      "url": "https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -855,22 +855,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "is your bedroom ceiling bored? (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
       "artists": [
         {
-          "name": "Sody",
-          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 207509,
-      "name": "is your bedroom ceiling bored? (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
+      "duration_ms": 197513,
+      "name": "Sorry for Me",
+      "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -891,18 +887,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+        "name": "is your bedroom ceiling bored? (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 197513,
-      "name": "Sorry for Me",
-      "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
+      "duration_ms": 207509,
+      "name": "is your bedroom ceiling bored? (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "I even told my mom about u",
         "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2023-10-16 20:29:38",
@@ -1295,6 +1279,38 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
@@ -1307,6 +1323,22 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
+      },
+      "artists": [
+        {
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1331,34 +1363,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
+        "name": "If I Really Love You",
+        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
       },
       "artists": [
         {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         }
       ],
-      "duration_ms": 178303,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+      "duration_ms": 194754,
+      "name": "If I Really Love You",
+      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1375,22 +1391,6 @@
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "If I Really Love You",
-        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "If I Really Love You",
-      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 238881,
       "name": "Pyjama Pants",
       "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 166389,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "grim",
         "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 134885,
       "name": "fragment",
       "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 166389,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
     },
     {
       "added_at": "2023-09-29 20:20:52",

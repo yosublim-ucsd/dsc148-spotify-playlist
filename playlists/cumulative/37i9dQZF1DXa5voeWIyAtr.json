@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "album": {
         "name": "Abcdario",
         "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 160386,
       "name": "Dif\u00edcil Tu Caso",
       "url": "https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2"
@@ -1045,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
         "name": "La Mamoncita del Insta",
         "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
       },
@@ -1230,7 +1266,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 162061,
       "name": "Mal Hombre",
       "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
@@ -2052,6 +2088,24 @@
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212563,
+      "name": "Pudiste Pero No Quisiste",
+      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
     },
     {
       "album": {
@@ -2976,7 +3030,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"

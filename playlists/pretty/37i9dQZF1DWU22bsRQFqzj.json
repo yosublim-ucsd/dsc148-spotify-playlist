@@ -1,12 +1,12 @@
 {
   "description": "La musica \u00e8 la tua marcia in pi\u00f9! \ud83c\udfc3 Hit dance e pop per le tue sessioni di cardio.",
-  "num_followers": 93121,
+  "num_followers": 93184,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWMyOTE1YzUzNjFkZmE4ZWNjZTM5ZWQ5ZTgzZTgzN2RjMjM2MjBi",
+  "snapshot_id": "MCwzODRlN2YyODI5N2M3ODY1NDUzODIxMzJjZWMxMDdhYzY2YjAyOWE4",
   "tracks": [
     {
       "added_at": "2023-11-24 11:58:23",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -443,6 +443,26 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
         "name": "Work With My Love",
         "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 134880,
-      "name": "All Nighter",
-      "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -939,26 +959,6 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo"
       },
@@ -975,6 +975,30 @@
       "duration_ms": 128371,
       "name": "Astronaut In The Ocean - Alok Remix",
       "url": "https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
+        "name": "Turn Me On (feat. Vula)",
+        "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Vula",
+          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
+        }
+      ],
+      "duration_ms": 208473,
+      "name": "Turn Me On (feat. Vula)",
+      "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -1015,30 +1039,6 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
-        "name": "Turn Me On (feat. Vula)",
-        "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Vula",
-          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
-        }
-      ],
-      "duration_ms": 208473,
-      "name": "Turn Me On (feat. Vula)",
-      "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
         "name": "BREAK MY SOUL",
         "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 136189,
       "name": "Like Wooh Wooh - Radio Edit",
       "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -1235,6 +1235,30 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
+        "name": "Cynical (MistaJam Remix)",
+        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
         "name": "Wasted Love (feat. Lagique)",
         "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
       },
@@ -1251,26 +1275,6 @@
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "added_at": "2023-11-24 11:58:23",
@@ -1295,6 +1299,26 @@
     {
       "added_at": "2023-11-24 11:58:23",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2023-11-24 11:58:23",
+      "album": {
         "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
         "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 176500,
       "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
       "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
-    },
-    {
-      "added_at": "2023-11-24 11:58:23",
-      "album": {
-        "name": "Cynical (MistaJam Remix)",
-        "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
     },
     {
       "added_at": "2023-11-24 11:58:23",

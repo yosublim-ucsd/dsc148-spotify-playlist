@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Yami Safdie
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,723 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,806 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 |
 | 100 | [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 |
 
-Snapshot ID: `MCxjNTExYjlkOTc4MTVkYjAwNTc3MGE1YjEzMzczYmIyMjI0MmRlZTlm`
+Snapshot ID: `MCw2NmEwZGVhYjAzNTRkYTY0YTZmYzQ2Y2Y2YTJiODZmMDA2NjhjMjRj`

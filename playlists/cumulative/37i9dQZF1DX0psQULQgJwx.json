@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Closeness",
+        "url": "https://open.spotify.com/album/6uSckUQYGKZ4LCdK9uHYZM"
+      },
+      "artists": [
+        {
+          "name": "Amat Leony",
+          "url": "https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182955,
+      "name": "Closeness",
+      "url": "https://open.spotify.com/track/54fl7LXaGnQAyT0OIB8I5X"
+    },
+    {
+      "album": {
         "name": "Conscious Journey",
         "url": "https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb"
       },
@@ -2156,6 +2174,24 @@
       "duration_ms": 228200,
       "name": "Wild Rhythms",
       "url": "https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T"
+    },
+    {
+      "album": {
+        "name": "World of a Heartbeat",
+        "url": "https://open.spotify.com/album/7rBBFwmvUjiLo1CW1FKO2K"
+      },
+      "artists": [
+        {
+          "name": "Posonium",
+          "url": "https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158202,
+      "name": "World of a Heartbeat",
+      "url": "https://open.spotify.com/track/3p2tDKPJTQmH2hvu4vGGoO"
     },
     {
       "album": {

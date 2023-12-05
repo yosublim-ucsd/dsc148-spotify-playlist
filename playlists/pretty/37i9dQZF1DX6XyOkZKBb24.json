@@ -1,12 +1,12 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 143624,
+  "num_followers": 143814,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjdkYzU0NDdiZTA0N2I5Njg5MGY3ZDE3YjJiYzc2NDQzZWZmOGRi",
+  "snapshot_id": "MCw1N2UwNTRlOWQ5MTU4N2Y2OWRhMGFjYmFjZDJjNDk5MWE2N2JlYThm",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -305,38 +305,6 @@
       "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 195097,
-      "name": "this is me trying",
-      "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
-    },
-    {
       "added_at": "2023-11-17 05:01:00",
       "album": {
         "name": "Solo",
@@ -351,6 +319,22 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -387,6 +371,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 195097,
+      "name": "this is me trying",
+      "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "New Year\u2019s Day",
-      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 231120,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250597,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 239786,
       "name": "I'm with You",
       "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224585,
-      "name": "Put A Little Love On Me",
-      "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
     },
     {
       "added_at": "2023-11-10 05:00:00",

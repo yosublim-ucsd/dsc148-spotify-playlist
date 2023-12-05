@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,259 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,311 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Outta Yours](https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Outta Yours](https://open.spotify.com/album/3Vqv2NAL8cwafr0YvVLdqI) | 2:58 |
 | 75 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
 
-Snapshot ID: `MCw0MDgyODZiMzMyNzcxNTNkMGUyMzVkMmU2MTExMTg0YzllYWI1YjAz`
+Snapshot ID: `MCwwMGE5NzQ4NWRlZTlhYjA3YjZjYzFhMmRhYzU2OTMwMjgwNjU0YzBk`

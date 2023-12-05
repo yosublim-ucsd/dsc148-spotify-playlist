@@ -4,7 +4,7 @@
 
 > Today's best pop to fuel your gaming\. Cover: BoyWithUke
 
-328 songs - 16 hr 21 min
+329 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2022-11-11 |  |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2022-02-04 | 2022-04-16 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-04-15 | 2023-01-17 |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-10-27 |  |
 | [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-10-27 | 2023-11-30 |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2022-02-11 | 2022-04-21 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-10-22 |  |
@@ -262,7 +263,7 @@
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-11-20 |  |
 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 | 2022-12-14 | 2023-02-22 |
 | [Sick and Tired](https://open.spotify.com/track/5eU0KDvZVfFl4ehleRwGGF) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Sick and Tired](https://open.spotify.com/album/3bmh4Kcn9Aoxmfg7yMGgBQ) | 2:24 | 2021-10-22 | 2022-07-29 |
-| [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-09-30 |  |
+| [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-09-30 | 2023-12-05 |
 | [Silence](https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silence](https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh) | 3:00 | 2022-04-15 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-04-15 | 2022-04-29 |
 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 | 2021-10-22 | 2022-07-06 |

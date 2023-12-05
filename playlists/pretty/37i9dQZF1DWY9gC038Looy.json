@@ -1,12 +1,12 @@
 {
   "description": "Para la esterilla o el sof\u00e1, no te juzgaremos.",
-  "num_followers": 225436,
+  "num_followers": 225455,
   "original_name": "Ejercicio en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTZmNjBiMmM5ODM3NDUzMjcyNDg5NmEwYjRiMDk2ODM3YmRkZTg1",
+  "snapshot_id": "MCwyYmIxMGJlYjYzMzhkMDY5YTc2NzI0NGI5MWUzMDI2ZDY0ZDM5ZTVi",
   "tracks": [
     {
       "added_at": "2023-04-25 10:22:06",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -895,6 +895,22 @@
       "duration_ms": 230240,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -939,22 +955,6 @@
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 229064,
-      "name": "Besos Moja2",
-      "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 206000,
       "name": "Miss You - Bonus Track",
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2023-04-25 10:22:06",
@@ -1371,34 +1371,6 @@
     {
       "added_at": "2023-04-25 10:22:06",
       "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-04-25 10:22:06",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -1431,6 +1403,34 @@
       "duration_ms": 206066,
       "name": "Alors on danse - Radio Edit",
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2023-04-25 10:22:06",
+      "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
       "added_at": "2023-04-25 10:22:06",

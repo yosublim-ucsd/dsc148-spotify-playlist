@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-240 songs - 1 day 0 hr 0 min
+241 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Kuar \- FNX Omar Remix](https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Kuar \(FNX Omar Remix\)](https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W) | 6:40 | 2023-03-08 |  |
 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-04 |  |
 | [Latlal \- Hyenah Remix](https://open.spotify.com/track/4zFwlzD1d4XJcelTfhpbgr) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Latlal Remixes](https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg) | 6:53 | 2023-04-07 |  |
+| [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2023-12-04 |  |
 | [Lima](https://open.spotify.com/track/2ilC4aW81hmv8S1xd3DNcm) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Lima](https://open.spotify.com/album/794vccfp05jLVlOB3Pw7pI) | 3:32 | 2022-04-13 | 2022-09-09 |
 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 | 2023-03-01 |  |
 | [Love Song](https://open.spotify.com/track/1wrQkDDLad13DQpWO1zKay) | [VICTHOR](https://open.spotify.com/artist/1w1sHYCtY7hh3pw9R1C9g9), [Christian Lepah](https://open.spotify.com/artist/0EUxPMFdUknfd9UjSpOJGz) | [Love Song](https://open.spotify.com/album/6BZ9PYniIE1kG9dpauKyYo) | 8:39 | 2022-04-13 | 2023-04-21 |
@@ -186,7 +187,7 @@
 | [Reshetka](https://open.spotify.com/track/6e4FB9K0gSOV98htH4Fn6k) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Aciga Vurma](https://open.spotify.com/album/1czFwH6AT4vgOvYdDUL3U0) | 7:33 | 2022-11-10 | 2022-11-13 |
 | [Rush \- Moody Jones Remix](https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Rush \(Moody Jones Remix\)](https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm) | 3:54 | 2023-02-02 |  |
 | [Sabali](https://open.spotify.com/track/0qGPPBNHicENPAfFKBxii2) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5) | [Aura](https://open.spotify.com/album/1J9KsdksTLNcUCj8xK8MAk) | 5:18 | 2022-05-30 | 2022-07-29 |
-| [Sabali](https://open.spotify.com/track/7pSCO1Uf22BPMvFSzSiFmw) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Journey](https://open.spotify.com/album/3b5IdXSse2wu3lDfWgHNu8) | 5:18 | 2022-07-21 |  |
+| [Sabali](https://open.spotify.com/track/7pSCO1Uf22BPMvFSzSiFmw) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Journey](https://open.spotify.com/album/3b5IdXSse2wu3lDfWgHNu8) | 5:18 | 2022-07-21 | 2023-12-05 |
 | [Sabali \- Mixed](https://open.spotify.com/track/5JLEpTkJBMCjjEBeXFPfZY) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5) | [Oriental Fashion and Ethnosphere Mixed \(DJ Mix\)](https://open.spotify.com/album/1Eu4Dg2iX3HsoGHwQ1nbTQ) | 5:18 | 2022-11-10 | 2022-11-14 |
 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 | 2023-03-03 |  |
 | [Sajanna](https://open.spotify.com/track/42lUfNanMpFhibe2lNGqpA) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Nizami](https://open.spotify.com/album/5dHAWAY4CJ1MWYWjB25rVW) | 7:34 | 2022-04-13 | 2022-07-29 |

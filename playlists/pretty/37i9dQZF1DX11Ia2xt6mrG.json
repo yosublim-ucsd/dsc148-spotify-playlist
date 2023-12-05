@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55473,
+  "num_followers": 55482,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTQyYTNlNmY3ODlkMmFkOWY5MTY3ODA4MjNmYTk1ZDY2YjBhMDVl",
+  "snapshot_id": "MCwxOTFkOTgzYmY3OTEyYmZlOTk2NDZmYTQyYjA3ZmY5MDFkYmU0OTQw",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -303,46 +303,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 260584,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -363,6 +323,46 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Pump up the Volume",
-        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Juarez",
-          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Pump up the Volume",
-      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Pump up the Volume",
+        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juarez",
+          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Pump up the Volume",
+      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -647,6 +647,30 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 161378,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 399677,
       "name": "Lunar Spirits",
       "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
-        }
-      ],
-      "duration_ms": 161378,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -763,58 +763,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Paleteao",
-        "url": "https://open.spotify.com/album/29dE9XTfPPBfumn5T9eaxF"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "Paleteao",
-      "url": "https://open.spotify.com/track/73C0oEa8vbrR0gPpj7HBkl"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "El Pana Dero",
-        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "El Pana Dero",
-      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Ayanami",
         "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
@@ -835,6 +783,58 @@
       "duration_ms": 147000,
       "name": "Ayanami",
       "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "El Pana Dero",
+        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "El Pana Dero",
+      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Paleteao",
+        "url": "https://open.spotify.com/album/29dE9XTfPPBfumn5T9eaxF"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "Paleteao",
+      "url": "https://open.spotify.com/track/73C0oEa8vbrR0gPpj7HBkl"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "CONTACTO CERO",
         "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
       },
@@ -911,18 +927,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+        "name": "Trago a Trago",
+        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
       },
       "artists": [
         {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
         }
       ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+      "duration_ms": 137829,
+      "name": "Trago a Trago",
+      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1019,26 +1039,6 @@
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Trago a Trago",
-        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 137829,
-      "name": "Trago a Trago",
-      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Swap",
-        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Swap",
-      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1707,22 +1703,6 @@
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1771,8 +1751,8 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/4pQR2kQ9oEYuLgu6MV9l4p"
+        "name": "Swap",
+        "url": "https://open.spotify.com/album/7vvgUkUWQe92TGMCRm1BQR"
       },
       "artists": [
         {
@@ -1784,9 +1764,9 @@
           "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/5wbgiwLQCkwloRj5fSDCyw"
+      "duration_ms": 153750,
+      "name": "Swap",
+      "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1827,6 +1807,26 @@
       "duration_ms": 214416,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
+      },
+      "artists": [
+        {
+          "name": "N\u00d8RBY",
+          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
+        },
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
     }
   ],
   "unique_name": "mint MX",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > pov: fresh produce is in your reusable tote, the flowers are in bloom, and you’re sipping on an iced coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,585 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,578 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 21 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
 | 22 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
 | 23 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
-| 24 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
-| 25 | [Everywhere, Everything](https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:17 |
+| 24 | [Everywhere, Everything](https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:17 |
+| 25 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 26 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
 | 27 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
 | 28 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 33 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 34 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 35 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 |
-| 36 | [All the Debts I Owe](https://open.spotify.com/track/6gwMhuVPNWwFTTKHKRtJun) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 3:13 |
-| 37 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
-| 38 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
+| 36 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
+| 37 | [All the Debts I Owe](https://open.spotify.com/track/6gwMhuVPNWwFTTKHKRtJun) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 3:13 |
+| 38 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
 | 39 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 40 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
 | 41 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |

@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 35215,
+  "num_followers": 35226,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDJhYTA0ZDMwODk0ZTAxMDlkYTUyZjVmN2Q4N2UxOTRmYmYzNmJh",
+  "snapshot_id": "MCxiODRjZTg4MDcyYmUzYWRmMTk4YjM0MmUzNTc2MGE0MGZlY2YwYjli",
   "tracks": [
     {
       "added_at": "2023-11-23 02:53:45",
@@ -291,6 +291,30 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Bah\u00eda",
+        "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "Coco Santos",
+          "url": "https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg"
+        },
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Bah\u00eda",
+      "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Tinta y Tiempo",
         "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Bah\u00eda",
-        "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        },
-        {
-          "name": "Coco Santos",
-          "url": "https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg"
-        },
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Bah\u00eda",
-      "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
     },
     {
       "added_at": "2023-10-16 17:45:32",
@@ -465,26 +465,6 @@
       "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
-    },
-    {
       "added_at": "2023-09-25 00:03:53",
       "album": {
         "name": "Caribbean All-Inclusive Luxury",
@@ -507,6 +487,26 @@
       "duration_ms": 182001,
       "name": "Masa",
       "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Porque Yo",
-        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Porque Yo",
-      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Boleros Psicod\u00e9licos",
         "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Porque Yo",
+        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Porque Yo",
+      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
       "added_at": "2023-05-08 20:19:13",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/27bZK5n13Hoz2n3OscFxJf"
-      },
-      "artists": [
-        {
-          "name": "Ocote Soul Sounds",
-          "url": "https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc"
-        },
-        {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "En el Temblor (feat. Chico Mann)",
-      "url": "https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Negro Santo",
         "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/27bZK5n13Hoz2n3OscFxJf"
+      },
+      "artists": [
+        {
+          "name": "Ocote Soul Sounds",
+          "url": "https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc"
+        },
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "En el Temblor (feat. Chico Mann)",
+      "url": "https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra La Corriente",
-      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Rainfalls",
-        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
-      },
-      "artists": [
-        {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
-        }
-      ],
-      "duration_ms": 216379,
-      "name": "Rainfalls",
-      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Acuario (Solo San Remix)",
         "url": "https://open.spotify.com/album/17ZVFGoiLYTGmhsRfNdmso"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 191150,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Rainfalls",
+        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
+      },
+      "artists": [
+        {
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        }
+      ],
+      "duration_ms": 216379,
+      "name": "Rainfalls",
+      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
     }
   ],
   "unique_name": "tropic.alt",

@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 155108,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/40BomFCBuJok3OjxM9oG7e"
@@ -6982,7 +6982,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
@@ -8478,7 +8478,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -9512,7 +9512,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -9794,7 +9794,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -17750,6 +17750,32 @@
       "duration_ms": 218577,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "album": {
+        "name": "Satranga (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271169,
+      "name": "Satranga (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
       "album": {

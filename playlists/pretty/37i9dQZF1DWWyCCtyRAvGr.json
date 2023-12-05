@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 163548,
+  "num_followers": 163626,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODVhYjg1ZjUzYTU1OTUzZWFmM2RkNDJjMGRiMTcyNzJiZmYzMjkw",
+  "snapshot_id": "MCxkNjdhY2Q5OWFhMmU0M2U3YTMyN2I3MGVlMWZjMzJmMjYyOTlmZDU1",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -239,26 +239,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -323,6 +303,26 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Peter Green's Fleetwood Mac (Deluxe)",
         "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 176373,
       "name": "I Loved Another Woman",
       "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 625293,
       "name": "Blues In \"A\"",
       "url": "https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Bubba Jones",
-      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Heavy Load Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
         }
       ],
-      "duration_ms": 258680,
-      "name": "You Know My Love",
-      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
+      "duration_ms": 266013,
+      "name": "Bubba Jones",
+      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1083,6 +1067,22 @@
       "duration_ms": 171346,
       "name": "Pretty Flowers",
       "url": "https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "You Know My Love",
+      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Your Lies",
         "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+        "name": "Savoy",
+        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
       },
       "artists": [
         {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 211819,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
+      "duration_ms": 212200,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1195,22 +1211,6 @@
       "duration_ms": 296506,
       "name": "I Need You So Bad",
       "url": "https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Savoy",
-        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Fast Talking Woman Blues",
+      "url": "https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Horrifying Deatheating Bloodspider",
         "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fast Talking Woman Blues",
-      "url": "https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Rainy Day Blues",
-      "url": "https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 210040,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Rainy Day Blues",
+      "url": "https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB"
     },
     {
       "added_at": "2023-10-05 13:18:26",

@@ -4,7 +4,7 @@
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Phoenix en portada.
 
-94 songs - 5 hr 49 min
+95 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2023-08-04 |  |
 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 | 2023-08-04 | 2023-09-15 |
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-04 | 2023-11-14 |
+| [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-12-04 |  |
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-08-04 |  |
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-08-04 | 2023-11-18 |
 | [Shiver](https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 3:57 | 2023-11-17 | 2023-11-25 |
@@ -98,7 +99,7 @@
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-25 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2023-08-04 |  |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-08-04 |  |
-| [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2023-08-04 |  |
+| [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2023-08-04 | 2023-12-05 |
 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 | 2023-08-04 | 2023-08-26 |
 | [Your Blood](https://open.spotify.com/track/4QJKtN5EXFtxbqnHuibwEL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Your Blood](https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC) | 4:08 | 2023-11-13 |  |
 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 | 2023-08-25 |  |

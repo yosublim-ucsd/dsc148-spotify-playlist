@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121055,
+  "num_followers": 121072,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWMyOGQzOTU3Yjk1OTdmM2QwMjM1ZDI4NWIwNzM1YmViNWQ1MWZj",
+  "snapshot_id": "MCxiZTkwMGIwOWJjOTU3ODU5NjQyMjE3NjI4NTg2MjA3NzhjMjg1NDk2",
   "tracks": [
     {
       "added_at": "2023-11-30 16:06:40",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Stained Teeth",
-        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Stained Teeth",
-      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Noemie",
         "url": "https://open.spotify.com/album/2QOW9TFUMABmFYGMPXDi1c"
       },
@@ -287,22 +271,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Travellers",
-        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
-      },
-      "artists": [
-        {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
-        }
-      ],
-      "duration_ms": 215743,
-      "name": "Suburban Sunrise",
-      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -319,6 +287,38 @@
       "duration_ms": 211025,
       "name": "I Need You to Hear Me",
       "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Stained Teeth",
+        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Stained Teeth",
+      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Travellers",
+        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+      },
+      "artists": [
+        {
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+        }
+      ],
+      "duration_ms": 215743,
+      "name": "Suburban Sunrise",
+      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Gotta Dance",
+        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Gotta Dance",
+      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Little Airplanes",
         "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
       },
@@ -483,18 +499,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Gotta Dance",
-        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
         }
       ],
-      "duration_ms": 197796,
-      "name": "Gotta Dance",
-      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -535,26 +555,6 @@
       "duration_ms": 239548,
       "name": "NaturHaus",
       "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Let Love Find Itself / You Blow My Mind",
-        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
-      },
-      "artists": [
-        {
-          "name": "KAYYAK",
-          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
-        }
-      ],
-      "duration_ms": 542983,
-      "name": "Let Love Find Itself",
-      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Hundred Fifty Up",
         "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
       },
@@ -643,22 +627,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
       },
@@ -671,6 +639,22 @@
       "duration_ms": 182564,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Let Love Find Itself / You Blow My Mind",
+        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
+      },
+      "artists": [
+        {
+          "name": "KAYYAK",
+          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
+        }
+      ],
+      "duration_ms": 542983,
+      "name": "Let Love Find Itself",
+      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -707,6 +691,38 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 293529,
       "name": "Too Many Questions - Soble Remix",
       "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Speak Like the Hurricane",
         "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 417391,
       "name": "Pelicanism",
       "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 210000,
       "name": "Cherry Skies",
       "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 207500,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1375,6 +1375,42 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
+        "name": "Astro Reescrituras",
+        "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 257183,
+      "name": "Religar - Chancha Via Circuito Remix",
+      "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 252234,
+      "name": "Reconnect",
+      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
+    },
+    {
+      "added_at": "2023-11-30 16:06:40",
+      "album": {
         "name": "Aftergold (5 Year Anniversary)",
         "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
       },
@@ -1395,18 +1431,18 @@
     {
       "added_at": "2023-11-30 16:06:40",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
         }
       ],
-      "duration_ms": 252234,
-      "name": "Reconnect",
-      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1447,22 +1483,6 @@
       "duration_ms": 345534,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2023-11-30 16:06:40",
@@ -1543,26 +1563,6 @@
       "duration_ms": 195971,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
-    },
-    {
-      "added_at": "2023-11-30 16:06:40",
-      "album": {
-        "name": "Astro Reescrituras",
-        "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 257183,
-      "name": "Religar - Chancha Via Circuito Remix",
-      "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
     },
     {
       "added_at": "2023-11-30 16:06:40",

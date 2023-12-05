@@ -1,29 +1,13 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 115419,
+  "num_followers": 115500,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDM1OTE1MTgyYzA4MTQ5YTVjZTRiMmZhZWVlMGEzMmUwNzI0YTE4",
+  "snapshot_id": "MCxmZTUwZTZmMjA2OGE1NjI3MDhlOTgxZTY0MDRmOTdlZDJiYThmYmFi",
   "tracks": [
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 503240,
-      "name": "Way Maker - Live",
-      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
-    },
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -515,26 +515,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Alive & Breathing Vol. 2",
-        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 241764,
-      "name": "Alive & Breathing (feat. Elle Limebear)",
-      "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Alive & Breathing Vol. 2",
+        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 241764,
+      "name": "Alive & Breathing (feat. Elle Limebear)",
+      "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -871,6 +871,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Higher Than Mine",
+        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 185062,
+      "name": "Higher Than Mine",
+      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Calm the Storm (Live)",
         "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 472093,
       "name": "Land Of The Living (You Don\u2019t Lie) - Live",
       "url": "https://open.spotify.com/track/6sfda4n7moZQvRtUHG3LwN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Higher Than Mine",
-        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 185062,
-      "name": "Higher Than Mine",
-      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Altars",
+        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 300826,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Wait: Silence The Noise (Live)",
         "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
       },
@@ -1043,6 +1059,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 247451,
+      "name": "R\u00edo",
+      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Even The Impossible (Live)",
         "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
       },
@@ -1055,38 +1091,6 @@
       "duration_ms": 290133,
       "name": "Even The Impossible - Live",
       "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        }
-      ],
-      "duration_ms": 247451,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Altars",
-        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 300826,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1371,26 +1375,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Another In The Fire (Studio)",
-        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 265518,
-      "name": "Another In The Fire - Studio",
-      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Stand Amazed",
         "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
       },
@@ -1411,18 +1395,38 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+        "name": "Another In The Fire (Studio)",
+        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+      "duration_ms": 265518,
+      "name": "Another In The Fire - Studio",
+      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "duration_ms": 320867,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1443,18 +1447,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
       "artists": [
         {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 320867,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1619,6 +1623,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Nothing To Fear (feat. Audrey Assad)",
         "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
       },
@@ -1635,22 +1655,6 @@
       "duration_ms": 184746,
       "name": "Nothing To Fear (feat. Audrey Assad)",
       "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1691,6 +1695,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1727,22 +1747,6 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 219942,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2019,26 +2023,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Mike Grayson",
-          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Oh The Wonder (feat. Mike Grayson)",
-      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Find a Reason",
         "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
       },
@@ -2059,18 +2043,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
       "artists": [
         {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Mike Grayson",
+          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
         }
       ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
+      "duration_ms": 260213,
+      "name": "Oh The Wonder (feat. Mike Grayson)",
+      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2107,6 +2095,22 @@
       "duration_ms": 207800,
       "name": "I Remember - Studio Version",
       "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Grace That Changes Everything",
+        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2203,26 +2207,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Christ is Enough",
-        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
-      },
-      "artists": [
-        {
-          "name": "Dwell Songs",
-          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
-        },
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Christ is Enough",
-      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
         "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
       },
@@ -2243,6 +2227,26 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Christ is Enough",
+        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
+      },
+      "artists": [
+        {
+          "name": "Dwell Songs",
+          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Christ is Enough",
+      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2351,18 +2355,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
+        "name": "The King In All His Beauty",
+        "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
         }
       ],
-      "duration_ms": 285690,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
+      "duration_ms": 240766,
+      "name": "The King In All His Beauty",
+      "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
     }
   ],
   "unique_name": "New & Bold",

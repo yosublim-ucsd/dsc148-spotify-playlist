@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=rglqV64oS9e6bc4u2r43iw">Omah Lay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,318 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,515 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [24/7](https://open.spotify.com/track/3bCbycN2nBKSeixp5sDmMi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body, Soul & Spirit](https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ) | 2:26 |
 | 50 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 
-Snapshot ID: `MCwyNzk1MzRjMzU1ZTEzZWQ2MjcxNWEwMWVlNjc5OWIxMGZjMTBmNzRi`
+Snapshot ID: `MCw5YzllNmFhYWM3NmFhOTJiMzc2NWU5NDgxYTZiOTRiNTFhMmEwZjBj`

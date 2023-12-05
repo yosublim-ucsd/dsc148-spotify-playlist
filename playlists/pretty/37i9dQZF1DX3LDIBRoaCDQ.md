@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,508 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,654 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 25 | [California Uber Alles](https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:27 |
 | 26 | [Add It Up](https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 4:44 |
 | 27 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
-| 28 | [Happy House](https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 3:51 |
-| 29 | [Maxwell Murder](https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 1:25 |
-| 30 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
-| 31 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
+| 28 | [Maxwell Murder](https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 1:25 |
+| 29 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
+| 30 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
+| 31 | [Happy House](https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 3:51 |
 | 32 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
 | 33 | [Straight Edge](https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 0:45 |
 | 34 | [White Riot \- Remastered](https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 45 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 46 | [Knowledge \- 2007 Remaster](https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 1:42 |
 | 47 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 |
-| 48 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:37 |
-| 49 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
+| 48 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
+| 49 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:37 |
 | 50 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
 | 51 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
 | 52 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 68 | [Code Blue](https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC) | [T.S.O.L.](https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi) | [Dance With Me](https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t) | 2:08 |
 | 69 | [TV Party](https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 3:31 |
 | 70 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
-| 71 | [Ex Lion Tamer \- 2006 Remastered Version](https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:19 |
-| 72 | [Redondo Beach](https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:25 |
+| 71 | [Redondo Beach](https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:25 |
+| 72 | [Ex Lion Tamer \- 2006 Remastered Version](https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:19 |
 | 73 | [Neat Neat Neat](https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:43 |
 | 74 | [Pretty Vacant](https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:18 |
 | 75 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [Riot](https://open.spotify.com/track/7G3kh6Vtoc46aTS5GztTMD) | [U.K\. Subs](https://open.spotify.com/artist/4wsg78KGu80m8Xk37PY2uG) | [Complete Riot](https://open.spotify.com/album/6XNbcUWRawIjcIpAlW99Bd) | 2:46 |
 | 100 | [Pills](https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 2:47 |
 
-Snapshot ID: `MCxkMjQwMDliYjE5MjRjYmFlNjFjZjhjNjUyMzI1MzVjMzJkOGRkZTQx`
+Snapshot ID: `MCxlZjFmMjk5NmEzNDJhZjhjNzVmYzIzNjY0NjMxOGI1ZWQzNTY2ZjI3`

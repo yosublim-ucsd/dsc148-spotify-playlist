@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 250698,
+  "num_followers": 251084,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzVkYjIyZjQ4M2YyYWI5NWUzNWUxMjgyZTdhYjI0OTVmZDU2NWQ4",
+  "snapshot_id": "MCxhNTQ3ZWJmYjc0OTQxOWJmYmFjZmIyNjFlZTE2NmJhZjE3MjFmMDE0",
   "tracks": [
     {
       "added_at": "2023-11-10 11:30:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
         "name": "Bells of Notre Dame",
         "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
       },
@@ -683,22 +703,18 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
       "added_at": "2023-11-10 11:30:00",
@@ -715,22 +731,6 @@
       "duration_ms": 234546,
       "name": "Colonia",
       "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
       "added_at": "2023-11-10 11:30:00",

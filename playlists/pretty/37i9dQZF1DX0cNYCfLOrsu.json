@@ -1,12 +1,12 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Tina (Hoodcelebrityy)",
-  "num_followers": 306334,
+  "num_followers": 306412,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmFkMzliMDJhZjg2YzJlYWFkNTBiYTk5ODVjZDVjOGM4ZGNmNTlj",
+  "snapshot_id": "MCxhZTQ0YzY1YzFlMWNhODkwYjIyNjExMDg2Y2I1YmRiZTJlY2E5Mzg3",
   "tracks": [
     {
       "added_at": "2023-05-15 08:38:13",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Liquid Sunshine Riddim",
-        "url": "https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8"
-      },
-      "artists": [
-        {
-          "name": "Zum",
-          "url": "https://open.spotify.com/artist/0Uxj1Nl8AeAN7g7iALqh9U"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/7FBUsBZPO9VB6wDXY4fv5Q"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Rebel",
-      "url": "https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "W (feat. Gunna)",
         "url": "https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 230151,
       "name": "W (feat. Gunna)",
       "url": "https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Liquid Sunshine Riddim",
+        "url": "https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8"
+      },
+      "artists": [
+        {
+          "name": "Zum",
+          "url": "https://open.spotify.com/artist/0Uxj1Nl8AeAN7g7iALqh9U"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/7FBUsBZPO9VB6wDXY4fv5Q"
+        }
+      ],
+      "duration_ms": 135882,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 181816,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Brik Pan Brik",
         "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Walking Trophy",
-        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
-      },
-      "artists": [
-        {
-          "name": "Tina (Hoodcelebrityy)",
-          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Walking Trophy",
-      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+        "name": "Walking Trophy",
+        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Tina (Hoodcelebrityy)",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
         }
       ],
-      "duration_ms": 181816,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
+      "duration_ms": 215112,
+      "name": "Walking Trophy",
+      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Needle Eye - Single",
-        "url": "https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv"
-      },
-      "artists": [
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Needle Eye",
-      "url": "https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179737,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Needle Eye - Single",
+        "url": "https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Needle Eye",
+      "url": "https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        }
+      ],
+      "duration_ms": 200370,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Hard Drive",
         "url": "https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 168751,
       "name": "Hard Drive",
       "url": "https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8"
-      },
-      "artists": [
-        {
-          "name": "Etana",
-          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
-        }
-      ],
-      "duration_ms": 200370,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "One Man / Moving On",
+        "url": "https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Gaza Slim",
+          "url": "https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "One Man / Moving On - Raw",
+      "url": "https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Senseless",
         "url": "https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 144000,
       "name": "Run Di Road",
       "url": "https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "One Man / Moving On",
-        "url": "https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Gaza Slim",
-          "url": "https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "One Man / Moving On - Raw",
-      "url": "https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "Romping Shop",
+        "url": "https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Romping Shop",
+      "url": "https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Preserve Mi Life",
         "url": "https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 176453,
       "name": "Tek Weh Yuhself",
       "url": "https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "Romping Shop",
-        "url": "https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Romping Shop",
-      "url": "https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1287,38 +1287,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
-        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
-      },
-      "artists": [
-        {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
-        }
-      ],
-      "duration_ms": 185350,
-      "name": "Put It On You",
-      "url": "https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "Sweet Inspiration",
-        "url": "https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 216886,
-      "name": "Sweet Inspiration",
-      "url": "https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Heavy!",
         "url": "https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9"
       },
@@ -1335,30 +1303,50 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Vibrate",
-        "url": "https://open.spotify.com/album/5ownMtyYCzXj0gYwkJudh0"
+        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
+        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
       },
       "artists": [
         {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "Stadic",
-          "url": "https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0"
-        },
-        {
-          "name": "Jonny Blaze",
-          "url": "https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH"
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/6IpYgAtkoBjRh0aLd6Uyko"
+      "duration_ms": 185350,
+      "name": "Put It On You",
+      "url": "https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "50 Bag",
+        "url": "https://open.spotify.com/album/6pMXwommM2k8pL6vXqiD2B"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "50 Bag",
+      "url": "https://open.spotify.com/track/0PskmWMf89REo5ndk01GL8"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Sweet Inspiration",
+        "url": "https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 216886,
+      "name": "Sweet Inspiration",
+      "url": "https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB"
     }
   ],
   "unique_name": "Dancehall Queen",

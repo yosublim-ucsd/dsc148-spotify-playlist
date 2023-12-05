@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 79509,
+  "num_followers": 79524,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDUxM2U1NzU2ZjdmMmZkODM1MGQzZDU2ZDViODcyZjIyOGQ0Yzcz",
+  "snapshot_id": "MCwxNTUzMGVmYWRhNTIxMTJhMmQzOGVmM2M3NjAzZjI2YjNhNGFkMWNm",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 274493,
       "name": "The Weight - Remastered 2000",
       "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Stunt (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
         {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
+      "duration_ms": 249493,
+      "name": "You Oughta Know - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
       },
       "artists": [
         {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 249493,
-      "name": "You Oughta Know - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Born on a Pirate Ship (Enhanced Edition)",
         "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 209960,
       "name": "The Old Apartment",
       "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "American Woman - 7\" Single Version",
+      "url": "https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 240613,
       "name": "Sweet Surrender",
       "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "American Woman - 7\" Single Version",
-      "url": "https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT"
     },
     {
       "added_at": "2023-12-01 05:00:00",

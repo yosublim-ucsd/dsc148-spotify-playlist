@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
-  "num_followers": 200315,
+  "num_followers": 200334,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWJhYjdkZTUwMTFmNTQ1N2Y3MjAwNjZhZGUxYzA3Zjg4ZmQyYzlk",
+  "snapshot_id": "MCxkZDVmOGM5ZjMzYWVkNzQ0ZDcwYjE0NjQxYmU3MWQ4YTY2MmZmYTk1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -275,26 +275,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Pressure Drop",
-        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
+        "name": "Behind the Scenes / Reeces Pieces",
+        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
       },
       "artists": [
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         },
         {
-          "name": "Try Me",
-          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
-        },
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+          "name": "Jess Spink",
+          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
         }
       ],
-      "duration_ms": 187968,
-      "name": "Don't Be Shady",
-      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
+      "duration_ms": 282890,
+      "name": "Behind the Scenes (feat. Jess Spink)",
+      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -319,22 +315,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Behind the Scenes / Reeces Pieces",
-        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         },
         {
-          "name": "Jess Spink",
-          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
+          "name": "Try Me",
+          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
+        },
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
         }
       ],
-      "duration_ms": 282890,
-      "name": "Behind the Scenes (feat. Jess Spink)",
-      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
+      "duration_ms": 187968,
+      "name": "Don't Be Shady",
+      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Jurgen Kropper (feat. Local)",
         "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 176571,
       "name": "Jurgen Kropper (feat. Local)",
       "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "<3<3<3",
         "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 185357,
       "name": "<3<3<3",
       "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Mixtape 1: #Heaters",
-        "url": "https://open.spotify.com/album/5vlmZo8r8wFHTs7w4aMZZt"
-      },
-      "artists": [
-        {
-          "name": "ENiGMA Dubz",
-          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
-        },
-        {
-          "name": "Snowy",
-          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
-        }
-      ],
-      "duration_ms": 215142,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/1LaZl4dhIj9v3uUPwJpfVG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Mixtape 1: #Heaters",
+        "url": "https://open.spotify.com/album/5vlmZo8r8wFHTs7w4aMZZt"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        },
+        {
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "Lost It",
+      "url": "https://open.spotify.com/track/1LaZl4dhIj9v3uUPwJpfVG"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Live And Direct",
         "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
       },
@@ -811,42 +831,6 @@
       "duration_ms": 171642,
       "name": "Live And Direct",
       "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
-      },
-      "artists": [
-        {
-          "name": "Wittyboy",
-          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
-        }
-      ],
-      "duration_ms": 310909,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Slappy Slap",
-        "url": "https://open.spotify.com/album/7hU5Bsz8CEnekGSiDsd6ZJ"
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
       },
       "artists": [
         {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+          "name": "Wittyboy",
+          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
         }
       ],
-      "duration_ms": 267200,
-      "name": "Slappy Slap",
-      "url": "https://open.spotify.com/track/60oyrB49x7WsTklriQ7kec"
+      "duration_ms": 310909,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 181418,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Slappy Slap",
+        "url": "https://open.spotify.com/album/7hU5Bsz8CEnekGSiDsd6ZJ"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Slappy Slap",
+      "url": "https://open.spotify.com/track/60oyrB49x7WsTklriQ7kec"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1303,46 +1303,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Get Right",
-        "url": "https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J"
-      },
-      "artists": [
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Troubled Waters (Zed Bias Remixes)",
-        "url": "https://open.spotify.com/album/2PY8eTuCUDIISFcZa6IIWA"
-      },
-      "artists": [
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        },
-        {
-          "name": "Zed Bias",
-          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Troubled Waters - Zed Bias UKG Mix; Radio Edit",
-      "url": "https://open.spotify.com/track/2q3vMfgqIXm08cmVTSyN5P"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "This Sound",
         "url": "https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws"
       },
@@ -1363,6 +1323,42 @@
       "duration_ms": 257390,
       "name": "This Sound",
       "url": "https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Get Right",
+        "url": "https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Wanna Freak",
+        "url": "https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh"
+      },
+      "artists": [
+        {
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Wanna Freak",
+      "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"
     }
   ],
   "unique_name": "Bassline Bangers",

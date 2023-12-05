@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2660418,
+  "num_followers": 2660504,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmE3MzFkY2IzYjc1YWUyNGEyNWVmNjVmZDUwMTg1YWY1YWIxMTM4",
+  "snapshot_id": "MCw5ODNmZmNkMmJjNjE3YjU5OTUyZDQ1ODFjNWM3MzI2MjIxMzhjNjY0",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -271,22 +255,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -299,6 +267,22 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -351,22 +335,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 124693,
-      "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
-      "url": "https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -379,6 +347,38 @@
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 124693,
+      "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+      "url": "https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 102986,
-      "name": "The Wind - Remastered 2021",
-      "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 102986,
+      "name": "The Wind - Remastered 2021",
+      "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Pearl (Legacy Edition)",
         "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Going to California - Remaster",
+      "url": "https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -539,22 +555,6 @@
       "duration_ms": 217346,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Going to California - Remaster",
-      "url": "https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Teaser And The Firecat (Remastered 2021)",
         "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 149613,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 210653,
       "name": "These Days",
       "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Girl from the North Country",
-      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -863,6 +843,26 @@
       "duration_ms": 322080,
       "name": "Hard Sun",
       "url": "https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Songs Of Love And Hate",
         "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 310773,
       "name": "Famous Blue Raincoat",
       "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Shelter from the Storm",
-      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 171853,
       "name": "Walkin\u2019 Back to Georgia",
       "url": "https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "In the Wind",
+        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "In the Wind",
-        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Alice's Restaurant",
-        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
-      },
-      "artists": [
-        {
-          "name": "Arlo Guthrie",
-          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
-        }
-      ],
-      "duration_ms": 1116933,
-      "name": "Alice's Restaurant Massacree",
-      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Mercy Now",
         "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 350560,
       "name": "Mercy Now",
       "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Alice's Restaurant",
+        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
+      },
+      "artists": [
+        {
+          "name": "Arlo Guthrie",
+          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+        }
+      ],
+      "duration_ms": 1116933,
+      "name": "Alice's Restaurant Massacree",
+      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
     },
     {
       "added_at": "2023-03-31 04:00:00",

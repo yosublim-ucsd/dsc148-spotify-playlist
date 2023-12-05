@@ -65,7 +65,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7090\)
+## Playlists \(7092\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -802,7 +802,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Best of Desi Indie 2023](/playlists/pretty/37i9dQZF1DX9Kz7jBbxgYQ.md)
 - [Best of Detty December](/playlists/pretty/37i9dQZF1DX3s0fi1qwiiS.md)
 - [Best of EQUAL AU & NZ 2023](/playlists/pretty/37i9dQZF1DX74ozWuOfjjm.md)
-- [Best of EQUAL Africa 2024](/playlists/pretty/37i9dQZF1DX35vibahyjHG.md)
+- [Best of EQUAL Africa 2023](/playlists/pretty/37i9dQZF1DX35vibahyjHG.md)
 - [Best of EQUAL Belgium 2023](/playlists/pretty/37i9dQZF1DX5YBM9tRiBVF.md)
 - [Best of EQUAL CZ&SK 2023](/playlists/pretty/37i9dQZF1DX5jr2ABRSBbi.md)
 - [Best of EQUAL Canada 2023](/playlists/pretty/37i9dQZF1DX3vtLopew4fC.md)
@@ -2387,7 +2387,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
 - [HOT NOW \- Björk & ROSALÍA](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
-- [HOUSE MUSIC 2023 \| TOP 100 DANCE HITS](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md)
+- [HOUSE MUSIC 2024 \| TOP 100 DANCE HITS](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md)
 - [HOUSE PARTY BANGERS](/playlists/pretty/0ZWYUjUMhaq0Rammqq3qu1.md)
 - [HUMO](/playlists/pretty/37i9dQZF1DXbONvB5b3uef.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
@@ -2976,7 +2976,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [La + Chingona](/playlists/pretty/37i9dQZF1DWY7LJpmTFjnp.md)
 - [La + Popular](/playlists/pretty/37i9dQZF1DX137AZKLkKC6.md)
 - [La Bestia](/playlists/pretty/37i9dQZF1DXdMp10y0r6l2.md)
-- [La Boda](/playlists/pretty/37i9dQZF1DX3itwlKYlqmb.md)
 - [La Cantina](/playlists/pretty/37i9dQZF1DWZLL3REk8t1E.md)
 - [La Casa de Papel Official Playlist](/playlists/pretty/37i9dQZF1DX44eggCvVygr.md)
 - [La Casa del Perreo](/playlists/pretty/37i9dQZF1DXb6wQUgoZzUc.md)
@@ -2998,6 +2997,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [La Nueva Ola: Música Mexicana](/playlists/pretty/37i9dQZF1DX3bSsPe97LMN.md)
 - [La Playlist Botanera](/playlists/pretty/37i9dQZF1DWZufbpO1g3tw.md)
 - [La Posada](/playlists/pretty/37i9dQZF1DWSODGCFPHOmt.md)
+- [La Posada Navideña](/playlists/pretty/37i9dQZF1DX3itwlKYlqmb.md)
 - [La Pozoliza](/playlists/pretty/37i9dQZF1DX5ofUCE5KJAn.md)
 - [La Reina: Éxitos de la Música Mexicana](/playlists/pretty/37i9dQZF1DX905zIRtblN3.md)
 - [La Reine des Neiges](/playlists/pretty/37i9dQZF1DXcWVXhjjs3RH.md)
@@ -3070,6 +3070,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Latino Global](/playlists/pretty/37i9dQZF1DXaR954ExpGKR.md)
 - [Laurel Canyon Legends](/playlists/pretty/37i9dQZF1DWUKTqLl4oNGg.md)
 - [Lauren London's Taste](/playlists/pretty/37i9dQZF1DX1iGVUchf9EL.md)
+- [Laurent Garnier track IDs](/playlists/pretty/37i9dQZF1DX68l5gg4hq38.md)
 - [Lava Lamp](/playlists/pretty/37i9dQZF1DWWtqHeytOZ8f.md)
 - [Lavora col Sorriso](/playlists/pretty/37i9dQZF1DWT5DMeb1cFOV.md)
 - [Lazy Afternoon](/playlists/pretty/37i9dQZF1DX7QUXSrhM7mI.md)
@@ -4156,6 +4157,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Radici Hip\-Hop](/playlists/pretty/37i9dQZF1DWZMRmURm95Lk.md)
 - [Radio Corazón](/playlists/pretty/37i9dQZF1DWSF59R74xaFB.md)
 - [Radio Crime Dramas](/playlists/pretty/37i9dQZF1DXddisSfoYY5n.md)
+- [Radio Indie](/playlists/pretty/37i9dQZF1DXapHi7gXtXo2.md)
 - [Radio Latina](/playlists/pretty/37i9dQZF1DWUPj9VuIP3Gq.md)
 - [Radio Pop](/playlists/pretty/37i9dQZF1DWWqmEAq7L8jI.md)
 - [Radio Rock](/playlists/pretty/37i9dQZF1DX1te6miphixI.md)

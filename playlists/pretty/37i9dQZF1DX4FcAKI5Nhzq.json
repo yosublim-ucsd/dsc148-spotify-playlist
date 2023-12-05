@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: DINO",
-  "num_followers": 791924,
+  "num_followers": 792220,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTFjMjcwYjlhYWMyNmI5OGUzMGNiNDAxZWVlNWVjMTA5OTc1OWM3",
+  "snapshot_id": "MCxmODkzNzk5MDc4YzFmZDEwNTM3NDUyZTE4YWI5YTViODQ1NGU5N2Vh",
   "tracks": [
+    {
+      "added_at": "2023-12-04 09:49:44",
+      "album": {
+        "name": "So\u00f1ar (Breaker)",
+        "url": "https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "So\u00f1ar (Breaker)",
+      "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
+    },
     {
       "added_at": "2023-11-28 01:53:10",
       "album": {
@@ -711,26 +727,6 @@
       "duration_ms": 182346,
       "name": "Right Now (Feat. Crush)",
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
-    },
-    {
-      "added_at": "2023-11-28 01:53:10",
-      "album": {
-        "name": "Street Woman Fighter2 (SWF2) Class Mission",
-        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
     },
     {
       "added_at": "2023-11-28 01:53:10",

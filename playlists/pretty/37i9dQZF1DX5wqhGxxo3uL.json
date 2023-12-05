@@ -1,12 +1,12 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 77702,
+  "num_followers": 77961,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2JhMzRlNDhlYmU5OTRkNWQyMWQyZjNkMGUyMDcxMDBhMmEwZWVj",
+  "snapshot_id": "MCw3MThiNGJhOGU5OTRiN2E3OTNhYWJiNjZmN2MzNzQ2YjMyOTI5OGM2",
   "tracks": [
     {
       "added_at": "2023-09-05 22:48:49",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -155,18 +123,34 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -183,6 +167,38 @@
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -207,38 +223,6 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231124,
-      "name": "You Belong With Me (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+      "duration_ms": 231124,
+      "name": "You Belong With Me (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 194165,
-      "name": "Bejeweled",
-      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+      "duration_ms": 194165,
+      "name": "Bejeweled",
+      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -587,6 +571,22 @@
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Shout Out to My Ex",
+      "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
         "name": "Therefore I Am",
         "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 177322,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
-        "name": "Glory Days (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Shout Out to My Ex",
-      "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
     },
     {
       "added_at": "2023-09-05 22:48:49",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-05 22:48:49",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/5VJETUjJ7y46bAz4min5IB"
-    },
-    {
-      "added_at": "2023-09-05 22:48:49",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
+    },
+    {
+      "added_at": "2023-09-05 22:48:49",
+      "album": {
+        "name": "Insomniatic",
+        "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
     }
   ],
   "unique_name": "Slumber Party",

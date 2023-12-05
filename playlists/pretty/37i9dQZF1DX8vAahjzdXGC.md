@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: VIDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,884 likes - 97 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,912 likes - 97 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 59 | [In My Dreams](https://open.spotify.com/track/6EN0Vdw44RxwZhBeYyu4p6) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [In My Dreams](https://open.spotify.com/album/2xt6OC5TM9ltx4yGemBCMr) | 3:34 |
 | 60 | [Langit Bantu Rindu](https://open.spotify.com/track/1EsitGOoOxsPpPlMUEbBsw) | [2nd Chance](https://open.spotify.com/artist/0cJjGvt4gIVtU1rGL7Q9kT) | [Langit Bantu Rindu](https://open.spotify.com/album/71Hczbe1kwINC6eo7jMgD3) | 3:26 |
 | 61 | [Crown](https://open.spotify.com/track/1trGVaNMCaVBQ7Wd4qX83W) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Crown](https://open.spotify.com/album/0zG1eUJG5G9Ddz3zxpqLzF) | 2:51 |
-| 62 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 62 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 63 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
 | 64 | [D.R.A.M.A](https://open.spotify.com/track/08IEFJzSXD6APZM8Dbs9pH) | [The Dramma](https://open.spotify.com/artist/6kRIeObyMjqaWUeff6uM0v) | [D.R.A.M.A](https://open.spotify.com/album/3jkUQrf5THoehlrHmwmyvg) | 3:57 |
 | 65 | [Bertahan](https://open.spotify.com/track/5PXnPXvuxu9ScXbybad4zz) | [Nowela Mikhelia](https://open.spotify.com/artist/4e53a3HRkUEiIAUnShZPSr) | [Bertahan](https://open.spotify.com/album/1voib0qZjQcFLUOcbjCOxY) | 4:00 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [How Have You Been?](https://open.spotify.com/track/2nAXDcsUiNdBa9xypqhe5I) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [How Have You Been?](https://open.spotify.com/album/7vujHQJMYf23qpddPQy6tQ) | 3:22 |
 | 97 | [You Make Me Feel](https://open.spotify.com/track/06jSAhKCHJJtRt0lzvMxKQ) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [You Make Me Feel](https://open.spotify.com/album/0sjMCJ99RMaMZIxwR3qcPa) | 2:14 |
 
-Snapshot ID: `MCxlOTNkOTk1NjFkODM2YTIzZDYwMmZhMjlmMTg5YmI3ZGJlYjE0NmIz`
+Snapshot ID: `MCwyMjE3NGY2M2NlZTFjNjQxM2FhMzliNTYzZjY1MzY1MjhjODdjMzI2`

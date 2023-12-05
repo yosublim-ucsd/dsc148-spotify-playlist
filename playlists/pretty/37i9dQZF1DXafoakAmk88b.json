@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: Jordan Ward",
-  "num_followers": 38747,
+  "num_followers": 38871,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmNlYWE2ZWI1YWUzMjFhODk2NzQwZTNmYmU0ZDVhMmVkZTUwMzc3",
+  "snapshot_id": "MCxhM2JlMTIyNjRlODQ3MDFmMmFhNWI5MDJiZWU5MGQ0MjA1YzQzNzBk",
   "tracks": [
     {
       "added_at": "2023-11-17 03:58:18",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -375,6 +359,22 @@
       "duration_ms": 190581,
       "name": "the ride-",
       "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "Natural Brown Prom Queen",
         "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
-        "name": "This City is a Graveyard",
-        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
-      },
-      "artists": [
-        {
-          "name": "Baby Storme",
-          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "This City is a Graveyard",
-      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
+        "name": "This City is a Graveyard",
+        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
+      },
+      "artists": [
+        {
+          "name": "Baby Storme",
+          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "This City is a Graveyard",
+      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
         "name": "sever the blight",
         "url": "https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 174065,
       "name": "sever the blight",
       "url": "https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -643,18 +659,18 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
       },
       "artists": [
         {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+      "duration_ms": 181453,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 181453,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
+      "duration_ms": 248817,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -723,38 +739,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 248817,
-      "name": "Happy Ending",
-      "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "going...going...GONE!",
         "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 224240,
       "name": "enknee1",
       "url": "https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
         "name": "Love You",
         "url": "https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta"
       },
@@ -815,30 +831,6 @@
       "duration_ms": 176214,
       "name": "Love You",
       "url": "https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
-        "name": "Riot Of The Kelly Green Love",
-        "url": "https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr"
-      },
-      "artists": [
-        {
-          "name": "DivineDevine",
-          "url": "https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ"
-        },
-        {
-          "name": "Shai Nowell",
-          "url": "https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5"
-        },
-        {
-          "name": "2oo7",
-          "url": "https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM"
     }
   ],
   "unique_name": "Indie Frequency",

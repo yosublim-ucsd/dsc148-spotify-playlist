@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376,323 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,561 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 14 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
 | 15 | [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 |
 | 16 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
-| 17 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
-| 18 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
+| 17 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
+| 18 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
 | 19 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 |
 | 20 | [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 |
 | 21 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 35 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 |
 | 36 | [You've Got a Friend \- 2019 Remaster](https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Mud Slide Slim and the Blue Horizon \(2019 Remaster\)](https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX) | 4:28 |
 | 37 | [The Things We Do For Love](https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Deceptive Bends](https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4) | 3:27 |
-| 38 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
-| 39 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 |
-| 40 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 |
-| 41 | [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 2:28 |
+| 38 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 |
+| 39 | [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 2:28 |
+| 40 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
+| 41 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 |
 | 42 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 |
 | 43 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 44 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
 | 45 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 46 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
 | 47 | [Laughter In The Rain](https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [The Definitive Collection](https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR) | 2:50 |
-| 48 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 |
-| 49 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
-| 50 | [Love Is in the Air](https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [Classic Hits](https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV) | 3:28 |
+| 48 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
+| 49 | [Love Is in the Air](https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [Classic Hits](https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV) | 3:28 |
+| 50 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 |
 
-Snapshot ID: `MCxkMTIxNzk3NmRmMTBjNWIwMjRlOTcwNDE2ZjVkZjRkZGYzMmQ2NmVh`
+Snapshot ID: `MCw1ZmIxYzJjNDY2YTllZmY3OWU2Yjg3YWVlZjhiYjY0YjFhNmEwMzg5`

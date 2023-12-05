@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Tyan G & El Padrinito Toys
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,934 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,051 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Billeticos](https://open.spotify.com/track/1kCoBGKhlOqf364YOytQNl) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Billeticos](https://open.spotify.com/album/2o0I3Q6L0uuweDHF6cgvYn) | 2:48 |
 | 2 | [Choro](https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Choro](https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV) | 2:16 |
 | 3 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 |
-| 4 | [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [Gilbert](https://open.spotify.com/artist/4BhQB8PL5nGDwcUtlYSuCg) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 |
+| 4 | [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [El Gilbert](https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 |
 | 5 | [Me Dejaron Como 100pre](https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/2dGhHOPafHRV5Pcba6FUsN) | 2:52 |
 | 6 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 |
 | 7 | [Un Día Llegará La Muerte](https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Un Día Llegará La Muerte](https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [GUZBYE](https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [GUZBYE](https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD) | 3:08 |
 | 60 | [Corazón](https://open.spotify.com/track/6iNDMmX5d8ZhxXy8klgcMt) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Corazón](https://open.spotify.com/album/2RT9PvhlYLEwy8KcO1DtUb) | 3:08 |
 
-Snapshot ID: `MCw4MWRiNzM3MmI3ODdiY2FmMTg3YzA1MWU2NGQ2YWQ1NTc3ODY0OWFj`
+Snapshot ID: `MCwwOTI0Zjk0MzdmZDBjZTRiMjNmM2NiNTllNmRlYjY1ZDkxYWFmMTMx`

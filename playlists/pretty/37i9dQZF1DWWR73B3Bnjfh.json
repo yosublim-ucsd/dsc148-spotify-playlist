@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 113958,
+  "num_followers": 114087,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzJhZTNlZTcwOWZiY2QyMjExMDUxYmZjNzkxM2E3N2ExNmM3MGEz",
+  "snapshot_id": "MCxlNGIxM2IyNDFlOWQxNWI3ZTI3NDFiMTNmMzliNzAzNGM1ODg1NTlm",
   "tracks": [
     {
       "added_at": "2023-11-16 10:31:36",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-11-16 10:31:36",
       "album": {
-        "name": "All Kinds Of Weather",
-        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 635266,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu"
-    },
-    {
-      "added_at": "2023-11-16 10:31:36",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 181826,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF"
+    },
+    {
+      "added_at": "2023-11-16 10:31:36",
+      "album": {
+        "name": "All Kinds Of Weather",
+        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 635266,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu"
     },
     {
       "added_at": "2023-11-16 10:31:36",
@@ -211,42 +211,6 @@
     {
       "added_at": "2023-11-16 10:31:36",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "That Ole Devil Called Love",
-      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
-    },
-    {
-      "added_at": "2023-11-16 10:31:36",
-      "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/5gHPj9g3L9e2cu81LZUc5F"
-    },
-    {
-      "added_at": "2023-11-16 10:31:36",
-      "album": {
         "name": "Volume 2 (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -275,6 +239,42 @@
       "duration_ms": 395560,
       "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
+    },
+    {
+      "added_at": "2023-11-16 10:31:36",
+      "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/5gHPj9g3L9e2cu81LZUc5F"
+    },
+    {
+      "added_at": "2023-11-16 10:31:36",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
     },
     {
       "added_at": "2023-11-16 10:31:36",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-11-16 10:31:36",
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 297880,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
+    },
+    {
+      "added_at": "2023-11-16 10:31:36",
+      "album": {
         "name": "Yeah!",
         "url": "https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 442506,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
-    },
-    {
-      "added_at": "2023-11-16 10:31:36",
-      "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 297880,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": "2023-11-16 10:31:36",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-16 10:31:36",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Ernie's Tune",
-      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
-    },
-    {
-      "added_at": "2023-11-16 10:31:36",
-      "album": {
         "name": "Candy (Remastered)",
         "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 447173,
       "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
       "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2023-11-16 10:31:36",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Ernie's Tune",
+      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
     },
     {
       "added_at": "2023-11-16 10:31:36",

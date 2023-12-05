@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,892 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,918 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,19 +26,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 16 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy) | 3:21 |
 | 17 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
 | 18 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
-| 19 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
+| 19 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
 | 20 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
 | 21 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 |
 | 22 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
 | 23 | [La Nota](https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 002](https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC) | 4:51 |
-| 24 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
+| 24 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
 | 25 | [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 |
 | 26 | [Rolling Back](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back \(Durante Remix\)](https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT) | 3:58 |
 | 27 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 28 | [Loser \- Edit](https://open.spotify.com/track/40Q0U7FEgv7ZVo4T9YSv2R) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Loser](https://open.spotify.com/album/0jwuVql8QMl6RxFopURjAc) | 2:53 |
-| 29 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
-| 30 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
-| 31 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 29 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 30 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 31 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 32 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 | 33 | [Era \- Edit](https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Era](https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8) | 3:54 |
 | 34 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 45 | [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 |
 | 46 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
 | 47 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 |
-| 48 | [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 |
-| 49 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
+| 48 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
+| 49 | [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 |
 | 50 | [Pithy](https://open.spotify.com/track/6v0QB50cfT7UuBMsrXHcXI) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Plunge](https://open.spotify.com/album/0WCy3Og33VGPDUh6R7ZpIY) | 4:12 |
 
-Snapshot ID: `MCxmZmU2ZDAyZmE0NGYxN2VkMTVlNGQwM2E3YzdiYzJiYTVmOTZkZTRi`
+Snapshot ID: `MCxlOGVlZWNhYzBkMGM2NjFmMWM1ZGFmMTllZDM0YTIzM2VjZGQwYWNh`

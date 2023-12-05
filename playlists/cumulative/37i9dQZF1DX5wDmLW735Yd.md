@@ -2,7 +2,7 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Delta Heavy
+> The world's biggest Drum 'n' Bass playlist! Cover: Delta Heavy, Hayley May
 
 525 songs - 1 day 8 hr 58 min
 

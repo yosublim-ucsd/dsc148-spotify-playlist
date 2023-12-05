@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34154,
+  "num_followers": 34211,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODU3NmMwNjNkMzEyM2M5MzliZjM1ODNiMjI4NDhlM2NiYjE1M2E5",
+  "snapshot_id": "MCxlM2Q1MWViODk5Mjc4ZGE5M2RjYTMwNDEzODA3ODliYTAzYWJiNzhk",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -119,22 +119,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 4 Sound Collection",
-        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 81426,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
         "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 319906,
       "name": "\"DEVILS NEVER CRY\"(\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
       "url": "https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "duration_ms": 96360,
+      "name": "\u8ffd\u6c42 \u301c\u8ffd\u3044\u3064\u3081\u3089\u308c\u3066",
+      "url": "https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -187,22 +203,6 @@
       "duration_ms": 147698,
       "name": "Devil Trigger - Opening Remix",
       "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
-      },
-      "artists": [
-        {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
-        }
-      ],
-      "duration_ms": 96360,
-      "name": "\u8ffd\u6c42 \u301c\u8ffd\u3044\u3064\u3081\u3089\u308c\u3066",
-      "url": "https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
-        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 79173,
-      "name": "Save Theme",
-      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
       },
       "artists": [
         {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
         }
       ],
-      "duration_ms": 161133,
-      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
-      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -339,6 +323,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
+      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "MONSTER HUNTER RISE Extra Tracks",
         "url": "https://open.spotify.com/album/02v01ZbI91kG3WAQMqCOlf"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 243243,
       "name": "Silver-winged Star - Valstrax",
       "url": "https://open.spotify.com/track/3lvbr6VJPV8kfrIcyfsdqa"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Devil May Cry 4 Original Soundtrack",
-        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "The Time Has Come (Nero's Combat)",
-      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -399,6 +383,22 @@
       "duration_ms": 167093,
       "name": "\u8ffd\u7a76 \u301c\u3064\u304d\u3068\u3081\u305f\u304f\u3066",
       "url": "https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "The Time Has Come (Nero's Combat)",
+      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "MEGA MAN X LEGACY COLLECTION SOUNDTRACK",
-        "url": "https://open.spotify.com/album/3tD6VBpy9e1p7hYJob5OvP"
-      },
-      "artists": [
-        {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
-        }
-      ],
-      "duration_ms": 171065,
-      "name": "X4 - BOSS",
-      "url": "https://open.spotify.com/track/6UDrl7GL31sroGclleWa3H"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MEGA MAN X3 SOUND COLLECTION",
         "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 114160,
       "name": "GRAVITY BEETBOOD STAGE",
       "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "MEGA MAN X LEGACY COLLECTION SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3tD6VBpy9e1p7hYJob5OvP"
+      },
+      "artists": [
+        {
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        }
+      ],
+      "duration_ms": 171065,
+      "name": "X4 - BOSS",
+      "url": "https://open.spotify.com/track/6UDrl7GL31sroGclleWa3H"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx"
+      },
+      "artists": [
+        {
+          "name": "\u30d9\u30a4\u30b7\u30b9\u30b1\u30a4\u30d7",
+          "url": "https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30a2\u30f3\u30b3\u30fc\u30eb (\u30ed\u30c3\u30af\u30de\u30f32\u30e1\u30c9\u30ec\u30fc)",
+      "url": "https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30a8\u30af\u30b9\u30d1\u30f3\u30b7\u30e7\u30f3 \u30c8\u30e9\u30c3\u30af\u30b9 2",
         "url": "https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 298874,
       "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
       "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx"
-      },
-      "artists": [
-        {
-          "name": "\u30d9\u30a4\u30b7\u30b9\u30b1\u30a4\u30d7",
-          "url": "https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30a2\u30f3\u30b3\u30fc\u30eb (\u30ed\u30c3\u30af\u30de\u30f32\u30e1\u30c9\u30ec\u30fc)",
-      "url": "https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO"
     },
     {
       "added_at": "2021-06-30 15:18:23",

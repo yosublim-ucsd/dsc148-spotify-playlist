@@ -4,12 +4,13 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-122 songs - 8 hr 13 min
+123 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Vida Ya No es Vida](https://open.spotify.com/album/3bYxZ5jLjyWrPcThIpCOZg) | 0:00 | 2022-02-04 |  |
 | [A los Filos de un Cuchillo](https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Pastorita Huaracina](https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM) | 3:08 | 2022-02-04 | 2023-10-13 |
+| [A los Filos de un Cuchillo](https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Pastorita Huaracina](https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b) | 3:08 | 2022-02-04 |  |
 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 | 2022-02-04 | 2022-07-29 |
 | [Acabas Conmigo](https://open.spotify.com/track/7rjG8mw40BN1wObtAXWfBS) | [Pata Amarilla](https://open.spotify.com/artist/3LeEUjPpHudINewdGztaG4) | [Alpaquitay](https://open.spotify.com/album/1ZigilzcTvEmshQoYyPfhT) | 4:02 | 2022-02-04 | 2023-02-22 |
 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:30 | 2022-02-04 |  |
@@ -18,7 +19,7 @@
 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/5SnatgsCSbX8tQ3WVX9Rhe) | [The Strings Of The Inkas](https://open.spotify.com/artist/5IvgHIvVVCT77omikIYE9O) | [Serie Maravillas: Cuerdas & Vientos Sagrados, Vol\. 1](https://open.spotify.com/album/0orBMvdv3crXTHj2DS4rAp) | 2:59 | 2022-02-04 |  |
 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe) | [Trio Ayacucho](https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8) | [Como Siempre Con El Mayor Cariño](https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn) | 3:44 | 2022-02-04 |  |
 | [Al Compás de Mi Guitarra](https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 3:06 | 2022-02-04 |  |
-| [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 | 2022-02-04 |  |
+| [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 | 2022-02-04 | 2023-12-05 |
 | [Amor Ajeno](https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:37 | 2022-02-04 |  |
 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 | 2022-02-04 |  |
 | [Amor Verdadero](https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV) | [Damaris](https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod), [Raices de Jauja](https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9) | [Tú Puedes Volar](https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw) | 4:10 | 2022-02-04 |  |

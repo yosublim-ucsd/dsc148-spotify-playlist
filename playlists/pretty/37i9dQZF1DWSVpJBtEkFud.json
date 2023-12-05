@@ -1,12 +1,12 @@
 {
   "description": "Pop favorites from today and yesterday",
-  "num_followers": 178094,
+  "num_followers": 178241,
   "original_name": "Pop Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmY4ZTllMjZiZTNlMGI2MzBhNmY0MWMwMTBmNGYxMTViOGE5ZDQx",
+  "snapshot_id": "MCxiMTQxMjc3MWIxOTE2MDc1ZjdlZmUyY2MyOTM0ZGFlZWZiZWU2YmZi",
   "tracks": [
     {
       "added_at": "2023-08-14 22:07:58",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Leave Before You Love Me",
-        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Leave Before You Love Me (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -615,6 +595,26 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Leave Before You Love Me (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
         "name": "Speak Your Mind (Deluxe)",
         "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -671,6 +651,26 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 220800,
       "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -919,38 +919,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
       },
@@ -967,6 +935,22 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 185773,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1075,58 +1075,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -1151,18 +1099,54 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+      "duration_ms": 190960,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Let The Road",
-        "url": "https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd"
-      },
-      "artists": [
-        {
-          "name": "Rixton",
-          "url": "https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Me And My Broken Heart",
-      "url": "https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "Let The Road",
+        "url": "https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd"
+      },
+      "artists": [
+        {
+          "name": "Rixton",
+          "url": "https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Me And My Broken Heart",
+      "url": "https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1435,22 +1419,6 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1471,18 +1439,34 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1499,6 +1483,22 @@
       "duration_ms": 206880,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191937,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
+    },
+    {
+      "added_at": "2023-08-14 22:07:58",
+      "album": {
         "name": "The Fame Monster (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 220640,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM"
-    },
-    {
-      "added_at": "2023-08-14 22:07:58",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191937,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
     },
     {
       "added_at": "2023-08-14 22:07:58",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2023-08-14 22:07:58",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+      "duration_ms": 253520,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
     }
   ],
   "unique_name": "Pop Road Trip",

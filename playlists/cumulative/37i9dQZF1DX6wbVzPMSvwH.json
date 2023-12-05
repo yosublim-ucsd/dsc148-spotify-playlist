@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Bersamamu",
+        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220945,
+      "name": "Bersamamu",
+      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
+    },
+    {
+      "album": {
         "name": "Vorfreude",
         "url": "https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU"
       },
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 188130,
       "name": "Just a Crush Thing",
       "url": "https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx"
@@ -1136,6 +1154,24 @@
       "duration_ms": 241979,
       "name": "Kamulah Satu-Satunya",
       "url": "https://open.spotify.com/track/7qd2gICEYvgNJvYFWmDzA1"
+    },
+    {
+      "album": {
+        "name": "Meraih Bintang",
+        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "Karena Kamu",
+      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
     },
     {
       "album": {
@@ -2106,7 +2142,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 186106,
       "name": "Terdiam",
       "url": "https://open.spotify.com/track/3eEC4ad1GlR6eOiU06Hcuu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Carin León, Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,047 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,448 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 22 | [Cuando Hablo De Ti](https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
 | 23 | [A Modo de Festejo](https://open.spotify.com/track/7fUQ2lIwbdjQrPATWfT55g) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [A Modo de Festejo](https://open.spotify.com/album/3vlVahTHKYc9BBUa2L7ixn) | 3:04 |
 | 24 | [F\*CK](https://open.spotify.com/track/2hgwcspRsbztFXMbO5qEqX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [F\*CK](https://open.spotify.com/album/5eDok5uTNZYTDjsBHkc6Jp) | 2:07 |
-| 25 | [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [Gilbert](https://open.spotify.com/artist/4BhQB8PL5nGDwcUtlYSuCg) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 |
+| 25 | [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [El Gilbert](https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 |
 | 26 | [Arturo El Rey](https://open.spotify.com/track/3qEkjV56h6zI7aV0VEFSB0) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Julian Mercado Desde la Hacienda Escondida Vol\. 2](https://open.spotify.com/album/4a14DDe9xZNhfCsRE3XXPx) | 2:57 |
 | 27 | [Según Soy Malo](https://open.spotify.com/track/1AGGvNoVjGcUmAQ3h1031Q) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Según Soy Malo](https://open.spotify.com/album/06f2rWCM5WwGt0mFQxPZlb) | 2:36 |
 | 28 | [VAN A VER](https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Town Shit Vol\. 3](https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Otro Día, Otra Aventura](https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Otro Día, Otra Aventura](https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j) | 3:20 |
 | 50 | [La Chapiza](https://open.spotify.com/track/6M9iYgZmNla94UTWEjHaVK) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:18 |
 
-Snapshot ID: `MCxjY2JlMDU5YTkyNWE1MWU5NDdlYzA4ZmMzMDkxM2NlYzE4NGEzOGYy`
+Snapshot ID: `MCxjNTA5MmM3ZWY2Y2U3ZDk4ODRmOTZlNWE0Y2Q1Yzc1NzA1MzU1OGUw`

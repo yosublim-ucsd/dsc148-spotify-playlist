@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 39712,
+  "num_followers": 39747,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDI0ZmRkN2M2YzcyZDdhNTg0MThhY2Q4NWNiM2E2MmRiNDY3MWNh",
+  "snapshot_id": "MCxlNWVlNjJlOWVjY2ExOGU4NTE2YmEyZmZhZjZkODE5Y2JjNWFmNzlk",
   "tracks": [
     {
       "added_at": "2023-10-13 15:20:09",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "Ahi\u0301 Donde Me Ven",
-      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "\u00bfSer\u00e1 Prudente?",
         "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
       },
@@ -327,22 +311,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -359,6 +327,54 @@
       "duration_ms": 251626,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ahi\u0301 Donde Me Ven",
+      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -419,38 +435,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Pepe Aguilar te Acompa\u00f1a en Navidad",
-        "url": "https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Ni Contigo, Ni Sin Ti",
-      "url": "https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
+        "name": "Pepe Aguilar te Acompa\u00f1a en Navidad",
+        "url": "https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
         "name": "No Voy A Llorar",
         "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 189665,
-      "name": "No Me Hablen de Amor",
-      "url": "https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "De Plaza En Plaza (Cumbia Sinf\u00f3nica/Deluxe)",
         "url": "https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 211760,
       "name": "Amigos Nada M\u00e1s",
       "url": "https://open.spotify.com/track/56flGLpXk65jcXDKirq75B"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -663,18 +663,22 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+      "duration_ms": 228989,
+      "name": "Ella Que\u0301 Te Dio",
+      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -695,22 +699,18 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 228989,
-      "name": "Ella Que\u0301 Te Dio",
-      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2023-10-13 15:20:09",

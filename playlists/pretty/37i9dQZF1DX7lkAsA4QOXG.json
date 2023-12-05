@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 117472,
+  "num_followers": 117524,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTM2NGI1YzgyNWZiNDhmNGNhODA1ZGRlMjgwMTY4YTA4MDYwYzI1",
+  "snapshot_id": "MCw4MzJmNTgxOGI3MTBhMzJkM2VmODNhYzg3ZDY4OWIxMmUzN2YyZDBj",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
+      },
+      "artists": [
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
-      },
-      "artists": [
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Mrs. Robinson",
-      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 232866,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 205502,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Karen Souza Essentials",
         "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 250093,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Wind Cries Mary",
-      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "return to casual",
         "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 247253,
       "name": "Mother Stands for Comfort",
       "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Wind Cries Mary",
+      "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2lfX30k8kJIaTbPBgKy4dX"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Jazz Volume: Herbie Hancock",
-        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 549600,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        }
-      ],
-      "duration_ms": 358453,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 285719,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
+      },
+      "artists": [
+        {
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+        }
+      ],
+      "duration_ms": 358453,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1135,6 +1135,46 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 320893,
+      "name": "Streets Of Philadelphia",
+      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -1159,26 +1199,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 200750,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 320893,
-      "name": "Streets Of Philadelphia",
-      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Give Us These Days",
         "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
-      },
-      "artists": [
-        {
-          "name": "tea",
-          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
-        }
-      ],
-      "duration_ms": 281333,
-      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
-      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Hey Jude",
         "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219625,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
+      },
+      "artists": [
+        {
+          "name": "tea",
+          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
+        }
+      ],
+      "duration_ms": 281333,
+      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
+      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Daylight at Midnight",
-        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
-      },
-      "artists": [
-        {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Becca Stevens",
-          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
         "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
       },
@@ -1543,18 +1523,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+        "name": "Daylight at Midnight",
+        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
       },
       "artists": [
         {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Becca Stevens",
+          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
         }
       ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
+      "duration_ms": 240426,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Just the Way You Are",
-        "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Patterson",
-          "url": "https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311"
-        }
-      ],
-      "duration_ms": 272625,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 224171,
       "name": "True Love Waits (Radiohead)",
       "url": "https://open.spotify.com/track/6os2m5ftH4LYEkum1BfP3O"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Just the Way You Are",
+        "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Patterson",
+          "url": "https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 579160,
       "name": "Human Nature (Trio Extension)",
       "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1911,26 +1911,6 @@
       "duration_ms": 369876,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1999,6 +1979,26 @@
       "duration_ms": 315266,
       "name": "The Fool on the Hill",
       "url": "https://open.spotify.com/track/1kUNTX5gPEJAU1R5z1kZEz"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2247,18 +2247,34 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "If It's Magic",
-        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO"
       },
       "artists": [
         {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+          "name": "Scott Amendola",
+          "url": "https://open.spotify.com/artist/0z8GiMtospGy5TDzG8LiSE"
+        },
+        {
+          "name": "Jenny Scheinman",
+          "url": "https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd"
+        },
+        {
+          "name": "Nels Cline",
+          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
+        },
+        {
+          "name": "Eric Crystal",
+          "url": "https://open.spotify.com/artist/4w2Ux9fk321zWSsBNCxykL"
+        },
+        {
+          "name": "Todd Sickafoose",
+          "url": "https://open.spotify.com/artist/0gat1iJtUzvdGOgNNJ9fW7"
         }
       ],
-      "duration_ms": 209338,
-      "name": "If It's Magic",
-      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
+      "duration_ms": 552186,
+      "name": "Masters Of War",
+      "url": "https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7"
     }
   ],
   "unique_name": "Jazz Covers",

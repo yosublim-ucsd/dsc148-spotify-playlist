@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Carlos Vives & Ryan Castro",
-  "num_followers": 255945,
+  "num_followers": 255959,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzhhNGExMDU1MWEwNTg3M2E1ZGE0YjViNjU4Njg5MTI5ZWZkYTRk",
+  "snapshot_id": "MCxlMGMzODAyZjJkN2I5N2Q0MDA3ZWJmYmM5NjI2M2ExODc4MThkNTEw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 267016,
+      "name": "La F\u00f3rmula",
+      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Me EnRD",
         "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 216666,
       "name": "T\u00fa Y T\u00fa",
       "url": "https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 267016,
-      "name": "La F\u00f3rmula",
-      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Tu Cepillo",
+        "url": "https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "duration_ms": 184115,
+      "name": "Tu Cepillo",
+      "url": "https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Bienvenidos a Mi Barrio",
         "url": "https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 193059,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Tu Cepillo",
-        "url": "https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        }
-      ],
-      "duration_ms": 184115,
-      "name": "Tu Cepillo",
-      "url": "https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo"
     },
     {
       "added_at": "2023-12-01 05:00:00",

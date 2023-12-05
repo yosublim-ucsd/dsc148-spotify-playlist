@@ -1,6 +1,6 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 83407,
+  "num_followers": 83474,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 215150,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
@@ -451,22 +435,6 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "champagne problems",
-      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -487,6 +455,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "champagne problems",
+      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far",
       "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 215150,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -567,38 +567,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -655,54 +655,6 @@
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Do You Love Me, or Are You Just Lonely?",
-        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
-      },
-      "artists": [
-        {
-          "name": "Jess Benko",
-          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
-        }
-      ],
-      "duration_ms": 316556,
-      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
-      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -727,18 +679,34 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Do You Love Me, or Are You Just Lonely?",
+        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
+      },
+      "artists": [
+        {
+          "name": "Jess Benko",
+          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
+        }
+      ],
+      "duration_ms": 316556,
+      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
+      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -755,6 +723,38 @@
       "duration_ms": 246796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Pete's Dragon (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1YrocR69AHthl982tykNpQ"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Pete's Dragon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1YrocR69AHthl982tykNpQ"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "I Should Go (Solo Version)",
         "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 151178,
       "name": "I Should Go - Solo Version",
       "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 175003,
       "name": "Stay - Spotify Singles",
       "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1327,6 +1327,26 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1391,26 +1411,6 @@
       "duration_ms": 219880,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Look Mom I Made It",
-        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
-      },
-      "artists": [
-        {
-          "name": "Annika Kilkenny",
-          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Look Mom I Made It",
-      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Unfortunate Love",
         "url": "https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 226582,
       "name": "Unfortunate Love",
       "url": "https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Look Mom I Made It",
+        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Look Mom I Made It",
+      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
     },
     {
       "added_at": "2023-12-01 16:37:09",

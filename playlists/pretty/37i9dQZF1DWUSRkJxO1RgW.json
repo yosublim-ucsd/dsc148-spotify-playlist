@@ -1,12 +1,12 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 283966,
+  "num_followers": 284043,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTg5YTI1NGE0N2FjNDM4OTBmZWEwMWY3YzZmN2ZkNjgzMDQyODkz",
+  "snapshot_id": "MCw1MmFjMTg5ZDc4MmZjYmFhMGQ4OWIzNWNlMTMwYmRjZDA0MDAyYjMz",
   "tracks": [
     {
       "added_at": "2020-03-13 14:40:50",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
       "artists": [
         {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Atado a un Sentimiento",
-      "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
+      "duration_ms": 181600,
+      "name": "No Voy en Tren",
+      "url": "https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "No Voy en Tren",
-      "url": "https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -299,34 +283,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Llegando Los Monos",
-        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
         }
       ],
-      "duration_ms": 197266,
-      "name": "Los Viejos Vinagres",
-      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Nadie Sale Vivo de Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5S0820c1RDZbzf6F0mHTXC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Pasemos a Otro Tema",
-      "url": "https://open.spotify.com/track/40raAOaR57uIMomRKtPsZz"
+      "duration_ms": 197000,
+      "name": "Atado a un Sentimiento",
+      "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -383,6 +351,38 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Los Viejos Vinagres",
+      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Nadie Sale Vivo de Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5S0820c1RDZbzf6F0mHTXC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Pasemos a Otro Tema",
+      "url": "https://open.spotify.com/track/40raAOaR57uIMomRKtPsZz"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "Yo Te Avis\u00e9",
         "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
@@ -399,18 +399,34 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Divididos Por La Felicidad",
-        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
+        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 286813,
-      "name": "Mejor No Hablar de Ciertas Cosas",
-      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Amor Descartable",
+      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -463,34 +479,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Amor Descartable",
-      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
+      "duration_ms": 286813,
+      "name": "Mejor No Hablar de Ciertas Cosas",
+      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Llegando Los Monos",
-        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "Estallando Desde el Oc\u00e9ano",
-      "url": "https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
       },
@@ -555,22 +539,6 @@
       "duration_ms": 259026,
       "name": "Barbazul Versus el Amor Letal",
       "url": "https://open.spotify.com/track/3GoSaTEDB00eXQdCZSw0rM"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "Tiempos Dificiles",
-        "url": "https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Baglietto",
-          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "Era En Abril",
-      "url": "https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -607,22 +575,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Los Abuelos De La Nada 1",
-        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
@@ -651,6 +603,54 @@
       "duration_ms": 241333,
       "name": "El Sat\u00e1nico Dr. Cadillac - Remasterizado 2008",
       "url": "https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Estallando Desde el Oc\u00e9ano",
+      "url": "https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Tiempos Dificiles",
+        "url": "https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "Era En Abril",
+      "url": "https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Los Abuelos De La Nada 1",
+        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "Corderos en la Noche",
-        "url": "https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Sin Hilo",
-      "url": "https://open.spotify.com/track/6qLoe5HRx2GNv21z30QL53"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
         "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
         "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+        "name": "Corderos en la Noche",
+        "url": "https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 142373,
-      "name": "Entreg\u00e1 el Marr\u00f3n",
-      "url": "https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh"
+      "duration_ms": 278693,
+      "name": "Sin Hilo",
+      "url": "https://open.spotify.com/track/6qLoe5HRx2GNv21z30QL53"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -879,6 +863,22 @@
     {
       "added_at": "2020-03-13 14:40:50",
       "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "Entreg\u00e1 el Marr\u00f3n",
+      "url": "https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
         "name": "S\u00ed o S\u00ed - Diario del Rock Argentino - Sumo",
         "url": "https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 222893,
       "name": "La Rubia Tarada",
       "url": "https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh"
+    },
+    {
+      "added_at": "2020-03-13 14:40:50",
+      "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "A Cada Hombre, A Cada Mujer",
+      "url": "https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC"
     },
     {
       "added_at": "2020-03-13 14:40:50",
@@ -963,22 +979,6 @@
       "duration_ms": 228127,
       "name": "Fantasma De Canterville",
       "url": "https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol"
-    },
-    {
-      "added_at": "2020-03-13 14:40:50",
-      "album": {
-        "name": "40 Dibujos Ah\u00ed En El Piso",
-        "url": "https://open.spotify.com/album/0ZNRl9pxbglsYLKRdSEmz0"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "Enciende Mi Fuego",
-      "url": "https://open.spotify.com/track/1fE3XzV4QvyqP67lejrNSM"
     }
   ],
   "unique_name": "Los 80 Argentina",

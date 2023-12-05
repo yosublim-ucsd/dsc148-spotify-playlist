@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Ed Sheeran",
-  "num_followers": 1477785,
+  "num_followers": 1477823,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGZiYWRiNmIxMDRiOTkzY2Y2MmEwYjRkZDA5MzMzNjUxMGFmZWE2",
+  "snapshot_id": "MCwzYzhlZDhmZjhlYzYzOWJlMjc2NDQ2ZmQyMWNiYzI4N2E3YzYzMjcz",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 257533,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 239027,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 187682,
       "name": "Anyone For You (Tiger Lily)",
       "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 239027,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
+      "duration_ms": 181958,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 181958,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
+      "duration_ms": 213920,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1175,6 +1175,22 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "A Face Like Mine",
         "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 13849,
+  "num_followers": 14260,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NThmMjE5ZGM2NWEwMDY0MjNkYTBkYTBhZmFlMjhkZTRiOTdiOGZk",
+  "snapshot_id": "MCxjNzQ0ODhhZDJmY2E5NWYwZmQ2ODQwZjY1ZTA1MWVjZWY3ZGI1ZTAx",
   "tracks": [
     {
       "added_at": "2023-11-29 16:17:10",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "No Substance Mixtape",
         "url": "https://open.spotify.com/album/0kpW838mH6r1S09dKgNH72"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Planes",
-        "url": "https://open.spotify.com/album/7rWIUlfmcWa9rQLMJ2SXrN"
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
       },
       "artists": [
         {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
         }
       ],
-      "duration_ms": 213272,
-      "name": "Planes",
-      "url": "https://open.spotify.com/track/6ldto3peQuqKTZKMa4SA6f"
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -559,6 +543,22 @@
       "duration_ms": 131052,
       "name": "GATA",
       "url": "https://open.spotify.com/track/7bfsB9aEVuKUUZ7CTjmoGN"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Planes",
+        "url": "https://open.spotify.com/album/7rWIUlfmcWa9rQLMJ2SXrN"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 213272,
+      "name": "Planes",
+      "url": "https://open.spotify.com/track/6ldto3peQuqKTZKMa4SA6f"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 274347,
+      "name": "Salad",
+      "url": "https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Go\u00fbter +",
         "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
       },
@@ -755,18 +771,34 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+        "name": "I Killed Your Dog",
+        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
         }
       ],
-      "duration_ms": 274347,
-      "name": "Salad",
-      "url": "https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN"
+      "duration_ms": 270875,
+      "name": "5 to 8 Hours a Day (WWwaG)",
+      "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Cheapshot",
+        "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        }
+      ],
+      "duration_ms": 100593,
+      "name": "Cheapshot",
+      "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -803,38 +835,6 @@
       "duration_ms": 208880,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Cheapshot",
-        "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
-      },
-      "artists": [
-        {
-          "name": "Seago",
-          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
-        }
-      ],
-      "duration_ms": 100593,
-      "name": "Cheapshot",
-      "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "I Killed Your Dog",
-        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 270875,
-      "name": "5 to 8 Hours a Day (WWwaG)",
-      "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Art By You",
         "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 216520,
       "name": "Down",
       "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
       },
       "artists": [
         {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 251015,
-      "name": "Letter To Myself",
-      "url": "https://open.spotify.com/track/2spGThcYUc2QWuv3lThLx0"
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb"
+      "duration_ms": 251015,
+      "name": "Letter To Myself",
+      "url": "https://open.spotify.com/track/2spGThcYUc2QWuv3lThLx0"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Everything's Conditional",
-        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Running For My Life",
-      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Smalltown Stardust",
         "url": "https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG"
       },
@@ -1051,34 +1035,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Nothing Sacred",
-        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
+        "name": "Everything's Conditional",
+        "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
       },
       "artists": [
         {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
         }
       ],
-      "duration_ms": 150052,
-      "name": "Putting On Airs",
-      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Don Lemon",
-        "url": "https://open.spotify.com/album/10llpGOIEohzO6V2awCypr"
-      },
-      "artists": [
-        {
-          "name": "Jelly Crystal",
-          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
-        }
-      ],
-      "duration_ms": 221692,
-      "name": "Don Lemon",
-      "url": "https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ"
+      "duration_ms": 225760,
+      "name": "Running For My Life",
+      "url": "https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1099,18 +1067,34 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "a stranger with my face",
-        "url": "https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP"
+        "name": "Don Lemon",
+        "url": "https://open.spotify.com/album/10llpGOIEohzO6V2awCypr"
       },
       "artists": [
         {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
         }
       ],
-      "duration_ms": 231480,
-      "name": "a stranger with my face",
-      "url": "https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo"
+      "duration_ms": 221692,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Nothing Sacred",
+        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
+      },
+      "artists": [
+        {
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Putting On Airs",
+      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1127,6 +1111,22 @@
       "duration_ms": 147619,
       "name": "LOO SONG",
       "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "a stranger with my face",
+        "url": "https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "a stranger with my face",
+      "url": "https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Dogsbody",
-        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "The Big Boom",
         "url": "https://open.spotify.com/album/28R26xS0sxrdEFCKwSjwKG"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 194234,
       "name": "The Big Boom",
       "url": "https://open.spotify.com/track/52rDZ9pPuVKAQoycR0wqme"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Dogsbody",
+        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Why Are You Not Scared Yet?",
-        "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
-      },
-      "artists": [
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 154555,
-      "name": "Why Are You Not Scared Yet?",
-      "url": "https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 202686,
       "name": "A Bowl of Unripe Fruit",
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Why Are You Not Scared Yet?",
+        "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "duration_ms": 154555,
+      "name": "Why Are You Not Scared Yet?",
+      "url": "https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "It's All Happening Now",
-        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
-      },
-      "artists": [
-        {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "It's All Happening Now",
-      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Around Around Around",
         "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 321460,
       "name": "Around Around Around",
       "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "It's All Happening Now",
+        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "It's All Happening Now",
+      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "GIZMO",
-        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "GIZMO",
+        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Show You Off",
         "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 174323,
       "name": "Show You Off",
       "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "these are not songs, they are stories",
-        "url": "https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF"
-      },
-      "artists": [
-        {
-          "name": "O'SULLIVAN",
-          "url": "https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Love & Death",
-      "url": "https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Purple Moon",
-        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
+        "name": "these are not songs, they are stories",
+        "url": "https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF"
       },
       "artists": [
         {
-          "name": "Ilgen-Nur",
-          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
+          "name": "O'SULLIVAN",
+          "url": "https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT"
         }
       ],
-      "duration_ms": 197203,
-      "name": "Purple Moon",
-      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
+      "duration_ms": 186840,
+      "name": "Love & Death",
+      "url": "https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Suddenly My Mind Is Blank",
-        "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
+        "name": "Purple Moon",
+        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
       },
       "artists": [
         {
-          "name": "Jouska",
-          "url": "https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn"
+          "name": "Ilgen-Nur",
+          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
         }
       ],
-      "duration_ms": 236324,
-      "name": "Why'd You Leave Me in the Red?",
-      "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"
+      "duration_ms": 197203,
+      "name": "Purple Moon",
+      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "tainted in our memories",
+        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 160089,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
     }
   ],
   "unique_name": "Indie songs from 2023 you may have missed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora né não??
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,624 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,692 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 18 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
 | 19 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
 | 20 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
-| 21 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
-| 22 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 23 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
+| 21 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
+| 22 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
+| 23 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 24 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 25 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 |
 | 26 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 59 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 | 60 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
 
-Snapshot ID: `MCw2N2FiNzQ3MTk5MDJkZWE0MWJhZjExNzhmMjZhMWViMjczNjJiYTRm`
+Snapshot ID: `MCw0MWE3ZWQ1ODYwNzZiOTU3YjgwY2EwMzNmNjdmZWEyZWVlNjM5ZGU0`

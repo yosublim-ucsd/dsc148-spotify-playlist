@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,327 likes - 126 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,406 likes - 126 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,26 +24,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 14 | [Tylus](https://open.spotify.com/track/4J3CD4dqguRr2C827Yq7Aw) | [Aida Lukša](https://open.spotify.com/artist/0Kh2Sch2WKC8d2MtILgjUZ) | [Tylus](https://open.spotify.com/album/2YhjazFwMNFFuNSh1XL1SG) | 3:14 |
 | 15 | [Cellular Connection](https://open.spotify.com/track/6VLgAi4LEGmIZ2dzIeD2IU) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Connecting Heart Chakra](https://open.spotify.com/album/3mrsQmOju8BHD01Z9RXIEq) | 6:58 |
 | 16 | [Through The Changes](https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Through The Changes](https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns) | 3:29 |
-| 17 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 |
-| 18 | [Gemstone](https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Gemstone](https://open.spotify.com/album/0YonZJr6p64ujZmsEiUqjT) | 2:31 |
-| 19 | [New Words](https://open.spotify.com/track/3G2uZooJWAuw6cSN1RryBM) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [New Words](https://open.spotify.com/album/65Ws1BQZcFgPzi4xesrQ6V) | 3:12 |
-| 20 | [Kalmte](https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Kalmte](https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG) | 3:23 |
-| 21 | [Fluire](https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Fluire](https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5) | 2:36 |
-| 22 | [Soul Freedom](https://open.spotify.com/track/0CFckxkdiJSEOouGsu2HEX) | [Healing Peace](https://open.spotify.com/artist/6DCXMCRilLLsE6gpdhT8TB) | [Energy Releasing Zone](https://open.spotify.com/album/32XIqb9iYXCzOfZVctUQZV) | 3:31 |
-| 23 | [Solitude By Numbers](https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Solitude By Numbers](https://open.spotify.com/album/52sUayQnby3lc9Ui5ggd29) | 3:06 |
-| 24 | [Enhanced Focus](https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Enhanced Focus](https://open.spotify.com/album/5LaaldAHQVLAbqWXpYDdrw) | 3:12 |
-| 25 | [Delighted](https://open.spotify.com/track/36xaiN7CDChqvyzw7eKOH9) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Delighted](https://open.spotify.com/album/7erT0da7HZPcNpcHxjZs5G) | 3:16 |
-| 26 | [Adhi's Arrival](https://open.spotify.com/track/1Ygsfw4Hbx8hkyIlEg5IQ4) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Adhi's Arrival](https://open.spotify.com/album/5pY3YqcJFsKprVVb2hXdQR) | 3:05 |
-| 27 | [Change of Pace](https://open.spotify.com/track/53ZODOnTzPf4MqDB7v8at2) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Change of Pace](https://open.spotify.com/album/2anqY9wJYgXhjU1s9PrRt3) | 2:17 |
-| 28 | [Shamanic](https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Shamanic](https://open.spotify.com/album/4ptdOCuO7fl9SOgnDAKHKy) | 2:43 |
-| 29 | [Healing Energy](https://open.spotify.com/track/4MpPa7WiJ2dXx7uMenOZdU) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Healing Energy](https://open.spotify.com/album/2YOYGhBR5a84AzCYA39cKF) | 3:20 |
-| 30 | [Apaisantes](https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Apaisantes](https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB) | 2:14 |
-| 31 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 |
-| 32 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 |
-| 33 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
-| 34 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 |
-| 35 | [Revitalizing Flow](https://open.spotify.com/track/0QdJNA24npIMsJfTmukVHV) | [Michele Cabrera](https://open.spotify.com/artist/06TthPTGTvVP112NDOYJrr) | [Peaceful Warrior](https://open.spotify.com/album/1Dt7wU8jK0VSPDymPni7D7) | 3:24 |
-| 36 | [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 |
+| 17 | [Closeness](https://open.spotify.com/track/54fl7LXaGnQAyT0OIB8I5X) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Closeness](https://open.spotify.com/album/6uSckUQYGKZ4LCdK9uHYZM) | 3:02 |
+| 18 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 |
+| 19 | [Gemstone](https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Gemstone](https://open.spotify.com/album/0YonZJr6p64ujZmsEiUqjT) | 2:31 |
+| 20 | [New Words](https://open.spotify.com/track/3G2uZooJWAuw6cSN1RryBM) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [New Words](https://open.spotify.com/album/65Ws1BQZcFgPzi4xesrQ6V) | 3:12 |
+| 21 | [Kalmte](https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Kalmte](https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG) | 3:23 |
+| 22 | [Fluire](https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Fluire](https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5) | 2:36 |
+| 23 | [Soul Freedom](https://open.spotify.com/track/0CFckxkdiJSEOouGsu2HEX) | [Healing Peace](https://open.spotify.com/artist/6DCXMCRilLLsE6gpdhT8TB) | [Energy Releasing Zone](https://open.spotify.com/album/32XIqb9iYXCzOfZVctUQZV) | 3:31 |
+| 24 | [Solitude By Numbers](https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Solitude By Numbers](https://open.spotify.com/album/52sUayQnby3lc9Ui5ggd29) | 3:06 |
+| 25 | [Enhanced Focus](https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Enhanced Focus](https://open.spotify.com/album/5LaaldAHQVLAbqWXpYDdrw) | 3:12 |
+| 26 | [Delighted](https://open.spotify.com/track/36xaiN7CDChqvyzw7eKOH9) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Delighted](https://open.spotify.com/album/7erT0da7HZPcNpcHxjZs5G) | 3:16 |
+| 27 | [Adhi's Arrival](https://open.spotify.com/track/1Ygsfw4Hbx8hkyIlEg5IQ4) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Adhi's Arrival](https://open.spotify.com/album/5pY3YqcJFsKprVVb2hXdQR) | 3:05 |
+| 28 | [Change of Pace](https://open.spotify.com/track/53ZODOnTzPf4MqDB7v8at2) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Change of Pace](https://open.spotify.com/album/2anqY9wJYgXhjU1s9PrRt3) | 2:17 |
+| 29 | [Shamanic](https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Shamanic](https://open.spotify.com/album/4ptdOCuO7fl9SOgnDAKHKy) | 2:43 |
+| 30 | [Healing Energy](https://open.spotify.com/track/4MpPa7WiJ2dXx7uMenOZdU) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Healing Energy](https://open.spotify.com/album/2YOYGhBR5a84AzCYA39cKF) | 3:20 |
+| 31 | [Apaisantes](https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Apaisantes](https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB) | 2:14 |
+| 32 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 |
+| 33 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 |
+| 34 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
+| 35 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 |
+| 36 | [Revitalizing Flow](https://open.spotify.com/track/0QdJNA24npIMsJfTmukVHV) | [Michele Cabrera](https://open.spotify.com/artist/06TthPTGTvVP112NDOYJrr) | [Peaceful Warrior](https://open.spotify.com/album/1Dt7wU8jK0VSPDymPni7D7) | 3:24 |
 | 37 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 |
 | 38 | [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 |
 | 39 | [Hearing the Harvest](https://open.spotify.com/track/5wReVVGFR9CyeJqVHGjFjV) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 4:02 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 125 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
 | 126 | [The Source of Life](https://open.spotify.com/track/7lsw1FcjPgrfFt2enr4Gcf) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [The Source of Life](https://open.spotify.com/album/5VrZDu1NZf4AL6U5CHHGbz) | 3:05 |
 
-Snapshot ID: `MCw3ODllNWNmMTliZTEyZDI0YzVlNWUwMTVlNzg0MTg5MTM0YjY0Y2M3`
+Snapshot ID: `MCxjMTViNzRkMWIxYWVkODBlY2FjZDBlMWI0ODRlZTIxZWZmOThlNjhh`

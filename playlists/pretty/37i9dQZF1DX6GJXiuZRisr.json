@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1536441,
+  "num_followers": 1536565,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhkNTgyYTA1YjY0NDM5ZTVlYjM0ZmRmZTQ0MWY3MjBjMWQyZWVj",
+  "snapshot_id": "MCwwNjMzMDlhZmNjNTUzYmQ4OWU1NmQ4MTFlYmM3MGE5YzE4MzUwMjhh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -427,22 +427,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "U&ME",
-        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         }
       ],
-      "duration_ms": 195483,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -467,18 +463,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+      "duration_ms": 195483,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Welcome To The Opera (with Grimes)",
+      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 178849,
       "name": "Blur",
       "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Welcome To The Opera (with Grimes)",
-      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 159458,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -759,62 +739,6 @@
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Otherside (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Otherside - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 245927,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -839,6 +763,82 @@
       "duration_ms": 244130,
       "name": "Consciousness - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 159458,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Otherside (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Otherside - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 245927,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -903,30 +903,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Before Dawn",
-        "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
-        }
-      ],
-      "duration_ms": 198574,
-      "name": "Before Dawn",
-      "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "I Need A Miracle",
         "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
       },
@@ -967,6 +943,30 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+        }
+      ],
+      "duration_ms": 198574,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Numb (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 237865,
       "name": "Numb - Joris Voorn Remix, Edit",
       "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
+      },
+      "artists": [
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 206794,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 177560,
       "name": "Through the Void",
       "url": "https://open.spotify.com/track/0F5z4xuXIpwks2KNI6DUFk"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Fall Again",
-        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
-      },
-      "artists": [
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "About Us (feat. EMME)",
+        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "About Us (feat. EMME)",
+      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Turning Away",
         "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
       },
@@ -1319,22 +1339,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "About Us (feat. EMME)",
-        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
         }
       ],
-      "duration_ms": 286520,
-      "name": "About Us (feat. EMME)",
-      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 216795,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        }
-      ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
         "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
       },
@@ -1507,6 +1487,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Twisted Reality (Edit)",
         "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 207360,
       "name": "Twisted Reality - Edit",
       "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 189102,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "The Return (Edit)",
+        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
+      },
+      "artists": [
+        {
+          "name": "Pryda",
+          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "The Return - Edit",
+      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Further Away",
         "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 194285,
       "name": "Further Away",
       "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "The Return (Edit)",
-        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
-      },
-      "artists": [
-        {
-          "name": "Pryda",
-          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Return - Edit",
-      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
     },
     {
       "added_at": "2023-12-01 05:00:00",

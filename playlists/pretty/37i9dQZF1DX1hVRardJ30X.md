@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Milo j
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,478 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,594 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 20 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 |
 | 21 | [Incendio](https://open.spotify.com/track/56kVSeBFUj3MXYjvWI3gCt) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Incendio](https://open.spotify.com/album/156E8SdeEtiefRkkKryKOx) | 2:11 |
 | 22 | [Puntos Equidistantes](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 |
-| 23 | [Bendecidos](https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Bendecidos](https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH) | 8:47 |
+| 23 | [Bendecidos](https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Cayro Music](https://open.spotify.com/artist/0oLSGoCin3HiQSbBdnFyZ9) | [Bendecidos](https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH) | 8:47 |
 | 24 | [Figo](https://open.spotify.com/track/7AFN6T4Vxm3Ac1oKogT6xp) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [ZIZOU](https://open.spotify.com/album/6MnXMqxcJ2Yz27cy9CMU2N) | 3:04 |
 | 25 | [Olvídala](https://open.spotify.com/track/1btqNfmvNJb24aWwmQCYZB) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 2:59 |
 | 26 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [MAGIA NEGRA](https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [MAGIA NEGRA](https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc) | 3:34 |
 | 55 | [Sol Mujer](https://open.spotify.com/track/53euvf5bCCJE2sWLelaLLJ) | [NotMike](https://open.spotify.com/artist/2A4kFqtxOV5F75jjPt6Dxy), [Tobbi](https://open.spotify.com/artist/3VFnmu0xXggZpaGaUwXfeR) | [Sol Mujer](https://open.spotify.com/album/6JdBhhNi4diKD2mj3Y38gL) | 3:32 |
 
-Snapshot ID: `MCwxMTRjZDA2OTBkOGY0OGZhODA2Nzc4YTcwOWE5MzBlYzhhOWNlOGMw`
+Snapshot ID: `MCwxN2YyY2E2N2I1NTJjZDM1YjUzMzE2MGNiNGVmZDMxYTIwNGM2ZTc3`

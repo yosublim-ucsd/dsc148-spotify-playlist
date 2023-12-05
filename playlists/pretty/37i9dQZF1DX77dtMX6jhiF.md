@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,363 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,373 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 8 | [STOP TRYING TO BE GOD](https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:38 |
 | 9 | [THE NEWS](https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 4:27 |
 | 10 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
-| 11 | [Last Time That I Checc'd \(feat\. YG\)](https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:45 |
-| 12 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
+| 11 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
+| 12 | [Last Time That I Checc'd \(feat\. YG\)](https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:45 |
 | 13 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 |
 | 14 | [Sky's the Limit \(feat\. 112\) \- 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 5:29 |
 | 15 | [Turn Your Lights Down Low](https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 5:46 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 23 | [Boom Boom Room](https://open.spotify.com/track/3aBL75wBGHJnskegE9jyhb) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:47 |
 | 24 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 25 | [Marcy Me](https://open.spotify.com/track/5oynsOy80DnodTslgaj3cr) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 2:54 |
-| 26 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
-| 27 | [The Recipe](https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:58 |
-| 28 | [Black](https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:48 |
-| 29 | [The Birds Pt\. 2 \- Original](https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Thursday \(Original\)](https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz) | 5:50 |
+| 26 | [The Recipe](https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:58 |
+| 27 | [The Birds Pt\. 2 \- Original](https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Thursday \(Original\)](https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz) | 5:50 |
+| 28 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
+| 29 | [Black](https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:48 |
 | 30 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
 | 31 | [Wetin Man Go Do](https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 32 | [Strange Fruit](https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 49 | [Love Me Nina / Semiautomatic](https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 4:16 |
 | 50 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
 
-Snapshot ID: `MCw1MjJlOGRhODAxMGE2NmJkZGMzZGRkYzBjNjBkZDA4ZTE2ZmJjNzZi`
+Snapshot ID: `MCw4MTNjZTZhYjJjOTA1ODA1ODgwODYwZDZlMGRjODBkZmI5MTFkZTMy`

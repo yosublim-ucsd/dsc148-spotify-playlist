@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 571910,
+  "num_followers": 572029,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmRjOTg5OTg1ODNmYzRiODYyZjE1ZTM3NDg2YzkwY2ViMmM0ZDVj",
+  "snapshot_id": "MCxhZjc0N2EwMzgzY2UzODY1NzZlNzE1NWNiMzRmYjNlZGRhNTdjZTUz",
   "tracks": [
     {
       "added_at": "2023-12-01 22:30:39",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
         "name": "Kill Me",
         "url": "https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 163110,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -851,6 +851,26 @@
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
+        "name": "Ride It Hard",
+        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 150861,
+      "name": "Ride It Hard",
+      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -903,42 +923,6 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Ride It Hard",
-        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 150861,
-      "name": "Ride It Hard",
-      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
-        "name": "Dirt Road When I Die - EP",
-        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "Dirt Road When I Die",
-      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -963,18 +947,34 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+        "name": "Dirt Road When I Die - EP",
+        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+      "duration_ms": 174280,
+      "name": "Dirt Road When I Die",
+      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+      "duration_ms": 200626,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/4XufHN8jFwyZEjvplEJh3w"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Highway Desperado",
-        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Tough Crowd",
-      "url": "https://open.spotify.com/track/4XufHN8jFwyZEjvplEJh3w"
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Excuse the Mess",
-        "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 171819,
-      "name": "Excuse the Mess",
-      "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
+      "duration_ms": 218528,
+      "name": "Trailer Park",
+      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1463,34 +1463,34 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "Excuse the Mess",
+        "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 218528,
-      "name": "Trailer Park",
-      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
+      "duration_ms": 171819,
+      "name": "Excuse the Mess",
+      "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
     },
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 169813,
-      "name": "There's Always Next Year",
-      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+      "duration_ms": 202466,
+      "name": "Tattoos on This Town",
+      "url": "https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Tattoos on This Town",
-      "url": "https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO"
+      "duration_ms": 169813,
+      "name": "There's Always Next Year",
+      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+        "name": "Whiskey Lullaby",
+        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        },
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
         }
       ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+      "duration_ms": 269594,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1675,6 +1679,22 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
         "name": "World On Fire",
         "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 261269,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
-        "name": "Whiskey Lullaby",
-        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
-      },
-      "artists": [
-        {
-          "name": "Drew Jacobs",
-          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
-        },
-        {
-          "name": "Caitlynne Curtis",
-          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
-        }
-      ],
-      "duration_ms": 269594,
-      "name": "Whiskey Lullaby",
-      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     }
   ],
   "unique_name": "Country Rocks",

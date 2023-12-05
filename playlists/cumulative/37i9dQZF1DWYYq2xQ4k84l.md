@@ -4,13 +4,14 @@
 
 > The biggest songs in Latin America in 2004\. Cover: Juanes
 
-65 songs - 4 hr 12 min
+66 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 | 2021-12-22 |  |
 | [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 | 2021-12-22 | 2023-12-04 |
 | [Agárrala \- Remix](https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 2:32 | 2021-12-22 | 2023-11-04 |
+| [Agárrala \- Remix](https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 2:32 | 2021-12-22 |  |
 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 | 2021-12-22 |  |
 | [Al Natural \- Remix](https://open.spotify.com/track/6FYReDAof3VBMbRKRbwboP) | [DJ Booster](https://open.spotify.com/artist/46ht5heFXWUBleroN1jgGu) | [Al Natural \(Remix\)](https://open.spotify.com/album/3RPBIxoBBQIvqGV8ShN0wu) | 3:27 | 2021-12-22 | 2023-07-08 |
 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 | 2021-12-22 |  |
@@ -32,15 +33,15 @@
 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 | 2021-12-22 |  |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2021-12-22 |  |
 | [Gasolina](https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:12 | 2021-12-22 | 2022-07-27 |
-| [Gata Fiera](https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 3:28 | 2021-12-22 |  |
+| [Gata Fiera](https://open.spotify.com/track/3z6HxlyOlcd2bPBTUNElC8) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA) | 3:28 | 2021-12-22 | 2023-12-05 |
 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:28 | 2021-12-22 | 2023-12-02 |
 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 | 2021-12-22 | 2022-07-29 |
-| [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 | 2021-12-22 |  |
+| [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 | 2021-12-22 | 2023-12-05 |
 | [La Camisa Negra](https://open.spotify.com/track/0sUWZTmLTZj21G6dmlsJlj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Camisa Negra](https://open.spotify.com/album/4XQoT3nVi6XGIy5NiB7uIC) | 3:34 | 2021-12-22 | 2022-07-29 |
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2021-12-22 |  |
 | [La Descarada](https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:23 | 2021-12-22 |  |
 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 | 2021-12-22 |  |
-| [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 | 2021-12-22 | 2023-11-28 |
+| [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 | 2021-12-22 |  |
 | [Lo Busqué](https://open.spotify.com/track/5gEqsAFXdbOyyT1tCbtR65) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Agarre De Fieras](https://open.spotify.com/album/5AzHdlw7PCUkiN7mlZ1661) | 4:35 | 2021-12-22 | 2022-11-13 |
 | [Los Caminos de la Vida](https://open.spotify.com/track/0nqCrvY5A8cPNYujwtZGp5) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Fuerza Argentina!](https://open.spotify.com/album/2r1Hl2RU10Gm5zDILXbzkh) | 3:59 | 2021-12-22 | 2022-08-04 |
 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 | 2021-12-22 |  |

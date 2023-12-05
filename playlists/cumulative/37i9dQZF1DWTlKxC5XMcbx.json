@@ -278,7 +278,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 394920,
       "name": "Blue Ballad",
       "url": "https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
@@ -396,6 +396,36 @@
       "duration_ms": 202773,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
+    },
+    {
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Bartelt",
+          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        },
+        {
+          "name": "Martin Gjakonovski",
+          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
+        },
+        {
+          "name": "Joost Van Schaik",
+          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451155,
+      "name": "Does The Sun Really Shine On The Moon",
+      "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
     },
     {
       "album": {
@@ -1105,6 +1135,32 @@
     },
     {
       "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209738,
+      "name": "Ithaka",
+      "url": "https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M"
+    },
+    {
+      "album": {
         "name": "Look Out! (Remastered)",
         "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
@@ -1304,6 +1360,24 @@
       "duration_ms": 147906,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
+    },
+    {
+      "album": {
+        "name": "return to casual",
+        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247253,
+      "name": "Mother Stands for Comfort",
+      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
     },
     {
       "album": {
@@ -1666,7 +1740,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 201226,
       "name": "Sleep Away",
       "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"

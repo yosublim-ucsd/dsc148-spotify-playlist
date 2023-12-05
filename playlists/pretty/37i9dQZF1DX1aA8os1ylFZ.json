@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240691,
+  "num_followers": 240753,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTFkZjg3YjUxM2ZkOTA1YzVlOTc4ZjMwMzQyZmE5YzBmODc3OWY3",
+  "snapshot_id": "MCxiYmE3ZTM0ZDBjZTQ4Mjk2MjRmMjkyYjliY2M4ZDc4YjgzZDVmOWRk",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Don't Give It Away",
-        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "Don't Give It Away (with Chris Brown)",
-      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 174545,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Look My Way",
-        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Look My Way",
-      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 214455,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Look My Way",
+        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Look My Way",
+      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
+        "name": "Word For Word",
+        "url": "https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
         }
       ],
-      "duration_ms": 155624,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
+      "duration_ms": 183022,
+      "name": "Word For Word",
+      "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Word For Word",
-        "url": "https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
       },
       "artists": [
         {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 183022,
-      "name": "Word For Word",
-      "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Online",
-        "url": "https://open.spotify.com/album/2U4iDmJzwom2wsG7u0bN0v"
-      },
-      "artists": [
-        {
-          "name": "Afroham",
-          "url": "https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E"
-        },
-        {
-          "name": "Djemeia",
-          "url": "https://open.spotify.com/artist/1Sx36c12X39Dnwp3NHRgsJ"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Online",
-      "url": "https://open.spotify.com/track/7oPafvnkhwW6BPEmIvdzVk"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Out of Touch",
         "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 212574,
       "name": "Out of Touch",
       "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/2U4iDmJzwom2wsG7u0bN0v"
+      },
+      "artists": [
+        {
+          "name": "Afroham",
+          "url": "https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E"
+        },
+        {
+          "name": "Djemeia",
+          "url": "https://open.spotify.com/artist/1Sx36c12X39Dnwp3NHRgsJ"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/7oPafvnkhwW6BPEmIvdzVk"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "2 Am",
-        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 160604,
-      "name": "2 Am",
-      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Candy Store",
         "url": "https://open.spotify.com/album/3nzA2nfVpSVNIVbJPXzFQR"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 169138,
       "name": "Candy Store",
       "url": "https://open.spotify.com/track/52k3JDkTOm35bER4EwRtTD"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "2 Am",
+        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 160604,
+      "name": "2 Am",
+      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1523,6 +1523,26 @@
       "duration_ms": 164286,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        },
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1619,26 +1639,6 @@
       "duration_ms": 181422,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
-      },
-      "artists": [
-        {
-          "name": "Carlos Abril",
-          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
-        },
-        {
-          "name": "Amelia Rose",
-          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
-        }
-      ],
-      "duration_ms": 258530,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
     },
     {
       "added_at": "2023-11-30 23:00:00",

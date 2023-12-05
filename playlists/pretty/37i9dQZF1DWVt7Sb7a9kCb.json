@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 169946,
+  "num_followers": 169952,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTNjNWE5N2Q2Y2NiY2ZjOWU2YTY4YjBjYWQzNGZiMWMxMmJlZDlj",
+  "snapshot_id": "MCxkMWFhZDkxYTFmZTQyNmNiZGEyMGQ1NTdkZDhiZDEwNjc1OTUwODY2",
   "tracks": [
     {
       "added_at": "2023-11-30 05:21:25",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -475,22 +459,18 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -507,6 +487,26 @@
       "duration_ms": 179066,
       "name": "Me Olvid\u00e9 De Los 2",
       "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "VENTE CONMIGO",
-        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "VENTE CONMIGO",
-      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "Revelaci\u00f3n - EP",
         "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "Me Muevo Con Dios",
         "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 202594,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -931,22 +935,18 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Problem\u00f3n",
-        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "Nunca Tristes (Me Vale Madre)",
         "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
@@ -1167,22 +1151,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "La Verde",
-        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 181342,
-      "name": "La Verde",
-      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "Dueles Tan Bien",
         "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 174000,
       "name": "Seguro Te Pierdo",
       "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "La Verde",
+        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "La Verde",
+      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "BILLBOARD",
-        "url": "https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 234984,
-      "name": "BILLBOARD",
-      "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "BILLBOARD",
+        "url": "https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 234984,
+      "name": "BILLBOARD",
+      "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1423,6 +1423,22 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1471,6 +1487,22 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
         "name": "CHAO BEBE",
         "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
       },
@@ -1487,38 +1519,6 @@
       "duration_ms": 206499,
       "name": "CHAO BEBE",
       "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM"
-      },
-      "artists": [
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Enchule",
-        "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 185718,
-      "name": "Enchule",
-      "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
+      "duration_ms": 169776,
+      "name": "TOSCANA",
+      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+        "name": "Enchule",
+        "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 169776,
-      "name": "TOSCANA",
-      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+      "duration_ms": 185718,
+      "name": "Enchule",
+      "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
-        "name": "Maviri",
-        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 135797,
-      "name": "Maviri",
-      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
         "name": "Canciones Pa Mi Ex Vol.1",
         "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 148149,
       "name": "Fue Lindo",
       "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
+        "name": "Maviri",
+        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 135797,
+      "name": "Maviri",
+      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
       "added_at": "2023-11-30 05:21:25",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-11-30 05:21:25",
       "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2023-11-30 05:21:25",
+      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 199881,
       "name": "Amor en Coma",
       "url": "https://open.spotify.com/track/0kRU83ecI57Iw1kPTeUwK5"
-    },
-    {
-      "added_at": "2023-11-30 05:21:25",
-      "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2023-11-30 05:21:25",

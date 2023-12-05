@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 96806,
+  "num_followers": 96857,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDNiZmM2NDIzOWU0YjM3MGMxZjA5NzQyYWJlNTI5NDI5NzczNTll",
+  "snapshot_id": "MCxlNGMzOWY4OGNlOWVhNzg5ZjExMTU1Y2Q2ZTY3MWM3Y2Q3NTFmMzhj",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Erratics & Unconformities",
         "url": "https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 475379,
       "name": "Deipkier",
       "url": "https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2023-11-23 03:12:41",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Kelly Lee Owens",
         "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 192674,
       "name": "S.O",
       "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
       "added_at": "2023-10-13 15:35:08",
@@ -363,22 +363,6 @@
       "duration_ms": 210655,
       "name": "Cup Noodle",
       "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "added_at": "2022-09-27 23:17:09",
@@ -443,6 +427,22 @@
       "duration_ms": 947500,
       "name": "Gravity that Binds",
       "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "added_at": "2022-12-20 22:24:39",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
     },
     {
-      "added_at": "2023-11-08 01:22:26",
-      "album": {
-        "name": "Panic Multiplier",
-        "url": "https://open.spotify.com/album/1N9PkW0QGrZC3JN8o9x62D"
-      },
-      "artists": [
-        {
-          "name": "Client_03",
-          "url": "https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt"
-        }
-      ],
-      "duration_ms": 332745,
-      "name": "Obligation Reminder",
-      "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Milliseconds",
@@ -663,6 +647,22 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
+    },
+    {
+      "added_at": "2023-11-08 01:22:26",
+      "album": {
+        "name": "Panic Multiplier",
+        "url": "https://open.spotify.com/album/1N9PkW0QGrZC3JN8o9x62D"
+      },
+      "artists": [
+        {
+          "name": "Client_03",
+          "url": "https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt"
+        }
+      ],
+      "duration_ms": 332745,
+      "name": "Obligation Reminder",
+      "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
-      "added_at": "2022-07-06 16:48:39",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 331514,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Translate",
@@ -865,20 +849,20 @@
       "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-07-06 16:48:39",
       "album": {
-        "name": "Weather the Storm",
-        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
       },
       "artists": [
         {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Weather the Storm",
-      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
+      "duration_ms": 331514,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -899,6 +883,22 @@
       "duration_ms": 227258,
       "name": "Anxi.",
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Weather the Storm",
+        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Weather the Storm",
+      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Oquo",
         "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 231529,
       "name": "Oquo Quooon",
       "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
+    },
+    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
@@ -1139,22 +1155,6 @@
       "duration_ms": 338734,
       "name": "Every Since And Then",
       "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1207,54 +1207,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Street Talk",
-        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 229367,
-      "name": "Street Talk",
-      "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
-    },
-    {
-      "added_at": "2022-03-09 04:45:41",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
-      "added_at": "2023-08-17 17:21:25",
-      "album": {
-        "name": "Circuit Current",
-        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 247558,
-      "name": "Circuit Current",
-      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Panspermia",
         "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
@@ -1271,6 +1223,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 229367,
+      "name": "Street Talk",
+      "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "L'\u00e9treinte Imaginaire",
         "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
       },
@@ -1283,6 +1251,22 @@
       "duration_ms": 393717,
       "name": "Promise You'll Haunt Me",
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
+    },
+    {
+      "added_at": "2022-03-09 04:45:41",
+      "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1305,6 +1289,22 @@
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
+      "added_at": "2023-08-17 17:21:25",
+      "album": {
+        "name": "Circuit Current",
+        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 247558,
+      "name": "Circuit Current",
+      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
+    },
+    {
       "added_at": "2022-04-09 04:34:06",
       "album": {
         "name": "Natura",
@@ -1319,22 +1319,6 @@
       "duration_ms": 252000,
       "name": "Creatura",
       "url": "https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Sweepsculp",
-        "url": "https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx"
-      },
-      "artists": [
-        {
-          "name": "Sweepsculp",
-          "url": "https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt"
-        }
-      ],
-      "duration_ms": 246816,
-      "name": "Inking",
-      "url": "https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1367,6 +1351,22 @@
       "duration_ms": 138405,
       "name": "Seca",
       "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Sweepsculp",
+        "url": "https://open.spotify.com/album/3CwyI5ld8x6WbgdfBtJABx"
+      },
+      "artists": [
+        {
+          "name": "Sweepsculp",
+          "url": "https://open.spotify.com/artist/163prHBUW8VxZro1kWaLDt"
+        }
+      ],
+      "duration_ms": 246816,
+      "name": "Inking",
+      "url": "https://open.spotify.com/track/6t5VbkwZhW0O7lNoUVX4Gf"
     },
     {
       "added_at": "2022-02-25 05:11:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,162 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,131 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 85 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 86 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 |
 | 87 | [I Wanna Feel](https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel](https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3) | 3:06 |
-| 88 | [When I Was A Youngster](https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Stereo Typical](https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp) | 2:55 |
-| 89 | [Place Your Hands](https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Together \- The Best Of](https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq) | 3:37 |
+| 88 | [Place Your Hands](https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Together \- The Best Of](https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq) | 3:37 |
+| 89 | [When I Was A Youngster](https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Stereo Typical](https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp) | 2:55 |
 | 90 | [Shine](https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 4:15 |
 | 91 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
 | 92 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 |
 | 93 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
 | 94 | [Between You and Me](https://open.spotify.com/track/1k0HaXwqnev6ITPjYqvtxF) | [One Bit](https://open.spotify.com/artist/7jlMwr0xUcRO1xS6WjkkUT), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Between You and Me](https://open.spotify.com/album/1ZwqV0aR3jirvbjp96bLQn) | 3:31 |
 | 95 | [Keep On Movin'](https://open.spotify.com/track/2fHruzatznikGKFeL9Gujm) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 3:18 |
-| 96 | [Pack Up](https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [Eliza Doolittle](https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe) | 3:11 |
-| 97 | [Sunchyme \(Radio Edit\) \[Instrumental\] \- 2023 Remaster](https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine \(25th Anniversary Edition\)](https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU) | 3:55 |
+| 96 | [Sunchyme \(Radio Edit\) \[Instrumental\] \- 2023 Remaster](https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine \(25th Anniversary Edition\)](https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU) | 3:55 |
+| 97 | [Pack Up](https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [Eliza Doolittle](https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe) | 3:11 |
 | 98 | [Sax](https://open.spotify.com/track/2spGtGG6aNK8Rsj6bf79py) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax and Flashbacks](https://open.spotify.com/album/7HWc06QmkhSe9sif36Mm1i) | 3:56 |
 | 99 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 |
 | 100 | [Bright Idea](https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae) | [Orson](https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ) | [Bright Idea](https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG) | 4:14 |
 
-Snapshot ID: `MCwzMzMyNDZjZTFiM2Y2ZmZkMWRjNmRmNWYzMzVkNTNhOTQwN2E5ZTlm`
+Snapshot ID: `MCxhNmY2Y2JlZDFjMTg3YTZiNWM3MDk3NjNkOTgzMmY0ZDYwZmYyMWRh`

@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: DEAN
 
-588 songs - 1 day 7 hr 55 min
+589 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [BAD BLOOD](https://open.spotify.com/track/0lt47HRDmdTiNbJYjOw09M) | [NANA](https://open.spotify.com/artist/7eAbY700J7KeGj2q2nEWF5), [SANGAH](https://open.spotify.com/artist/08lQf5DjLYmWOHoUFSasJy), [SUYUN](https://open.spotify.com/artist/0INNQrSP55SA0ds1knUXde), [Yeeun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y), [WOOYEON](https://open.spotify.com/artist/32v1AQMVgVG4PJ9jXWQS5l), [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [QUEENDOM PUZZLE ALL\-ROUNDER BATTLE 2](https://open.spotify.com/album/0BRGfNDNYm4fddasoyzuk4) | 2:57 | 2023-07-20 | 2023-09-08 |
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-13 |  |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-16 |  |
-| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-09-07 |  |
+| [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 | 2023-11-23 |  |
+| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-09-07 | 2023-12-05 |
 | [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 | 2023-10-05 | 2023-11-16 |
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-08-05 | 2022-10-04 |
 | [Bambambam](https://open.spotify.com/track/3nwQPAN4jq3iPjPf24LYAj) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [\[Ready, Set, LOVE\]](https://open.spotify.com/album/0j2hQTYeoVSt35FXPUPaaL) | 3:19 | 2023-08-24 | 2023-10-05 |

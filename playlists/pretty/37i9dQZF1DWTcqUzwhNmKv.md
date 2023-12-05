@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Five Finger Death Punch on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465,139 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,465,257 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 |
 | 75 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 |
 
-Snapshot ID: `MCxiNTg1ZjBhNWM2NDNjNTIwYWI5YzIzYTJhNjJmOTcyOTk1M2E0NzE2`
+Snapshot ID: `MCxmNmY4NTQwZTA4Yzc5MTg4N2ZkMjQ5Yzc5Yjc3Y2RjNzRiODcyMGNh`

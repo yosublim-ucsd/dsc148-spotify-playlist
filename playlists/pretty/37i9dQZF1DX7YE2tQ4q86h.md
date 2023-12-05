@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,108 likes - 103 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,117 likes - 103 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 102 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 |
 | 103 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 
-Snapshot ID: `MCwwMjgzN2E5ZDc5NTg3ZjU0ZWYzNmYyNGFlZTA1ZDI2MTcxMGQyYWU4`
+Snapshot ID: `MCwyMDU3OWU4MzE1NGUyNmEwYWQ2OTA0MzMwN2YyNjIyZTg4MTdhYWU5`

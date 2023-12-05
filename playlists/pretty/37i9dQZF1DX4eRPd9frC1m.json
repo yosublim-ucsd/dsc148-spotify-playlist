@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2591130,
+  "num_followers": 2591266,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTgxMzBlNmM0MTJiODU2MDlmZDY1NzhkOGU3NmQzMmRmMDU0NTcy",
+  "snapshot_id": "MCxlMTFlZmFlOTQ2NTIxMmYxOGY5YTM1YmIyYjNjZDQ5YjRmMmRkNmU2",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -199,26 +199,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Quest For Fire",
-        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
+        "name": "Puzzle Box",
+        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         }
       ],
-      "duration_ms": 126774,
-      "name": "RATATA",
-      "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+      "duration_ms": 212210,
+      "name": "Puzzle Box",
+      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -239,22 +235,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Puzzle Box",
-        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
+        "name": "Quest For Fire",
+        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
         }
       ],
-      "duration_ms": 212210,
-      "name": "Puzzle Box",
-      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
+      "duration_ms": 126774,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -447,30 +447,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 228800,
       "name": "Name Drop",
       "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1055,22 +1087,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Suffer In Silence",
-        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 194248,
-      "name": "Suffer In Silence",
-      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "The Machines",
         "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 282834,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1247,26 +1247,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "TIKTOK",
-        "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
+        "name": "Rainbow Brain",
+        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
       },
       "artists": [
         {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         },
         {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "$teven Cannon",
-          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
         }
       ],
-      "duration_ms": 150193,
-      "name": "TIKTOK",
-      "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
+      "duration_ms": 226206,
+      "name": "Burn Up The Floor",
+      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1291,6 +1287,30 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "TIKTOK",
+        "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
+      },
+      "artists": [
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "TIKTOK",
+      "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Rainbow Brain",
-        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Burn Up The Floor",
-      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "2 MUCH (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "2 MUCH (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Sable Valley Summer Vol. 3",
         "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "2 MUCH (feat. 24hrs)",
-        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "2 MUCH (feat. 24hrs)",
-      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1551,22 +1551,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "REDLIGHT (VIP)",
-        "url": "https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA"
+        "name": "NO FEAR",
+        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 199118,
-      "name": "REDLIGHT - VIP",
-      "url": "https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5"
+      "duration_ms": 174400,
+      "name": "NO FEAR",
+      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
     }
   ],
   "unique_name": "Hype",

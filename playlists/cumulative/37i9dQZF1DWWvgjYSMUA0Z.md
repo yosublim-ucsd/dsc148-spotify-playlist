@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-162 songs - 9 hr 13 min
+163 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2022-07-22 | 2023-11-25 |
 | [Change of Pace](https://open.spotify.com/track/53ZODOnTzPf4MqDB7v8at2) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Change of Pace](https://open.spotify.com/album/2anqY9wJYgXhjU1s9PrRt3) | 2:17 | 2023-03-30 |  |
 | [Chasm](https://open.spotify.com/track/32SNJDRamK9R2IkeKZ7ALH) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Chasm](https://open.spotify.com/album/2EwlaVeqEpTPy5c9hTUO9v) | 2:57 | 2023-11-24 |  |
+| [Closeness](https://open.spotify.com/track/54fl7LXaGnQAyT0OIB8I5X) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Closeness](https://open.spotify.com/album/6uSckUQYGKZ4LCdK9uHYZM) | 3:02 | 2023-12-04 |  |
 | [Cloud Surfing](https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:58 | 2021-12-22 |  |
 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 | 2021-12-22 |  |
 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 |  |
@@ -57,7 +58,7 @@
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2021-12-22 |  |
 | [Gemstone](https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Gemstone](https://open.spotify.com/album/0YonZJr6p64ujZmsEiUqjT) | 2:31 | 2023-01-09 |  |
 | [Glossed Over](https://open.spotify.com/track/14frsYzCdq6mDl6Gxd2C44) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Glossed Over](https://open.spotify.com/album/0Y7gEEr1DATRD28D9dmYxX) | 2:17 | 2023-05-05 |  |
-| [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 | 2022-01-14 |  |
+| [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 | 2022-01-14 | 2023-12-05 |
 | [Healer](https://open.spotify.com/track/0s1wFa94M0alEVoQbaXQl3) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 2:55 | 2021-12-22 | 2022-03-30 |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-04-21 |  |
 | [Healing Energy](https://open.spotify.com/track/4MpPa7WiJ2dXx7uMenOZdU) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Healing Energy](https://open.spotify.com/album/2YOYGhBR5a84AzCYA39cKF) | 3:20 | 2023-03-17 |  |

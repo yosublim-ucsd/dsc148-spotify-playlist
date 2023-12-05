@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31611,
+  "num_followers": 31617,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGVhNTFjY2NiOTZkMzM2YmJlYTdmMzU3MjRkOTY2ODk5NGQxZjcz",
+  "snapshot_id": "MCwyOTc0MzhiMWU3ODBiMzMzMWY4YWE1NGZiNzM5OGU0ZjY0ODM4NDgw",
   "tracks": [
     {
       "added_at": "2023-10-26 20:37:32",
@@ -135,6 +135,42 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+      },
+      "artists": [
+        {
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
+      },
+      "artists": [
+        {
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "El Dia que me Quieras",
+      "url": "https://open.spotify.com/track/1iPdxaOl9A0KJfCCdzaXvK"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
         "name": "Apal\u00e1p!",
         "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
@@ -159,18 +195,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
       "artists": [
         {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
         }
       ],
-      "duration_ms": 200706,
-      "name": "El Dia que me Quieras",
-      "url": "https://open.spotify.com/track/1iPdxaOl9A0KJfCCdzaXvK"
+      "duration_ms": 114760,
+      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -187,42 +223,6 @@
       "duration_ms": 169586,
       "name": "Tico Tico No Fub\u00e0",
       "url": "https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
-      },
-      "artists": [
-        {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
-        }
-      ],
-      "duration_ms": 301493,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "B\u00e9same Mucho",
-        "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
-      },
-      "artists": [
-        {
-          "name": "Oscar Aleman",
-          "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "Estambul",
-      "url": "https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Vo!!",
         "url": "https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 353520,
       "name": "A Night in Tunisia",
       "url": "https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
+      },
+      "artists": [
+        {
+          "name": "Oscar Aleman",
+          "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
+        }
+      ],
+      "duration_ms": 175213,
+      "name": "Estambul",
+      "url": "https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "San Juan Live Sessions",
-        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 145601,
-      "name": "Summertime - San Juan Live Sessions",
-      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Malosetti & la Colonia",
         "url": "https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 368192,
       "name": "Cleanie",
       "url": "https://open.spotify.com/track/15SNYdk5pJfuWCVdrRRCkD"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -431,38 +431,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Cinemateca Finlandesa",
-        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
+        "name": "San Juan Live Sessions",
+        "url": "https://open.spotify.com/album/1ubJr6ptIPjunkPCrPIoJx"
       },
       "artists": [
         {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Adri\u00e1n Iaies",
-          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Viernes 3AM",
-      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+      "duration_ms": 145601,
+      "name": "Summertime - San Juan Live Sessions",
+      "url": "https://open.spotify.com/track/4XlEKFkjAggPIEwQWEtVMz"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -499,22 +479,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -535,18 +499,38 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Malosetti & la Colonia",
-        "url": "https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH"
+        "name": "Cinemateca Finlandesa",
+        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
       "artists": [
         {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Adri\u00e1n Iaies",
+          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
         }
       ],
-      "duration_ms": 215136,
-      "name": "Rusty",
-      "url": "https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe"
+      "duration_ms": 276640,
+      "name": "Viernes 3AM",
+      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -563,6 +547,22 @@
       "duration_ms": 220532,
       "name": "Lago de Forma Mia",
       "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Malosetti & la Colonia",
+        "url": "https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH"
+      },
+      "artists": [
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        }
+      ],
+      "duration_ms": 215136,
+      "name": "Rusty",
+      "url": "https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Danza",
         "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 280635,
       "name": "Pop",
       "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+      },
+      "artists": [
+        {
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 402265,
-      "name": "Primavera Porte\u00f1a",
-      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Flor de piel",
         "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
       },
@@ -851,6 +835,38 @@
       "duration_ms": 155904,
       "name": "Flor de piel",
       "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 402265,
+      "name": "Primavera Porte\u00f1a",
+      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -883,58 +899,22 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Swing Summit",
-        "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
       },
       "artists": [
         {
-          "name": "Manuel Fraga",
-          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
         },
         {
-          "name": "Oscar Giunta",
-          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
-        },
-        {
-          "name": "Pablo Motta",
-          "url": "https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6"
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
         }
       ],
-      "duration_ms": 273213,
-      "name": "Swing Summit",
-      "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+      "duration_ms": 436414,
+      "name": "Kua Nalu",
+      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -955,22 +935,26 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+        "name": "Swing Summit",
+        "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
       "artists": [
         {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+          "name": "Manuel Fraga",
+          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
         },
         {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+          "name": "Oscar Giunta",
+          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
+        },
+        {
+          "name": "Pablo Motta",
+          "url": "https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6"
         }
       ],
-      "duration_ms": 436414,
-      "name": "Kua Nalu",
-      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+      "duration_ms": 273213,
+      "name": "Swing Summit",
+      "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
       "artists": [
         {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "...Baby One More Time",
-        "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
       "artists": [
         {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         }
       ],
-      "duration_ms": 201500,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1107,6 +1091,22 @@
       "duration_ms": 296653,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "...Baby One More Time",
+        "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
+      },
+      "artists": [
+        {
+          "name": "Manto de Carne",
+          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
-      },
-      "artists": [
-        {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
-        }
-      ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 188345,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+      },
+      "artists": [
+        {
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+        }
+      ],
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2023-10-26 20:37:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,782 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,038 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 7 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
 | 8 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 |
 | 9 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
-| 10 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 |
-| 11 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 |
-| 12 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
-| 13 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
+| 10 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
+| 11 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 |
+| 12 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 |
+| 13 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 14 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
 | 15 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 16 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 38 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 39 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
 | 40 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
-| 41 | [Debaser](https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:51 |
-| 42 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
+| 41 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
+| 42 | [Debaser](https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:51 |
 | 43 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
 | 44 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 45 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 56 | [Fools Gold \- Remastered](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 57 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
 | 58 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
-| 59 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
-| 60 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 59 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 60 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
 | 61 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 62 | [And We Danced](https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Super Hits](https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo) | 3:47 |
 | 63 | [Hounds Of Love](https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
 | 80 | [I Will Dare](https://open.spotify.com/track/1MV5BzujqyRQ417qj0rXNS) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be \(Expanded\)](https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL) | 3:17 |
 
-Snapshot ID: `MCxlYzhlNWFjOGM1NGVjZGMwYWJjYTQxMzFmNWMyOTc1ODhlZWJjNjk1`
+Snapshot ID: `MCwwMjMxZWY5ODhmOTA2ZjQ1MjI1ZTAzODQwN2U5YjFiYTA0ZmM2ZDhm`

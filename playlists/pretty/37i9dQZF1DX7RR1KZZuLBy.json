@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 37163,
+  "num_followers": 37220,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI3YTU3MDFiNTQxYjA5NzNhMGY0M2QxZjczNTA0MGNlOWJlYWNi",
+  "snapshot_id": "MCxjMzZhM2EzYTIzNDZiMzgxNzRlZDA4MzFiZTU2MzQ0YTBmMWQ3M2Vi",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -111,8 +111,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
@@ -120,17 +120,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         },
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -147,6 +147,66 @@
       "duration_ms": 503240,
       "name": "Way Maker - Live",
       "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 470880,
+      "name": "Raise a Hallelujah - Live",
+      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Yet",
+        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
+      },
+      "artists": [
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        }
+      ],
+      "duration_ms": 302042,
+      "name": "Yet",
+      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -203,8 +263,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
       "artists": [
         {
@@ -212,93 +272,13 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 470880,
-      "name": "Raise a Hallelujah - Live",
-      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Yet",
-        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
-      },
-      "artists": [
-        {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
-        }
-      ],
-      "duration_ms": 302042,
-      "name": "Yet",
-      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+      "duration_ms": 568786,
+      "name": "Broken Vessels (Amazing Grace) - Live",
+      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -335,22 +315,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 568786,
-      "name": "Broken Vessels (Amazing Grace) - Live",
-      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -367,6 +351,22 @@
       "duration_ms": 343426,
       "name": "Graves Into Gardens",
       "url": "https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -435,26 +435,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Spirit of Praise, Vol. 8 (Live)",
+        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
         },
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
         }
       ],
-      "duration_ms": 405513,
-      "name": "Million Little Miracles (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+      "duration_ms": 475664,
+      "name": "Thath'Indawo (Live)",
+      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -475,22 +471,38 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Spirit of Praise, Vol. 8 (Live)",
-        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+        "name": "The Afterparty Deluxe",
+        "url": "https://open.spotify.com/album/1w19pMaq0hP50uuhc8fHP4"
       },
       "artists": [
         {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         },
         {
-          "name": "Mpumi Mtsweni",
-          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 475664,
-      "name": "Thath'Indawo (Live)",
-      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+      "duration_ms": 178998,
+      "name": "Red Dirt Church (feat. NEEDTOBREATHE)",
+      "url": "https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -539,28 +551,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Afterparty Deluxe",
-        "url": "https://open.spotify.com/album/1w19pMaq0hP50uuhc8fHP4"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        },
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 178998,
-      "name": "Red Dirt Church (feat. NEEDTOBREATHE)",
-      "url": "https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
       "artists": [
         {
@@ -568,29 +560,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 442264,
-      "name": "Trust In God (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 309600,
-      "name": "Intentional",
-      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
+      "duration_ms": 405513,
+      "name": "Million Little Miracles (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -663,6 +643,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -683,6 +683,42 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Moy\u2019 Oyingcwele (Live)",
+        "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        }
+      ],
+      "duration_ms": 500087,
+      "name": "Moy\u2019 Oyingcwele (Live)",
+      "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -719,26 +755,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Moy\u2019 Oyingcwele (Live)",
-        "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Ayanda Ntanzi",
-          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
-        }
-      ],
-      "duration_ms": 500087,
-      "name": "Moy\u2019 Oyingcwele (Live)",
-      "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
         "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+        "name": "Restored (Live)",
+        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 433773,
+      "name": "Haleluyah Mdumiseni (Live)",
+      "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -783,22 +799,6 @@
       "duration_ms": 245146,
       "name": "If He Did It Before....Same God - Live",
       "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Restored (Live)",
-        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
-      },
-      "artists": [
-        {
-          "name": "Lebo Sekgobela",
-          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
-        }
-      ],
-      "duration_ms": 433773,
-      "name": "Haleluyah Mdumiseni (Live)",
-      "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
+        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 336213,
+      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
+      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Jesus Is Enough",
         "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
       },
@@ -875,42 +891,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
-        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 336213,
-      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
-      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Thandwa Ndim",
-        "url": "https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH"
-      },
-      "artists": [
-        {
-          "name": "The Soil",
-          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
-        },
-        {
-          "name": "Thee Legacy",
-          "url": "https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX"
-        }
-      ],
-      "duration_ms": 271480,
-      "name": "Thandwa Ndim",
-      "url": "https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "This Is A Move (Live)",
         "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 183426,
       "name": "Just Like God",
       "url": "https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Thandwa Ndim",
+        "url": "https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH"
+      },
+      "artists": [
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        },
+        {
+          "name": "Thee Legacy",
+          "url": "https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX"
+        }
+      ],
+      "duration_ms": 271480,
+      "name": "Thandwa Ndim",
+      "url": "https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP"
     },
     {
       "added_at": "2023-12-01 00:01:00",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,531 likes - 65 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,620 likes - 65 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intermezzo 1](https://open.spotify.com/track/3iZQ1x0ZCvLRXGMRxKdFss) | [Davide Swarup](https://open.spotify.com/artist/6QOnII7AhBs2LR471krdEM) | [Music for Hang](https://open.spotify.com/album/4wQL5Z7ASoC4ZOgsqEPbfv) | 2:24 |
 | 2 | [Egyptian Drums \- Belly Dance](https://open.spotify.com/track/5spA168Sm4p8Xo4Vzo6cgV) | [All Star African Drum Ensemble](https://open.spotify.com/artist/38sjn6wlrnZnNbgVbUa4uI) | [African And Middle Eastern Drums: Belly Dance And Soukous Music](https://open.spotify.com/album/1ECFJW81uUcvWFX8mkQVdd) | 4:41 |
 | 3 | [Cappuccino Lovely: No\. 2\. Milk](https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 4:49 |
-| 4 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 |
+| 4 | [Perhentian](https://open.spotify.com/track/6uwiYkV67uGEEeAGnpmVMC) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 4:28 |
 | 5 | [Four Rotations for Marimba: Rotation IV](https://open.spotify.com/track/4Duzz9qeSkRcaG5qDyRpTm) | [Eric Sammut](https://open.spotify.com/artist/3mrO7UO9uxaicIbotgmqvR), [Tobias Messerschmidt](https://open.spotify.com/artist/7FKPzei8LlN2G0TNxGMB5t) | [Interiorem \(1\)](https://open.spotify.com/album/5Hsewm4LFqfXe0fpkADSSp) | 2:34 |
 | 6 | [News From New Zealand](https://open.spotify.com/track/4p7AfmyhefTJPsddROdcaj) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:13 |
 | 7 | [C\# Pygmy](https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [The Journey](https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75) | 8:36 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 47 | [Conga Jog](https://open.spotify.com/track/6CIaFiJeRNFlb5VkAnKayz) | [Al Gromer Khan](https://open.spotify.com/artist/7sGvSRxJMoJdO530qjic7H) | [Tantra Drums](https://open.spotify.com/album/0b6rrJHnrBBZkhm3VU1BqE) | 4:24 |
 | 48 | [Bhakti Gita](https://open.spotify.com/track/4IT2BC9XfBic5lIhIA828Z) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 8:17 |
 | 49 | [Yuki Jizoh](https://open.spotify.com/track/2mWZbWG2RtVOTARduC8j7v) | [Joji Hirota Taiko Drummers](https://open.spotify.com/artist/7EzRoc3LJEwVuJmuBOeecj) | [Joji Hirota and the Taiko Drummers: Japanese Taiko](https://open.spotify.com/album/1EKqHSTRR55iW4MR7saSnb) | 5:10 |
-| 50 | [Rotation 4](https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 2:24 |
-| 51 | [Shamanic Taiko](https://open.spotify.com/track/6XR02DiusEaXXtOJ89iqGT) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:04 |
-| 52 | [A Peaceful Discovery](https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [A Peaceful Discovery](https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid) | 2:27 |
-| 53 | [Slow Pace Papa](https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG) | [Southside Beatsters](https://open.spotify.com/artist/3TYCmQgTFXUbE460KfTlYe) | [Brewin' Afro Beats](https://open.spotify.com/album/0kET8NvmV0lCfGhFFfG1Wn) | 3:08 |
-| 54 | [Las Campanas](https://open.spotify.com/track/1sPL3D9CRdGjLEy3JEW2Wh) | [Wolfgang Ohmer](https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k) | [Sonic Blue \- Ambient Hang Music](https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5) | 6:15 |
-| 55 | [Aya](https://open.spotify.com/track/3Nn7evnh53trrJBA7AJgdr) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:30 |
-| 56 | [Perhentian](https://open.spotify.com/track/6uwiYkV67uGEEeAGnpmVMC) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 4:28 |
+| 50 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 |
+| 51 | [Rotation 4](https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 2:24 |
+| 52 | [Shamanic Taiko](https://open.spotify.com/track/6XR02DiusEaXXtOJ89iqGT) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:04 |
+| 53 | [A Peaceful Discovery](https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [A Peaceful Discovery](https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid) | 2:27 |
+| 54 | [Slow Pace Papa](https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG) | [Southside Beatsters](https://open.spotify.com/artist/3TYCmQgTFXUbE460KfTlYe) | [Brewin' Afro Beats](https://open.spotify.com/album/0kET8NvmV0lCfGhFFfG1Wn) | 3:08 |
+| 55 | [Las Campanas](https://open.spotify.com/track/1sPL3D9CRdGjLEy3JEW2Wh) | [Wolfgang Ohmer](https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k) | [Sonic Blue \- Ambient Hang Music](https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5) | 6:15 |
+| 56 | [Aya](https://open.spotify.com/track/3Nn7evnh53trrJBA7AJgdr) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:30 |
 | 57 | [Chilled Handpan Groove On The Streets](https://open.spotify.com/track/1Fq4qIMto7Wl7R6CJq8OuP) | [Handpan Mystic Flow](https://open.spotify.com/artist/4trNml03djbsrLqQWCbMnF) | [Trance Zen Dance](https://open.spotify.com/album/1pBMmdgLTkx4qUNMREa6KW) | 7:04 |
 | 58 | [Mindful Savanna](https://open.spotify.com/track/1MTAXqMjy1sQwe2gVgL7om) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:21 |
 | 59 | [Indu](https://open.spotify.com/track/4nX7uiHJD6xYxbuOim0w4T) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 5:54 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 64 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 |
 | 65 | [Meditation Hang](https://open.spotify.com/track/271abQ3QNCSWfqZqHva4zL) | [Ebenholthz](https://open.spotify.com/artist/638ZZLvfjyR45K1N6yD5Ip) | [Meditation Hang](https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N) | 2:58 |
 
-Snapshot ID: `MCxkY2I0ODhmYjdjNWRiYTc5ZmUyOTM0NDc2MGQxZWQxZGM5YzU2OWZm`
+Snapshot ID: `MCxkZGU1ZTAxMDQxMGE5ZjI4MzliOTE2ZjYwZGEyODg2OGIwNTRhZjQ3`

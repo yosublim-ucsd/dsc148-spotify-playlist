@@ -4,7 +4,7 @@
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-121 songs - 8 hr 13 min
+122 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Our Bubble](https://open.spotify.com/track/4GT4VsB0gbHicB2x76dPBC) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Our Bubble](https://open.spotify.com/album/59UEAx6Kjrd3zgmewzjeQi) | 2:54 | 2023-09-04 |  |
 | [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 | 2023-09-04 |  |
 | [Party Like Crazy](https://open.spotify.com/track/7FouYdNJFRPSrrLT9bOdMS) | [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [SUPER HIGH TENSION](https://open.spotify.com/album/0d8U98AMajWvDxgLHNeGAt) | 3:20 | 2023-09-04 |  |
-| [Picture](https://open.spotify.com/track/23OpEAIXfU1V8IbLMOi7JL) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Manchild](https://open.spotify.com/album/0CcaHuVp8BowpADMsmkYxa) | 3:19 | 2023-09-04 |  |
+| [Picture](https://open.spotify.com/track/0GPROFpPBqU5Si0xSGKLrU) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Manchild](https://open.spotify.com/album/21ZAH4W7oCQuiVM0xQteTd) | 3:19 | 2023-09-04 |  |
+| [Picture](https://open.spotify.com/track/23OpEAIXfU1V8IbLMOi7JL) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Manchild](https://open.spotify.com/album/0CcaHuVp8BowpADMsmkYxa) | 3:19 | 2023-09-04 | 2023-12-05 |
 | [Punch Drunk Love Song](https://open.spotify.com/track/1og9EqLf2bQ9jxnk1LQ0OK) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Uni\-Verse](https://open.spotify.com/album/4Fw6xkU6BuR8rpAfOyeC8w) | 4:52 | 2023-09-04 |  |
 | [Raise Up The Flag](https://open.spotify.com/track/1bEAB19L71KbTpnRwMNS2U) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Flag](https://open.spotify.com/album/7E41RcfjFjRwQpDWn7s19f) | 3:44 | 2023-09-04 |  |
 | [Red](https://open.spotify.com/track/2GFiPfOXaj9ZS827spSKBJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [TIME AFTER TIME SELECTION](https://open.spotify.com/album/2TW8qvxl1EnJ2xpD2ZnMB1) | 4:04 | 2023-09-04 |  |

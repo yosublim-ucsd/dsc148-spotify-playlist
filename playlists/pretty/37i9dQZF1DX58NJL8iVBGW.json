@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 588836,
+  "num_followers": 588942,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzdjYzJlZmViY2VmNTk2MTdkMThiMTJlNDAxMzI1NGE3NWEyNDQ2",
+  "snapshot_id": "MCwxYjcxNmY4ZGExZjRjMzVmNGM1MjZlMjhlZWUxMTg1Nzc4NTNjNDdk",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Ashkelon",
         "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -559,6 +543,22 @@
       "duration_ms": 229626,
       "name": "Heart Of My Own",
       "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/04XRtyMhwCe9HoWbzBO1eE"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 458000,
-      "name": "Heron Blue",
-      "url": "https://open.spotify.com/track/6GoESztTu0GEiWuVFgsBUx"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Oh, Willie, Please...",
         "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 228958,
       "name": "Pretty Polly",
       "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/04XRtyMhwCe9HoWbzBO1eE"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "duration_ms": 458000,
+      "name": "Heron Blue",
+      "url": "https://open.spotify.com/track/6GoESztTu0GEiWuVFgsBUx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
-      },
-      "artists": [
-        {
-          "name": "Bellstop",
-          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 331908,
       "name": "Shake off Your Flesh",
       "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
+      },
+      "artists": [
+        {
+          "name": "Bellstop",
+          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nothing But The Water",
-        "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter & The Nocturnals",
-          "url": "https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Nothing But The Water (I)",
-      "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 188677,
       "name": "Another Man\u02bcs Grave",
       "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Nothing But The Water",
+        "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter & The Nocturnals",
+          "url": "https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Nothing But The Water (I)",
+      "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2023-10-06 04:00:00",

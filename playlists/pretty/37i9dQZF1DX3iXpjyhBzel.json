@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad",
-  "num_followers": 1015900,
+  "num_followers": 1016193,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2FmNGEyN2UxZTMyZjIwZWM5OTNlZDU0YWVlNDgwNTliMzA1YTA3",
+  "snapshot_id": "MCw1NjViMWIxMWUyMThlN2E3MTU3MjIxN2ZhZGMwNTY1MjhiMjNhMjUw",
   "tracks": [
     {
       "added_at": "2023-11-24 07:00:22",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 248811,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
         "name": "Vem Me Buscar (Ao Vivo)",
         "url": "https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 219240,
       "name": "Minha Calmaria",
       "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 248811,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
+        "name": "Eu Creio (Believe For It)",
+        "url": "https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 383184,
+      "name": "Eu Creio (Believe For It)",
+      "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
         "name": "A Reforma",
         "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Eu Creio (Believe For It)",
-        "url": "https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 383184,
-      "name": "Eu Creio (Believe For It)",
-      "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "O Encontro",
         "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
         "name": "Esperan\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 319866,
       "name": "Esperan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "\u00c9s o Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 403538,
       "name": "\u00c9s o Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1051,30 +1051,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Paula Santos",
-          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
-        }
-      ],
-      "duration_ms": 497320,
-      "name": "Nada Al\u00e9m do Sangue - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 313141,
       "name": "Quebro Meu Vaso",
       "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Paula Santos",
+          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
+        }
+      ],
+      "duration_ms": 497320,
+      "name": "Nada Al\u00e9m do Sangue - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 354173,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "Pra Sempre YHWH",
         "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 453667,
       "name": "Pra Sempre YHWH",
       "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 354173,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438080,
-      "name": "N\u00f3s Te Adoramos - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 245136,
       "name": "Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438080,
+      "name": "N\u00f3s Te Adoramos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "O Lamento de Israel",
-        "url": "https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 254590,
-      "name": "O Lamento de Israel",
-      "url": "https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 408720,
       "name": "Altar (Altar) - Ao Vivo",
       "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "O Lamento de Israel",
+        "url": "https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 254590,
+      "name": "O Lamento de Israel",
+      "url": "https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg"
     },
     {
       "added_at": "2023-11-24 07:00:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Parc Jae Jung\(박재정\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,074 likes - 175 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,079 likes - 175 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 140 | [See you later](https://open.spotify.com/track/49YuuWJfFdTVQVAhIKJayp) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [See you later](https://open.spotify.com/album/3rCEmiDMGkp5ErKv218n6k) | 3:36 |
 | 141 | [Your Regards](https://open.spotify.com/track/6WgChN2kqQpNSsIXgu6oAX) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your Regards](https://open.spotify.com/album/3GGd74l9qQz3nu8nWnntAs) | 3:59 |
 | 142 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
-| 143 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
+| 143 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
 | 144 | [Let's Have a Drink](https://open.spotify.com/track/26GfPMUuBToGLUlEmjE2Go) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [ATELIER](https://open.spotify.com/album/4SBAMHsdBsKeyDb7EqzUV6) | 3:30 |
 | 145 | [My regards](https://open.spotify.com/track/1E7lMFb6c4p60DEJ8te3Be) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [My regards](https://open.spotify.com/album/6cHha0CTnBym1jW7xhcRJl) | 3:51 |
 | 146 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 174 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 175 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCwzZDllMzYxZDQzNWFhNDBmMjdhNDFlZTA0YjJjZWY2ODEzZjI2MmNk`
+Snapshot ID: `MCw3NjczNGU5ZmM0NmJmMzhjMWJlZjI0ZTU3NzMwNTBmNzAyYmVkMWE2`

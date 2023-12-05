@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 
 > Hit del passato e nuovi brani per la tua giornata perfetta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,928 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,029 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 14 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 15 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 |
 | 16 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
-| 17 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
-| 18 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
+| 17 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
+| 18 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
 | 19 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 20 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 21 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 54 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
 | 55 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
 | 56 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
-| 57 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 |
-| 58 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 |
+| 57 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 |
+| 58 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 |
 | 59 | [When You Say Nothing At All](https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 4:16 |
-| 60 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 |
-| 61 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
-| 62 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
-| 63 | [Lemon Tree](https://open.spotify.com/track/2epbL7s3RFV81K5UhTgZje) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish of the Day](https://open.spotify.com/album/3epesmrZX0KYpeImQtcVUa) | 3:11 |
+| 60 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 |
+| 61 | [Lemon Tree](https://open.spotify.com/track/2epbL7s3RFV81K5UhTgZje) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish of the Day](https://open.spotify.com/album/3epesmrZX0KYpeImQtcVUa) | 3:11 |
+| 62 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
+| 63 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 | 64 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 65 | [Good Old Days \(feat\. Kesha\)](https://open.spotify.com/track/2Za1AlJNvksouPPWbXpR2X) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [GEMINI](https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2) | 4:00 |
 

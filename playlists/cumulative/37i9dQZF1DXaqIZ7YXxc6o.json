@@ -7535,6 +7535,28 @@
     },
     {
       "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/7MfV1dRDusuRtvLBMUAddr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Cream",
+          "url": "https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf"
+        },
+        {
+          "name": "CHEDDAR",
+          "url": "https://open.spotify.com/artist/2VdXaUtovdv2YLpFlZkYlB"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124315,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/10Ub1SCVVE4jpyRzyhKiax"
+    },
+    {
+      "album": {
         "name": "Dancing Shoes (Take Me Higher)",
         "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
       },
@@ -32018,6 +32040,28 @@
       "duration_ms": 246533,
       "name": "Tension (Chromeo Remix)",
       "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
+    },
+    {
+      "album": {
+        "name": "Accepted Concept (Remixes)",
+        "url": "https://open.spotify.com/album/4SreqZhWrDv15bMIituXG3"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "date_added": "2023-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "Tension (FOVOS Remix)",
+      "url": "https://open.spotify.com/track/0wkSxsnb8hoITLBjZye6eX"
     },
     {
       "album": {

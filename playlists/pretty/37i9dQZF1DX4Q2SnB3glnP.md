@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,280 likes - 190 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,296 likes - 186 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,27 +176,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 166 | [Vá Devagar](https://open.spotify.com/track/34ttyToe7nrqpvxu9XMyr0) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:19 |
 | 167 | [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 |
 | 168 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 |
-| 169 | [Spectral Stone](https://open.spotify.com/track/6Rus9WFFNWmwink9FBzhjw) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Spectral Stone](https://open.spotify.com/album/5nw8PE1qYifYIlNXHQesdl) | 3:20 |
-| 170 | [Ripples](https://open.spotify.com/track/1Hwpy1vK4hFoEcdO25w6eu) | [Cotton Duo](https://open.spotify.com/artist/1kIGV2gyUr4qbx4o1jHVZ6) | [Ripples](https://open.spotify.com/album/4mKdlYkk85ECsIpO2CIBeu) | 2:05 |
-| 171 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 |
-| 172 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
-| 173 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 |
-| 174 | [60 bpm Slow Drone Sleep](https://open.spotify.com/track/2fJAcXD5AZzmscP73R1fbe) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Deep Sleep Music Experience](https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE) | [Music For Deep Sleep](https://open.spotify.com/album/1qDFYGroUiPFR9ZU9TxpDN) | 4:01 |
-| 175 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 |
-| 176 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 |
-| 177 | [Lullaby](https://open.spotify.com/track/0ieNtAr6lpIRu6MkyRgiq7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Effortless](https://open.spotify.com/album/6JBZgfycZAmFDdNdjT98hT) | 2:57 |
-| 178 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 |
-| 179 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 |
-| 180 | [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 |
-| 181 | [Owls](https://open.spotify.com/track/6PVUZBg7qJv94rC8EoWXrL) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 2:26 |
-| 182 | [Ecstasies of Desire](https://open.spotify.com/track/4oTsb3maEdFoUeQpLdKUT7) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Ecstasies of Desire](https://open.spotify.com/album/4EBdkEei2r6qVyMT5RVSQF) | 2:31 |
-| 183 | [Sakura](https://open.spotify.com/track/1tGkoTAHqcFeJ8jqgRzMXJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:31 |
-| 184 | [Submerged](https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 3:01 |
-| 185 | [Time \- Water Textures](https://open.spotify.com/track/1tf5kQZbSPjvLyewhaGEYM) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Darkened](https://open.spotify.com/album/3iM2G2OeCSwd9SPCInYw1Z) | 3:14 |
-| 186 | [Olvidado](https://open.spotify.com/track/18OvtoBWwAfDbrhUyIjMdN) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/6zkPu70oUFPTGpiKAdS4MZ) | 2:32 |
-| 187 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 |
-| 188 | [Incubations](https://open.spotify.com/track/5SMg4DyfRiY4wflodaMOFH) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Roland Mercier](https://open.spotify.com/album/7FTZ7ArfpJM4DNOkvqPf7q) | 3:09 |
-| 189 | [Essence](https://open.spotify.com/track/1sab9eLTbZCDOHxFAnO00e) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 3:08 |
-| 190 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 |
+| 169 | [Ripples](https://open.spotify.com/track/1Hwpy1vK4hFoEcdO25w6eu) | [Cotton Duo](https://open.spotify.com/artist/1kIGV2gyUr4qbx4o1jHVZ6) | [Ripples](https://open.spotify.com/album/4mKdlYkk85ECsIpO2CIBeu) | 2:05 |
+| 170 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 |
+| 171 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
+| 172 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 |
+| 173 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 |
+| 174 | [Lullaby](https://open.spotify.com/track/0ieNtAr6lpIRu6MkyRgiq7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Effortless](https://open.spotify.com/album/6JBZgfycZAmFDdNdjT98hT) | 2:57 |
+| 175 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 |
+| 176 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 |
+| 177 | [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 |
+| 178 | [Owls](https://open.spotify.com/track/6PVUZBg7qJv94rC8EoWXrL) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 2:26 |
+| 179 | [Ecstasies of Desire](https://open.spotify.com/track/4oTsb3maEdFoUeQpLdKUT7) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Ecstasies of Desire](https://open.spotify.com/album/4EBdkEei2r6qVyMT5RVSQF) | 2:31 |
+| 180 | [Sakura](https://open.spotify.com/track/1tGkoTAHqcFeJ8jqgRzMXJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:31 |
+| 181 | [Submerged](https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 3:01 |
+| 182 | [Time \- Water Textures](https://open.spotify.com/track/1tf5kQZbSPjvLyewhaGEYM) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Darkened](https://open.spotify.com/album/3iM2G2OeCSwd9SPCInYw1Z) | 3:14 |
+| 183 | [Olvidado](https://open.spotify.com/track/18OvtoBWwAfDbrhUyIjMdN) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/6zkPu70oUFPTGpiKAdS4MZ) | 2:32 |
+| 184 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 |
+| 185 | [Incubations](https://open.spotify.com/track/5SMg4DyfRiY4wflodaMOFH) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Roland Mercier](https://open.spotify.com/album/7FTZ7ArfpJM4DNOkvqPf7q) | 3:09 |
+| 186 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 |
 
-Snapshot ID: `MCw3YTFhM2IxNjU4ZWVmMWY3OTY3OTEzZTFmMzNlOTA0NzlhMDZkNDRj`
+Snapshot ID: `MCw4NjE5ZDVjMzg0ZTIyODgzNDRmMmVlNmYxZGYzNzI5ZjJlMmYxNTYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,345 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,361 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 23 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
 | 24 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
 | 25 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 |
-| 26 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 |
-| 27 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
-| 28 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
-| 29 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
+| 26 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
+| 27 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 |
+| 28 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
+| 29 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 30 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 31 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
 | 32 | [Clube Da Esquina Nº 2](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:38 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 40 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
 | 41 | [Melancholia VI](https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 2:15 |
 | 42 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
-| 43 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
-| 44 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
-| 45 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
-| 46 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
-| 47 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
-| 48 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
+| 43 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
+| 44 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 45 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
+| 46 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
+| 47 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
+| 48 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
 | 49 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
 | 50 | [Pipopapipo](https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg) | 3:36 |
 
-Snapshot ID: `MCw1N2U2Nzc3MDIwMzE2OWRhYTVjZWRmMDc3ZGY4NWNlN2I3YjYzM2Yz`
+Snapshot ID: `MCxlYTU5YjczZWViMzc2NGQ3OThmMzFjOTZlY2FjMTQwOWIwYjE4OWEz`

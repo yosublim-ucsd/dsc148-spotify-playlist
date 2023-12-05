@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 428663,
+  "num_followers": 428854,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODliNWRkNDc1NWFiNGM5ZGZmZmQzODc0NDU4ZDY4Zjc5ZTg4ZTVk",
+  "snapshot_id": "MCw4NThkODU0YTVhZmQxMjdmODkwY2MyY2U1ZDU0MTRjYWM1ZGNlYTkz",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -231,6 +231,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Party Rock",
         "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 222133,
       "name": "Shots",
       "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -303,26 +303,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Stamp!",
         "url": "https://open.spotify.com/album/7MbWoZrF41CMAzeUZdS8In"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 157432,
       "name": "Pjanoo - Radio Edit",
       "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Push The Beat For This Jam (The Second Chapter)",
+        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Now You're Gone - The Album",
         "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
       },
@@ -547,38 +563,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Push The Beat For This Jam (The Second Chapter)",
-        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Push The Button",
         "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
       },
@@ -595,22 +579,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Noah's Arc Soundtrack",
-        "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9"
       },
       "artists": [
         {
-          "name": "Bob Sinclair",
-          "url": "https://open.spotify.com/artist/3L3BRPgvibPQ7N7eZXw1uT"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 200400,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
+      "duration_ms": 218533,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -635,18 +615,38 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9"
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
         {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 218533,
-      "name": "D\u00e9senchant\u00e9e",
-      "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
+      "duration_ms": 199600,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Noah's Arc Soundtrack",
+        "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclair",
+          "url": "https://open.spotify.com/artist/3L3BRPgvibPQ7N7eZXw1uT"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Belle Epoque",
+        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
+      },
+      "artists": [
+        {
+          "name": "French Affair",
+          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "It Just Won't Do",
         "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 198000,
       "name": "It Just Won't Do - Radio Edit",
       "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Belle Epoque",
-        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
-      },
-      "artists": [
-        {
-          "name": "French Affair",
-          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Pretty Green Eyes (Remixes)",
-        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
-      },
-      "artists": [
-        {
-          "name": "Ultrabeat",
-          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Pretty Green Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Ready For The Weekend",
         "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 227880,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Pretty Green Eyes (Remixes)",
+        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
+      },
+      "artists": [
+        {
+          "name": "Ultrabeat",
+          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Pretty Green Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1371,22 +1371,6 @@
       "duration_ms": 340560,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Mind The Gap",
-        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Mind The Gap",
+        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Guetta Blaster",
         "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 399546,
       "name": "I Want Your Soul",
       "url": "https://open.spotify.com/track/5WEYk2b7fdg0hl42Ts3f4I"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1575,6 +1559,22 @@
       "duration_ms": 261093,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/0wYVNC09iLBVIqHB07Hckt"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "ROMBORAMA",
+        "url": "https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 203730,
+      "name": "Warp 1.9 (feat. Steve Aoki)",
+      "url": "https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 188000,
       "name": "Gettin' Over You (feat. Fergie & LMFAO)",
       "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "ROMBORAMA",
-        "url": "https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ"
-      },
-      "artists": [
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 203730,
-      "name": "Warp 1.9 (feat. Steve Aoki)",
-      "url": "https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm"
     },
     {
       "added_at": "2021-04-29 18:40:15",

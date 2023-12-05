@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran \u2728 Cover: Maria Becerra",
-  "num_followers": 643254,
+  "num_followers": 643242,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODAxZGQxNDkzMGNhN2UwNzRmYTBhZTkwODVkMTJiNmVjZGNmZTVj",
+  "snapshot_id": "MCxjZTMyMjAwNDRkZmQ1MTM2Njc5ZWU4NmNkMWEwODQ3YmI1ZjIyZGI5",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "S91",
-        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 173005,
-      "name": "S91",
-      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -191,22 +175,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "ALMA",
         "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
       },
@@ -223,6 +191,38 @@
       "duration_ms": 147603,
       "name": "8 AM",
       "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "S91",
+        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 173005,
+      "name": "S91",
+      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -299,38 +299,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "EL BARCO",
-      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "She Wolf (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "She Wolf",
-      "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -383,22 +351,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 151988,
-      "name": "LA NENA DE ARGENTINA",
-      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -411,6 +363,54 @@
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "She Wolf (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "She Wolf",
+      "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -543,6 +543,42 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Con los A\u00f1os Que Me Quedan",
+      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 210986,
+      "name": "MA\u00d1ANA SER\u00c1 BONITO",
+      "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -563,22 +599,6 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Con los A\u00f1os Que Me Quedan",
-      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -611,26 +631,6 @@
       "duration_ms": 139518,
       "name": "La Chain",
       "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 210986,
-      "name": "MA\u00d1ANA SER\u00c1 BONITO",
-      "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Minifalda",
-        "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "Minifalda",
-      "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 208378,
       "name": "Ni Una M\u00e1s",
       "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Minifalda",
+        "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Minifalda",
+      "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
     },
     {
       "added_at": "2023-11-24 05:00:00",

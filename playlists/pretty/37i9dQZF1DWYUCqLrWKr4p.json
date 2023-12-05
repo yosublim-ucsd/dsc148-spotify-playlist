@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 184380,
+  "num_followers": 184469,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjI0YmU5MDQyOGYwNjE1ODIwNzUxNTliOWZjMWM3NDk5Yjg1MWRh",
+  "snapshot_id": "MCxlYjkyMTMxODkwYmVkMWNkYWQ4YTI2MjI3MjA0OTIwMjI0NDQwZmEw",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "You've Lost That Lovin' Feelin'",
-        "url": "https://open.spotify.com/album/28FEznublcKslK88ehRrfy"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "You've Lost That Lovin' Feelin' - Single Version",
-      "url": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Mr. Soul",
         "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 158680,
       "name": "Nothing Can Change This Love",
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/28FEznublcKslK88ehRrfy"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "You've Lost That Lovin' Feelin' - Single Version",
+      "url": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -551,26 +551,6 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -643,6 +623,42 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Latin Ala Lee",
-        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Till There Was You - Remastered",
-      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "It Might As Well Be Swing",
         "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 149640,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Cream Of The Crop",
-        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Someday We'll Be Together",
-      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "My Cherie",
         "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 166906,
       "name": "Spanish Eyes",
       "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Cream Of The Crop",
+        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Someday We'll Be Together",
+      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -899,42 +899,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Hits and Rarities",
-        "url": "https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 149680,
-      "name": "This Magic Moment - Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6wccwN37R7tRotVrK8Htni"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "I'm Gonna Make You Love Me",
-      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Presenting Rosie & the Originals",
         "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
       },
@@ -947,6 +911,22 @@
       "duration_ms": 227600,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Hits and Rarities",
+        "url": "https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 149680,
+      "name": "This Magic Moment - Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6wccwN37R7tRotVrK8Htni"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -979,6 +959,26 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "I'm Gonna Make You Love Me",
+      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
     },
     {
       "added_at": "2022-05-30 13:02:24",

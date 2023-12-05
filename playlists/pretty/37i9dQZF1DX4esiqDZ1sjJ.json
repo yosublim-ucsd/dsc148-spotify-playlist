@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 367781,
+  "num_followers": 367838,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjc3MmE3ZjU3NzJhY2QzY2I1ODRlNjY5NTMxMWI1MGMwYzVhZjlh",
+  "snapshot_id": "MCxlMmRkMjU0ODFiMTk3MWVlNTI0ZDRhZTE1ZjgzMjhmYjNjZjU4OWFm",
   "tracks": [
     {
       "added_at": "2023-04-28 21:32:28",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "The Razors Edge",
         "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 202266,
       "name": "Paint It, Black",
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -335,6 +335,26 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -387,26 +407,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "FUTURE",
         "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "The Definition Of X: Pick Of The Litter",
-        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "X Gon' Give It To Ya",
-      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "The Definition Of X: Pick Of The Litter",
+        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "X Gon' Give It To Ya",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/1yX1ZzW6TBvQ1qeNpbiONH"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
-      "url": "https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy"
     }
   ],
   "unique_name": "Jock Jams",

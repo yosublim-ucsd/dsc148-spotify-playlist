@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-101 songs - 4 hr 37 min
+104 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,8 @@
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-11-20 |  |
 | [Beautiful Day.](https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Beautiful Day.](https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK) | 1:39 | 2023-11-20 |  |
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2023-11-20 |  |
+| [Before last month](https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Before last month](https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS) | 2:04 | 2023-12-04 |  |
+| [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 | 2023-12-04 |  |
 | [Children Will Listen](https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:23 | 2023-11-20 |  |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2023-11-20 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-11-20 |  |
@@ -44,7 +46,7 @@
 | [Happy Thoughts](https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [Happy Thoughts](https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq) | 1:48 | 2023-11-20 |  |
 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 | 2023-11-20 |  |
 | [Home](https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 1:47 | 2023-11-20 |  |
-| [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 |  |
+| [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 | 2023-12-05 |
 | [I See the Light \- From "Tangled"](https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [I See the Light \- From "Tangled"](https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0) | 3:20 | 2023-11-20 |  |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2023-11-20 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2023-11-20 |  |
@@ -63,10 +65,11 @@
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 |  |
 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 | 2023-11-20 |  |
 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 | 2023-11-20 |  |
-| [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 | 2023-11-20 |  |
+| [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 | 2023-11-20 | 2023-12-05 |
 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 | 2023-11-20 |  |
 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2023-11-20 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2023-11-20 |  |
+| [Never Blame The Young Ones](https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt) | [Alan Leon](https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU) | [Never Blame The Young Ones](https://open.spotify.com/album/57of76S9lNXzIClZYOU16R) | 2:18 | 2023-12-04 |  |
 | [Nostalgia.](https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Nostalgia.](https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8) | 1:44 | 2023-11-20 |  |
 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/51LmGNeKKCnfE8dnF5Oiaq) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [Little Robin Redbreast](https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso) | 1:07 | 2023-11-20 |  |
 | [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 | 2023-11-20 |  |
@@ -101,7 +104,7 @@
 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 | 2023-11-20 |  |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2023-11-20 |  |
 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 | 2023-11-20 |  |
-| [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2023-11-20 |  |
+| [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2023-11-20 | 2023-12-05 |
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2023-11-20 |  |
 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 | 2023-11-20 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-11-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,024 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,015 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [If You Think You've Seen It All](https://open.spotify.com/track/6nzegGZ4Y4YQq2dSsbF9R7) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 4:28 |
 | 100 | [Another Half](https://open.spotify.com/track/0sAPtWTy125jIkSDOT9YdO) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 2:28 |
 
-Snapshot ID: `MCxhYjBkMDZkOGVmZTVkM2EyNDViNDdjODcxOTRhODNjYWU4N2ZjOTRi`
+Snapshot ID: `MCxjOGNkZDZjZWExNDk4YWMzYWJjMDA1Nzg4Zjc1ZjNjZDYwYTE2ODdi`

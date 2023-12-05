@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 350202,
+  "num_followers": 350276,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmRjMDE2OTU1OTllZjhkYzY3MDhmZjViYjQxZWQ1NDlmNTdkZDY1",
+  "snapshot_id": "MCwyZWE3NmM0ZTZmNzMwZTE4NGU5ZTJjOTRmOWQ4ZDVkMWY4ZTFmMjAz",
   "tracks": [
     {
       "added_at": "2023-11-23 09:59:59",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -327,6 +311,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 178266,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Somewhere I Belong",
-      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -767,22 +751,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Sleep Now In the Fire",
-      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 213800,
       "name": "Every You Every Me",
       "url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Sleep Now In the Fire",
+      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Crooked Teeth",
-        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214797,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 252360,
       "name": "Send the Pain Below",
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Amaryllis",
-        "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Amaryllis",
+        "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Stomping Ground",
-        "url": "https://open.spotify.com/album/3T8jR4mkcdaLCsyaP8nQ1r"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "99 Red Balloons",
-      "url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "10,000 gecs",
         "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Stomping Ground",
+        "url": "https://open.spotify.com/album/3T8jR4mkcdaLCsyaP8nQ1r"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "99 Red Balloons",
+      "url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire (Bonus Track)",
       "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 245573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
-        "name": "Veni Vidi Vicious",
-        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 199759,
-      "name": "Hate To Say I Told You So",
-      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+        "name": "Veni Vidi Vicious",
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 174026,
-      "name": "Little Sister",
-      "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+      "duration_ms": 199759,
+      "name": "Hate To Say I Told You So",
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2023-11-23 09:59:59",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-23 09:59:59",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 176805,
-      "name": "Tear Me to Pieces",
-      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
-    },
-    {
-      "added_at": "2023-11-23 09:59:59",
-      "album": {
         "name": "Core (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 245266,
       "name": "Wicked Garden - 2017 Remaster",
       "url": "https://open.spotify.com/track/7FblcKgEyo6zZjSMAnYpOX"
+    },
+    {
+      "added_at": "2023-11-23 09:59:59",
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
     },
     {
       "added_at": "2023-11-23 09:59:59",

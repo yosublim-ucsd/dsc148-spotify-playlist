@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,794 likes - 73 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,903 likes - 73 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

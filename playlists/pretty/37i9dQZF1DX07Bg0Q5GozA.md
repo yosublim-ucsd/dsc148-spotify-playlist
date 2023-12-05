@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: WhoMadeWho
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,235 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,292 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [The Morning](https://open.spotify.com/track/4H8LXYMF0OABJpjL4wD4mb) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [The Morning](https://open.spotify.com/album/2mkAIECa1rpTjtX5ZqgTPS) | 4:09 |
 | 75 | [Hell & Heaven](https://open.spotify.com/track/1GNecsOsY6eplkYgqsBzwU) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO) | [Hell & Heaven](https://open.spotify.com/album/1PcdjiOHD0AclkaSet5pmF) | 4:02 |
 
-Snapshot ID: `MCwxYzUxZDI5YzY0YzZmOGFjOGE5NThlOWMxNmUxYzAyOTgyZjk2ZTY3`
+Snapshot ID: `MCwwNjU0MTRkODY1MmFhOWZiMGY4ZGRiNzJkYjkyY2RlZGJlNjkzNmQx`

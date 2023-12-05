@@ -1,12 +1,12 @@
 {
   "description": "Lazy slow lofi beats for laid-back moments.",
-  "num_followers": 628812,
+  "num_followers": 629323,
   "original_name": "lofi chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDk0ZGI3NjRlOWJjMzkzMTRiNGIyYzZlMWJiYjBmMGRhNjc1NTM2",
+  "snapshot_id": "MCw0MzFlNzNkNmVlM2RmMGI2ZDljZTAxOTc4YTM2YjRlOGM2ZTQ4OGU1",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -5210,6 +5210,18 @@
         {
           "name": "lonelyboy",
           "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "Dion Evans",
+          "url": "https://open.spotify.com/artist/3T63GJFhhxuxhCWiPGpYlL"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
       "duration_ms": 138923,

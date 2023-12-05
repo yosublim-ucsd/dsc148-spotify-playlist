@@ -1515,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "MERRY CHRISTMAS",
+      "url": "https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp"
+    },
+    {
+      "album": {
         "name": "Mothers And Shepherds",
         "url": "https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj"
       },
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 340666,
       "name": "O What A Night (with Vision)",
       "url": "https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL"

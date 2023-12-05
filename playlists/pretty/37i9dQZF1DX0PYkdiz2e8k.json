@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 66900,
+  "num_followers": 67001,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDg4MTdiMGYzODFiZTcxYmIxYzgzY2FlYjA0MjgxNjk0ZGU2MDQx",
+  "snapshot_id": "MCxmN2FkN2VkYTQxYTlhN2M3OTI1YjVhOWQ1ZWYyMjdiMDQ3ZDFkMzc3",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 164682,
-      "name": "BABY SAID",
-      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 206640,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Lowlife",
         "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -247,6 +247,26 @@
       "duration_ms": 267800,
       "name": "Death Of An Executioner",
       "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -315,42 +335,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -383,22 +367,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "III: Lost Chapter",
-        "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "Pentakill",
-          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
-        },
-        {
-          "name": "Jorn Lande",
-          "url": "https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Lost Chapter",
-      "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -415,6 +395,42 @@
       "duration_ms": 174146,
       "name": "Even When I\u2019m Not With You",
       "url": "https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "III: Lost Chapter",
+        "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
+      },
+      "artists": [
+        {
+          "name": "Pentakill",
+          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
+        },
+        {
+          "name": "Jorn Lande",
+          "url": "https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Lost Chapter",
+      "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "MONO",
         "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Confident (Rock Version)",
-        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 205675,
-      "name": "Confident - Rock Version",
-      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 234159,
       "name": "RED",
       "url": "https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Confident (Rock Version)",
+        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 205675,
+      "name": "Confident - Rock Version",
+      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -567,26 +567,6 @@
       "duration_ms": 203536,
       "name": "Three Minutes More",
       "url": "https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-        "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        },
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-      "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -671,6 +651,42 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
+        "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
+      "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "under (feat. phem)",
         "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
       },
@@ -723,6 +739,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Children In The Dark",
         "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
       },
@@ -735,6 +767,22 @@
       "duration_ms": 178842,
       "name": "Children In The Dark",
       "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "hello this is the setlist for my tour",
+        "url": "https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -755,22 +803,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "isolation demos",
         "url": "https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu"
       },
@@ -783,22 +815,6 @@
       "duration_ms": 154960,
       "name": "cold cold cold",
       "url": "https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -819,22 +835,6 @@
       "duration_ms": 120943,
       "name": "grave inside my head",
       "url": "https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "hello this is the setlist for my tour",
-        "url": "https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX"
     },
     {
       "added_at": "2023-11-17 03:01:00",

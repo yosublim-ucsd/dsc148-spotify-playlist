@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22764,
+  "num_followers": 22773,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2Q5N2ExOTY1NDM4NTI2ZTA3N2QwNTI3M2MzMzI2NjJjYjRhZDlm",
+  "snapshot_id": "MCw5ZWMwNWEzYTBjMmUzNGVkNDcyM2NmMzY0NzI1MzhkNWUyZTRiMTkz",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -115,22 +115,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -147,6 +131,42 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -179,22 +199,6 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Foursider",
-        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Mais Que Nada",
-      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -235,22 +239,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "Foursider",
+        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+      "duration_ms": 159466,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -327,6 +327,30 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
         "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
       },
@@ -371,30 +395,6 @@
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "Bebete V\u00e3obora",
-      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Buena Vista Social Club at Carnegie Hall (Live)",
         "url": "https://open.spotify.com/album/4lsvzkvzZqKJQsfjLV76RR"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Bebete V\u00e3obora",
+      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
+      },
+      "artists": [
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Voc\u00ea N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "The Loser / Now We Know",
         "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 180626,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
-      },
-      "artists": [
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Voc\u00ea N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Dois Momentos",
-        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Quando voc\u00ea chegar",
-      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
         "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Dois Momentos",
+        "url": "https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Quando voc\u00ea chegar",
+      "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
     },
     {
       "added_at": "2020-11-10 18:47:22",

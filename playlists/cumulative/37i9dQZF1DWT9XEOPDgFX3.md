@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-419 songs - 1 day 2 hr 1 min
+420 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2022-04-13 | 2022-07-29 |
 | [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 | 2023-02-17 | 2023-08-08 |
 | [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 | 2023-10-13 |  |
+| [Coffee](https://open.spotify.com/track/6Nar1OSCQBUqXQ7G6lUIq1) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coffee](https://open.spotify.com/album/6fUx09147ONG7cKZyHK1cC) | 2:43 | 2023-12-01 |  |
 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 | 2023-07-21 |  |
 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 | 2023-09-16 |
 | [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 | 2022-04-13 | 2022-11-26 |
@@ -96,7 +97,7 @@
 | [Couldn't Have Done The Killing](https://open.spotify.com/track/2UVuSsogV0q0OoNBNt0q8S) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [The Path of the Clouds](https://open.spotify.com/album/0kYKOTCAxIIEWKlNlhkOfJ) | 4:49 | 2022-04-13 | 2022-07-27 |
 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 | 2023-07-14 | 2023-10-01 |
 | [Crybaby](https://open.spotify.com/track/1Fe51DbsaZeTmLxqnp7eYf) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Crybaby](https://open.spotify.com/album/2zMU4HPuaNTBpWscm9PsXy) | 3:45 | 2023-02-24 | 2023-06-05 |
-| [Cubic Zirconia](https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cubic Zirconia](https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT) | 4:04 | 2023-09-01 |  |
+| [Cubic Zirconia](https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cubic Zirconia](https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT) | 4:04 | 2023-09-01 | 2023-12-05 |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2022-01-21 |  |
 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 | 2023-04-07 | 2023-06-16 |
 | [Dear Mexico \(Thank You for Joyce\)](https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 4:05 | 2022-12-16 |  |

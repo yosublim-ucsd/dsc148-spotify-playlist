@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Relax to these acoustic soul songs\. Cover: Mychelle
+> Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,176 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,191 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Self Sabotage \- Acoustic](https://open.spotify.com/track/7FWW21iLIVkYg99gANYfV6) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Self Sabotage \(Acoustic\)](https://open.spotify.com/album/4YCEWCy3qYjeU1r3kbGF7x) | 2:52 |
-| 2 | [Back to Me \- Acoustic](https://open.spotify.com/track/49Tof5ULqzojVlQUn58Agn) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Reflections](https://open.spotify.com/album/0N2DgbvcCI7I977mbQgVUD) | 4:10 |
-| 3 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 |
-| 4 | [I'm Leaving \- The Circle Session, 2023](https://open.spotify.com/track/6f1OkhQzergSERbJT4IIbe) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I'm Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/0cQqT0QeuqNC52MPYhpwTv) | 5:19 |
-| 5 | [All My Love](https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [I Told You I Would](https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM) | 3:28 |
-| 6 | [After All](https://open.spotify.com/track/2XedKPvjp1e3jv7lZeU1Zt) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [After All](https://open.spotify.com/album/7yTpIYH7VeaVv8KD26oWqG) | 3:19 |
+| 1 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 |
+| 2 | [Self Sabotage \- Acoustic](https://open.spotify.com/track/7FWW21iLIVkYg99gANYfV6) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Self Sabotage \(Acoustic\)](https://open.spotify.com/album/4YCEWCy3qYjeU1r3kbGF7x) | 2:52 |
+| 3 | [After All](https://open.spotify.com/track/2XedKPvjp1e3jv7lZeU1Zt) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [After All](https://open.spotify.com/album/7yTpIYH7VeaVv8KD26oWqG) | 3:19 |
+| 4 | [Back to Me \- Acoustic](https://open.spotify.com/track/49Tof5ULqzojVlQUn58Agn) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Reflections](https://open.spotify.com/album/0N2DgbvcCI7I977mbQgVUD) | 4:10 |
+| 5 | [I'm Leaving \- The Circle Session, 2023](https://open.spotify.com/track/6f1OkhQzergSERbJT4IIbe) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I'm Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/0cQqT0QeuqNC52MPYhpwTv) | 5:19 |
+| 6 | [All My Love](https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [I Told You I Would](https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM) | 3:28 |
 | 7 | [Whoever You Are \- Live at RAK](https://open.spotify.com/track/6kVsawZQt4GPbFXSYS3DsY) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Live at RAK](https://open.spotify.com/album/2bzinM4FmvifmFBf6XUGZ6) | 7:00 |
 | 8 | [Is It Any Wonder? \- Live at Paste](https://open.spotify.com/track/7MGlEFQtwlbT0qJF3fK8Vj) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live at Paste](https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY) | 4:09 |
 | 9 | [No Clouds No Love](https://open.spotify.com/track/5XFbZWqWXasU1DGx5Xxfsl) | [whothefislou](https://open.spotify.com/artist/3wyFq7XvimcjTGC0RifBZW), [ambrozia](https://open.spotify.com/artist/7k6t9onDZKvbED454IY0Lm) | [Wavelength](https://open.spotify.com/album/4zFHXvzqE5erI4pwYZyohF) | 3:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 89 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wrbQzavSwdzRgRCxLBewg) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/0OfmMxMJ99DQL61l89OcUE) | 4:25 |
 | 90 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 
-Snapshot ID: `MCwwMTJmNWQyNGYyZTEyNTcwMjk1NTdhNzY5ZWY4NjRiODlmNTc3OGNj`
+Snapshot ID: `MCxlMjJhODFiY2I2Yjc5MWRlY2RjNWYxODFkYzFlYjJmZGFhMjQ0Y2Yx`

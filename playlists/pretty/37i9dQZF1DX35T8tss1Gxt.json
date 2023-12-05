@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 221431,
+  "num_followers": 221576,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDUwYWE4Mjk0ZDcxY2Q4ODA3ODJlYjdmMjI3MTMyNmMxNDM0YWM4",
+  "snapshot_id": "MCxkNmYxYWVjYjM1MjBmM2IwNDU5ZmMyZmU5NzkyNmM5MTU2YmE4ZWI0",
   "tracks": [
     {
       "added_at": "2023-11-03 07:44:24",
@@ -183,18 +183,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Way Too Good",
-        "url": "https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO"
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
       },
       "artists": [
         {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Way Too Good",
-      "url": "https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf"
+      "duration_ms": 168236,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -219,22 +223,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
+        "name": "Way Too Good",
+        "url": "https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO"
       },
       "artists": [
         {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
         }
       ],
-      "duration_ms": 168236,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
+      "duration_ms": 161454,
+      "name": "Way Too Good",
+      "url": "https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Your Love Will Never Change",
-        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Your Love Will Never Change",
-      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Hearts in Pain",
         "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 172972,
       "name": "Hearts in Pain",
       "url": "https://open.spotify.com/track/1dJ603jNcGc6eXdRL9Jv78"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Your Love Will Never Change",
+        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Your Love Will Never Change",
+      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Way Home",
-        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Get to Me",
         "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 198373,
       "name": "Get to Me",
       "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Belongs To You (Remix Pack)",
         "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 158479,
       "name": "Belongs To You - Lofi Remix",
       "url": "https://open.spotify.com/track/4niYuESanlUNSn9m9v16P0"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -915,30 +915,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Belongs To You (R&B Remix)",
-        "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
-      },
-      "artists": [
-        {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
-        },
-        {
-          "name": "Davidb",
-          "url": "https://open.spotify.com/artist/7jNo7ygyhy9pNeEhJLqS3M"
-        },
-        {
-          "name": "Rae Rae",
-          "url": "https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo"
-        }
-      ],
-      "duration_ms": 191122,
-      "name": "Belongs To You - R&B Remix",
-      "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 149765,
       "name": "NITE-N-DAY",
       "url": "https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Belongs To You (R&B Remix)",
+        "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        },
+        {
+          "name": "Davidb",
+          "url": "https://open.spotify.com/artist/7jNo7ygyhy9pNeEhJLqS3M"
+        },
+        {
+          "name": "Rae Rae",
+          "url": "https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo"
+        }
+      ],
+      "duration_ms": 191122,
+      "name": "Belongs To You - R&B Remix",
+      "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Nothing To Something",
-        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 257896,
-      "name": "Nothing To Something",
-      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 248057,
       "name": "First Love",
       "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Nothing To Something",
+        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 257896,
+      "name": "Nothing To Something",
+      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "I'll Praise",
         "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 160405,
       "name": "I'll Praise",
       "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Pull My Heart Away",
-        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sweat",
-          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Pull My Heart Away",
-      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "GOOD TO ME",
         "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 207840,
       "name": "GOOD TO ME",
       "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Pull My Heart Away",
+        "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sweat",
+          "url": "https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Pull My Heart Away",
+      "url": "https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Thousands of Years",
-        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
       },
       "artists": [
         {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 181352,
-      "name": "Thousands of Years",
-      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
+      "duration_ms": 180000,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
+        "name": "Thousands of Years",
+        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+      "duration_ms": 181352,
+      "name": "Thousands of Years",
+      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Wilder Wonderland",
-        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
       "artists": [
         {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 220684,
-      "name": "Just Wondering",
-      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
+      "duration_ms": 180375,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1667,22 +1671,34 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+        "name": "Wilder Wonderland",
+        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
         }
       ],
-      "duration_ms": 180375,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+      "duration_ms": 220684,
+      "name": "Just Wondering",
+      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "The Vow",
+        "url": "https://open.spotify.com/album/59Dy7JlbizSswk7Kyz6W61"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/19v9iH4uLahnxCJzncEdh3"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1707,42 +1723,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Simple Ways",
-        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
-      },
-      "artists": [
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Simple Ways",
-      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "The Vow",
-        "url": "https://open.spotify.com/album/59Dy7JlbizSswk7Kyz6W61"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/19v9iH4uLahnxCJzncEdh3"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -1763,18 +1743,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
+        "name": "Simple Ways",
+        "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
         }
       ],
-      "duration_ms": 212687,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
+      "duration_ms": 177214,
+      "name": "Simple Ways",
+      "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1819,6 +1803,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Lean on the Lord",
         "url": "https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl"
       },
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Hold It All Together",
-        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
+        "name": "The Vow",
+        "url": "https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE"
       },
       "artists": [
         {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
         }
       ],
-      "duration_ms": 158000,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
+      "duration_ms": 250909,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/19UDuT4NcAOEeBtG3ZPgYk"
     }
   ],
   "unique_name": "Rhythm & Praise",

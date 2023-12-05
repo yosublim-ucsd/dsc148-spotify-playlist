@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,004 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,050 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 46 | [With Me \(feat\. Sâlo\)](https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [With Me](https://open.spotify.com/album/76CVi2dGMcEgtoDcxeQWlH) | 3:48 |
 | 47 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 |
 | 48 | [care 4](https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [care 4](https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU) | 3:52 |
-| 49 | [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 |
-| 50 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
-| 51 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
-| 52 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
+| 49 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 |
+| 50 | [REPLAY](https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj) | [ŚWIĘTY BASS](https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [REPLAY](https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n) | 2:54 |
+| 51 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
+| 52 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 53 | [Microdosing \(Conducta Remix\) \- Edit](https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Microdosing \(Conducta Remix\)](https://open.spotify.com/album/52r0BbElKJLiF59usacC0A) | 2:57 |
 | 54 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
 | 55 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 56 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
 | 57 | [Home To You \- Champion Remix](https://open.spotify.com/track/62Ov2zdV4Vb13eARWW89fT) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Home To You \(Champion Remix\)](https://open.spotify.com/album/2fdWviFHYoSVi8QX8lHFgy) | 3:57 |
-| 58 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
-| 59 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 |
+| 58 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 |
+| 59 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
 | 60 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
 
-Snapshot ID: `MCwxNjVjOGJhODZiYjY3YmNkMjgwMDA0NTEwMzg0ZWM4MTU4YjUxNmEw`
+Snapshot ID: `MCxiNWEzY2NiMzY5YjI1YTAwNzllYzNmODZjNWYzZThjMDQxMWZlYWNl`

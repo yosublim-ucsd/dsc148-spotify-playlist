@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 324750,
+  "num_followers": 324931,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTY5ZGQyY2Y2MzRkYWUyODllZGE2NmY4YWI0YTQ0MjcxNDM5OWFm",
+  "snapshot_id": "MCxjZTQ1M2YxMDEwOWNhYzhiMmY4Y2I0YmMxMjQ5NTM1YzYzNmI2OThk",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "My Light (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 147390,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -475,22 +459,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Make It Through",
-        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192196,
-      "name": "Make It Through",
-      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "I Speak Jesus",
         "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
       },
@@ -507,6 +475,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "My Light (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 147390,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Lord's Prayer (It's Yours)",
         "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192196,
+      "name": "Make It Through",
+      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "You've Already Won (Radio Version)",
+        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 262540,
+      "name": "You've Already Won - Radio Version",
+      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 210118,
       "name": "The Great Awakening",
       "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "You've Already Won (Radio Version)",
-        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 262540,
-      "name": "You've Already Won - Radio Version",
-      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Before I Knew Jesus",
+        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "Before I Knew Jesus",
+      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "We Will Stand",
         "url": "https://open.spotify.com/album/1SCsUUJCwXyE08j5J4w5dY"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 252306,
       "name": "We Will Stand",
       "url": "https://open.spotify.com/track/0Hdpqso5qi1PyShUxluscB"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Before I Knew Jesus",
-        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "Before I Knew Jesus",
-      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "ABLE",
+        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "ABLE",
+      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "My Tribute (To God Be The Glory)",
         "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "ABLE",
-        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
+        "name": "Wild Faith",
+        "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
         }
       ],
-      "duration_ms": 221560,
-      "name": "ABLE",
-      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
+      "duration_ms": 208143,
+      "name": "Easy To Praise",
+      "url": "https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 191295,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Wild Faith",
-        "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
-      },
-      "artists": [
-        {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
-        }
-      ],
-      "duration_ms": 208143,
-      "name": "Easy To Praise",
-      "url": "https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1035,6 +1035,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "Gloria Grant",
+          "url": "https://open.spotify.com/artist/5IuhqCYhjnCsjd9I92wXel"
+        },
+        {
+          "name": "Bella Herms",
+          "url": "https://open.spotify.com/artist/3E0bNTHHTw6RMnTaNRpR37"
+        },
+        {
+          "name": "Grace Herms",
+          "url": "https://open.spotify.com/artist/0e57StBoxto7SoTdCOaDsY"
+        },
+        {
+          "name": "Sadie Herms",
+          "url": "https://open.spotify.com/artist/6eqwHKAYXwyO6PP14LsuVL"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2wjshi3DGGjZx3gdsKusDJ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "That's The Thing About Praise (Extended Play)",
         "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
       },
@@ -1131,38 +1163,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "Gloria Grant",
-          "url": "https://open.spotify.com/artist/5IuhqCYhjnCsjd9I92wXel"
-        },
-        {
-          "name": "Bella Herms",
-          "url": "https://open.spotify.com/artist/3E0bNTHHTw6RMnTaNRpR37"
-        },
-        {
-          "name": "Grace Herms",
-          "url": "https://open.spotify.com/artist/0e57StBoxto7SoTdCOaDsY"
-        },
-        {
-          "name": "Sadie Herms",
-          "url": "https://open.spotify.com/artist/6eqwHKAYXwyO6PP14LsuVL"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2wjshi3DGGjZx3gdsKusDJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hurt Is",
         "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 169076,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3ps5C4H9ak7YA8L4UI13Dl"
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
+      "duration_ms": 169076,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3ps5C4H9ak7YA8L4UI13Dl"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1259,26 +1259,6 @@
       "duration_ms": 209390,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Vanessa Hill",
-          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Ark",
-      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1327,6 +1307,26 @@
       "duration_ms": 208571,
       "name": "The Rock I'm On",
       "url": "https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Vanessa Hill",
+          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Love, Evvie McKinney",
-        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "But God",
-      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Valor",
         "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 342778,
       "name": "Valor",
       "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Love, Evvie McKinney",
+        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "But God",
+      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
     },
     {
       "added_at": "2023-11-17 05:00:00",

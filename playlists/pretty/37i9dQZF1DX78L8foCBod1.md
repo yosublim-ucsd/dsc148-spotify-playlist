@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,401 likes - 90 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,429 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 25 | [KINGDOM \- DUE](https://open.spotify.com/track/5qjXGfAvkOag8kJ6dVdofc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「キングダム」 \-合従軍編\- Original Sound Track](https://open.spotify.com/album/4pikDrig4sbyY3av3PNGmY) | 4:20 |
 | 26 | [scene](https://open.spotify.com/track/4k1XsRFBBrqcGUgYzUMwrz) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [scene](https://open.spotify.com/album/2xRpDHjmbnYyEuQHJIcLxN) | 3:21 |
 | 27 | [その先の光へ](https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [その先の光へ](https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc) | 4:22 |
-| 28 | [Perfect Time <HNMT>](https://open.spotify.com/track/1shauNfcBzaAR8pu1kBZgR) | [Eliana](https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [The Seven Deadly Sins：Cursed by Light ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7zNVkr0h3sj7LVnMntNhfQ) | 6:20 |
+| 28 | [Perfect Time <HNMT>](https://open.spotify.com/track/0iUb04DodUGXN3bRLZGQjT) | [Eliana,mpi](https://open.spotify.com/artist/6gxdlBZJb1TrCuf2y5XKXz) | [The Seven Deadly Sins：Cursed by Light ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5Vchn1ZHZpZHpwKJgf0c1N) | 6:20 |
 | 29 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 |
 | 30 | [AOTF\-s1](https://open.spotify.com/track/1C9oENPxKhJlRy21acxJNq) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 7:57 |
 | 31 | [AOTF\-s2](https://open.spotify.com/track/471mJZzGPEvXlVI2lV9WBJ) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 3:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 89 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 |
 | 90 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 ～乱世、再び！～](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `MCxmM2RlMjc0YTk4MzA0YjZhNGIwN2Y3MGE4ZmRlYWE1YTE4YjYzOGUy`
+Snapshot ID: `MCwxNWRjNTBiODQ5YjdlM2JhZTQzMjQ1NWUwNjM0M2M4MTcwOGJiOWVk`

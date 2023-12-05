@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Bruses
 
-254 songs - 14 hr 9 min
+255 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dime Qué Pasó](https://open.spotify.com/track/6TVW74b5hGxhttPMVICi3c) | [Madigan](https://open.spotify.com/artist/7koaptn4z7oXGkK9wtdmyI) | [Dime Qué Pasó](https://open.spotify.com/album/0oEiIxzRvUDBbwfhMVMFYx) | 3:04 | 2022-04-15 | 2022-12-10 |
 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 | 2022-04-15 |  |
 | [Dolor a mis espaldas](https://open.spotify.com/track/66pmTw5Ri5JSM92JgP5pys) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ), [Los Viejos](https://open.spotify.com/artist/3AS8HtsWG2bIRM7LqI8DUk) | [Dolor a mis espaldas](https://open.spotify.com/album/2IUUIeZDX70jHdmDCXBxlF) | 3:25 | 2022-04-15 | 2022-12-10 |
+| [Domingo](https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv) | 3:32 | 2023-12-01 |  |
 | [Domingo](https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:32 | 2022-07-19 | 2022-12-12 |
 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 | 2023-01-13 |  |
 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 | 2023-11-17 |  |
@@ -162,7 +163,7 @@
 | [No Me Dejan Salir](https://open.spotify.com/track/3W8seqNrzD6IpdQH3sTzMA) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Me Dejan Salir](https://open.spotify.com/album/3Vn2NZJiGhQMgNZurR86d5) | 4:13 | 2023-11-10 |  |
 | [No Me Lo Creo Ni Yo](https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [No Me Lo Creo Ni Yo](https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv) | 2:50 | 2023-01-20 | 2023-04-30 |
 | [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-01-20 | 2023-07-09 |
-| [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 |  |
+| [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 | 2023-12-05 |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
 | [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 | 2023-02-02 |
 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 | 2023-04-07 | 2023-12-03 |

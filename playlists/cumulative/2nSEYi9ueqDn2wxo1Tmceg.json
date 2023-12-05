@@ -6423,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "It's You (CAPYAC Remix)",
+        "url": "https://open.spotify.com/album/0Cn5qiWz8IFJOJLW1flXUW"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233977,
+      "name": "It's You - CAPYAC Remix",
+      "url": "https://open.spotify.com/track/4Ck1cHb2gXGgzYbcH76nKp"
+    },
+    {
+      "album": {
         "name": "It's Euphoric",
         "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
       },

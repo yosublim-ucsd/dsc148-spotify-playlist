@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like this Cover: Taylor Swift\n",
-  "num_followers": 1669783,
+  "num_followers": 1670655,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzcwYTdmZmNkZmVlZTg0ZDc5YjQ4OWZlODQ4ZDA3MTRhYjliOTc1",
+  "snapshot_id": "MCxjOGFhM2ExZWI0MTRkOWU3YzcyNmE5NWFkYjhiMjY0ZjEyN2M5NDli",
   "tracks": [
     {
       "added_at": "2023-11-29 13:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 196453,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -363,22 +379,6 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 279833,
-      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -463,6 +463,38 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "favorite crime",
+      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -491,38 +523,6 @@
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "favorite crime",
-      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Being Funny In A Foreign Language",
@@ -607,6 +591,22 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Train Wreck",
-      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231907,
       "name": "logical",
       "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Let You Break My Heart Again",
-        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Let You Break My Heart Again",
-      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 203666,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Let You Break My Heart Again",
+        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
-      "added_at": "2023-11-20 20:15:45",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "Great Gatsby",
-      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "SOUR",
@@ -955,6 +939,22 @@
       "duration_ms": 163586,
       "name": "1 step forward, 3 steps back",
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+    },
+    {
+      "added_at": "2023-11-20 20:15:45",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 146751,
+      "name": "Great Gatsby",
+      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1243,38 +1243,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 161367,
-      "name": "Bigger Person",
-      "url": "https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "LET EM GO",
-        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 181159,
-      "name": "LET EM GO",
-      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "i wish you cheated",
         "url": "https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy"
       },
@@ -1307,6 +1275,38 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 161367,
+      "name": "Bigger Person",
+      "url": "https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "LET EM GO",
+        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 181159,
+      "name": "LET EM GO",
+      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 218502,
       "name": "Bigger Than The Whole Sky",
       "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "birthday cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 205280,
-      "name": "birthday cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+        "name": "birthday cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
         }
       ],
-      "duration_ms": 284305,
-      "name": "This Is How It Feels (with Laufey)",
-      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+      "duration_ms": 205280,
+      "name": "birthday cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1419,6 +1399,26 @@
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 284305,
+      "name": "This Is How It Feels (with Laufey)",
+      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1669,6 +1669,22 @@
       "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 164027,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
@@ -1699,22 +1715,6 @@
       "duration_ms": 227749,
       "name": "In The Kitchen",
       "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 164027,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Love You From a Distance",
-      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Love You From a Distance",
+      "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Born To Be Alive",
-        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 157068,
-      "name": "Born To Be Alive",
-      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 177108,
       "name": "die first",
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Born To Be Alive",
+        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 157068,
+      "name": "Born To Be Alive",
+      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 141060,
+      "name": "Best Friend Breakup",
+      "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "lie",
         "url": "https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 158536,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 141060,
-      "name": "Best Friend Breakup",
-      "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2151,6 +2151,22 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2233,22 +2249,6 @@
       "url": "https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Mirror (Deluxe)",
-        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175550,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Loser",
@@ -2263,6 +2263,38 @@
       "duration_ms": 184892,
       "name": "Older",
       "url": "https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "vaultboy EP",
+        "url": "https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 196481,
+      "name": "i think i wanna text u",
+      "url": "https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2299,22 +2331,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "vaultboy EP",
-        "url": "https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 196481,
-      "name": "i think i wanna text u",
-      "url": "https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Keep Your Head Up Princess",
         "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
       },
@@ -2331,22 +2347,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Never Had a Chance",
-        "url": "https://open.spotify.com/album/6xetIkLc35ytsM6poTBsdt"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Never Had a Chance",
-      "url": "https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR"
       },
@@ -2359,6 +2359,22 @@
       "duration_ms": 209333,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Never Had a Chance",
+        "url": "https://open.spotify.com/album/6xetIkLc35ytsM6poTBsdt"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Never Had a Chance",
+      "url": "https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2391,22 +2407,6 @@
       "duration_ms": 169625,
       "name": "Love I've Been Jealous Of",
       "url": "https://open.spotify.com/track/37sYE6Cho29A0qHm6Q3bSf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2023-09-29 04:00:00",

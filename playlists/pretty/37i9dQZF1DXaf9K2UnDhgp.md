@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,244 likes - 110 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,843 likes - 110 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 109 | [Sleigh Ride](https://open.spotify.com/track/7G89dEgWAsFw4rODlvygqB) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 2:55 |
 | 110 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCxjODgwY2YxZWJhODcxYmUwYzhlYzkyZDQ1NzRlZGYxZTU0NDE5NWRh`
+Snapshot ID: `MCxmMzYyZmNmNjNiNTk3OWQ5N2NiZjZlNWQ1ZTAzNWNhYmFmNWVkMmQx`

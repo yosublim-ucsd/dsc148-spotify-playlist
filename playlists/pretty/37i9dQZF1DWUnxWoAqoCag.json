@@ -1,12 +1,12 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 186796,
+  "num_followers": 186805,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzZiNDdjZjU1ZjY0ODRlMzQ3MzY4Yjk2NjQ3NTFmZDgzNTEyMzI5",
+  "snapshot_id": "MCxmYTYyM2M0ZmYwM2ZmNmI1ZmY5ZmM3YWM5MjljMTk4ZDM1YWRlYzhi",
   "tracks": [
     {
       "added_at": "2023-12-03 15:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -819,38 +819,6 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "Used To Be Young",
-        "url": "https://open.spotify.com/album/1Ev3d9zcHORaPdzCQnWFrA"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 191185,
-      "name": "Used To Be Young",
-      "url": "https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -875,18 +843,18 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+        "name": "Used To Be Young",
+        "url": "https://open.spotify.com/album/1Ev3d9zcHORaPdzCQnWFrA"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+      "duration_ms": 191185,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -903,6 +871,38 @@
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
+        "name": "THE BOOK",
+        "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "\u7fa4\u9752",
+      "url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
         "name": "fake face dance music",
         "url": "https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 230600,
       "name": "\u30d9\u30c6\u30eb\u30ae\u30a6\u30b9",
       "url": "https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
-        "name": "THE BOOK",
-        "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "\u7fa4\u9752",
-      "url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "NEW DANCE",
-        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "NEW DANCE",
-      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
         "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
         "url": "https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "\u58f1",
-        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
       },
       "artists": [
         {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 286360,
-      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
-      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
+        "name": "\u58f1",
+        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -1263,6 +1263,38 @@
       "duration_ms": 229328,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 257293,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 257293,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
         "name": "\u6b8b\u97ff\u6563\u6b4c",
         "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
         "name": "\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
         "url": "https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 294813,
       "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
       "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
-        "name": "\u9006\u5922",
-        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 307666,
-      "name": "\u9006\u5922",
-      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
+        "name": "\u9006\u5922",
+        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 307666,
+      "name": "\u9006\u5922",
+      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
         "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
         "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 340080,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
-        "name": "CEREMONY",
-        "url": "https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 276373,
-      "name": "\u767d\u65e5",
-      "url": "https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r"
     },
     {
       "added_at": "2023-12-03 15:00:00",
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30e2\u30a2",
-        "url": "https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
-      "url": "https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
@@ -1639,22 +1607,6 @@
     {
       "added_at": "2023-12-03 15:00:00",
       "album": {
-        "name": "\u58f1",
-        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "\u30b7\u30e3\u30c3\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/19mjCzLuMHZ0Tyn3eI85bo"
-    },
-    {
-      "added_at": "2023-12-03 15:00:00",
-      "album": {
         "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
         "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
       },
@@ -1667,6 +1619,54 @@
       "duration_ms": 259933,
       "name": "\u30c1\u30a7\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+        "url": "https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
+        "name": "CEREMONY",
+        "url": "https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 276373,
+      "name": "\u767d\u65e5",
+      "url": "https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r"
+    },
+    {
+      "added_at": "2023-12-03 15:00:00",
+      "album": {
+        "name": "\u30e6\u30fc\u30e2\u30a2",
+        "url": "https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke"
     }
   ],
   "unique_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",

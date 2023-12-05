@@ -1,12 +1,12 @@
 {
   "description": "The perfect perreo for your Thanksgiving Party",
-  "num_followers": 78070,
+  "num_followers": 78074,
   "original_name": "Thanksgiving Perreo Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTZmNTZmYWZiMjJiNmZhYTZjN2Q5Yzc3ZDNjMWE4OWM4NjQwY2Mz",
+  "snapshot_id": "MCxlOTdhNjAxNjEzOWFhYzc5YTE4OTZmMWE4ODgyNDdhNjcwNWYzYjU4",
   "tracks": [
     {
       "added_at": "2023-11-20 20:12:51",
@@ -179,26 +179,6 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "TQG",
-      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
-    },
-    {
-      "added_at": "2023-11-20 20:12:51",
-      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
+    },
+    {
+      "added_at": "2023-11-20 20:12:51",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2023-11-20 20:12:51",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2023-11-20 20:12:51",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 143789,
-      "name": "OKI DOKI",
-      "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "OKI DOKI",
+      "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
+    },
+    {
+      "added_at": "2023-11-20 20:12:51",
+      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 210933,
       "name": "Lo Que Pas\u00f3, Pas\u00f3",
       "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
-    },
-    {
-      "added_at": "2023-11-20 20:12:51",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -695,22 +695,22 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "Shorty Party",
-        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "La Kelly",
-          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Shorty Party",
-      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -735,22 +735,22 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Shorty Party",
+        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "La Kelly",
+          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
         }
       ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
+      "duration_ms": 265000,
+      "name": "Shorty Party",
+      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
-    },
-    {
-      "added_at": "2023-11-20 20:12:51",
-      "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
       },
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 192477,
-      "name": "X \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+      "duration_ms": 186426,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -1259,6 +1239,26 @@
       "duration_ms": 237973,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
+    },
+    {
+      "added_at": "2023-11-20 20:12:51",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -1443,18 +1443,34 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "added_at": "2023-11-20 20:12:51",
+      "album": {
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -1479,22 +1495,6 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
-    },
-    {
-      "added_at": "2023-11-20 20:12:51",
-      "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -1831,8 +1831,8 @@
     {
       "added_at": "2023-11-20 20:12:51",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
       "artists": [
         {
@@ -1840,13 +1840,29 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
+    },
+    {
+      "added_at": "2023-11-20 20:12:51",
+      "album": {
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
     },
     {
       "added_at": "2023-11-20 20:12:51",
@@ -1879,22 +1895,6 @@
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
-    },
-    {
-      "added_at": "2023-11-20 20:12:51",
-      "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
     },
     {
       "added_at": "2023-11-20 20:12:51",

@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 3279,
+  "num_followers": 3448,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWI5NjJmMTRhY2Q2NTQ0NTQ2ZDVkMWMzNDJiYTk1NDY3MWU5YmFi",
+  "snapshot_id": "MCxmMzAzNDA5YjlkZjk3NmVkYjI3OWM1ODlhNDdlZDYyYzc5OTY2NGE5",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
+        "name": "Merry Christmas Baby / White Christmas",
+        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
         "name": "Christmas At Our House",
         "url": "https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 272226,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Merry Christmas Baby / White Christmas",
-        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Collected Additional Masters",
-        "url": "https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt"
+        "name": "Light of the Stable (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 221853,
-      "name": "When You Wish Upon A Star",
-      "url": "https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc"
+      "duration_ms": 161266,
+      "name": "The First Noel - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Light of the Stable (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
+        "name": "Collected Additional Masters",
+        "url": "https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 161266,
-      "name": "The First Noel - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
+      "duration_ms": 221853,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -771,38 +771,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Christmas with The Jackson 5",
-        "url": "https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Little Christmas Tree",
-      "url": "https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Step Into Christmas",
-        "url": "https://open.spotify.com/album/3IOAHHCKjlxiwerwUplMMo"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Ho! Ho! Ho! (Who'd Be A Turkey At Christmas)",
-      "url": "https://open.spotify.com/track/3xabch3USCqA0JkvVc7Sb8"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "Losst And Founnd",
         "url": "https://open.spotify.com/album/6B446h8aVE0zi9NcIHu1CG"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 240533,
       "name": "Listen, The Snow Is Falling",
       "url": "https://open.spotify.com/track/0CNRErTWnDGVWnRUhPMaZf"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Christmas with The Jackson 5",
+        "url": "https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Little Christmas Tree",
+      "url": "https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb"
     }
   ],
   "unique_name": "Christmas Dinner",

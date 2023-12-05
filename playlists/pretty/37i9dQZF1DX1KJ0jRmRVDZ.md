@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,950 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,035 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 43 | [Doh Doh](https://open.spotify.com/track/6SABAzmqzQhcfRkU5qJOUj) | [aohatomare](https://open.spotify.com/artist/3nIIHJ0v3UTElDmckDrqWo) | [Doh Doh](https://open.spotify.com/album/29DpaA22tCad0UXn10jE4i) | 3:17 |
 | 44 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
 | 45 | [Choju Giga](https://open.spotify.com/track/6hmR1ka2ZUG9w6rniXE3De) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Choju Giga](https://open.spotify.com/album/0Rsq4VHL8OXmZUlrLM6toB) | 2:51 |
-| 46 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
+| 46 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 47 | [Panorama](https://open.spotify.com/track/2azz82Oj5Mt9cEkKdn1JeV) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [Panorama](https://open.spotify.com/album/5jW5xMD1W4H1VYJLwiQcVb) | 2:46 |
-| 48 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
+| 48 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 49 | [Wakuseitsushin feat\. Mel](https://open.spotify.com/track/5sPyRxOdmBXoONmkIXAUkK) | [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [Wakuseitsushin feat\. Mel](https://open.spotify.com/album/1WqErc2gluGCawMMWoaGtf) | 4:16 |
 | 50 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 
-Snapshot ID: `MCxhZmM5OThkM2Q2N2VjZTcyMjZhNTcyZDcwZjk3NWQ2NjE1YzM2NDdm`
+Snapshot ID: `MCw2NDc2ZmEzNTY4MGQzODkzZWRlZTE3OGVjYzU2MGQ1NDIxNDBhZTdl`

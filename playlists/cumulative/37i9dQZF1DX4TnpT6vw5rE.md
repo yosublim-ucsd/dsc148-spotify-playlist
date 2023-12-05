@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-253 songs - 15 hr 10 min
+254 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 | 2021-07-24 |  |
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 | 2021-10-28 |  |
+| [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 |  |
 | [Andromeda](https://open.spotify.com/track/3ILiff34ZwEKw1mrVG4D6D) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Nebuleuses](https://open.spotify.com/album/2pZfWVip25OGJeQAx5CBT2) | 2:37 | 2020-12-08\* | 2021-03-18 |
 | [Andromeda](https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 3:16 | 2023-04-17 |  |
 | [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 |  |
@@ -138,7 +139,7 @@
 | [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-10-16 |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
-| [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 | 2022-12-30 |  |
+| [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 | 2022-12-30 | 2023-12-05 |
 | [Looking at the Stars](https://open.spotify.com/track/0oEsb9pPuLAa1pUagDv4BH) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Beauty and Truth](https://open.spotify.com/album/4ZczqJuCVIdZ2JOWDbR5Ie) | 3:13 | 2020-12-08\* | 2021-07-15 |
 | [Lost In Thought](https://open.spotify.com/track/0BSJ1iQEmGibLCPMHGtdo7) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 6:16 | 2020-12-08\* | 2021-05-27 |
 | [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 | 2022-09-13 |  |

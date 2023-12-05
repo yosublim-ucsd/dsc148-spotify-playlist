@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 153238,
       "name": "Fight",
       "url": "https://open.spotify.com/track/5LR8IpevPBJKSyR5D8kqKu"
@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Love Death",
+        "url": "https://open.spotify.com/album/2Y4Wkt6tTWwGI5yXM9olvN"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Love Death",
+      "url": "https://open.spotify.com/track/1H2HyRY6Z4krifebdRQqNY"
+    },
+    {
+      "album": {
         "name": "Love, Bass & Happiness",
         "url": "https://open.spotify.com/album/3gGQZFVaKVNQmiUKgyuToE"
       },
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 270786,
       "name": "Nightmare Nirvana",
       "url": "https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj"
@@ -2466,6 +2484,28 @@
       "duration_ms": 159993,
       "name": "Rave Superstar",
       "url": "https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5"
+    },
+    {
+      "album": {
+        "name": "Raw Resurgence (Official Supremacy 2023 Anthem)",
+        "url": "https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320148,
+      "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
+      "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
     },
     {
       "album": {
@@ -3437,6 +3477,28 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211499,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn"
+    },
+    {
+      "album": {
         "name": "Way Of The Warrior",
         "url": "https://open.spotify.com/album/6OJw0qC7WWsHEQ17o1hpuI"
       },
@@ -3514,7 +3576,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 207290,
       "name": "What You Give Is What You Get",
       "url": "https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0"

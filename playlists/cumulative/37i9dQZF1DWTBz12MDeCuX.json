@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: JBS, MilleniumKid",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: iilliaa",
   "name": "me right now",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 129187,
       "name": "10/10 (KXXMA Remix)",
       "url": "https://open.spotify.com/track/67GnBreATPasMxoz2l3MNI"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 179177,
       "name": "1000 Pfeile",
       "url": "https://open.spotify.com/track/2hsPzfaORlgoKfGgLLtac7"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 237120,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 225040,
       "name": "Amour plastique",
       "url": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 174232,
       "name": "Aperitif",
       "url": "https://open.spotify.com/track/6R5iuYqG0HsnC41RT3lzqX"
@@ -5070,7 +5070,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 151878,
       "name": "Clown zum Freak",
       "url": "https://open.spotify.com/track/2Xam1sL5Mkib0UPCHX75KM"
@@ -6798,7 +6798,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -6930,6 +6930,24 @@
       "duration_ms": 95810,
       "name": "EIN BIER",
       "url": "https://open.spotify.com/track/7kerKZQCSU176PC8STBLgl"
+    },
+    {
+      "album": {
+        "name": "Ein letztes Mal",
+        "url": "https://open.spotify.com/album/2J31N4Aq0EAa3L0YcTOSo0"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190071,
+      "name": "Ein letztes Mal",
+      "url": "https://open.spotify.com/track/1MklCHMZxSoV3FwoEidOlQ"
     },
     {
       "album": {
@@ -7541,6 +7559,28 @@
     },
     {
       "album": {
+        "name": "Eternal Rave",
+        "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121908,
+      "name": "Eternal Rave",
+      "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
+    },
+    {
+      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/3lbRR6P1ii0y7Hwg4Fef77"
       },
@@ -8124,7 +8164,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 140740,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/7deqkk1cdCZV9v548NgJ6d"
@@ -8300,7 +8340,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 136551,
       "name": "Feuer Wasser Sturm",
       "url": "https://open.spotify.com/track/0dEvVBg3ArnuJ9WBnPzOcj"
@@ -8430,7 +8470,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
@@ -10487,6 +10527,24 @@
     },
     {
       "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
         "name": "i'm watching you",
         "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
       },
@@ -12505,6 +12563,32 @@
     },
     {
       "album": {
+        "name": "In The City (Charli XCX & Sam Smith) [DJ HEARTSTRING REMIX]",
+        "url": "https://open.spotify.com/album/4DgbJO2O9XXAMYXP6j3cX6"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213937,
+      "name": "In The City (Charli XCX & Sam Smith) - DJ HEARTSTRING REMIX",
+      "url": "https://open.spotify.com/track/1PPyQo1k7wI1U6BcaD0ZfT"
+    },
+    {
+      "album": {
         "name": "IN THE CLUB",
         "url": "https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4"
       },
@@ -12722,6 +12806,24 @@
       "duration_ms": 168071,
       "name": "Ja ich wei\u00df",
       "url": "https://open.spotify.com/track/0KzMKVa7n63hl3GQM90cwy"
+    },
+    {
+      "album": {
+        "name": "Ja sagen",
+        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
     },
     {
       "album": {
@@ -13214,7 +13316,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 165577,
       "name": "KAPPIES IM SLIP",
       "url": "https://open.spotify.com/track/3wn67weLm1Dl0ZYJg217SE"
@@ -15064,7 +15166,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 195044,
       "name": "Lost Soul",
       "url": "https://open.spotify.com/track/4mZ59jnHHvm3GR3oOwRwjA"
@@ -15161,6 +15263,24 @@
     },
     {
       "album": {
+        "name": "Love Game",
+        "url": "https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO"
+      },
+      "artists": [
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "Love Game",
+      "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -15194,6 +15314,28 @@
       "duration_ms": 110441,
       "name": "Love Shots",
       "url": "https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc"
+    },
+    {
+      "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
       "album": {
@@ -15752,7 +15894,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 152700,
       "name": "Matin",
       "url": "https://open.spotify.com/track/2n9mhw8QD22FClNn9ye03T"
@@ -16666,7 +16808,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
@@ -17010,7 +17152,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 262941,
       "name": "MY HOUSE",
       "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
@@ -17977,6 +18119,28 @@
     },
     {
       "album": {
+        "name": "No Summer Hit 2024",
+        "url": "https://open.spotify.com/album/68nfzGY6zUGOeRtdcTq1eU"
+      },
+      "artists": [
+        {
+          "name": "Frederic.",
+          "url": "https://open.spotify.com/artist/7fgTo2QxxmxGZI2YIjV6Vq"
+        },
+        {
+          "name": "HEISSS Berlin",
+          "url": "https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278333,
+      "name": "No Summer Hit 2024",
+      "url": "https://open.spotify.com/track/3v27Jcdn1D3FqGyprnSVg7"
+    },
+    {
+      "album": {
         "name": "No Wind Resistance SPED UP!",
         "url": "https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1"
       },
@@ -18137,6 +18301,24 @@
     },
     {
       "album": {
+        "name": "I'm So Good At Being Alone?",
+        "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
+    },
+    {
+      "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
       },
@@ -18148,7 +18330,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -18805,6 +18987,24 @@
     },
     {
       "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "album": {
         "name": "adhs",
         "url": "https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze"
       },
@@ -19320,7 +19520,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 176276,
       "name": "Paris Paris",
       "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
@@ -21410,7 +21610,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 167946,
       "name": "Scheine z\u00e4hlen",
       "url": "https://open.spotify.com/track/52Y1KkbSO4LI9MTCvZhP9Y"
@@ -21734,7 +21934,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 169761,
       "name": "schwarze SUVs",
       "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
@@ -22286,7 +22486,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -22730,6 +22930,24 @@
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
       "album": {
@@ -23233,6 +23451,28 @@
     },
     {
       "album": {
+        "name": "Space Train",
+        "url": "https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn"
+      },
+      "artists": [
+        {
+          "name": "Kevin D'Angello",
+          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
+        },
+        {
+          "name": "Kevin D",
+          "url": "https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "Space Train",
+      "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
+    },
+    {
+      "album": {
         "name": "Spannung",
         "url": "https://open.spotify.com/album/6KOvdB1RpDc3wqdEr1pXmE"
       },
@@ -23514,6 +23754,24 @@
       "duration_ms": 167578,
       "name": "STAR",
       "url": "https://open.spotify.com/track/2I6WhzUJfc99q8rZTl6g1L"
+    },
+    {
+      "album": {
+        "name": "Star Shopping",
+        "url": "https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Star Shopping",
+      "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
     },
     {
       "album": {
@@ -25130,7 +25388,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 240428,
       "name": "Time",
       "url": "https://open.spotify.com/track/6MxMqCgqmekcr0VwSU7AVH"
@@ -26808,7 +27066,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -26896,7 +27154,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 148938,
       "name": "Wahnsinn",
       "url": "https://open.spotify.com/track/2pnZ17l3SWlz1StKUDIqSZ"
@@ -27948,6 +28206,24 @@
       "duration_ms": 150875,
       "name": "wenn die sonne hier scheint",
       "url": "https://open.spotify.com/track/0mHCdDjCDCWN0EVyUamTfS"
+    },
+    {
+      "album": {
+        "name": "Wenn du l\u00e4chelst",
+        "url": "https://open.spotify.com/album/4I8gxBLb7kYZpHI2ScIXvu"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123887,
+      "name": "Wenn du l\u00e4chelst",
+      "url": "https://open.spotify.com/track/47mweMIEiVG1VTURjooVdU"
     },
     {
       "album": {

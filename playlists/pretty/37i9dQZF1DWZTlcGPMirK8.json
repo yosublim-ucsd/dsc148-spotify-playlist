@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67041,
+  "num_followers": 67045,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzI1ODQzZjg5ZTliNmFiZjQxODAwYzNlYzg5NTUxMDllYWFhYmFi",
+  "snapshot_id": "MCwyNTNmMjUyOTVmNTgyOWMyOGU3ZGY3MDU3ZmY3ZTA4ZTBhMjAwYTBh",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 267373,
-      "name": "We Are The People",
-      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -219,6 +203,38 @@
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 267373,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -271,22 +287,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -359,18 +343,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -391,6 +375,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 218227,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Elastic Heart",
-      "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -471,18 +455,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Walking Under Stars",
-        "url": "https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN"
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
       },
       "artists": [
         {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Cosby Sweater",
-      "url": "https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV"
+      "duration_ms": 257200,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -503,6 +487,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Walking Under Stars",
+        "url": "https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Cosby Sweater",
+      "url": "https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Classic Hits",
         "url": "https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 208866,
       "name": "Love Is in the Air",
       "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Blue Neighbourhood (Deluxe)",
+        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "YOUTH",
+      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -551,22 +567,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Blue Neighbourhood (Deluxe)",
-        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "YOUTH",
-      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
       },
@@ -579,6 +579,38 @@
       "duration_ms": 237247,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/1JCCdiru7fhstOIF4N7WJC"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Physical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 225992,
+      "name": "Physical - Remastered 2021",
+      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
+      },
+      "artists": [
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -619,38 +651,6 @@
       "duration_ms": 239280,
       "name": "1955",
       "url": "https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Physical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 225992,
-      "name": "Physical - Remastered 2021",
-      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
-      },
-      "artists": [
-        {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193540,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Age Of Reason",
         "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
@@ -911,26 +895,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Changa",
-        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Kira Divine",
-          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
-        }
-      ],
-      "duration_ms": 198020,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Two Shoes",
         "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
       },
@@ -943,22 +907,6 @@
       "duration_ms": 313053,
       "name": "Two Shoes",
       "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Bodyrockers",
-        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
-      },
-      "artists": [
-        {
-          "name": "Bodyrockers",
-          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "I Like The Way - Radio Edit",
-      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -979,18 +927,54 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
       "artists": [
         {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 281466,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g"
+      "duration_ms": 193540,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Changa",
+        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+        }
+      ],
+      "duration_ms": 198020,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Bodyrockers",
+        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
+      },
+      "artists": [
+        {
+          "name": "Bodyrockers",
+          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "I Like The Way - Radio Edit",
+      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1059,6 +1043,22 @@
       "duration_ms": 228200,
       "name": "We Run The Night",
       "url": "https://open.spotify.com/track/0mtPNQl5vePVwiI9Vykp7L"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Awake Is the New Sleep",
-        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
+        "name": "Slideshows",
+        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
       },
       "artists": [
         {
-          "name": "Ben Lee",
-          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Catch My Disease",
-      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
+      "duration_ms": 229120,
+      "name": "20 Good Reasons",
+      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
     }
   ],
   "unique_name": "Aussie Pop Classics",

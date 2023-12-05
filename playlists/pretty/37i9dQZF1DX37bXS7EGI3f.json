@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 755502,
+  "num_followers": 755598,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGU5MWE5NDg3YjAxZDE4M2NmZWRkZmI0NzA2MTY2OWRkMmI1ZTlj",
+  "snapshot_id": "MCw5NzVmYzM0MzZhYWE5NmNlOGU3ZmIwMDcxZWY0ZmQxYjhjYTlhMTk2",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Warfront",
-        "url": "https://open.spotify.com/album/5Jf1NavkE0nEpzo2rnjMrL"
-      },
-      "artists": [
-        {
-          "name": "Wind Rose",
-          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
-        }
-      ],
-      "duration_ms": 375595,
-      "name": "Fellows of the Hammer",
-      "url": "https://open.spotify.com/track/2RyG06POk4ybd4B0CZC02k"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The War to End All Wars",
         "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 236000,
       "name": "Stormtroopers",
       "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Warfront",
+        "url": "https://open.spotify.com/album/5Jf1NavkE0nEpzo2rnjMrL"
+      },
+      "artists": [
+        {
+          "name": "Wind Rose",
+          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        }
+      ],
+      "duration_ms": 375595,
+      "name": "Fellows of the Hammer",
+      "url": "https://open.spotify.com/track/2RyG06POk4ybd4B0CZC02k"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Daughters Of The Night",
         "url": "https://open.spotify.com/album/2jtvxz7ihLYzIVjnaomd5J"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 265373,
       "name": "New Evil",
       "url": "https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -919,26 +919,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Bell",
-        "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
       },
       "artists": [
         {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        },
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Johanna Kurkela",
-          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
         }
       ],
-      "duration_ms": 271486,
-      "name": "The Bell",
-      "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-07-17 22:14:26",
@@ -955,22 +947,6 @@
       "duration_ms": 271693,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
-      },
-      "artists": [
-        {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1011,6 +987,30 @@
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Bell",
+        "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
+      },
+      "artists": [
+        {
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
+        },
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
+        }
+      ],
+      "duration_ms": 271486,
+      "name": "The Bell",
+      "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "The Gates of Time",
-      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "The Gates of Time",
+      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "The Beast Has Awoken",
         "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Soul's Demise",
-        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 264981,
-      "name": "My Soul's Demise",
-      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Drink with the Gods",
         "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 250000,
       "name": "Drink with the Gods",
       "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Soul's Demise",
+        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 264981,
+      "name": "My Soul's Demise",
+      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Over the Horizon Radar",
         "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 323990,
       "name": "Over the Horizon Radar",
       "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     }
   ],
   "unique_name": "Epic & Melodic",

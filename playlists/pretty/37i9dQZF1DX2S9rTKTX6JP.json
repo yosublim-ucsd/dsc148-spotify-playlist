@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665340,
+  "num_followers": 665389,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2EwY2M3NTdhZjMyN2M4YTliYTBkOWIxM2JiY2Y2OGY3ZjI3ZGU1",
+  "snapshot_id": "MCw5N2U5N2UzMzk1YTljZDAzZWY3OTUyNTUwNmI3ZGZjY2M1NDE0NTI1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Hard To Handle",
-      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 215203,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Hard To Handle",
+      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Don't Worry About Me",
+        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 206227,
       "name": "(I Just) Died in Your Arms",
       "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Don't Worry About Me",
-        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
-      },
-      "artists": [
-        {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 262906,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 187826,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 262906,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Blow EP",
-        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 300698,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 321040,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Blow EP",
+        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 300698,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "All Animal",
-        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
-      },
-      "artists": [
-        {
-          "name": "Through Fire",
-          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Live In Phoenix",
         "url": "https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 230306,
       "name": "Beat It - Studio Version Featuring John Mayer",
       "url": "https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "All Animal",
+        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
+      },
+      "artists": [
+        {
+          "name": "Through Fire",
+          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 152377,
-      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
-      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Live & Inspired",
         "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 226293,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 152377,
+      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
+      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1899,8 +1899,8 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
       "artists": [
         {
@@ -1908,9 +1908,9 @@
           "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "At Night We Live",
-        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
       },
       "artists": [
         {
-          "name": "Far",
-          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 262746,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1979,34 +1979,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+        "name": "At Night We Live",
+        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Far",
+          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
         }
       ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
+      "duration_ms": 262746,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2027,6 +2011,22 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
       },
@@ -2307,6 +2291,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Chain (from Gears 5)",
         "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
       },
@@ -2319,22 +2319,6 @@
       "duration_ms": 252170,
       "name": "The Chain (from Gears 5)",
       "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2379,18 +2363,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Chain",
-        "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
       "artists": [
         {
-          "name": "Toothgrinder",
-          "url": "https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP"
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
         }
       ],
-      "duration_ms": 275146,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2423,6 +2407,22 @@
       "duration_ms": 146526,
       "name": "One Step Closer \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
+      },
+      "artists": [
+        {
+          "name": "Toothgrinder",
+          "url": "https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
     },
     {
       "added_at": "2023-11-17 05:00:00",

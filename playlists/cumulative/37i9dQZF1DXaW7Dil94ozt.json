@@ -1040,7 +1040,7 @@
     {
       "album": {
         "name": "Manchild",
-        "url": "https://open.spotify.com/album/0CcaHuVp8BowpADMsmkYxa"
+        "url": "https://open.spotify.com/album/21ZAH4W7oCQuiVM0xQteTd"
       },
       "artists": [
         {
@@ -1051,6 +1051,24 @@
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199302,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/0GPROFpPBqU5Si0xSGKLrU"
+    },
+    {
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/0CcaHuVp8BowpADMsmkYxa"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-05",
       "duration_ms": 199302,
       "name": "Picture",
       "url": "https://open.spotify.com/track/23OpEAIXfU1V8IbLMOi7JL"

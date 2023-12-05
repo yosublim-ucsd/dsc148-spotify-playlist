@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Hotelo",
-  "num_followers": 46868,
+  "num_followers": 46895,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWNiOTUwZTE1NDUwZGQ5OThkMjRmOTMzMDU3YWFkYzA1YzhkMjM5",
+  "snapshot_id": "MCw1MmI0NWI5YzUzN2JkNTA1Zjk1Yzc2YTcxYjI3NTE5NTk5ZTgwNWYx",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 164682,
-      "name": "BABY SAID",
-      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Die 4 Me",
         "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 205256,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -339,26 +323,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "CAROLINE",
         "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
@@ -371,6 +335,38 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -415,18 +411,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+        "name": "Keep It Tucked",
+        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
       },
       "artists": [
         {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+      "duration_ms": 173576,
+      "name": "Keep It Tucked",
+      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -443,22 +439,6 @@
       "duration_ms": 173840,
       "name": "honey",
       "url": "https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Keep It Tucked",
-        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 173576,
-      "name": "Keep It Tucked",
-      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -495,6 +475,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Tell Me You Love Me - Rock Version",
+      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "tired of california",
         "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
       },
@@ -511,18 +507,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
-      "duration_ms": 227975,
-      "name": "Tell Me You Love Me - Rock Version",
-      "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Fiz 18",
-        "url": "https://open.spotify.com/album/3B803upCKgO5My70u4J7sK"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Fiz 18",
-      "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Renata",
         "url": "https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI"
       },
@@ -711,22 +695,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "o maior ot\u00e1rio da cidade",
         "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
       },
@@ -743,6 +711,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Fiz 18",
+        "url": "https://open.spotify.com/album/3B803upCKgO5My70u4J7sK"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Fiz 18",
+      "url": "https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "cuida de mim",
         "url": "https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE"
       },
@@ -755,22 +739,6 @@
       "duration_ms": 173995,
       "name": "cuida de mim",
       "url": "https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "T\u00c1 TODO MUNDO MAL",
-        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "T\u00c1 TODO MUNDO MAL",
-      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -815,6 +783,22 @@
       "duration_ms": 163880,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
+        "name": "T\u00c1 TODO MUNDO MAL",
+        "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
+      "duration_ms": 201290,
+      "name": "T\u00c1 TODO MUNDO MAL",
+      "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Reviravolta",
         "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
       },
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "ponto de vista",
-        "url": "https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 206021,
-      "name": "ponto de vista",
-      "url": "https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Foi Tudo Aqui",
         "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
       },
@@ -1035,26 +1015,6 @@
       "duration_ms": 189901,
       "name": "Deixa Estar",
       "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Muito Al\u00e9m",
-        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 168505,
-      "name": "Muito Al\u00e9m",
-      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1111,6 +1071,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "ponto de vista",
+        "url": "https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 206021,
+      "name": "ponto de vista",
+      "url": "https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Conto de Falhas",
         "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
       },
@@ -1143,8 +1123,8 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Castelo De Areia",
-        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
+        "name": "Muito Al\u00e9m",
+        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
       },
       "artists": [
         {
@@ -1152,13 +1132,13 @@
           "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         },
         {
-          "name": "Bullet Bane",
-          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Castelo De Areia",
-      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
+      "duration_ms": 168505,
+      "name": "Muito Al\u00e9m",
+      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1243,6 +1223,26 @@
       "duration_ms": 139156,
       "name": "144",
       "url": "https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Castelo De Areia",
+        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Bullet Bane",
+          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Castelo De Areia",
+      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 224043,
       "name": "Lugar no Espa\u00e7o",
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2023-12-01 03:00:00",

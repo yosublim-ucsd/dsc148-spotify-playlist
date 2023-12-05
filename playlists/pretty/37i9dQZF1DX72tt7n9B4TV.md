@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for those summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,146 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,145 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 15 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 16 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 |
 | 17 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 18 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
-| 19 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
+| 18 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
+| 19 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
 | 20 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
 | 21 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
 | 22 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 26 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 27 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 |
 | 28 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
-| 29 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
-| 30 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 |
+| 29 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 |
+| 30 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
 | 31 | [Runaways](https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:03 |
 | 32 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 |
 | 33 | [No Love In LA](https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:22 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 44 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
 | 45 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 46 | [CHAMPION](https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 2:53 |
-| 47 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 |
+| 47 | [cotton candy](https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:47 |
 | 48 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 |
-| 49 | [cotton candy](https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:47 |
+| 49 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 |
 | 50 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
 | 51 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 |
 | 52 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 80 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
 
-Snapshot ID: `MCw1YWFlZTJkMGMxNDMyOTE5MjQ1MTRjYTVlMGFjMTYxYTE5OTA2OTdj`
+Snapshot ID: `MCxmNGJhM2JmYzkyZGM2OGUwZTY0NDJmM2FlMjk5YWUwMjlhODMwNzAx`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-690 songs - 1 day 13 hr 16 min
+691 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9) | 2:21 | 2021-08-29 | 2021-09-19 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-07-29 | 2023-11-16 |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-21 | 2022-05-23 |
-| [CLASSY 101](https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:15 | 2023-12-02 |  |
+| [CLASSY 101](https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:15 | 2023-12-02 | 2023-12-05 |
 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-04-04 | 2023-12-03 |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-05-30 | 2022-06-03 |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-03-24 | 2023-06-04 |
@@ -322,6 +322,7 @@
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-30 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-27 |
 | [Le doy perreo](https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Le doy perreo](https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn) | 2:18 | 2023-01-12 | 2023-05-24 |
+| [Le Gustan lo' Flaites](https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC) | [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ), [Celso El Potente](https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2) | [Le Gustan lo' Flaites](https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx) | 3:03 | 2023-12-04 |  |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-15 | 2021-05-23 |
 | [Ley de Atracción](https://open.spotify.com/track/52PVGjg5sUhfs9PHiSl02c) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ley de Atracción](https://open.spotify.com/album/3bCHpjpghyFjPfl0l108mF) | 3:00 | 2021-09-05 | 2021-11-20 |
 | [Ley de Atracción](https://open.spotify.com/track/6J63gKDHJLjiKWQg2LYvm4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:00 | 2021-11-28 | 2021-12-12 |

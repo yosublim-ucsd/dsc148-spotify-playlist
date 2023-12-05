@@ -1,12 +1,12 @@
 {
   "description": "Breeze through your commute with these pop favorites. Cover: Tate McRae",
-  "num_followers": 273294,
+  "num_followers": 273295,
   "original_name": "Pop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2YwZTNkNDJjYjEyZjYzMDAwOTFjYzNmMWM0ZmRjZGU1MGJmOTE5",
+  "snapshot_id": "MCwyNTQ3ZDNmZmM3ZTg3OTk1NGQzYWUxY2JkMGVkYmM5YjJlMGQ4YzRh",
   "tracks": [
     {
       "added_at": "2023-11-17 14:37:01",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 229477,
-      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "Die For You (Remix)",
-        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Die For You - Remix",
-      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 203666,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "Kiss Me More (feat. SZA)",
-        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "Last Time I Saw You",
         "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "Kiss Me More (feat. SZA)",
+        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
         "name": "UNHEALTHY (feat. Shania Twain)",
         "url": "https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 149653,
       "name": "UNHEALTHY (feat. Shania Twain)",
       "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "Alive and Unwell",
         "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 157138,
       "name": "10 Things I Hate About You",
       "url": "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -2147,6 +2147,26 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 153337,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
         "name": "Flowers Need Rain",
         "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
       },
@@ -2195,26 +2215,6 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 153337,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
     },
     {
       "added_at": "2023-11-17 14:37:01",

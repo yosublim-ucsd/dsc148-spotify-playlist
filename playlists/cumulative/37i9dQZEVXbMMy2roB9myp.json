@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
@@ -6646,6 +6646,28 @@
       "duration_ms": 138979,
       "name": "Le doy perreo",
       "url": "https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl"
+    },
+    {
+      "album": {
+        "name": "Le Gustan lo' Flaites",
+        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Le Gustan lo' Flaites",
+      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
     },
     {
       "album": {

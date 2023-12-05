@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 95282,
+  "num_followers": 95367,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTcxMWEwN2VjN2Q4NmI3MDIwZTdlYWNmMTdhNTA3MjA3MjdkNTc0",
+  "snapshot_id": "MCwxZDFlNWIyYWE5OTUwNWQ1YzZhN2NkNGUwNjQ5YzQ1OGEzNzYzMDQ4",
   "tracks": [
     {
       "added_at": "2023-11-16 13:59:09",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 360826,
+      "name": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
+      "url": "https://open.spotify.com/track/4Ti7XXjHWi4P3ygJ1GAZMn"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Cookin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 360826,
-      "name": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
-      "url": "https://open.spotify.com/track/4Ti7XXjHWi4P3ygJ1GAZMn"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 321026,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -279,18 +295,18 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+      "duration_ms": 396960,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Relaxin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 396960,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 251346,
       "name": "Nobody Else But Me",
       "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -491,18 +475,34 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 299760,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
+      "duration_ms": 266706,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -523,18 +523,34 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 266706,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
+      "duration_ms": 299760,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -559,22 +575,6 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "This Is Jazz #14",
-        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -623,6 +623,26 @@
       "duration_ms": 250840,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 405853,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -711,6 +731,22 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
         "name": "A Garland Of Red",
         "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
@@ -727,6 +763,26 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
         "name": "Moanin' (Expanded Edition)",
         "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
       },
@@ -739,42 +795,6 @@
       "duration_ms": 345173,
       "name": "Come Rain Or Come Shine - Remastered",
       "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 405853,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -843,22 +863,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 278253,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 411293,
+      "name": "The Night Has a Thousand Eyes",
+      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 199573,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 411293,
-      "name": "The Night Has a Thousand Eyes",
-      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
         "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
         "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Moon Beams [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 365666,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
-      },
-      "artists": [
-        {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Cannonball Adderley Quintet In Chicago",
         "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
         }
       ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
+      "duration_ms": 245906,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1231,38 +1231,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 424933,
-      "name": "Don't Blame Me (Retake 1)",
-      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
@@ -1279,6 +1247,22 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
         "name": "The Legendary Prestige Quintet Sessions",
         "url": "https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 500480,
       "name": "If I Were A Bell - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/2I1WZ8gHdusnDJKEm7qnNy"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 424933,
+      "name": "Don't Blame Me (Retake 1)",
+      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods Quartet",
-          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
-        }
-      ],
-      "duration_ms": 485226,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 309253,
       "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods Quartet",
+          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
+        }
+      ],
+      "duration_ms": 485226,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1471,6 +1471,22 @@
       "duration_ms": 178640,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano Sextet",
+          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1507,22 +1523,6 @@
       "duration_ms": 457560,
       "name": "Love For Sale - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano Sextet",
-          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 447760,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 267053,
       "name": "Do Nothing Till You Hear From Me",
       "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 447760,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 627733,
-      "name": "Basin Street Blues",
-      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Hollywood Stampede",
         "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 170333,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 627733,
+      "name": "Basin Street Blues",
+      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "Another Workout",
-        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 483946,
-      "name": "Hello, Young Lovers - Remastered 2006",
-      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 369760,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "Another Workout",
+        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 483946,
+      "name": "Hello, Young Lovers - Remastered 2006",
+      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
+        "name": "A Night At The Village Vanguard (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 501906,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2023-11-16 13:59:09",
       "album": {
-        "name": "A Night At The Village Vanguard (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 501906,
-      "name": "Old Devil Moon",
-      "url": "https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1959,6 +1959,22 @@
       "duration_ms": 333493,
       "name": "It's You or No One",
       "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
+    },
+    {
+      "added_at": "2023-11-16 13:59:09",
+      "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 427826,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
     },
     {
       "added_at": "2023-11-16 13:59:09",
@@ -2079,22 +2095,6 @@
       "duration_ms": 553066,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/3xEAZQNPiwucPdGagdoD5j"
-    },
-    {
-      "added_at": "2023-11-16 13:59:09",
-      "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 427826,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
     },
     {
       "added_at": "2023-11-16 13:59:09",

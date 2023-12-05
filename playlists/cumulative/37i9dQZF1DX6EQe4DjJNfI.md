@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-174 songs - 8 hr 51 min
+175 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Facetime \- Remix](https://open.spotify.com/track/0ULGW9RhAaBfX3Lt3KQdL2) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:53 | 2023-04-07 | 2023-08-26 |
 | [Fala, Fala](https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Fala, Fala](https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn) | 2:55 | 2023-01-13 | 2023-03-25 |
 | [Faz Arrepiar](https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Ane](https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG) | [Faz Arrepiar](https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7) | 2:20 | 2023-02-17 |  |
-| [Fora do Normal](https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB) | [DeLua](https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq), [Tory](https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy) | [Fora do Normal](https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT) | 2:53 | 2023-11-10 |  |
+| [Fora do Normal](https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB) | [DeLua](https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq), [Tory](https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy) | [Fora do Normal](https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT) | 2:53 | 2023-11-10 | 2023-12-05 |
 | [Forasteiro](https://open.spotify.com/track/2y3cSgjC0OJm18XCTAYL64) | [Matheus Telles](https://open.spotify.com/artist/3N6sxbTtkfFYeTHr8RO2qS) | [Forasteiro](https://open.spotify.com/album/4zOhy2vPHpmepLnLm8uTCA) | 2:58 | 2023-08-11 | 2023-09-02 |
 | [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-10-27 |  |
 | [Fuder e Dormir Juntin](https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN) | [Fuder e Dormir Juntin](https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA) | 3:00 | 2023-03-17 | 2023-09-02 |
@@ -152,6 +152,7 @@
 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 | 2022-11-18 | 2023-03-23 |
 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2022-11-18 |  |
 | [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2022-11-18 |  |
+| [Sinta\-me \(senta em mim\)](https://open.spotify.com/track/4VfNLTHVzGnFVJi9aDblOm) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Sinta\-me \(senta em mim\)](https://open.spotify.com/album/7nqC8eBOULlhZFSjx3YabB) | 2:20 | 2023-12-04 |  |
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-09-01 |  |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-11-18 |  |
 | [Solo](https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Solo](https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT) | 2:58 | 2023-11-10 |  |

@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-119 songs - 7 hr 19 min
+120 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,12 +112,13 @@
 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 | 2023-01-04 |  |
 | [The Warning](https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Something Like A War](https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz) | 3:14 | 2021-10-15 |  |
 | [Thin Line](https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Duncan Bellamy](https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:18 | 2023-10-10 |  |
+| [Thought 8](https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Thoughts](https://open.spotify.com/album/31uhQtHGICVuHM7etgIi7O) | 3:24 | 2021-10-15 |  |
 | [Thrill](https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 4:20 | 2021-10-15 |  |
 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 | 2021-10-15 |  |
 | [Too Much to Ask](https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz) | 3:47 | 2021-10-15 | 2023-08-09 |
 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 | 2022-04-18 |  |
 | [Trouble](https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Trouble / In My Head](https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja) | 3:06 | 2023-06-02 |  |
-| [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 | 2021-10-15 |  |
+| [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 | 2021-10-15 | 2023-12-05 |
 | [Unconditional](https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World \(Deluxe\)](https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p) | 3:09 | 2022-09-29 |  |
 | [Walking Flames](https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Walking Flames](https://open.spotify.com/album/2GkDoPv9tpc1mvw3Xh9heu) | 4:10 | 2021-10-15 | 2023-08-25 |
 | [Water \- FKJ Remix](https://open.spotify.com/track/4g1aIPqIAqcB6ZgU0F2ylv) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Water \(FKJ Remix\)](https://open.spotify.com/album/0hP7x8YEcyPDjN4LzuJbNm) | 3:19 | 2021-10-15 |  |

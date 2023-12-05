@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Etienne Dufresne
 
-2,219 songs - 4 day 22 hr 34 min
+2,220 songs - 4 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,6 +911,7 @@
 | [Jaune](https://open.spotify.com/track/14QJlmd5ulzXXRbjRaS45z) | [Baladeur](https://open.spotify.com/artist/2MnBL1e3Gf1pHK0mXokTST) | [Jaune](https://open.spotify.com/album/3rChcXBXEiIULMsBZYXGdi) | 3:17 | 2022-06-03 | 2022-06-11 |
 | [Jaune](https://open.spotify.com/track/0sGwVgPyI5iLTFpBFnj69h) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Jaune](https://open.spotify.com/album/3OdXn01pitKiIuY70jWr47) | 4:00 | 2022-06-10 | 2022-06-18 |
 | [JD](https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI) | [Amki](https://open.spotify.com/artist/5xKr6yXoMkJVDj8NUt2KW1) | [JD](https://open.spotify.com/album/29UvcSPfJphjgNqgFLL9wr) | 3:46 | 2022-08-12 | 2022-08-27 |
+| [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 | 2023-12-01 |  |
 | [Je cours plus vite que toi](https://open.spotify.com/track/08Jk60QUAS2KqmvPLsz6Lm) | [Sandrine St\-Laurent](https://open.spotify.com/artist/2yHC0qy3VEXWdzYInARdP1) | [Je cours plus vite que toi](https://open.spotify.com/album/4jkeJ9poNDgCyb0zBBjtAf) | 3:51 | 2022-05-06 | 2022-05-14 |
 | [Je danse](https://open.spotify.com/track/0hcDZ1YCJRMj9HXAFQOWNL) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Je danse](https://open.spotify.com/album/6r6ZkrdjLnjc9uyFzog1Z7) | 3:13 | 2023-02-10 | 2023-02-25 |
 | [Je flottais](https://open.spotify.com/track/39IhdNNsjKSK13c4yuDABr) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [Je flottais](https://open.spotify.com/album/1KrV8AyeUcP318QXodp8ur) | 3:12 | 2022-02-25 | 2022-03-12 |
@@ -2067,7 +2068,7 @@
 | [Un jour ou l'autre](https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul) | [Pete](https://open.spotify.com/artist/40gbkGuMLWOxH0oGvH3MXk), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Un jour ou l'autre](https://open.spotify.com/album/2F6noOdaLKnBxtl78geaLW) | 3:02 | 2022-05-13 | 2022-05-28 |
 | [Un kid](https://open.spotify.com/track/2E1FCN9N6vNFejyksglQnZ) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Un kid](https://open.spotify.com/album/31rtUB4ct0i4tXJV0w6gPp) | 2:53 | 2022-11-18 | 2022-12-03 |
 | [un million](https://open.spotify.com/track/3l2sADKbSEpg1F72iiZV6j) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [un million](https://open.spotify.com/album/2ltFJFhFDJmBvCtDdVyWnF) | 3:23 | 2023-01-13 | 2023-01-28 |
-| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 |  |
+| [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 | 2023-12-05 |
 | [Un murmure dans le décor](https://open.spotify.com/track/2ojnBSChKn8i7EsjVfNiJb) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Un murmure dans le décor](https://open.spotify.com/album/0Mw4CysbKjPrN1DqDXPKFo) | 3:22 | 2022-03-25 | 2022-04-09 |
 | [Un Palmier Dans La Neige](https://open.spotify.com/track/5dviT0SFLaLbLcy9SpRt90) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Wuachuma](https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ) | [Un Palmier Dans La Neige](https://open.spotify.com/album/01ChPqyfVKKqEATEjPvA7d) | 7:00 | 2022-08-19 | 2022-09-03 |
 | [Un Peu d'Amour](https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Un Peu d'Amour](https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce) | 5:31 | 2022-05-13 | 2022-05-20 |

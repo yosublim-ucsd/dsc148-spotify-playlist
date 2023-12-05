@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,407 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,839 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 56 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 |
 | 57 | [Christmas Time](https://open.spotify.com/track/3NlghT7vgsSB8UJjcJqO94) | [Sebastian Javier](https://open.spotify.com/artist/7jEax0MCKxovBHDU6AaFca) | [Christmas Time](https://open.spotify.com/album/2jURLzMPgGdJYJh0WZqGT8) | 2:54 |
 | 58 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 |
-| 59 | [Christmas Without You](https://open.spotify.com/track/1cEIJUSzxEQPKozm0vW0rV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Winter Mood \- 冬の気分に浸れる洋楽 \-](https://open.spotify.com/album/4ltmz7KA90ycNAH0rwhmvm) | 3:17 |
+| 59 | [Christmas Without You](https://open.spotify.com/track/2GVJ08KA30FZMN5dAt9pQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [楽しいクリスマス](https://open.spotify.com/album/1PVS4IztWXudzruPFbkxkf) | 3:17 |
 | 60 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 |
 | 61 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 |
 | 62 | [Another Holiday](https://open.spotify.com/track/4QrZBl4Sz76JPTZDbfsxCd) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Soldier On](https://open.spotify.com/album/2bU1n72VyqxwTjEuCqYTYc) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 99 | [Alone on Christmas Eve](https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb) | 2:16 |
 | 100 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
 
-Snapshot ID: `MCw2MzMwNjE0ZGJmNzAzZTZlNGM5OTg1MzI4ZjdmM2I0NGExYjhiNzZi`
+Snapshot ID: `MCw0M2E5NWU2NDAyODVkZDAxN2ViODhhYTRjYTVhODcyMGNhZjM2OWZh`

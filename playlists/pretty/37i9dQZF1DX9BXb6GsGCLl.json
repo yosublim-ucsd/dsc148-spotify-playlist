@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 545687,
+  "num_followers": 545740,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTM0NjFkNTI1ODRlMmU1YTVlZDNhNGI1ZmYzYzJkNDhmOGQ0MGRh",
+  "snapshot_id": "MCxmNjlkN2Y3NmI2Y2VmNzBlM2ZkZGYxN2MyYTM1ZmM2ZjJmNjA3ZDBi",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -83,22 +83,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -503,26 +503,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 211362,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Pretty Girl (Cheat Codes X CADE Remix)",
         "url": "https://open.spotify.com/album/1XYA8eDvomdYTbQBzk0jT1"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 193613,
       "name": "Pretty Girl - Cheat Codes X CADE Remix",
       "url": "https://open.spotify.com/track/1NDxZ7cFAo481dtYWdrUnR"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 211362,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -655,26 +655,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Love Not War (The Tampa Beat)",
-        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Nuka",
-          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
-        }
-      ],
-      "duration_ms": 192921,
-      "name": "Love Not War (The Tampa Beat)",
-      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -695,22 +675,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "More Than I Can Say",
-        "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
+        "name": "Love Not War (The Tampa Beat)",
+        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
       },
       "artists": [
         {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         },
         {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+          "name": "Nuka",
+          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
         }
       ],
-      "duration_ms": 153197,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
+      "duration_ms": 192921,
+      "name": "Love Not War (The Tampa Beat)",
+      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -731,6 +711,26 @@
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "More Than I Can Say",
+        "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "duration_ms": 153197,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -783,6 +783,30 @@
       "duration_ms": 197298,
       "name": "The Bones - with Hozier",
       "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -903,30 +927,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -991,42 +991,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -1047,6 +1011,42 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Your Song",
         "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 201666,
       "name": "Get To Know You",
       "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
       },
@@ -1327,6 +1303,30 @@
       "duration_ms": 214941,
       "name": "Speechless (feat. Erika Sirola)",
       "url": "https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2021-08-20 08:20:52",

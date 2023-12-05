@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,399 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,437 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 7 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
 | 8 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 9 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
-| 10 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 |
-| 11 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 10 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 11 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 |
 | 12 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
 | 13 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
 | 14 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 17 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
 | 18 | [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 |
 | 19 | [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 |
-| 20 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
-| 21 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
+| 20 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
+| 21 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 22 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 |
-| 23 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 |
-| 24 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 |
+| 23 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 |
+| 24 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 |
 | 25 | [Lost On You](https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:17 |
 | 26 | [Wait for You](https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj) | 3:13 |
 | 27 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 40 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 |
 | 41 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 42 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
-| 43 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
-| 44 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
-| 45 | [Sunscreen](https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 2:58 |
-| 46 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 |
-| 47 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 |
+| 43 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
+| 44 | [Sunscreen](https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 2:58 |
+| 45 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 |
+| 46 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 |
+| 47 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
 | 48 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
 | 49 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
 | 50 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 74 | [My Soul I](https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 4:15 |
 | 75 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 76 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
-| 77 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
+| 77 | [Transformation](https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Roll With The Punches](https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG) | 3:31 |
 | 78 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
-| 79 | [Transformation](https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Roll With The Punches](https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG) | 3:31 |
+| 79 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
 | 80 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
 | 81 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
 | 82 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
 
-Snapshot ID: `MCxmMjMwMDk2ZWM5NDE3ZjJkNjNjZWViMWQ3OWVhMjI1OWRkNGFjNTAx`
+Snapshot ID: `MCxkNjU1MTkxYzRmMDkzM2VlYWFjOTllM2Q3OWE1N2M0ZTRmZDBmOThh`

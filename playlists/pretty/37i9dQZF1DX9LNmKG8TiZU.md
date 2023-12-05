@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des titres pop, tout en douceur\. Photo : Kenya Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,111 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,129 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 13 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 |
 | 14 | [Homecoming](https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Homecoming](https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra) | 2:52 |
 | 15 | [Always](https://open.spotify.com/track/6lq5d1UKX9tmjFL4Cj8tCe) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Always](https://open.spotify.com/album/25vA0rbQezTpV1V2vRaXm7) | 4:06 |
-| 16 | [I don't need you anymore](https://open.spotify.com/track/4jvO2qMj9z3CN1lyyQNnTz) | [Waffle](https://open.spotify.com/artist/5f56SSkVvKsOzkHNSim6u4), [Emalyne](https://open.spotify.com/artist/0rxFFHNfjjEu5TOTFHrSwT) | [I don't need you anymore](https://open.spotify.com/album/0IhOGuhSVrtnotXLsXdjuT) | 3:15 |
+| 16 | [I don't need you anymore](https://open.spotify.com/track/4jvO2qMj9z3CN1lyyQNnTz) | [Waffle](https://open.spotify.com/artist/5f56SSkVvKsOzkHNSim6u4), [emalyne](https://open.spotify.com/artist/5NFi7q6RW7JXhCS05mQ5h1) | [I don't need you anymore](https://open.spotify.com/album/0IhOGuhSVrtnotXLsXdjuT) | 3:15 |
 | 17 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
 | 18 | [Sorority](https://open.spotify.com/track/19CqaxojbrK0QthZtht4nR) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Sorority](https://open.spotify.com/album/4jctcnJUa2R2N798kp83bl) | 3:33 |
 | 19 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
 | 50 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
 
-Snapshot ID: `MCw4MGNlZjZiZjdkOGFmMTA3NmExN2U3MDhkMmEwN2UwODBjYzU0NzUz`
+Snapshot ID: `MCw4YmU5NDU2YjAyMDNhOGI0NTQwNGUyMTUxMGIyMjE5ZGQzZWFmOTBm`

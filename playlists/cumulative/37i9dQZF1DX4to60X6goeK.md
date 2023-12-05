@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Kanine
 
-159 songs - 10 hr 47 min
+160 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 | 2022-05-06 | 2023-09-22 |
 | [Hands Up](https://open.spotify.com/track/3xHyg6aNGOQawpeKeI1rFK) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Hands Up](https://open.spotify.com/album/0KDRj5G1bqmjNieEHtzWBy) | 4:31 | 2022-05-06 | 2023-12-01 |
 | [Hazard](https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z) | [JMullaUK](https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Hazard](https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8) | 4:08 | 2022-05-06 | 2023-09-22 |
-| [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 | 2022-05-06 |  |
+| [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 | 2022-05-06 | 2023-12-05 |
 | [Heaven](https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Heaven](https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV) | 3:25 | 2023-10-27 |  |
 | [Hello \(feat\. Maozon & Azumai\)](https://open.spotify.com/track/23Vn7VE8KRQ8S97YtWqHQs) | [Mountain](https://open.spotify.com/artist/44kGywk9AMdPUJwqU03q2p), [Maozon](https://open.spotify.com/artist/1U5zkI2XNuCMR219oZt3VV), [Azumai](https://open.spotify.com/artist/2eUnNDjJJgJRJwMzN9N3je) | [Hello / Brexit](https://open.spotify.com/album/6XcTt08jXK1VtnmPLx00pg) | 3:46 | 2022-05-06 | 2022-07-20 |
 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 | 2022-05-06 |  |
@@ -149,6 +149,7 @@
 | [The Swarm](https://open.spotify.com/track/7aB2972ZnAOJbwkNvepLgh) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [The Swarm / Hysteria](https://open.spotify.com/album/5sLkqrD0IfgkdnrIavsciN) | 4:22 | 2022-06-20 | 2022-09-03 |
 | [The Weekend \- Bou Remix](https://open.spotify.com/track/0bHzvICBdoUXsG4D0IntMb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [The Weekend \(Bou Remix\)](https://open.spotify.com/album/3XAKsF8KTg4Ete5WN3Hvso) | 2:56 | 2023-09-22 | 2023-12-01 |
 | [Thrill Seekers \- Serum Remix](https://open.spotify.com/track/1SMnizgMVh1AYGKsWS29Vf) | [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [15 Years Of Low Down Deep](https://open.spotify.com/album/37OTn60AXNy6BuvxJik9hk) | 3:01 | 2022-05-06 | 2022-07-27 |
+| [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 | 2023-12-01 |  |
 | [Transcend](https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz) | 4:52 | 2022-05-06 | 2023-05-19 |
 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 | 2022-08-12 |  |
 | [Tweeter Box \- Sinexia Remix](https://open.spotify.com/track/5y3zSVslXukl5t6fLTcVv1) | [Agro](https://open.spotify.com/artist/12lvWxBjY0KZJp1ySVNcrE), [Sinexia](https://open.spotify.com/artist/5Bm9oWnqOT8TB3RXijKdjn) | [Agro Remixes Part 3](https://open.spotify.com/album/5lLJ1S9fzWbCjZ9Fz2eypP) | 4:36 | 2022-05-06 | 2022-07-19 |

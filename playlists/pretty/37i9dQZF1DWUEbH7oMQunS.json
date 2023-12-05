@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58270,
+  "num_followers": 58334,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWI5OTY4MWM0MDgyZDhiZGYzMmFiNjhmNDY0Y2YzY2U5MjY0YzYz",
+  "snapshot_id": "MCxhYzlmMmI1YzAzMzhkZmRhYmNkNGM5MmJkYzU4YWU5ZjQ5ZjgxMTYy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -271,38 +271,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Clearly",
-        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
-      },
-      "artists": [
-        {
-          "name": "Hillside Recording",
-          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
-        }
-      ],
-      "duration_ms": 223486,
-      "name": "Clearly",
-      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Keep On Hoping",
-        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "Keep On Hoping - Piano Choir Version",
-      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -319,6 +287,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Clearly",
+        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
+      },
+      "artists": [
+        {
+          "name": "Hillside Recording",
+          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
+        }
+      ],
+      "duration_ms": 223486,
+      "name": "Clearly",
+      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 260799,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Keep On Hoping",
+        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "Keep On Hoping - Piano Choir Version",
+      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 336853,
-      "name": "Greater Than All Other Names - Instrumental",
-      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
         "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 210480,
       "name": "The Sun Will Rise",
       "url": "https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 336853,
+      "name": "Greater Than All Other Names - Instrumental",
+      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 216366,
+      "name": "hold on (alt. version)",
+      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Mother's Love",
         "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 242120,
       "name": "The Lion And The Lamb - Instrumental",
       "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 216366,
-      "name": "hold on (alt. version)",
-      "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Hope Where There Was None",
         "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196040,
       "name": "Weeping Mary",
       "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Universal Christ",
         "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
         }
       ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 175496,
       "name": "Breathe My Name",
       "url": "https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Echoes Of Wonder",
+        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Fields",
         "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 418995,
       "name": "Without Shelter",
       "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Echoes Of Wonder",
-        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
-      },
-      "artists": [
-        {
-          "name": "In Cathedrals",
-          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "undone",
         "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 291242,
       "name": "dust to dust/lose myself (undone)",
       "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
+      },
+      "artists": [
+        {
+          "name": "In Cathedrals",
+          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
       },
       "artists": [
         {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 219782,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
     },
     {
       "added_at": "2023-07-28 04:02:00",

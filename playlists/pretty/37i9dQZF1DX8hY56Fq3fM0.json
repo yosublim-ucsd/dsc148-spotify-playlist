@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 287832,
+  "num_followers": 287949,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU4YjMxYTNhNGUyZDRkMWZjMTIxMWU3NzFlZDU0ZDQyY2Q5ZDI1",
+  "snapshot_id": "MCw2MzFjYTJiYTljN2RkODVkNjdkY2Y5MmRiNWQxN2Q0OTc2NDY4ZjMy",
   "tracks": [
     {
       "added_at": "2023-07-26 19:45:38",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Picture Show",
         "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 193030,
-      "name": "Snap Out Of It",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "For Abby",
+        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 135581,
+      "name": "Honeypie",
+      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 155146,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "For Abby",
-        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 135581,
-      "name": "Honeypie",
-      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Young The Giant (Special Edition)",
         "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 249520,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -443,18 +443,34 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+        "name": "chapter 2",
+        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 276720,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "chapter 2",
-        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 166520,
       "name": "Scrawny",
       "url": "https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 236887,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 192040,
       "name": "Sweet Talk",
       "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -711,22 +727,6 @@
       "duration_ms": 188866,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Cold Cold Man",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 247786,
       "name": "still feel.",
       "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "Cold Cold Man",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 221413,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 175906,
-      "name": "Work This Body",
-      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
+      "duration_ms": 206360,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1239,6 +1223,22 @@
       "duration_ms": 215520,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Work This Body",
+      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 174453,
       "name": "Post Break-Up Sex",
       "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
     },
     {
       "added_at": "2023-07-26 19:45:38",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-07-26 19:45:38",
       "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys (Explicit)",
+      "url": "https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y"
+    },
+    {
+      "added_at": "2023-07-26 19:45:38",
+      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 192681,
       "name": "Joy",
       "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
-    },
-    {
-      "added_at": "2023-07-26 19:45:38",
-      "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/3fSYQvcrQJJhTv9PYYMkY5"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys (Explicit)",
-      "url": "https://open.spotify.com/track/2ZRQixbe1MCJxpcO96Zj1y"
     },
     {
       "added_at": "2023-07-26 19:45:38",

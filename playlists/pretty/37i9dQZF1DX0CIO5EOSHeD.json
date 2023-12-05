@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: feeble little horse",
-  "num_followers": 461235,
+  "num_followers": 461418,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODE2YjAyMjZiZmY5MjQxZDYzYWRkOTU4OTEzZjZkOTFmNDZkY2Q0",
+  "snapshot_id": "MCwzNmZhYTJkYjE1NGM5Yjc5Zjc4ZDJkYjgyZmY1ZThiNGJjZDBiODcx",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 146026,
       "name": "Spiral Stairs",
       "url": "https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Safe House",
         "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 217849,
       "name": "Safe House",
       "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "It's In My Head",
+        "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 181792,
+      "name": "It's In My Head",
+      "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Sun Outside My Window",
         "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "It's In My Head",
-        "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB"
       },
       "artists": [
         {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 181792,
-      "name": "It's In My Head",
-      "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
+      "duration_ms": 249968,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -963,22 +979,6 @@
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 249968,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 312400,
       "name": "Deaf",
       "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Dawn Of The Freak",
-        "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Youth",
-          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
-        }
-      ],
-      "duration_ms": 265346,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 163709,
       "name": "Midnight on a Sunny Day",
       "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Dawn Of The Freak",
+        "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "duration_ms": 265346,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Escape From The Killer",
+        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Escape From The Killer 2008",
+      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Me Oh My Mirror",
         "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Escape From The Killer",
-        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Escape From The Killer 2008",
-      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
     },
     {
       "added_at": "2023-12-02 02:07:22",

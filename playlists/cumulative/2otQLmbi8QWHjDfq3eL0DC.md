@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md) - cumulative - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
-### [HOUSE MUSIC 2023 \| TOP 100 DANCE HITS](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
+### [HOUSE MUSIC 2024 \| TOP 100 DANCE HITS](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2023!
+> The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2023 and 2024!
 
 112 songs - 5 hr 15 min
 

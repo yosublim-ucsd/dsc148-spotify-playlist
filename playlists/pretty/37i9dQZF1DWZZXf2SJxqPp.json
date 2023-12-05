@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 130700,
+  "num_followers": 130726,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDNiYmE5ZjI4MjgwZTQ1MzNlNGIwNDZiMmNhZWVlZWRhNWNkZDc4",
+  "snapshot_id": "MCw3NGY5NjQ3MTEzYmY5M2E5MmI2MDY2OTk4YjZmNjVkMmViMTUyMTQ2",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -503,30 +503,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Forrest Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
-        },
-        {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
-        }
-      ],
-      "duration_ms": 175259,
-      "name": "Luv Is Not Enough - Cabu Remix",
-      "url": "https://open.spotify.com/track/2RGLP4kZKLmTgxva9QE5Qx"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rust & Gold",
         "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
@@ -579,6 +555,30 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+        },
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 175259,
+      "name": "Luv Is Not Enough - Cabu Remix",
+      "url": "https://open.spotify.com/track/2RGLP4kZKLmTgxva9QE5Qx"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "nice 2 me",
         "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
         "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
       "artists": [
         {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 179417,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -687,6 +671,22 @@
       "duration_ms": 232914,
       "name": "Nabi (feat. OHHYUK)",
       "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Illumination (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "duration_ms": 303406,
+      "name": "Emagination - B-Side",
+      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
       },
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Illumination (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 303406,
-      "name": "Emagination - B-Side",
-      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Mon Cheri",
         "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Young Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/5Pnctsm9Mi4D6W3DzWckA6"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
         }
       ],
-      "duration_ms": 279676,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/4trtuxyoMRBjS8wY6PB7OR"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/5Pnctsm9Mi4D6W3DzWckA6"
+        "name": "Young Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
       },
       "artists": [
         {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/4trtuxyoMRBjS8wY6PB7OR"
+      "duration_ms": 279676,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Lindstrom & Prins Thomas",
+        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Boney M Down",
+      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 208150,
       "name": "Lost in Music",
       "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Lindstrom & Prins Thomas",
-        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        },
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Boney M Down",
-      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
     },
     {
       "added_at": "2023-08-14 14:58:41",

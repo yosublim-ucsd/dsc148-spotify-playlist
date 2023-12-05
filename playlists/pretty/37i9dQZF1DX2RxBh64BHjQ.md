@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,795,016 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,795,181 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 59 | [Wassup](https://open.spotify.com/track/4XX781p3aAKYppaNLXpich) | [L5](https://open.spotify.com/artist/4z6YFfgSe8cIY9HxKUe531) | [Nomo Free L5](https://open.spotify.com/album/7KRUVX0NcdwW8eudueOQ13) | 2:04 |
 | 60 | [The Ones \(feat\. G Herbo\)](https://open.spotify.com/track/7yJHYOLvzz1bwhjIqqMBaJ) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [REESE](https://open.spotify.com/album/58gpuwuVkndeDXuWsAi6GC) | 2:50 |
 | 61 | [Gunz in SOHO](https://open.spotify.com/track/3mNw70F0wDJXItFYEoQ56L) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 2:22 |
-| 62 | [Not Worthy](https://open.spotify.com/track/1pGkgfarR7dAlueOvkfS0y) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:16 |
+| 62 | [Not Worthy 2](https://open.spotify.com/track/1pGkgfarR7dAlueOvkfS0y) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:16 |
 | 63 | [Run That! \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/0EYaKFQHnWk3dukyNPhA8q) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 2:50 |
-| 64 | [Eminem](https://open.spotify.com/track/6Q2isGQ6xXITDRtruDUM8B) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:00 |
+| 64 | [Eminem ft\. Veeze](https://open.spotify.com/track/6Q2isGQ6xXITDRtruDUM8B) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:00 |
 | 65 | [Jet Lee](https://open.spotify.com/track/0Dj9XIgTrMiqJJG5hZcFir) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Jet Lee](https://open.spotify.com/album/4vO3ciCm1fXlUIS7YRbpy6) | 2:46 |
 | 66 | [Ice Cream \(feat\. YN Jay & Riff Raff\)](https://open.spotify.com/track/2aA3Xz6XKAo96jp03h4Zak) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o) | [MegaTron 2](https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp) | 3:01 |
 | 67 | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/track/3GjWJb3PArubMXvc8kPHL6) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/album/6NOOW5jXazGu4NEGBkWLAN) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Yes](https://open.spotify.com/track/5wJzWIpTjufasyBhPmfPwm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her](https://open.spotify.com/album/4bHTLD05ILfR6xCCSoivGQ) | 3:14 |
 | 100 | [Remember](https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Remember](https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8) | 2:56 |
 
-Snapshot ID: `MCxlY2M3MzQwZmMxZWNhYWYxZWEzYTExNDIyYWFiZjIwYTk2NmE5Y2E5`
+Snapshot ID: `MCxmZDM0ZDBkY2Y5ODZlY2Q1ZDhiYmZiZWYzYjExMmNlZTEzM2FlZjc3`

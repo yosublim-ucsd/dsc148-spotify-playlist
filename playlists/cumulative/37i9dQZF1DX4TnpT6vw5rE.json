@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Relic",
+        "url": "https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf"
+      },
+      "artists": [
+        {
+          "name": "Kazuhiro Hotaru",
+          "url": "https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178288,
+      "name": "Ancient Lake",
+      "url": "https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO"
+    },
+    {
+      "album": {
         "name": "Nebuleuses",
         "url": "https://open.spotify.com/album/2pZfWVip25OGJeQAx5CBT2"
       },
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 196000,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP"

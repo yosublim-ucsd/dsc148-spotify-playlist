@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,878 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,884 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 11 | [Acid](https://open.spotify.com/track/7z3iKojTFiMK14ZbnScRYm) | [SATNIK](https://open.spotify.com/artist/1xtaRlIJ0phsrjkimeMFul) | [Acid](https://open.spotify.com/album/37O0zfeJg2M7O9HVnNMpm1) | 3:51 |
 | 12 | [Out of Time](https://open.spotify.com/track/5ePXQ8wBycFbweVtBsqTjB) | [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl) | [Out of Time](https://open.spotify.com/album/3e8PYgcrCI6sDOQKXXhhRq) | 2:47 |
 | 13 | [Falling Down](https://open.spotify.com/track/34p4fCmqhtRLRhmODfibZ4) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Lowdelic](https://open.spotify.com/artist/5Kddhc8aFjVx5Ab2MBCVnD) | [Falling Down](https://open.spotify.com/album/76deBFvpUGQkq3tnZdwHAj) | 3:21 |
-| 14 | [Só Vem](https://open.spotify.com/track/64YGPLcahYphHK9rvjFRUq) | [R3ckzet](https://open.spotify.com/artist/4Y5Bxlvf5SQO3xtfbt5vrS), [Grace Grey](https://open.spotify.com/artist/4dKpgzFHqM2zSCW6COFAx2) | [Só Vem](https://open.spotify.com/album/4iH0TS0TCDOqsf3RL6BzlB) | 3:02 |
+| 14 | [Só Vem](https://open.spotify.com/track/6C0Vwd5dww3W5DLDI0WEAQ) | [R3ckzet](https://open.spotify.com/artist/4Y5Bxlvf5SQO3xtfbt5vrS), [Grace Grey](https://open.spotify.com/artist/4dKpgzFHqM2zSCW6COFAx2) | [Só Vem](https://open.spotify.com/album/3sFs2jpsYxt2c4b9Xr3biP) | 3:02 |
 | 15 | [Behavior](https://open.spotify.com/track/4IYoFFsKrv45MgovCfY9YQ) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Behavior](https://open.spotify.com/album/3oEmXRszi59ljTfXI1jtEt) | 2:29 |
 | 16 | [Take Me Higher](https://open.spotify.com/track/46llJyW3ZoNwOHmP5rF7u9) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Take Me Higher](https://open.spotify.com/album/7guWqurSqbQVpihJxOScAC) | 2:48 |
 | 17 | [Girl](https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Girl](https://open.spotify.com/album/0P3BWt3FWwy4PCiVo4xO4z) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 79 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 |
 | 80 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 |
 
-Snapshot ID: `MCw2NTYzNjYwZjBkZjE1ODEzMGY4MjBmN2RmODIxM2YzZTU2NmMxYWQ4`
+Snapshot ID: `MCxiYTE3NDY1YmVhN2EyZmQ4N2JkODBmYTk3NWM1MTY3MjY0ZTY0M2Jm`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDcxMTg2NTdmZDQ1OWZmZmNkY2QxMjMxOGQ4NzczZjRjMTgzM2Qx",
+  "snapshot_id": "MCxmMWI4ODA5OGNlMjUzNjgzOTQwNmZiN2RlZTcxOWUyMzcwNjY1ZjI5",
   "tracks": [
     {
       "added_at": "2019-06-28 02:33:37",
@@ -331,6 +331,22 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -407,22 +423,6 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Miss Murder",
-      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 180640,
       "name": "Highway Tune",
       "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -859,22 +859,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Hoobastank (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Crawling In The Dark",
-      "url": "https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 291426,
       "name": "Your Betrayal",
       "url": "https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Hoobastank (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Crawling In The Dark",
+      "url": "https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -923,18 +923,18 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ignorance",
-      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
+      "duration_ms": 232320,
+      "name": "True Friends",
+      "url": "https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -955,18 +955,18 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 232320,
-      "name": "True Friends",
-      "url": "https://open.spotify.com/track/1KTJmfwrk5pYqsi9mkY3nT"
+      "duration_ms": 218626,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Indestructible (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Inside the Fire",
-      "url": "https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Indestructible (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Inside the Fire",
+      "url": "https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Tonight The Stars Revolt",
-        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
-      },
-      "artists": [
-        {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "When Worlds Collide",
-      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Asking Alexandria",
         "url": "https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+        "name": "Tonight The Stars Revolt",
+        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Powerman 5000",
+          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
         }
       ],
-      "duration_ms": 252002,
-      "name": "The Vengeful One",
-      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
+      "duration_ms": 177960,
+      "name": "When Worlds Collide",
+      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1191,6 +1175,22 @@
       "duration_ms": 239293,
       "name": "Square Hammer",
       "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 252002,
+      "name": "The Vengeful One",
+      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Crooked Teeth",
-        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214797,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 252360,
       "name": "Send the Pain Below",
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/0IbiFpXPFpvCAIs9WMX5wC"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "The Concrete Confessional",
-        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Looking Down the Barrel of Today",
-      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Tri-polar",
         "url": "https://open.spotify.com/album/17GBjeSa10SoUukS9lJCTv"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 187346,
       "name": "You're Going Down",
       "url": "https://open.spotify.com/track/5omWAB5iNMHvbAfBSzkdu8"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "The Concrete Confessional",
+        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Looking Down the Barrel of Today",
+      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Amaryllis",
-        "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Amaryllis",
+        "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "My Friends Over You",
-      "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD"
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
       "artists": [
         {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n"
+      "duration_ms": 220200,
+      "name": "My Friends Over You",
+      "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1543,6 +1527,22 @@
       "duration_ms": 224306,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6zUy2nnchfZpzaDalE6sO2"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n"
     },
     {
       "added_at": "2019-06-28 02:33:37",

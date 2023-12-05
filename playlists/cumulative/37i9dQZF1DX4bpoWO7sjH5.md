@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-184 songs - 12 hr 16 min
+185 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Jesús Nació](https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 2:59 | 2021-12-24 |  |
 | [Jesús Nació](https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Jesús Nació](https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR) | 3:48 | 2021-12-24 |  |
 | [La Estrella](https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Estrella](https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze) | 3:41 | 2021-12-24 |  |
-| [La Primera Navidad](https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [La Primera Navidad](https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt) | 4:17 | 2022-11-26 |  |
+| [La Navidad es para Compartir \- Por Caminos](https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG) | [Raya Real](https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk) | [La Navidad es para Compartir \(Por Caminos\)](https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn) | 3:14 | 2023-12-02 |  |
+| [La Primera Navidad](https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [La Primera Navidad](https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt) | 4:17 | 2022-11-26 | 2023-12-05 |
 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 | 2021-12-24 |  |
 | [Llegó La Navidad](https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 4:02 | 2021-12-24 | 2022-11-27 |
 | [Llegó Navidad](https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [En Navidad](https://open.spotify.com/album/0ugGqIg0MlPul2TpV30jlp) | 4:06 | 2022-12-10 |  |

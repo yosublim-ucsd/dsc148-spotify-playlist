@@ -1,12 +1,12 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u6bce\u9031\u30bb\u30ec\u30af\u30c8\uff01",
-  "num_followers": 97839,
+  "num_followers": 97859,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzI3Nzk4OGZmNTVmODY1NDIxZjdhMTU0YTg4YjI3YzJkNzBiZThj",
+  "snapshot_id": "MCwxZjIzZDczNGE1OTExMTMzZTRlMmNjYThhOGIzNTQ2MmQ3N2Y3YWZh",
   "tracks": [
     {
       "added_at": "2023-12-03 15:01:00",
@@ -143,38 +143,6 @@
     {
       "added_at": "2023-12-03 15:01:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2023-12-03 15:01:00",
-      "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 232301,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2"
-    },
-    {
-      "added_at": "2023-12-03 15:01:00",
-      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -199,6 +167,38 @@
     {
       "added_at": "2023-12-03 15:01:00",
       "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 232301,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2"
+    },
+    {
+      "added_at": "2023-12-03 15:01:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "added_at": "2023-12-03 15:01:00",
+      "album": {
         "name": "Two Moon",
         "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-12-03 15:01:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2023-12-03 15:01:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-12-03 15:01:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2023-12-03 15:01:00",

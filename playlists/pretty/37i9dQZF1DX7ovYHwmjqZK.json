@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 204309,
+  "num_followers": 204467,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmE3YzhjYzFkMTgwYzY5ZGVlNzlkN2Y1ODdlMWJkYzM0MWQ3Y2Iw",
+  "snapshot_id": "MCwyMTQ3NjM3NzRlZGU2ZDk5ZThhMjNkNjA0OTE1OTZiMjAyOWJjNTIw",
   "tracks": [
     {
       "added_at": "2023-11-24 08:43:33",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Bossa Nova Covers",
         "url": "https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 137424,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "Lamento",
-      "url": "https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Novo Bossa Nova",
-        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
-      },
-      "artists": [
-        {
-          "name": "Danny Mandalay",
-          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
-        }
-      ],
-      "duration_ms": 200285,
-      "name": "Escada Infinita",
-      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Qualquer Coisa",
         "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 174133,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Novo Bossa Nova",
+        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
+      },
+      "artists": [
+        {
+          "name": "Danny Mandalay",
+          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
+        }
+      ],
+      "duration_ms": 200285,
+      "name": "Escada Infinita",
+      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Um Dia No Mar",
-        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Um Dia No Mar",
-      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "S\u00f3 Agora",
         "url": "https://open.spotify.com/album/1n0Y919WafjPZjJcxZcmFZ"
       },
@@ -563,6 +547,38 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Rosa Morena EP",
+        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
+      },
+      "artists": [
+        {
+          "name": "Duo Flamingo",
+          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Flor De Lis",
+      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Um Dia No Mar",
+        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
+      },
+      "artists": [
+        {
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Um Dia No Mar",
+      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Edu & Tom, Tom & Edu",
         "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 257533,
       "name": "\u00c9 Preciso Dizer Adeus",
       "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Rosa Morena EP",
-        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
-      },
-      "artists": [
-        {
-          "name": "Duo Flamingo",
-          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Flor De Lis",
-      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "House Of Jade",
+        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 247837,
       "name": "Rio",
       "url": "https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "House Of Jade",
-        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
-      },
-      "artists": [
-        {
-          "name": "Eugene Lambert",
-          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 300126,
+      "name": "A Mac\u0327a\u0303",
+      "url": "https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Samba Sem Ver\u00e3o",
         "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 253870,
       "name": "Samba Sem Ver\u00e3o",
       "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
-      },
-      "artists": [
-        {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
-        }
-      ],
-      "duration_ms": 300126,
-      "name": "A Mac\u0327a\u0303",
-      "url": "https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Voc\u00ea E Eu",
-        "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
+        "name": "Joao",
+        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
       "artists": [
         {
-          "name": "Bossa Avenida",
-          "url": "https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 179299,
-      "name": "Voc\u00ea E Eu",
-      "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1075,6 +1075,22 @@
       "duration_ms": 270386,
       "name": "Duro Na Queda",
       "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Voc\u00ea E Eu",
+        "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
+      },
+      "artists": [
+        {
+          "name": "Bossa Avenida",
+          "url": "https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ"
+        }
+      ],
+      "duration_ms": 179299,
+      "name": "Voc\u00ea E Eu",
+      "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1103,22 +1119,6 @@
       "duration_ms": 332026,
       "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
       "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Joao",
-        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Eu Sambo Mesmo",
-      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Terra-M\u00e3e",
-        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
-      },
-      "artists": [
-        {
-          "name": "Carla Casarim",
-          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
-        }
-      ],
-      "duration_ms": 216701,
-      "name": "Brasil Geral",
-      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Quase Mem\u00f3ria",
         "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Storytellers",
-        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
+        "name": "Terra-M\u00e3e",
+        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
       },
       "artists": [
         {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+          "name": "Carla Casarim",
+          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
         }
       ],
-      "duration_ms": 310680,
-      "name": "Se Acontecer",
-      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
+      "duration_ms": 216701,
+      "name": "Brasil Geral",
+      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1275,6 +1259,22 @@
       "duration_ms": 173213,
       "name": "Pega Esse Sambete A\u00ed",
       "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Storytellers",
+        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
+      },
+      "artists": [
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 310680,
+      "name": "Se Acontecer",
+      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "O Amor \u00e9 um Segredo Z\u00e9 Renato canta Paulinho da Viola",
-        "url": "https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Renato",
-          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
-        }
-      ],
-      "duration_ms": 172949,
-      "name": "Um Caso Perdido",
-      "url": "https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Parti Capuri",
         "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 240400,
       "name": "Parti Capuri",
       "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "O Amor \u00e9 um Segredo Z\u00e9 Renato canta Paulinho da Viola",
+        "url": "https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Renato",
+          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
+        }
+      ],
+      "duration_ms": 172949,
+      "name": "Um Caso Perdido",
+      "url": "https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Na Palavra",
-        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Gardel",
-          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Musa em Fuga",
-      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Caetano Veloso - 1969",
         "url": "https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 168600,
       "name": "Chuvas De Ver\u00e3o - Remastered 2006",
       "url": "https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Na Palavra",
+        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Gardel",
+          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Musa em Fuga",
+      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
     },
     {
       "added_at": "2023-11-24 08:43:33",

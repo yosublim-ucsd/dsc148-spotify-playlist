@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 260799,
       "name": "Galbi",
       "url": "https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 226243,
       "name": "Ma Nssit",
       "url": "https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl"
@@ -2727,6 +2727,32 @@
     },
     {
       "album": {
+        "name": "Streams",
+        "url": "https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu"
+      },
+      "artists": [
+        {
+          "name": "Noor Arjoun",
+          "url": "https://open.spotify.com/artist/6XNtfxejdOwe52THEb2FBA"
+        },
+        {
+          "name": "Selim Arjoun",
+          "url": "https://open.spotify.com/artist/1x5vwzJm10nLzIyspRRPu1"
+        },
+        {
+          "name": "Dhalma",
+          "url": "https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303250,
+      "name": "Streams",
+      "url": "https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3"
+    },
+    {
+      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -2862,6 +2888,24 @@
       "duration_ms": 243813,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4wzFYKgyMtU8KDl8d7N1Ry"
+    },
+    {
+      "album": {
+        "name": "Trafiquant",
+        "url": "https://open.spotify.com/album/6GMy1L0OFXE5UXY5scYimM"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Trafiquant",
+      "url": "https://open.spotify.com/track/0oVCJc8jyrrhFvighWUAP2"
     },
     {
       "album": {

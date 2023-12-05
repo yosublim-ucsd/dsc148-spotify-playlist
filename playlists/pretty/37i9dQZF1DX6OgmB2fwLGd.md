@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,866 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,752 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 100 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 
-Snapshot ID: `MCxhY2MyMmZmYmJjNWI0OTRkMWFkMmFmODk2ZmU2NWYxZjQyM2FmYTIw`
+Snapshot ID: `MCwyMWI0MDY5NWMzMGExYzAxM2U2MzRkYTg4YjQ4ZjM2YmE0OWJmY2Y0`

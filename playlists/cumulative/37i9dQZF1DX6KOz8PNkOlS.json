@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/31uhQtHGICVuHM7etgIi7O"
+      },
+      "artists": [
+        {
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Thought 8",
+      "url": "https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO"
+    },
+    {
+      "album": {
         "name": "As Long As You Are",
         "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"

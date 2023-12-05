@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-301 songs - 19 hr 50 min
+302 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 | 2023-05-30 |  |
 | [Era \- Edit](https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Era](https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8) | 3:54 | 2023-05-30 |  |
 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 | 2021-08-05 | 2023-05-31 |
-| [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2023-05-30 |  |
+| [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2023-05-30 | 2023-12-05 |
 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 | 2023-05-30 |  |
 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 | 2023-05-30 |  |
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2023-05-14 | 2023-05-30 |
@@ -124,6 +124,7 @@
 | [Hurt Somebody](https://open.spotify.com/track/59oLiH1CC7dmBolUZQSSRt) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Hurt Somebody](https://open.spotify.com/album/6ePXCJjApGvTuNYbufL2Xq) | 2:59 | 2021-08-05 | 2022-07-29 |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-17 |  |
 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 | 2023-05-30 | 2023-11-05 |
+| [I Go \- Edit](https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk) | 3:44 | 2023-11-24 |  |
 | [I Love America](https://open.spotify.com/track/6m3E1vIR4NLoMkc5ahzYkb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of 70](https://open.spotify.com/album/2Xxtj609hC0qtICpAac9Hh) | 3:50 | 2023-05-14 | 2023-05-30 |
 | [I Love Video](https://open.spotify.com/track/7yKGeGDjtxmfp4jlMvPUyE) | [New Paradise](https://open.spotify.com/artist/7ybbaTETR9aq05M6ud64ru) | [I Love Video](https://open.spotify.com/album/4vFB185QRgDTR4R6vY6Xms) | 4:01 | 2023-05-14 | 2023-05-30 |
 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 | 2021-08-05 | 2023-03-07 |

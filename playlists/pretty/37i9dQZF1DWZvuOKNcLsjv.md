@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: テイラー・スウィフト\(Taylor Swift\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,654 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,721 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 94 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 |
 | 95 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 |
 | 96 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 |
-| 97 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 97 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 98 | [Elevator Hum](https://open.spotify.com/track/3MPLwP2T5FQ2vtJiDvn79Q) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Elevator Hum](https://open.spotify.com/album/6fenEkY5qHSMxWKRpObBrb) | 3:55 |
 | 99 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 |
 | 100 | [恋をして \- Acoustic Version](https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [恋をして \(Acoustic Version\)](https://open.spotify.com/album/0HP0RkqQbEKWvQO1rjbet8) | 2:52 |
 
-Snapshot ID: `MCwzZDJiNGUyZDc5YzVmNWM0NTJkMGIzNDJjMzk0ZWVmODQ5ZDM1MGRh`
+Snapshot ID: `MCw5ZDIxMjUyMTUwMDExYzNiOTI0NGJiYzFjOTU3YmVkYmNhMzI1MjQx`

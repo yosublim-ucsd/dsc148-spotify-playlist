@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 33652,
+  "num_followers": 33729,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmVmYjcwZjYyZmJjNGQ3YmE2ZTE1ZjdkNGE1ZDlkOTk4Njg2NDIz",
+  "snapshot_id": "MCwxMzM4NjNjOTQ0ZTUwOWI2YmMwMzc2ODVmN2JlZjk4YjAwM2U2ZTg2",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Let's Be Honest - EP",
         "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 136384,
       "name": "Long Way (feat. KB)",
       "url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "burn for u",
-        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 125566,
-      "name": "burn for u",
-      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Thanks In Advance",
         "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Have Me",
-        "url": "https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 168989,
-      "name": "Have Me",
-      "url": "https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Any Attack",
         "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
       },
@@ -283,6 +251,38 @@
       "duration_ms": 113051,
       "name": "Any Attack",
       "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Have Me",
+        "url": "https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 168989,
+      "name": "Have Me",
+      "url": "https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "burn for u",
+        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 125566,
+      "name": "burn for u",
+      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -351,18 +351,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/32hA1fDTD9gVo70i02JIQa"
       },
       "artists": [
         {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         }
       ],
-      "duration_ms": 260708,
-      "name": "Jesus Called My Name",
-      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+      "duration_ms": 164224,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0u1DrbKJTZjFatqh9qs47C"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -395,6 +399,38 @@
       "duration_ms": 131317,
       "name": "ONE WAY",
       "url": "https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -439,42 +475,6 @@
       "duration_ms": 193648,
       "name": "Stuff Back",
       "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/32hA1fDTD9gVo70i02JIQa"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 164224,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0u1DrbKJTZjFatqh9qs47C"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "I Need Peace",
-        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 201632,
-      "name": "I Need Peace",
-      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Nino Brown",
         "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 144093,
       "name": "Nino Brown",
       "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "I Need Peace",
+        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 201632,
+      "name": "I Need Peace",
+      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "God Good",
-        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 153737,
-      "name": "God Good",
-      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 165532,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "We Win (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
       },
@@ -747,22 +715,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
         }
       ],
-      "duration_ms": 147492,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+      "duration_ms": 165532,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -783,6 +747,26 @@
       "duration_ms": 140921,
       "name": "Where The Love Go?",
       "url": "https://open.spotify.com/track/6AcH0LfJlSzhHQqzWaxU5Y"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -815,6 +799,22 @@
       "duration_ms": 100587,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "God Good",
+        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 153737,
+      "name": "God Good",
+      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Tricky",
         "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 132635,
       "name": "Tricky",
       "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "butterfly vibes 2",
-      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
       },
@@ -1835,22 +1819,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Be Gone (feat. Mike Teezy)",
-        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 176076,
-      "name": "Be Gone (feat. Mike Teezy)",
-      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1875,22 +1855,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y"
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
       },
       "artists": [
         {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         },
         {
-          "name": "Wild Sons",
-          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 138250,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By"
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1907,6 +1887,26 @@
       "duration_ms": 157675,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+        }
+      ],
+      "duration_ms": 138250,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By"
     },
     {
       "added_at": "2023-02-18 05:58:41",

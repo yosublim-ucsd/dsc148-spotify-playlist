@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,134 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,291 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 13 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 |
 | 14 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 |
 | 15 | [Puppet](https://open.spotify.com/track/4SDiJRZhvqYTrCQq9Xf1CH) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Puppet](https://open.spotify.com/album/6tmMEsLjo4lCoB4PUGf1rl) | 2:24 |
-| 16 | [Parasite](https://open.spotify.com/track/6CbLM1XXg4bFR6oCXXMVM6) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/6VxaPwWSbuar6T4W8D6vX2) | 1:56 |
+| 16 | [Parasite](https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 1:56 |
 | 17 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 |
 | 18 | [HTIS \(Feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/track/49bgDubnZxg7dxhRkD3Et6) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS) | [TZIA](https://open.spotify.com/album/0e3aT00OxC10TrP3HSEhtF) | 3:15 |
 | 19 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 |

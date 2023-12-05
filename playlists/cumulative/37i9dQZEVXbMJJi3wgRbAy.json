@@ -911,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/4QMv2OO2DXXZado2E9Emos"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        },
+        {
+          "name": "Juanjo Morgade",
+          "url": "https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/60oAWR6EEBUftlu4UmCR5V"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
@@ -10434,7 +10456,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"

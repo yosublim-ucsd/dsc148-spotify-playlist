@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Don't use these shoes to run, they just look nice for the playlist cover\. Use real running shoes, please.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,746 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,834 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 4 | [Trigger](https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm) | 3:00 |
 | 5 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 6 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 |
-| 7 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
+| 7 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 8 | [Glazed Over](https://open.spotify.com/track/5MF8AmnvhY7uW3fgxKOVFf) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Violent Picture / Violent Sound](https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT) | 2:58 |
-| 9 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
+| 9 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
 | 10 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
 | 11 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 12 | [Feel Like Home](https://open.spotify.com/track/6HSZz3ljK8tkOuOvAvwmOb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/1olq0CPrq1TGwmjVtrMtMb) | 3:07 |
 | 13 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
-| 14 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
-| 15 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
+| 14 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
+| 15 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
 | 16 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
-| 17 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
+| 17 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
 | 18 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:25 |
 | 19 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
 | 20 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 59 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 60 | [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 |
 | 61 | [Told You So](https://open.spotify.com/track/2A1HJSm5Gqqb9oTv28U6dr) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:51 |
-| 62 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
-| 63 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
-| 64 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
-| 65 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 |
+| 62 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
+| 63 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
+| 64 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 |
+| 65 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
 | 66 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 |
 | 67 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 |
 | 68 | ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 74 | [Easy Target](https://open.spotify.com/track/0fsrRvpqr904AdKAPDXFkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:20 |
 | 75 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
 
-Snapshot ID: `MCxjM2NhYzkzZjEzZDVmOTc4ZTBjMWNhZGRlZmNmNTQyNzhiOWVjYzY1`
+Snapshot ID: `MCw3ODMwMjdiYzgxM2UyNTdkNmE3MTExNTIyNDVlZDY0NTdiOWJkZTE0`

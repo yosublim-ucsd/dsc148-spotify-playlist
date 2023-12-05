@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Zach Bryan and Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,541,244 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,542,080 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 50 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 
-Snapshot ID: `MCwxNDI1YjcwZDQzMmE3NTg3NGI5NGVhNTc0MWEzN2UxYzBiMzkwM2Yy`
+Snapshot ID: `MCxkMDI0ODc2ZDNhMTgzZTJlYjcyMmYyMzkwYzRiZDE2M2MwZmUzYTZh`

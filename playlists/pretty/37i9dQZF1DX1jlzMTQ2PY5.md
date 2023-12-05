@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,903 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,949 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 19 | [I Got Your Love \- Low:R & Blooom](https://open.spotify.com/track/0WPnG75MPX5X0uuvBkE8mp) | [Low:r](https://open.spotify.com/artist/2PR9nGANZUfxMEfRBoJfYI), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [I Got Your Love \(Low:R & Blooom\)](https://open.spotify.com/album/2iCGxaSho2vO0muXMEcm69) | 4:11 |
 | 20 | [Sugar](https://open.spotify.com/track/6OPZYgkL3w7R0ndqRiOmUm) | [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2), [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp), [Anya Asia](https://open.spotify.com/artist/3e3CvN6gZzgDSMTmdicIde) | [Sugar](https://open.spotify.com/album/5vbBGdOMXNrtPG3gzjGHD1) | 4:53 |
 | 21 | [Try Again](https://open.spotify.com/track/0SJExjBtsh8tcKE1ZTYDyP) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [Try Again](https://open.spotify.com/album/3KjLZmbiLld9UQQB2twWJQ) | 4:58 |
-| 22 | [Radiate](https://open.spotify.com/track/40iYRKFmxhuDToTWjfXT7M) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/1Xt1e08HamHZvElKK0UoW9) | 4:17 |
-| 23 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
+| 22 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
+| 23 | [Radiate](https://open.spotify.com/track/40iYRKFmxhuDToTWjfXT7M) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/1Xt1e08HamHZvElKK0UoW9) | 4:17 |
 | 24 | [Diamonds](https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS), [Samuel Lancine](https://open.spotify.com/artist/2R1Th5MYsqcss3rJXVyJmN), [Björn Berglund](https://open.spotify.com/artist/3TDlbePC2ZlRn1OcCWnnfi) | [Ingaro](https://open.spotify.com/album/5PdipBlyX6oMt1UrjbQi9u) | 4:36 |
 | 25 | [Are You](https://open.spotify.com/track/2FWmAFaVahfD7CLonK1zxS) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Are You](https://open.spotify.com/album/4eguxtM6kcT3gUh9n4novr) | 4:34 |
 | 26 | [Lowdown](https://open.spotify.com/track/32eraMrOwC4EmBlkCP7IMP) | [Coffee Shop Jungle](https://open.spotify.com/artist/58S1DXVCgmfu5kf5seAuVM), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu) | [Lowdown](https://open.spotify.com/album/0VBnF1WzBoLjG8RiJxw1pZ) | 2:15 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 28 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
 | 29 | [Freefall](https://open.spotify.com/track/0GAHmF6YJKFd1pgk3fdvGs) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/5RxmvOXXB6Czd2gXZH0y9N) | 4:50 |
 | 30 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 |
-| 31 | [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 |
-| 32 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
+| 31 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
+| 32 | [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 |
 | 33 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
 | 34 | [Never Let You Down](https://open.spotify.com/track/0gciviPVwkD0YbtJIKm1bI) | [Invadhertz](https://open.spotify.com/artist/3UqjGZR6Xz1IZesQwLJZb7) | [Never Let You Down / Cold Fluid](https://open.spotify.com/album/0lwRCOZ6FGfqUcjFwIE2DZ) | 4:25 |
 | 35 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 49 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
 | 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
 
-Snapshot ID: `MCw0MjlhMzNiMDExZTZmZGRmNzBmNjZjYzQzZjI2Zjc1ZmJhMDgzNTFj`
+Snapshot ID: `MCwxZWM3ZWM2ZjhmNmZhZTVjNWM4YzAyMDlkYTMwNjEzZmFmYmQ3NDg0`

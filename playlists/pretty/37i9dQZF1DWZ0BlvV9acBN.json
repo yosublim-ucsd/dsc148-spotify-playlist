@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Catarina Von Bora",
-  "num_followers": 133138,
+  "num_followers": 133178,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDE0Yjk1NWRmNGU5ZmVhMTgwNTE5YzdlMWQ2MmIzMGQ0YWM2OTNm",
+  "snapshot_id": "MCw1NTM0YTZiZTAxMTg1ODM5NmFmZDQ3NjEyMTM2ZDUwYzBkZjJiYjNm",
   "tracks": [
     {
       "added_at": "2023-11-24 07:21:54",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "Medley Le\u00e3o de Jud\u00e1",
+      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 168866,
       "name": "1000 Graus",
       "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "Medley Le\u00e3o de Jud\u00e1",
-      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "Santificado (Ao Vivo)",
         "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Jardim Dos Inocentes",
-        "url": "https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
-        }
-      ],
-      "duration_ms": 370520,
-      "name": "Jardim Dos Inocentes",
-      "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
         "name": "Cordeiro e Le\u00e3o",
         "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 236295,
       "name": "Cordeiro e Le\u00e3o",
       "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -395,6 +379,38 @@
       "duration_ms": 304240,
       "name": "Tudo Fica Bem",
       "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
+        "name": "Lembre-se 90's",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
+        "name": "Jardim Dos Inocentes",
+        "url": "https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+        }
+      ],
+      "duration_ms": 370520,
+      "name": "Jardim Dos Inocentes",
+      "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Lembre-se 90's",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
-      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
         "name": "Resist\u00eancia",
         "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 261500,
       "name": "Resist\u00eancia",
       "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Vida/Eternidade",
-        "url": "https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
       },
       "artists": [
         {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
         }
       ],
-      "duration_ms": 258700,
-      "name": "Jo\u00e3o 1 - VEC",
-      "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -567,6 +551,42 @@
       "duration_ms": 304556,
       "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
       "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
+        "name": "Vida/Eternidade",
+        "url": "https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be"
+      },
+      "artists": [
+        {
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+        }
+      ],
+      "duration_ms": 258700,
+      "name": "Jo\u00e3o 1 - VEC",
+      "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -627,22 +647,6 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
         "name": "Descanso",
         "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
       },
@@ -659,22 +663,18 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "O Meu Lugar",
-        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
       "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
         {
           "name": "PG",
           "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 245912,
-      "name": "O Meu Lugar",
-      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -715,42 +715,6 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "A Est\u00e1tua",
-        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Diego Rox",
-          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
-        }
-      ],
-      "duration_ms": 207087,
-      "name": "A Est\u00e1tua",
-      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
         "name": "Uma Carta de Amanh\u00e3",
         "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
       },
@@ -763,6 +727,22 @@
       "duration_ms": 231874,
       "name": "Uma Carta de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -823,6 +803,26 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "A Est\u00e1tua",
+        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Diego Rox",
+          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
+        }
+      ],
+      "duration_ms": 207087,
+      "name": "A Est\u00e1tua",
+      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "NAVES IMPERIAIS",
         "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "Eletroac\u00fastica",
         "url": "https://open.spotify.com/album/3aYjifiAsVAUmGDsJHcHKl"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 225000,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Viver",
+        "url": "https://open.spotify.com/album/1vS6G52uJfUgt8ZIInVMgK"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "Fl\u00e1vio Morilha",
+          "url": "https://open.spotify.com/artist/7lZ1saVYmbFFjaY0Vcxuy7"
+        }
+      ],
+      "duration_ms": 228710,
+      "name": "Viver",
+      "url": "https://open.spotify.com/track/0aAQv9SZAJ3KgJuQ0lqNRn"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 190519,
       "name": "Agora Eu Vivo Teu Amor",
       "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Viver",
-        "url": "https://open.spotify.com/album/1vS6G52uJfUgt8ZIInVMgK"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "Fl\u00e1vio Morilha",
-          "url": "https://open.spotify.com/artist/7lZ1saVYmbFFjaY0Vcxuy7"
-        }
-      ],
-      "duration_ms": 228710,
-      "name": "Viver",
-      "url": "https://open.spotify.com/track/0aAQv9SZAJ3KgJuQ0lqNRn"
     },
     {
       "added_at": "2023-11-24 07:21:54",

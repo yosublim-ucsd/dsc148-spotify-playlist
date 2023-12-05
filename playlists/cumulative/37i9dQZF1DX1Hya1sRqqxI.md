@@ -4,12 +4,12 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-339 songs - 22 hr 17 min
+340 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Shake, Shake, Shake\) Shake Your Booty](https://open.spotify.com/track/5cqEarhd7w3bw4SN2Om9dp) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [15 Classic Tracks: KC and the Sunshine Band](https://open.spotify.com/album/1I3GVDXwLPy9R10xyqV6l6) | 3:05 | 2021-03-22 | 2022-07-29 |
-| [\(Shake, Shake, Shake\) Shake Your Booty](https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 3:06 | 2021-03-22 |  |
+| [\(Shake, Shake, Shake\) Shake Your Booty](https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 3:06 | 2021-03-22 | 2023-12-05 |
 | [A Glass Of Champagne](https://open.spotify.com/track/3lm0QsdpQrypDUbHexpVWK) | [Sailor](https://open.spotify.com/artist/4pE3KE9J1Z1LKzjwLtWU21) | [Sailor's Greatest Hits](https://open.spotify.com/album/11k08Ul8tAN5cu7JozYldn) | 2:34 | 2021-09-08 | 2022-07-29 |
 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 | 2021-03-22 |  |
 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 | 2021-03-22 | 2022-10-13 |
@@ -100,6 +100,7 @@
 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 | 2021-09-08 |  |
 | [From New York to L.A.](https://open.spotify.com/track/1hV8qrJMyGJ5tJubYCNG6c) | [Patsy Gallant](https://open.spotify.com/artist/13amDjKz680LMirXzQEqU5) | [Are You Ready for Love](https://open.spotify.com/album/3ONbXDCqblkmWne11qIlia) | 4:51 | 2021-09-08 | 2022-07-29 |
 | [Get Down](https://open.spotify.com/track/1kX0JVbq1lG9VZNiLF3Bwz) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [I'm a Writer, Not a Fighter \(Deluxe Edition\)](https://open.spotify.com/album/6SZx2JXzQ7d2CmIvQIBkyv) | 2:39 | 2021-09-08 | 2022-07-29 |
+| [Get Down Tonight \- 2004 Remaster](https://open.spotify.com/track/2qVZpGu1v98tvUAutqyAfJ) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR) | 5:17 | 2021-03-22 |  |
 | [Get Down Tonight \- 2004 Remaster](https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l) | 5:17 | 2021-03-22 | 2022-07-29 |
 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 | 2021-03-22 | 2022-07-29 |
 | [Gimme Dat Ding](https://open.spotify.com/track/0SolModrdnbWok9RG9JlEK) | [The Pipkins](https://open.spotify.com/artist/7b8blpDsdFfs5DMMMLBuX0) | [Gimme Dat Ding!](https://open.spotify.com/album/6Oo7W243iYDwjnWzQJaCx9) | 2:14 | 2021-09-08 | 2022-07-01 |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 | 2023-12-04 |
+| [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 |  |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-01-20 |  |
 | [Ahora Se](https://open.spotify.com/track/2UDu0jl1GzixhEbjYGLxGO) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/72jiJ0q3ODcjFJn0iioy4w) | 3:54 | 2022-01-14 | 2022-07-29 |
 | [Ahora Se](https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO) | 3:54 | 2022-07-08 |  |
@@ -98,7 +98,7 @@
 | [Orgulloso](https://open.spotify.com/track/6LAZIsZlV9rIvlAQLqjV5v) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Orgulloso](https://open.spotify.com/album/1nYoj6JmXJyFa76uEtCBZo) | 2:58 | 2022-01-14 | 2022-07-28 |
 | [Perdoname](https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Perdoname](https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI) | 3:37 | 2022-01-14 | 2023-01-19 |
 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 | 2022-01-14 |  |
-| [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 | 2022-11-08 |  |
+| [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 | 2022-11-08 | 2023-12-05 |
 | [Poco Asado, Mucho Humo](https://open.spotify.com/track/33gQIvmETthECsncNDcLzN) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Voz de los Barrios](https://open.spotify.com/album/2A2dh6Yj4loJZrzkmllci9) | 3:01 | 2022-01-14 | 2022-07-29 |
 | [Poco Asado, Mucho Humo](https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Voz de los Barrios](https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1) | 3:01 | 2022-07-08 |  |
 | [POR TI](https://open.spotify.com/track/6I1hlGt5m9PP1WLITfUwSG) | [Karla Melo](https://open.spotify.com/artist/61gIbdm4Yrxnomgkr9SrDw) | [POR TI](https://open.spotify.com/album/4or3HMLEPoR58uKAekYbOj) | 3:02 | 2023-02-10 |  |

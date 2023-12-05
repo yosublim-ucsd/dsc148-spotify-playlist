@@ -4,7 +4,7 @@
 
 > Walk on sunshine or dance on the ceiling with some feel good 80s Pop!
 
-55 songs - 3 hr 46 min
+56 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2022-06-08 |  |
 | [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 | 2022-06-08 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2022-06-08 |  |
+| [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 | 2022-06-08 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2022-06-08 | 2023-11-18 |
 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2022-06-08 |  |
 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 | 2022-06-08 |  |
@@ -62,6 +63,6 @@
 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 | 2022-06-08 |  |
 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 | 2022-06-08 |  |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2022-06-08 |  |
-| [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 | 2022-06-08 |  |
+| [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 | 2022-06-08 | 2023-12-05 |
 
 \*This playlist was first scraped on 2023-06-18. Prior content cannot be recovered.

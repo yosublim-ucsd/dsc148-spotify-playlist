@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-580 songs - 1 day 6 hr 16 min
+581 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Fool 4 U](https://open.spotify.com/track/18GeUA2TkZDUOsRqbNj36C) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Fool 4 U](https://open.spotify.com/album/3sEhpdjBGFAq5BYPThKgH3) | 3:16 | 2021-12-15 | 2022-01-21 |
 | [FOOL AROUND](https://open.spotify.com/track/4V39issmn4UBsvWqXzxvFz) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY), [taylor from earth](https://open.spotify.com/artist/0gcyyvKQYCxV3Xv7UknCJQ) | [PURPLE.](https://open.spotify.com/album/18ZRlsRqYnGm74QAX9k05N) | 2:03 | 2021-12-15 | 2022-06-24 |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-08-05 | 2023-02-11 |
+| [For Now](https://open.spotify.com/track/443THossCBCsZQ91AKnBDP) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [For Now](https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1) | 2:46 | 2023-04-21 |  |
 | [For The Girls](https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Take II](https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf) | 2:08 | 2023-05-05 |  |
 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-07-22 |
 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 | 2022-09-16 | 2023-07-08 |
@@ -516,7 +517,7 @@
 | [The Homie](https://open.spotify.com/track/40s9fTqos9irqz2kmNRbCq) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:40 | 2021-12-15 | 2022-07-29 |
 | [The One](https://open.spotify.com/track/4THEDAFFfKafxc78eZm2dj) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [4 PM In The Ville](https://open.spotify.com/album/5B1HM6z8jWC9LoRaKmfGqP) | 2:53 | 2023-06-23 | 2023-08-23 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 | 2023-07-22 |
-| [This Man](https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4) | 3:48 | 2023-09-22 |  |
+| [This Man](https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4) | 3:48 | 2023-09-22 | 2023-12-05 |
 | [Thug Cry](https://open.spotify.com/track/0sATEUoYEAH1zjfYSKIo8N) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Thug Cry](https://open.spotify.com/album/1MeVoCVoD5smZ3Z7urlmtu) | 2:59 | 2021-12-15 | 2022-07-10 |
 | [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 | 2023-06-23 |  |
 | [tidal wave \(feat\. Ari Lennox\)](https://open.spotify.com/track/0aWktqLfsl8QRLNlywINuO) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [LIMBO](https://open.spotify.com/album/52rl7hijFwivkLWm2txuUq) | 3:42 | 2021-12-15 | 2022-07-18 |

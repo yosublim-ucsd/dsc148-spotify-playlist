@@ -1,12 +1,12 @@
 {
   "description": "The indie viral hits you couldn\u2019t escape in 2023. Cover: Lana Del Rey ",
-  "num_followers": 3179,
+  "num_followers": 13842,
   "original_name": "Indie that hit different in 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2Q4ZDJiNDNjOTlkNjY1OWFhN2NiMjk3MDc5NGEzNThjNzVkZGFj",
+  "snapshot_id": "MCxhM2RjMWE1YTJkMzdhOTZmZGEzNGRmN2JiZTg5OTY2NjFjNjkxZDk4",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -267,6 +235,38 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Faye Webster",
         "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
       },
@@ -315,18 +331,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "Based On A True Story...",
+        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -347,6 +363,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 253076,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Wasted Summers",
         "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
       },
@@ -359,22 +391,6 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Based On A True Story...",
-        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -419,54 +435,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
       "artists": [
         {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -619,6 +603,22 @@
       "duration_ms": 165673,
       "name": "Soldier, Poet, King",
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+      },
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "added_at": "2023-11-30 16:19:38",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 155721,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
     },
     {
       "added_at": "2023-11-29 12:16:00",

@@ -4,7 +4,7 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-160 songs - 9 hr 14 min
+161 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-02-02 | 2023-10-14 |
 | [Mi amor para siempre](https://open.spotify.com/track/3FPrD3cbQQDmI3wohLeoVi) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Sin Fluctuar](https://open.spotify.com/album/3NgiKf6ZieNXNlMr3piBQV) | 4:09 | 2023-04-17 | 2023-06-03 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-11 |  |
-| [MI HOGAR \(with maye\)](https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [MI HOGAR \(with maye\)](https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH) | 2:55 | 2023-08-18 |  |
+| [MI HOGAR \(with maye\)](https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [MI HOGAR \(with maye\)](https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH) | 2:55 | 2023-08-18 | 2023-12-05 |
 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-03-08 | 2023-12-02 |
 | [Morena](https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Morena](https://open.spotify.com/album/1ceWXvh39yPWMZiR6d6rrV) | 3:40 | 2023-02-02 |  |
 | [Mujer Del Paraiso](https://open.spotify.com/track/6IRnwt8WFgysjevOZbPMbc) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 5:32 | 2023-04-17 | 2023-06-03 |
@@ -163,6 +163,7 @@
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-17 |  |
 | [Universo Paralelo](https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:37 | 2023-01-30 |  |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 |  |
+| [Vampiresa](https://open.spotify.com/track/0f57grrGN2QvWNJTynGSXp) | [Explosion Colombiana De Ortiz Ortiz](https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop) | [Vampiresa](https://open.spotify.com/album/76zahrXazLSRPjIKVYulb6) | 5:00 | 2023-12-04 |  |
 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 | 2023-01-30 | 2023-02-28 |
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2023-01-30 |  |
 | [Yo no lloro por llorar \- Versión salsa](https://open.spotify.com/track/6zYxJWxCl4SofXiffXk0kV) | [Nacho Acero](https://open.spotify.com/artist/2y3xMb1SrZezuoNZ5LTrxR) | [Yo no lloro por llorar \(Versión salsa\)](https://open.spotify.com/album/5sK5gmBFf2xT2hhNRx8G3q) | 4:00 | 2023-04-17 | 2023-07-29 |

@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-688 songs - 1 day 6 hr 47 min
+689 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Harukaze](https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez) | [Sorto & Nodo](https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P) | [彩雲](https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5) | 6:04 | 2023-06-13 | 2023-09-29 |
 | [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 | 2023-05-13 |
 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 | 2023-05-11 |  |
-| [Heiwa](https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Heiwa](https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv) | 3:23 | 2023-08-10 |  |
+| [Heiwa](https://open.spotify.com/track/1o3ZTQiMpqfbb9CMv4Pf9a) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū III](https://open.spotify.com/album/5WSLnQVYe65yWgQ5PpPw6p) | 3:23 | 2023-11-30 |  |
+| [Heiwa](https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Heiwa](https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv) | 3:23 | 2023-08-10 | 2023-12-05 |
 | [Here, There](https://open.spotify.com/track/1sLOKhpRCBg9FUEsIybTc4) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Here, There](https://open.spotify.com/album/3Nk7pV5iFdtLeplMvGe8dr) | 1:24 | 2022-02-10 | 2022-07-25 |
 | [Hey](https://open.spotify.com/track/2kZtgM0bQyHLfYGeUYno3L) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/7E4h5wksCrCWrvdZlzdnRV) | 2:09 | 2022-01-06 | 2022-07-29 |
 | [Hey](https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx) | 2:09 | 2022-07-28 |  |

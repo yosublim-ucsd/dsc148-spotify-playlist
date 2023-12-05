@@ -1,12 +1,12 @@
 {
   "description": "Tracks para inspirar tu ofni perfecto \ud83c\udf3c",
-  "num_followers": 2017,
+  "num_followers": 2023,
   "original_name": "GRWM\u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2QyMWFlZDA3MDJkMWU3NTM4ZmE5YTExYjllY2YzZjc3NmU5ZDg1",
+  "snapshot_id": "MCw2ZjQ0MTM4MjY5MDJiOTY5MzM0MTBmOTUzNWJlNGNhZmIzODk2YTg5",
   "tracks": [
     {
       "added_at": "2023-09-22 17:01:25",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-09-22 17:01:25",
       "album": {
+        "name": "Sure Thing (Sped Up)",
+        "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Sure Thing - Sped Up",
+      "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+    },
+    {
+      "added_at": "2023-09-22 17:01:25",
+      "album": {
         "name": "Me Enter\u00e9",
         "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
-    },
-    {
-      "added_at": "2023-09-22 17:01:25",
-      "album": {
-        "name": "Sure Thing (Sped Up)",
-        "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Sure Thing - Sped Up",
-      "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
     },
     {
       "added_at": "2023-09-22 17:01:25",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-09-22 17:01:25",
       "album": {
-        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 166882,
-      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
-    },
-    {
-      "added_at": "2023-09-22 17:01:25",
-      "album": {
         "name": "Se fue la luz",
         "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 212000,
       "name": "Se fue la luz",
       "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
+    },
+    {
+      "added_at": "2023-09-22 17:01:25",
+      "album": {
+        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 166882,
+      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
     },
     {
       "added_at": "2023-09-22 17:01:25",

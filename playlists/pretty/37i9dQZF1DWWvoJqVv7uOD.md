@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,924 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,049 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 17 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
 | 18 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 19 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 |
-| 20 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 20 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 21 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
 | 22 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 | 23 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 85 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 86 | [Kissing Strangers](https://open.spotify.com/track/0HDT8RYiXpvc5G1u3RG9vL) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Kissing Strangers](https://open.spotify.com/album/1DYhbM9VgjsIRigZLF5iLe) | 2:27 |
 
-Snapshot ID: `MCw3NWU3MjlkYjg0NmE2MDdjNTE1ZTE2YjA1MGMyNmI4YTJlNjllNWE5`
+Snapshot ID: `MCwzZTBiOGY5YzY2OTdhZGFlZWY2ZGJlODg4NmYwODZkY2Y5ZjA4NGJm`

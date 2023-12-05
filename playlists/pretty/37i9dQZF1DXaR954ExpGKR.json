@@ -1,6 +1,6 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 173260,
+  "num_followers": 173345,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 209135,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -619,34 +619,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -671,22 +643,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Funk Rave",
-        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 147201,
-      "name": "Funk Rave",
-      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -707,18 +663,46 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+        "name": "Funk Rave",
+        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+      "duration_ms": 147201,
+      "name": "Funk Rave",
+      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -799,30 +799,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Bailando - Spanish Version",
-      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 213988,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -895,46 +895,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "MIA (feat. Drake)",
-        "url": "https://open.spotify.com/album/2xqopbc18kE4p2lIUzoO0G"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "MIA (feat. Drake)",
-      "url": "https://open.spotify.com/track/3Ueq2zboxwAbsvHrOjdEqz"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -951,6 +911,26 @@
       "duration_ms": 130666,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "MIA (feat. Drake)",
+        "url": "https://open.spotify.com/album/2xqopbc18kE4p2lIUzoO0G"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "MIA (feat. Drake)",
+      "url": "https://open.spotify.com/track/3Ueq2zboxwAbsvHrOjdEqz"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -975,6 +955,26 @@
       "duration_ms": 189619,
       "name": "Traag",
       "url": "https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
     },
     {
       "added_at": "2023-09-22 07:16:39",

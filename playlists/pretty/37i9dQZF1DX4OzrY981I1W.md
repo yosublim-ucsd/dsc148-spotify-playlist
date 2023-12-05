@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 
 > every main character needs their soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,747,011 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,748,673 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 7 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 8 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 9 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
-| 10 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
+| 10 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 |
 | 11 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 12 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 |
+| 12 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 13 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 |
 | 14 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 |
 | 15 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 30 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 31 | [Me and Your Mama](https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 6:19 |
 | 32 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
-| 33 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
-| 34 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
+| 33 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
+| 34 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 35 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 |
 | 36 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 37 | [Sweet](https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:52 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 40 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
 | 41 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 42 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 43 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
-| 44 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
+| 43 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
+| 44 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
 | 45 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
 | 46 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 47 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 57 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 58 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 | 59 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
-| 60 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 61 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
+| 60 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
+| 61 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 62 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
 | 63 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 64 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 99 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
 | 100 | [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC) | 5:12 |
 
-Snapshot ID: `MCw5NzIyZDA0MmRmNjcxZjY1ZDljZDkyMmIwOTgzODNiNDA0YzhhNmVi`
+Snapshot ID: `MCxiYTRlZmFhMjYzNDU2OTMwZWZmMjc3YzZlZDdhNTRkYTBlMGQ0YzUz`

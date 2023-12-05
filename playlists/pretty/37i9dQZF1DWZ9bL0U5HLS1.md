@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,839 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,835 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 12 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 13 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 14 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
-| 15 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
-| 16 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
+| 15 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
+| 16 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 17 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
 | 18 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 19 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 69 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 70 | [Turn Me On](https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 2:34 |
 
-Snapshot ID: `MCw1ODcwMjliOGNhMTMxMDNkZDM2ZjFkNzE1MWI0OTg0NjdjMWEyYTU3`
+Snapshot ID: `MCwxNmQzMjdkOWMzMGQyZDM3ZjAyM2Q1MGU4YzY4NGE2OWQxMzVmMWVm`

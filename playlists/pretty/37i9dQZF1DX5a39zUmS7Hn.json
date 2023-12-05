@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Shane MacGowan ",
-  "num_followers": 425793,
+  "num_followers": 425988,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmE5NWJiNTJiZmQ0YTc0ZmQ1ODgxZGJhNDM1ZDM1OWNlMWJhMDk0",
+  "snapshot_id": "MCw1ZTk2ZTc1NzJhYWVjMmZhZjk4OWIwZGJlMmVhMjM1NzFiOTE0MGY0",
   "tracks": [
     {
       "added_at": "2023-11-30 15:06:07",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 252773,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -443,38 +443,6 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -487,6 +455,22 @@
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -543,22 +527,6 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 449160,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 301866,
       "name": "All These Things That I've Done",
       "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 449160,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -591,8 +575,8 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -875,6 +891,22 @@
       "duration_ms": 140506,
       "name": "Panic - 2011 Remaster",
       "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -923,38 +955,6 @@
       "duration_ms": 245240,
       "name": "Jesus He Knows Me",
       "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 269813,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
-    },
-    {
-      "added_at": "2023-11-30 15:06:07",
-      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
+    },
+    {
+      "added_at": "2023-11-30 15:06:07",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 269813,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
+      "duration_ms": 177986,
+      "name": "In Between Days - 2006 Remaster",
+      "url": "https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA"
     },
     {
       "added_at": "2023-11-30 15:06:07",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-11-30 15:06:07",
       "album": {
-        "name": "The Head on the Door (Deluxed Edition)",
-        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 177986,
-      "name": "In Between Days - 2006 Remaster",
-      "url": "https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     }
   ],
   "unique_name": "Legends Only",

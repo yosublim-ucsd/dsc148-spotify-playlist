@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "#skeptacore pt.3",
+        "url": "https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "#skeptacore pt.3",
+      "url": "https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E"
+    },
+    {
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -928,7 +950,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 241533,
       "name": "Bachelor",
       "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
@@ -1492,7 +1514,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 232330,
       "name": "Bokke",
       "url": "https://open.spotify.com/track/4yu5rGWvXcv6Yih8NC3iL7"
@@ -1854,6 +1876,28 @@
       "duration_ms": 197079,
       "name": "Casper",
       "url": "https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY"
+    },
+    {
+      "album": {
+        "name": "Presido La Pluto",
+        "url": "https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
     },
     {
       "album": {
@@ -4416,7 +4460,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
@@ -5793,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "album": {
         "name": "Jona",
         "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
       },
@@ -6832,6 +6894,28 @@
       "duration_ms": 362834,
       "name": "Ngeke",
       "url": "https://open.spotify.com/track/03WpImRRBMoMSI8Ch8aayl"
+    },
+    {
+      "album": {
+        "name": "Ngibambeni",
+        "url": "https://open.spotify.com/album/6jO63bGMq9IABgrGk546mK"
+      },
+      "artists": [
+        {
+          "name": "YANII",
+          "url": "https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7"
+        },
+        {
+          "name": "Mxolisi Khumalo",
+          "url": "https://open.spotify.com/artist/0rxvBhHvTVAhWTjcytJKz8"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228647,
+      "name": "Ngibambeni",
+      "url": "https://open.spotify.com/track/1g7hu7KMV5woMx6xfi1C6p"
     },
     {
       "album": {
@@ -8158,7 +8242,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 187088,
       "name": "Phambili Nge War",
       "url": "https://open.spotify.com/track/0UmCLFSIFAeKNklo0OQBOE"
@@ -8942,6 +9026,24 @@
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "album": {
+        "name": "Shusha Nyavu",
+        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Shusha Nyavu",
+      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
     },
     {
       "album": {
@@ -10214,7 +10316,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 170666,
       "name": "True Love",
       "url": "https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm"

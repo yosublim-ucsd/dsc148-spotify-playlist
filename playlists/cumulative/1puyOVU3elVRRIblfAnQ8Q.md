@@ -4,7 +4,7 @@
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-87 songs - 5 hr 7 min
+90 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Asura](https://open.spotify.com/track/4rYmKvCB2STFuskk0rgT6U) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Asura](https://open.spotify.com/album/1Q6WH0SaTmORCqMNWnM0hO) | 3:30 | 2023-08-23 |  |
 | [Bassface](https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Bassface](https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy) | 3:06 | 2023-09-06 |  |
 | [Berserker](https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Berserker](https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX) | 4:28 | 2023-02-17 | 2023-11-09 |
+| [Bird Feeder](https://open.spotify.com/track/6aRKwQBMl8G2XaGfy7eDrx) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 2:20 | 2023-12-04 |  |
 | [Bone Breaker](https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Bone Breaker](https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx) | 3:22 | 2023-02-03 | 2023-11-09 |
 | [BOOM](https://open.spotify.com/track/1ZFmKdlDgBDBwYqE6koscQ) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rotations](https://open.spotify.com/album/6udixN6d36EjJXurtNkqyK) | 3:18 | 2023-06-07 | 2023-11-09 |
 | [Built Different](https://open.spotify.com/track/65qHbzlwOeO2Y7InJrYQm9) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Built Different](https://open.spotify.com/album/1diWIgwpffLA53CyHndxPV) | 3:18 | 2023-07-25 |  |
@@ -61,6 +62,7 @@
 | [LSDP](https://open.spotify.com/track/4hqF46oRXqePhKiNlmPuoT) | [BLXK MNTN](https://open.spotify.com/artist/2Hop8XZ4bSF0HeVjxXfYMW) | [LSDP](https://open.spotify.com/album/5hyAsGuY5huSDHjA5rLqqJ) | 3:02 | 2023-08-02 |  |
 | [MIC CHECK](https://open.spotify.com/track/3FZY2bYqCoTUZEyueDzqRC) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [MIC CHECK](https://open.spotify.com/album/1NUs0wLUWhQDVhTkpd20Ue) | 2:51 | 2023-05-17 |  |
 | [Nokia Dub](https://open.spotify.com/track/4Gfo4tm09wqUCERinIl4dn) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [Nokia Dub EP](https://open.spotify.com/album/456FguaL7QJEVGc3VOwHWW) | 2:52 | 2023-10-06 |  |
+| [Oblivion](https://open.spotify.com/track/0jsel4Sd5rrRfDaPK0Djnl) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 2:41 | 2023-12-04 |  |
 | [Of Two Minds](https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Rhode](https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi) | [Of Two Minds](https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy) | 4:39 | 2023-07-14 | 2023-11-09 |
 | [One Strobe](https://open.spotify.com/track/2hqJXTvK0uU4VeUhxVg6Sp) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Counting EP](https://open.spotify.com/album/5dcBbK62PiNQNKoY9Tl3Jd) | 4:12 | 2023-10-06 |  |
 | [One Three Nine](https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi) | 2:48 | 2023-02-17 |  |
@@ -72,6 +74,7 @@
 | [Pull Up](https://open.spotify.com/track/0ZzJ8dgTXvblXbHwCtbd8I) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [Pull Up](https://open.spotify.com/album/6gVP9lRi9rVyzp1Y7mGYA7) | 3:22 | 2023-09-06 |  |
 | [Reasons](https://open.spotify.com/track/07wxoKnyPZnrRtzcRX917e) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Reasons](https://open.spotify.com/album/3gYJNB9aT8weYejDegHbTX) | 3:18 | 2023-10-06 |  |
 | [Ride 4 U](https://open.spotify.com/track/2zRPvS8h5HP9Txj6JsUkSI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Ride 4 U](https://open.spotify.com/album/4JEE8pQukLtamlBB1aANRj) | 3:01 | 2023-08-16 |  |
+| [Ring Master](https://open.spotify.com/track/0KOb8JQInFydOboaHSsJls) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 3:46 | 2023-12-04 |  |
 | [Rising Tides](https://open.spotify.com/track/7CKtAo5iPoTTZa2x3wDsEc) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Rising Tides](https://open.spotify.com/album/7tyTBNowInGTE0imTmbWDk) | 4:22 | 2023-08-04 | 2023-11-09 |
 | [Rock Like This](https://open.spotify.com/track/5rcIWFoTTLf5sMQcx3uk2v) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [Rock Like This](https://open.spotify.com/album/5fS306de1u3fYa6xaP4qaK) | 2:37 | 2023-02-15 | 2023-11-09 |
 | [Rude Boy 22 \- Spotify Singles](https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 2:15 | 2023-01-11 |  |

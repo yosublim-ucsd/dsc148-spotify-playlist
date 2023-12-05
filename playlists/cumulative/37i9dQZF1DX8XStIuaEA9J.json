@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 204240,
       "name": "GO!!!",
       "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
+      "album": {
         "name": "Moonthief",
         "url": "https://open.spotify.com/album/4qA404qUuqlXMOLiVZwj6i"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 209852,
       "name": "Prince Shoutoku",
       "url": "https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC"
@@ -848,6 +866,24 @@
       "duration_ms": 291481,
       "name": "\u300c\u541b\u306e\u5e78\u305b\u3092\u300d",
       "url": "https://open.spotify.com/track/4SPjBSASlsxQ440fY1Mnyl"
+    },
+    {
+      "album": {
+        "name": "\u80a1\u65c5",
+        "url": "https://open.spotify.com/album/5n2ac7clcRsqzyczLtHwQd"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/6AyErTw94FC8ZF339m24Vm"
     },
     {
       "album": {

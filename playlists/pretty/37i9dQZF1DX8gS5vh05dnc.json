@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 132349,
+  "num_followers": 132350,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTkxNGZiNzcyNTYxMGZlNzY2MTUxYzk1YTljNjBjMjM3NDEyNDc3",
+  "snapshot_id": "MCxmNDBjYzExMjNlODA1ZjY2MTQ5YWRlZGQwYWQyNjlmNGFhYTFjMjQy",
   "tracks": [
     {
       "added_at": "2023-12-04 01:33:35",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2023-12-04 01:33:35",
+      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2023-12-04 01:33:35",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2023-12-04 01:33:35",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2023-12-04 01:33:35",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2023-12-04 01:33:35",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2023-12-04 01:33:35",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2023-12-04 01:33:35",
+      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2023-12-04 01:33:35",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2023-12-04 01:33:35",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 197469,
       "name": "Count on Me",
       "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
+    },
+    {
+      "added_at": "2023-12-04 01:33:35",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-12-04 01:33:35",
@@ -591,22 +607,6 @@
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "added_at": "2023-12-04 01:33:35",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-12-04 01:33:35",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Done for Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
-    },
-    {
-      "added_at": "2023-12-04 01:33:35",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 195144,
       "name": "Juice",
       "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+    },
+    {
+      "added_at": "2023-12-04 01:33:35",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Done for Me (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
     },
     {
       "added_at": "2023-12-04 01:33:35",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Outta My Head (with John Mayer)",
+      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
+    },
+    {
+      "added_at": "2023-12-04 01:33:35",
+      "album": {
         "name": "Mr Right (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
       },
@@ -1219,26 +1239,6 @@
     {
       "added_at": "2023-12-04 01:33:35",
       "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Outta My Head (with John Mayer)",
-      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
-    },
-    {
-      "added_at": "2023-12-04 01:33:35",
-      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 148600,
       "name": "Free",
       "url": "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
+    },
+    {
+      "added_at": "2023-12-04 01:33:35",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182895,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
     },
     {
       "added_at": "2023-12-04 01:33:35",
@@ -1319,22 +1335,6 @@
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
-    },
-    {
-      "added_at": "2023-12-04 01:33:35",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 182895,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

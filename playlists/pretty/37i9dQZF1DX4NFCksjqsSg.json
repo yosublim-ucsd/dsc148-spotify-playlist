@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 28021,
+  "num_followers": 28028,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDJmZmU5ZDQ4YzkxMTk5OGFhZmNlOGEwYjlhMjQ5MjIyMTA4MDBj",
+  "snapshot_id": "MCxhZGFkYWY4YWYzOGMxNzJkYmE3OWI0NzRhMzliZTgwZTA2MGQwYWU4",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j"
-      },
-      "artists": [
-        {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Tu ne sauras jamais",
-      "url": "https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "En Chantant",
         "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 234173,
       "name": "En chantant",
       "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j"
+      },
+      "artists": [
+        {
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Tu ne sauras jamais",
+      "url": "https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -351,18 +351,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+        "name": "Aime-moi",
+        "url": "https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT"
       },
       "artists": [
         {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+          "name": "Claude Barzotti",
+          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
         }
       ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
+      "duration_ms": 250973,
+      "name": "Aime moi",
+      "url": "https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -383,18 +383,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Aime-moi",
-        "url": "https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT"
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
       "artists": [
         {
-          "name": "Claude Barzotti",
-          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Aime moi",
-      "url": "https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6"
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -431,26 +431,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
-      },
-      "artists": [
-        {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
-        },
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Les yeux du coeur",
-      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Parlez-moi de lui - Single",
         "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 202733,
       "name": "Le temps des cath\u00e9drales",
       "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+      },
+      "artists": [
+        {
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        },
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Les yeux du coeur",
+      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Ce soir l'amour est dans tes yeux",
-        "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 393013,
-      "name": "L'amour est dans tes yeux",
-      "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Une femme avec toi - Single",
         "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 263520,
       "name": "Une femme avec toi",
       "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Ce soir l'amour est dans tes yeux",
+        "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 393013,
+      "name": "L'amour est dans tes yeux",
+      "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Si ce soir, Vol. 2",
+        "url": "https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Qui a le droit... - Live \"Si ce soir\"",
+      "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Mes succ\u00e8s francophones 1",
         "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 202848,
       "name": "Je l'ai jamais dit \u00e0 personne",
       "url": "https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Si ce soir, Vol. 2",
-        "url": "https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Qui a le droit... - Live \"Si ce soir\"",
-      "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -903,18 +903,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+        "name": "35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
       "artists": [
         {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+          "name": "Beau Dommage",
+          "url": "https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Je sais je sais",
-      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
+      "duration_ms": 263786,
+      "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
+      "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -931,22 +931,6 @@
       "duration_ms": 232760,
       "name": "Comment j'pourrais te l'dire",
       "url": "https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
-      },
-      "artists": [
-        {
-          "name": "Beau Dommage",
-          "url": "https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
-      "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -979,6 +963,22 @@
       "duration_ms": 285333,
       "name": "Vivre dans la nuit - Version Microsillon",
       "url": "https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Je sais je sais",
+      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Marie-\u00c9laine Thibert",
-        "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
-      },
-      "artists": [
-        {
-          "name": "Marie-\u00c9laine Thibert",
-          "url": "https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH"
-        }
-      ],
-      "duration_ms": 275266,
-      "name": "Le ciel est \u00e0 moi",
-      "url": "https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Incognito",
         "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 279333,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Marie-\u00c9laine Thibert",
+        "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
+      },
+      "artists": [
+        {
+          "name": "Marie-\u00c9laine Thibert",
+          "url": "https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Le ciel est \u00e0 moi",
+      "url": "https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k"
     },
     {
       "added_at": "2020-04-07 15:18:18",

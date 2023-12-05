@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Yo Gotti",
-  "num_followers": 511225,
+  "num_followers": 511363,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTU5NWIzM2QxZTE0YzIwNGUwNzRjNTQ2NTg0YmY1ZmU3OTU5YmUy",
+  "snapshot_id": "MCxjNzQwNzAwMmRiY2FkZjI0YjFjZmVhN2IyZDkxODRkYTI0ZWYxMzM2",
   "tracks": [
     {
       "added_at": "2023-12-01 19:22:27",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
         "name": "Still Writing In My Diary: 2nd Entry",
         "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
       },
@@ -355,22 +339,6 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
         "name": "Down for Life",
         "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
       },
@@ -383,6 +351,22 @@
       "duration_ms": 224253,
       "name": "Laffy Taffy",
       "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 324373,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -443,42 +427,6 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Cee-Lo Green... Is The Soul Machine",
-        "url": "https://open.spotify.com/album/0wdleLMeNmGUHChsmx9svt"
-      },
-      "artists": [
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "I'll Be Around (feat. Timbaland) - Club Mix",
-      "url": "https://open.spotify.com/track/2TIGwYiQYr1N5zTOQToDfK"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "ATLiens",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
       },
@@ -495,6 +443,26 @@
       "duration_ms": 280013,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "Cee-Lo Green... Is The Soul Machine",
+        "url": "https://open.spotify.com/album/0wdleLMeNmGUHChsmx9svt"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "I'll Be Around (feat. Timbaland) - Club Mix",
+      "url": "https://open.spotify.com/track/2TIGwYiQYr1N5zTOQToDfK"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -543,22 +511,18 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
       "artists": [
         {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 259506,
-      "name": "I Know (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/22BwaoGHQOTfFhHTndm7DQ"
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -579,22 +543,22 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         },
         {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+      "duration_ms": 259506,
+      "name": "I Know (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/22BwaoGHQOTfFhHTndm7DQ"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -683,22 +647,6 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
         "name": "Most Known Unknown (Explicit)",
         "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
@@ -711,6 +659,22 @@
       "duration_ms": 206733,
       "name": "Half On a Sack",
       "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -739,6 +703,22 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "ATLiens",
+      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -755,6 +735,30 @@
       "duration_ms": 255413,
       "name": "Shawty (feat. T Pain)",
       "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        },
+        {
+          "name": "I-20",
+          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "Move Bitch",
+      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -795,26 +799,22 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+        "name": "Most Known Unknown",
+        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
       },
       "artists": [
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
         },
         {
-          "name": "Mystikal",
-          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
-        },
-        {
-          "name": "I-20",
-          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
         }
       ],
-      "duration_ms": 270866,
-      "name": "Move Bitch",
-      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
+      "duration_ms": 176880,
+      "name": "Poppin' My Collar (feat. Project Pat)",
+      "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -847,42 +847,6 @@
       "duration_ms": 263280,
       "name": "We Takin' Over",
       "url": "https://open.spotify.com/track/6YdzlsQcyXoWjAykR0rjj3"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
-        "name": "Most Known Unknown",
-        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 176880,
-      "name": "Poppin' My Collar (feat. Project Pat)",
-      "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
-        "name": "The Inspiration",
-        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "I Luv It",
-      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -923,6 +887,42 @@
       "duration_ms": 240760,
       "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "The Inspiration",
+        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "I Luv It",
+      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
     },
     {
       "added_at": "2023-12-01 19:22:27",

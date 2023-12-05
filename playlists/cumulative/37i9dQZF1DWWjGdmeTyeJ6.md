@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from independent, developing artists around the world this year\. Cover: Searows
 
-5,418 songs - 12 day 7 hr 5 min
+5,419 songs - 12 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,7 @@
 | [Blurt](https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Blurt](https://open.spotify.com/album/4iM2ECj6UkJ3sUwcnofnOF) | 2:13 | 2023-10-04 | 2023-10-26 |
 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 | 2023-02-08 | 2023-02-16 |
 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 | 2022-03-09 | 2022-03-17 |
-| [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-11-29 |  |
+| [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-11-29 | 2023-12-05 |
 | [Boa](https://open.spotify.com/track/0W829D6dXNANnZHQpmNiVb) | [Silver Cup](https://open.spotify.com/artist/6lVeCNMmyjTECQzCmYCHIv) | [Boa](https://open.spotify.com/album/3NRsYRTT3mlh42KP334LM7) | 3:36 | 2022-08-24 | 2022-09-01 |
 | [Bobby](https://open.spotify.com/track/1CYrOahjNKvUshii3vqQ1o) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Bobby](https://open.spotify.com/album/4IlD8dZVC7hLmUZR289g2q) | 4:07 | 2023-08-23 | 2023-08-31 |
 | [Bocha Bocha](https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Gonna Get You Real Good EP](https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4) | 5:59 | 2023-01-11 | 2023-01-19 |
@@ -3223,6 +3223,7 @@
 | [My Friend](https://open.spotify.com/track/3EA40Yw2x2iyCvoLi3C2mN) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [My Friend](https://open.spotify.com/album/75z4yrptTNziP4iKQzzBQ9) | 5:27 | 2022-04-13 | 2022-04-28 |
 | [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 | 2023-10-25 | 2023-11-30 |
 | [my fuckin birthday](https://open.spotify.com/track/5I6VzAAwuPtbHmnwODDb50) | [sreedhanya](https://open.spotify.com/artist/7Lp4zS3we1Dwh1dqMD0GEO) | [my fuckin birthday](https://open.spotify.com/album/3qLe2UuUhONvPtMBBe0W1u) | 1:54 | 2022-01-26 | 2022-02-03 |
+| [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 | 2023-11-29 |  |
 | [My Future](https://open.spotify.com/track/3BgmOSHUxnpSAcUM1ekBrj) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/3ar0skKJQsyath9XFqdFDh) | 2:35 | 2023-01-18 | 2023-01-26 |
 | [My Head](https://open.spotify.com/track/6pkTMYZwusxzfMomTLUBqw) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [My Head](https://open.spotify.com/album/1t49k729nvRVvD66IVMTbK) | 2:24 | 2022-10-19 | 2022-10-27 |
 | [my head feels like a moshpit](https://open.spotify.com/track/6HkGKVBDoPnmN1LEGvgjI9) | [Just Reality](https://open.spotify.com/artist/7CxHEVB1P6h0KG7vvEKDNa), [SALEUM](https://open.spotify.com/artist/3IZfOlxn36o1KSwrzU6fD1) | [my head feels like a moshpit](https://open.spotify.com/album/7eZLrFsjLKHs9v2640Xtfs) | 2:11 | 2023-01-18 | 2023-01-26 |

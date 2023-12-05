@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J-UOA\"> \u0627\u0646\u063a\u0627\u0645 </a>",
-  "num_followers": 105638,
+  "num_followers": 105890,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDZhYjdhMjE2ZjdjNjAzZDg3MTViODQ0MThjM2VhOTNkYjA2Nzdi",
+  "snapshot_id": "MCxlNDYzMzg0MDFiYzU5ZjdhYzRjOTg0YzU4ODY4ZGJhYjk5MzNiZmYw",
   "tracks": [
     {
       "added_at": "2023-11-13 11:00:27",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "Hala Beek Ya Medala3",
-        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Hala Beek Ya Medala3",
-      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 199076,
       "name": "Manga",
       "url": "https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "Hala Beek Ya Medala3",
+        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Hala Beek Ya Medala3",
+      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -343,6 +343,38 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
+        "name": "Fe Hetta Tanya",
+        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Fe Hetta Tanya",
+      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "\u0628\u062d\u0628\u0643",
+        "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Enta Ekhtyar - From Bhabak Movie",
+      "url": "https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
         "name": "Piece Of My Heart",
         "url": "https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x"
       },
@@ -407,38 +439,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "\u0628\u062d\u0628\u0643",
-        "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Enta Ekhtyar - From Bhabak Movie",
-      "url": "https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
-        "name": "Fe Hetta Tanya",
-        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Fe Hetta Tanya",
-      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "Farek Maak",
         "url": "https://open.spotify.com/album/0zt22H9eN3LdvDc8U4PzUM"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "\u0627\u0644\u0639\u0642\u062f",
-        "url": "https://open.spotify.com/album/5hgr34kHjft85noGjE7Ufp"
-      },
-      "artists": [
-        {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
-        }
-      ],
-      "duration_ms": 218322,
-      "name": "\u0627\u0644\u0639\u0642\u062f",
-      "url": "https://open.spotify.com/track/57Nvx4s6yYRyaIO1V6tF1R"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
         "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 178751,
       "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
       "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "\u0627\u0644\u0639\u0642\u062f",
+        "url": "https://open.spotify.com/album/5hgr34kHjft85noGjE7Ufp"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "duration_ms": 218322,
+      "name": "\u0627\u0644\u0639\u0642\u062f",
+      "url": "https://open.spotify.com/track/57Nvx4s6yYRyaIO1V6tF1R"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "Khaleke Fe Hodny el Leila",
-        "url": "https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4"
-      },
-      "artists": [
-        {
-          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
-          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
-        }
-      ],
-      "duration_ms": 200170,
-      "name": "Khaleke Fe Hodny el Leila",
-      "url": "https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "Lehqt Nafsy",
         "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 316880,
       "name": "Etamen",
       "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "Khaleke Fe Hodny el Leila",
+        "url": "https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "duration_ms": 200170,
+      "name": "Khaleke Fe Hodny el Leila",
+      "url": "https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
+        "name": "Lela",
+        "url": "https://open.spotify.com/album/3AMyVk8NP2wOxLIpx0FS9W"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lela",
+      "url": "https://open.spotify.com/track/2qzU4kzcQU34S8tKh6AZTZ"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
         "name": "Ana Geit",
         "url": "https://open.spotify.com/album/21W79ILd1P4CFtLkQNu49M"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 195535,
       "name": "Ya Bakhty Beh",
       "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
-        "name": "Lela",
-        "url": "https://open.spotify.com/album/3AMyVk8NP2wOxLIpx0FS9W"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lela",
-      "url": "https://open.spotify.com/track/2qzU4kzcQU34S8tKh6AZTZ"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
-        "url": "https://open.spotify.com/album/1sQs3SuVGHgjNTuqs85vEF"
-      },
-      "artists": [
-        {
-          "name": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0646\u0627\u0635\u0631",
-          "url": "https://open.spotify.com/artist/34cgeyBX5QJGZ5aYXEmqwo"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
-      "url": "https://open.spotify.com/track/1K22aN6CGHiFAxqImwSQTD"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "Awel Hob",
         "url": "https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 256355,
       "name": "Awel Hob",
       "url": "https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
+        "url": "https://open.spotify.com/album/1sQs3SuVGHgjNTuqs85vEF"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0646\u0627\u0635\u0631",
+          "url": "https://open.spotify.com/artist/34cgeyBX5QJGZ5aYXEmqwo"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
+      "url": "https://open.spotify.com/track/1K22aN6CGHiFAxqImwSQTD"
     },
     {
       "added_at": "2023-11-13 11:00:27",

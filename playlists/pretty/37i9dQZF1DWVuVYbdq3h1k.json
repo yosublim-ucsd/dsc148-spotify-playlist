@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos!",
-  "num_followers": 1207053,
+  "num_followers": 1207271,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGRmYjE4OTlhNTM1Zjk2ODg4NDdjZmE0YjA2NDIxMTNhZDk1NTNh",
+  "snapshot_id": "MCxmMzYwYjg4MTFiNTQ3ZTI1OTZiOWVhNTk1NmRiNjcwZmViOTAyNzE0",
   "tracks": [
     {
       "added_at": "2020-11-17 04:03:12",
@@ -279,22 +279,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -355,6 +339,38 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -399,18 +415,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
+      "duration_ms": 196360,
+      "name": "Nada Valgo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -427,22 +443,6 @@
       "duration_ms": 222626,
       "name": "Espacio sideral",
       "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Nada Valgo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -983,22 +983,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Te Vi Venir",
-      "url": "https://open.spotify.com/track/3WpUm0g3LnhZcdMDmaj3XM"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Bocanada",
         "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Te Vi Venir",
+      "url": "https://open.spotify.com/track/3WpUm0g3LnhZcdMDmaj3XM"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
     },
     {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Commercial",
-        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
-    },
-    {
       "added_at": "2022-04-23 02:38:21",
       "album": {
         "name": "El Que Busca Encuentra",
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+        "name": "Commercial",
+        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
         }
       ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+      "duration_ms": 201400,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1139,6 +1123,22 @@
       "duration_ms": 267106,
       "name": "Color Esperanza",
       "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
-        "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Amaia Montero",
-          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Sin miedo a nada (feat. Amaia Montero)",
-      "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 215746,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
+        "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+        }
+      ],
+      "duration_ms": 310866,
+      "name": "Sin miedo a nada (feat. Amaia Montero)",
+      "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1431,22 +1447,6 @@
       "duration_ms": 210640,
       "name": "Odio Amarte",
       "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 217400,
       "name": "Por Besarte",
       "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 122760,
+      "name": "Je ne t'aime plus",
+      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Fantas\u00eda Pop",
         "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 313933,
       "name": "Sognare",
       "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 122760,
-      "name": "Je ne t'aime plus",
-      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
     }
   ],
   "unique_name": "Los 2000 M\u00e9xico",

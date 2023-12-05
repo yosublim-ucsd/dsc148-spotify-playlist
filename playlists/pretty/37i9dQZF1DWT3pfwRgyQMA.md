@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 
 > Walk down memory lane with the biggest rock anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,006 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,150 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 | 7 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
 | 8 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
 | 9 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
-| 10 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 10 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
 | 11 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
-| 12 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 |
-| 13 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
+| 12 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 13 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 |
 | 14 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 |
 | 15 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
 | 16 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 | 25 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 26 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
 | 27 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 |
-| 28 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
-| 29 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 |
+| 28 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 |
+| 29 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
 | 30 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 31 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 32 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 | 39 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 40 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 |
 | 41 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 |
-| 42 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
-| 43 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
+| 42 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
+| 43 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
 | 44 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 |
 | 45 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 46 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 | 49 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 |
 | 50 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
 
-Snapshot ID: `MCxiM2YzMmNjOTNjODFlOGY5OTRhMjI2MDhlNTU3MmE1NTk4OTNkNjg5`
+Snapshot ID: `MCwyOGVhZDQyZDZmYTJlOGU0YzE4YjllOGQ1OTYwMWFmYTAyOTFhMDcx`

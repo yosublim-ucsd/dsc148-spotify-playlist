@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 32736,
+  "num_followers": 32780,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGY0YmFiZDUxNTA2MDc3YzQwYTY2MWY2ZmNmMzBlMmNmN2JkMDVm",
+  "snapshot_id": "MCw4MDA5ODFhNjhlYmYzNTAxODRmNTZmMjliNzNjOTE3OWUyYmIyMjU2",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:27",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 183666,
       "name": "Popotitos",
       "url": "https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "El Tango",
         "url": "https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -367,6 +335,38 @@
       "duration_ms": 143480,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Vicente Fernandez",
-        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "El Remedio",
-      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Vicente Fernandez",
+        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "El Remedio",
+      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Rock de los 60's",
         "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Los Incre\u00edbles Machucambos",
-        "url": "https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX"
-      },
-      "artists": [
-        {
-          "name": "Los Machucambos",
-          "url": "https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Pepito",
-      "url": "https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176093,
       "name": "Mon\u00f3logo",
       "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Los Incre\u00edbles Machucambos",
+        "url": "https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX"
+      },
+      "artists": [
+        {
+          "name": "Los Machucambos",
+          "url": "https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Pepito",
+      "url": "https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -583,54 +583,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "El Nido",
-      "url": "https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Ven Que Te Quiero",
-        "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
-      },
-      "artists": [
-        {
-          "name": "Los Impala",
-          "url": "https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto"
-        }
-      ],
-      "duration_ms": 193782,
-      "name": "Ven Que Te Quiero",
-      "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
       },
@@ -663,6 +615,54 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "El Nido",
+      "url": "https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Ven Que Te Quiero",
+        "url": "https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP"
+      },
+      "artists": [
+        {
+          "name": "Los Impala",
+          "url": "https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto"
+        }
+      ],
+      "duration_ms": 193782,
+      "name": "Ven Que Te Quiero",
+      "url": "https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Lo Mejor De (Remastered)",
         "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 181452,
       "name": "Tengo Diecisiete A\u00f1os - Remastered",
       "url": "https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -743,6 +759,38 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
+        "name": "Roc\u00edo D\u00farcal - Sus \u00e9xitos de los 60 Vol. 1",
+        "url": "https://open.spotify.com/album/0UBvTmsWLGKuJIVOWoPHRi"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Acomp\u00e1\u00f1ame",
+      "url": "https://open.spotify.com/track/4CWYYlpeOMeY5qYdIWoZER"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1XuxOXjBmJcctCZCI91Bpm"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
         "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
         "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
@@ -771,54 +819,6 @@
       "duration_ms": 168213,
       "name": "Agujetas de Color de Rosa",
       "url": "https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Versiones Originales Vol.2",
-        "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
-      },
-      "artists": [
-        {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Locamente Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
-        "name": "Roc\u00edo D\u00farcal - Sus \u00e9xitos de los 60 Vol. 1",
-        "url": "https://open.spotify.com/album/0UBvTmsWLGKuJIVOWoPHRi"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Acomp\u00e1\u00f1ame",
-      "url": "https://open.spotify.com/track/4CWYYlpeOMeY5qYdIWoZER"
     }
   ],
   "unique_name": "60s Latino",

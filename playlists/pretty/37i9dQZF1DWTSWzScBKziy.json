@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 94455,
+  "num_followers": 94505,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY5OGU1YmY0NmM2NTE1M2I4NjJiN2UzYjA5NjdkNDM0MTU2NzIy",
+  "snapshot_id": "MCw0NTNlZDNmNTlhZjQ0MTJmNjE0YmNkYzk1YTQ5NDg1NzcxMmUyMjMy",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 207084,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 207084,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -255,34 +255,6 @@
       "duration_ms": 193865,
       "name": "I See Grace",
       "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 625062,
-      "name": "Fear Is Not My Future (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -391,6 +363,34 @@
       "duration_ms": 225228,
       "name": "The Goodness (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 625062,
+      "name": "Fear Is Not My Future (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 210118,
       "name": "The Great Awakening",
       "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Soul Worth Saving",
-        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226650,
-      "name": "Soul Worth Saving",
-      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Soul Worth Saving",
+        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226650,
+      "name": "Soul Worth Saving",
+      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "But the Cross",
-      "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Facing A Task Unfinished",
         "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 315986,
       "name": "He Will Hold Me Fast",
       "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "But the Cross",
+      "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -967,26 +967,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        },
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 202708,
-      "name": "Good Lord (feat. Katy Nichole)",
-      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Already Blessed",
         "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
       },
@@ -999,22 +979,6 @@
       "duration_ms": 228068,
       "name": "Already Blessed",
       "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1035,6 +999,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Miracle Power",
         "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
       },
@@ -1051,18 +1031,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
         }
       ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1079,6 +1063,22 @@
       "duration_ms": 224573,
       "name": "Rest On Us - Single Version",
       "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "a thousand shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "a thousand shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "God Is On The Throne",
         "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 284413,
       "name": "God Is On The Throne",
       "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "a thousand shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "a thousand shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Big Tent Revival",
-        "url": "https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Big Tent Revival",
-      "url": "https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Lost On Me",
         "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 236117,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Big Tent Revival",
+        "url": "https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Big Tent Revival",
+      "url": "https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I Met Jesus In Miami",
-        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "I Came Home",
-      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "The Word Is Working (Refreshed)",
         "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 407811,
       "name": "The Word Is Working (Refreshed)",
       "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "I Met Jesus In Miami",
+        "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "I Came Home",
+      "url": "https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe"
     }
   ],
   "unique_name": "Sing A New Song",

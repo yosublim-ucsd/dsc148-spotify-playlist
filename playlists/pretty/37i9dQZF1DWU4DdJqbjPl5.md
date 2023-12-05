@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=Ql88JDkWTkuO44jBk\-ea2w"> Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,097 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,327 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 |
 | 80 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 |
 
-Snapshot ID: `MCwxZTE5MmRmNWJkMDQ0ZmE0NjhhZTQ3MDcwYTgyMTQ1MzdlNzRjMWM2`
+Snapshot ID: `MCxjNDIyNmFmNjU4OTBlMjUzOTc0YWFmMGVlODk3YTg5YzRhZGU2NzY2`

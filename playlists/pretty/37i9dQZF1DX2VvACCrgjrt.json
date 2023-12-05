@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Ship Wrek",
-  "num_followers": 437683,
+  "num_followers": 437716,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWNhNDM2Y2FmZjFiZDNkOWY3Zjg1ZDA2NThlYjFhY2IxMjdlMjJh",
+  "snapshot_id": "MCxiMzczZjhiNmI4MWEzZmFlZDU1MzNhOGYwMTYwZmMyNmY5YzU4MjY3",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        }
-      ],
-      "duration_ms": 178300,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 142562,
       "name": "FAME?",
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        }
+      ],
+      "duration_ms": 178300,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Operators Vol. 1",
-        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "House Call",
-          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
-        }
-      ],
-      "duration_ms": 150761,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Operators Vol. 1",
+        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
+        }
+      ],
+      "duration_ms": 150761,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Welcome To The Future",
+        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Welcome To The Future",
+      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Ten Outta Ten",
         "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 176160,
       "name": "Ten Outta Ten",
       "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Welcome To The Future",
-        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Welcome To The Future",
-      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "D.I.S.C.O.",
         "url": "https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP"
       },
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Down Like That",
         "url": "https://open.spotify.com/album/4R3LSUSZzqN2uLLl4h7OoN"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 140000,
       "name": "Down Like That",
       "url": "https://open.spotify.com/track/02WXjHrQgBZc4stIRzYaFR"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "NO RULES",
-        "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
-      },
-      "artists": [
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
-        },
-        {
-          "name": "bloody white",
-          "url": "https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "NO RULES",
-      "url": "https://open.spotify.com/track/2lMtzc2TmMKPUTfTAht5dS"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Welcome to the Playhouse",
         "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 188571,
       "name": "Welcome to the Playhouse",
       "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "NO RULES",
+        "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
+      },
+      "artists": [
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        },
+        {
+          "name": "bloody white",
+          "url": "https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "NO RULES",
+      "url": "https://open.spotify.com/track/2lMtzc2TmMKPUTfTAht5dS"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Supah Fly",
         "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 145777,
       "name": "Party All Night",
       "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1893,6 +1893,42 @@
       "url": "https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "East Meets West",
+        "url": "https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Transcendence",
+      "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Policia",
@@ -1927,22 +1963,6 @@
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2129,26 +2149,6 @@
       "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "East Meets West",
-        "url": "https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Kahani",
-          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Transcendence",
-      "url": "https://open.spotify.com/track/1vg8GqS7TkJqYDuXX1xhXn"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Dipped In $ugar",
@@ -2259,38 +2259,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 138011,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "BLEEP BLOOP",
-        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "BLEEP BLOOP",
-      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "\u00a5\u20ac$",
         "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
       },
@@ -2339,22 +2307,34 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Spinnin'",
-        "url": "https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl"
       },
       "artists": [
         {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
-        },
-        {
-          "name": "Amy Grace",
-          "url": "https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 256614,
-      "name": "Spinnin'",
-      "url": "https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb"
+      "duration_ms": 138011,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "BLEEP BLOOP",
+        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "BLEEP BLOOP",
+      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2375,6 +2355,26 @@
       "duration_ms": 243333,
       "name": "Bodymorph",
       "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Spinnin'",
+        "url": "https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        },
+        {
+          "name": "Amy Grace",
+          "url": "https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io"
+        }
+      ],
+      "duration_ms": 256614,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-295 songs - 19 hr 5 min
+296 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-10-03 |  |
 | [Get the F\*ck out of Here](https://open.spotify.com/track/1Ch7LEUcHBYzg1MRl85VCn) | [Kobra And The Lotus](https://open.spotify.com/artist/5hW7RukGK6ErG26zM3Sfzl) | [Get the F\*ck out of Here](https://open.spotify.com/album/3NaMWGZSrIKrd03q1Uinsx) | 3:23 | 2020-12-07\* | 2021-05-15 |
 | [Ghost Chapter](https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Ghost Chapter](https://open.spotify.com/album/4WKQe4glk7azHIj5Bfgm8y) | 4:23 | 2020-12-07\* | 2022-07-29 |
-| [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 | 2020-12-07\* |  |
+| [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 | 2020-12-07\* | 2023-12-05 |
 | [Gravity](https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Gravity](https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ) | 3:47 | 2020-12-11 | 2022-07-29 |
 | [Grayscale](https://open.spotify.com/track/0Y3pzMEX6ZF40dp1RAOrZk) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Grayscale](https://open.spotify.com/album/2nklray2e6vk84ASC20FsK) | 3:36 | 2021-02-19 | 2022-07-23 |
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-03-11 | 2023-06-01 |
@@ -295,6 +295,7 @@
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-18 |  |
 | [When You're Gone](https://open.spotify.com/track/67ytcy7Sg1PTLPNkGn92qZ) | [Evereal](https://open.spotify.com/artist/17mUVDdPEzybiGUGJ0zmBI) | [When You're Gone](https://open.spotify.com/album/226OTt4h9VumNc6CTsz5dl) | 4:07 | 2020-12-07\* | 2022-06-17 |
 | [Whore](https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:05 | 2023-03-02 |  |
+| [Yeah Right](https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:29 | 2023-09-15 |  |
 | [Yeah Right](https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Yeah Right](https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P) | 3:30 | 2020-12-07\* | 2022-07-29 |
 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 | 2022-03-11 | 2023-11-04 |
 | [Yellowjacket \(feat\. Sam Carter\)](https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:18 | 2021-10-02 | 2023-11-19 |

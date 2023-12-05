@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Etienne Dufresne",
-  "num_followers": 39335,
+  "num_followers": 39339,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjdiYTY4NzhkOWIyOTExOTgxMGMzZTVlYWYxYjI4MTk2NzJjNTM5",
+  "snapshot_id": "MCxjNmM0ZWEzOTcwOTA2MDUzOTY1MThiM2FjZWJhY2I4OGRjMjI1MGVk",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -155,58 +155,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "TRAP$TAR 3",
-        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
         {
           "name": "Gazo",
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 160858,
-      "name": "Dans le noir",
-      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "\u00c7a c'est bien",
-        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         },
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 159299,
-      "name": "\u00c7a c'est bien",
-      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "C'\u00e9tait salement romantique (Reprise)",
-        "url": "https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 188997,
-      "name": "C'\u00e9tait salement romantique - Reprise",
-      "url": "https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p"
+      "duration_ms": 216386,
+      "name": "NOTRE DAME",
+      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -227,6 +191,42 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "C'\u00e9tait salement romantique (Reprise)",
+        "url": "https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 188997,
+      "name": "C'\u00e9tait salement romantique - Reprise",
+      "url": "https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 160858,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Pas la peine",
         "url": "https://open.spotify.com/album/52iK7td3lEXJehzbQokb6t"
       },
@@ -243,22 +243,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+        "name": "\u00c7a c'est bien",
+        "url": "https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         },
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 216386,
-      "name": "NOTRE DAME",
-      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+      "duration_ms": 159299,
+      "name": "\u00c7a c'est bien",
+      "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -383,18 +383,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "SALE \u00c9POQUE",
-        "url": "https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2"
+        "name": "Il y a",
+        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 183106,
-      "name": "MAIN MOITE",
-      "url": "https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86"
+      "duration_ms": 205365,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -415,22 +419,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Il y a",
-        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
+        "name": "SALE \u00c9POQUE",
+        "url": "https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2"
       },
       "artists": [
         {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         }
       ],
-      "duration_ms": 205365,
-      "name": "Il y a",
-      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
+      "duration_ms": 183106,
+      "name": "MAIN MOITE",
+      "url": "https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -507,6 +507,30 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 226726,
+      "name": "Je suis fou",
+      "url": "https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "PROTOCOLE - A COLORS SHOW",
         "url": "https://open.spotify.com/album/67fxAS0referLXN4dJlKr3"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 191416,
       "name": "Warda",
       "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        },
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 226726,
-      "name": "Je suis fou",
-      "url": "https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Maintenant",
+        "url": "https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 189588,
+      "name": "Maintenant",
+      "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Plaisir Risque D\u00e9pendance",
         "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
       },
@@ -687,26 +707,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Maintenant",
-        "url": "https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 189588,
-      "name": "Maintenant",
-      "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Maman savait",
         "url": "https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH"
       },
@@ -719,6 +719,26 @@
       "duration_ms": 178519,
       "name": "Maman savait",
       "url": "https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "KH-22",
+        "url": "https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "CORONER",
+      "url": "https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -787,26 +807,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "KH-22",
-        "url": "https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP"
-      },
-      "artists": [
-        {
-          "name": "ASHE 22",
-          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "CORONER",
-      "url": "https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
       },
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Le chemin - 20 ans",
+        "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "Je cours (feat. Nuit Incolore)",
+      "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Tant de choses",
         "url": "https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU"
       },
@@ -875,22 +895,6 @@
       "duration_ms": 204477,
       "name": "Tant de choses",
       "url": "https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Un morceau de Sicre",
-        "url": "https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 242360,
-      "name": "Un morceau de Sicre",
-      "url": "https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

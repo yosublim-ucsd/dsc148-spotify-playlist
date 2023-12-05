@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > As artistas femeninas do ano, como Sara Tavares \(in memoriam\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,340 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,354 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

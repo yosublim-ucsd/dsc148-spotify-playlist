@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 170556,
+  "num_followers": 170611,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWY4NjRhNWIxZmM4ZDM5MTc4ZjMyZTY1YmY1ZDA0OTcxNDA3Mjg2",
+  "snapshot_id": "MCw2ODM4YThkYThjMzZiYjlkZTI5ZGFkMWE2NGNmNzNkNjFiODFkMjcy",
   "tracks": [
     {
       "added_at": "2023-11-10 01:13:32",
@@ -373,6 +373,26 @@
       "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
+      "added_at": "2023-05-26 18:09:55",
+      "album": {
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 311562,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -395,26 +415,6 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
-      "added_at": "2023-05-26 18:09:55",
-      "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 311562,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-02-25 03:06:43",
       "album": {
-        "name": "The Universe Is Always Right",
-        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
       },
       "artists": [
         {
-          "name": "Hayden Thorpe",
-          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
         }
       ],
-      "duration_ms": 244390,
-      "name": "The Universe Is Always Right",
-      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+      "duration_ms": 369231,
+      "name": "Unpeopled Space",
+      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
       "added_at": "2023-01-04 00:57:30",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "The Universe Is Always Right",
+        "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 244390,
+      "name": "The Universe Is Always Right",
+      "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Flock",
         "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 301153,
       "name": "The Revolution of Super Visions",
       "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
-    },
-    {
-      "added_at": "2022-02-25 03:06:43",
-      "album": {
-        "name": "You Belong There",
-        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 369231,
-      "name": "Unpeopled Space",
-      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
       "added_at": "2023-08-15 18:36:31",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
       "added_at": "2023-06-07 04:10:00",
       "album": {
         "name": "Crispy Moon",
@@ -855,6 +839,22 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2023-08-24 03:26:17",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Behind The Sun",
-        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 209817,
-      "name": "Behind The Sun",
-      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1095,6 +1079,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Behind The Sun",
+        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 209817,
+      "name": "Behind The Sun",
+      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
-      "added_at": "2023-09-25 01:38:39",
-      "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
       "added_at": "2022-11-17 22:51:20",
       "album": {
         "name": "Starry Nights",
@@ -1183,6 +1167,22 @@
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
+    },
+    {
+      "added_at": "2023-09-25 01:38:39",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2023-03-31 19:12:14",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Centre",
@@ -1421,6 +1405,22 @@
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
       "added_at": "2022-08-13 01:40:58",
       "album": {
         "name": "NIGHT CRAWLING",
@@ -1477,26 +1477,6 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Al Sur",
-        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
-      },
-      "artists": [
-        {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Al Sur",
-      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
       "added_at": "2023-06-26 14:24:59",
       "album": {
         "name": "Island Family (Deluxe Edition)",
@@ -1515,6 +1495,26 @@
       "duration_ms": 269399,
       "name": "Island Family - uh Remix",
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Al Sur",
+        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Al Sur",
+      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
       "added_at": "2023-05-12 04:28:08",
@@ -1625,24 +1625,20 @@
       "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
-      "added_at": "2022-08-25 19:38:46",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "A Liberdade \u00e9 Cara",
-        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
       },
       "artists": [
         {
-          "name": "Flak",
-          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
-        },
-        {
-          "name": "Cachupa Psicadelica",
-          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
         }
       ],
-      "duration_ms": 380973,
-      "name": "A Liberdade \u00e9 Cara",
-      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
       "added_at": "2022-08-31 04:56:45",
@@ -1661,20 +1657,24 @@
       "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-08-25 19:38:46",
       "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+        "name": "A Liberdade \u00e9 Cara",
+        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
       },
       "artists": [
         {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+          "name": "Flak",
+          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
+        },
+        {
+          "name": "Cachupa Psicadelica",
+          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
         }
       ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
+      "duration_ms": 380973,
+      "name": "A Liberdade \u00e9 Cara",
+      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
       "added_at": "2022-03-11 04:34:08",

@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3384,
+  "num_followers": 3385,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmJkYWE4OWMxMjRlZWUyZTNjYmNhNjA0ODFlM2I1NmFmY2YwNGIx",
+  "snapshot_id": "MCwyNDQ3NGIxMjBmNzlhNmFiOGE2ZGFlNjE2OGU5NTdlNmMzOTk5OGE3",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Signals - Remastered 2005",
-      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 146160,
       "name": "The First I love You",
       "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Signals - Remastered 2005",
+      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 409066,
-      "name": "Melancholia II",
-      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 321453,
       "name": "Music Is Math",
       "url": "https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 409066,
+      "name": "Melancholia II",
+      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "The Digging Remedy",
+        "url": "https://open.spotify.com/album/0WKm16Qa3ZrFVWyA8v8OJz"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Do Matter",
+      "url": "https://open.spotify.com/track/49jtaVSPf7RzqtFfHlFOLr"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Digging Remedy",
-        "url": "https://open.spotify.com/album/0WKm16Qa3ZrFVWyA8v8OJz"
+        "name": "Lost Themes",
+        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
         }
       ],
-      "duration_ms": 220920,
-      "name": "Do Matter",
-      "url": "https://open.spotify.com/track/49jtaVSPf7RzqtFfHlFOLr"
+      "duration_ms": 218000,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -303,18 +319,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes",
-        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
       "artists": [
         {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f"
+      "duration_ms": 143880,
+      "name": "This Isn't You",
+      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -347,22 +363,6 @@
       "duration_ms": 126091,
       "name": "In McDonalds",
       "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 143880,
-      "name": "This Isn't You",
-      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV"
-      },
-      "artists": [
-        {
-          "name": "Desiderii Marginis",
-          "url": "https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX"
-        }
-      ],
-      "duration_ms": 455593,
-      "name": "Silent Messenger",
-      "url": "https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 307680,
       "name": "The Upside Down",
       "url": "https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV"
+      },
+      "artists": [
+        {
+          "name": "Desiderii Marginis",
+          "url": "https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX"
+        }
+      ],
+      "duration_ms": 455593,
+      "name": "Silent Messenger",
+      "url": "https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 535266,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Draconian Poetry",
         "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 535266,
-      "name": "#5",
-      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "I Am the Night",
         "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
-      },
-      "artists": [
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 363843,
-      "name": "A Curved Blade",
-      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Music for an Empty Metropolis",
         "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 278095,
       "name": "Acid Rain on Broken Rooftops",
       "url": "https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
+      },
+      "artists": [
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "duration_ms": 363843,
+      "name": "A Curved Blade",
+      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Word as Power",
-        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
-      },
-      "artists": [
-        {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        }
-      ],
-      "duration_ms": 601827,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 480506,
       "name": "#14",
       "url": "https://open.spotify.com/track/52KJRzaJGFW4CmzaWVMx4o"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Word as Power",
+        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
+      },
+      "artists": [
+        {
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        }
+      ],
+      "duration_ms": 601827,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
-      "added_at": "2022-09-03 03:45:57",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
       "added_at": "2022-07-06 17:58:03",
       "album": {
         "name": "Lost Themes II",
@@ -871,6 +855,22 @@
       "duration_ms": 227626,
       "name": "Utopian Facade",
       "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
+    },
+    {
+      "added_at": "2022-09-03 03:45:57",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Detective (II)",
-        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Berberian Sound Studio",
         "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 254624,
       "name": "Mannequin Metric",
       "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Detective (II)",
+        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Annihilation (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 178385,
       "name": "Ambulance Chase",
       "url": "https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     },
     {
       "added_at": "2022-07-06 17:58:03",

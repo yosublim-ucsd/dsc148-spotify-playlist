@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Kalibwani",
-  "num_followers": 1909,
+  "num_followers": 1911,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODE5YWRkYjdmZTNiNGMxYmJkZmVmMGMzYmRjMzI1Njk0NjNhNWZk",
+  "snapshot_id": "MCwxZGRiY2IyMDMxZDMzMjg5ZWJiMGE1NTViMzVlN2I0NzQ5ZGVlYzJm",
   "tracks": [
     {
       "added_at": "2023-11-30 20:59:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-30 20:59:00",
       "album": {
-        "name": "Nkujjukira",
-        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Nkujjukira",
-      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
-    },
-    {
-      "added_at": "2023-11-30 20:59:00",
-      "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
@@ -335,22 +319,6 @@
     {
       "added_at": "2023-11-30 20:59:00",
       "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
-    },
-    {
-      "added_at": "2023-11-30 20:59:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
       },
@@ -363,6 +331,38 @@
       "duration_ms": 186382,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
+    },
+    {
+      "added_at": "2023-11-30 20:59:00",
+      "album": {
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
+    },
+    {
+      "added_at": "2023-11-30 20:59:00",
+      "album": {
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
       "added_at": "2023-11-30 20:59:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-11-30 20:59:00",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
-    },
-    {
-      "added_at": "2023-11-30 20:59:00",
-      "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
@@ -471,6 +455,42 @@
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
+      "added_at": "2023-11-30 20:59:00",
+      "album": {
+        "name": "Omukwano (Love)",
+        "url": "https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Omukwano (Love)",
+      "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
+    },
+    {
+      "added_at": "2023-11-30 20:59:00",
+      "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
       "added_at": "2023-11-30 20:59:00",
@@ -511,46 +531,6 @@
     {
       "added_at": "2023-11-30 20:59:00",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2023-11-30 20:59:00",
-      "album": {
-        "name": "Omukwano (Love)",
-        "url": "https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Omukwano (Love)",
-      "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
-    },
-    {
-      "added_at": "2023-11-30 20:59:00",
-      "album": {
         "name": "Shabada",
         "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 196858,
       "name": "Shabada",
       "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
+    },
+    {
+      "added_at": "2023-11-30 20:59:00",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2023-11-30 20:59:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-30 20:59:00",
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
+      "added_at": "2023-11-30 20:59:00",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 147590,
       "name": "Bitimba",
       "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
-    },
-    {
-      "added_at": "2023-11-30 20:59:00",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-11-30 20:59:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-11-30 20:59:00",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/4Re1QCXEiOQJ1XO2QiVHUd"
-      },
-      "artists": [
-        {
-          "name": "Tungi 256",
-          "url": "https://open.spotify.com/artist/43EG4QtCw8bydahlorUJaR"
-        }
-      ],
-      "duration_ms": 194482,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/5BUZgm3cD3xv7E3t20SB7W"
-    },
-    {
-      "added_at": "2023-11-30 20:59:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV"
       },
@@ -943,6 +927,26 @@
       "duration_ms": 165015,
       "name": "Chai We Njaye",
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-11-30 20:59:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruz",
+          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
+        },
+        {
+          "name": "Caspian Marvin",
+          "url": "https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
     }
   ],
   "unique_name": "Made In Uganda",

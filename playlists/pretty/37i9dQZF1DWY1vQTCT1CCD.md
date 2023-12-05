@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 
 > Détendez vous avec ces chansons tranquilles pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,386 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,398 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 | 59 | [Tiago](https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 2:58 |
 | 60 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |
 
-Snapshot ID: `MCxlYWUwNzNlOWM1OGZlNTY2N2JlNGY4NDhlMTg1Mzk1YzI3OGQyYjgx`
+Snapshot ID: `MCw0OWI3NGUzMTQ1ZWU0NTg5OGZlZWRmMmUyZmQ2YzlkZGQxNTY1NmYy`

@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133515,
+  "num_followers": 1133521,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWJiODAyYzMxZGMwZWJhZTBiYzcyZWY0NTE4ZTM1ODYxYTcwYzEx",
+  "snapshot_id": "MCw2OGZkMWU0MDM1NzE3ZWU3MzM1ZDA0MTE0YTQxYmRiMDIwOGM2YzIx",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Hodge",
-          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Sex is on fire",
         "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 163833,
       "name": "Sex is on fire",
       "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
-      },
-      "artists": [
-        {
-          "name": "Mel & Macy",
-          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
-        }
-      ],
-      "duration_ms": 197684,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
       },
@@ -323,6 +307,38 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+      },
+      "artists": [
+        {
+          "name": "Mel & Macy",
+          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+        }
+      ],
+      "duration_ms": 197684,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Ysabelle",
+        "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
+      },
+      "artists": [
+        {
+          "name": "Ysabelle Cuevas",
+          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
+        }
+      ],
+      "duration_ms": 189673,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Overpass Graffiti",
         "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 132024,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Ysabelle",
-        "url": "https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1"
-      },
-      "artists": [
-        {
-          "name": "Ysabelle Cuevas",
-          "url": "https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8"
-        }
-      ],
-      "duration_ms": 189673,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "see you soon",
-        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "see you soon",
-      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 178966,
       "name": "In The Meantime",
       "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "see you soon",
+        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Ghost - acoustic",
         "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 151374,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1011,34 +979,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
       },
       "artists": [
         {
-          "name": "Water and Salt",
-          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 242011,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1059,6 +1011,38 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
+      },
+      "artists": [
+        {
+          "name": "Water and Salt",
+          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
+        }
+      ],
+      "duration_ms": 242011,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 132789,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Out Of My Head And Back In My Bed",
-        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 190561,
-      "name": "Out Of My Head And Back In My Bed",
-      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Just The Two Of Us - Acoustic",
         "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Out Of My Head And Back In My Bed",
+        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 190561,
+      "name": "Out Of My Head And Back In My Bed",
+      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
-      },
-      "artists": [
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
-        }
-      ],
-      "duration_ms": 188863,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 170884,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+        }
+      ],
+      "duration_ms": 188863,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 214260,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Anti-Hero",
         "url": "https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 223625,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 214260,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 211043,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Make You Feel My Love",
         "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 189680,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 211043,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "How to save a life - Acoustic version",
-        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 207824,
-      "name": "How to save a life - Acoustic version",
-      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "WITHOUT ME",
         "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 180998,
       "name": "WITHOUT ME",
       "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "How to save a life - Acoustic version",
+        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 207824,
+      "name": "How to save a life - Acoustic version",
+      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Pillowtalk",
         "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 187286,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

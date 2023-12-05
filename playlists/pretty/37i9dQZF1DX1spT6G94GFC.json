@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2763218,
+  "num_followers": 2763808,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWI3MjY0ZjljM2FiMmIyMWU4MjY0NjQ5MjU1OWQzNjc0OTFhOWU5",
+  "snapshot_id": "MCw1MjQxZGZlNTM5OTZmMTU3OWY1MWI1OGMxYmZkZGE2Y2FiOGI1M2Qw",
   "tracks": [
     {
       "added_at": "2023-11-16 15:11:24",
@@ -139,70 +139,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -219,34 +155,18 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -267,6 +187,70 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
         "name": "Danzig",
         "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 329413,
       "name": "Edge of Seventeen - 2016 Remaster",
       "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "New Jersey (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 316706,
-      "name": "Bad Medicine",
-      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "Document (R.E.M. No. 5)",
         "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 246933,
       "name": "It's The End Of The World As We Know It (And I Feel Fine)",
       "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 316706,
+      "name": "Bad Medicine",
+      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
-        "name": "Don't Say No (Remastered 2010)",
-        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
-      },
-      "artists": [
-        {
-          "name": "Billy Squier",
-          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "The Stroke - Remastered 2010",
-      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
+        "name": "Don't Say No (Remastered 2010)",
+        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
+      },
+      "artists": [
+        {
+          "name": "Billy Squier",
+          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "The Stroke - Remastered 2010",
+      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
       "added_at": "2023-11-16 15:11:24",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-11-16 15:11:24",
       "album": {
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270533,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+    },
+    {
+      "added_at": "2023-11-16 15:11:24",
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 363640,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
-    },
-    {
-      "added_at": "2023-11-16 15:11:24",
-      "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270533,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
     },
     {
       "added_at": "2023-11-16 15:11:24",

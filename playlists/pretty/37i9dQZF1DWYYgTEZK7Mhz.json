@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 24997,
+  "num_followers": 25019,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTA5MTBhMzhkMzBkYzVjYjA2MWM1ZGNiN2MwN2UwMjRjYTkyZTg0",
+  "snapshot_id": "MCw3NTZmNTFmYmNjMmZlNWE3YjVjYzk4MjhjNjcxYmUzOTM3ZjE3OTNk",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Guarda come dondolo",
-      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Catherine Spaak",
         "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
       },
@@ -659,6 +639,26 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 151720,
+      "name": "Guarda come dondolo",
+      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Le Sue Piu' Belle Canzoni",
         "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
       },
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Anni '60",
+        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 137665,
+      "name": "24.000 Baci",
+      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "La Partita",
         "url": "https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs"
       },
@@ -735,26 +751,6 @@
       "duration_ms": 135560,
       "name": "La Partita Di Pallone",
       "url": "https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 159312,
-      "name": "Pinne fucile ed occhiali",
-      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -775,18 +771,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Anni '60",
-        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
       "artists": [
         {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
         }
       ],
-      "duration_ms": 137665,
-      "name": "24.000 Baci",
-      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
+      "duration_ms": 159312,
+      "name": "Pinne fucile ed occhiali",
+      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     },
     {
       "added_at": "2023-06-05 07:42:38",

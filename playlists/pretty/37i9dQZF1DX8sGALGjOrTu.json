@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Thrice",
-  "num_followers": 447601,
+  "num_followers": 447743,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTRhY2QyZjI4N2Y3NTE4NTg2ZGE2Nzg2OWZlMjI1YWY5MDE2ODVh",
+  "snapshot_id": "MCxiN2UwNDA5YjhlMDUzYThmMjdiNGM5ZDIyMDNjMzY5ZWE3OGFkMzQz",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+        "name": "Selfish Machines",
+        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 215146,
-      "name": "Pretty Handsome Awkward",
-      "url": "https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2"
+      "duration_ms": 268480,
+      "name": "Caraphernelia",
+      "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -335,50 +335,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Selfish Machines",
-        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 268480,
-      "name": "Caraphernelia",
-      "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "I Brought You My Bullets, You Brought Me Your Love",
-        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 366560,
-      "name": "Demolition Lovers",
-      "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "With Ears To See And Eyes To Hear",
-        "url": "https://open.spotify.com/album/1oRHYWmIhP5bmXYerh9qXj"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "If I'm James Dean, You're Audrey Hepburn",
-      "url": "https://open.spotify.com/track/2D4LEUzvLRCQOLMxnajH72"
+      "duration_ms": 215146,
+      "name": "Pretty Handsome Awkward",
+      "url": "https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -399,6 +367,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "With Ears To See And Eyes To Hear",
+        "url": "https://open.spotify.com/album/1oRHYWmIhP5bmXYerh9qXj"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "If I'm James Dean, You're Audrey Hepburn",
+      "url": "https://open.spotify.com/track/2D4LEUzvLRCQOLMxnajH72"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Dying Is Your Latest Fashion",
         "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 231506,
       "name": "Not Good Enough For Truth In Clich\u00e9",
       "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 366560,
+      "name": "Demolition Lovers",
+      "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "This War Is Ours (The Guillotine II)",
+      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
         "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "This War Is Ours (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+        "name": "Dance Gavin Dance",
+        "url": "https://open.spotify.com/album/7FErRFVQYaG2c0UUBapFGT"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 266733,
-      "name": "This War Is Ours (The Guillotine II)",
-      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
+      "duration_ms": 218453,
+      "name": "Uneasy Hearts Weigh The Most",
+      "url": "https://open.spotify.com/track/59RtbarKXlfmbKZjvkwoW7"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -571,22 +587,6 @@
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Dance Gavin Dance",
-        "url": "https://open.spotify.com/album/7FErRFVQYaG2c0UUBapFGT"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Uneasy Hearts Weigh The Most",
-      "url": "https://open.spotify.com/track/59RtbarKXlfmbKZjvkwoW7"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "The Silence In Black And White (Re-Issue)",
+        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 239520,
+      "name": "Niki Fm",
+      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "On Letting Go",
         "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Silence In Black And White (Re-Issue)",
-        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "Niki Fm",
-      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Try This With Your Eyes Closed",
         "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 249613,
       "name": "Apology",
       "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Buried a Lie",
-      "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "The Emptiness",
+        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "The Thespian",
+      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Juturna",
         "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 204440,
       "name": "Things That Rhyme With Orange",
       "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "The Emptiness",
-        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "The Thespian",
-      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
     },
     {
       "added_at": "2023-03-28 16:00:32",

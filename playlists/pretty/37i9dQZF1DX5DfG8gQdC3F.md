@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from KAYTRANADA & Rochelle Jordan, Beyoncé, Sean Leon & Jessie Reyez, Dove Cameron and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,964 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,993 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 14 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 |
 | 15 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 |
 | 16 | [Tonka Truck](https://open.spotify.com/track/2MFQGJmG9JH3A93AxSQGKW) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Tonka Truck](https://open.spotify.com/album/7jktwHuYoePFWWTeSrCaID) | 3:12 |
-| 17 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 17 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 18 | [Life I Chose](https://open.spotify.com/track/0nXqW7YxqIzwlQJAtJahHh) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Life I Chose](https://open.spotify.com/album/5JTUybf15eUwa9gqFXoX4K) | 3:16 |
 | 19 | [3 Feet Tall](https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [3 Feet Tall](https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ) | 3:42 |
 | 20 | [Stuntin](https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Spells and Power Thoughts](https://open.spotify.com/track/1ANBmw9cKZKaEptZpR1R2Y) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Spells and Power Thoughts](https://open.spotify.com/album/3vFjzXDMFfRnhxRUTBN0CY) | 2:47 |
 | 100 | [Cigarettes](https://open.spotify.com/track/7HAD0NBufBMMzWPnwoFc4y) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Cigarettes](https://open.spotify.com/album/0zFyYAPnhb9BZGAfAcyNTx) | 2:49 |
 
-Snapshot ID: `MCw4OWVmNDE5ZGYwODEwMDg0NTQxMjYzNzcyZDdkYzhhMmMyODRlMjU0`
+Snapshot ID: `MCw5ZWFjZjRkMWFlNGY5OGFiYjU1MzYyMTQzOGJlZjY1NzgwYzYyNDM1`

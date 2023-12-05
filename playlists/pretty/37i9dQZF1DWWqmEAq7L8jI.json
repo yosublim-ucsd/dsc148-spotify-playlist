@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 266997,
+  "num_followers": 267032,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjYzOTU5YWFhM2ZiODUzM2VlNjJmYWUwNDMwN2EyZjQ4YjI5NThm",
+  "snapshot_id": "MCwzNjQzZThhNzU2YzUxOTRmOThkZThlMzA0YzU0MDlhYzhkOWVkNzBh",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Eres Mi Religi\u00f3n",
-        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
-        }
-      ],
-      "duration_ms": 267836,
-      "name": "Eres Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Eres Mi Religi\u00f3n",
+        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
+        }
+      ],
+      "duration_ms": 267836,
+      "name": "Eres Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Ojos Noche (feat. Carla Morrison)",
-        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 254929,
-      "name": "Ojos Noche (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Si T\u00fa La Quieres",
         "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Ojos Noche (feat. Carla Morrison)",
+        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 254929,
+      "name": "Ojos Noche (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Ya No Vuelvas",
-        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 144491,
-      "name": "Ya No Vuelvas",
-      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "No Ha Parado De Llover",
         "url": "https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 245209,
       "name": "No Ha Parado De Llover (with Sebasti\u00e1n Yatra)",
       "url": "https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Ya No Vuelvas",
+        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 144491,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "El d\u00eda menos pensado",
+        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 224675,
+      "name": "El d\u00eda menos pensado",
+      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Blanco",
         "url": "https://open.spotify.com/album/519UdgyNfgG6LCTTLNjirk"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "El d\u00eda menos pensado",
-        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 224675,
-      "name": "El d\u00eda menos pensado",
-      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1759,6 +1759,38 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Dame Una Oportunidad",
+        "url": "https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198622,
+      "name": "Dame Una Oportunidad",
+      "url": "https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "FINAL (Vol.1)",
+        "url": "https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "PENDEJO",
+      "url": "https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -1779,22 +1811,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Dame Una Oportunidad",
-        "url": "https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198622,
-      "name": "Dame Una Oportunidad",
-      "url": "https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 167640,
       "name": "Detox",
       "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "FINAL (Vol.1)",
-        "url": "https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "PENDEJO",
-      "url": "https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7"
     },
     {
       "added_at": "2023-12-01 03:00:00",

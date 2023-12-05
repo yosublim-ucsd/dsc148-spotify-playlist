@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 12177,
+  "num_followers": 12229,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTk3NDJhMzlkNzQ0ZTdlODFlYzNmN2ZhYWY0MjU2YTMzNWU2YzY5",
+  "snapshot_id": "MCxmZTM5ZWZlODdjY2I3YjBhZmIxMzVjOWM0NTRjZjUwY2Y4NzdiOGVk",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -299,6 +299,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Easter In Miami",
         "url": "https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk"
       },
@@ -355,26 +375,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Gardner Express",
         "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Blessed, I Guess",
-        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        }
-      ],
-      "duration_ms": 124767,
-      "name": "Boys To Men",
-      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "I'll Never Tell Em Shit",
         "url": "https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1"
       },
@@ -443,22 +427,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+        "name": "Blessed, I Guess",
+        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
       },
       "artists": [
         {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
         }
       ],
-      "duration_ms": 183182,
-      "name": "Ain't It Funny ft. Meek Mill",
-      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
+      "duration_ms": 124767,
+      "name": "Boys To Men",
+      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -479,6 +459,26 @@
       "duration_ms": 129662,
       "name": "Freaky As Me (feat. latto)",
       "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Ain't It Funny ft. Meek Mill",
+      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Preaching from the Projects",
+        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
+      },
+      "artists": [
+        {
+          "name": "GANG51E JUNE",
+          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "Base' Body",
+      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "My Life 4Hunnid",
         "url": "https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0"
       },
@@ -579,42 +595,6 @@
       "duration_ms": 216953,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Preaching from the Projects",
-        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
-      },
-      "artists": [
-        {
-          "name": "GANG51E JUNE",
-          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "Base' Body",
-      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -679,6 +659,26 @@
       "duration_ms": 172391,
       "name": "My Terms (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",

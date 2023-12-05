@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43189,
+  "num_followers": 43190,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTc1ZmJlZGY3NTRhMTMyZGYzMTJjYjgyOWM5ZjYzMmJjMTRkMzdk",
+  "snapshot_id": "MCxiNTllMzE1MzVmMGFjZTVjMjc2MmU0ODU3ODkxNzI4N2I3NWFhOGM4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -293,24 +293,20 @@
       "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Temporary (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -333,40 +329,24 @@
       "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
-    },
-    {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         },
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 195464,
-      "name": "Hate Me (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
+      "duration_ms": 178333,
+      "name": "Temporary (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -387,6 +367,26 @@
       "duration_ms": 110400,
       "name": "Step 2 Me",
       "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+    },
+    {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -429,38 +429,6 @@
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 183705,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
-    },
-    {
-      "added_at": "2023-07-14 17:29:23",
-      "album": {
-        "name": "Down Bad",
-        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
-      },
-      "artists": [
-        {
-          "name": "Erin Kaith",
-          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
-        }
-      ],
-      "duration_ms": 175348,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Tell Me It's Over",
@@ -483,6 +451,54 @@
       "duration_ms": 281013,
       "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
       "url": "https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu"
+    },
+    {
+      "added_at": "2023-07-14 17:29:23",
+      "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
+      },
+      "artists": [
+        {
+          "name": "Erin Kaith",
+          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
+        }
+      ],
+      "duration_ms": 175348,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 183705,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
     },
     {
       "added_at": "2023-09-08 05:11:32",
@@ -515,42 +531,6 @@
       "duration_ms": 187484,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Don't Give It Away",
-        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "Don't Give It Away (with Chris Brown)",
-      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -591,6 +571,42 @@
       "duration_ms": 170640,
       "name": "Outside Freestyle",
       "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -661,22 +677,6 @@
       "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Hardlife",
-      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Um, Hello",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "143",
-      "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "BUT IF iiM HONEST",
@@ -723,6 +707,38 @@
       "duration_ms": 229854,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "143",
+      "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -793,20 +809,72 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+        "name": "Lost In Melody (Deluxe)",
+        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 162506,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
+      "duration_ms": 144869,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "cascade road",
+      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Sin on Purpose",
+        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Sin on Purpose",
+      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "T.B.D.",
+        "url": "https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP"
+      },
+      "artists": [
+        {
+          "name": "Solomon Headen",
+          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "T.B.D.",
+      "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
     },
     {
       "added_at": "2023-07-28 08:00:10",
@@ -827,74 +895,6 @@
       "duration_ms": 150361,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "cascade road",
-      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "T.B.D.",
-        "url": "https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP"
-      },
-      "artists": [
-        {
-          "name": "Solomon Headen",
-          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "T.B.D.",
-      "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Sin on Purpose",
-        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Sin on Purpose",
-      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 144869,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Before We Crash",
+        "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 229447,
+      "name": "Better Than Him",
+      "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "The Hurtbook (Homegirl Pack)",
@@ -951,22 +967,6 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Before We Crash",
-        "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 229447,
-      "name": "Better Than Him",
-      "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1305,40 +1305,24 @@
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-09-08 05:11:32",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
+        "name": "No Rules (Slut Me Out) (Single)",
+        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
         },
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "Paxquiao",
+          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
         }
       ],
-      "duration_ms": 203136,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 154473,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
+      "duration_ms": 172666,
+      "name": "No Rules (Slut Me Out)",
+      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1361,24 +1345,56 @@
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "No Rules (Slut Me Out) (Single)",
-        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
       },
       "artists": [
         {
-          "name": "Sy Ari Da Kid",
-          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
-        },
-        {
-          "name": "Paxquiao",
-          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
         }
       ],
-      "duration_ms": 172666,
-      "name": "No Rules (Slut Me Out)",
-      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
+      "duration_ms": 154473,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 203136,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 219662,
+      "name": "PT. II (DRAKE & DRIVE)",
+      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 184736,
       "name": "Presence",
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 219662,
-      "name": "PT. II (DRAKE & DRIVE)",
-      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
     },
     {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 146799,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "RollBack",
@@ -1517,20 +1533,20 @@
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV"
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
       },
       "artists": [
         {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 146799,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -1563,38 +1579,6 @@
       "duration_ms": 249917,
       "name": "Blame Yourself",
       "url": "https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1631,6 +1615,22 @@
       "duration_ms": 181911,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 175151,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "ISN'T THE SAME",
-        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 156624,
-      "name": "ISN'T THE SAME",
-      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
-    },
-    {
       "added_at": "2023-09-01 04:55:52",
       "album": {
         "name": "five more",
@@ -1749,20 +1733,36 @@
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-08 05:11:32",
       "album": {
-        "name": "I'M THE PROBLEM",
-        "url": "https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4"
+        "name": "ISN'T THE SAME",
+        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
       },
       "artists": [
         {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
         }
       ],
-      "duration_ms": 228334,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7"
+      "duration_ms": 156624,
+      "name": "ISN'T THE SAME",
+      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     }
   ],
   "unique_name": "Some Kinda Way",

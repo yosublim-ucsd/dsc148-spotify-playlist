@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 109 | [Lovers in Seoul](https://open.spotify.com/track/4b0DErtWUF6NB1LUvoyDJ1) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Lovers in Seoul](https://open.spotify.com/album/2eiQzl4dGRZse9PVDc4Ljd) | 3:30 |
 | 110 | [The Wall](https://open.spotify.com/track/1m3UzguI43meDD7MpVwyh2) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [off the menu](https://open.spotify.com/album/6Jq9SOsXsW6b8x6OHXBsAx) | 4:31 |
 | 111 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 |
-| 112 | [Picture](https://open.spotify.com/track/23OpEAIXfU1V8IbLMOi7JL) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Manchild](https://open.spotify.com/album/0CcaHuVp8BowpADMsmkYxa) | 3:19 |
+| 112 | [Picture](https://open.spotify.com/track/0GPROFpPBqU5Si0xSGKLrU) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Manchild](https://open.spotify.com/album/21ZAH4W7oCQuiVM0xQteTd) | 3:19 |
 | 113 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
 | 114 | [moving on](https://open.spotify.com/track/44xHOEBqcefMFO6Cnsjz7U) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [moving on](https://open.spotify.com/album/6sFux66YdwMY3bHZPt3trR) | 2:30 |
 | 115 | [Sprinkle!](https://open.spotify.com/track/7cgc2ngCcuO0b5uRMYKnYl) | [Tasty Shop](https://open.spotify.com/artist/41KEtibG8IoDciLbVIlV6E) | [Sprinkle!](https://open.spotify.com/album/5RpNILltsSIwALCmFRLvmp) | 3:33 |

@@ -141,6 +141,32 @@
     },
     {
       "album": {
+        "name": "Badda (Sinais VIP)",
+        "url": "https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Onhell",
+          "url": "https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154858,
+      "name": "Badda - Sinais VIP",
+      "url": "https://open.spotify.com/track/2586qpfMle1fZxOkzffOjU"
+    },
+    {
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -700,7 +726,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k"
@@ -1416,7 +1442,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 160000,
       "name": "Know What It Means",
       "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
@@ -1552,6 +1578,32 @@
       "duration_ms": 134305,
       "name": "Loca",
       "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
+      "album": {
+        "name": "Lost It (Remixed)",
+        "url": "https://open.spotify.com/album/0rv3P4AUuSqXPsbAuedEqg"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        },
+        {
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        },
+        {
+          "name": "Medicine Place",
+          "url": "https://open.spotify.com/artist/5zKQqXKkTQAe5C9LqEQvNm"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "Lost It - Medicine Place Remix",
+      "url": "https://open.spotify.com/track/3y4Gf3Dp0HVzJnFYHhT8V0"
     },
     {
       "album": {

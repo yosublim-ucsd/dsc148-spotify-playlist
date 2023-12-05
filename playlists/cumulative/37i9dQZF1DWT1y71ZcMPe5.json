@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: aespa",
+  "description": "The hottest songs you need to listen to right now. Cover: Tyla",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -38,10 +38,32 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "album": {
+        "name": "3D (Justin Timberlake Remix)",
+        "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160942,
+      "name": "3D (Justin Timberlake Remix)",
+      "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
     },
     {
       "album": {
@@ -136,6 +158,24 @@
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "album": {
@@ -3297,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -3432,7 +3490,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
@@ -3748,7 +3806,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -4228,7 +4286,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -4460,10 +4518,32 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "album": {
+        "name": "Standing Next to You (Usher Remix)",
+        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Standing Next to You (Usher Remix)",
+      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
     },
     {
       "album": {
@@ -5029,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI"
       },
@@ -5080,7 +5178,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
@@ -5584,6 +5682,24 @@
       "duration_ms": 148920,
       "name": "You Only Love Me",
       "url": "https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2"
+    },
+    {
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "album": {

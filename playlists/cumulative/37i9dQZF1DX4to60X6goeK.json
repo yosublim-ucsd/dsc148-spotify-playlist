@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
@@ -3000,6 +3000,24 @@
       "duration_ms": 181028,
       "name": "Thrill Seekers - Serum Remix",
       "url": "https://open.spotify.com/track/1SMnizgMVh1AYGKsWS29Vf"
+    },
+    {
+      "album": {
+        "name": "Too Lazy",
+        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Too Lazy",
+      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
     },
     {
       "album": {

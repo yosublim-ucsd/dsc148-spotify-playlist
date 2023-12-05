@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > para andar en modo k\-poper alucín 🫰🏼🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,772 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,840 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 | 30 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 |
 | 31 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 | 32 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 |
-| 33 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 |
+| 33 | [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 |
 | 34 | [Ch y la Pizza](https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:16 |
 | 35 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 36 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 | 74 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 |
 | 75 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 
-Snapshot ID: `MCxkODg3ZjZlZDUyNDNhNzkwZjg5NjIxYWM2ZTE4NjMwMThhYmMyZmE5`
+Snapshot ID: `MCw2NmM2NDIxYmUzYjk1MmRhNTBmMzYzYTljY2JjNWQ3MThkMmZmMzFm`

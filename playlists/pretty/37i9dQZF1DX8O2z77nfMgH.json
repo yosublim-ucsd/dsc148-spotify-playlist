@@ -1,28 +1,32 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Foto: Gabito Ballesteros",
-  "num_followers": 930848,
+  "num_followers": 930865,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzk1MzZlYjllYTQ4MDk3NzU1OTc2ZGI4MDRlNjUzMTA1ZDg1YTM3",
+  "snapshot_id": "MCwxY2Y0NzU5ODk0OTU1MWZmYTc3Zjg3YzhjNWY1MzU3NzA0OWZjMmE0",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+      "duration_ms": 191588,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -43,46 +47,6 @@
       "duration_ms": 121920,
       "name": "LA VUELTA",
       "url": "https://open.spotify.com/track/01W6syCgxisKd0gDqFRdEG"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "1 1 1",
-        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 153153,
-      "name": "TE FUI A SEGUIR",
-      "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 191588,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -147,18 +111,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lo Que Queda de M\u00ed",
-        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
       },
       "artists": [
         {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 230867,
-      "name": "Lo Que Queda de M\u00ed",
-      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -183,22 +147,38 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0FmvrNa2Pvt0EyjWyACICu"
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
       },
       "artists": [
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         },
         {
-          "name": "Reelian",
-          "url": "https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 168215,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/6jdLwmDuP0B5is9B0wCrYT"
+      "duration_ms": 153153,
+      "name": "TE FUI A SEGUIR",
+      "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Lo Que Queda de M\u00ed",
+        "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 230867,
+      "name": "Lo Que Queda de M\u00ed",
+      "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -219,6 +199,58 @@
       "duration_ms": 188467,
       "name": "Los Sabanales 3.0",
       "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0FmvrNa2Pvt0EyjWyACICu"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Reelian",
+          "url": "https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw"
+        }
+      ],
+      "duration_ms": 168215,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/6jdLwmDuP0B5is9B0wCrYT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Bailar Contigo",
+        "url": "https://open.spotify.com/album/5Clbwwxo1hFCnXzXnKEdF3"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "duration_ms": 187155,
+      "name": "Bailar Contigo",
+      "url": "https://open.spotify.com/track/5QL7rMvrs1gY77gmvoHNp8"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -290,47 +322,15 @@
         {
           "name": "Norick",
           "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        },
+        {
+          "name": "Cayro Music",
+          "url": "https://open.spotify.com/artist/0oLSGoCin3HiQSbBdnFyZ9"
         }
       ],
       "duration_ms": 527000,
       "name": "Bendecidos",
       "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Paqueteo",
-        "url": "https://open.spotify.com/album/36bwmKJnMWp4cJGi5nQM6E"
-      },
-      "artists": [
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        },
-        {
-          "name": "Potencia Lirical",
-          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
-        }
-      ],
-      "duration_ms": 157948,
-      "name": "Paqueteo",
-      "url": "https://open.spotify.com/track/5mOqIkA9Y08fqPUSvOUq4h"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Ukiyo",
-        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "Ukiyo",
-      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "VICE CITY",
-        "url": "https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM"
-      },
-      "artists": [
-        {
-          "name": "Crazy Point",
-          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
-        }
-      ],
-      "duration_ms": 208968,
-      "name": "VICE CITY",
-      "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "A Todos Los Rumberos",
         "url": "https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI"
       },
@@ -423,6 +407,26 @@
       "duration_ms": 269653,
       "name": "A Todos Los Rumberos",
       "url": "https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Paqueteo",
+        "url": "https://open.spotify.com/album/36bwmKJnMWp4cJGi5nQM6E"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        }
+      ],
+      "duration_ms": 157948,
+      "name": "Paqueteo",
+      "url": "https://open.spotify.com/track/5mOqIkA9Y08fqPUSvOUq4h"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -531,6 +535,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "VICE CITY",
+        "url": "https://open.spotify.com/album/6viR5WVsPcynrX5HzbMnCM"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "duration_ms": 208968,
+      "name": "VICE CITY",
+      "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Mafia Chilena",
         "url": "https://open.spotify.com/album/24XYnzLNNmWOhyVoLLmjJk"
       },
@@ -615,22 +635,6 @@
       "duration_ms": 180320,
       "name": "Cuando Hablo De Ti",
       "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Bailar Contigo",
-        "url": "https://open.spotify.com/album/5Clbwwxo1hFCnXzXnKEdF3"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 187155,
-      "name": "Bailar Contigo",
-      "url": "https://open.spotify.com/track/5QL7rMvrs1gY77gmvoHNp8"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -907,22 +911,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Borracha en un Ba\u00f1o Ajeno",
-        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Borracha en un Ba\u00f1o Ajeno",
-      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "FUGITIVOS",
         "url": "https://open.spotify.com/album/0mzw7WShOLxzZFOOJbKv8p"
       },
@@ -1099,6 +1087,22 @@
       "duration_ms": 143051,
       "name": "Voltei Pra Cachorrada",
       "url": "https://open.spotify.com/track/2gF0DUT64JEFjqb0PJXj1M"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Borracha en un Ba\u00f1o Ajeno",
+        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Borracha en un Ba\u00f1o Ajeno",
+      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     }
   ],
   "unique_name": "Novedades Viernes Latinoam\u00e9rica",

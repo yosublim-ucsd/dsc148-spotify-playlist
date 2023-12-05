@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > Best Gacha Pop Songs in 2023! 2023年のGacha Pop総まとめ！今年Gacha Popで再生された楽曲ベスト100! \#Spotifyまとめ cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,114 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,596 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

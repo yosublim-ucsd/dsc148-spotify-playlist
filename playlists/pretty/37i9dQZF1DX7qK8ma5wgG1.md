@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > Songs for a broken heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,767,178 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,767,528 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 | 79 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 |
 | 80 | [The Pretender](https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:40 |
 
-Snapshot ID: `MCxmYzg5Njk1NTI4MmJkMWQ1Yjk1OGMwYzdiZTIyYTRjOGZlYTU0OTNm`
+Snapshot ID: `MCw0YzBkMzI5NDg3ZWRlYjhhYjZkZWY4ODIyZjAxZGU3OWNkMjg5ZmIz`

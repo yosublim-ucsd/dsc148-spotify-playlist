@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 51688,
+  "num_followers": 51715,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTI3ZjU1NzEzNDliNjQ0MmViNTJjNTQwYTgwMDI5ODM1M2RkYzM4",
+  "snapshot_id": "MCw0NmJmYjI4YTkwN2I0MTdhMDY4YmQ0ZWQ4MTZkM2ZlMTg4MjIyMDg1",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 351640,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "5AM (Expanded Edition)",
         "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 289306,
       "name": "Gooey",
       "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 351640,
-      "name": "Brooklyn Baby",
-      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Ultraviolence",
+      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Chinese New Year",
         "url": "https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi"
       },
@@ -347,38 +363,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Ultraviolence",
-      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 198026,
       "name": "Like Real People Do",
       "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -427,18 +395,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 230773,
-      "name": "Cold Cold Man",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
+      "duration_ms": 236887,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -459,6 +427,38 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Cold Cold Man",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -471,6 +471,38 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -519,38 +551,6 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting on You)",
       "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
-      "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Built on Glass",
         "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 285255,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Built on Glass",
-        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 218067,
-      "name": "Talk Is Cheap",
-      "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Built on Glass",
+        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 218067,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -955,6 +955,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -983,38 +999,6 @@
       "duration_ms": 223879,
       "name": "Cecilia And The Satellite",
       "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "They Want My Soul",
         "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "She Treats Me Well",
-      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 181772,
       "name": "Busy Earnin'",
       "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "She Treats Me Well",
+      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Lazaretto",
-        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Lazaretto",
-      "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 281017,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Lazaretto",
+        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Lazaretto",
+      "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Hazey",
-      "url": "https://open.spotify.com/track/0Zg4tjgfqw9qzq7lXX2sUM"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 236400,
       "name": "Can't Do Without You",
       "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Hazey",
+      "url": "https://open.spotify.com/track/0Zg4tjgfqw9qzq7lXX2sUM"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 247547,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 242346,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 247547,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha"
     },
     {
       "added_at": "2021-09-03 05:42:37",

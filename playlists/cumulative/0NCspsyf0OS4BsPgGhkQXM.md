@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-961 songs - 2 day 2 hr 41 min
+964 songs - 2 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Euphoria](https://open.spotify.com/track/3fe0FJGCS3o1WzGikqM3Sn) | [Paapi Muzik](https://open.spotify.com/artist/2eAml1qDYCL6t4AoboTe3V), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 2:41 | 2022-11-18 | 2023-02-22 |
 | [Everything](https://open.spotify.com/track/1zTFhJgWMORxvvRyTywWqX) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 2:24 | 2022-08-12 | 2022-11-24 |
 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 | 2022-11-22 |  |
+| [Evil](https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q) | [Doov](https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm) | [Evil](https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0) | 2:38 | 2023-12-04 |  |
 | [Evil](https://open.spotify.com/track/6ODjwSXqy2rrljJWP0sJbs) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Evil](https://open.spotify.com/album/7ja5VOp4tMclsXAxiPsJgx) | 2:46 | 2023-09-01 | 2023-10-14 |
 | [Exile](https://open.spotify.com/track/2NfjNJKcjKb1jEeEcafzak) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 2:45 | 2022-01-14 | 2022-06-04 |
 | [Exile \- Something Remix](https://open.spotify.com/track/6pk6PdIHUP1h3MiDhezJ17) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Sømething](https://open.spotify.com/artist/4w08hE0AqL4sPFCUj5E3gx) | [Paradise Lost Remixes](https://open.spotify.com/album/3OZF1ZyEM6zpD4MFTeKOMg) | 3:43 | 2022-04-18 | 2022-07-02 |
@@ -396,6 +397,7 @@
 | [I can't stop](https://open.spotify.com/track/02xP8YKQjC9EOti0sC87Nl) | [Hiboky](https://open.spotify.com/artist/4XmN4QdtGS3wBL5Erq7RWu) | [I can't stop](https://open.spotify.com/album/2JLidK5LE0nbC7XYJAIo1T) | 3:10 | 2022-05-04 | 2022-07-29 |
 | [I Feel It](https://open.spotify.com/track/6TwqoMt1hWWBZ06YNqQU3n) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 2:46 | 2022-08-12 | 2023-07-29 |
 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 | 2023-05-02 |  |
+| [I Have Places in High Friends](https://open.spotify.com/track/1JngLy3zkKvhAcsM5ePodZ) | [Adam After Hours](https://open.spotify.com/artist/7k6KHl0kzO32bN1AUSeY8k) | [I Have Places in High Friends](https://open.spotify.com/album/3fqWnHKfXSh1TyYaC527Zh) | 5:04 | 2023-12-04 |  |
 | [I Just Feel \(Alone In My Dreams\)](https://open.spotify.com/track/2ZSADZMl8BAFKQJq402nOD) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Alone In My Dreams](https://open.spotify.com/album/6NxLWoS0GRoeZNZiMfOKsg) | 2:56 | 2023-04-08 | 2023-09-09 |
 | [I Just Know](https://open.spotify.com/track/629DT7dLiE29vfpiNs4OC2) | [SlYder](https://open.spotify.com/artist/6OsWmFTDIjwvZbXTC5J6HD), [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [I Just Know](https://open.spotify.com/album/7d2s6JLDuOGzIvrbpaJdpS) | 3:13 | 2022-09-02 | 2022-10-08 |
 | [I Know](https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Know](https://open.spotify.com/album/20U0SiZh9ofVxSOlvPVLBV) | 3:44 | 2022-04-01 | 2022-09-15 |
@@ -780,6 +782,7 @@
 | [Spooky Scary Skeletons](https://open.spotify.com/track/6O4JigLzateJbqb8G3VVTR) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB) | [Spooky Scary Skeletons](https://open.spotify.com/album/3b6QpfGiY6s31Y7jTmnJ8J) | 2:20 | 2022-10-28 | 2023-01-14 |
 | [Stampede](https://open.spotify.com/track/0QjVOn2O9lTDDseljMKMK5) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Stampede](https://open.spotify.com/album/5pX3la4oPIp1liaVcxDCIf) | 2:03 | 2022-10-22 | 2023-07-29 |
 | [STAR MVCHINE](https://open.spotify.com/track/3VnxAsE1mWebpGJleOOGTj) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [STAR MVCHINE](https://open.spotify.com/album/1W8zCkfo1d2Wf5wVTY2yuT) | 3:57 | 2023-09-28 |  |
+| [Stardust](https://open.spotify.com/track/5mToqBm5bPq6UbDT7wYuM3) | [ALEKO](https://open.spotify.com/artist/6R5tjaHxFn7AcmWohxDP6X) | [Stardust](https://open.spotify.com/album/2nSrsvtqiehmjkgZmU01KV) | 3:26 | 2023-12-04 |  |
 | [Start A Fire](https://open.spotify.com/track/3KFhOg2pjYHc0mOaFqsmCW) | [Adro](https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN), [24Bit](https://open.spotify.com/artist/5BrzPCYkpTrKzXN2tQuvau), [Gaming Playlist](https://open.spotify.com/artist/23Mfhfnb8nWudPtyzEO6F4) | [Start A Fire](https://open.spotify.com/album/3TVQNtBHT21LU5SYTMdmml) | 3:16 | 2022-01-31 | 2022-03-05 |
 | [Start A Riot](https://open.spotify.com/track/0GnSekAxuJfUCcbeh9ki3e) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Start A Riot](https://open.spotify.com/album/3xjvyhPVuPTKtudmFWSRws) | 2:44 | 2022-03-18 | 2022-04-19 |
 | [Start A Riot](https://open.spotify.com/track/49bOS8k7cx7JBu3TjrWU1w) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:44 | 2022-05-06 | 2022-06-04 |

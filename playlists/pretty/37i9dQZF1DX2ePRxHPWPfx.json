@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 2712,
+  "num_followers": 2778,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGMwODc1ZTMzYzBmNTFiZDY2MDViMDhhOTM0NzhhYzUwODY3Y2Mx",
+  "snapshot_id": "MCw2NjdjYzk4Y2YyOGJhYWViZGQ4ZTY2NTJlN2M3YmM0NjkwOTNlZGEx",
   "tracks": [
     {
       "added_at": "2023-11-22 17:10:02",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
         "name": "Feliz navidad",
         "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 197720,
-      "name": "5:24",
-      "url": "https://open.spotify.com/track/1ZymB4keoWbIgKYZ0RaO9b"
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 223231,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
+      "duration_ms": 197720,
+      "name": "5:24",
+      "url": "https://open.spotify.com/track/1ZymB4keoWbIgKYZ0RaO9b"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -315,6 +299,22 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 178427,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
         "name": "I Need You Christmas",
         "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 206066,
       "name": "I Need You Christmas",
       "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -351,24 +367,8 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 178427,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
       "artists": [
         {
@@ -376,9 +376,25 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
+      "duration_ms": 255586,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 207545,
+      "name": "Medialuna",
+      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -419,22 +435,6 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 207545,
-      "name": "Medialuna",
-      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 206351,
       "name": "de mi pa ti",
       "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
-        "name": "los mejores a\u00f1os",
-        "url": "https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Blanco y Negro",
-      "url": "https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
         "name": "We're The Lucky Ones",
         "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 215933,
       "name": "We're the Lucky Ones",
       "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
+        "name": "los mejores a\u00f1os",
+        "url": "https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
+        "name": "Todos A Belen",
+        "url": "https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ"
+      },
+      "artists": [
+        {
+          "name": "Voz Veis",
+          "url": "https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw"
+        },
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Ven A Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
         "name": "Los mismos",
         "url": "https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
-        "name": "Todos A Belen",
-        "url": "https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ"
-      },
-      "artists": [
-        {
-          "name": "Voz Veis",
-          "url": "https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw"
-        },
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Ven A Mi Casa Esta Navidad",
-      "url": "https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg"
     },
     {
       "added_at": "2023-11-22 17:10:02",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-11-22 17:10:02",
       "album": {
+        "name": "Noche De Paz",
+        "url": "https://open.spotify.com/album/2kyvfy3mtO5wR6o5P3ccx5"
+      },
+      "artists": [
+        {
+          "name": "Dylan Suarez",
+          "url": "https://open.spotify.com/artist/1MgheGbvBpOtOTin9SVocs"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Noche De Paz",
+      "url": "https://open.spotify.com/track/3XAQFFGDftEG4PXwfusXkX"
+    },
+    {
+      "added_at": "2023-11-22 17:10:02",
+      "album": {
         "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 231604,
       "name": "Un ratito m\u00e1s",
       "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
-    },
-    {
-      "added_at": "2023-11-22 17:10:02",
-      "album": {
-        "name": "Noche De Paz",
-        "url": "https://open.spotify.com/album/2kyvfy3mtO5wR6o5P3ccx5"
-      },
-      "artists": [
-        {
-          "name": "Dylan Suarez",
-          "url": "https://open.spotify.com/artist/1MgheGbvBpOtOTin9SVocs"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Noche De Paz",
-      "url": "https://open.spotify.com/track/3XAQFFGDftEG4PXwfusXkX"
     }
   ],
   "unique_name": "cozied up",

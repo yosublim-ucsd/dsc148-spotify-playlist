@@ -1552,7 +1552,7 @@
     {
       "album": {
         "name": "In the mountains",
-        "url": "https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0"
+        "url": "https://open.spotify.com/album/1uejx5trxVgGx7HQulfDND"
       },
       "artists": [
         {
@@ -1567,6 +1567,28 @@
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 109090,
+      "name": "In the mountains",
+      "url": "https://open.spotify.com/track/40yeoePtbySoqCSRHgPPpR"
+    },
+    {
+      "album": {
+        "name": "In the mountains",
+        "url": "https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0"
+      },
+      "artists": [
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "zetuv",
+          "url": "https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-05",
       "duration_ms": 109090,
       "name": "In the mountains",
       "url": "https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr"

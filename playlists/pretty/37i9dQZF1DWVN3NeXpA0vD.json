@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26342,
+  "num_followers": 26341,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTg0N2RiMmVkZDMyMTk4MjlmMDJmYzA3N2RkMDcxMjk0ODMxOTg3",
+  "snapshot_id": "MCwyMmM1NWFjNmQzMjJmOGE2NjcyNmEwMzdkZmIzYmQ0OTk1YTA0MzEy",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 219373,
       "name": "Capital Letters",
       "url": "https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        }
+      ],
+      "duration_ms": 153391,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 213842,
+      "name": "Wave of You",
+      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Love To Go",
         "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
       },
@@ -1035,18 +1051,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 213842,
-      "name": "Wave of You",
-      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1127,26 +1147,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8"
       },
@@ -1203,6 +1203,30 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1283,6 +1307,30 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Like It Is",
+        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 183067,
+      "name": "Like It Is",
+      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -1303,30 +1351,6 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1419,30 +1443,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Like It Is",
-        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 183067,
-      "name": "Like It Is",
-      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Heartbreak Weather",
         "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
@@ -1503,34 +1503,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "All Day And Night (Jax Jones & Martin Solveig Present Europa)",
-        "url": "https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        },
-        {
-          "name": "Europa",
-          "url": "https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC"
-        }
-      ],
-      "duration_ms": 169303,
-      "name": "All Day And Night",
-      "url": "https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -1567,6 +1539,34 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "All Day And Night (Jax Jones & Martin Solveig Present Europa)",
+        "url": "https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        },
+        {
+          "name": "Europa",
+          "url": "https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC"
+        }
+      ],
+      "duration_ms": 169303,
+      "name": "All Day And Night",
+      "url": "https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 201072,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 201072,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
     },
     {
       "added_at": "2023-03-10 17:59:10",

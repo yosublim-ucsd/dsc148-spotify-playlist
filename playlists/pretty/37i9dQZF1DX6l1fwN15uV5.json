@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1292095,
+  "num_followers": 1292200,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjlhYmU5OTg1NWY2NjVkZDRkY2Y3NTM3NDcxZGNiNGRiMTViZmIz",
+  "snapshot_id": "MCwzNjQ4MmEyZDNmMDYyNGFmMmYyNGE3NjJlMTM5NjA5ZmU4MTBhMzQz",
   "tracks": [
     {
       "added_at": "2023-10-17 16:11:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-17 16:11:17",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
-    },
-    {
-      "added_at": "2023-10-17 16:11:17",
-      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 267266,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
+    },
+    {
+      "added_at": "2023-10-17 16:11:17",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "added_at": "2023-10-17 16:11:17",
@@ -763,38 +763,6 @@
     {
       "added_at": "2023-10-17 16:11:17",
       "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
-      },
-      "artists": [
-        {
-          "name": "John Waite",
-          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
-    },
-    {
-      "added_at": "2023-10-17 16:11:17",
-      "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
-    },
-    {
-      "added_at": "2023-10-17 16:11:17",
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
       },
@@ -811,6 +779,22 @@
     {
       "added_at": "2023-10-17 16:11:17",
       "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
+      },
+      "artists": [
+        {
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2023-10-17 16:11:17",
+      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 255840,
       "name": "Buffalo Soldier",
       "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+    },
+    {
+      "added_at": "2023-10-17 16:11:17",
+      "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
     },
     {
       "added_at": "2023-10-17 16:11:17",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-10-17 16:11:17",
       "album": {
-        "name": "True - The Digital E.P.",
-        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "True - Single Edit",
-      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
-    },
-    {
-      "added_at": "2023-10-17 16:11:17",
-      "album": {
         "name": "Chicago 16 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 304213,
       "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
       "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
+    },
+    {
+      "added_at": "2023-10-17 16:11:17",
+      "album": {
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2023-10-17 16:11:17",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-10-17 16:11:17",
       "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Your Love Is King",
+      "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
+    },
+    {
+      "added_at": "2023-10-17 16:11:17",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 232906,
       "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
-    },
-    {
-      "added_at": "2023-10-17 16:11:17",
-      "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Your Love Is King",
-      "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
     },
     {
       "added_at": "2023-10-17 16:11:17",

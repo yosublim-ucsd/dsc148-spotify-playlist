@@ -7075,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155011,
+      "name": "UNA EN UN MILL\u00d3N",
+      "url": "https://open.spotify.com/track/079PNozlWg5TqAyBSoUBcu"
+    },
+    {
+      "album": {
         "name": "Una en un Mill\u00f3n",
         "url": "https://open.spotify.com/album/3JebjueoTKNGxKZhfoTVHj"
       },
@@ -7086,7 +7104,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 155011,
       "name": "Una en un Mill\u00f3n",
       "url": "https://open.spotify.com/track/5FWeCb2GK2vGopDenX0dVh"

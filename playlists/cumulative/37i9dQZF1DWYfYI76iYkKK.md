@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-366 songs - 1 day 0 hr 6 min
+367 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 |  |
 | [一種說法\(Acoustic Ver.\) \[《模仿犯》插曲\]](https://open.spotify.com/track/30UaTs7vrVAyMOsstUO00T) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [模仿犯 主題歌曲原聲帶](https://open.spotify.com/album/6HwTDKJtSSb2kcZEo2FgIZ) | 3:31 | 2023-03-30 | 2023-04-14 |
-| [一路以來\(電影《富都青年》主題曲\)](https://open.spotify.com/track/03igeRXC7dF2lA5yAA8h9U) | [RYOTA 片山凉太](https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y) | [一路以來\(電影《富都青年》主題曲\)](https://open.spotify.com/album/2nLLAf8AjxzireSZH3NDWr) | 3:56 | 2023-11-30 |  |
+| [一路以來 \(電影《富都青年》主題曲\)](https://open.spotify.com/track/45CxeowEQRWCJsK7FKo45L) | [RYOTA 片山凉太](https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y) | [一路以來 \(電影《富都青年》主題曲\)](https://open.spotify.com/album/3bEr9BUeLk15CynVKvOsPt) | 3:56 | 2023-12-04 |  |
+| [一路以來\(電影《富都青年》主題曲\)](https://open.spotify.com/track/03igeRXC7dF2lA5yAA8h9U) | [RYOTA 片山凉太](https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y) | [一路以來\(電影《富都青年》主題曲\)](https://open.spotify.com/album/2nLLAf8AjxzireSZH3NDWr) | 3:56 | 2023-11-30 | 2023-12-05 |
 | [不召之臣 Unrequited Love](https://open.spotify.com/track/1GED9FDaUzIHsBDwy8lzqy) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [白夜克拉克 White Night](https://open.spotify.com/album/32tEDVwzoLJEweaERQhrQd) | 4:55 | 2023-06-22 | 2023-07-11 |
 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 | 2023-10-19 |  |
 | [不想愛人的原因](https://open.spotify.com/track/77w7VXa6AFbfB3cjL37D1C) | [集夢所Dreamoresoul](https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj) | [不想愛人的原因](https://open.spotify.com/album/5vytIZJ4l6doUFJ7V2irfM) | 3:57 | 2023-09-07 | 2023-09-22 |

@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: City and Colour",
-  "num_followers": 64729,
+  "num_followers": 64773,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2FmNTZhNjdjNTM1OWM3N2M5MjRjMGNiMTYwNWMzNTUxODk2YWQy",
+  "snapshot_id": "MCwwMThjNWNkNGY3OWVmZDU3MTliM2RkZTZkZDMzY2JhOGY4NmQ1YmU0",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Dark Necessities",
-      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -367,6 +351,38 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Dark Necessities",
+      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 187653,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 187133,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 170858,
       "name": "Bang!",
       "url": "https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "EDGING",
-        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "EDGING",
-      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 274281,
       "name": "The Way You Used To Do",
       "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "What If Nothing",
-        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 261372,
-      "name": "One Foot",
-      "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Boom Boom Room (Side A)",
         "url": "https://open.spotify.com/album/7BVwY2MSyuSq0DctezzVXr"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 244586,
       "name": "Mr. Doctor Man",
       "url": "https://open.spotify.com/track/0vI2m662QiemSccfCoN9gR"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "What If Nothing",
+        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 261372,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+        "name": "Battle Born",
+        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
       },
       "artists": [
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 215693,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
+      "duration_ms": 243786,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Battle Born",
-        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 243786,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
+      "duration_ms": 215693,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     }
   ],
   "unique_name": "Rock Favourites",

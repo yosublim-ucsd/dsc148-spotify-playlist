@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 200654,
+  "num_followers": 200671,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI0NjhlMDA2ZTg2ZGY1ZmFmMzZhODIyN2Q2OGU3OWEwODkzM2E4",
+  "snapshot_id": "MCw3OGQzY2MxZmU4YjRkMTRjZjgwMDA5MzY3MWQwYWQwODc5Y2VlZmFh",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "H A R D L O V E",
-        "url": "https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "LET'S STAY HOME TONIGHT",
-      "url": "https://open.spotify.com/track/1kiylxwnw8R8rJoCDtubWM"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "This Moment (Cinderella Edition)",
         "url": "https://open.spotify.com/album/7HAomGpaAjuPCEbuMevOlP"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "H A R D L O V E",
+        "url": "https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "LET'S STAY HOME TONIGHT",
+      "url": "https://open.spotify.com/track/1kiylxwnw8R8rJoCDtubWM"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 244320,
-      "name": "Hold Her",
-      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "NF",
         "url": "https://open.spotify.com/album/2cMXPk9NsWWnawWxa3SSUf"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 214600,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 244320,
+      "name": "Hold Her",
+      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Bless The Broken Road (The Duets Album)",
+        "url": "https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        },
+        {
+          "name": "Melodie Crittenden",
+          "url": "https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Bless The Broken Road",
+      "url": "https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Burn The Ships",
         "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 323946,
       "name": "Pioneers",
       "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Bless The Broken Road (The Duets Album)",
-        "url": "https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        },
-        {
-          "name": "Melodie Crittenden",
-          "url": "https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Bless The Broken Road",
-      "url": "https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Gave You My Heart",
-        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Gave You My Heart",
-      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "What We Want, What We Get",
         "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 228960,
       "name": "God Gave Me You",
       "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Gave You My Heart",
+        "url": "https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Gave You My Heart",
+      "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Meant to Be",
-        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Meant to Be",
-      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Come To The Well",
-        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Me Like I Am",
         "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 184103,
       "name": "Love Me Like I Am",
       "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -815,6 +799,22 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 224013,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Every Falling Tear",
-        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 246461,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 226053,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Every Falling Tear",
+        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 246461,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Going Together",
-      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Going Together",
+      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 211786,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Feel The Waters",
-      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 201829,
       "name": "Perfect Love",
       "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Feel The Waters",
+      "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
       },
@@ -1667,22 +1667,6 @@
       "duration_ms": 224000,
       "name": "SHE",
       "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Who Knew It Would Be So Hard to Be Myself",
-        "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 230808,
-      "name": "Big Ole Love",
-      "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1703,18 +1687,34 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+        "name": "Who Knew It Would Be So Hard to Be Myself",
+        "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
       },
       "artists": [
         {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
         }
       ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+      "duration_ms": 230808,
+      "name": "Big Ole Love",
+      "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "I'm in Love With You",
+      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
     }
   ],
   "unique_name": "Higher Love",

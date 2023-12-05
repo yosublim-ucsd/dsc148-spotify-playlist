@@ -8004,7 +8004,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
@@ -11834,7 +11834,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -14328,7 +14328,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
@@ -14386,6 +14386,24 @@
       "duration_ms": 237098,
       "name": "Las p1stolas las quiero arriba",
       "url": "https://open.spotify.com/track/0HaHa7eEGIFEKBDlXhP9QO"
+    },
+    {
+      "album": {
+        "name": "LAS QUE NO TIENEN PAP\u00c1",
+        "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "LAS QUE NO TIENEN PAP\u00c1",
+      "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
     },
     {
       "album": {
@@ -15894,7 +15912,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -19774,7 +19792,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 140461,
       "name": "Oah Oah",
       "url": "https://open.spotify.com/track/3RjfJ510iifdsQs06QAELV"

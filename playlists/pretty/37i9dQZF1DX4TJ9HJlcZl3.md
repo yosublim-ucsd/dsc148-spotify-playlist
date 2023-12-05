@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,816 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,829 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 8 | [Fool](https://open.spotify.com/track/4loDVfneBX3ezG86mwToP0) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 |
 | 9 | [Surrender](https://open.spotify.com/track/2lbfgYWkeW7rQRYlixgkAZ) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Surrender](https://open.spotify.com/album/2RknVcT1UWgRzNEJyRpLPn) | 4:38 |
 | 10 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
-| 11 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 |
+| 11 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/6ywx4XD9UL3FrllzCjaU0T) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La \(Deluxe Version\)](https://open.spotify.com/album/4CYFJzamIcEG44GjBceFp9) | 5:57 |
 | 12 | [Le Parapluie](https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Le Parapluie](https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR) | 4:07 |
 | 13 | [Just My Type](https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7) | [Swoodeasu](https://open.spotify.com/artist/187GxxpJNas11L79Z6SAvD), [TSUYO](https://open.spotify.com/artist/5AVe36Y90V3yjqeKtBvMCW) | [Just My Type](https://open.spotify.com/album/6c6w8VVedHHCiARs8hHV3W) | 3:20 |
 | 14 | [I Want You Back](https://open.spotify.com/track/4niMjTTcDJFOKxOzn9INQy) | [Bradley McCaw](https://open.spotify.com/artist/6WBjKhWSZmfAdHoeUIzaVR), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Louie Shelton](https://open.spotify.com/artist/2vJfIJtB4PLlIHICVf4V0N) | [I Want You Back](https://open.spotify.com/album/0CIe4u7zQdSYlZJjdRuf1q) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [I Wonder](https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p) | 4:11 |
 | 50 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 
-Snapshot ID: `MCxlOWY0ODI5ZGM0NmQ4YTU2MjAwNWNkOWJhNzE5Y2QyYWNkZDU4Zjgy`
+Snapshot ID: `MCwyOTM5OWMzMDFmYmI4ZjNjYmZjMGJkYWMyYmRmODE4YjhkNTFhZGQ4`

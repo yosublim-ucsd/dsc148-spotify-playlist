@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 940163,
+  "num_followers": 940226,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTNmYzhkYjkzNmIzMWVlYTljY2UwOTFiYTQ1OTcxNmE5Y2Y4MTFi",
+  "snapshot_id": "MCw5OWQ5Y2M3YzIwZDZjYjQzM2RkMjNkY2YwOGE3MGRhNjZhNzNiMjdk",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dance No More (with Kaleena Zanders)",
-        "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
+        "name": "dashstar*",
+        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
       },
       "artists": [
         {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 202657,
-      "name": "Dance No More (with Kaleena Zanders)",
-      "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
+      "duration_ms": 198095,
+      "name": "dashstar*",
+      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "dashstar*",
-        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
+        "name": "Dance No More (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
         }
       ],
-      "duration_ms": 198095,
-      "name": "dashstar*",
-      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
+      "duration_ms": 202657,
+      "name": "Dance No More (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 154838,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Lipstick (feat. Robbie Rise)",
         "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 226615,
       "name": "Lipstick (feat. Robbie Rise)",
       "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 184687,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 137204,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "No Piensa",
         "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
       },
@@ -1539,6 +1515,30 @@
       "duration_ms": 149268,
       "name": "No Piensa",
       "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 137204,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1927,22 +1927,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "D.I.S.C.O.",
-        "url": "https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP"
+        "name": "Are You Feeling This? / Stay Focused",
+        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
       },
       "artists": [
         {
-          "name": "twoloud",
-          "url": "https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2"
-        },
-        {
-          "name": "BERROW",
-          "url": "https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T"
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
         }
       ],
-      "duration_ms": 141040,
-      "name": "D.I.S.C.O.",
-      "url": "https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv"
+      "duration_ms": 166380,
+      "name": "Are You Feeling This?",
+      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
     }
   ],
   "unique_name": "Shuffle Syndrome",

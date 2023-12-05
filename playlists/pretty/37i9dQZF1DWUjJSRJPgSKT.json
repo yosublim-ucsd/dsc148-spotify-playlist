@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 22092,
+  "num_followers": 22177,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2I4YWVlYWJmZjc5OGJmYTFiYjM2NjM2MjlkNjQxZDIzNTliYjYy",
+  "snapshot_id": "MCxhYTM4OWQ4NjBhMThlYWFjNjJlNGY4ZTUxNDIyZGQwMTUzMGQxYmM1",
   "tracks": [
     {
       "added_at": "2023-11-23 14:03:48",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 388160,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 245400,
       "name": "Daahoud",
       "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 388160,
-      "name": "Matrix",
-      "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
+        "name": "Horace - Scope",
+        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 408346,
+      "name": "Nica's Dream - Remastered 2005",
+      "url": "https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
       },
@@ -331,34 +347,18 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "Horace - Scope",
-        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 408346,
-      "name": "Nica's Dream - Remastered 2005",
-      "url": "https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
-        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Au Privave",
-      "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
+      "duration_ms": 434240,
+      "name": "Locomotion - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/43qTHtzIXt8ehFgcncwglq"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -375,6 +375,22 @@
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
+        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Au Privave",
+      "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -411,22 +427,6 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
-        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Quintet",
-          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
-        }
-      ],
-      "duration_ms": 428373,
-      "name": "Salt Peanuts",
-      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
+        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Dizzy Gillespie Quintet",
+          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
         }
       ],
-      "duration_ms": 434240,
-      "name": "Locomotion - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/43qTHtzIXt8ehFgcncwglq"
+      "duration_ms": 428373,
+      "name": "Salt Peanuts",
+      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 266666,
       "name": "Airegin",
       "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 353826,
       "name": "Super Jet",
       "url": "https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
+        "name": "More Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        },
+        {
+          "name": "Daniel Moore",
+          "url": "https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Blues And The Abstract Truth",
+      "url": "https://open.spotify.com/track/0Nlj7A0uSf1uytsTIsEZJO"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
         "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
         "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
@@ -783,26 +803,6 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "More Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        },
-        {
-          "name": "Daniel Moore",
-          "url": "https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq"
-        }
-      ],
-      "duration_ms": 312266,
-      "name": "Blues And The Abstract Truth",
-      "url": "https://open.spotify.com/track/0Nlj7A0uSf1uytsTIsEZJO"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
         "name": "Nippon Soul",
         "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 830000,
-      "name": "Steps-What Was - Digitally Remastered",
-      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 370626,
       "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 830000,
+      "name": "Steps-What Was - Digitally Remastered",
+      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "The Cooker",
-        "url": "https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 436733,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
-    },
-    {
-      "added_at": "2023-11-23 14:03:48",
-      "album": {
         "name": "A Modern Symposium of Music and Poetry (Remastered 2013)",
         "url": "https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 208030,
       "name": "Slippers",
       "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
+    },
+    {
+      "added_at": "2023-11-23 14:03:48",
+      "album": {
+        "name": "The Cooker",
+        "url": "https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 436733,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
     },
     {
       "added_at": "2023-11-23 14:03:48",
@@ -1107,34 +1107,34 @@
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+        "name": "Mode For Joe (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 633826,
-      "name": "Roll Call - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI"
+      "duration_ms": 428200,
+      "name": "A Shade Of Jade - Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi"
     },
     {
       "added_at": "2023-11-23 14:03:48",
       "album": {
-        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 311193,
-      "name": "The Surrey With The Fringe On Top - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5"
+      "duration_ms": 328186,
+      "name": "Philly Mignon - Rudy Van Gelder 24-Bit Remastering/2006",
+      "url": "https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz"
     }
   ],
   "unique_name": "Upbeat Jazz",

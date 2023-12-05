@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of \"Diary of Alicia Keys\". Cover: Alicia Keys",
-  "num_followers": 4604617,
+  "num_followers": 4605199,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTVhZDJhOGNiYmViNjE0Y2M0NGQxMmMwZWRlZjJkZDY1NzRhMjgw",
+  "snapshot_id": "MCw1Y2NiNjdiMDhjODY0NjIxNGY5OWNhZGFlN2QyNThjNjY5MmM2M2Qy",
   "tracks": [
     {
       "added_at": "2023-12-03 16:39:22",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-14 14:32:45",
       "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
-    },
-    {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
         "name": "Cassie (U.S. Version)",
         "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
       },
@@ -167,22 +151,6 @@
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
-    },
-    {
-      "added_at": "2023-12-03 16:39:22",
-      "album": {
-        "name": "The Diary Of Alicia Keys 20",
-        "url": "https://open.spotify.com/album/52pl5ANwTRORPcPj6vlzA8"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 127893,
-      "name": "Feeling U, Feeling Me (Interlude)",
-      "url": "https://open.spotify.com/track/3p4eFsbOjOilgGDMJh9Frp"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -205,20 +173,20 @@
       "url": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
+      "added_at": "2023-12-03 16:39:22",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+        "name": "The Diary Of Alicia Keys 20",
+        "url": "https://open.spotify.com/album/52pl5ANwTRORPcPj6vlzA8"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+      "duration_ms": 127893,
+      "name": "Feeling U, Feeling Me (Interlude)",
+      "url": "https://open.spotify.com/track/3p4eFsbOjOilgGDMJh9Frp"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -248,9 +216,41 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 208106,
-      "name": "If It's Lovin' That You Want",
-      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "added_at": "2023-12-03 16:39:22",
@@ -269,20 +269,20 @@
       "url": "https://open.spotify.com/track/43AazWe8w3QxSFOeBOgM5F"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
         }
       ],
-      "duration_ms": 227386,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
+      "duration_ms": 220639,
+      "name": "Long Way 2 Go",
+      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 220639,
-      "name": "Long Way 2 Go",
-      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Let Me Love You",
@@ -351,6 +335,22 @@
       "duration_ms": 256733,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -649,6 +649,22 @@
       "url": "https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
       "added_at": "2023-06-20 16:00:00",
       "album": {
         "name": "Dangerously In Love",
@@ -667,22 +683,6 @@
       "duration_ms": 244826,
       "name": "Baby Boy (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Trey Day",
         "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
       },
@@ -769,20 +785,20 @@
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "Disturbing Tha Peace Presents Bobby Valentino",
+        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+      "duration_ms": 258665,
+      "name": "Slow Down - 12\" Version",
+      "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Disturbing Tha Peace Presents Bobby Valentino",
-        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
-      },
-      "artists": [
-        {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Slow Down - 12\" Version",
-      "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Bluestars",
         "url": "https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 257333,
       "name": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
       "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
-    },
-    {
       "added_at": "2022-08-21 20:37:58",
       "album": {
         "name": "FutureSex/LoveSounds Deluxe Edition",
@@ -1191,6 +1175,22 @@
       "duration_ms": 322093,
       "name": "Until The End Of Time (with Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 232880,
       "name": "Heaven Sent",
       "url": "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
     },
     {
       "added_at": "2022-08-21 11:22:08",

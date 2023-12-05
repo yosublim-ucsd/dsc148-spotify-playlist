@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/1FOn0VvwCxcGzUkjnrbSMP"
+      },
+      "artists": [
+        {
+          "name": "Axel Pacem",
+          "url": "https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143390,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q"
+    },
+    {
+      "album": {
         "name": "African Healing Dance Therapy - Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise",
         "url": "https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W"
       },
@@ -1930,6 +1948,24 @@
       "duration_ms": 214659,
       "name": "Time to Travel",
       "url": "https://open.spotify.com/track/1NqnBiNkkk3tdCErFQLty3"
+    },
+    {
+      "album": {
+        "name": "Total Control",
+        "url": "https://open.spotify.com/album/0dvDilmdlUm6FB9DqJMwOM"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177987,
+      "name": "Total Control",
+      "url": "https://open.spotify.com/track/0cpkNoiOYPwSLBkLYrSR2S"
     },
     {
       "album": {

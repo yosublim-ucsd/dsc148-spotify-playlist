@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1433746,
+  "num_followers": 1433989,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2EzZDg3N2U0Mjk4ZWI0MGY2MWE0Njk4M2IwOWU5MDhjYWI4YTE1",
+  "snapshot_id": "MCxmMTk1MGQwOTc2OTIwMGZjNDE0Mjk1MjA1MTBmOGE5Nzc5ZTM5NDFh",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Singled Out",
         "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Playing In The Shadows",
-        "url": "https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN"
-      },
-      "artists": [
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Changed the Way You Kiss Me - Radio Edit",
-      "url": "https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 224693,
       "name": "Harder, Better, Faster, Stronger",
       "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Playing In The Shadows",
+        "url": "https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN"
+      },
+      "artists": [
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Changed the Way You Kiss Me - Radio Edit",
+      "url": "https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/5zS1u2oihFYN3jXgKh5lAC"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 219618,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Let the Music Play",
-        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
-      },
-      "artists": [
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
-        }
-      ],
-      "duration_ms": 214379,
-      "name": "Let the Music Play",
-      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -591,6 +575,22 @@
       "duration_ms": 235000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Let the Music Play",
+        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+        }
+      ],
+      "duration_ms": 214379,
+      "name": "Let the Music Play",
+      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
       "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 392293,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Asher D",
-          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Ready Steady Go - Extended Mix",
-      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "ResuRection",
         "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 236521,
       "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
       "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Asher D",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Ready Steady Go - Extended Mix",
+      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
+        "name": "Believer (feat. Wynter Gordon)",
+        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
       },
       "artists": [
         {
-          "name": "Flanders",
-          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
         },
         {
-          "name": "Callea",
-          "url": "https://open.spotify.com/artist/0R997cLHnPhLmoUnPpXfPg"
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
         }
       ],
-      "duration_ms": 220238,
-      "name": "Behind - Callea Radio Mix",
-      "url": "https://open.spotify.com/track/58ma0p0GQqxfbe5vNFraUs"
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Believer (feat. Wynter Gordon)",
-        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
       },
       "artists": [
         {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+          "name": "Flanders",
+          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
         },
         {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+          "name": "Callea",
+          "url": "https://open.spotify.com/artist/0R997cLHnPhLmoUnPpXfPg"
         }
       ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
+      "duration_ms": 220238,
+      "name": "Behind - Callea Radio Mix",
+      "url": "https://open.spotify.com/track/58ma0p0GQqxfbe5vNFraUs"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Don't Stop!",
-        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
+        "name": "Just One Day",
+        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+          "name": "Kim Sozzi",
+          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
         }
       ],
-      "duration_ms": 163004,
-      "name": "Don't Stop! - X-Cabs Radio Edit",
-      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
+      "duration_ms": 200080,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just One Day",
-        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
+        "name": "Don't Stop!",
+        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
       },
       "artists": [
         {
-          "name": "Kim Sozzi",
-          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
+      "duration_ms": 163004,
+      "name": "Don't Stop! - X-Cabs Radio Edit",
+      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Only One (Radio Edit)",
+      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA"
       },
@@ -1859,22 +1875,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Only One (Radio Edit)",
-      "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Moby",
         "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
       },
@@ -1887,6 +1887,30 @@
       "duration_ms": 292160,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4x5Y9ORUjOQs5JZk2uJ9bN"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Everything (feat. Myah)",
+        "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
+      },
+      "artists": [
+        {
+          "name": "Ron Reeser",
+          "url": "https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY"
+        },
+        {
+          "name": "Dan Saenz",
+          "url": "https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8"
+        },
+        {
+          "name": "Myah",
+          "url": "https://open.spotify.com/artist/0zVkEWAv7FUL8YEBz3wlWt"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Everything (feat. Myah) - Radio Edit",
+      "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1919,26 +1943,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Everything (feat. Myah)",
-        "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
       },
       "artists": [
         {
-          "name": "Ron Reeser",
-          "url": "https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY"
-        },
-        {
-          "name": "Dan Saenz",
-          "url": "https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8"
-        },
-        {
-          "name": "Myah",
-          "url": "https://open.spotify.com/artist/0zVkEWAv7FUL8YEBz3wlWt"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 228986,
-      "name": "Everything (feat. Myah) - Radio Edit",
-      "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1979,22 +1995,6 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "I Found U",
+        "url": "https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Put 'Em Up",
         "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 208360,
       "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
       "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "I Found U",
-        "url": "https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "I Found U - Radio Edit",
-      "url": "https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV"
     },
     {
       "added_at": "2023-03-22 14:00:00",

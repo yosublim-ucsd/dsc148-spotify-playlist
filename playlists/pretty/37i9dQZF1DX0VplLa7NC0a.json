@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 33848,
+  "num_followers": 33856,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDMzMjdmNTY4Mzg4MjE0MWM3ODgxN2FiMDQ4MmE1MWUwN2NjZmU4",
+  "snapshot_id": "MCxhYmE3NDJlNDE5Y2Q0OGY2N2M0MzhiNzZlNDIzZmMxMjk4MWFmMDQw",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -431,30 +431,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Sonatas for Strings Nos. 4-6",
-        "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Hungarian Virtuosi",
-          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
-        },
-        {
-          "name": "Tam\u00e1s Benedek",
-          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
-        }
-      ],
-      "duration_ms": 335946,
-      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
-      "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
         "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 356106,
       "name": "La Cenerentola / Act 2: \"S\u00ec, ritrovarla io giuro\"",
       "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Sonatas for Strings Nos. 4-6",
+        "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "duration_ms": 335946,
+      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
+      "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -859,30 +859,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: String Sonatas Nos. 1- 3",
-        "url": "https://open.spotify.com/album/2QK2kTzIja5lXsgJSJkl3p"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Hungarian Virtuosi",
-          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
-        },
-        {
-          "name": "Tam\u00e1s Benedek",
-          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Sonata for Strings No. 2 in A Major: I. Allegro",
-      "url": "https://open.spotify.com/track/577x8UR0DjTe4YqYEMndHh"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Overtures; Introduction, Theme and Variations for Clarinet and Orchestra",
         "url": "https://open.spotify.com/album/4eicyHPyG6XCQyHCtTUjWE"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 239493,
       "name": "Introduction, Theme and Variations for Clarinet and Orchestra in E-Flat Major - Cadenza: Charles Neidich: Introduzione: Andante (sostenuto)",
       "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: String Sonatas Nos. 1- 3",
+        "url": "https://open.spotify.com/album/2QK2kTzIja5lXsgJSJkl3p"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Sonata for Strings No. 2 in A Major: I. Allegro",
+      "url": "https://open.spotify.com/track/577x8UR0DjTe4YqYEMndHh"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1103,6 +1103,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
+        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Enzo Dara",
+          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 366226,
+      "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
+      "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Semiramide",
         "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
       },
@@ -1183,34 +1211,6 @@
       "duration_ms": 230666,
       "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
       "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
-        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Enzo Dara",
-          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 366226,
-      "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
-      "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 356653,
+      "name": "Stabat Mater: III. Quis est homo (Duet)",
+      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Piano Music, Vol. 10",
         "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 146800,
       "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
       "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        }
-      ],
-      "duration_ms": 356653,
-      "name": "Stabat Mater: III. Quis est homo (Duet)",
-      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1756,9 +1756,9 @@
           "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
-      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
+      "duration_ms": 272173,
+      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
+      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
         }
       ],
-      "duration_ms": 272173,
-      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
-      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
+      "duration_ms": 240906,
+      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
+      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
     },
     {
       "added_at": "2022-06-28 08:38:32",

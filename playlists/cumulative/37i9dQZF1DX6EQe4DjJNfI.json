@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 173233,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB"
@@ -3162,6 +3162,32 @@
       "duration_ms": 150833,
       "name": "Sinal de Fuma\u00e7a",
       "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "album": {
+        "name": "Sinta-me (senta em mim)",
+        "url": "https://open.spotify.com/album/7nqC8eBOULlhZFSjx3YabB"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Sinta-me (senta em mim)",
+      "url": "https://open.spotify.com/track/4VfNLTHVzGnFVJi9aDblOm"
     },
     {
       "album": {

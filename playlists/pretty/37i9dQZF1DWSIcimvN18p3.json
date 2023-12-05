@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 281497,
+  "num_followers": 281521,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTU0NTk1ZWZhNjhkNmVmOTVlODRhMGVlOWM0M2U2MGQ0NWZhMWNj",
+  "snapshot_id": "MCw3MjRkZmMwNjAyZWI5N2Y5MjExNzAyMjBlNmNjZjBjOWY4NGJiOWNm",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Simple Syrup",
-        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Lucid Lucy",
-      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Rain On Sunday",
         "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 215093,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Simple Syrup",
+        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Lucid Lucy",
+      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Ear to the Ground",
-        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
-      },
-      "artists": [
-        {
-          "name": "Malvina Reynolds",
-          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Little Boxes",
-      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 180240,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ear to the Ground",
+        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
+      },
+      "artists": [
+        {
+          "name": "Malvina Reynolds",
+          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 260096,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/6GLuNBlMnNxwZYZi9cveFf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1347,6 +1347,22 @@
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Queen of the Minor Key",
         "url": "https://open.spotify.com/album/0zgwXcmqZV91rLsGgkwtuF"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "In the Magic Hour",
-        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 197466,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/1w9WCqGYdaEUMPs7BAvemm"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 231813,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/1w9WCqGYdaEUMPs7BAvemm"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Not Dark Yet",
         "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+        "name": "Odetta Sings Dylan",
+        "url": "https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
         }
       ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+      "duration_ms": 341293,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/0YYXg3u5ELZb2SjcD2YTFF"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Odetta Sings Dylan",
-        "url": "https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34"
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
       "artists": [
         {
-          "name": "Odetta",
-          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 341293,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/0YYXg3u5ELZb2SjcD2YTFF"
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/3IgFoFzOaVkdyfIgPs7h7h"
+      },
+      "artists": [
+        {
+          "name": "Kate Wolf",
+          "url": "https://open.spotify.com/artist/0WisBVzWAcOpZtdUf23TiC"
+        }
+      ],
+      "duration_ms": 259092,
+      "name": "Across the Great Divide",
+      "url": "https://open.spotify.com/track/1MHrK1oP9qM9dNE7m0A64M"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -2035,38 +2051,6 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/3IgFoFzOaVkdyfIgPs7h7h"
-      },
-      "artists": [
-        {
-          "name": "Kate Wolf",
-          "url": "https://open.spotify.com/artist/0WisBVzWAcOpZtdUf23TiC"
-        }
-      ],
-      "duration_ms": 259092,
-      "name": "Across the Great Divide",
-      "url": "https://open.spotify.com/track/1MHrK1oP9qM9dNE7m0A64M"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Capable",
-      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2099,6 +2083,22 @@
       "duration_ms": 268660,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/32Eae9D5LH16lMQfsFVUaO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Capable",
+      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Little May",
-        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Boardwalks",
-      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 272080,
       "name": "Wild Turkey",
       "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Little May",
+        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Boardwalks",
+      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
       },
       "artists": [
         {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+          "name": "The A's",
+          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
         }
       ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+      "duration_ms": 249173,
+      "name": "Swing and Turn Jubilee",
+      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2311,18 +2311,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
       },
       "artists": [
         {
-          "name": "The A's",
-          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
         }
       ],
-      "duration_ms": 249173,
-      "name": "Swing and Turn Jubilee",
-      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2339,22 +2339,6 @@
       "duration_ms": 198893,
       "name": "Deer Creek Canyon",
       "url": "https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Universal Soldier",
-      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2379,6 +2363,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 247320,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2531,18 +2531,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
       },
       "artists": [
         {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
         }
       ],
-      "duration_ms": 242581,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK"
+      "duration_ms": 228492,
+      "name": "A Thread to Find",
+      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
     }
   ],
   "unique_name": "Women of Folk",

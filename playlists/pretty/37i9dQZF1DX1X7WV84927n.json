@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 342159,
+  "num_followers": 342312,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJhZDcxOTM3ZjAxMWM4MmJlMGRlYjc1OWUzYWIxYjJkYjQwYzNj",
+  "snapshot_id": "MCxhMWI5Y2MyMGY5NWU4ZjAxYzEwNmIyMGY4NzJiMTlhYTQyMjliMzdk",
   "tracks": [
     {
       "added_at": "2023-11-10 05:06:42",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
       "artists": [
         {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 200495,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
+      "duration_ms": 228260,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
         }
       ],
-      "duration_ms": 197480,
-      "name": "Psycho In My Head",
-      "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
+      "duration_ms": 200495,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "TRUE POWER",
-        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 228260,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 211119,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
+      "duration_ms": 197480,
+      "name": "Psycho In My Head",
+      "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -539,6 +523,22 @@
       "duration_ms": 210559,
       "name": "Meat & Greet",
       "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Dance Devil Dance",
-        "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
-          "name": "Avatar",
-          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 244597,
-      "name": "The Dirt I'm Buried In",
-      "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -679,6 +663,22 @@
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Dance Devil Dance",
+        "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
+      },
+      "artists": [
+        {
+          "name": "Avatar",
+          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
+        }
+      ],
+      "duration_ms": 244597,
+      "name": "The Dirt I'm Buried In",
+      "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 219043,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5ZQSKzxwW86JEosVUWDoRm"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Too Good At Raising Hell",
-        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 229212,
-      "name": "Too Good At Raising Hell",
-      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Prepare For Despair",
         "url": "https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "GODMODE",
+        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 239147,
+      "name": "THE PURGE",
+      "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Gifts From The Holy Ghost",
         "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 161791,
       "name": "Fallin' With Me",
       "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "GODMODE",
-        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 239147,
-      "name": "THE PURGE",
-      "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Faded Out (feat. Within Temptation)",
         "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Somewhere Between the Power Lines and Palm Trees",
-        "url": "https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL"
-      },
-      "artists": [
-        {
-          "name": "Dogstar",
-          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Everything Turns Around",
-      "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 215733,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2rzoY8Gzj9iC0jPwPRQgZP"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Somewhere Between the Power Lines and Palm Trees",
+        "url": "https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Everything Turns Around",
+      "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
     },
     {
       "added_at": "2023-11-10 05:06:42",

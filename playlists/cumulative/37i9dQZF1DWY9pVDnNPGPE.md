@@ -4,7 +4,7 @@
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-52 songs - 2 hr 50 min
+53 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,12 +29,13 @@
 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-11-03 |  |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2023-11-03 |  |
 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 | 2023-11-03 |  |
-| [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2023-11-03 |  |
+| [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2023-11-03 | 2023-12-05 |
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2023-11-03 |  |
 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 | 2023-11-03 |  |
 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 | 2023-11-03 |  |
 | [I Know](https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf) | [Seunghui](https://open.spotify.com/artist/2pUvBa7S10ktiy75OIsxs3), [Jiho](https://open.spotify.com/artist/5k4usYTOytsTDumir9NDEb), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [START\-UP \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb) | 3:18 | 2023-11-03 |  |
 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 | 2023-11-03 |  |
+| [Je N'aime Que Toi](https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N'aime Que Toi](https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd) | 3:16 | 2023-11-03 |  |
 | [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-11-03 |  |
 | [lost in you](https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [lost in you](https://open.spotify.com/album/6srNs2YcyTHUPtsecgukZ0) | 3:20 | 2023-11-03 |  |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2023-11-03 |  |

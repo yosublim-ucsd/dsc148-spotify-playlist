@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75902,
+  "num_followers": 75907,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgyNixmZTk3ZWYzMjIwM2I1NjkxMzA0MTk0NjY3YzBkZTEwYzdlYWUzOWI3",
+  "snapshot_id": "MzgyNywwNDhiYzYyYTY2MjM3MTQ3MjU4MWNjYTliNTg1N2IzOTAyM2JhZTBk",
   "tracks": [
+    {
+      "added_at": "2023-12-04 09:12:11",
+      "album": {
+        "name": "It's You (CAPYAC Remix)",
+        "url": "https://open.spotify.com/album/0Cn5qiWz8IFJOJLW1flXUW"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 233977,
+      "name": "It's You - CAPYAC Remix",
+      "url": "https://open.spotify.com/track/4Ck1cHb2gXGgzYbcH76nKp"
+    },
     {
       "added_at": "2023-11-29 14:35:47",
       "album": {

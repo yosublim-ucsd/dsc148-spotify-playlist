@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1303539,
+  "num_followers": 1303594,
   "original_name": "Workout Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGQzMzI3NWMwODlhYTU4MzY3ZTk2ODJkY2I2YzBmMDE1ZWEyNDk5",
+  "snapshot_id": "MCxiODQ4ODA1ODJlNTk5M2IzNjNhMGVhZWUxZDgwMzJjZjBmMjA2ZDgw",
   "tracks": [
     {
       "added_at": "2023-11-30 10:57:34",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-11-30 10:57:34",
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
+    },
+    {
+      "added_at": "2023-11-30 10:57:34",
+      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 210173,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-11-30 10:57:34",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "How You Like That",
-      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
     },
     {
       "added_at": "2023-11-30 10:57:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-30 10:57:34",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2023-11-30 10:57:34",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "added_at": "2023-11-30 10:57:34",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2023-11-30 10:57:34",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-11-30 10:57:34",
       "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-11-30 10:57:34",
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2023-11-30 10:57:34",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-11-30 10:57:34",
@@ -1291,30 +1291,18 @@
     {
       "added_at": "2023-11-30 10:57:34",
       "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     }
   ],
   "unique_name": "Workout Beats",

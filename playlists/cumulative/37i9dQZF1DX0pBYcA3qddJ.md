@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-614 songs - 1 day 17 hr 34 min
+616 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-10-20 |  |
 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 | 2023-05-18 |  |
 | [Falling](https://open.spotify.com/track/2COAy9Fid4TD0jZA7wqaAm) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 3:52 | 2023-04-04 | 2023-04-21 |
-| [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 | 2023-09-07 |  |
+| [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 | 2023-09-07 | 2023-12-05 |
 | [Family Photograph \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/0zQ4P8EjgI41B1vXgE1wQp) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Family Photograph \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/3MDY2swXJ9pAgeOiKMYZXp) | 2:41 | 2022-11-03 | 2022-11-25 |
 | [far away place](https://open.spotify.com/track/164DPhlZ73VjdlU68zFxzJ) | [Pablo Haiku](https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt) | [Pablo Haiku](https://open.spotify.com/album/6EgN9TDbeDlf3wN5um9P4r) | 2:40 | 2023-08-01 | 2023-09-15 |
 | [Far from Me, a Memory](https://open.spotify.com/track/3M863setj5BJ1P6gaz5sdp) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Far from Me, a Memory](https://open.spotify.com/album/0N68E7yPpGHhwMuT6WkcTg) | 2:53 | 2022-12-01 | 2023-02-03 |
@@ -211,6 +211,7 @@
 | [Holy Mountain](https://open.spotify.com/track/69iInIA8yAG1ifnyHjP73c) | [木\(KI\)](https://open.spotify.com/artist/3tudb25wfMnZH5fbEFEpn6) | [Wa](https://open.spotify.com/album/6FXoIebBQ3riOEOaqC3teT) | 3:54 | 2023-09-05 | 2023-09-15 |
 | [Home](https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Home](https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ) | 3:30 | 2022-10-20 | 2022-12-13 |
 | [Hoppípolla](https://open.spotify.com/track/0yQPpUq5BJyqah5m2Q5Stt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 4:28 | 2022-11-23 | 2023-01-11 |
+| [How I Got Home](https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How I Got Home](https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3) | 3:39 | 2023-11-30 |  |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2022-11-08 | 2022-12-14 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-06-14 |
 | [Hues](https://open.spotify.com/track/08XFNYjOUBtWjdlSpimV7A) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [Hues](https://open.spotify.com/album/031jv13JunAFo2noS217gX) | 4:13 | 2023-06-06 | 2023-06-14 |
@@ -413,7 +414,7 @@
 | [Scene II, Kyoto](https://open.spotify.com/track/1PAir9FZ9zwcb5xyVECQfk) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [Cahier de musique / 音楽手帖](https://open.spotify.com/album/58qq0mSyZZV66wEDiMu93i) | 4:27 | 2023-06-13 | 2023-09-06 |
 | [Seconds](https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Seconds](https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn) | 3:07 | 2023-05-11 | 2023-06-05 |
 | [Seconds](https://open.spotify.com/track/2FTsxG2HYUcGuEPHFT6rjE) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 3:07 | 2023-06-13 | 2023-07-12 |
-| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-10-20 |  |
+| [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-10-20 | 2023-12-05 |
 | [Sentimental](https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sentimental](https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2) | 3:38 | 2023-11-02 |  |
 | [Shadow Dancer](https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy) | [Shadow Dancer](https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc) | 4:28 | 2023-01-26 | 2023-03-01 |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-05-05 |
@@ -471,6 +472,7 @@
 | [tegami \(for Fou Fou contemporary dance in Paris\)](https://open.spotify.com/track/6jpxv9SJDF2XhANInknCzZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [surf trip](https://open.spotify.com/album/2FCzOOYZc512CpXsu8PuSH) | 3:33 | 2023-08-03 | 2023-10-18 |
 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 | 2022-10-20 | 2023-04-19 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-27 |  |
+| [The Fight](https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Fight](https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd) | 4:27 | 2023-11-30 |  |
 | [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 | 2022-10-20 | 2023-05-21 |
 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [Cello Bouquet](https://open.spotify.com/album/0n0T7E3Ug0OL572o7NGF5W) | 3:02 | 2022-10-20 | 2023-09-29 |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-14 | 2023-03-25 |

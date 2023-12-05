@@ -4,7 +4,7 @@
 
 > Is "indie sleaze" in the room with us? ft\. The Strokes
 
-194 songs - 12 hr 12 min
+195 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Heartbeat](https://open.spotify.com/track/0zo4aX57COch7Wh3NRImTM) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh) | 4:29 | 2023-04-14 | 2023-05-18 |
 | [Heartbeats](https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m) | 3:51 | 2023-05-17 |  |
 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2022-11-10 | 2023-05-19 |
-| [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 | 2023-09-05 |  |
+| [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 | 2023-09-05 | 2023-12-05 |
 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 | 2022-11-10 |  |
 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 | 2022-11-10 |  |
 | [HI 5](https://open.spotify.com/track/0k9ynvL7RDuqNWiS7d7s8i) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [HI 5](https://open.spotify.com/album/1ZPLF1NH79pCOPF7SlZxCB) | 2:52 | 2023-04-14 | 2023-04-27 |
@@ -157,6 +157,7 @@
 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 | 2023-05-17 |  |
 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 | 2023-01-10 |  |
 | [Romantic Rights \- Erol Alkan's Love from Below Re\-Edit](https://open.spotify.com/track/5a0tGlatEgcfoOmDFg0moo) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Romance Bloody Romance](https://open.spotify.com/album/42hKf3qzo84IsuSAjT6xJq) | 6:20 | 2023-04-14 | 2023-04-27 |
+| [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2023-12-04 |  |
 | [Root Canal](https://open.spotify.com/track/2ZApMdEJTXJ97h6bRw4ZvL) | [Mother Cell](https://open.spotify.com/artist/3risBr1IVWlfdA4TIFMPBc) | [Powerhouse](https://open.spotify.com/album/26LcXJfjgtI5JHj2AJplln) | 3:42 | 2023-04-14 | 2023-04-27 |
 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 | 2023-09-05 |  |
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 | 2023-04-14 | 2023-05-18 |

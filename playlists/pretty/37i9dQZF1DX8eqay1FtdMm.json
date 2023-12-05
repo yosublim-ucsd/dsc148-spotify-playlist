@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the selection of \u2018vocals with unique voices\u2019 selected by BMK! (BMK\uac00 \uc120\uace1\ud55c '\ub3c5\ubcf4\uc801\uc778 \uc74c\uc0c9\uc774 \ub3cb\ubcf4\uc774\ub294 \ubcf4\uceec\ub4e4' \uc120\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 326392,
+  "num_followers": 326360,
   "original_name": "v o K a l : BMK Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2ZjYzhjNDlhNTFkNzBlZTY0ZGJlNWY4NGE1M2I5OTdlMWRmOWYx",
+  "snapshot_id": "MCw4NGZlODdlZmQ1Y2FmMjljYzc5NWRkOWRjY2RiNDcyZTc0ZjFlZjU4",
   "tracks": [
     {
       "added_at": "2023-12-01 09:36:21",
@@ -64,7 +64,7 @@
       },
       "artists": [
         {
-          "name": "KIM BUMSOO",
+          "name": "Kim Bum Soo",
           "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Love, Maybe (A Business Proposal OST Special Track)",
-        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Love, Maybe",
-      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 288915,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -551,38 +535,18 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -599,6 +563,22 @@
       "duration_ms": 203746,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -655,6 +635,50 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Do",
-        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Do",
-      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216013,
       "name": "I'll Always Be With You",
       "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Her Private Life (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g"
-      },
-      "artists": [
-        {
-          "name": "Lee Hae Ri",
-          "url": "https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe"
-        }
-      ],
-      "duration_ms": 228369,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Her Private Life (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g"
+      },
+      "artists": [
+        {
+          "name": "Lee Hae Ri",
+          "url": "https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe"
+        }
+      ],
+      "duration_ms": 228369,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1419,6 +1403,22 @@
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-12-01 09:36:21",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
         "name": "my life",
         "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 174990,
       "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "added_at": "2023-12-01 09:36:21",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-12-01 09:36:21",
@@ -1603,22 +1619,6 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2023-12-01 09:36:21",
-      "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-12-01 09:36:21",

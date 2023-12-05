@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8696,
+  "num_followers": 8697,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODcyMTdlNjJmMGQ5YTgwZGViNjdkNWM4ZGY3YzY3YjU3ZDMxZWEz",
+  "snapshot_id": "MCw3MjdmODc2NGUxNzUxOTk2NDA3YjlkZGQ4ZjNlY2YxMWMzZWNjZGM5",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Good Advice",
         "url": "https://open.spotify.com/album/0Wwpyq7v2FvZONXMastMpb"
       },
@@ -247,6 +231,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 166044,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -295,18 +311,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+        "name": "Kaitlin",
+        "url": "https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
         }
       ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+      "duration_ms": 263400,
+      "name": "Kaitlin",
+      "url": "https://open.spotify.com/track/0GY8oiVq2iY4lufOmhXPW4"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -327,22 +343,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Kaitlin",
-        "url": "https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Kaitlin",
-      "url": "https://open.spotify.com/track/0GY8oiVq2iY4lufOmhXPW4"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Crutches",
         "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 170066,
       "name": "Crutches",
       "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -391,18 +375,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
       },
       "artists": [
         {
-          "name": "Holland",
-          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
         }
       ],
-      "duration_ms": 222928,
-      "name": "NEVERLAND",
-      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -451,6 +435,22 @@
       "duration_ms": 238999,
       "name": "Masterpiece (80s Remix)",
       "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
+      },
+      "artists": [
+        {
+          "name": "Holland",
+          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "NEVERLAND",
+      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
+      },
+      "artists": [
+        {
+          "name": "Summer C",
+          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Open up Babe (Perry twins remix)",
         "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
-      },
-      "artists": [
-        {
-          "name": "LEADR",
-          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
-        }
-      ],
-      "duration_ms": 174295,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Honey Understand",
         "url": "https://open.spotify.com/album/5fNeCyH1z4hzntsX0bfRrM"
       },
@@ -615,38 +615,6 @@
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Hyperdome",
-        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
-      },
-      "artists": [
-        {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Hyperdome",
-      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
-      },
-      "artists": [
-        {
-          "name": "Summer C",
-          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -667,6 +635,38 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Hyperdome",
+        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
+      },
+      "artists": [
+        {
+          "name": "SuperKnova",
+          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Hyperdome",
+      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
+      },
+      "artists": [
+        {
+          "name": "LEADR",
+          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
+        }
+      ],
+      "duration_ms": 174295,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "out!",
         "url": "https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Cry, Baby",
-        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 235630,
-      "name": "Could I Break Your Heart",
-      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 221820,
       "name": "All I Have To Do Is Dream",
       "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Cry, Baby",
+        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
     },
     {
       "added_at": "2023-06-30 23:59:00",

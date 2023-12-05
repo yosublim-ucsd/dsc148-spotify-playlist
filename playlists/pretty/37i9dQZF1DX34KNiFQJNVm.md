@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Felipe e MC Ryan SP, João Gomes, MC Cabelinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,923,573 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,887 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 13 | [Até de Manhã](https://open.spotify.com/track/3Bo3Df5UzeayWvaQWeqfEo) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [KOC](https://open.spotify.com/artist/0DJpGYLwnwr6CPnMvQvlBN) | [Tamborzão Raiz: Vol\. 3](https://open.spotify.com/album/04DznqBuPme47l8iAh4sB8) | 2:41 |
 | 14 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 |
 | 15 | [Dom Dom Dom 2](https://open.spotify.com/track/591nM8oKukgHnZnUzZa1uq) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [PXP](https://open.spotify.com/album/4BpOzb8oDWeRXJfvxt9afD) | 2:24 |
-| 16 | [Os Menino Tá Com o Pacote](https://open.spotify.com/track/1c09NxroPI9EagoquMbN8r) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:03 |
+| 16 | [Os Menino Tá Com o Pacote](https://open.spotify.com/track/1c09NxroPI9EagoquMbN8r) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:03 |
 | 17 | [Vetin](https://open.spotify.com/track/3yJPPXZi4RINC7MC2cqYmR) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 4:23 |
 | 18 | [Negona](https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Negona](https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP) | 3:06 |
 | 19 | [O Crime e a Música](https://open.spotify.com/track/5GtWzXQ423s75pn5n0OmGb) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [O Crime e a Música](https://open.spotify.com/album/3v3cwXZhmUYIUrxxs7lpFZ) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Só lamento](https://open.spotify.com/track/27b6If422K7cuNezwYN55c) | [Thomas Vaqueiro](https://open.spotify.com/artist/5Fc2BzVQzypkuOBhvYdrvJ), [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv) | [Só lamento](https://open.spotify.com/album/1igCfqzOqI1Gmr4vl6NE6e) | 3:11 |
 | 100 | [Toda Vez \- Ao Vivo](https://open.spotify.com/track/2MDPZG8NsDIVeFoazvS3il) | [Grupo Façanha](https://open.spotify.com/artist/7rVqW5hEuqyZHkgGtuHuLe), [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q) | [Toda Vez \(Ao Vivo\)](https://open.spotify.com/album/0OVb0E8JkEOt9mvZmEFbrF) | 2:46 |
 
-Snapshot ID: `MCxjMWQ2NzJkOTZkYjcwZDk0ZDMwNzU5MWVkYTc4YmYwYjE0Mzk1M2Y2`
+Snapshot ID: `MCxhODA4MzNmODZhYjQ3MDNiZmYyYzg0ZmMxYmNkMDA1M2FjNjNhY2Rk`

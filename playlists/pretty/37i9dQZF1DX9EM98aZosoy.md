@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,232 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,186 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 27 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 28 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 |
 | 29 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
-| 30 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
-| 31 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
+| 30 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
+| 31 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 32 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 33 | [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 |
 | 34 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [Nachts wach \(Lila Wolken Bootleg\)](https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Nachts wach](https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3) | 2:38 |
 | 50 | [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 |
 
-Snapshot ID: `MCxmYmVjYTQyZWU5ZWFjMzk3ZWVhNzg1YmQwYWY0NzdhZmM1MTI5OTUw`
+Snapshot ID: `MCxlYjk5YjE1OWVhYTIxMDZjNWVjNzRjZGFhNWNhOTQ4YTIyYjBlZWE2`

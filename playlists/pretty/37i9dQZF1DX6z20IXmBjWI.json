@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2113334,
+  "num_followers": 2113256,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yjg4ZDAzZmIxMWUzYjRhOTQ3YmFiYjI3OGYxOTA0MjgwZDUxNWFi",
+  "snapshot_id": "MCw4YmQyNGZiMzNiNzY0MDRhNWNlYjdlMjhjYjYxYzQ0MGYyYmJhMmFm",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -507,38 +507,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -583,6 +567,22 @@
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Keep 'Em on They Toes",
         "url": "https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
         }
       ],
-      "duration_ms": 206267,
-      "name": "This Time Tomorrow",
-      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+      "duration_ms": 206267,
+      "name": "This Time Tomorrow",
+      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Pharmakon",
         "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
       },
@@ -1019,26 +1035,6 @@
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Forever Young (From NBC's Parenthood)",
-        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 261370,
-      "name": "Forever Young - From NBC's Parenthood",
-      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "Forever Young (From NBC's Parenthood)",
+        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+      "duration_ms": 261370,
+      "name": "Forever Young - From NBC's Parenthood",
+      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 282746,
       "name": "Forever Ago",
       "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Shape & Destroy",
-        "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
       },
       "artists": [
         {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Shape & Destroy",
+        "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ana\u00efs Mitchell",
-        "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Bright Star",
-      "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 245653,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Ana\u00efs Mitchell",
+        "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Bright Star",
+      "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 236853,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 137293,
-      "name": "True North",
-      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Reunions",
         "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 237126,
       "name": "Only Children",
       "url": "https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+        "name": "Floating On A Dream",
+        "url": "https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+      "duration_ms": 177720,
+      "name": "All Is Well [Feat. Joy Williams]",
+      "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1787,22 +1791,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Floating On A Dream",
-        "url": "https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa"
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
       "artists": [
         {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
-        },
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 177720,
-      "name": "All Is Well [Feat. Joy Williams]",
-      "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Barrel",
         "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 219510,
       "name": "The Barrel - Edit",
       "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2063,22 +2063,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+        "name": "Build A Problem",
+        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 212255,
-      "name": "Passengers",
-      "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2103,18 +2099,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Build A Problem",
-        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+      "duration_ms": 212255,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264150,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264150,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "THE SUN & THE SEA (feat. Donovan Woods)",
         "url": "https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 180000,
       "name": "THE SUN & THE SEA (feat. Donovan Woods)",
       "url": "https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Listen to Formation, Look for the Signs",
-        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 212816,
-      "name": "Call the Days",
-      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2447,18 +2447,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+        "name": "The Great Irish Songbook",
+        "url": "https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        },
+        {
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
         }
       ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+      "duration_ms": 326160,
+      "name": "The West Coast Of Clare",
+      "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2483,22 +2487,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Great Irish Songbook",
-        "url": "https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P"
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
       "artists": [
         {
-          "name": "Dervish",
-          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
-        },
-        {
-          "name": "David Gray",
-          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
         }
       ],
-      "duration_ms": 326160,
-      "name": "The West Coast Of Clare",
-      "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2551,18 +2551,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+        "name": "Sings John Denver",
+        "url": "https://open.spotify.com/album/5TK7Ou3CpOkmxPGyRWvtwU"
       },
       "artists": [
         {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
         }
       ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+      "duration_ms": 212212,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/2UJ9eh4cex6ulccBrskJXd"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2583,18 +2583,34 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Sings John Denver",
-        "url": "https://open.spotify.com/album/5TK7Ou3CpOkmxPGyRWvtwU"
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
       },
       "artists": [
         {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
         }
       ],
-      "duration_ms": 212212,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/2UJ9eh4cex6ulccBrskJXd"
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2619,18 +2635,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+        "name": "Favors EP (Acoustic)",
+        "url": "https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
         }
       ],
-      "duration_ms": 200186,
-      "name": "Only The Strong",
-      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
+      "duration_ms": 180706,
+      "name": "Sorrow - Acoustic",
+      "url": "https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2647,22 +2663,6 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Favors EP (Acoustic)",
-        "url": "https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Sorrow - Acoustic",
-      "url": "https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB"
     }
   ],
   "unique_name": "Infinite Acoustic",

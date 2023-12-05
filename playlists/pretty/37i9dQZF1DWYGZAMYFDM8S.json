@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 301233,
+  "num_followers": 301269,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTVlMmQ5NmE3MDQxYjZkNGZkM2ZjYzA4MThhYWQ4YTY3NDA2Nzg5",
+  "snapshot_id": "MCw2ZDFjZDkxYTA2ZjVhMWFlNjY3ZmNmZGVkOWFkOGUxNTI2ZjVhZjA2",
   "tracks": [
     {
       "added_at": "2023-12-01 17:07:08",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "The Woods (Acoustic)",
-        "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 239960,
-      "name": "The Woods - Acoustic",
-      "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
+      "duration_ms": 427093,
+      "name": "Love & Hate",
+      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+        "name": "The Woods (Acoustic)",
+        "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 427093,
-      "name": "Love & Hate",
-      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+      "duration_ms": 239960,
+      "name": "The Woods - Acoustic",
+      "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Feathers & Fishhooks",
-        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Day by Day (Acoustic)",
         "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "Feathers & Fishhooks",
+        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "Without/Within",
         "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 304493,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Dying Star",
         "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 282746,
       "name": "Forever Ago",
       "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 305607,
+      "name": "Meet The Moonlight",
+      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1287,18 +1303,34 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 305607,
-      "name": "Meet The Moonlight",
-      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1319,22 +1351,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "It Wasn't Enough",
         "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 265973,
       "name": "It Wasn't Enough",
       "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
         "name": "Ana\u00efs Mitchell",
         "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
       },
@@ -1571,70 +1571,6 @@
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "America",
-      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1655,22 +1591,66 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
       },
       "artists": [
         {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        },
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 197526,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
+      "duration_ms": 218240,
+      "name": "America",
+      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1687,6 +1667,26 @@
       "duration_ms": 264000,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        },
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 197526,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
     },
     {
       "added_at": "2023-12-01 17:07:08",
@@ -1983,30 +1983,6 @@
     {
       "added_at": "2023-12-01 17:07:08",
       "album": {
-        "name": "In His Arms",
-        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
-      },
-      "artists": [
-        {
-          "name": "Jack Ingram",
-          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Jon Randall",
-          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "In His Arms",
-      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2023-12-01 17:07:08",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
       },
@@ -2035,6 +2011,30 @@
       "duration_ms": 312066,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
+    },
+    {
+      "added_at": "2023-12-01 17:07:08",
+      "album": {
+        "name": "In His Arms",
+        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
+      },
+      "artists": [
+        {
+          "name": "Jack Ingram",
+          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
     {
       "added_at": "2023-12-01 17:07:08",

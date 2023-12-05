@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10224,
+  "num_followers": 10235,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQ5Njc4ZGE3OGZhMzJhMjU5ODdhZjMxMmJmODY5MGQ4NzM1ZDdk",
+  "snapshot_id": "MCw1M2Q3NGEwYWI4NzFmMTJkZTFlMTBlNzE0MWFmZmUzMDY3YzNhMzE4",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Mind My Business",
         "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Mobster",
         "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
       },
@@ -243,6 +211,38 @@
       "duration_ms": 193226,
       "name": "Mobster",
       "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "King Bubba Mashup Volume 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Saga Boy",
-        "url": "https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 230341,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/2uoIP6BmQxHIXWT2CFAUFO"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Private Zess",
         "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wrong Again",
-        "url": "https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b"
+        "name": "Saga Boy",
+        "url": "https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM"
       },
       "artists": [
         {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Wrong Again",
-      "url": "https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX"
+      "duration_ms": 230341,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/2uoIP6BmQxHIXWT2CFAUFO"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 137195,
       "name": "Shots (One for Di Road)",
       "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Wrong Again",
+        "url": "https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Wrong Again",
+      "url": "https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -939,38 +939,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Virgin",
-        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 185025,
-      "name": "Sexin",
-      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
       },
@@ -991,6 +959,22 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Virgin",
+        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 185025,
+      "name": "Sexin",
+      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
         "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 203600,
       "name": "Rough Wine",
       "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Rats Hole Riddim",
+        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 205139,
       "name": "Ba Ba Ben - Remix",
       "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Rats Hole Riddim",
-        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
     },
     {
       "added_at": "2022-02-24 18:00:00",

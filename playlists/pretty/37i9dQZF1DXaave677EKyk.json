@@ -1,12 +1,12 @@
 {
   "description": "Undisputed Anthems from professional party starters. Cover: Chase & Status\n",
-  "num_followers": 32780,
+  "num_followers": 32890,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjg4Y2UzZmU1ZTYxYTdjYzdjODJiMzI4MjFkYTVjNDUyZGM4ZjE4",
+  "snapshot_id": "MCw2MzE5Y2UwNjE5ZWM2ZTFkN2U2NzVmNTU1MTgyYTRhZTBiY2E3NGVi",
   "tracks": [
     {
       "added_at": "2023-11-22 17:12:07",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2023-11-22 17:12:07",
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -447,46 +467,6 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
-    },
-    {
-      "added_at": "2023-11-22 17:12:07",
-      "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2023-11-22 17:12:07",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -551,6 +531,26 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-11-22 17:12:07",
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2023-11-22 17:12:07",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 169534,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
-    },
-    {
-      "added_at": "2023-11-22 17:12:07",
-      "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2023-11-22 17:12:07",
+      "album": {
         "name": "Dancing is Healing",
         "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 177321,
       "name": "Dancing is Healing",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
-    },
-    {
-      "added_at": "2023-11-22 17:12:07",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -951,22 +951,22 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
-        "name": "Jam Inside Your Love (feat. Carla Monroe)",
-        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
       "artists": [
         {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 147401,
-      "name": "Jam Inside Your Love (feat. Carla Monroe)",
-      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -995,22 +995,22 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
         },
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
+        "name": "Boyz N Da Club (Radio Edit)",
+        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 141395,
+      "name": "Boyz N Da Club - Radio Edit",
+      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
+    },
+    {
+      "added_at": "2023-11-22 17:12:07",
+      "album": {
         "name": "Life Lesson",
         "url": "https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 216466,
       "name": "Life Lesson",
       "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
-    },
-    {
-      "added_at": "2023-11-22 17:12:07",
-      "album": {
-        "name": "Boyz N Da Club (Radio Edit)",
-        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 141395,
-      "name": "Boyz N Da Club - Radio Edit",
-      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+    },
+    {
+      "added_at": "2023-11-22 17:12:07",
+      "album": {
         "name": "Rude Boy",
         "url": "https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
         }
       ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+      "duration_ms": 219099,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -1387,22 +1403,6 @@
       "duration_ms": 168015,
       "name": "Hide N Seek (feat. TAET)",
       "url": "https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP"
-    },
-    {
-      "added_at": "2023-11-22 17:12:07",
-      "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 219099,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
     },
     {
       "added_at": "2023-11-22 17:12:07",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-11-22 17:12:07",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga"
-      },
-      "artists": [
-        {
-          "name": "MENTIS",
-          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
-        },
-        {
-          "name": "Kate Wild",
-          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL"
-    },
-    {
-      "added_at": "2023-11-22 17:12:07",
-      "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D"
+    },
+    {
+      "added_at": "2023-11-22 17:12:07",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga"
+      },
+      "artists": [
+        {
+          "name": "MENTIS",
+          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL"
     },
     {
       "added_at": "2023-11-22 17:12:07",

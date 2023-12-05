@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=2aNAVs5GRtS8zAQIBnp6eQ>Victor Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,898 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,950 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Christ is Reason \- Live](https://open.spotify.com/track/7eoK6tdL9l3399hjj7HkF9) | [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Era Of Light](https://open.spotify.com/album/1LEMW0mMMJXsIHDTsRfg48) | 4:47 |
 | 100 | [Forever](https://open.spotify.com/track/0BuP8m0u9Bf0vMkBaBol0J) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Earlvis](https://open.spotify.com/artist/55xR4YGpMUbmYUZbm7k7I7) | [Forever](https://open.spotify.com/album/18Zw79gDcVWWxoGrAz7P22) | 2:47 |
 
-Snapshot ID: `MCxkM2UxZWM0MTYzYWUxZDBiZmY2Y2ZhNzFkODgzNGM3YjM5MzU4ZDZj`
+Snapshot ID: `MCwzM2Q5MWU5Yzg0ODUzM2VjZmU2YmRmYjAwNjZmYWU4NzUzN2VkNmRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 
 > All your favourite mood boosting bangers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,427 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,516 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 9 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 10 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 |
 | 11 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
-| 12 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
-| 13 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
+| 12 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
+| 13 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 14 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
-| 15 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
-| 16 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
+| 15 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
+| 16 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 17 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 |
 | 18 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
-| 19 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
-| 20 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
+| 19 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
+| 20 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
 | 21 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 22 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 |
 | 23 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 36 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 37 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 38 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
-| 39 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 |
+| 39 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 40 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
-| 41 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
+| 41 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 |
 | 42 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
 | 43 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 44 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 49 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
 | 50 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 
-Snapshot ID: `MCwyNTdhYjlkZjBhNzZlZWI5MDBlOGZmZDM5YzFlZWQ0NWVhZDFiY2Mx`
+Snapshot ID: `MCxkMWE5ZTM2YTk3ZjI5NzVmOWRmNmRjMjFlZGEzODY3ODU4ZTVlYWZm`

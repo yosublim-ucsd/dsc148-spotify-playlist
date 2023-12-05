@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296117,
+  "num_followers": 296188,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWMzMGNmYjc1YmVhNmJmMmEwZTE0MmY3Y2I3ZTc4ZWY0NDJhNDBm",
+  "snapshot_id": "MCwxZDdjOTk3MjMzNzFmNzI5YWY2NGI2YTc0MDJmNThjOWRlNTQyMjY0",
   "tracks": [
     {
       "added_at": "2023-10-25 14:30:59",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 254760,
       "name": "Pure Morning",
       "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "hot girl bummer",
-        "url": "https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "hot girl bummer",
-      "url": "https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "kenopsia",
         "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
       },
@@ -967,22 +951,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 198849,
       "name": "Will Of The People",
       "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "hot girl bummer",
+        "url": "https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "-!- (Deluxe)",
         "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 283466,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Only Revolutions",
         "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "Swoon",
         "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
       },
@@ -1191,6 +1191,38 @@
       "duration_ms": 343906,
       "name": "Panic Switch",
       "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 209542,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1227,38 +1259,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 209542,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Emotion Sickness",
         "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Sonic Highways",
         "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 288453,
       "name": "Something from Nothing",
       "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Times Like These",
-        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209976,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 150924,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Times Like These",
+        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
     },
     {
       "added_at": "2023-10-25 14:30:59",

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2442239,
+  "num_followers": 2442718,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDI2YWQ5MTE5MTJkMzY2MDg2Nzg5NGUxOTgwZTYwN2Q2NmY1NWE2",
+  "snapshot_id": "MCw4NDdiMTBmNDVlODE0ODk4NzdkYmViNTNkMjI4MTdmM2FkYzQ1N2Nk",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE"
       },
@@ -223,18 +239,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever",
-      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+      "duration_ms": 245760,
+      "name": "Higa",
+      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -287,46 +303,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Letters Never Sent",
-        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Higa",
-      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
-        "name": "Sa Susunod Na Lang",
-        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
-      },
-      "artists": [
-        {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        }
-      ],
-      "duration_ms": 214606,
-      "name": "Sa Susunod Na Lang",
-      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Ngayong Gabi",
         "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Sa Susunod Na Lang",
+        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
+      },
+      "artists": [
+        {
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        }
+      ],
+      "duration_ms": 214606,
+      "name": "Sa Susunod Na Lang",
+      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
+        "name": "Buruguduystunstugudunstuy",
+        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Harana",
+      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
         "name": "Unang Sayaw",
         "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
       },
@@ -435,6 +451,22 @@
       "duration_ms": 278008,
       "name": "Unang Sayaw",
       "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -455,38 +487,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "JKL",
-        "url": "https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Demonyo",
-      "url": "https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
-        "name": "Buruguduystunstugudunstuy",
-        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Harana",
-      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Noon Time Show",
         "url": "https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 364106,
       "name": "Beer",
       "url": "https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -547,6 +531,22 @@
       "duration_ms": 316683,
       "name": "Sinta",
       "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "JKL",
+        "url": "https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Demonyo",
+      "url": "https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Yakap",
-        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "Yakap",
-      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Yakap",
+        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 178947,
+      "name": "Yakap",
+      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Asan Ka Na Ba",
-        "url": "https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 241132,
-      "name": "Asan Ka Na Ba",
-      "url": "https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "KLWKN",
         "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 256571,
       "name": "KLWKN",
       "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Asan Ka Na Ba",
+        "url": "https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 241132,
+      "name": "Asan Ka Na Ba",
+      "url": "https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq"
     },
     {
       "added_at": "2023-09-13 05:36:31",

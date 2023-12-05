@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲を毎週セレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,839 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,859 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 6 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 |
 | 7 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 8 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
-| 9 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
+| 9 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 | 10 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:52 |
-| 11 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
+| 11 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 |
 | 12 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 |
-| 13 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
+| 13 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
 | 14 | [美しい鰭](https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:31 |
-| 15 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 |
+| 15 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 | 16 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 |
 | 17 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 18 | [EDEN](https://open.spotify.com/track/1OqhdM5mUZ5fJeh4s5vhxg) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [EDEN](https://open.spotify.com/album/3vQHDzTYpr08HLbHprAInT) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 49 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 50 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
 
-Snapshot ID: `MCxiYzI3Nzk4OGZmNTVmODY1NDIxZjdhMTU0YTg4YjI3YzJkNzBiZThj`
+Snapshot ID: `MCwxZjIzZDczNGE1OTExMTMzZTRlMmNjYThhOGIzNTQ2MmQ3N2Y3YWZh`

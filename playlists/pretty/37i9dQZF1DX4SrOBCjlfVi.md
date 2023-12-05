@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BigXthaPlug, Flo Milli, and more\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,831 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,004 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Fill Up \(feat\. BabyDrill\)](https://open.spotify.com/track/5itRFdvUZBFVruujumEQcs) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Fill Up \(feat\. BabyDrill\)](https://open.spotify.com/album/076Us4TZCSDXU6Tn4M8XLK) | 2:46 |
 | 50 | [Lackin](https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Lifestyle](https://open.spotify.com/album/70USnNa3bAg0XAoaukW1x1) | 1:37 |
 
-Snapshot ID: `MCxlYThkZWUxYzkzOWVhNGEwZTNhZDNmYzhjNTg2MWQwNDgxYzBjZjIz`
+Snapshot ID: `MCxmYWUyZTM4MDMxOWU1NTk2NDcwYTMzYWRhNDc2MDhhZjEwNDY3NWNj`

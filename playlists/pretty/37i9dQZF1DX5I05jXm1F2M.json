@@ -1,12 +1,12 @@
 {
   "description": "Turn anywhere into a sing-along party. ",
-  "num_followers": 132436,
+  "num_followers": 132595,
   "original_name": "Karaoke Hits ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmYwOWJjYmY1OTFlZDRlZGZhYjIyMDU4MWY4ZDIwZmVhMTAyZjAw",
+  "snapshot_id": "MCwyZmFkNzM2NmRhYjI2ZmY1NDcxZTM5Njk0ZmE2MTc1N2NhNTAxYzVk",
   "tracks": [
     {
       "added_at": "2023-09-14 15:58:42",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "All The Small Things",
-      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "All The Small Things",
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Curtain Call: The Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 326466,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Stealers Wheel",
         "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 208946,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Eye Of The Tiger",
-        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Eye Of The Tiger",
+        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Old Time Rock & Roll",
-      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
-    },
-    {
-      "added_at": "2023-09-14 15:58:42",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-09-14 15:58:42",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+      "duration_ms": 256733,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
     },
     {
       "added_at": "2023-09-14 15:58:42",
@@ -1571,6 +1555,22 @@
       "duration_ms": 214946,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw"
+    },
+    {
+      "added_at": "2023-09-14 15:58:42",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2023-09-14 15:58:42",

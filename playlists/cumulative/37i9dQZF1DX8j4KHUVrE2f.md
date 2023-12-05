@@ -4,7 +4,7 @@
 
 > Take a trip down memory lane with these noughties classics...
 
-248 songs - 15 hr 58 min
+249 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Down](https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [All Or Nothing](https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk) | 3:32 | 2020-07-08 |  |
 | [Drops of Jupiter](https://open.spotify.com/track/4NG6ezO2ApTR3dfQucNDqD) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/4zO0JaK3OvHTdFm2pPEdqF) | 4:19 | 2020-07-08 | 2022-07-29 |
 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 | 2020-07-08 |  |
-| [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 | 2020-07-08 |  |
+| [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 | 2020-07-08 | 2023-12-05 |
 | [Escape](https://open.spotify.com/track/59FYUvlodY7NCZGHk7yJt1) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/0zktx87Zil6xHw7OWtXwIz) | 3:28 | 2020-07-08 | 2022-07-29 |
 | [Evergreen](https://open.spotify.com/track/3Zg1941PbcmsxLmSaVJ3OZ) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/6cX5XwYMwa4AoYC6Eyy25j) | 4:13 | 2020-07-08 | 2022-07-29 |
 | [Everlasting Love](https://open.spotify.com/track/4kj5VvOJiOPoIBWCSzqDzj) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B) | 3:21 | 2020-07-08 | 2022-07-29 |
@@ -102,6 +102,7 @@
 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 | 2020-07-08 | 2022-11-13 |
 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 | 2020-07-08 | 2022-07-28 |
 | [Home](https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 3:45 | 2020-07-08 | 2022-11-13 |
+| [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 | 2023-10-17 |  |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2020-07-08 |  |
 | [Human](https://open.spotify.com/track/5mhUPDWQH3s544WCsa0r9w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age](https://open.spotify.com/album/39JESZeZjLUrjwQtCrRs6d) | 4:05 | 2020-07-08 | 2022-07-29 |
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2020-07-08 |  |

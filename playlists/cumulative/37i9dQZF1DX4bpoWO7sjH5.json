@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "La Navidad es para Compartir (Por Caminos)",
+        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
+      },
+      "artists": [
+        {
+          "name": "Raya Real",
+          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "La Navidad es para Compartir - Por Caminos",
+      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
+    },
+    {
+      "album": {
         "name": "La Primera Navidad",
         "url": "https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 257624,
       "name": "La Primera Navidad",
       "url": "https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L"

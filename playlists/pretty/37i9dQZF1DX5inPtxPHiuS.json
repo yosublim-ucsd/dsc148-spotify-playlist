@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85807,
+  "num_followers": 85818,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2JhMjQzYjk3MTU0ZTQ4Yjc0ZTA1NzVlNWQ0ZTMwNmI5Njk3NGUx",
+  "snapshot_id": "MCwwNDExOWFjMDRiMjE3MjE4ZmI3NmNmZTcyNTJhNzYzM2E3NTYwYjIw",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Calidosound",
         "url": "https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "Baracunatana",
-      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 189702,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -271,6 +255,22 @@
       "duration_ms": 195706,
       "name": "No M\u00e1s",
       "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "Baracunatana",
+      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Cent\u00e9simo Humano",
         "url": "https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 152750,
       "name": "Apolog\u00eda de una Amigdala Inflamada",
       "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Hacia la Noche",
+      "url": "https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Anaranjado",
         "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 187093,
       "name": "Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Hacia la Noche",
-      "url": "https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Todo Va a Arder",
+      "url": "https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Perdedor",
         "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 227665,
       "name": "Emociones",
       "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Todo Va a Arder",
-      "url": "https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Nada que hablar (feat. Aterciopelados)",
-        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        },
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 205180,
-      "name": "Nada que hablar (feat. Aterciopelados)",
-      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 197334,
       "name": "Perro Come Perro",
       "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Nada que hablar (feat. Aterciopelados)",
+        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 205180,
+      "name": "Nada que hablar (feat. Aterciopelados)",
+      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -807,22 +807,6 @@
       "duration_ms": 173621,
       "name": "El Tema de Amor Que Esperabas",
       "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "Salir Ileso",
-      "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "Salir Ileso",
+      "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Ave Nocturna",
         "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 217903,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
     }
   ],
   "unique_name": "Rock Colombia",

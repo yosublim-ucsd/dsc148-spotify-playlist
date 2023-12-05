@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > A playlist showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Noah Kahan
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 8,661 likes - 81 songs - 5 hr 5 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 8,662 likes - 81 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

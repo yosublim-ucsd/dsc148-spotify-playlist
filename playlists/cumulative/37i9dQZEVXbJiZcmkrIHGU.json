@@ -3232,7 +3232,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 172911,
       "name": "Atemlos durch die Nacht - 10 Year Anniversary Version",
       "url": "https://open.spotify.com/track/7B7X3R3d2qEIsJFgqICgNy"
@@ -5976,7 +5976,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 181052,
       "name": "Blonde Chaya - Sped Up",
       "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
@@ -7622,7 +7622,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -17146,7 +17146,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
@@ -23087,6 +23087,28 @@
     },
     {
       "album": {
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
+    },
+    {
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/0d7A66OUJAg0OXNa8RzEYb"
       },
@@ -23288,7 +23310,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 136988,
       "name": "Liebe Gr\u00fcsse",
       "url": "https://open.spotify.com/track/4mVnqNiw2Kf5AHj9j0KD6u"
@@ -23654,7 +23676,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 200880,
       "name": "Like It's Christmas",
       "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
@@ -27810,7 +27832,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 147586,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
@@ -28030,7 +28052,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 157058,
       "name": "M\u00e4dchen auf dem Pferd",
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
@@ -44216,6 +44238,24 @@
       "duration_ms": 149126,
       "name": "WINTER",
       "url": "https://open.spotify.com/track/1kBPltVRw3DDM2slecFD9U"
+    },
+    {
+      "album": {
+        "name": "Christmas, With Love",
+        "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144133,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1YBItUnKj01KBXhpFtvINp"
     },
     {
       "album": {

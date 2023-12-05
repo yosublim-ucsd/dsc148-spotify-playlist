@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,943 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,958 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 43 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 | 44 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
 | 45 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 |
-| 46 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |
-| 47 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 |
-| 48 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
-| 49 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 |
-| 50 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 |
+| 46 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 |
+| 47 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |
+| 48 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 |
+| 49 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
+| 50 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 |
 
-Snapshot ID: `MCwzNzkyNmJjMWQ3NGJjYTUwZmJkNzZkNTJmMzBhMzJkN2E1MWYwOGM4`
+Snapshot ID: `MCxhMWMzMDQ1MTg1OTlkM2UwZjJjMzI0YWI5MzRjOWYzMmUzNjVjZjlj`

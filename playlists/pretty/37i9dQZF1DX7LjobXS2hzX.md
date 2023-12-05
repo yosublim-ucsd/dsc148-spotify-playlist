@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,567 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,582 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 |
 | 75 | [L'Habitude](https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [L'Habitude](https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz) | 2:58 |
 
-Snapshot ID: `MCxhZTMwNzY4NGIzNzNhNTAzMzU0YWY0NTA5NGJjNjFjM2RkM2Y2Mzkz`
+Snapshot ID: `MCw3MDVhN2QxNDhlNmY2YWRhZTdkYWIwZDhhMGUwOWU1MjcyZWIzYmU5`

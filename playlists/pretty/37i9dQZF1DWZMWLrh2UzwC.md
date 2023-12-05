@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: CLAUDIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,302 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,317 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 50 | [Water Underground](https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Water Underground](https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI) | 3:26 |
 | 51 | [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 |
 | 52 | [Crown](https://open.spotify.com/track/1trGVaNMCaVBQ7Wd4qX83W) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Crown](https://open.spotify.com/album/0zG1eUJG5G9Ddz3zxpqLzF) | 2:51 |
-| 53 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 53 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 54 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
 | 55 | [LIT](https://open.spotify.com/track/5Wi1nGdQoyMxwFwKYxiaeN) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [LIT](https://open.spotify.com/album/4SPDsfJ3CigkggDigodW2L) | 2:51 |
 | 56 | [Must Have Love](https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [MUST HAVE](https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO) | 3:16 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 78 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 |
 | 79 | [Feels](https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Feels](https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8) | 3:28 |
 
-Snapshot ID: `MCw0YzBmMmMzODFlZjAyYjMzYTU2ZWE5NmYxNmJmNTgxMGI5NTljN2Vj`
+Snapshot ID: `MCwxMjA3MTU2NTgxOGRmZWU1MTBkNGY2MzBiZTVhZjBmMmQ0YzdkNTE2`

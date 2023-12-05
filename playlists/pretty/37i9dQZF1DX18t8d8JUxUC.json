@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Mateo Falgas",
-  "num_followers": 18982,
+  "num_followers": 19009,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDRjODIzZjQzMmRmZjFkYjJmOGM5MWNiNGYwNTY4NmNlZTk5ZjUw",
+  "snapshot_id": "MCw0ZGUzNGE3NzkzNTE3MTA5ZjYzMzZhMGZlMGI2ZDYwMmQ3Y2IxOWEy",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 234656,
       "name": "Otras Se Pierden",
       "url": "https://open.spotify.com/track/3SvbcJH2seu1zs0PMjPS6F"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Wacha Checa",
         "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 172926,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -495,6 +479,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Los D\u00edas en la Sala",
         "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 163411,
       "name": "Siempre Te Voy a Querer",
       "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -655,6 +639,22 @@
       "duration_ms": 190360,
       "name": "Dos Soledades",
       "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 351413,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2023-12-01 05:01:00",

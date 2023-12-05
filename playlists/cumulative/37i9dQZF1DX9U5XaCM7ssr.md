@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-117 songs - 8 hr 19 min
+118 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,12 +61,13 @@
 | [Luka](https://open.spotify.com/track/6ScSZhZJ72nNlG2HNKtNri) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Luka](https://open.spotify.com/album/7qalb7ab5XUNyJmcXrGQCT) | 4:52 | 2023-06-09 | 2023-06-15 |
 | [Manusia Putus Asa](https://open.spotify.com/track/68PkrpsVyyVlnNYb7hY97l) | [Ayuenstar](https://open.spotify.com/artist/7ydN6ucPSuyIQVM06TT81X) | [Manusia Putus Asa](https://open.spotify.com/album/3A5u8eywrTDJTMol5cUPCe) | 4:16 | 2023-06-23 | 2023-06-27 |
 | [Melawan Restu](https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Melawan Restu](https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0) | 3:39 | 2022-11-28 | 2023-03-12 |
+| [Melawan Restu](https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:40 | 2023-12-04 |  |
 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 | 2023-11-13 |  |
 | [Mengapa](https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Mengapa](https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82) | 4:23 | 2023-11-13 |  |
 | [Menjadi Dia](https://open.spotify.com/track/3Z0K4sFU1fOiBOe7Nf3kix) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:49 | 2022-11-28 | 2023-07-14 |
 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 | 2023-02-03 | 2023-02-13 |
 | [Menjelang Pagi](https://open.spotify.com/track/5jpyoanoKZtRsC52toDCcM) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Menjelang Pagi](https://open.spotify.com/album/6LLGiLuOnXvvNfkewQBlHE) | 4:15 | 2023-06-23 | 2023-06-27 |
-| [Menunggumu](https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Second Chance](https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4) | 3:45 | 2023-08-30 |  |
+| [Menunggumu](https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Second Chance](https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4) | 3:45 | 2023-08-30 | 2023-12-05 |
 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 | 2023-04-20 |  |
 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 | 2022-11-28 |  |
 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 | 2022-11-28 | 2023-06-08 |

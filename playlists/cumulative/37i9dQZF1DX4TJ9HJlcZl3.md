@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-95 songs - 5 hr 58 min
+96 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-18 | 2023-05-06 |
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-21 | 2023-01-14 |
 | [TIP OF THE FLAME \- 12" DISCO MIX](https://open.spotify.com/track/1rtL8tDWsIWhRjuOONau7r) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [TIP OF THE FLAME \(12" DISCO MIX\)](https://open.spotify.com/album/7B4L0vrNdIShUKOqwcM8mO) | 5:57 | 2023-02-17 | 2023-02-19 |
-| [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 | 2023-02-17 |  |
+| [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 | 2023-02-17 | 2023-12-05 |
+| [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/6ywx4XD9UL3FrllzCjaU0T) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La \(Deluxe Version\)](https://open.spotify.com/album/4CYFJzamIcEG44GjBceFp9) | 5:57 | 2023-09-01 |  |
 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 | 2022-10-21 |  |
 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 | 2022-11-11 |  |
 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 | 2022-10-21 | 2022-11-19 |

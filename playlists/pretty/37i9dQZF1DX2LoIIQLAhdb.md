@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,186 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,256 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Oublie ton ex](https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Oublie ton ex](https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl) | 2:32 |
 | 40 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 |
 
-Snapshot ID: `MCwyZWMxNThhMTA2ZTIzZTQ0YzI5MmY4N2FkMGRjNGZhZTdkNjgzNDUw`
+Snapshot ID: `MCw4YjA0NzQ0NmI3MjllMjdkMjI5NTQzMWVjZjNlM2MyMTI3MzIxNTBm`

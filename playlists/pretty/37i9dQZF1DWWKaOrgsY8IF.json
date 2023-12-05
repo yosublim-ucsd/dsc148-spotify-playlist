@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 130453,
+  "num_followers": 130461,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGYxYzRlZDNiZmZiYTE0ZmU4OTI1YzYwNGVjYmQ4YmVhOTc0MmVj",
+  "snapshot_id": "MCxkMTVmZTQ4MWY1YzE4NzU3ZWRmMGI4ZDEwY2FjNzY0MTkzN2UyZGFi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "AYAYAY!",
-        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 130759,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -587,6 +571,22 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "AYAYAY!",
+        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Colegio",
+        "url": "https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 188086,
       "name": "Imposible Amor",
       "url": "https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Colegio",
-        "url": "https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Si por mi fuera",
-        "url": "https://open.spotify.com/album/10Biiwr7Gd6dsEd4VgvFaZ"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 208824,
-      "name": "Si por mi fuera",
-      "url": "https://open.spotify.com/track/3c7U2Kj8YL8BquVmEhybCR"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Una Foto en Blanco y Negro",
         "url": "https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI"
       },
@@ -955,6 +939,66 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "4 besos",
+        "url": "https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 232526,
+      "name": "4 besos",
+      "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Si por mi fuera",
+        "url": "https://open.spotify.com/album/10Biiwr7Gd6dsEd4VgvFaZ"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 208824,
+      "name": "Si por mi fuera",
+      "url": "https://open.spotify.com/track/3c7U2Kj8YL8BquVmEhybCR"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Trece",
         "url": "https://open.spotify.com/album/17iAbw8ZsuixaaATKdBIEB"
       },
@@ -991,26 +1035,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Los Consejos",
         "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 202153,
       "name": "Flamenkito",
       "url": "https://open.spotify.com/track/4fsj5oMLYrCUlTDs4P9qw5"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "4 besos",
-        "url": "https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 232526,
-      "name": "4 besos",
-      "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
     },
     {
       "added_at": "2020-12-01 05:03:00",

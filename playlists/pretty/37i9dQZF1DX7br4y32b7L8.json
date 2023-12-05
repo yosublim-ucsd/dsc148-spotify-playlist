@@ -1,41 +1,13 @@
 {
   "description": "songs voor je playlist!",
-  "num_followers": 22817,
+  "num_followers": 22836,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWEwZjE5NTljZTE3ZWM4OTFjYzMxMjE3NTU2OWZiMmM0N2E0OTA3",
+  "snapshot_id": "MCxiNzFlYWEzNzViYmY4ZmNhMjM3ZmYwNTIwMmU4NzNjNjZjODE2MjU3",
   "tracks": [
-    {
-      "added_at": "2023-12-01 06:33:18",
-      "album": {
-        "name": "Francis",
-        "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "DJ Madam Julie",
-          "url": "https://open.spotify.com/artist/39OsGk5DvHyZ1DA7ApDKHh"
-        },
-        {
-          "name": "Kaeh",
-          "url": "https://open.spotify.com/artist/57LrSRUxhQm9hQ1hdhW27D"
-        }
-      ],
-      "duration_ms": 211272,
-      "name": "Speciaal",
-      "url": "https://open.spotify.com/track/1IJ2kXcVKw9Of3weornLMo"
-    },
     {
       "added_at": "2023-12-01 06:33:18",
       "album": {
@@ -75,6 +47,54 @@
       "duration_ms": 186026,
       "name": "Twee Motten",
       "url": "https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs"
+    },
+    {
+      "added_at": "2023-12-01 06:33:18",
+      "album": {
+        "name": "Francis",
+        "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "DJ Madam Julie",
+          "url": "https://open.spotify.com/artist/39OsGk5DvHyZ1DA7ApDKHh"
+        },
+        {
+          "name": "Kaeh",
+          "url": "https://open.spotify.com/artist/57LrSRUxhQm9hQ1hdhW27D"
+        }
+      ],
+      "duration_ms": 211272,
+      "name": "Speciaal",
+      "url": "https://open.spotify.com/track/1IJ2kXcVKw9Of3weornLMo"
+    },
+    {
+      "added_at": "2023-12-01 06:33:18",
+      "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2023-12-01 06:33:18",
@@ -147,26 +167,6 @@
       "duration_ms": 148794,
       "name": "Weg Van Hier (feat. Masri)",
       "url": "https://open.spotify.com/track/6f0c32QKMYYI9wZsHeGG8E"
-    },
-    {
-      "added_at": "2023-12-01 06:33:18",
-      "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2023-12-01 06:33:18",

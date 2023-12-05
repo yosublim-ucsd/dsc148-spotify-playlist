@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,197 likes - 357 songs - 18 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197,873 likes - 357 songs - 18 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

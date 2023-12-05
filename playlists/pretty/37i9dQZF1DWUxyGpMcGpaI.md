@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,895 likes - 63 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,910 likes - 63 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 62 | [sword of hunter](https://open.spotify.com/track/5YuWiyq11gNqCaXvnoiitC) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 2:37 |
 | 63 | [the end of childhood](https://open.spotify.com/track/5OmMnJXOLsbuDqdQKZklHo) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 2:29 |
 
-Snapshot ID: `MCxjYWU4OTA2N2FlOGQ5NDRmZDQ1NTQ3YzA4NDJhOWI0YzIwZDdiYmY1`
+Snapshot ID: `MCw4MWYwNzkyZWExYjNiYzBkNzBkMzgxYzc5NDFjMTM0NGZhZGQ5NTMx`

@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 101689,
+  "num_followers": 101707,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDYxZDkxZWQyOTUzOThhNDcxOWJiZjI1ODMxZjgzYTRmYjMzYTg0",
+  "snapshot_id": "MCw0YWQzMjI1ZjIzNTA3NTAzOGFmNTU1NmEwNTcxYmIyMmQxMGQ5YmVj",
   "tracks": [
     {
       "added_at": "2023-09-28 22:01:00",
@@ -59,26 +59,6 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -103,18 +83,22 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -167,6 +151,22 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "eyes don't lie",
+      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "eyes don't lie",
-      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "Iko Iko (My Bestie)",
-        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
-      },
-      "artists": [
-        {
-          "name": "Justin Wellington",
-          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
-        },
-        {
-          "name": "Small Jam",
-          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Iko Iko (My Bestie)",
-      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     }
   ],
   "unique_name": "Tra Amiche",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,027 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,048 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [一路以來\(電影《富都青年》主題曲\)](https://open.spotify.com/track/03igeRXC7dF2lA5yAA8h9U) | [RYOTA 片山凉太](https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y) | [一路以來\(電影《富都青年》主題曲\)](https://open.spotify.com/album/2nLLAf8AjxzireSZH3NDWr) | 3:56 |
+| 1 | [一路以來 \(電影《富都青年》主題曲\)](https://open.spotify.com/track/45CxeowEQRWCJsK7FKo45L) | [RYOTA 片山凉太](https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y) | [一路以來 \(電影《富都青年》主題曲\)](https://open.spotify.com/album/3bEr9BUeLk15CynVKvOsPt) | 3:56 |
 | 2 | [庸人自擾](https://open.spotify.com/track/6rGHytgJzvLLe756KwRaqb) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [庸人自擾](https://open.spotify.com/album/4K2I3REUj4OlL3xxnjPYhh) | 3:42 |
 | 3 | [like a bird](https://open.spotify.com/track/4s9FPuVXTYR6Eqc4oxO3sA) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [like a bird](https://open.spotify.com/album/3OyRQfZRnHE3wzsCX18rbF) | 4:16 |
 | 4 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 23 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 |
 | 24 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
 | 25 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 |
-| 26 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
-| 27 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
-| 28 | [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 |
-| 29 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
+| 26 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
+| 27 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
+| 28 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
+| 29 | [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 |
 | 30 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 31 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
 | 32 | [如果我還剩一件事情可以做](https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 49 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
 | 50 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 |
 
-Snapshot ID: `MCxjMmI5MWUzZWI4NzkwOGY5Y2Q4NDc1NGU3MDJiNjI3Y2U2YjJhMzE3`
+Snapshot ID: `MCw0MjZlYzNiODE3OGYzZWIwMzI3NTg2ZWU2YWZlYmVhZTAzMWI5Mjlm`

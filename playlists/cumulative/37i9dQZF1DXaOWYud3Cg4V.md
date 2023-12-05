@@ -4,7 +4,7 @@
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-96 songs - 4 hr 21 min
+97 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [How Many More Years](https://open.spotify.com/track/2E7v7z3kTTt16LlnI8bliJ) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Sun Years](https://open.spotify.com/album/4ZHtFUQnmNodE0BfEnkiVq) | 2:42 | 2019-02-06 | 2022-07-29 |
 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 | 2019-02-06 |  |
 | [Hurts Me To My Heart](https://open.spotify.com/track/0cZts69Rhqc9SWKkhFDuAN) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [200 \#1 Hits Of The 1950s](https://open.spotify.com/album/3XZxijbeZzbMkXwr85v85x) | 3:01 | 2019-02-06 | 2022-07-29 |
+| [Hurts Me to My Heart](https://open.spotify.com/track/3RqeEW3NmZUMJh7bw2aHwg) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [Teen\-Age Heart](https://open.spotify.com/album/6iPrlAwTOkbGr3iPMe8koM) | 3:01 | 2019-02-06 |  |
 | [Hurts Me to My Heart 2 \- Remastered](https://open.spotify.com/track/5goezNyn5YdFi2kQUnhZkm) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [The Very Best of Atomic Adams \(Remastered\)](https://open.spotify.com/album/4hbxxQbHZ633mT1kDz9i0Z) | 2:59 | 2019-02-06 | 2022-11-13 |
 | [I Don't Hurt Anymore](https://open.spotify.com/track/0fw0iU8Oc8mCLN9hYYT8eA) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Gold](https://open.spotify.com/album/5RDZpiJYGaM5ktJEpaEty2) | 3:11 | 2019-02-06 | 2022-07-29 |
 | [I Don't Hurt Anymore](https://open.spotify.com/track/46bCPNzRmwxbdcyv8YYauN) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Hal Mooney And His Orchestra](https://open.spotify.com/artist/47ybDT1ZbixVpHfk1CWGzA) | [Late Late Show](https://open.spotify.com/album/2tGHaMOCIXDlyoyBXHv87o) | 3:13 | 2019-02-06 |  |
@@ -62,7 +63,7 @@
 | [It Ain't The Meat](https://open.spotify.com/track/6ksbzIfJqlE7gYNpp0oTAt) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [50s Doo Wop Essentials](https://open.spotify.com/album/67NE2IGbCwGitaN13dQMsC) | 2:36 | 2019-02-06 | 2022-07-29 |
 | [It Ain't The Meat, It's The Motion](https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [Dearest](https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX) | 2:36 | 2019-02-06 |  |
 | [It Ain’t The Meat](https://open.spotify.com/track/7y77bXkLLokdDSaJnjEmoq) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [The King Records R&B Anthology \- Volume 3](https://open.spotify.com/album/6zqWINptwJ8VludlxT1swz) | 2:35 | 2019-02-06 | 2022-11-14 |
-| [It Hurts Me to My Heart](https://open.spotify.com/track/5zlYphxm4NbQLdwjmdedqP) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [Shake a Hand / It Hurts Me to My Heart](https://open.spotify.com/album/6EJmbWQA8saJygAAslAUVE) | 3:00 | 2019-02-06 |  |
+| [It Hurts Me to My Heart](https://open.spotify.com/track/5zlYphxm4NbQLdwjmdedqP) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [Shake a Hand / It Hurts Me to My Heart](https://open.spotify.com/album/6EJmbWQA8saJygAAslAUVE) | 3:00 | 2019-02-06 | 2023-12-05 |
 | [Kansas City](https://open.spotify.com/track/4ivBgTQamQRSlpg8fSsxe8) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [60s Greatest Hits](https://open.spotify.com/album/1C4XnRTIjHVsxdPOdRiBBY) | 2:19 | 2019-02-06 | 2022-11-13 |
 | [Kansas City](https://open.spotify.com/track/6vLxsT7uxTqf51qazpvu3A) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [Rockabilly Madness](https://open.spotify.com/album/5SRyt95sj6LcHRCNhRlXhF) | 2:23 | 2019-02-06 | 2022-07-29 |
 | [Kansas City](https://open.spotify.com/track/4GvyP7CnBJEV2t7L7vOkjw) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [An Introduction to Wilbert Harrison](https://open.spotify.com/album/1Y1TBAbgOzreTno3UasaQX) | 2:30 | 2019-02-06 |  |

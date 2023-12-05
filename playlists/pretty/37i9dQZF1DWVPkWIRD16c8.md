@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,095 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,303 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 4 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |
 | 5 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 |
 | 6 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 |
-| 7 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 |
-| 8 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
+| 7 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
+| 8 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 |
 | 9 | [There Was Jesus](https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:43 |
 | 10 | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7) | 4:04 |
 | 11 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 23 | [The God Who Stays](https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:56 |
 | 24 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 |
 | 25 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
-| 26 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
-| 27 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
-| 28 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
-| 29 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
-| 30 | [Reason](https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:19 |
-| 31 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
+| 26 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 27 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
+| 28 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
+| 29 | [Reason](https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:19 |
+| 30 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
+| 31 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
 | 32 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
 | 33 | [AMEN](https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 2:55 |
 | 34 | [Symphony](https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 74 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 | 75 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 |
 
-Snapshot ID: `MCxiNDViMGI5OTc1MDJlYWI4NmRhODdhNzk3OGU1YzlkNmZiOTU1MWQ5`
+Snapshot ID: `MCwyNzk5MWVjMjg3NTUxZjY5ZDI3YjI1NzYyZGZmOWJjYzgyNmZlYjhj`

@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 ### [This Is NMIXX](https://open.spotify.com/playlist/37i9dQZF1DX9olwNXZEPVC)
 
-> NSWER! It's Party O'Clock!
+> NSWER! Change up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,358 likes - 39 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,551 likes - 39 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
-| 2 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 |
-| 3 | [Party O'Clock \(Inst.\)](https://open.spotify.com/track/71d89AbplK6XVkNpfHDkJg) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
-| 4 | [Roller Coaster \(Inst.\)](https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 2:59 |
-| 5 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 |
-| 6 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 |
-| 7 | [PAXXWORD](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:12 |
-| 8 | [Just Did It](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:58 |
-| 9 | [My Gosh](https://open.spotify.com/track/34UmtfADjmo12Jek6LpzQe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:36 |
-| 10 | [HOME](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:40 |
-| 11 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 |
+| 1 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 |
+| 2 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
+| 3 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 |
+| 4 | [Party O'Clock \(Inst.\)](https://open.spotify.com/track/71d89AbplK6XVkNpfHDkJg) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
+| 5 | [Roller Coaster \(Inst.\)](https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 2:59 |
+| 6 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 |
+| 7 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 |
+| 8 | [PAXXWORD](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:12 |
+| 9 | [Just Did It](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:58 |
+| 10 | [My Gosh](https://open.spotify.com/track/34UmtfADjmo12Jek6LpzQe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:36 |
+| 11 | [HOME](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 2:40 |
 | 12 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 |
 | 13 | [Funky Glitter Christmas](https://open.spotify.com/track/1R8kam26UwvsSOyamOzMOz) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [1st Intermixxion Single <Funky Glitter Christmas>](https://open.spotify.com/album/4BDUJDquHDWsW5qH48RzHn) | 3:10 |
 | 14 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 38 | [Thank you for waiting us!](https://open.spotify.com/track/66Nedi5HluuBBCKMC5ykWe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 |
 | 39 | [Coming SOON!](https://open.spotify.com/track/2hUDKmh08dMdMMTBRt8ic9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 |
 
-Snapshot ID: `MCxjNzQ5NjMzYzk0MjEzY2U0NjBjZDc2YjM3Y2NmODA0YTYwZDk2ODU5`
+Snapshot ID: `MCwzZTFlYmEyMjcwNWMwZWU5OTZlYjQzNzBiMTdlMTJkZWIyZjYyZTM5`

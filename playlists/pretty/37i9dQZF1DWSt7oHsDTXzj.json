@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. Cover: boygenius ",
-  "num_followers": 170048,
+  "num_followers": 170592,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmJlYThkMmQzMTQ5ZWQyYzM5Y2Q1MGE3MDQwMWRkYmQ1YjZiZTFm",
+  "snapshot_id": "MCxkNGMyYzU1YzJmYjlkMDkwNzUxYzE2MzMzMDU2OGQwMjJjM2E3OGRj",
   "tracks": [
     {
       "added_at": "2023-11-27 15:49:49",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 165457,
-      "name": "Wintering",
-      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+        "name": "So Much Wine",
+        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+      "duration_ms": 243600,
+      "name": "So Much Wine",
+      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "So Much Wine",
-        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "So Much Wine",
-      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Another Year",
         "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/2VZFlunJX12zxbSrzMiDp2"
     },
     {
-      "added_at": "2023-12-01 22:30:07",
-      "album": {
-        "name": "Among My Swan",
-        "url": "https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 297893,
-      "name": "Flowers In December",
-      "url": "https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm"
-    },
-    {
       "added_at": "2023-10-16 19:34:42",
       "album": {
         "name": "If We Make It Through December",
@@ -371,6 +355,22 @@
       "duration_ms": 179074,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+    },
+    {
+      "added_at": "2023-12-01 22:30:07",
+      "album": {
+        "name": "Among My Swan",
+        "url": "https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 297893,
+      "name": "Flowers In December",
+      "url": "https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Ain't Christmas (with Laufey)",
         "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 189088,
       "name": "Ain't Christmas (with Laufey)",
       "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -507,54 +507,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "When Christmas Comes Again",
-        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 197787,
-      "name": "When Christmas Comes Again",
-      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Mellow Christmas Acoustic",
         "url": "https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ"
       },
@@ -575,18 +527,50 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "When Christmas Comes Again",
+        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 197787,
+      "name": "When Christmas Comes Again",
+      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -603,6 +587,22 @@
       "duration_ms": 152426,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Phrazes For The Young",
-        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
+        "name": "Merry Xmas Everybody",
+        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
       },
       "artists": [
         {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Christmas Treat",
-      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
+      "duration_ms": 218706,
+      "name": "Merry Xmas Everybody",
+      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Merry Xmas Everybody",
-        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
+        "name": "Phrazes For The Young",
+        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
         }
       ],
-      "duration_ms": 218706,
-      "name": "Merry Xmas Everybody",
-      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
+      "duration_ms": 191466,
+      "name": "Christmas Treat",
+      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 203767,
-      "name": "Christmas (Baby Please Come Home) - Recorded at Electric Lady Studios in NYC",
-      "url": "https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Alone on Christmas Day",
         "url": "https://open.spotify.com/album/2DNeWE54G8WriLMcvIFl4B"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 174973,
       "name": "Alone on Christmas Day",
       "url": "https://open.spotify.com/track/4ZkkqhQl0KQzvvNfuhznAm"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 203767,
+      "name": "Christmas (Baby Please Come Home) - Recorded at Electric Lady Studios in NYC",
+      "url": "https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "We're The Lucky Ones",
+        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "We're the Lucky Ones",
+      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "till christmas day",
         "url": "https://open.spotify.com/album/5c3DibcwuIB94jNACIGEcr"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 169230,
       "name": "till christmas day",
       "url": "https://open.spotify.com/track/608gfFTFTlOFklDgQk0yos"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "We're The Lucky Ones",
-        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "We're the Lucky Ones",
-      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
     },
     {
       "added_at": "2023-11-25 01:03:31",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
+        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+      "duration_ms": 177733,
+      "name": "Christmas Is Going To The Dogs",
+      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -911,6 +911,38 @@
       "duration_ms": 296673,
       "name": "Mama It's Christmas",
       "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -935,34 +967,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
-        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
+        "name": "Lonely Man of Winter",
+        "url": "https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s"
       },
       "artists": [
         {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Christmas Is Going To The Dogs",
-      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+      "duration_ms": 191266,
+      "name": "Lonely Man of Winter",
+      "url": "https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -979,22 +995,6 @@
       "duration_ms": 188533,
       "name": "Christmas Special",
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Lonely Man of Winter",
-        "url": "https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Lonely Man of Winter",
-      "url": "https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "This Year For Christmas",
-        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 112361,
-      "name": "This Year For Christmas",
-      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Santa Baby (Recorded at Strongroom Studios London)",
         "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
       },
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "This Year For Christmas",
+        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 272266,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+      "duration_ms": 112361,
+      "name": "This Year For Christmas",
+      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "When I Get Home for Christmas",
+        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "When I Get Home for Christmas",
+      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Christmas, Hopefully",
         "url": "https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 241177,
       "name": "Christmas, Hopefully",
       "url": "https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "When I Get Home for Christmas",
-        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "When I Get Home for Christmas",
-      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 149080,
       "name": "It's Beginning to Look a Lot Like Christmas",
       "url": "https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2023-10-16 19:34:42",

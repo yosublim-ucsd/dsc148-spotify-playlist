@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-193 songs - 10 hr 46 min
+194 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Be Alright](https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU) | 3:34 | 2022-11-30 | 2023-11-30 |
 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 | 2022-11-30 | 2023-11-30 |
 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 | 2022-11-30 | 2023-11-30 |
+| [blame](https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 2:40 | 2023-11-29 |  |
 | [Bleak Sublime](https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA) | 3:51 | 2022-11-30 | 2023-11-30 |
 | [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 | 2022-11-30 | 2023-03-15 |
 | [Busy](https://open.spotify.com/track/0sYqHVqGJnI9xELCRkoHle) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/5EwqOGJq0pokivVZcvn0eu) | 2:46 | 2022-11-30 | 2023-03-27 |
@@ -197,7 +198,7 @@
 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 | 2023-11-29 |  |
 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 | 2023-11-29 |  |
 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 | 2022-11-30 | 2023-11-30 |
-| [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-11-29 |  |
+| [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-11-29 | 2023-12-05 |
 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 | 2023-11-29 |  |
 | [You Have Bought Yourself A Boat \- Live](https://open.spotify.com/track/0mFAWvtCwXxKwxzJ0IiW9o) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [You Have Bought Yourself A Boat \(Live\)](https://open.spotify.com/album/07SurUcuBKJ2orUg42YyUY) | 2:47 | 2023-11-29 | 2023-12-02 |
 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 | 2022-11-30 | 2023-11-30 |

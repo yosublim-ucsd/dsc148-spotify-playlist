@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,709 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,844 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 8 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 |
 | 9 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
 | 10 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
-| 11 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
-| 12 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 |
-| 13 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
-| 14 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
+| 11 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
+| 12 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
+| 13 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 |
+| 14 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
 | 15 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 |
 | 16 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
 | 17 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 58 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 59 | [Kiss Me](https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:49 |
 | 60 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
-| 61 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
-| 62 | [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 |
-| 63 | [Only Human](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:03 |
-| 64 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
+| 61 | [Home \(2019 Remaster\)](https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 5:06 |
+| 62 | [Only Human](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:03 |
+| 63 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
+| 64 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
 | 65 | [Spirits](https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 3:23 |
 | 66 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 67 | [Narcotic \- Radio Edit](https://open.spotify.com/track/1H5VQuShs4qfwBXyHF0PeH) | [Liquido](https://open.spotify.com/artist/0wgLwvDNCHdJ9FblyyD4Dc) | [Narcotic](https://open.spotify.com/album/79EDJF2fJnnM7YVKCAeQXj) | 3:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 74 | [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women in Technology](https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq) | 4:19 |
 | 75 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 |
 
-Snapshot ID: `MCwwN2IxMDFkODczZDdjNjdiNTI0ZGEyYjFkZjZmOTNjYWY3YmZlYTgy`
+Snapshot ID: `MCxlMDRiMGNlMDY1ZTMzMzFjYzQyNjVhZDc4NjgxZjE2NWJjOGJhYWU4`

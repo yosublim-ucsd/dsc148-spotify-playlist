@@ -1,12 +1,12 @@
 {
   "description": "All your favourite mood boosting bangers...",
-  "num_followers": 599427,
+  "num_followers": 599516,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTdhYjlkZjBhNzZlZWI5MDBlOGZmZDM5YzFlZWQ0NWVhZDFiY2Mx",
+  "snapshot_id": "MCxkMWE5ZTM2YTk3ZjI5NzVmOWRmNmRjMjFlZGEzODY3ODU4ZTVlYWZm",
   "tracks": [
     {
       "added_at": "2023-11-28 15:26:39",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-11-28 15:26:39",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2023-11-28 15:26:39",
+      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
-    },
-    {
-      "added_at": "2023-11-28 15:26:39",
-      "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2023-11-28 15:26:39",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-11-28 15:26:39",
       "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "added_at": "2023-11-28 15:26:39",
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2023-11-28 15:26:39",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2023-11-28 15:26:39",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-11-28 15:26:39",
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2023-11-28 15:26:39",
+      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2023-11-28 15:26:39",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2023-11-28 15:26:39",
@@ -659,22 +659,18 @@
     {
       "added_at": "2023-11-28 15:26:39",
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-11-28 15:26:39",
@@ -695,18 +691,22 @@
     {
       "added_at": "2023-11-28 15:26:39",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": "2023-11-28 15:26:39",

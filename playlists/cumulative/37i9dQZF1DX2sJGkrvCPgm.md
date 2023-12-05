@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-328 songs - 20 hr 43 min
+329 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Christmas \(What the World Needs\)](https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas \(What the World Needs\)](https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h) | 3:36 | 2021-12-24 | 2023-11-27 |
 | [Christmas Day](https://open.spotify.com/track/6nIiYGBgnHAGWORciUdYUD) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Christmas Day](https://open.spotify.com/album/5CrtA1GdRHI0r4X74aU0Ul) | 4:23 | 2021-12-24 | 2022-07-29 |
 | [Christmas Day](https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:23 | 2021-12-24 |  |
+| [Christmas Eve](https://open.spotify.com/track/53aC15UvgXEsdhXEpwL6rQ) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Christmas Eve](https://open.spotify.com/album/4r5X5CaEXaj7Uh0bJYoCkF) | 3:18 | 2023-12-02 |  |
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-11-03 | 2023-11-25 |
 | [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-24 | 2022-07-24 |
 | [Christmas Hits Different](https://open.spotify.com/track/2waUZdv6NOCZwUfUFCIJis) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Christmas Hits Different](https://open.spotify.com/album/3yZQBoubh5fwN1gFHI8f7m) | 3:28 | 2023-12-02 |  |
@@ -255,7 +256,7 @@
 | [Rejoice](https://open.spotify.com/track/3vUVSo09281qRWPabnsIMy) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Rejoice](https://open.spotify.com/album/7FlCM63Q0pIap1Ofg3uwSK) | 3:12 | 2021-12-24 | 2023-11-18 |
 | [Rest \(The Song Of The Innkeeper\)](https://open.spotify.com/track/1vF5MppnOia0TBuE4vTaHM) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Christmas Stories: Repeat The Sounding Joy](https://open.spotify.com/album/6etDHwbarfZB28dwYHBbJc) | 3:41 | 2021-12-24 | 2022-07-26 |
 | [Ring Them Bells](https://open.spotify.com/track/6KLtFiTj68gDr0WXvjpOkt) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Ring Them Bells](https://open.spotify.com/album/0GxLNpsn2hp1oKycqB1Poa) | 3:39 | 2023-12-02 |  |
-| [Saviour](https://open.spotify.com/track/7g6DscMtOV2ddOUsanh9Eo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Saviour](https://open.spotify.com/album/7noLUyCB1UokVaRfd7Zgom) | 4:18 | 2022-11-26 |  |
+| [Saviour](https://open.spotify.com/track/7g6DscMtOV2ddOUsanh9Eo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Saviour](https://open.spotify.com/album/7noLUyCB1UokVaRfd7Zgom) | 4:18 | 2022-11-26 | 2023-12-05 |
 | [Shine So Bright](https://open.spotify.com/track/2VgaxOAwxWcFH3iHl86bXS) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 3:21 | 2021-12-24 | 2022-07-26 |
 | [Silent Night](https://open.spotify.com/track/6X3o5CZvqtWFF1avJYeb6V) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Silent Night](https://open.spotify.com/album/6sttWYLWoJmJktbTWFfEVt) | 3:58 | 2021-12-24 | 2022-07-29 |
 | [Silent Night](https://open.spotify.com/track/64tmdM5ETIdidw0ycwRiXK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Songs for Christmas](https://open.spotify.com/album/3JnPOv7W9fhXZqrlIxnWRo) | 3:47 | 2021-12-24 | 2022-03-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume\. Cover:  <a href=“spotify:artist:5LkbTSqXfMBjFSGi9LOGjq”>Samara Joy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,620 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,650 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 |
 | 34 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
 | 35 | [Mountain With A View](https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:57 |
-| 36 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 |
-| 37 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
-| 38 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
+| 36 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
+| 37 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 |
+| 38 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
 | 39 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 |
 | 40 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
 | 41 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 50 | [Anything 4 U](https://open.spotify.com/track/0MuAaWayfAeq0C6WDM15Mz) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Anything 4 U](https://open.spotify.com/album/7gjErqquS2uyJy0rGbYcOC) | 3:08 |
 
-Snapshot ID: `MCw2NTZmMTgzNDY5YzJiOTNkMTIxNWRjNDVlMWJjYTkzNGI4NzQ3YjUw`
+Snapshot ID: `MCxlZDc0MzkzNjdlY2QxMmJlNjAxMTM3MWMxOTJkMzQxMjUyMTlkOWI0`

@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-213 songs - 11 hr 38 min
+214 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,8 +66,9 @@
 | [Christmas Wish](https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/1HfHKTJRTvwjvSRi865iNv) | 3:54 | 2023-11-15 |  |
 | [Christmas With You](https://open.spotify.com/track/46Uone4mIG2wQDMKtqYM9Y) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Christmas With You](https://open.spotify.com/album/56TX3aCqsIqIvHnYQK0GlF) | 2:29 | 2021-12-12 | 2022-11-11 |
 | [Christmas Without You](https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:15 | 2021-12-12 | 2022-12-04 |
-| [Christmas Without You](https://open.spotify.com/track/1cEIJUSzxEQPKozm0vW0rV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Winter Mood \- 冬の気分に浸れる洋楽 \-](https://open.spotify.com/album/4ltmz7KA90ycNAH0rwhmvm) | 3:17 | 2022-12-02 |  |
+| [Christmas Without You](https://open.spotify.com/track/1cEIJUSzxEQPKozm0vW0rV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Winter Mood \- 冬の気分に浸れる洋楽 \-](https://open.spotify.com/album/4ltmz7KA90ycNAH0rwhmvm) | 3:17 | 2022-12-02 | 2023-12-05 |
 | [Christmas Without You](https://open.spotify.com/track/1wkMUZExD5GGhh8nikfR3q) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Lonely Christmas](https://open.spotify.com/album/4sZD5pnwOZW8a1h0j7aFTq) | 3:17 | 2022-11-10 | 2022-11-13 |
+| [Christmas Without You](https://open.spotify.com/track/2GVJ08KA30FZMN5dAt9pQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [楽しいクリスマス](https://open.spotify.com/album/1PVS4IztWXudzruPFbkxkf) | 3:17 | 2023-11-15 |  |
 | [Christmas Without You](https://open.spotify.com/track/2nubqMEBjndKaGDnPQGz1G) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Best Christmas Songs](https://open.spotify.com/album/3ZA2dVknJjIziZQVuI1nB9) | 3:17 | 2021-12-12 | 2022-11-11 |
 | [Christmas Without You](https://open.spotify.com/track/2s3Hr38fRfDRj9JWVP494L) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 3:17 | 2021-12-12 | 2022-11-07 |
 | [Christmas Without You](https://open.spotify.com/track/4gWpUjTbcwASiRVkJM319B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Christmas Without You](https://open.spotify.com/album/0a0KVX4qdIea6J0JdVHc6J) | 3:17 | 2021-12-12 | 2022-07-29 |

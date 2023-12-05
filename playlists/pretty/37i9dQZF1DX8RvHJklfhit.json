@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 172929,
+  "num_followers": 172961,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGE4MGZkNjg4NjFkYjQ3YmVjNjA3ZDdlOTlhYjk3NWNhNGRkN2Uz",
+  "snapshot_id": "MCw1ZGM1ZGQxMzA0NmUxNGRiMGVmOWNjNzQ2Y2YwMDRjMDE1OTA3NjIx",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -107,26 +107,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 207454,
-      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
-      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -147,22 +139,6 @@
       "duration_ms": 227586,
       "name": "Mi Buen Amor",
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -199,6 +175,46 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 207454,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 240295,
       "name": "Ojos Noche",
       "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -263,22 +263,6 @@
       "duration_ms": 207333,
       "name": "Am\u00e1rrame",
       "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -359,6 +343,22 @@
       "duration_ms": 236000,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 254993,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+      "duration_ms": 159533,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 159533,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN"
+      "duration_ms": 254993,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Black Lipstick",
         "url": "https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Colores Paganos",
-        "url": "https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY"
-      },
-      "artists": [
-        {
-          "name": "TOURISTA",
-          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
-        }
-      ],
-      "duration_ms": 204585,
-      "name": "Explotar Contigo",
-      "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Gratitud",
         "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 272187,
       "name": "La Crecida",
       "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Colores Paganos",
+        "url": "https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY"
+      },
+      "artists": [
+        {
+          "name": "TOURISTA",
+          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
+        }
+      ],
+      "duration_ms": 204585,
+      "name": "Explotar Contigo",
+      "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Gran Santiago",
+        "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
+      },
+      "artists": [
+        {
+          "name": "Teleradio Donoso",
+          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
+        }
+      ],
+      "duration_ms": 228098,
+      "name": "Eras mi persona favorita",
+      "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Gran Santiago",
-        "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
-      },
-      "artists": [
-        {
-          "name": "Teleradio Donoso",
-          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
-        }
-      ],
-      "duration_ms": 228098,
-      "name": "Eras mi persona favorita",
-      "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
-        "url": "https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX"
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
       },
       "artists": [
         {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 223786,
-      "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
-      "url": "https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq"
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1467,22 +1463,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
+        "url": "https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 223786,
+      "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Estereomance",
-        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
-      },
-      "artists": [
-        {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
-        }
-      ],
-      "duration_ms": 255597,
-      "name": "Dung Ding Dang",
-      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Mariposa De Coalcom\u00e1n",
         "url": "https://open.spotify.com/album/37qgqu8z3XbatGZ8X6h40C"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 293453,
       "name": "Mariposa De Coalcom\u00e1n",
       "url": "https://open.spotify.com/track/746EOusLLWulE6bWw41iAH"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
     },
     {
       "added_at": "2023-10-12 20:02:07",

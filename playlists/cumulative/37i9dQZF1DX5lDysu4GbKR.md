@@ -2,7 +2,7 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Relax to these acoustic soul songs\. Cover: Mychelle
+> Relax to these acoustic soul songs\. Cover: Teddy Swims
 
 210 songs - 12 hr 46 min
 

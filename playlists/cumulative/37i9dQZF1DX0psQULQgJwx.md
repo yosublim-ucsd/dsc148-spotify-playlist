@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA
 
-121 songs - 7 hr 8 min
+123 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-09-02 |  |
 | [Choshi or Shirabe](https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6) | [Stan Richardson](https://open.spotify.com/artist/3hCNzCde5ddHVbysLGnImt) | [Shakuhachi Meditation Music](https://open.spotify.com/album/5WQCyENQ8DSX6Eqs952moH) | 4:52 | 2022-09-02 | 2023-01-05 |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2022-09-02 |  |
+| [Closeness](https://open.spotify.com/track/54fl7LXaGnQAyT0OIB8I5X) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Closeness](https://open.spotify.com/album/6uSckUQYGKZ4LCdK9uHYZM) | 3:02 | 2023-12-04 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cosmic Coast \- Spa](https://open.spotify.com/track/1s63jXLAtYJOTCT9fIu4O5) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Cosmic Coast](https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx) | 2:18 | 2023-11-17 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2022-09-02 |  |
@@ -127,6 +128,7 @@
 | [Wellen](https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Wellen](https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF) | 3:36 | 2023-04-06 |  |
 | [What If](https://open.spotify.com/track/1TNaCe4Qd8fyNSbHoGvjbG) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [What If](https://open.spotify.com/album/6PhSMtqauo1H6EoPgtPG9S) | 2:43 | 2022-09-02 |  |
 | [Wild Rhythms](https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 | 2022-09-02 |  |
+| [World of a Heartbeat](https://open.spotify.com/track/3p2tDKPJTQmH2hvu4vGGoO) | [Posonium](https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW) | [World of a Heartbeat](https://open.spotify.com/album/7rBBFwmvUjiLo1CW1FKO2K) | 2:38 | 2023-12-04 |  |
 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 | 2023-01-09 |  |
 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2022-09-02 |  |
 

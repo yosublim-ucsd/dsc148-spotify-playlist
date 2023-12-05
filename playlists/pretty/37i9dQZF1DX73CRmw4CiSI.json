@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 82170,
+  "num_followers": 82204,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDhlNWIxOThmZjAxYTFlNGM0Zjc0ODMzZDg2MjkzZTZhNGE3YjIw",
+  "snapshot_id": "MCwzNjhjOTgwYjc5Y2JkZjVlNDQ0NGM0OGVjNzc3ZjUxNmIxZWIyMjZh",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Que El Cielo Espere Sentao..",
         "url": "https://open.spotify.com/album/1nRo70xzejpUW36UNp0ZF8"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Buenos Muchachos",
         "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 204933,
       "name": "Te Quiero Comer La Boca",
       "url": "https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Aviones",
-        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
       "artists": [
         {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 191586,
-      "name": "Lady Madrid",
-      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
+      "duration_ms": 202826,
+      "name": "Por la Raja de Tu Falda",
+      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+        "name": "Aviones",
+        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
       },
       "artists": [
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Por la Raja de Tu Falda",
-      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
+      "duration_ms": 191586,
+      "name": "Lady Madrid",
+      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Una Peque\u00f1a Parte Del Mundo",
+        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "C\u00f3mo hablar",
+      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "La taberna del Buda",
         "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 251453,
       "name": "Sincericidio",
       "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Una Peque\u00f1a Parte Del Mundo",
-        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "C\u00f3mo hablar",
-      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La taberna del Buda",
-        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "La taberna del Buda",
-      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "30 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 194870,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La taberna del Buda",
+        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "La taberna del Buda",
+      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
     },
     {
       "added_at": "2022-01-25 22:47:02",

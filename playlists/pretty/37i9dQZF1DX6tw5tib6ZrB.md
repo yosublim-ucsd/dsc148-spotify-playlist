@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Tee Grizzley, 2 Chaiz, Drake, Shane Eagle, Rick Ross, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,911 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,183 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 | 50 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 
-Snapshot ID: `MCxmY2Y3YzEwMzc2MjAwNTVmMjFkMTM4ODNhYjBiOGQxMGEyNTgxNDhm`
+Snapshot ID: `MCw4NDRkZDBlYzc3MzdmZDdhZDZiYmRlNzdlNzFkYmRhMTE3NGVkN2Y2`

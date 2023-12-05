@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Kenya Grace
 
-1,760 songs - 4 day 1 hr 57 min
+1,762 songs - 4 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 | 2023-05-11 | 2023-06-16 |
 | [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 | 2023-04-20 | 2023-04-24 |
 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2023-04-20 | 2023-05-12 |
+| [Dancing On My Own](https://open.spotify.com/track/10Ub1SCVVE4jpyRzyhKiax) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf), [CHEDDAR](https://open.spotify.com/artist/2VdXaUtovdv2YLpFlZkYlB) | [Dancing On My Own](https://open.spotify.com/album/7MfV1dRDusuRtvLBMUAddr) | 2:04 | 2023-12-03 |  |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-18 | 2023-06-16 |
 | [Dancing With A Ghost](https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dancing With A Ghost](https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D) | 2:33 | 2023-10-06 | 2023-11-10 |
 | [Dangerous](https://open.spotify.com/track/1vdK5tWvKAfyBbn2HQZEpi) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Dangerous](https://open.spotify.com/album/2CsYB5D113fmMjvxBQpowV) | 3:55 | 2022-12-08 | 2022-12-16 |
@@ -1518,6 +1519,7 @@
 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-08-31 | 2023-09-15 |
 | [Tension](https://open.spotify.com/track/6XiCKqfm5Xggvz5XuTC29t) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Tension](https://open.spotify.com/album/3uvIfQkvwjNVIWFM9oOFPy) | 4:14 | 2023-08-03 | 2023-08-25 |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-19 | 2023-11-03 |
+| [Tension \(FOVOS Remix\)](https://open.spotify.com/track/0wkSxsnb8hoITLBjZye6eX) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Accepted Concept \(Remixes\)](https://open.spotify.com/album/4SreqZhWrDv15bMIituXG3) | 3:37 | 2023-12-03 |  |
 | [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-12 | 2023-10-20 |
 | [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 | 2023-10-19 | 2023-10-30 |
 | [Terrified \(feat\. Veronica Bravo\)](https://open.spotify.com/track/4T6WQMYb39CuNTFKGFhICG) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [MAVE](https://open.spotify.com/artist/7q40OKKMzEDdR1L3b0YR3e), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Terrified \(feat\. Veronica Bravo\)](https://open.spotify.com/album/4byYu9N0B0CPi08S9SvD3W) | 2:24 | 2023-01-05 | 2023-01-27 |

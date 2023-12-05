@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 354928,
+  "num_followers": 354917,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E0MjQxOWEyNjU3MTdkNjg0NDcxNGMwMGI5MDZiODk3ODI3NzE1",
+  "snapshot_id": "MCwyMWNkMTk4ZmViNjQzMDI5NDUyYTczMDc2OGU3ZDdmY2NjZjUwNDlk",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
-      },
-      "artists": [
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 223111,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Blurred Lines (Deluxe)",
         "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 223111,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Blazzin' Fire",
-        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Blazzin' Fire",
+        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 350400,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Verano Azul",
+        "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Verano Azul",
+      "url": "https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Mar De Colores (Versi\u00f3n Extendida)",
         "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 224786,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Verano Azul",
-        "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Verano Azul",
-      "url": "https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 225693,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Macarena (EP)",
         "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 224626,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Ana, Jos\u00e9, Nacho",
         "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
       },
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -2215,6 +2215,22 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
+      },
+      "artists": [
+        {
+          "name": "El Simbolo",
+          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2263,18 +2279,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
       "artists": [
         {
-          "name": "El Simbolo",
-          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 219933,
-      "name": "1 2 3",
-      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
+      "duration_ms": 193540,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2291,22 +2307,6 @@
       "duration_ms": 243695,
       "name": "Gimme Hope Jo'anna",
       "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193540,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Cartas de Amor",
-        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
-      },
-      "artists": [
-        {
-          "name": "Los Moles",
-          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "El Legia",
-      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Buler\u00eda",
         "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 251973,
       "name": "Buleria",
       "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Cartas de Amor",
+        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
+      },
+      "artists": [
+        {
+          "name": "Los Moles",
+          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "El Legia",
+      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Papi Chulo... Te Traigo El Mmmm",
-        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
-      },
-      "artists": [
-        {
-          "name": "Lorna",
-          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
-      "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Papi Chulo... Te Traigo El Mmmm",
+        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
+      "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
     },
     {
       "added_at": "2023-06-09 09:38:51",

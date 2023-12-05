@@ -1,12 +1,12 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 11991,
+  "num_followers": 12073,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDJiMTNiZThiNjQ4ZDU4Y2ExMWEyNTM1MWFmNGFiMWMwOTAwYmI3",
+  "snapshot_id": "MCw4OGJjMjY2NTYyYjAwNjM0ZjQ1ZWZhZTQ4NzFiOWUzYzYyMTZmMzI4",
   "tracks": [
     {
       "added_at": "2023-11-22 12:51:56",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Good Morning Blues",
+      "url": "https://open.spotify.com/track/0AqIhsraOrAQn2KhlRidrW"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Rockin' Christmas Blues",
         "url": "https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT"
       },
@@ -143,6 +159,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "A Christmas Celebration Of Hope",
+        "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Lonesome Christmas",
+      "url": "https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Vooey Vooey Vay!",
         "url": "https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l"
       },
@@ -155,22 +187,6 @@
       "duration_ms": 157440,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2V0nezXHgQhEegaQzbpEfv"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Good Morning Blues",
-      "url": "https://open.spotify.com/track/0AqIhsraOrAQn2KhlRidrW"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -207,22 +223,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "A Christmas Celebration Of Hope",
-        "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Lonesome Christmas",
-      "url": "https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Ghost From Christmas Past",
         "url": "https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 237077,
       "name": "Ghost From Christmas Past",
       "url": "https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Rockin' Christmas Blues",
-        "url": "https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 216469,
-      "name": "Bring Back My Cadillac",
-      "url": "https://open.spotify.com/track/1oSwpnWK8Tw69W5wFXVv4Q"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -271,6 +255,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Rockin' Christmas Blues",
+        "url": "https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 216469,
+      "name": "Bring Back My Cadillac",
+      "url": "https://open.spotify.com/track/1oSwpnWK8Tw69W5wFXVv4Q"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "The Complete '50s Chess Recordings",
         "url": "https://open.spotify.com/album/6ZytgjeBLBmOmxt8OyhMk0"
       },
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Texas Oil - The Complete Federal Recordings",
-        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Christmas Tears",
-      "url": "https://open.spotify.com/track/3PueitHxV80BwcgQVl0qjt"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "A Christmas Celebration Of Hope",
         "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 254866,
       "name": "Christmas Comes But Once A Year",
       "url": "https://open.spotify.com/track/1dW0NVuJJ1iIvJFUoWSDJ6"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Texas Oil - The Complete Federal Recordings",
+        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Christmas Tears",
+      "url": "https://open.spotify.com/track/3PueitHxV80BwcgQVl0qjt"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Vooey Vooey Vay!",
-        "url": "https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l"
-      },
-      "artists": [
-        {
-          "name": "Sugar Chile Robinson",
-          "url": "https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu"
-        }
-      ],
-      "duration_ms": 136960,
-      "name": "Christmas Boogie",
-      "url": "https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Christmas Gumbo",
         "url": "https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
+        "name": "Vooey Vooey Vay!",
+        "url": "https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Sugar Chile Robinson",
+          "url": "https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu"
         }
       ],
-      "duration_ms": 209362,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/7ecTsJ3c6LfkHcum1h43UG"
+      "duration_ms": 136960,
+      "name": "Christmas Boogie",
+      "url": "https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -415,6 +399,22 @@
       "duration_ms": 271186,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 209362,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7ecTsJ3c6LfkHcum1h43UG"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -456,22 +456,6 @@
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Have You Heard The News?",
-      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
           "name": "Dave Hole",
           "url": "https://open.spotify.com/artist/6qGv85JlIu536BngDpbI5X"
         }
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "An Austin Rhythm And Blues Christmas",
-        "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
       },
       "artists": [
         {
-          "name": "Angela Strehli",
-          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 146493,
-      "name": "Boogie Woogie Santa Claus",
-      "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
+      "duration_ms": 284320,
+      "name": "Have You Heard The News?",
+      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -515,22 +499,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
-          "name": "Coco Montoya",
-          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
-        }
-      ],
-      "duration_ms": 268520,
-      "name": "A Bluesman's Christmas",
-      "url": "https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Best of Street New Orleans Xmas",
         "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
       },
@@ -543,6 +511,38 @@
       "duration_ms": 278226,
       "name": "Christmas Morning Blues",
       "url": "https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "An Austin Rhythm And Blues Christmas",
+        "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "duration_ms": 146493,
+      "name": "Boogie Woogie Santa Claus",
+      "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+      },
+      "artists": [
+        {
+          "name": "Coco Montoya",
+          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
+        }
+      ],
+      "duration_ms": 268520,
+      "name": "A Bluesman's Christmas",
+      "url": "https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Happy Xmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vp3vf0hRKawrqUIzcr0P7"
+        "name": "Best of Street New Orleans Xmas",
+        "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Yes Maam",
+          "url": "https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl"
+        },
+        {
+          "name": "Blind Boy Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
         }
       ],
-      "duration_ms": 163306,
-      "name": "A Little Bit of Christmas Love (Bonus Track)",
-      "url": "https://open.spotify.com/track/6DPRRbx7FoQIg6XCysME9i"
+      "duration_ms": 186013,
+      "name": "Dirty Ol' Christmas Blues",
+      "url": "https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Best of Street New Orleans Xmas",
-        "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
+        "name": "Happy Xmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vp3vf0hRKawrqUIzcr0P7"
       },
       "artists": [
         {
-          "name": "Yes Maam",
-          "url": "https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl"
-        },
-        {
-          "name": "Blind Boy Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 186013,
-      "name": "Dirty Ol' Christmas Blues",
-      "url": "https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ"
+      "duration_ms": 163306,
+      "name": "A Little Bit of Christmas Love (Bonus Track)",
+      "url": "https://open.spotify.com/track/6DPRRbx7FoQIg6XCysME9i"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Southern Rock Christmas",
-        "url": "https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO"
-      },
-      "artists": [
-        {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
-        }
-      ],
-      "duration_ms": 292023,
-      "name": "It's Bad to Have the Blues (At Christmas Time)",
-      "url": "https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Stony Plain's Christmas Blues",
         "url": "https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Southern Rock Christmas",
+        "url": "https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+        }
+      ],
+      "duration_ms": 292023,
+      "name": "It's Bad to Have the Blues (At Christmas Time)",
+      "url": "https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Death Might Be Your Santa Claus",
         "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 225773,
       "name": "Santa",
       "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "Lonesome Christmas",
+      "url": "https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -739,22 +755,6 @@
       "duration_ms": 262320,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Lonesome Christmas",
-      "url": "https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Justin Time for Christmas, Vol. 3",
-        "url": "https://open.spotify.com/album/0Bx64iuZOHwoTW1AxDsesc"
-      },
-      "artists": [
-        {
-          "name": "Bryan Lee",
-          "url": "https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc"
-        }
-      ],
-      "duration_ms": 348040,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/2MmByherqjfgXrmEcslkox"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Alligator Records' Genuine Houserockin' Christmas",
         "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Mississippi Delta Blues Jam in Memphis, Vol. 2",
+        "url": "https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr"
+      },
+      "artists": [
+        {
+          "name": "Bukka White",
+          "url": "https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp"
+        }
+      ],
+      "duration_ms": 313173,
+      "name": "Christmas Eve Blues",
+      "url": "https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Uncle Mick's Christmas Album",
         "url": "https://open.spotify.com/album/17AJmShSJtRTsPnt0lAfsA"
       },
@@ -887,6 +887,38 @@
       "duration_ms": 265346,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/4gWoYDyARViU65xP7xdjCY"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Justin Time for Christmas, Vol. 3",
+        "url": "https://open.spotify.com/album/0Bx64iuZOHwoTW1AxDsesc"
+      },
+      "artists": [
+        {
+          "name": "Bryan Lee",
+          "url": "https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc"
+        }
+      ],
+      "duration_ms": 348040,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/2MmByherqjfgXrmEcslkox"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "All I'm Gettin' for Christmas is the Blues",
+        "url": "https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ"
+      },
+      "artists": [
+        {
+          "name": "Deb Ryder",
+          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "All I'm Gettin' for Christmas is the Blues",
+      "url": "https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -911,18 +943,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "All I'm Gettin' for Christmas is the Blues",
-        "url": "https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ"
+        "name": "Putumayo Presents Blues Christmas",
+        "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
       },
       "artists": [
         {
-          "name": "Deb Ryder",
-          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+          "name": "Jesse \"Babyface\" Thomas",
+          "url": "https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc"
         }
       ],
-      "duration_ms": 207226,
-      "name": "All I'm Gettin' for Christmas is the Blues",
-      "url": "https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ"
+      "duration_ms": 204626,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -947,18 +979,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Mississippi Delta Blues Jam in Memphis, Vol. 2",
-        "url": "https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr"
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
       },
       "artists": [
         {
-          "name": "Bukka White",
-          "url": "https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp"
+          "name": "Little Charlie & The Nightcats",
+          "url": "https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl"
         }
       ],
-      "duration_ms": 313173,
-      "name": "Christmas Eve Blues",
-      "url": "https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu"
+      "duration_ms": 193880,
+      "name": "It's Christmas Time Again (Spend, Spend, Spend)",
+      "url": "https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -979,38 +1011,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Putumayo Presents Blues Christmas",
-        "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
-      },
-      "artists": [
-        {
-          "name": "Jesse \"Babyface\" Thomas",
-          "url": "https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
-      },
-      "artists": [
-        {
-          "name": "Little Charlie & The Nightcats",
-          "url": "https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "It's Christmas Time Again (Spend, Spend, Spend)",
-      "url": "https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Merry Blue Christmas",
         "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 154919,
       "name": "Christmas Date Blues",
       "url": "https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -1059,6 +1043,22 @@
       "duration_ms": 236133,
       "name": "You're A Mean One Mr. Grinch",
       "url": "https://open.spotify.com/track/5AyuHCOC5gmJ8DrPIqMoaZ"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Christmas in Your Arms",
+        "url": "https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A"
+      },
+      "artists": [
+        {
+          "name": "Bad Temper Joe",
+          "url": "https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "Christmas in Your Arms",
+      "url": "https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "King Biscuit Time",
         "url": "https://open.spotify.com/album/1aPpiXa9PkLqformEOgyIe"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Christmas in Your Arms",
-        "url": "https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A"
-      },
-      "artists": [
-        {
-          "name": "Bad Temper Joe",
-          "url": "https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "Christmas in Your Arms",
-      "url": "https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "The Bluebird Recordings, 1938",
         "url": "https://open.spotify.com/album/4HhTU3By2batodWLzxpYqc"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Uncle Mick's Christmas Album",
-        "url": "https://open.spotify.com/album/17AJmShSJtRTsPnt0lAfsA"
-      },
-      "artists": [
-        {
-          "name": "Mick Kolassa",
-          "url": "https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG"
-        }
-      ],
-      "duration_ms": 205380,
-      "name": "Christmas Morning Blues",
-      "url": "https://open.spotify.com/track/1O8t2pHd3gurIbOhPkWk8h"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Classics: 1949-1954",
         "url": "https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 162226,
       "name": "Christmas Morning (10-29-52)",
       "url": "https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas Blues",
+        "url": "https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN"
+      },
+      "artists": [
+        {
+          "name": "Larry Darnell",
+          "url": "https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w"
     }
   ],
   "unique_name": "Christmas Blues",

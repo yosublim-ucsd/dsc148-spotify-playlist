@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Pastorita Huaracina",
+        "url": "https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b"
+      },
+      "artists": [
+        {
+          "name": "Pastorita Huaracina",
+          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "A los Filos de un Cuchillo",
+      "url": "https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe"
+    },
+    {
+      "album": {
         "name": "Huaynos corazon y alma",
         "url": "https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"

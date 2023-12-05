@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,502 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,539 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 49 | [Younger](https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:33 |
 | 50 | [Girls Your Age](https://open.spotify.com/track/3wchQBokK9IDtoYrw14gpK) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Transviolet](https://open.spotify.com/album/6nlhWBxBwgtwH80zCK8djC) | 3:28 |
 
-Snapshot ID: `MCwzNDMxNTkxMmNmM2VlNjcxZTNmNGM4ZTRjYTZhZjdmMGUxMWQ5NWU4`
+Snapshot ID: `MCw1N2IyZDkyOWJlZWQyODE4ZjQ1ZWE2MGM2Yzg1MTljYzFjNjkwNDdm`

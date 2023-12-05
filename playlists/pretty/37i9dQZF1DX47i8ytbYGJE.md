@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,018 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,048 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 20 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 21 | [Shirley Lee](https://open.spotify.com/track/3UFWCXXdaRF9TltGorFeaw) | [Bobby Lee Trammell](https://open.spotify.com/artist/0TJ6UwA2LLLk3u9WjPFYLW) | [Uh\-Oh](https://open.spotify.com/album/1e5Dh7ygas33shYovwINI1) | 1:47 |
 | 22 | [Yes Tonight Josephine](https://open.spotify.com/track/27swcnouYa2UVqqjtMPHUI) | [Jets](https://open.spotify.com/artist/5lYoBmQmOncqIVZgVxzFzy) | [The Singles](https://open.spotify.com/album/53KAbX9gBq9qmZLmEpxyrF) | 3:14 |
-| 23 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 3:01 |
+| 23 | [Johnny Got A Boom Boom](https://open.spotify.com/track/5v66oIlY1prS2Q4KUQgiwV) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Drive Home](https://open.spotify.com/album/0JNiNGzzLk4EREarCIASpz) | 2:59 |
 | 24 | [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/186zX1i9deC8ewXKMp1rDd) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Monsters](https://open.spotify.com/album/3AISe8rp8zrbn6uaH02Dxr) | 2:35 |
 | 25 | [King Cry\-Baby](https://open.spotify.com/track/0YtOA9MiHBCjKelmZtkf0V) | [James Intveld](https://open.spotify.com/artist/3PaZvRc0695xVyvwWZmsNt), [Tony Brown](https://open.spotify.com/artist/1YMlmDFaMoScXDaII6e5tQ) | [50s Dance Party](https://open.spotify.com/album/02gR0WnRMMkFVGwtZaFFnV) | 3:41 |
 | 26 | [This Ole House](https://open.spotify.com/track/1Fovcw2l65GDnf3utzqdGC) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [This Ole House](https://open.spotify.com/album/0X2mbcnFCW3xu4YKXurMLw) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 74 | [Ubangi Stomp](https://open.spotify.com/track/5FKajihwTRjPvsfdCTG86a) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Sun Records Originals: Rock 'n' Roll Ruby](https://open.spotify.com/album/37IW9DA7zMC5O83RAxiZpv) | 1:59 |
 | 75 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
 
-Snapshot ID: `MCxhZjdjM2UxNGZjNWI1YjUyMGFkZDE0YWVlZWQ4ZmNkMGZjNGEwZDZl`
+Snapshot ID: `MCxlNGFkMzM3NDc3NGMwZTI2NTY5ZTk0ZjBhY2NhZTNlYWZlMzNlYWIw`

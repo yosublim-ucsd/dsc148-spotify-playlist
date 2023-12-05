@@ -4,7 +4,7 @@
 
 > ❤️‍🩹 and I wouldn't marry me either, a pathological people pleaser!!!!
 
-1,304 songs - 2 day 20 hr 31 min
+1,305 songs - 2 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Company](https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:28 | 2023-06-06 |  |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-25 |  |
 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 | 2022-07-04 |  |
+| [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2023-12-04 |  |
 | [Congratulations](https://open.spotify.com/track/7EHhEcu9tJWPZmlsNX4Gud) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Congratulations](https://open.spotify.com/album/7fSx6FtzpzX3wmAUORj0cP) | 3:52 | 2022-05-19 |  |
 | [Consider Me A Winner](https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Consider Me A Winner](https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9) | 2:43 | 2023-07-27 |  |
 | [Consume \(feat\. Goon Des Garcons\)](https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT), [GOON DES GARCONS\*](https://open.spotify.com/artist/5WyJhpNewRPUahSlrxkOeR) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 4:27 | 2022-06-21 |  |

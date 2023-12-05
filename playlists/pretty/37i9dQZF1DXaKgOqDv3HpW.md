@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,773 likes - 142 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,749 likes - 140 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,19 +136,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 126 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 |
 | 127 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 128 | [Atmosfären](https://open.spotify.com/track/2I4UIW7yyhAsbkqF3dWjF9) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Atmosfären](https://open.spotify.com/album/5XiYKgflBgfaKCwN5iAmFJ) | 2:32 |
-| 129 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 |
-| 130 | [Inner Stratosphere](https://open.spotify.com/track/6OS7UqSSBlawxCDcQQlyJG) | [Cinnamon Glass](https://open.spotify.com/artist/6BzNyyP6Cp3gzqHFZmdeeq) | [Inner Stratosphere](https://open.spotify.com/album/6B5FnLsJz46HFA7RRpLfoh) | 3:15 |
-| 131 | [Returning](https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:08 |
-| 132 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 |
-| 133 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 |
-| 134 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 |
-| 135 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 |
-| 136 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 |
-| 137 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 |
-| 138 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 |
-| 139 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 |
-| 140 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 |
-| 141 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 |
-| 142 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
+| 129 | [Inner Stratosphere](https://open.spotify.com/track/6OS7UqSSBlawxCDcQQlyJG) | [Cinnamon Glass](https://open.spotify.com/artist/6BzNyyP6Cp3gzqHFZmdeeq) | [Inner Stratosphere](https://open.spotify.com/album/6B5FnLsJz46HFA7RRpLfoh) | 3:15 |
+| 130 | [Returning](https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:08 |
+| 131 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 |
+| 132 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 |
+| 133 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 |
+| 134 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 |
+| 135 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 |
+| 136 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 |
+| 137 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 |
+| 138 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 |
+| 139 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 |
+| 140 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
 
-Snapshot ID: `MCw4MjgwODlkMTI0ZDM0YzMxYzg5ODI4MjFhZGViOWJjM2QzMDhlM2Y0`
+Snapshot ID: `MCw4OTc2NzExNDIwMWM4OGU5YzJlYzE5NWUxZjAzOTQxYWIzYmExMDlk`

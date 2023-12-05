@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "tainted in our memories",
+        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160089,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
+    },
+    {
+      "album": {
         "name": "Bleak Sublime",
         "url": "https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA"
       },
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 236324,
       "name": "Why'd You Leave Me in the Red?",
       "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"

@@ -1,12 +1,12 @@
 {
   "description": "Todos los artistas del Corona Capital en una sola playlist!",
-  "num_followers": 151347,
+  "num_followers": 151351,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTRhZGI1OTRhZDZiZDYwMWE1YzFmZTI1ZTU4MGI2NmZiNTVmMTg3",
+  "snapshot_id": "MCw5YTRiMzZhNWM5OWQ0MzgxNmE0N2RmMDQ1M2E0YjhiZTk1MGZmOWM4",
   "tracks": [
     {
       "added_at": "2023-11-16 01:16:27",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 170995,
       "name": "Closer to You (feat. Major Lazer)",
       "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Je te laisserai des mots",
-        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Je te laisserai des mots",
-      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Hayloft",
-      "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "Serotonin Dreams",
         "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
       },
@@ -459,22 +443,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 162586,
-      "name": "i'm so tired...",
-      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
+      "duration_ms": 181680,
+      "name": "Hayloft",
+      "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -511,6 +491,26 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "i'm so tired...",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -543,38 +543,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Love U Like That",
-        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Love U Like That",
-      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Touch Up",
-        "url": "https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Verbatim",
-      "url": "https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -587,22 +555,6 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -627,6 +579,38 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Touch Up",
+        "url": "https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Verbatim",
+      "url": "https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -639,22 +623,6 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -691,6 +659,38 @@
       "duration_ms": 140666,
       "name": "IDGAF (with blackbear)",
       "url": "https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Love U Like That",
+        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Love U Like That",
+      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "You Oughta Know - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "You Oughta Know - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+        "name": "Better in the Shade",
+        "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+      "duration_ms": 89601,
+      "name": "Ode to Vivian",
+      "url": "https://open.spotify.com/track/5fqYqPWlfQhIkcUY3XAJlm"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Better in the Shade",
-        "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 89601,
-      "name": "Ode to Vivian",
-      "url": "https://open.spotify.com/track/5fqYqPWlfQhIkcUY3XAJlm"
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1363,6 +1363,38 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 175644,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Ok Love You Bye",
+        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 154386,
+      "name": "Ok Love You Bye",
+      "url": "https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -1391,54 +1423,6 @@
       "duration_ms": 155565,
       "name": "Johanna",
       "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Ok Love You Bye",
-        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "Ok Love You Bye",
-      "url": "https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 175644,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "The Big Come Up",
         "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "DEVOTION",
         "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2"
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U"
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 166148,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1663,6 +1647,22 @@
       "duration_ms": 249106,
       "name": "If I Had A Gun\u2026",
       "url": "https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 166148,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
     }
   ],
   "unique_name": "Corona Capital Forever",

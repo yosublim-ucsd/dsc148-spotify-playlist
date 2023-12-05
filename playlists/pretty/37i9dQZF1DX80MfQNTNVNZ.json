@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 167329,
+  "num_followers": 167475,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjE3MzVhOGRjNzljMmNjMGMyMDFiMWVlYWEwNDZiM2YxODhiYmRh",
+  "snapshot_id": "MCwzMmVmMGI1MTEwMDY5NDdhM2MyNTQ4NzdmNjFlMmEyNTM2ZDBmNjY3",
   "tracks": [
     {
       "added_at": "2023-11-30 15:00:00",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1011,18 +1007,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 161366,
+      "name": "Cardboard Box",
+      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 161366,
-      "name": "Cardboard Box",
-      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Lahai",
-        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 185371,
-      "name": "Suspended",
-      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2023-11-30 15:00:00",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2023-11-30 15:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+      "duration_ms": 185371,
+      "name": "Suspended",
+      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
     }
   ],
   "unique_name": "aloe",

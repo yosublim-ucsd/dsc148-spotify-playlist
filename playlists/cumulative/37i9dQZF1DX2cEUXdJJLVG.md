@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-287 songs - 17 hr 15 min
+288 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Let No Man Put Asunder \- Dam Swindle Remix](https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf) | 7:34 | 2022-09-09 | 2022-10-15 |
 | [Like That](https://open.spotify.com/track/63McwMFvGQQR6VjeB1P3n6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5) | [Like That](https://open.spotify.com/album/4FFmc9mfb3rIxpeYLMQyLf) | 2:22 | 2022-09-09 | 2023-07-08 |
 | [Lose My Luck](https://open.spotify.com/track/1RtS7PJNB3iSlZDy4LBpzW) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy), [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [Super\-Sonic Family Vol\. 2 \- Part 2](https://open.spotify.com/album/1IBVTjdpwq7zVp427hgTAK) | 3:35 | 2023-09-14 |  |
-| [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 | 2023-08-30 |  |
+| [Losing My Perfection](https://open.spotify.com/track/2Vfs8GaDfVbdQNapLdgPsQ) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing my Perfection](https://open.spotify.com/album/69FcvFKgFpuerRpV4VEoUT) | 3:02 | 2023-11-30 |  |
+| [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 | 2023-08-30 | 2023-12-05 |
 | [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 | 2022-09-09 | 2023-09-03 |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2022-09-09 | 2023-07-08 |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-11-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 104620,
+  "num_followers": 104640,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWM2YzhiNTBlZTIyN2MyOTE3MGNkYzAzZDg1NmQyYjExNTMyMGI5",
+  "snapshot_id": "MCxhZTliOWVkZWZlZmJiZDE3YWVkMjdhNTJjMjJmMzhmNDkyMjJiZjU1",
   "tracks": [
     {
       "added_at": "2023-11-23 21:18:22",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
         "name": "Indios",
         "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 214213,
       "name": "Jullie",
       "url": "https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 186386,
       "name": "Amor De Verano",
       "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 185432,
+      "name": "INFINITO",
+      "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
         "name": "Verano en Invierno",
         "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 202230,
       "name": "A D\u00f3nde Vamos?",
       "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 185432,
-      "name": "INFINITO",
-      "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
+        "name": "Conexi\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Conexi\u00f3n de Almas",
+      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
-        "name": "Conexi\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
-      },
-      "artists": [
-        {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Conexi\u00f3n de Almas",
-      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
         "name": "Ciclo Lunar",
         "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 213310,
       "name": "Ciclo Lunar",
       "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
         "name": "Aquellos misterios",
         "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "Cursi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo"
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
       },
       "artists": [
         {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
         }
       ],
-      "duration_ms": 216292,
-      "name": "Astigmatismo y Miop\u00eda",
-      "url": "https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C"
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -1423,6 +1407,22 @@
       "duration_ms": 178995,
       "name": "Matem\u00e1tica sentimental",
       "url": "https://open.spotify.com/track/71OHXDiAw5B3Y9yPs9JuEg"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
+        "name": "Cursi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo"
+      },
+      "artists": [
+        {
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+        }
+      ],
+      "duration_ms": 216292,
+      "name": "Astigmatismo y Miop\u00eda",
+      "url": "https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 238222,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
         "name": "OSAD\u00cdA",
         "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 146379,
       "name": "Luna en piscis",
       "url": "https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "duration_ms": 238222,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "MIXTO",
-        "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
-      },
-      "artists": [
-        {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
-        }
-      ],
-      "duration_ms": 243538,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
+        "name": "MIXTO",
+        "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "duration_ms": 243538,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d"
     },
     {
       "added_at": "2023-11-23 21:18:22",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-11-23 21:18:22",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2023-11-23 21:18:22",
-      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
+    },
+    {
+      "added_at": "2023-11-23 21:18:22",
+      "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2023-11-23 21:18:22",

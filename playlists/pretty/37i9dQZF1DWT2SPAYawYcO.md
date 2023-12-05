@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,717 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,781 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 13 | [Loverman](https://open.spotify.com/track/7yMvCjdJkJFKclMFnlutoV) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/6UyQiKLbwj1rfvWK0ybprK) | 2:26 |
 | 14 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 15 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 |
-| 16 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 16 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 17 | [Gutta](https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Gutta](https://open.spotify.com/album/19UpTFofaeJWpgprRhLPOG) | 3:53 |
 | 18 | [Tale Of A Man](https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Tale of A Man](https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy) | 2:46 |
 | 19 | [SANDCASTLES](https://open.spotify.com/track/5DDJqevYAwrc5eYNTaEVLU) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [SANDCASTLES](https://open.spotify.com/album/4FAXBiBmhhSFeKfz69klRW) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 79 | [Stay](https://open.spotify.com/track/4B3IN8Sixp7nToUW7AF3Zx) | [Eliza Hull](https://open.spotify.com/artist/1zccMq9Jsy1X4Cs6uQ1T4M) | [Here They Come](https://open.spotify.com/album/0xFyzrWzYYyRD5H8eVW8QO) | 4:12 |
 | 80 | [Secretos](https://open.spotify.com/track/6FWDSgdRdHt95oazOAmnU4) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [Secretos](https://open.spotify.com/album/7Hr7k6izlyGLmDGYxMfvku) | 2:21 |
 
-Snapshot ID: `MCxiNmI1NDg4OTVjZTRjMTA2ZGQyMGJjMjI4NGIzM2VlOTYyNDM1Yjg2`
+Snapshot ID: `MCw5NGMyZTU3MzM4NTkwNTUyODk1NjMxNDBiNGU5ZDg2NjdiMGFiZjA4`

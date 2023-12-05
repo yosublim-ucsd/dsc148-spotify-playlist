@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gian Marco, Daniela Darcourt
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,764 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,882 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 29 | [Deseándote](https://open.spotify.com/track/2i8otid5VKKnEaseBVO1vq) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 4:43 |
 | 30 | [Sobrio](https://open.spotify.com/track/29GaFL3B4650i21U2rbC6h) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Sobrio](https://open.spotify.com/album/3dlegWqWB5ChqSrQKLiR6h) | 4:11 |
 | 31 | [Parecen Viernes](https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:28 |
-| 32 | [Amantes \- Versión Salsa](https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Amantes \(Versión Salsa\)](https://open.spotify.com/album/1H1HjzU8EqJNAdSJgAVAmN) | 4:04 |
+| 32 | [Amantes \- Versión Salsa](https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/7bbXzcsUHU84khTKdBIkkn), [Victor Manuelle](https://open.spotify.com/artist/03KEB2G33409xHOANeMYyl) | [Amantes \(Versión Salsa\)](https://open.spotify.com/album/1H1HjzU8EqJNAdSJgAVAmN) | 4:04 |
 | 33 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 |
 | 34 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
 | 35 | [Ven y Dime](https://open.spotify.com/track/5oehfo4iOEb2qdTdKxxgRj) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Ven y Dime](https://open.spotify.com/album/4IRFm0IENRUI4qRcWuOvZS) | 4:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MCw2MWY0ZjhkYjkxZDcxOGY1OGY1MGYxNjI5Mzg1NDA0MjZiMjNmZTNm`
+Snapshot ID: `MCwzYjA2MzU0NDFkMWE4NWQ3NDljYWI2N2JhMTYwMzliOTFhM2RiM2Fl`

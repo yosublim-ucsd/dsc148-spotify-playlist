@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > The Last Dinner Party along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,235 likes - 61 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,317 likes - 61 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 60 | [Nothing Works](https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR) | 4:12 |
 | 61 | [The Dead Come Talking](https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [The Dead Come Talking](https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u) | 2:13 |
 
-Snapshot ID: `MCxiZjY1Yjc1YTZhM2Q4Mjk2MDYwYTg4ZmY0NzY2MTAwMzE1MWUxZmYy`
+Snapshot ID: `MCwzYzhhZGIzNDdiZjM0YWJiNzNjZTFlMzJkMDlkYTBmYjU5ZWMyNGQx`

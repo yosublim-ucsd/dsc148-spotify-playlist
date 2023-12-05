@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-315 songs - 18 hr 44 min
+316 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,9 +274,10 @@
 | [簡單愛](https://open.spotify.com/track/5Jtg0qcTKMHq3HjPVGRFAi) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 4:30 | 2022-07-25 |  |
 | [約會對白](https://open.spotify.com/track/26GGCkThk2p9cr870dTaW7) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa), [朱婧佳](https://open.spotify.com/artist/6QCOFEZJrqExqz9HsIG5zF) | [辭舊](https://open.spotify.com/album/29uplO4qSyKwJGFM38PVPg) | 3:37 | 2022-06-27 | 2022-07-01 |
 | [給你宇宙\(泰版《放羊的星星》推廣曲\)](https://open.spotify.com/track/0Qxm6hUFBFEmRBMYef09Rs) | [孟梓](https://open.spotify.com/artist/5nZUFKAqvjcWqQDNQ8chVU) | [泰版《放羊的星星》原聲帶](https://open.spotify.com/album/19ljgcrHrFILHKxw7GZX0O) | 3:50 | 2023-04-24 | 2023-05-02 |
+| [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 | 2023-12-04 |  |
 | [練習等待](https://open.spotify.com/track/0UwwjNqyHLNLiQHneyWXTd) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [練習等待](https://open.spotify.com/album/1xwMSCbMESBuBdAdfHyOb7) | 3:10 | 2022-06-13 | 2022-07-24 |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-06-20 |  |
-| [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 | 2023-05-08 |  |
+| [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 | 2023-05-08 | 2023-12-05 |
 | [習慣 \(feat\. 米非\)](https://open.spotify.com/track/6Jd9vU3RRyhFUzG5IUty95) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI), [米非](https://open.spotify.com/artist/4BpQufMVrZH7PXsFJOic1h) | [永興行](https://open.spotify.com/album/0yQIhbx8fmvvsKcFzFLuAm) | 4:10 | 2022-06-06 | 2022-07-29 |
 | [老公公老婆婆](https://open.spotify.com/track/3Iovz38Pe2gt6U2hKiL67A) | [朱主爱](https://open.spotify.com/artist/5EadBit4jjumcmcXsxTaQ6) | [老公公老婆婆](https://open.spotify.com/album/3vSduIlZ6Y9sJGrt5q4Uw7) | 3:36 | 2022-06-06 | 2022-07-27 |
 | [聖誕之吻](https://open.spotify.com/track/61sWMgH5gHAVTjxwy6mHDS) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [聖誕之吻](https://open.spotify.com/album/63zHQlg0xTAbsbRngzDwm9) | 4:35 | 2022-06-06 | 2022-07-25 |

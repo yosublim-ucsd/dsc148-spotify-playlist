@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y?si=onw68QzKQIORrUBZRuPb\-w"> Akwaboah </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,916 likes - 79 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,943 likes - 79 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 78 | [Plenty Evil](https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Plenty Evil](https://open.spotify.com/album/4LGC4uOB6sSUIirDU0w5GS) | 3:09 |
 | 79 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 |
 
-Snapshot ID: `MCxmNzY4MDMzMjI3YzgxZGE5YTEwMjBkNDA2ZjY4MmE0OTYwMWViOTBj`
+Snapshot ID: `MCw1ZjMxNDhkY2RhMTEyMWNmM2VhYzM1MTAxY2E2MjI1ZTg3NGU2Nzlj`

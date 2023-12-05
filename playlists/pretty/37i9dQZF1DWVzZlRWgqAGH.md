@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: FACESOUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,390 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,481 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 |
 | 100 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 
-Snapshot ID: `MCwzNzg0M2ZhZWI3NTI5MWIyMjg3ZDQzZTM1ZGRmZTk4N2I4Mzc4MjZk`
+Snapshot ID: `MCw0MjQ4NjljMjEyYzhiNThlMmE1ZmRjMmFhNTUzZjdkODdlMzJmN2Y3`

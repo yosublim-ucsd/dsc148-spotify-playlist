@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 優里
 
-78 songs - 4 hr 45 min
+80 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Dreamer Drivers](https://open.spotify.com/track/5G4Pikk7rn4kGvgjZ9njNk) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Dreamer Drivers](https://open.spotify.com/album/5iSbbsT99xlq3TAlY2wXSi) | 3:42 | 2023-11-30 |  |
 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2023-11-23 | 2023-11-29 |
 | [FRIENDLY･NIGHTMARE](https://open.spotify.com/track/75AtakQOaa5aiIijRBuHic) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [野菜室](https://open.spotify.com/album/4gLOZcHug1wtpLWsQ31WE1) | 3:58 | 2023-11-23 | 2023-11-29 |
-| [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 | 2023-11-23 |  |
+| [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 | 2023-11-23 | 2023-12-05 |
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2023-11-23 |  |
 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2023-11-23 |  |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-11-23 |  |
@@ -34,9 +34,10 @@
 | [Love Song](https://open.spotify.com/track/2UAhsIn5noHvg4FhQqjrlI) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Love Song](https://open.spotify.com/album/2UFucyHOdFOrdGMlm5cB20) | 4:16 | 2023-11-23 |  |
 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 | 2023-11-23 | 2023-12-01 |
 | [Monopoly](https://open.spotify.com/track/59rhrmvQl2CtQBd6W8NeQO) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Monopoly](https://open.spotify.com/album/27MwvD3buume0Dl4C743vI) | 3:58 | 2023-11-23 | 2023-11-29 |
+| [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-12-04 |  |
 | [Moonthief](https://open.spotify.com/track/5VpeLvjayWlwt2VwkgKTKj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Moonthief](https://open.spotify.com/album/4qA404qUuqlXMOLiVZwj6i) | 2:32 | 2023-11-29 |  |
 | [Palette](https://open.spotify.com/track/6nJEwLgz7LtzMb9n3b0pgK) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Palette](https://open.spotify.com/album/2cB22mxGdZqgJTdrKQGtBc) | 3:23 | 2023-11-23 |  |
-| [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-11-23 |  |
+| [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-11-23 | 2023-12-05 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-11-23 |  |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-11-23 |  |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-11-23 |  |
@@ -53,6 +54,7 @@
 | [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2023-11-23 |  |
 | [yattyattawa](https://open.spotify.com/track/4yHNww1JcnVXjL4OxKwdyr) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [yattyattawa](https://open.spotify.com/album/0BQD8PXJk9cxt2Mzt20iSp) | 2:41 | 2023-11-23 | 2023-11-29 |
 | [「君の幸せを」](https://open.spotify.com/track/4SPjBSASlsxQ440fY1Mnyl) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [「君の幸せを」](https://open.spotify.com/album/6Nadvjub3KIbZ6hgVdwXBj) | 4:51 | 2023-11-23 |  |
+| [さすらい](https://open.spotify.com/track/6AyErTw94FC8ZF339m24Vm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [股旅](https://open.spotify.com/album/5n2ac7clcRsqzyczLtHwQd) | 3:23 | 2023-12-04 |  |
 | [さよならは真夜中に](https://open.spotify.com/track/5W7GqHXV0EAmqNx6BkAz2I) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [さよならは真夜中に](https://open.spotify.com/album/17PbvfSpbjBaz67KXRbYr2) | 3:14 | 2023-11-23 | 2023-11-29 |
 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 | 2023-11-23 |  |
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-11-23 |  |

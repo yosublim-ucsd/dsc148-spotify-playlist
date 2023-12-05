@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: ProfJam.  ",
-  "num_followers": 56149,
+  "num_followers": 56208,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQ4NDNkNWZlZjM5ZTRkMGM1OWExMDY3YmU1MjBlMDg3ZjQxN2Zl",
+  "snapshot_id": "MCxmNGQ0YTU1MGFmYjU5MGQxNGQyYzNjMDQzNzM5ZjE5MmI4YjY4NDUz",
   "tracks": [
     {
       "added_at": "2023-12-01 00:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3"
       },
@@ -459,42 +475,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "COR D'\u00c1GUA",
-        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 229867,
-      "name": "DIAS",
-      "url": "https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "You Are Forgiven",
         "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
       },
@@ -507,38 +487,6 @@
       "duration_ms": 222642,
       "name": "S\u00f3 Queria Sorrir",
       "url": "https://open.spotify.com/track/0BeKKheFsOOPXBzo2bM8Ds"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 158114,
-      "name": "1 de Abril",
-      "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -563,6 +511,42 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "COR D'\u00c1GUA",
+        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 229867,
+      "name": "DIAS",
+      "url": "https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -579,34 +563,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "CASTANHO",
-        "url": "https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 228000,
-      "name": "ANTI-ANTES",
-      "url": "https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Juvena",
-        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Juvena",
-      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+      "duration_ms": 158114,
+      "name": "1 de Abril",
+      "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -643,6 +611,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Juvena",
+        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "Juvena",
+      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Nada a Esconder",
         "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
       },
@@ -655,22 +639,6 @@
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 240594,
-      "name": "La Bella Mafia",
-      "url": "https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -711,18 +679,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Lisabona",
-        "url": "https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN"
+        "name": "CASTANHO",
+        "url": "https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 192976,
-      "name": "Lisabona",
-      "url": "https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F"
+      "duration_ms": 228000,
+      "name": "ANTI-ANTES",
+      "url": "https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -739,6 +707,38 @@
       "duration_ms": 214530,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 240594,
+      "name": "La Bella Mafia",
+      "url": "https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Lisabona",
+        "url": "https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 192976,
+      "name": "Lisabona",
+      "url": "https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -887,22 +887,38 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Louco",
-        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+        "name": "Na Via",
+        "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
       },
       "artists": [
         {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+          "name": "GROGNation",
+          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
         },
         {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+          "name": "Filipe Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Louco",
-      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+      "duration_ms": 290736,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -943,6 +959,26 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        },
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
       },
@@ -955,42 +991,6 @@
       "duration_ms": 263131,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Na Via",
-        "url": "https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR"
-      },
-      "artists": [
-        {
-          "name": "GROGNation",
-          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
-        },
-        {
-          "name": "Filipe Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL"
-        }
-      ],
-      "duration_ms": 290736,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Los Cavakitos",
+          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+        }
+      ],
+      "duration_ms": 260301,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "Stunka",
         "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
       },
@@ -1023,22 +1043,6 @@
       "duration_ms": 188571,
       "name": "Stunka",
       "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Andavas Aonde",
-        "url": "https://open.spotify.com/album/2PXpqKC1PInccbYbX7VXWP"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 190835,
-      "name": "Andavas Aonde",
-      "url": "https://open.spotify.com/track/6odR54fed2QBcqS8saGfUe"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1119,6 +1123,22 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
+        "name": "Andavas Aonde",
+        "url": "https://open.spotify.com/album/2PXpqKC1PInccbYbX7VXWP"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 190835,
+      "name": "Andavas Aonde",
+      "url": "https://open.spotify.com/track/6odR54fed2QBcqS8saGfUe"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -1131,6 +1151,38 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "Hoji N'ka ta Rola",
+        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 236526,
+      "name": "Hoji N'ka ta Rola",
+      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1155,38 +1207,46 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
+        "name": "Espiritual",
+        "url": "https://open.spotify.com/album/7xTaxeHz6oesIEjdahzG7O"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "Kelson Most Wanted",
+          "url": "https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn"
         },
         {
-          "name": "Los Cavakitos",
-          "url": "https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 260301,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+      "duration_ms": 192143,
+      "name": "Gosta",
+      "url": "https://open.spotify.com/track/2X10SwvnLgiESulxlxczHz"
     },
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "Hoji N'ka ta Rola",
-        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+        "name": "ES7\u00c1DIO",
+        "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "Rafaell Dior",
+          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 236526,
-      "name": "Hoji N'ka ta Rola",
-      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
+      "duration_ms": 217715,
+      "name": "ES7\u00c1DIO",
+      "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1219,66 +1279,6 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "ES7\u00c1DIO",
-        "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "Rafaell Dior",
-          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 217715,
-      "name": "ES7\u00c1DIO",
-      "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Espiritual",
-        "url": "https://open.spotify.com/album/7xTaxeHz6oesIEjdahzG7O"
-      },
-      "artists": [
-        {
-          "name": "Kelson Most Wanted",
-          "url": "https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "Gosta",
-      "url": "https://open.spotify.com/track/2X10SwvnLgiESulxlxczHz"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "Malandro",
-        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 210675,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
         "name": "Conclus\u00e3o",
         "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-12-01 00:00:00",
       "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+        "name": "Malandro",
+        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+      "duration_ms": 210675,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1343,6 +1343,26 @@
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
+    },
+    {
+      "added_at": "2023-12-01 00:00:00",
+      "album": {
+        "name": "O Re$To",
+        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "DJ HYPE MYKE",
+          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "O Re$To",
+      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2023-12-01 00:00:00",
@@ -1423,26 +1443,6 @@
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
-    },
-    {
-      "added_at": "2023-12-01 00:00:00",
-      "album": {
-        "name": "2020 (feat. Slow J)",
-        "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 203812,
-      "name": "2020 (feat. Slow J)",
-      "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
     }
   ],
   "unique_name": "Rap Tuga Hits",

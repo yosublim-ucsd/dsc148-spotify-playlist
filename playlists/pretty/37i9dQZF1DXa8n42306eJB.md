@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,754 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,997 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,883 likes - 39 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,905 likes - 39 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 12 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 |
 | 13 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
 | 14 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
-| 15 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 |
-| 16 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 |
-| 17 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 |
-| 18 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
-| 19 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 |
-| 20 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 |
+| 15 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 |
+| 16 | [Toffee](https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:00 |
+| 17 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 |
+| 18 | [Wish Me Well](https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:24 |
+| 19 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
+| 20 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 |
 | 21 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
 | 22 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
 | 23 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 32 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 |
 | 33 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 |
 | 34 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 |
-| 35 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
-| 36 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
-| 37 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
-| 38 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
+| 35 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
+| 36 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
+| 37 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
+| 38 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
 | 39 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv) | 5:00 |
 
-Snapshot ID: `MCw3MGU3MTY3MDJhNWZjNmYyMDEzM2ViZDE3NWNmZDg4NzE2NjU3OTcy`
+Snapshot ID: `MCw5ZmY4NjI3OWNmN2E1YmQzZjQyZWJjZDU4YjBlMTk1NWRiODI1MGNh`

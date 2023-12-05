@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-290 songs - 15 hr 21 min
+295 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Breathing Exercises](https://open.spotify.com/track/0cpoVOyJt4YKN8Q2mQEFNi) | [Calming Music Ensemble](https://open.spotify.com/artist/6wUfLsFvZ81nBBkckVUPxW) | [111 Zen Power Tracks: Music for Yoga, Pilates and Tai\-Chi \(Nature Sounds, Ocean Waves, Birds in Garden and Forest, Water Ambient, Oriental Flute, Calming New Age\)](https://open.spotify.com/album/76Pp6D6na4YcMakz4CpQOg) | 4:13 | 2021-12-17 |  |
 | [Brisa De Verano](https://open.spotify.com/track/4BjYXL2qVJcVv9Vr3hUa0P) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Brisa De Verano](https://open.spotify.com/album/7dQs3T4ttoziSqsCB93xjA) | 2:35 | 2021-12-17 |  |
 | [Bubblecave Soothe](https://open.spotify.com/track/6370D5hodxRUVaYgczjlWQ) | [Brett McLaughlin](https://open.spotify.com/artist/0vQpcjQ759LHyXKgSdHweo) | [Bubblecave Soothe](https://open.spotify.com/album/3jBNBz60VPXw6LwYEP7VTc) | 2:39 | 2022-02-16 |  |
+| [Calm Rain](https://open.spotify.com/track/2nTHw14msDQ9sco7fcUidP) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Calm Rain](https://open.spotify.com/album/53Jsc0HT5ImsCirTV5Rcyo) | 2:09 | 2023-12-04 |  |
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2021-12-17 | 2023-10-05 |
 | [Canals](https://open.spotify.com/track/1pK2SvpHrWrWFse9qxuj9f) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 2:49 | 2021-12-17 |  |
 | [Cave by the Ocean](https://open.spotify.com/track/6EvWjiZZhu8gYmAp52sT4X) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 1:40 | 2021-12-17 | 2023-07-29 |
@@ -79,6 +80,7 @@
 | [Enter](https://open.spotify.com/track/3zmaWVi1TqIsXLSIPHgtSe) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn) | 3:50 | 2021-12-17 | 2022-07-29 |
 | [Equilibrium](https://open.spotify.com/track/1ZcQnf6WQyZK3kl3rSsd0m) | [Alina Hill](https://open.spotify.com/artist/2Ok5dXrKJa8fs1vSoOMHlQ) | [Equilibrium](https://open.spotify.com/album/6wIxeFFgRbTgKQXuvUnny3) | 3:06 | 2021-12-17 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-02-16 |  |
+| [Eternal Rain Spaces](https://open.spotify.com/track/5H6GgWSTOkYVBGxZLJCNHh) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Rain Spaces](https://open.spotify.com/album/116k71os24eH1FC7Xu7JI3) | 2:50 | 2023-12-04 |  |
 | [Ethereal Rain](https://open.spotify.com/track/26ZOVa1ptC1ZDhH5K5QtQ5) | [Aurora Avery](https://open.spotify.com/artist/1PnqJKNlsztufhgWQKb8C0) | [Ethereal Rain](https://open.spotify.com/album/6JL6xio7jdQu6RjX55Fjwu) | 2:20 | 2023-09-08 |  |
 | [Eucalyptus Breeze](https://open.spotify.com/track/41uYACY72buj6Bfp1BNDKP) | [Peaceful Clarity](https://open.spotify.com/artist/6FRjMYGzCyUD97xeWPWWq4) | [Eucalyptus Breeze](https://open.spotify.com/album/0gRSqJ6Wz9IgqVY5LTLTRr) | 2:49 | 2021-12-17 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
@@ -115,6 +117,7 @@
 | [Harmony](https://open.spotify.com/track/4O1d3cgqRr3sBbwghtsixz) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Harmony](https://open.spotify.com/album/22nV8CCKwM2EfHQj1Djsie) | 2:48 | 2023-06-23 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2022-04-21 |  |
 | [Hidden Beneath](https://open.spotify.com/track/0CAM5wnpSHAptTtUxZOrcf) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Hidden Beneath](https://open.spotify.com/album/6NjV1KQgjapRXeel5llObx) | 3:28 | 2022-11-17 |  |
+| [Higgur Chirp](https://open.spotify.com/track/27SBO8e489X3ifhIuP9NHa) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Higgur Chirp](https://open.spotify.com/album/3XHcCxBFxKXhn5jj0o11Yo) | 3:05 | 2023-12-04 |  |
 | [Hildurs Poem](https://open.spotify.com/track/31NWMeV1GPqcvI7UUyMEZ1) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Hildurs Poem](https://open.spotify.com/album/2q5R4j3aYzOVfftfGepWrd) | 3:35 | 2022-12-20 |  |
 | [Hourglass](https://open.spotify.com/track/65MkFWA6FFrNfc33xuMy2N) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Hourglass](https://open.spotify.com/album/12LBbLeQwB7FHwGSqiWr03) | 3:27 | 2021-12-17 |  |
 | [Imagine Peace \- Meditation](https://open.spotify.com/track/2i3FV4l3oX8SG4hn1zJ1QK) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Imagine Peace \(Delta Waves\)](https://open.spotify.com/album/42FfOOiJgnOqDWWgUUoD8P) | 6:14 | 2022-10-14 |  |
@@ -138,7 +141,7 @@
 | [Lion's Breath](https://open.spotify.com/track/0ifTzLcsRUIqaYH8DfiLbx) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Lion's Breath](https://open.spotify.com/album/3ckIgZZx3CZ6ItmoB6ETGd) | 3:11 | 2021-12-17 |  |
 | [Liquid Universe](https://open.spotify.com/track/6sSm3zcLb30wXnIvx19lnG) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:58 | 2021-12-17 | 2023-06-10 |
 | [Lofi Ocean Waves](https://open.spotify.com/track/24Vfojoe6FGWq32gPh6bTX) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Mijas](https://open.spotify.com/album/28JTLLbs086Y9R3LN1d3Qd) | 3:49 | 2021-12-17 |  |
-| [Lonesome By The Creek](https://open.spotify.com/track/5e3AJCNGfSqbuHiG96xLln) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Beautiful As You Are](https://open.spotify.com/album/4D8S8sIpWEgZX56W9Pzjvu) | 3:48 | 2021-12-17 |  |
+| [Lonesome By The Creek](https://open.spotify.com/track/5e3AJCNGfSqbuHiG96xLln) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Beautiful As You Are](https://open.spotify.com/album/4D8S8sIpWEgZX56W9Pzjvu) | 3:48 | 2021-12-17 | 2023-12-05 |
 | [Lotus \(Meditation\)](https://open.spotify.com/track/3KwankFLnPiRwQwpm9ahiz) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Lotus](https://open.spotify.com/album/06e01uHxoJ85tzTPt14SvJ) | 5:37 | 2022-12-30 |  |
 | [Luminary Creek](https://open.spotify.com/track/3aECxXZzEPZGDZXjNeVX2n) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Luminary Creek](https://open.spotify.com/album/6MXhFPCsKGlecRns53i0TP) | 2:25 | 2023-11-10 |  |
 | [Luna's Longing](https://open.spotify.com/track/70WbmXp6u9PawfFv5kXBeK) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Luna's Longing](https://open.spotify.com/album/5QxbhzC2Y8g4PZoboGyqGk) | 3:02 | 2021-12-17 |  |
@@ -273,7 +276,9 @@
 | [Thunder Meditation](https://open.spotify.com/track/6roWjQjFjuNXdX5ApbWTR5) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Thunder Meditation](https://open.spotify.com/album/12jjifPSSSvIZvrxDxuZI2) | 4:37 | 2021-12-17 | 2022-07-29 |
 | [Tones of Nature](https://open.spotify.com/track/78jPG2b6dRYEn5xtf36TxI) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:54 | 2021-12-17 |  |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2022-09-02 |  |
+| [Treasures \(Nature\)](https://open.spotify.com/track/6dSo5PzTyaIvftTITkuZWS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Treasures](https://open.spotify.com/album/2Rgqt55eEPfVuUpKvSUbUQ) | 2:50 | 2023-12-04 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-07-08 |  |
+| [Tropic \- Meditation](https://open.spotify.com/track/4sqJKDSUbHjUfymmwroCXg) | [wavve](https://open.spotify.com/artist/6vh3qagir9ZhJH7u77Sv1y) | [Tropic](https://open.spotify.com/album/48Im8S1PLatkeOQ3ntnQFz) | 3:04 | 2023-12-04 |  |
 | [True Awakening](https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 3:21 | 2021-12-17 | 2023-07-07 |
 | [Tsuki](https://open.spotify.com/track/5511siuhanSUczAZ00LBli) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Tsuki](https://open.spotify.com/album/0ZHhNoNLZ7xRl6z14zRb7t) | 2:43 | 2022-08-05 |  |
 | [Unto Nothing](https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Unto Nothing](https://open.spotify.com/album/06eFwXIBHDiut7njFtruKF) | 2:39 | 2021-12-17 | 2023-02-18 |

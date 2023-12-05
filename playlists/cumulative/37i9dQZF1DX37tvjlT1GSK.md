@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Julian Mercado en portada.
 
-334 songs - 17 hr 48 min
+335 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-23 | 2023-02-18 |
 | [Ojitos Lindos](https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Ojitos Lindos](https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6) | 2:45 | 2023-06-09 | 2023-07-01 |
 | [Okay](https://open.spotify.com/track/61wFYRQjmlHr9CZSJdNOoA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Okay](https://open.spotify.com/album/3eK7UxndGddxgi819TiiUY) | 2:50 | 2022-11-03 | 2023-03-18 |
-| [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [Gilbert](https://open.spotify.com/artist/4BhQB8PL5nGDwcUtlYSuCg) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 | 2023-12-01 |  |
+| [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [El Gilbert](https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 | 2023-12-01 |  |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-02-22 | 2023-01-21 |
 | [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 | 2023-07-14 |  |
 | [Paradise](https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 3:26 | 2022-04-15 | 2023-01-21 |
@@ -262,6 +262,7 @@
 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 | 2023-06-30 |  |
 | [Saliste De Mi Mente](https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:50 | 2022-06-24 | 2023-01-16 |
 | [Salí Perdiendo \- En Vivo](https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 4:01 | 2023-01-20 |  |
+| [Sanaré](https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Sanaré](https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri) | 2:21 | 2023-12-04 |  |
 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 | 2021-12-27 | 2023-10-28 |
 | [Se Te Va A Caer La Baba](https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Se Te Va A Caer La Baba](https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo) | 3:43 | 2023-05-26 | 2023-12-02 |
 | [Se Ve el Brillo](https://open.spotify.com/track/516X09vL4YN6qYqpDrdgfj) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Se Ve el Brillo](https://open.spotify.com/album/4Ji6rmBKi9RmRJxzvTlo3Z) | 3:52 | 2022-07-01 | 2022-08-06 |
@@ -341,6 +342,6 @@
 | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/track/4ExKTOgyWHR60KXwYprRf0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54) | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ) | 3:53 | 2023-06-30 | 2023-12-02 |
 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 | 2023-12-01 |  |
 | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/track/37R5l0oHzlaqTqMgNTL5VR) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/album/5jVd5hzHCWDJOPO3vi2Xch) | 2:50 | 2023-01-20 | 2023-08-04 |
-| [¿Qué Pasó?](https://open.spotify.com/track/4Cy74DGQEGNJFtjimJ6oSz) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [¿Qué Pasó?](https://open.spotify.com/album/6NFi8fT74C6x2sebQkcHG1) | 3:19 | 2023-09-08 |  |
+| [¿Qué Pasó?](https://open.spotify.com/track/4Cy74DGQEGNJFtjimJ6oSz) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [¿Qué Pasó?](https://open.spotify.com/album/6NFi8fT74C6x2sebQkcHG1) | 3:19 | 2023-09-08 | 2023-12-05 |
 
 \*This playlist was first scraped on 2022-07-04. Prior content cannot be recovered.

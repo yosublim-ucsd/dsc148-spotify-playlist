@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: PRO8L3M
 
-128 songs - 6 hr 4 min
+129 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Dyskoteka](https://open.spotify.com/track/3B3pbYU8NMXYUXkUWDzI0S) | [Wac Toja](https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [NBALVCKY](https://open.spotify.com/artist/5jdPPKSFmxmRLFubteqYV1) | [Dyskoteka](https://open.spotify.com/album/0Um6oOHfmm82reXcT0IQtd) | 2:20 | 2023-11-16 | 2023-11-24 |
 | [Eskimos](https://open.spotify.com/track/4LkMaDiEtbaJpCipcOlGdb) | [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Worek](https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb) | [No face, no case \(Deluxe\)](https://open.spotify.com/album/5TOtmome2InBQbrHWqF5t5) | 2:17 | 2023-11-16 | 2023-11-24 |
 | [False flag](https://open.spotify.com/track/0lhRRjg38i1V35kICUFoEX) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [False flag](https://open.spotify.com/album/7gV4CtWCFpXpmVEsSDL8Ys) | 3:43 | 2023-11-21 | 2023-12-01 |
-| [False flag](https://open.spotify.com/track/5OARsPvmd9bxhCtNLlVlhd) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:44 | 2023-11-30 |  |
+| [False flag](https://open.spotify.com/track/5OARsPvmd9bxhCtNLlVlhd) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:44 | 2023-11-30 | 2023-12-05 |
 | [Felga](https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [STYXXX](https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7) | 3:26 | 2023-09-21 | 2023-10-27 |
 | [Fluid](https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Fluid](https://open.spotify.com/album/5Pj4GxjmJvDvzhrCSJXZsT) | 2:22 | 2023-10-05 |  |
 | [Freestyle](https://open.spotify.com/track/21edHwVjnKC1X2QLjpp5Oi) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Freestyle](https://open.spotify.com/album/6pgZMKPMrzdMQdkdYbEfnV) | 2:06 | 2023-11-23 | 2023-12-01 |
@@ -72,6 +72,7 @@
 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 | 2023-09-21 | 2023-10-27 |
 | [Mimo wszystko](https://open.spotify.com/track/7a74zHzAzH6GbVEa70MLqg) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S) | [Mimo wszystko](https://open.spotify.com/album/23Dl0pCneQHi5hspvxox00) | 2:37 | 2023-10-26 | 2023-11-10 |
 | [Mix Sałat](https://open.spotify.com/track/5CTNmaXOY1nSnIUsxCpiyU) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 2:52 | 2023-10-05 | 2023-11-28 |
+| [Miyabi](https://open.spotify.com/track/2GgLLdsRjbiAtN5nfm7i7i) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:00 | 2023-12-04 |  |
 | [MMS](https://open.spotify.com/track/3pZWJ7C1Tv4thFHgD8vBtS) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [MMS](https://open.spotify.com/album/7EfQTrbwAlIWRpKb2Wnkzm) | 2:41 | 2023-10-12 | 2023-11-17 |
 | [MUSZĘ TO WYKRZYCZEĆ](https://open.spotify.com/track/6RUbdD23fL9PQYnOMd8L7b) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 1:46 | 2023-10-05 | 2023-11-24 |
 | [NA ZAWSZE](https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:15 | 2023-09-21 | 2023-10-13 |

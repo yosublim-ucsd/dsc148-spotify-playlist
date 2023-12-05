@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 219556,
+  "num_followers": 219576,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjk3MWM1MzljYzdlNDMwYjM5MjZiNWNjMjQzODZhOTYxNTQzNzg3",
+  "snapshot_id": "MCwxOWU3NTBkNzhiZWI3NzA4ZTZlNDU4ODBhZWE0OGViYzU3YmI2ZDI4",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Down in Mexico",
+      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Down in Mexico",
-      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Harptones",
-        "url": "https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF"
-      },
-      "artists": [
-        {
-          "name": "The Harptones",
-          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
-        }
-      ],
-      "duration_ms": 163746,
-      "name": "Life Is but a Dream",
-      "url": "https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+        "name": "The Harptones",
+        "url": "https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF"
       },
       "artists": [
         {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+          "name": "The Harptones",
+          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
         }
       ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+      "duration_ms": 163746,
+      "name": "Life Is but a Dream",
+      "url": "https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -407,22 +391,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Up on the Roof: The Best of the Drifters",
-        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Get a Job",
         "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
       },
@@ -439,6 +407,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Presenting The Rays",
         "url": "https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 166586,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "All the Hits and More",
         "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Goin' Out Of My Head",
+        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Goin' Out Of My Head",
+      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "For Collectors Only",
         "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 170186,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -635,22 +651,6 @@
       "duration_ms": 190946,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/6OkPtqmjlq8hWkkZGv7LWY"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Doo Wop Classics Vol. 1",
-        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
       "artists": [
         {
-          "name": "The Chantels",
-          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
+      "duration_ms": 113640,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

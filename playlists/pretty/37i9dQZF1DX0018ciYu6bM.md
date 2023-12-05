@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: DEAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,257 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,259 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 70 | [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 |
 | 71 | [DANG! \(hocus pocus\)](https://open.spotify.com/track/2pNxufMWgPp8I7m6zPChq6) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [side\-B : memoirs of echo unseen](https://open.spotify.com/album/0StHt9CZdb3lA5qXefa7tT) | 3:05 |
 | 72 | [Miss You](https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Miss You](https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD) | 3:06 |
-| 73 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 |
+| 73 | [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 |
 | 74 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 |
 | 75 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 |
 | 76 | [Truth or Dare](https://open.spotify.com/track/1KE1eG1NQ5uPRcvthP6eEZ) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [The Voice](https://open.spotify.com/album/2hRXn9IPc6ZdTRck0ODI0N) | 3:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 89 | [Superhero](https://open.spotify.com/track/5dwuYMa2aB9FJIJpAjFfvp) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [ISEGYE Festival](https://open.spotify.com/album/0l6Cs6lDXTNccUqURohbAU) | 2:56 |
 | 90 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 |
 
-Snapshot ID: `MCwyYTdhYTMxYjc1ZWY0ZWQ0MmRjMzg1NzQxMGM4MDkzYWU4N2Y1YmNj`
+Snapshot ID: `MCw3NTY4MjMzZjVmNzU4MGYyYjU3Y2ZkNzJhNDFjZDQxYzk1MmQxMjRj`

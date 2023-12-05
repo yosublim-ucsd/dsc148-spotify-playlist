@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-166 songs - 7 hr 46 min
+167 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2022-03-21 | 2022-09-07 |
 | [From The Horizon](https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [From The Horizon](https://open.spotify.com/album/61jBjdLl3sLfmMOuK2w4d9) | 3:08 | 2022-03-21 | 2022-09-07 |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2022-03-21 |  |
+| [Grounded Winds](https://open.spotify.com/track/1ZYz1Dl8llnHM6mpVjBDSr) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Grounded Winds](https://open.spotify.com/album/0AZesErR8LwWqLjVz2fCAI) | 3:05 | 2023-12-04 |  |
 | [Horizon](https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Horizon](https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM) | 1:32 | 2023-01-06 | 2023-07-29 |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2022-03-21 | 2022-08-13 |
 | [Hyacinths](https://open.spotify.com/track/1tnWwIOUKtPD4Fc13hg8F3) | [Eyüp Börekç](https://open.spotify.com/artist/2PcaI1a5aqV8rbitzcX5u8) | [Hyacinths](https://open.spotify.com/album/4Dgvaw4NLjbSTCbuPKEyRm) | 1:54 | 2022-03-21 | 2023-07-29 |
@@ -80,7 +81,7 @@
 | [Lines](https://open.spotify.com/track/4ioMVSJSI6mBdqKUv0M1G3) | [The Vivid Clear](https://open.spotify.com/artist/5MpDlzNLaGHlaAHz9cMa1G) | [Lines](https://open.spotify.com/album/0jMT3ek5EP8Ncy7saITKja) | 2:54 | 2022-03-21 |  |
 | [Lovesong](https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Lovesong](https://open.spotify.com/album/702GZkPC9uj5n0c37CwaBq) | 2:11 | 2022-09-06 |  |
 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 | 2022-03-21 |  |
-| [Magical Encounter](https://open.spotify.com/track/4SQbeiJW1g4Byzv67xQOgt) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Magical Encounter](https://open.spotify.com/album/3r21K7yY51VPOGzw9sNdGc) | 2:15 | 2022-03-21 |  |
+| [Magical Encounter](https://open.spotify.com/track/4SQbeiJW1g4Byzv67xQOgt) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Magical Encounter](https://open.spotify.com/album/3r21K7yY51VPOGzw9sNdGc) | 2:15 | 2022-03-21 | 2023-12-05 |
 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 | 2022-03-21 |  |
 | [Marché St Quentin](https://open.spotify.com/track/6vrsJ91kWmaAvVgeUJoiDp) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Au Calme](https://open.spotify.com/album/2JzgLY9JPZwlErVRRr3wp1) | 3:05 | 2022-03-21 |  |
 | [Midnight Sun](https://open.spotify.com/track/5WQDL5w2hdjltJ1aqWgFLm) | [Zach Levi](https://open.spotify.com/artist/2GR5LQXtNXyejm2nJvyYQb) | [Midnight Sun](https://open.spotify.com/album/5pkhOVnGe8LcXSgGspGeld) | 2:40 | 2022-03-21 |  |

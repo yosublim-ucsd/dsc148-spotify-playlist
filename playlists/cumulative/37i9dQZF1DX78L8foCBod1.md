@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-143 songs - 9 hr 43 min
+144 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,9 @@
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-06-07 |  |
 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 | 2022-06-07 |  |
 | [Perfect Time](https://open.spotify.com/track/1upmGVmHvx0MEHEVdvnBCK) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック](https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP) | 4:43 | 2022-06-07 |  |
-| [Perfect Time <HNMT>](https://open.spotify.com/track/1shauNfcBzaAR8pu1kBZgR) | [Eliana](https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [The Seven Deadly Sins：Cursed by Light ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7zNVkr0h3sj7LVnMntNhfQ) | 6:20 | 2022-06-21 |  |
+| [Perfect Time <HNMT>](https://open.spotify.com/track/1shauNfcBzaAR8pu1kBZgR) | [Eliana](https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [The Seven Deadly Sins：Cursed by Light ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7zNVkr0h3sj7LVnMntNhfQ) | 6:20 | 2022-06-21 | 2023-12-05 |
 | [Perfect Time <HNMT>](https://open.spotify.com/track/4ov3V0TuMnKcd9CfqcQj6H) | [Eliana](https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [劇場版 七つの大罪 光に呪われし者たち オリジナル・サウンドトラック](https://open.spotify.com/album/2jexefwEMStHRf4ZNCCR3F) | 6:20 | 2022-06-07 | 2022-07-29 |
+| [Perfect Time <HNMT>](https://open.spotify.com/track/0iUb04DodUGXN3bRLZGQjT) | [Eliana,mpi](https://open.spotify.com/artist/6gxdlBZJb1TrCuf2y5XKXz) | [The Seven Deadly Sins：Cursed by Light ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5Vchn1ZHZpZHpwKJgf0c1N) | 6:20 | 2023-11-06 |  |
 | [REMIND YOU](https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [機動戦士ガンダムUC オリジナルサウンドトラック 2](https://open.spotify.com/album/7gd542CJnlwAYiTJvpvynh) | 4:56 | 2022-06-07 | 2022-07-29 |
 | [Remind You](https://open.spotify.com/track/65wILiMv7t8DN4wweVQT0C) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2](https://open.spotify.com/album/6CHzOvncncZpIt3htstibX) | 4:56 | 2022-06-21 |  |
 | [Reminiscing](https://open.spotify.com/track/5HaYkKZ0bsisESMVZpljWw) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:51 | 2023-03-21 |  |

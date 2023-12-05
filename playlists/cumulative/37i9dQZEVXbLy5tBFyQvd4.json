@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
@@ -8428,6 +8428,28 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "album": {
+        "name": "Modo DND",
+        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220298,
+      "name": "Modo DND",
+      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
     },
     {
       "album": {

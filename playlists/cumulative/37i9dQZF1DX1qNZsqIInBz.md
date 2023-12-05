@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-189 songs - 8 hr 28 min
+190 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [HOLOGRAM](https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [HOLOGRAM](https://open.spotify.com/album/0cm5qj6DKNvUcD0haLZVFp) | 2:13 | 2022-12-09 |  |
 | [HYPERPHONK](https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPERPHONK](https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD) | 2:56 | 2022-10-10 | 2023-03-11 |
 | [I'M SORRY](https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I'M SORRY](https://open.spotify.com/album/4oWAtbgahTeGrYKljx6GI0) | 2:19 | 2022-10-21 | 2023-06-10 |
-| [In the mountains](https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0) | 1:49 | 2023-06-09 |  |
+| [In the mountains](https://open.spotify.com/track/40yeoePtbySoqCSRHgPPpR) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1uejx5trxVgGx7HQulfDND) | 1:49 | 2023-06-09 |  |
+| [In the mountains](https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0) | 1:49 | 2023-06-09 | 2023-12-05 |
 | [Infinite](https://open.spotify.com/track/36lAaFOepMC0kbLeHSLtbU) | [Skidz](https://open.spotify.com/artist/5OpDyR287ck0uxPbA2MF7Y) | [Infinite](https://open.spotify.com/album/2F7yVNgSaE4UcfTKx9be2B) | 3:22 | 2022-10-10 | 2023-03-25 |
 | [infinite universe](https://open.spotify.com/track/2U155vVDxWPXEaKy2QvK99) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [infinite universe](https://open.spotify.com/album/47k1YcVtWladbWe4EUjSfj) | 2:05 | 2023-09-29 |  |
 | [IRON KNIGHT](https://open.spotify.com/track/66rbsDlM1RfmVW6I2nBmuh) | [DJ RXBBERY](https://open.spotify.com/artist/0NuERMLAqu8zM3uFAo1dN9) | [IRON KNIGHT](https://open.spotify.com/album/1akEiLit7yPHOyZxtAxbsT) | 2:24 | 2022-10-10 | 2023-07-22 |

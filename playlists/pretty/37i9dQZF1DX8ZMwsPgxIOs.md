@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Argy
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,167 likes - 80 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,205 likes - 80 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 |
 | 80 | [Life Window](https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Life Window](https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB) | 3:55 |
 
-Snapshot ID: `MCw1OWZiYmJiNzY0YTdlZGMyZjBjMjdiYzU0MDA3YzQ1NzcyZGY1YjRh`
+Snapshot ID: `MCwyZmY5Njg0NzJjMGYwYWRiM2JiYzdlNmQ0ODJiNjI2MzZjZGI4OGU5`

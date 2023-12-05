@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,232 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,294 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 13 | [just want u to feel something](https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [just want u to feel something](https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8) | 2:50 |
 | 14 | [Starfucker](https://open.spotify.com/track/1HBOsPD7SbbShkxh1qfTRn) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [STARFUCKER \(Deluxe\)](https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn) | 3:25 |
 | 15 | [Stretch](https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Stretch](https://open.spotify.com/album/7AVMVoBNIuqrQVGEvlQyTA) | 3:07 |
-| 16 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 16 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 17 | [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 |
 | 18 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 19 | [Bad Woman](https://open.spotify.com/track/0NmWLEvSOhiV4HsMbADwOj) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Bad Woman](https://open.spotify.com/album/2AjNw7myEdHO8f2ZOm9A9W) | 2:44 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 100 | [Hush](https://open.spotify.com/track/4iXqSVXVzaldHOsQgHtzOD) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [Hush](https://open.spotify.com/album/27J61fYTdrTOa8DCygULU3) | 2:20 |
 | 101 | [Bittersweet](https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Bittersweet](https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb) | 2:58 |
 
-Snapshot ID: `MCwwZGJhZGQzZDI1YjUxNDU5NTZlZTNhYjdiOTBhOWM3ZTJmZTNhNzMy`
+Snapshot ID: `MCxlNWQxNDlkYzUyMzQwYTRmMWE0NmM2NjNjODI3NGU5OGZhOWMyNTdh`

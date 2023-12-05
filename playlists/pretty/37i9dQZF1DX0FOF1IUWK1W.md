@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Mc Ws da leste, Dj Chadin do C, MC Cothiê e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,051,465 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,053,124 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 |
 | 50 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 
-Snapshot ID: `MCwxMWNkNjEwMDhjN2Y3NmI1MGNkOWU4MzE0MTEzYjE1MDhlOWNlMzEz`
+Snapshot ID: `MCw1NjUzNGMwNjc4N2IwMWQwYzdkNzRhNTg3OGNkNDg5MDZkYWE0MzI1`

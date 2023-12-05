@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,570 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,596 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 12 | [It Would Be You](https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It Would Be You](https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV) | 3:39 |
 | 13 | [Lie](https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:35 |
 | 14 | [Beautiful Anyway](https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Beautiful Anyway](https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD) | 4:58 |
-| 15 | [Dreaming in Electric Blue](https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:12 |
-| 16 | [Survival \(feat\. Drew Holcomb & Ellie Holcomb\)](https://open.spotify.com/track/4os91DjSzBTVk2GaPtkrMp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:27 |
+| 15 | [Survival \(feat\. Drew Holcomb & Ellie Holcomb\)](https://open.spotify.com/track/4os91DjSzBTVk2GaPtkrMp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:27 |
+| 16 | [Dreaming in Electric Blue](https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:12 |
 | 17 | [End of the World](https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 3:24 |
-| 18 | [Jacob](https://open.spotify.com/track/1UecChUYn2gXqlA8dDVRqO) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Jacob/HTBY](https://open.spotify.com/album/0N1w3fLvgtLH5h8lduHEVe) | 4:01 |
-| 19 | [Bridges](https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 3:36 |
+| 18 | [Bridges](https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 3:36 |
+| 19 | [Jacob](https://open.spotify.com/track/1UecChUYn2gXqlA8dDVRqO) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Jacob/HTBY](https://open.spotify.com/album/0N1w3fLvgtLH5h8lduHEVe) | 4:01 |
 | 20 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 21 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
 | 22 | [Spark My Heart](https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA) | [Aaron Strumpel](https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg) | [Mighty Refuge](https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt) | 5:23 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 24 | [Kin](https://open.spotify.com/track/2bLR9LPyrBiT0F4KohEbop) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 3:24 |
 | 25 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 26 | [Backwards](https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:48 |
-| 27 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 |
-| 28 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
+| 27 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
+| 28 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 |
 | 29 | [Holy Rain](https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Pilot of My Own Life](https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ) | 4:04 |
 | 30 | [Time's Always Leaving](https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:17 |
 | 31 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [Bang](https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls) | [Moda Spira](https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a) | [Bang](https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q) | 3:39 |
 | 65 | [Power Over Me](https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Power Over Me](https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi) | 2:52 |
 
-Snapshot ID: `MCwwNTg0MDAyOGRkMWQwYmRiNTYyMzE3YjYzN2MwNjBjNzgwZGE1MzVm`
+Snapshot ID: `MCw0OTU3MjkyZTU0M2FmZGE0ZGRiZmE5NDMzZWQzMjA0ZTI3YWVjZjVj`

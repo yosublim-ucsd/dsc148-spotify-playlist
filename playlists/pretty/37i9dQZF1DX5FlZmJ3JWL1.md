@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,094 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,351 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 20 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 |
 | 21 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 |
 | 22 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
-| 23 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
-| 24 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
+| 23 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
+| 24 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 25 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 26 | [Lose You \- Felix Jaehn Remix](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lose You \(Felix Jaehn Remix\)](https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu) | 2:36 |
 | 27 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Body Rock](https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Body Rock](https://open.spotify.com/album/2N7fWqjHyi2OpIxPJPBdO2) | 2:13 |
 | 50 | [Incoming!](https://open.spotify.com/track/0hXOEgK4IYWFKfNGFA6471) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Incoming!](https://open.spotify.com/album/1YzrmUjG3wpXd2bH0TvYIO) | 2:23 |
 
-Snapshot ID: `MCw3MzNiNTliNThkYzVjNWE5NGY3MzgwYTUwY2QxYzhlNzEwNjRlZTVh`
+Snapshot ID: `MCxkODNjMTJmMjMxM2YyN2ViNTAzMDE5ZDRhYWI5ZDgxMjBhMmFkY2Zm`

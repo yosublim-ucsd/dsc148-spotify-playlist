@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
-  "num_followers": 880751,
+  "num_followers": 881028,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTE5NGIzNmFjOTAxYzBlNzRmNGNlZWYwZWI0YjI5OGExMDIxZGMz",
+  "snapshot_id": "MCwzYmY3ZDc4MzlkZTRlYTAwZDU4MmRhNjhkNjQ1OWQzNDBjYzgyOGY2",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -127,18 +127,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Easy On My Eyes",
-        "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
+        "name": "Dial Drunk (with Post Malone)",
+        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
+      "duration_ms": 213817,
+      "name": "Dial Drunk (with Post Malone)",
+      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -191,22 +195,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Dial Drunk (with Post Malone)",
-        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
+        "name": "Easy On My Eyes",
+        "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk (with Post Malone)",
-      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
+      "duration_ms": 176666,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -243,18 +243,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "She Calls Me Back (with Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+      "duration_ms": 243962,
+      "name": "She Calls Me Back (with Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -271,6 +275,22 @@
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -339,34 +359,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Atlas: I",
-        "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
+        "name": "Call Your Mom (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 180086,
-      "name": "You Are Enough",
-      "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
-      },
-      "artists": [
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 274870,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -419,22 +427,34 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "She Calls Me Back (with Kacey Musgraves)",
-        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
+        "name": "Atlas: I",
+        "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 243962,
-      "name": "She Calls Me Back (with Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
+      "duration_ms": 180086,
+      "name": "You Are Enough",
+      "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -507,6 +527,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "In A Perfect World (with Julia Michaels)",
         "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
       },
@@ -559,42 +595,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Your Bones",
-        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Your Bones",
-      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Call Your Mom (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "4runner",
         "url": "https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -679,22 +695,6 @@
       "duration_ms": 272733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 167865,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 215516,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 179202,
       "name": "We\u2019re All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Palomar Parade",
-        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 215516,
-      "name": "What I Do",
-      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
+        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 160581,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Made Up My Mind",
         "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Worry No More",
-        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 179731,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Worry No More",
+        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
-        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 160581,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Pollution",
-        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 234031,
-      "name": "Pollution",
-      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Heart Medicine",
         "url": "https://open.spotify.com/album/6vTgHn3r0keWWSSHbGeybq"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 199772,
       "name": "Yellow Paper Daisy",
       "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Pollution",
+        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 234031,
+      "name": "Pollution",
+      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
     },
     {
       "added_at": "2023-12-01 05:00:00",

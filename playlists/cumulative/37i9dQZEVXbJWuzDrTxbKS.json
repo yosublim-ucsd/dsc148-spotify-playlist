@@ -5078,7 +5078,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 156116,
       "name": "Carolyn",
       "url": "https://open.spotify.com/track/2wDHmZRJrRIEUFogNomaLA"
@@ -6608,7 +6608,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -7270,7 +7270,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -13214,7 +13214,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -21604,7 +21604,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -23534,7 +23534,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -23970,6 +23970,24 @@
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "album": {
@@ -26068,7 +26086,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -28614,7 +28632,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -30672,9 +30690,9 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 177480,
-      "name": "White Christmas",
+      "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
     },
     {
@@ -30756,7 +30774,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -30846,7 +30864,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
@@ -30958,7 +30976,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
@@ -33732,7 +33750,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 236250,
       "name": "\u041f\u0440\u043e\u0449\u0430\u043d\u0438\u0435",
       "url": "https://open.spotify.com/track/1nginMHZwOYjtYDndhCeY2"

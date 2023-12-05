@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,001 likes - 164 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,971 likes - 164 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 163 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 164 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MCxlMDhkY2UwZjVhODBkNGQ1NWQ1OTAwZWRhY2ExMzBiNGZmOTgyZWFi`
+Snapshot ID: `MCw4MDc2OGIwZWNiY2RlNmFiY2U5MjliMmVlYmE1OTQzMjFlN2JhYTZj`

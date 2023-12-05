@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 66872,
+  "num_followers": 66907,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDkxZTFjODNjZjE0NDQyYWNkMjRiMjBhNDkzM2FiYzNlYTA2NmJl",
+  "snapshot_id": "MCxmNjllNzhiYmM4YzJmMjJlNjVlN2MyNmRkNDhhMGQ3MGI4ZDRiYmI0",
   "tracks": [
     {
       "added_at": "2021-12-29 23:46:57",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
         "name": "Que De Raro Tiene",
         "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 195373,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
-    },
-    {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -231,6 +231,22 @@
       "duration_ms": 191640,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+    },
+    {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -265,10 +281,10 @@
       "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
-      "added_at": "2021-12-29 23:46:57",
+      "added_at": "2023-01-04 22:41:14",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -295,6 +311,22 @@
       "duration_ms": 193333,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -335,22 +367,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -365,10 +381,10 @@
       "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
-      "added_at": "2023-01-04 22:41:14",
+      "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
       },
       "artists": [
         {
@@ -376,9 +392,25 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -395,6 +427,22 @@
       "duration_ms": 233706,
       "name": "De Uno y De Todos Los Modos - Version Bolero",
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -429,6 +477,22 @@
       "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
+    },
+    {
       "added_at": "2021-12-29 23:46:57",
       "album": {
         "name": "Por Mujeres Como T\u00fa",
@@ -447,24 +511,8 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
       "artists": [
         {
@@ -472,41 +520,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF"
-    },
-    {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -591,22 +607,6 @@
       "duration_ms": 193773,
       "name": "Coraz\u00f3n M\u00e1gico",
       "url": "https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "La Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -825,24 +809,20 @@
       "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
     },
     {
-      "added_at": "2023-01-04 22:41:14",
+      "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 263100,
-      "name": "T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -901,20 +881,24 @@
       "url": "https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz"
     },
     {
-      "added_at": "2021-12-29 23:46:57",
+      "added_at": "2023-01-04 22:41:14",
       "album": {
-        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
+        "name": "T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 137120,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+      "duration_ms": 263100,
+      "name": "T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -935,22 +919,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 164720,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -963,6 +931,38 @@
       "duration_ms": 177013,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 137120,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 164720,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 150866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/47haQcqBOue2RAsVXER52f"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Vida De Bohemio",
+        "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1131,18 +1147,34 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Vida De Bohemio",
-        "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 180133,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
+      "duration_ms": 181720,
+      "name": "Amorcito coraz\u00f3n",
+      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Cuando Sale la Luna",
+      "url": "https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1179,38 +1211,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Sin Ti - Remasterizado",
-      "url": "https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Amorcito coraz\u00f3n",
-      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Canciones De Sus Peliculas",
         "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
       },
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 185306,
-      "name": "Cuando Sale la Luna",
-      "url": "https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq"
+      "duration_ms": 163173,
+      "name": "Sin Ti - Remasterizado",
+      "url": "https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh"
     }
   ],
   "unique_name": "La Serenata",

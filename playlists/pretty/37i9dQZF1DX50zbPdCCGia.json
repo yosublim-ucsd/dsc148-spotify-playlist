@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 227753,
+  "num_followers": 227847,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmRmNzliZjA2YTkyMzA1ZGRkYjk5ZDc0MmNiNWFiMjE5YTZkZGQ0",
+  "snapshot_id": "MCxkYTZkZjI1OTc0ZDA0YzJkOTg0MzM3MzZhM2YzNjA0NmQ3NmU3NjRk",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Tequila Sunrise - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 205480,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Tequila Sunrise - 2013 Remaster",
-      "url": "https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -367,6 +367,54 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Of A Simple Man",
+        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "I'd Love You to Want Me",
+      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 257962,
+      "name": "Peaceful Easy Feeling - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 148586,
+      "name": "Time in a Bottle",
+      "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -399,50 +447,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 257962,
-      "name": "Peaceful Easy Feeling - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Of A Simple Man",
-        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "I'd Love You to Want Me",
-      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 148586,
-      "name": "Time in a Bottle",
-      "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn"
+      "duration_ms": 247586,
+      "name": "Georgy Porgy",
+      "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -459,22 +475,6 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "Georgy Porgy",
-      "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 381998,
       "name": "Lyin' Eyes - 2013 Remaster",
       "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Jack Rabbit Slim",
         "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
       "artists": [
         {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
         }
       ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Doctor Hook",
         "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
         }
       ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "I Got a Name",
+        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I\u2019ll Have to Say I Love You in a Song",
+      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Year of the Cat",
         "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
       },
@@ -875,6 +891,22 @@
       "duration_ms": 400066,
       "name": "Year of the Cat",
       "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 289981,
+      "name": "Lady - Remastered 2022",
+      "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -907,38 +939,6 @@
       "duration_ms": 164440,
       "name": "You Are the Woman",
       "url": "https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "I Got a Name",
-        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I\u2019ll Have to Say I Love You in a Song",
-      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 289981,
-      "name": "Lady - Remastered 2022",
-      "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Summer, Highland Falls",
+      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "What's Wrong with This Picture?",
         "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 207059,
       "name": "Doolin-Dalton - 2013 Remaster",
       "url": "https://open.spotify.com/track/0huHTieLTlluurvasQLB74"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Summer, Highland Falls",
-      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     },
     {
       "added_at": "2023-03-29 17:34:27",

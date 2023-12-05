@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-977 songs - 2 day 11 hr 29 min
+978 songs - 2 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 | 2022-03-24 | 2022-04-18 |
 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 | 2022-09-23 | 2023-11-03 |
 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-25 | 2022-11-13 |
+| [BLENDER](https://open.spotify.com/track/5bV5ro4rvBpgxo7nAeveiT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 2:27 | 2023-11-10 |  |
 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 | 2023-05-05 | 2023-06-17 |
 | [Bloody Bloody Border](https://open.spotify.com/track/6BUVSwe1w4ypuSWXMecEmh) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Bloody Bloody Border](https://open.spotify.com/album/6tt6ih80VcCdBOwyxXjeEy) | 2:53 | 2022-03-24 | 2022-04-06 |
 | [Body And Soul](https://open.spotify.com/track/0iUSpN2AUy4E7ccYAOt0YN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Foreign Sound](https://open.spotify.com/album/4gLU5fUjpKtiZF22AZ3O2x) | 3:30 | 2022-03-24 | 2022-04-09 |
@@ -359,7 +360,7 @@
 | [Estaré](https://open.spotify.com/track/0QCn5vMKpE1QEqCTqKLTXB) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Rubén Insaurralde](https://open.spotify.com/artist/78Os3qUPDgeWZsz814LKNZ), [Pepis](https://open.spotify.com/artist/3IYr8PSMNTvkk5g1oawBqK) | [Estaré](https://open.spotify.com/album/0fwY3yRP7mcfHNygFyJbmx) | 2:17 | 2022-03-24 | 2022-04-15 |
 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 | 2022-03-24 | 2022-04-01 |
 | [Eterno Amor](https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/7jSJ1FNwZOFzkVETCPSTLx) | 3:41 | 2021-12-24 | 2022-07-29 |
-| [Eterno Amor](https://open.spotify.com/track/4fhQ48hixjThGi2za030We) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT) | 3:41 | 2023-09-01 |  |
+| [Eterno Amor](https://open.spotify.com/track/4fhQ48hixjThGi2za030We) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT) | 3:41 | 2023-09-01 | 2023-12-05 |
 | [Eu Tein](https://open.spotify.com/track/3gKmh9Egvv1C2P0zF6FitK) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Traspasa](https://open.spotify.com/album/1qph5pF1etpQ0vQRnzyCBa) | 4:02 | 2022-03-24 | 2022-04-20 |
 | [Euforia y Furia](https://open.spotify.com/track/5lt3j3lvo6YEsxgJh9ceNv) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Euforia y Furia](https://open.spotify.com/album/3E4z7zd4fUHd9ZUvoTmlBC) | 3:47 | 2022-01-07 | 2022-04-13 |
 | [Evolución](https://open.spotify.com/track/2ei99vwvwmZ4GxRdzBqG00) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mi Casa No Tiene Paredes](https://open.spotify.com/album/3N9BrVtscYTox4QgLN9wku) | 2:42 | 2022-03-24 | 2022-04-16 |

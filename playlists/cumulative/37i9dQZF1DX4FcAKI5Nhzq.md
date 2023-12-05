@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: DINO
 
-944 songs - 2 day 3 hr 59 min
+945 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-17 | 2023-05-18 |
 | [Cinema](https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 4th EP Album ‘HELLO’ Chapter Ø\. Hello, Strange Dream](https://open.spotify.com/album/6uQFA464X4qBT7QOEmZlBm) | 3:12 | 2021-02-03 | 2021-05-11 |
 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3gt8XdxuOccNIY5b2UpM1l) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission\(Sub\-leader\)](https://open.spotify.com/album/5sTeyWloN8oEUtvbV0VDNY) | 2:45 | 2023-09-01 | 2023-09-06 |
-| [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 | 2023-09-04 |  |
+| [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 | 2023-09-04 | 2023-12-05 |
 | [Clink Clink](https://open.spotify.com/track/7rvgQ3kGUqwVkt0V5JpPeT) | [WSG WANNABE \(OASISO\)](https://open.spotify.com/artist/1gZT7pR0ngdFayZ1iI2fFL) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:22 | 2022-07-13 | 2022-08-13 |
 | [Close to Me](https://open.spotify.com/track/1wzP4k1w8nprsfb6n8wpoz) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Close to Me](https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt) | 3:17 | 2021-10-26 | 2021-12-14 |
 | [Close to You \(feat\. sunwoojunga\)](https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 2:55 | 2023-02-09 | 2023-03-25 |
@@ -755,6 +755,7 @@
 | [Sour](https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF) | 3:20 | 2022-10-06 | 2022-10-13 |
 | [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-29 | 2023-06-28 |
 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 | 2022-06-17 | 2022-12-31 |
+| [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-04 |  |
 | [Spider](https://open.spotify.com/track/2TwB7aK39tnZBQjBPgcbCj) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Spider](https://open.spotify.com/album/3PtE3yizKf8e2MzCtXU8K9) | 3:31 | 2021-04-06 | 2021-06-18 |
 | [SPIN OFF](https://open.spotify.com/track/6xstWwvswCDUclHQCRkLVZ) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [CONNECTION](https://open.spotify.com/album/6woaNcVnybcymVzGHZbdhG) | 3:25 | 2021-06-18 | 2021-07-28 |
 | [Splash](https://open.spotify.com/track/6jDg7fyZRymvKPYWdBxTgu) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Splash \- MIRAE 2nd Mini Album](https://open.spotify.com/album/6i4asWHVJ6ji44qYYSUakM) | 3:25 | 2021-09-02 | 2021-10-28 |

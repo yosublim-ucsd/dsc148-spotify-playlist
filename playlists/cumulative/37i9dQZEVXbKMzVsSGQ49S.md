@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,615 songs - 3 day 16 hr 58 min
+1,616 songs - 3 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -983,6 +983,7 @@
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-07-27 | 2023-07-30 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 | 2023-11-08 |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-10-30 |
+| [Nowadayz](https://open.spotify.com/track/1onI8KGcOZwEKeWy6jYXez) | [Jake Shaw](https://open.spotify.com/artist/5zQpdhahVpa6PM8J3hA7ps) | [Nowadayz](https://open.spotify.com/album/0dA5YhkkfMr8Fu5RggByur) | 3:10 | 2023-12-04 |  |
 | [Number 2 \(feat\. Future & 21 Savage\)](https://open.spotify.com/track/5qR6mlCWqzHMi1b1S8TrBB) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 2:53 | 2021-07-18 | 2021-07-19 |
 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 | 2023-02-25 | 2023-03-03 |
 | [Næsta](https://open.spotify.com/track/1YC7llsHtz0ScDtiLEVHZG) | [JóiPé](https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb), [Króli](https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9), [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb), [SZK](https://open.spotify.com/artist/6sSuXem86IOpEGNsDqJSSg) | [Næsta](https://open.spotify.com/album/3RhJZ5uX3S9nyPWLHzO5yK) | 4:31 | 2022-01-01 | 2023-01-04 |
@@ -1297,7 +1298,7 @@
 | [Stundum snýst heimurinn gegn þér](https://open.spotify.com/track/6yxe3mjWdK9hzDk61EG2ar) | [BRAGI](https://open.spotify.com/artist/6zDmSdnWH55mWy9oqqVEZE) | [Söngvakeppnin 2023](https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd) | 3:02 | 2023-02-20 | 2023-03-07 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-31 |
 | [Styttist í það](https://open.spotify.com/track/3veY63DgDUzZB44wMUQVz8) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD) | [Styttist í það](https://open.spotify.com/album/4m5TkvBEDK9gos7CS3voRs) | 3:23 | 2021-11-14 | 2022-01-04 |
-| [Styttist í það](https://open.spotify.com/track/5wTyujDdXNA0tuTN6ZiNk9) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD), [Bryndis Jakobsdottir](https://open.spotify.com/artist/0DhIXgQNwZlP63RyqKiiiD) | [Jólasjór](https://open.spotify.com/album/4nr67uzUX2JWEbAxiNI9yw) | 3:23 | 2023-12-03 |  |
+| [Styttist í það](https://open.spotify.com/track/5wTyujDdXNA0tuTN6ZiNk9) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD), [Bryndis Jakobsdottir](https://open.spotify.com/artist/0DhIXgQNwZlP63RyqKiiiD) | [Jólasjór](https://open.spotify.com/album/4nr67uzUX2JWEbAxiNI9yw) | 3:23 | 2023-12-03 | 2023-12-05 |
 | [Styttist í það](https://open.spotify.com/track/6YM1HkXJshC0gA5bGNhnFb) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD), [Bryndis Jakobsdottir](https://open.spotify.com/artist/0DhIXgQNwZlP63RyqKiiiD) | [Jólasjór](https://open.spotify.com/album/2KmT2h3FQAUcjjDbVzTEoC) | 3:23 | 2022-12-03 | 2023-11-29 |
 | [Stóð ég úti í tunglsljósi](https://open.spotify.com/track/3M3AzmBS3juTDKKefAXQq4) | [Björgvin Halldórsson](https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi) | [Einu sinni var \- Vísur úr vísnabókinni](https://open.spotify.com/album/7Ik9wZqA19OCkxKuq8EAwo) | 2:44 | 2022-01-01 | 2022-01-03 |
 | [Stóð ég úti í tunglsljósi](https://open.spotify.com/track/6ijaNn3BJjoQt8Eqv7GyMi) | [Björgvin Halldórsson](https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi) | [Einu sinni var \- Vísur úr vísnabókinni](https://open.spotify.com/album/06pm3C3be1KtHB07qVteqU) | 2:44 | 2023-01-01 | 2023-01-03 |

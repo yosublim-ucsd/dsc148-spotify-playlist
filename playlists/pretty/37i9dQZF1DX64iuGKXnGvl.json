@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 102591,
+  "num_followers": 102718,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmZhNzJlMTU4NmYwNTRkMzE5M2U3ZTkyYWNlYzg0ZmEwODI0YTY0",
+  "snapshot_id": "MCw3MjFiOTcxMGRiNGZlNGVkYjA1NzMxMGEyNzg5YzAwMjlkZTRjNzgx",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
-        "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
-      },
-      "artists": [
-        {
-          "name": "Kaoma",
-          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Lambada - Original Version 1989",
-      "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
@@ -75,6 +59,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
+        "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
+      },
+      "artists": [
+        {
+          "name": "Kaoma",
+          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Lambada - Original Version 1989",
+      "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -87,22 +87,6 @@
       "duration_ms": 435493,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -171,22 +155,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Deseo Carnal",
         "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 217000,
       "name": "Ni t\u00fa ni nadie",
       "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -219,6 +203,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Exclusive Ricchi E Poveri - 15 Exitos",
         "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 190564,
       "name": "Sera Porque Te Amo",
       "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 180239,
-      "name": "La Chica Del Bikini Azul",
-      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -347,24 +331,8 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Descanso Dominical / Une Femme Avec Une Femme",
-        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 310346,
-      "name": "La Fuerza del Destino (Live)",
-      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
       },
       "artists": [
         {
@@ -372,41 +340,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Haciendo Camino",
-        "url": "https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 252839,
-      "name": "Tan Enamorados (Nina Bonita)",
-      "url": "https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9"
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -427,6 +363,54 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Descanso Dominical / Une Femme Avec Une Femme",
+        "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 310346,
+      "name": "La Fuerza del Destino (Live)",
+      "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Haciendo Camino",
+        "url": "https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 252839,
+      "name": "Tan Enamorados (Nina Bonita)",
+      "url": "https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Flans",
         "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
@@ -439,22 +423,6 @@
       "duration_ms": 209573,
       "name": "Bazar",
       "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 218951,
-      "name": "Palabra De Honor",
-      "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -491,50 +459,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Ana, Jos\u00e9, Nacho",
-        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 153173,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "No Controles",
-      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -555,6 +491,38 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 153173,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
         "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
       },
@@ -571,38 +539,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Ana, Jos\u00e9, Nacho",
-        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Me Col\u00e9 en una Fiesta",
-      "url": "https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "\u00c1mame Hasta Con Los Dientes",
-      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
@@ -615,6 +551,22 @@
       "duration_ms": 282866,
       "name": "Fuiste un Trozo de Hielo en la Escarcha",
       "url": "https://open.spotify.com/track/5zKq55gTFV7MvS3f9T4Gqu"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "No Controles",
+      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -651,22 +603,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "20 Millas",
-        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "15 A\u00f1os De Historia",
         "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
       },
@@ -683,18 +619,82 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Best of Righeira (Le meilleur des annees 80)",
-        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa - 1983",
-      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
+      "duration_ms": 218951,
+      "name": "Palabra De Honor",
+      "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "\u00c1mame Hasta Con Los Dientes",
+      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Me Col\u00e9 en una Fiesta",
+      "url": "https://open.spotify.com/track/2txCuTGPLSkrpdFYAO6cZP"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "Fiesta En Am\u00e9rica",
+      "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "20 Millas",
+        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -711,6 +711,22 @@
       "duration_ms": 183946,
       "name": "Qu\u00e9 Te Pasa",
       "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Best of Righeira (Le meilleur des annees 80)",
+        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa - 1983",
+      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -759,22 +775,6 @@
       "duration_ms": 194920,
       "name": "En El Boulevard (Corre, Corre)",
       "url": "https://open.spotify.com/track/6Uxus4vvORyWbkEdHxAYEj"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "Fiesta En Am\u00e9rica",
-      "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
     },
     {
       "added_at": "2022-03-29 19:14:26",

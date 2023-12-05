@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > Bold tracks packing some serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,355,021 likes - 112 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,355,023 likes - 112 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 111 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
 | 112 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 |
 
-Snapshot ID: `MCw5OTBjMTUwMjRhYzk5ZDYyYTlmNWFlZDQ0NGZkNjk1Mzk5YzAxODE2`
+Snapshot ID: `MCwxZGM5YzU5ZmViY2E4OWVlNmM0YjYxMGQyMzI3NmFjZWM5MzdmYjc2`

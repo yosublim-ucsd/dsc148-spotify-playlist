@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 | 2022-05-25 |  |
+| [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 | 2022-05-25 | 2023-12-05 |
 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 | 2022-05-25 |  |
 | [Adwarmance \- The Wetlands](https://open.spotify.com/track/3wXpfT2eIV1HScP3UU2vIF) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [The Wetlands](https://open.spotify.com/album/2eBxYJQfDK8XNK4IwQ9uCD) | 3:40 | 2022-05-25 | 2023-06-17 |
 | [Alcaria Hot Springs](https://open.spotify.com/track/5CSBbRQ01ZLGVJhz70K5Ch) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alcaria Hot Springs](https://open.spotify.com/album/2MCRcVAOym1PlQKcaUJt8V) | 2:38 | 2023-10-06 |  |
@@ -78,7 +78,7 @@
 | [Iris Sibirica](https://open.spotify.com/track/6iAD5cUkCz3ZtGleOzBlpt) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Temple](https://open.spotify.com/album/5RdoZoL6lrg7raFOTCaPGV) | 3:42 | 2022-05-25 | 2023-09-23 |
 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 | 2022-05-25 |  |
 | [Kokyu](https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Kokyu](https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ) | 4:06 | 2022-10-21 |  |
-| [Leaving](https://open.spotify.com/track/1tssW7uMtvpgjdD4bEO5kW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [O B E](https://open.spotify.com/album/5kTgZfxe4yXefwI9Q9Tby5) | 3:58 | 2022-05-25 |  |
+| [Leaving](https://open.spotify.com/track/1tssW7uMtvpgjdD4bEO5kW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [O B E](https://open.spotify.com/album/5kTgZfxe4yXefwI9Q9Tby5) | 3:58 | 2022-05-25 | 2023-12-05 |
 | [Lillie](https://open.spotify.com/track/2eXvqqozCUki1p7L7hV4k3) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Lillie](https://open.spotify.com/album/0czeIb0Z1yrEC1svzBYnxA) | 3:27 | 2023-09-08 |  |
 | [Linden Trees](https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Through the Trees](https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z) | 2:29 | 2022-05-25 |  |
 | [Little Forest](https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Little Forest](https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1) | 2:54 | 2022-05-25 |  |

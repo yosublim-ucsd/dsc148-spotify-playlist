@@ -4,7 +4,7 @@
 
 > The best uptempo pop for the workout girlies
 
-334 songs - 17 hr 47 min
+335 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [In The Dark](https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY) | 3:05 | 2022-01-28 | 2022-04-21 |
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2022-10-11 | 2023-02-24 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-10-11 | 2022-12-28 |
-| [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2022-12-27 |  |
+| [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2022-12-27 | 2023-12-05 |
 | [It Ain't Me \(with Selena Gomez\)](https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [It Ain't Me \(with Selena Gomez\)](https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC) | 3:40 | 2022-03-24 | 2022-04-21 |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/7lgA34nFXxjqQgyLkPUcLv) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Studio Killers](https://open.spotify.com/album/5eaoWhBweqqjErHzhebjgL) | 3:35 | 2022-03-24 | 2022-04-18 |
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2022-10-11 | 2022-12-28 |
@@ -231,6 +231,7 @@
 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 | 2023-02-03 | 2023-02-24 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-02-11 | 2022-10-12 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-23 | 2023-11-18 |
+| [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2023-10-17 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2022-10-11 |  |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2022-03-24 | 2022-04-21 |
 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 | 2022-03-24 | 2022-04-21 |

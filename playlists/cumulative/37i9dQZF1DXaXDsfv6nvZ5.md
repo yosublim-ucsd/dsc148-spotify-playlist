@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-408 songs - 1 day 0 hr 37 min
+409 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Hello](https://open.spotify.com/track/3PShip6upqx22eGpErMcLC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:57 | 2023-10-27 |  |
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-04 |  |
 | [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 | 2023-05-19 | 2023-06-22 |
-| [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 |  |
+| [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2023-12-05 |
 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2023-08-25 |  |
 | [How Deep Is Your Love \- Acoustic Version](https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 4:04 | 2021-12-03 | 2023-08-05 |
 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 | 2023-08-25 |  |
@@ -175,6 +175,7 @@
 | [I Keep Callin' You](https://open.spotify.com/track/0Y9j7ZHf5O6nL145orSXLg) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Gasms](https://open.spotify.com/album/14xK4FTz2jDiWE8vL1rZaK) | 4:03 | 2023-04-28 | 2023-05-13 |
 | [I Like Trouble](https://open.spotify.com/track/2G1PImEpUqv0RjRWPbDW4K) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:10 | 2022-10-03 |  |
 | [I Need To Know](https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [I Need To Know](https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07) | 4:00 | 2023-02-12 | 2023-11-06 |
+| [I Need To Know](https://open.spotify.com/track/6fu8UH57Ob9MzjZYMoVcra) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [I Need To Know](https://open.spotify.com/album/7cGZjZKLodN7QWlwkBXyFt) | 4:00 | 2023-02-12 |  |
 | [i remember you my ex](https://open.spotify.com/track/4dGH4YFWf1qq4LcwG37yRH) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [i remember you my ex](https://open.spotify.com/album/2uDubx9Dj7Pp2Y7Exa7qDa) | 3:01 | 2023-03-03 | 2023-04-09 |
 | [I Want You \(For All Time\)](https://open.spotify.com/track/3XmchyRMOwSKQ0XlzTlsfc) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [I Want You \(For All Time\)](https://open.spotify.com/album/6EdFPUiIK35wD3irdSZltm) | 3:38 | 2022-11-18 | 2023-02-13 |
 | [I Won't Fall To Your Love](https://open.spotify.com/track/17qHPhUy9pzTQtB4jBYKjM) | [Nick Moore](https://open.spotify.com/artist/7ukZgEvzF0YdF9vw8axy5h) | [I Won't Fall To Your Love](https://open.spotify.com/album/20knLZluvaF9ogIjJeBEsX) | 3:16 | 2022-09-09 | 2022-11-05 |

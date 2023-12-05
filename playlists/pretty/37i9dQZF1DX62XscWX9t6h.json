@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 164073,
+  "num_followers": 164155,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTk3YmY3OTlhYzg5MjU3ODVkMzg3YWUyMTJhMTU2ZmNmYWYxYjY2",
+  "snapshot_id": "MCxmMWI2MWZiNGI3MmNkZGZmM2E2M2I4ZmU4YjkyM2RhZTJhYzNmMDcx",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -93,38 +93,6 @@
       "url": "https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
-    },
-    {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "Racines",
-        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 73880,
-      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
-      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
-    },
-    {
       "added_at": "2022-08-31 04:14:59",
       "album": {
         "name": "Ali",
@@ -143,6 +111,38 @@
       "duration_ms": 333150,
       "name": "Tongo Barra",
       "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
+    },
+    {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "Racines",
+        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 73880,
+      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
+      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -215,22 +215,34 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Mordechai Remixes",
-        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
+        "name": "EGOLI",
+        "url": "https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Africa Express",
+          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
         },
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Mr Jukes",
+          "url": "https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO"
+        },
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        },
+        {
+          "name": "Mahotella Queens",
+          "url": "https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
         }
       ],
-      "duration_ms": 301995,
-      "name": "Pelota (Cut a Rug Mix)",
-      "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
+      "duration_ms": 193533,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/3O4Sat36FCmPW0KmbuPx5G"
     },
     {
       "added_at": "2023-11-23 03:51:02",
@@ -269,38 +281,6 @@
       "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "EGOLI",
-        "url": "https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB"
-      },
-      "artists": [
-        {
-          "name": "Africa Express",
-          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
-        },
-        {
-          "name": "Mr Jukes",
-          "url": "https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO"
-        },
-        {
-          "name": "Muzi",
-          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
-        },
-        {
-          "name": "Mahotella Queens",
-          "url": "https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA"
-        },
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/3O4Sat36FCmPW0KmbuPx5G"
-    },
-    {
       "added_at": "2023-03-31 19:02:24",
       "album": {
         "name": "Mamita Santa",
@@ -335,6 +315,26 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Mordechai Remixes",
+        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 301995,
+      "name": "Pelota (Cut a Rug Mix)",
+      "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
     },
     {
       "added_at": "2022-04-17 20:07:01",
@@ -681,38 +681,6 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
-      "added_at": "2022-02-03 23:38:31",
-      "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Achinkad",
-      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "Automation",
-      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Yeti Season (Deluxe Version)",
@@ -731,6 +699,38 @@
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Automation",
+      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
+    },
+    {
+      "added_at": "2022-02-03 23:38:31",
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
       "added_at": "2022-09-15 12:52:37",
       "album": {
         "name": "Yahudky",
@@ -851,22 +867,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Zerzura (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 263524,
       "name": "Zerzura Theme II",
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
+    },
+    {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -901,20 +917,20 @@
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
     },
     {
-      "added_at": "2023-11-23 03:51:02",
+      "added_at": "2022-04-17 18:29:09",
       "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
       },
       "artists": [
         {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
         }
       ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+      "duration_ms": 186548,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
     },
     {
       "added_at": "2022-12-29 18:51:03",
@@ -931,22 +947,6 @@
       "duration_ms": 168097,
       "name": "Tayyara Warak",
       "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
-    },
-    {
-      "added_at": "2022-04-17 18:29:09",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 186548,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO"
     },
     {
-      "added_at": "2023-04-14 00:27:25",
-      "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
-    },
-    {
       "added_at": "2022-02-03 23:25:28",
       "album": {
         "name": "Tonkori In The Moonlight",
@@ -1147,6 +1131,22 @@
       "duration_ms": 310446,
       "name": "Yaykatekar Dub (Love Dub)",
       "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
+    },
+    {
+      "added_at": "2023-04-14 00:27:25",
+      "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        }
-      ],
-      "duration_ms": 346413,
-      "name": "Kolyskova",
-      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 338108,
       "name": "Tala Tannam",
       "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
+      },
+      "artists": [
+        {
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+        }
+      ],
+      "duration_ms": 346413,
+      "name": "Kolyskova",
+      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "\u0434\u043b\u044f FOR",
-        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "\u0434\u0432a TWO",
-      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Natura Morta",
         "url": "https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 191963,
       "name": "Impasto",
       "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "\u0434\u043b\u044f FOR",
+        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "\u0434\u0432a TWO",
+      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
     },
     {
       "added_at": "2023-06-07 04:01:30",
@@ -1455,6 +1455,22 @@
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
+      },
+      "artists": [
+        {
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "Bia Bia",
+      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
+        "name": "Te Ao M\u0101rama",
+        "url": "https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE"
       },
       "artists": [
         {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 216640,
-      "name": "Bia Bia",
-      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
+      "duration_ms": 190653,
+      "name": "Te Ao M\u0101rama / Solar Power",
+      "url": "https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul"
     },
     {
       "added_at": "2022-08-31 05:11:30",
@@ -1519,22 +1535,6 @@
       "duration_ms": 287026,
       "name": "Serpentines (to Nik\u0161i\u0107)",
       "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Te Ao M\u0101rama",
-        "url": "https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Te Ao M\u0101rama / Solar Power",
-      "url": "https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
     },
     {
-      "added_at": "2023-03-31 19:02:24",
-      "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220142,
-      "name": "Rak\u0131ya Su Katamam",
-      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
-    },
-    {
       "added_at": "2023-07-19 02:43:48",
       "album": {
         "name": "Uummati Attanarsimat (Heart of Glass)",
@@ -1599,6 +1583,22 @@
       "duration_ms": 238288,
       "name": "Uummati Attanarsimat (Heart of Glass)",
       "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
+    },
+    {
+      "added_at": "2023-03-31 19:02:24",
+      "album": {
+        "name": "A\u015fk",
+        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 220142,
+      "name": "Rak\u0131ya Su Katamam",
+      "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
     },
     {
       "added_at": "2021-10-20 20:05:06",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-1,507 songs - 3 day 15 hr 33 min
+1,508 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-01-04 | 2023-04-23 |
 | [1989](https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [1989](https://open.spotify.com/album/5L6AKgaJyex0tb5TfdsF6S) | 2:17 | 2022-05-21 | 2022-05-28 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 | 2022-09-23 | 2023-03-21 |
-| [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2021-12-07 | 2022-12-28 |
+| [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2021-12-07 |  |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-03 | 2022-01-07 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-20 | 2022-09-17 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-05 | 2023-03-11 |
@@ -995,7 +995,7 @@
 | [Packs and Potions \(feat\. M1llionz, Digga D & Unknown T\) \- Remix](https://open.spotify.com/track/09nPy5k6stAMSmnYqrTaqv) | [HAZEY](https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Packs and Potions \(feat\. M1llionz, Digga D & Unknown T\) \[Remix\]](https://open.spotify.com/album/6KMYCz8o1hv068w8Fyb7mt) | 2:53 | 2022-02-05 | 2022-02-07 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-03 | 2023-07-29 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-07-29 | 2021-09-05 |
-| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 |  |
+| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2023-12-05 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-05 | 2023-09-24 |
 | [Painting Pictures](https://open.spotify.com/track/25uBGaikHi0DhMiGMfuXYE) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:17 | 2021-06-13 | 2021-06-14 |
 | [PAINTING PICTURES](https://open.spotify.com/track/4Iry561oo2lujsgL77oCnm) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/5ASBbAgO8v9AHDUICfEHJx) | 2:02 | 2023-03-03 | 2023-03-05 |
@@ -1125,6 +1125,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Merry Christmas](https://open.spotify.com/album/3w6QeihCf2l0zZMBLagxDj) | 2:23 | 2021-12-06 | 2022-12-28 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2023-12-02 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-11-28 |  |
+| [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2023-12-04 |  |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 | 2022-12-25 |  |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2023-07-02 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-06-05 |
@@ -1513,7 +1514,7 @@
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-12-02 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-03-27\* | 2021-07-25 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-30 |
-| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-30 |  |
+| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-30 | 2023-12-05 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-27 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

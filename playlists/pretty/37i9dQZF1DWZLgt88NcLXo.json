@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDJhOTVjZWExMjIwM2JhZDE0YTllMWMzNjk5OTAxYzMyNGNlZGFl",
+  "snapshot_id": "MCxkYzU0ZTkzNDY2NmJhNzYyZDhjODRjNDNjMDZhZGNjMjA4NGY4NWEw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Sleeping In",
-        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
-      },
-      "artists": [
-        {
-          "name": "Damien Adams",
-          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
-        }
-      ],
-      "duration_ms": 180543,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "D\u00e9dalo",
         "url": "https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 122275,
       "name": "D\u00e9dalo",
       "url": "https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Sleeping In",
+        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "duration_ms": 180543,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Broader Perspective",
-        "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
-      },
-      "artists": [
-        {
-          "name": "Argun North",
-          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Broader Perspective",
-      "url": "https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 138336,
       "name": "Spring has sprung",
       "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Broader Perspective",
+        "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
+      },
+      "artists": [
+        {
+          "name": "Argun North",
+          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Broader Perspective",
+      "url": "https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Lovely Secrets",
+        "url": "https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi"
+      },
+      "artists": [
+        {
+          "name": "Aaron Flemming",
+          "url": "https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH"
+        }
+      ],
+      "duration_ms": 142735,
+      "name": "Lovely Secrets",
+      "url": "https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Fallen Apples\u2019 Scent",
         "url": "https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 183406,
       "name": "Untroubled by a Rainy Day",
       "url": "https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Lovely Secrets",
-        "url": "https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi"
-      },
-      "artists": [
-        {
-          "name": "Aaron Flemming",
-          "url": "https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH"
-        }
-      ],
-      "duration_ms": 142735,
-      "name": "Lovely Secrets",
-      "url": "https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "H\u00fcgel des Nordens",
-        "url": "https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn"
-      },
-      "artists": [
-        {
-          "name": "Ivan Bielsa",
-          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
-        }
-      ],
-      "duration_ms": 123009,
-      "name": "H\u00fcgel des Nordens",
-      "url": "https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "A Sweet Portrait",
         "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 147874,
       "name": "A Sweet Portrait",
       "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "H\u00fcgel des Nordens",
+        "url": "https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "duration_ms": 123009,
+      "name": "H\u00fcgel des Nordens",
+      "url": "https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Past & Present",
-        "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
-      },
-      "artists": [
-        {
-          "name": "Isabella Molinero",
-          "url": "https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV"
-        }
-      ],
-      "duration_ms": 181174,
-      "name": "Past & Present",
-      "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "N\u00faria",
         "url": "https://open.spotify.com/album/35xNbujDkw7WI2064N4L53"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 176207,
       "name": "Bastiments",
       "url": "https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Past & Present",
+        "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
+      },
+      "artists": [
+        {
+          "name": "Isabella Molinero",
+          "url": "https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV"
+        }
+      ],
+      "duration_ms": 181174,
+      "name": "Past & Present",
+      "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "El Raval",
-        "url": "https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "El Raval",
-      "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Quite Comfy",
         "url": "https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 153473,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "El Raval",
+        "url": "https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "El Raval",
+      "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "tranquila",
-        "url": "https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy"
-      },
-      "artists": [
-        {
-          "name": "Rafaela Moreno",
-          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
-        }
-      ],
-      "duration_ms": 169717,
-      "name": "tranquila",
-      "url": "https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Whispering Layers",
         "url": "https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 154280,
       "name": "Whispering Layers",
       "url": "https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "tranquila",
+        "url": "https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 169717,
+      "name": "tranquila",
+      "url": "https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 176917,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Something Special",
         "url": "https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 168610,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 176917,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Canci\u00f3n A Solas",
-        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
-      },
-      "artists": [
-        {
-          "name": "Marta Fiscovich",
-          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Canci\u00f3n A Solas",
-      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Breakwater",
         "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 151500,
       "name": "Breakwater",
       "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Canci\u00f3n A Solas",
+        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Canci\u00f3n A Solas",
+      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Cradle Song",
         "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 227588,
       "name": "Cradle Song",
       "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2183,38 +2183,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Velvet Morning",
-        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 148374,
-      "name": "Velvet Morning",
-      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "El Antiguo Camino",
-        "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 156501,
-      "name": "El Antiguo Camino",
-      "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
       },
@@ -2247,6 +2215,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Velvet Morning",
+        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 148374,
+      "name": "Velvet Morning",
+      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Camino Del Sol",
         "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
       },
@@ -2263,18 +2247,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Romance Castellano",
-        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
+        "name": "El Antiguo Camino",
+        "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
       },
       "artists": [
         {
-          "name": "Manuel Gal\u00e1n",
-          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
         }
       ],
-      "duration_ms": 135568,
-      "name": "Romance Castellano",
-      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
+      "duration_ms": 156501,
+      "name": "El Antiguo Camino",
+      "url": "https://open.spotify.com/track/6c7m8DqA9iH8R1PrA3DzVn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2291,6 +2275,22 @@
       "duration_ms": 270000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Romance Castellano",
+        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "duration_ms": 135568,
+      "name": "Romance Castellano",
+      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
     },
     {
       "added_at": "2023-09-15 09:04:35",

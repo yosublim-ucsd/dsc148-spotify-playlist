@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA4ETicgIky.md) - [plain]
 
 > Baila como en la época de los autos, moda y rocanrol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,464 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,495 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA4ETicgIky.md) - [plain]
 | 21 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 |
 | 22 | [Nada Personal \- Remasterizado 2007](https://open.spotify.com/track/4PBou1i63krEp3jKCPhxVD) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 4:52 |
 | 23 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
-| 24 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 |
-| 25 | [Cuando Seas Grande](https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:25 |
+| 24 | [Cuando Seas Grande](https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:25 |
+| 25 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 |
 | 26 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
 | 27 | [Dance Hall Days](https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Points On The Curve](https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P) | 4:00 |
 | 28 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA4ETicgIky.md) - [plain]
 | 42 | [Holiday](https://open.spotify.com/track/4k6ktr10Hczmh55NY3LfJy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 6:08 |
 | 43 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 | 44 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
-| 45 | [Isabel](https://open.spotify.com/track/4cDNMGoDFdjXgxpZEyP6wH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 2:37 |
-| 46 | [Suéltate el pelo](https://open.spotify.com/track/6ASzF6lnAamXQvWLPa3WDi) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:11 |
+| 45 | [Suéltate el pelo](https://open.spotify.com/track/6ASzF6lnAamXQvWLPa3WDi) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 3:11 |
+| 46 | [Isabel](https://open.spotify.com/track/4cDNMGoDFdjXgxpZEyP6wH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 2:37 |
 | 47 | [Yo No Me Llamo Javier](https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 4:23 |
 | 48 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
 | 49 | [Juegos de Amor](https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl) | [Neón](https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC) | [Rock En Español \- Lo Mejor De Neon](https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8) | 4:19 |
 | 50 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
 
-Snapshot ID: `MCw0NjQ1NDhlMTcxNjMwYmVlY2ZlMzQzNzljZGNlMTMyYTUzMDkwYWM1`
+Snapshot ID: `MCxjY2IzYWM1YjU3ZjIzNmRhZDQzNjZmNzZkYTBlNDdlMjQ4MWUwNmUy`

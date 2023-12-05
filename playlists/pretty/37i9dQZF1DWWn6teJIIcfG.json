@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 184055,
+  "num_followers": 184100,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmMwMjA1M2NjYjU4ZjRhYTdmODk4YjA4OTg2MzEyN2I2YTBmOTU0",
+  "snapshot_id": "MCw2ZWQ3ODNmNWI3Nzk3ZDUyNGFhYjQ2N2VmMjEwNWIzNDJlMTIxODgx",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 100013,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
         "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 220773,
       "name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
       "url": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Liszt: Scherzo and March / 3 Liebestraume / Berceuse",
+        "url": "https://open.spotify.com/album/73P1eYyYBmKuBiVEhlCmfM"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",
+      "url": "https://open.spotify.com/track/6GzMz3s0K1YKwRVI36CgRx"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Silvestrov: Leggiero, Pesante",
         "url": "https://open.spotify.com/album/3lS2eQfm7o9MUDruWHUeYR"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Liszt: Scherzo and March / 3 Liebestraume / Berceuse",
-        "url": "https://open.spotify.com/album/73P1eYyYBmKuBiVEhlCmfM"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",
-      "url": "https://open.spotify.com/track/6GzMz3s0K1YKwRVI36CgRx"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 80280,
+      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
+      "url": "https://open.spotify.com/track/7hfoLeHqbJ6jWz0RqWfzBB"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Fantasia on Greensleeves",
         "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 144266,
       "name": "Capriol Suite: 5. Pied-en- l'air",
       "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 80280,
-      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
-      "url": "https://open.spotify.com/track/7hfoLeHqbJ6jWz0RqWfzBB"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
         "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 155826,
       "name": "Carmen Suite No. 1: Intermezzo",
       "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 191853,
       "name": "Nocturne No. 2 in C Minor, H.25",
       "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
       "artists": [
         {
@@ -1048,13 +1048,17 @@
           "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1151,26 +1155,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Pachelbel: Canon; Albinoni: Adagio; Bach: Jesu, Joy of Man's Desiring; more",
         "url": "https://open.spotify.com/album/0TXKF9HGebP07O94Gylywf"
       },
@@ -1191,6 +1175,26 @@
       "duration_ms": 207106,
       "name": "Orpheo ed Euridice, Wq. 30, Act II: Dance of the Blessed Spirits",
       "url": "https://open.spotify.com/track/4qg7uptMkSHq8uatbgcP37"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1219,8 +1223,8 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
       },
       "artists": [
         {
@@ -1228,17 +1232,13 @@
           "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1315,30 +1315,22 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "French Festival",
-        "url": "https://open.spotify.com/album/0T9YCy8TruLD6Z4qiCGSn6"
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
       "artists": [
         {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
-        },
-        {
-          "name": "Ondrej Lenard",
-          "url": "https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs"
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
         }
       ],
-      "duration_ms": 221000,
-      "name": "3 Gymnopedies (orch. Debussy): Gymnopedie No. 2",
-      "url": "https://open.spotify.com/track/2euauaTvztPp2Ae6rCeTri"
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     }
   ],
   "unique_name": "Creative Focus",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,565 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,306 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 65 | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 |
 | 66 | [Way Too Long](https://open.spotify.com/track/499qzfPwb8DdacaTiHMqn9) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Way Too Long](https://open.spotify.com/album/0ImWPSvnRCmHoI6kjQGK4J) | 2:28 |
 | 67 | [CAN'T STOP NOW](https://open.spotify.com/track/1YmLbryGwdP25VbPqzizbC) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CAN'T STOP NOW](https://open.spotify.com/album/1aMojrUQGbKvNeSYUhKdMk) | 2:49 |
-| 68 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 68 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 69 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
 | 70 | [Take Me Back](https://open.spotify.com/track/5JcFCdauxuNGH6G1JnrWzm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Take Me Back](https://open.spotify.com/album/7k72tV30lur2P6kbgNRKKX) | 3:53 |
 | 71 | [Southeast Oklahoma Pines](https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Southeast Oklahoma Pines](https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Maybe](https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Maybe](https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM) | 3:14 |
 | 100 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 
-Snapshot ID: `MCw3YjRiN2M5Yzk1NjRhM2IyZWJhOWFhMTJiNDZjOWE5YTQ3OWM3ZmIw`
+Snapshot ID: `MCwyNDNkYzliNmViNjJkODAwZmVmNjUzOTAzZjNjYmE4YjU1YWI5Mjkw`

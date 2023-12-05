@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Rihanna",
-  "num_followers": 88907,
+  "num_followers": 88937,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDljN2MyNWY5YjQyNTNlMDk3OTk5MzZiMTdjNTcyNTExYThjMGY4",
+  "snapshot_id": "MCxmOThlYzhmNDQxYzM0MzBkMDI0YmZmZTYxMWQ4N2JmMzNmMTdlYTQ0",
   "tracks": [
     {
       "added_at": "2023-01-28 00:44:44",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 407315,
       "name": "House Of Balloons / Glass Table Girls - Original",
       "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Summer Party Anthems",
         "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 201773,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "The Cookbook",
         "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 226863,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Best Of Number Ones",
-        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Throwback Party",
         "url": "https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "Best Of Number Ones",
+        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Order In The Court",
         "url": "https://open.spotify.com/album/6CUx1FX3ctnbXGieFT7inL"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Release Yourself",
-      "url": "https://open.spotify.com/track/24JnivykEgycnelmeyvZNl"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Cuts Both Ways",
         "url": "https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 218133,
       "name": "Get on Your Feet",
       "url": "https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Release Yourself",
+      "url": "https://open.spotify.com/track/24JnivykEgycnelmeyvZNl"
     },
     {
       "added_at": "2023-01-28 00:44:44",

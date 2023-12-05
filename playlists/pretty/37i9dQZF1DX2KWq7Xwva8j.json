@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 25094,
+  "num_followers": 25114,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTBkYTVmMTEzNTA0NmE1NzY2MDAxNzk3ZTViYjI2MDA4MTRjYWY0",
+  "snapshot_id": "MCw1NmQ4M2ZjZWJkZTdhZmQ1MWIyMDkxYjA0YTI0OWMwODBkZTFmMjA0",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "T\u00c1NGER Y ZAHARA",
+        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "ZAHARA",
+      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "1371 KM",
         "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
       },
@@ -275,8 +291,8 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "T\u00c1NGER Y ZAHARA",
-        "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
       },
       "artists": [
         {
@@ -284,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 160666,
-      "name": "ZAHARA",
-      "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
+      "duration_ms": 167311,
+      "name": "Soy El \u00danico - Spotify Singles",
+      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -327,26 +343,6 @@
       "duration_ms": 174222,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Leyla",
-        "url": "https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "Pedro Calderon",
-          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
-        }
-      ],
-      "duration_ms": 151156,
-      "name": "Leyla",
-      "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -403,6 +399,42 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "novio del a\u00f1o",
+        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 154719,
+      "name": "novio del a\u00f1o",
+      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Leyla",
+        "url": "https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "Pedro Calderon",
+          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
+        }
+      ],
+      "duration_ms": 151156,
+      "name": "Leyla",
+      "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "C\u00e1psula Espacial",
         "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
       },
@@ -455,38 +487,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 167311,
-      "name": "Soy El \u00danico - Spotify Singles",
-      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "novio del a\u00f1o",
-        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 154719,
-      "name": "novio del a\u00f1o",
-      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "Quiero Q Me Tat\u00faes",
         "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
       },
@@ -519,26 +519,6 @@
       "duration_ms": 173721,
       "name": "Desastre de persona",
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
-        }
-      ],
-      "duration_ms": 179055,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -579,18 +559,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+        "name": "favorita",
+        "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
         }
       ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
+      "duration_ms": 127634,
+      "name": "favorita",
+      "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -615,26 +599,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "favorita",
-        "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        },
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 127634,
-      "name": "favorita",
-      "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "Del cielo",
         "url": "https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr"
       },
@@ -651,18 +615,38 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
         }
       ],
-      "duration_ms": 153882,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP"
+      "duration_ms": 179055,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -743,34 +727,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Porque t\u00fa lo sabr\u00edas",
-        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
         }
       ],
-      "duration_ms": 191806,
-      "name": "Porque t\u00fa lo sabr\u00edas",
-      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Como si nada",
-        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "Como si nada",
-      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
+      "duration_ms": 153882,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -803,6 +771,38 @@
       "duration_ms": 127661,
       "name": "J*DER",
       "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Porque t\u00fa lo sabr\u00edas",
+        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 191806,
+      "name": "Porque t\u00fa lo sabr\u00edas",
+      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Como si nada",
+        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "Como si nada",
+      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
     },
     {
       "added_at": "2023-10-13 09:57:11",

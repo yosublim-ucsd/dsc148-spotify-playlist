@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > ¡Eres el más cool de todos los papás! Feliz día 🥰
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,272 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,274 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 68 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
 | 69 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 |
 | 70 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
-| 71 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
-| 72 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 |
-| 73 | [Tren Al Sur](https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 5:38 |
-| 74 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 |
+| 71 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 |
+| 72 | [Tren Al Sur](https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 5:38 |
+| 73 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 |
+| 74 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 75 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
 
-Snapshot ID: `MCw5ZTE3Mjk3NjgyNDk1MTYxZWJmNTI4M2Q4Mjk0NmYzNzk3M2FlY2Yw`
+Snapshot ID: `MCwzMjAwYmI3NTBlODg5M2FkNGZhYjM3ODAyMzFlYTE2ZjhmZDUwNWZi`

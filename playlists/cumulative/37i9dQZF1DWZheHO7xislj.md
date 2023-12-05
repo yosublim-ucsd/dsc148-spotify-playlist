@@ -4,11 +4,11 @@
 
 > Classic and new soul music for the perfect dinner.
 
-361 songs - 23 hr 23 min
+362 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 2:46 | 2023-01-09 |  |
+| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 2:46 | 2023-01-09 | 2023-12-05 |
 | [\(What A\) Wonderful World](https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Valentine For You](https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel) | 2:07 | 2023-01-09 | 2023-06-28 |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 | 2023-01-09 | 2023-06-28 |
 | [100 Yard Dash](https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 2:18 | 2023-06-27 |  |
@@ -85,6 +85,7 @@
 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 2:49 | 2023-01-09 | 2023-06-28 |
 | [Don't Look Any Further](https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Don't Look Any Further \(Expanded Edition\)](https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk) | 4:02 | 2023-01-09 | 2023-06-28 |
 | [Don't Say Goodnight \(It's Time for Love\) \- Part I & 2](https://open.spotify.com/track/02dGwHk2iMUTqvByaxqZSn) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:45 | 2023-01-09 | 2023-06-28 |
+| [Down in the Valley \- Mono; 2018 Remaster](https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:59 | 2023-08-15 |  |
 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 | 2023-01-09 | 2023-06-28 |
 | [Drowning in the Sea of Love](https://open.spotify.com/track/1hbf8AWhIfIQk8V9KqTRAl) | [Joe Simon](https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py) | [Drowning in the Sea of Love](https://open.spotify.com/album/3KXu9WiHi6HlxXM9aZtdQU) | 3:23 | 2023-01-09 | 2023-06-28 |
 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2023-01-09 |  |

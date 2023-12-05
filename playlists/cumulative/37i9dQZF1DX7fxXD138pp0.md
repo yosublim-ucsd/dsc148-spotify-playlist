@@ -4,7 +4,7 @@
 
 > para andar en modo k\-poper alucín 🫰🏼🤠
 
-109 songs - 5 hr 46 min
+110 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2023-06-27 |  |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2023-06-27 | 2023-09-26 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-25 |  |
-| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-09-25 |  |
+| [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 | 2023-11-07 |  |
+| [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-09-25 | 2023-12-05 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-09-25 | 2023-11-08 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-25 |  |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-06-27 |  |

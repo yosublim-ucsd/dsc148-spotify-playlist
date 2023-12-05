@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with rock hits, new and old. Cover: The Smashing Pumpkins",
-  "num_followers": 478703,
+  "num_followers": 478760,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWI5OGJlMTU2MzA5Yzk3MjNhYTgyOWVlYmY4YzEzNjM1MTlkOWJj",
+  "snapshot_id": "MCxlMzFiNzhlNDA3ZTQ4ODMyMWJlMjk5ZjZhOWExNjM4MGRiMzczMWQx",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Back In Black",
@@ -183,22 +199,6 @@
       "duration_ms": 210173,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Hellbilly Deluxe",
@@ -537,22 +553,6 @@
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Human Clay",
         "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 316733,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Would? (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 231400,
       "name": "Animal I Have Become",
       "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Would? (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "GOSSIP (feat. Tom Morello)",
@@ -1195,22 +1211,6 @@
       "duration_ms": 186813,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "Jeremy",
-      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "Jeremy",
+      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Immortalized (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 248466,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-09-29 04:00:00",

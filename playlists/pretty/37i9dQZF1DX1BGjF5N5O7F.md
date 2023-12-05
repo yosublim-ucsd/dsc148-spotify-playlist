@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,191 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,294 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 13 | [Billie Holiday](https://open.spotify.com/track/1YVD5cqaERd5F5w4IA9yFY) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Exquisite Corpse](https://open.spotify.com/album/1q4RS7dbemCVtyW5msIErW) | 6:45 |
 | 14 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 15 | [Woman](https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:34 |
-| 16 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
-| 17 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
-| 18 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
-| 19 | [Power Over Me \- Acoustic](https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me EP](https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65) | 3:20 |
-| 20 | [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 |
+| 16 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
+| 17 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
+| 18 | [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 |
+| 19 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
+| 20 | [Power Over Me \- Acoustic](https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me EP](https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65) | 3:20 |
 | 21 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 |
 | 22 | [Know You Better](https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:09 |
 | 23 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 35 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
 | 36 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
 | 37 | [Never Tear Us Apart](https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Never Tear Us Apart](https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k) | 3:50 |
-| 38 | [Burn](https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 2:51 |
-| 39 | [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 |
+| 38 | [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 |
+| 39 | [Burn](https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 2:51 |
 | 40 | [Woman Like a Man \- Live Radio Session](https://open.spotify.com/track/0GpRh3J3gI1esWn9gDWnyY) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [B\-Sides](https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA) | 4:44 |
 | 41 | [Tip of My Tongue \(Live at Eddie's Attic\)](https://open.spotify.com/track/3bGJ53wSgjTPCQIRalZSTd) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:21 |
 | 42 | [Light a Fire](https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:27 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 44 | [Making Love on the Mountain \- Sexy Mix](https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. I](https://open.spotify.com/album/08u46C6UbLfQYhk1lMWmkf) | 3:58 |
 | 45 | [Craving](https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 2:43 |
 | 46 | [You Come Down](https://open.spotify.com/track/7EdwWyPnHkbi9KuG4wyKmc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [That Iron Taste](https://open.spotify.com/album/1HBTigeKszgy2KJPna3hND) | 2:54 |
-| 47 | [Song for lovers](https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful](https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J) | 2:24 |
-| 48 | [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 |
+| 47 | [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 |
+| 48 | [Song for lovers](https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful](https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J) | 2:24 |
 | 49 | [All on My Mind \- Single Version](https://open.spotify.com/track/7LJDzkXrC6bKthURJ1I4pL) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind](https://open.spotify.com/album/6O0hXBm4fljPUez3tFSLJj) | 3:42 |
 | 50 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 
-Snapshot ID: `MCw3OThkYWIyZjAyNDg5ZWVmNDNmODhhNWRmZjcwNjAwYTc3YzU0Mzgx`
+Snapshot ID: `MCxlZjZhZmUyMTZhZWIxNWZmNGFhNmY5ZWI4NGJhODVjZDczZDM2YjFl`

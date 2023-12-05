@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14317,
+  "num_followers": 14322,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGNlMTg2MWQ3ZWQ5NDFlYzdjM2I0ZTQxY2YwNzA3ZmE1MGNjNmNj",
+  "snapshot_id": "MCw4YmMyNjMxOWQzOGIxYWFhYTRjMmNlMjg0ZTU3OGNmNjllYTBiZTUy",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Acme",
+        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Archive From 1959 - The Billy Childish Story",
         "url": "https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb"
       },
@@ -119,54 +135,6 @@
       "duration_ms": 175440,
       "name": "Davy Crockett",
       "url": "https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Junkyard",
-        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
-      },
-      "artists": [
-        {
-          "name": "The Birthday Party",
-          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Release The Bats",
-      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Moanin'",
-        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
-      },
-      "artists": [
-        {
-          "name": "Mr. Airplane Man",
-          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
-        }
-      ],
-      "duration_ms": 210233,
-      "name": "Commit a Crime",
-      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -187,18 +155,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Acme",
-        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
+        "name": "Junkyard",
+        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
       },
       "artists": [
         {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
         }
       ],
-      "duration_ms": 182840,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
+      "duration_ms": 151733,
+      "name": "Release The Bats",
+      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -215,6 +183,38 @@
       "duration_ms": 237173,
       "name": "Crackalacka",
       "url": "https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Moanin'",
+        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
+      },
+      "artists": [
+        {
+          "name": "Mr. Airplane Man",
+          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
+        }
+      ],
+      "duration_ms": 210233,
+      "name": "Commit a Crime",
+      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -247,6 +247,22 @@
       "duration_ms": 232626,
       "name": "Nitroglycerine",
       "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -315,22 +331,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Ditch",
-      "url": "https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The King Khan & Bbq Show",
         "url": "https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE"
       },
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Fire of Love (Remastered 2020)",
-        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
       },
       "artists": [
         {
-          "name": "The Gun Club",
-          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
         }
       ],
-      "duration_ms": 157995,
-      "name": "Promise Me - Remastered 2020",
-      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
+      "duration_ms": 186093,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -407,6 +407,22 @@
       "duration_ms": 138240,
       "name": "Thunderbird ESQ",
       "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Fire of Love (Remastered 2020)",
+        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
+      },
+      "artists": [
+        {
+          "name": "The Gun Club",
+          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+        }
+      ],
+      "duration_ms": 157995,
+      "name": "Promise Me - Remastered 2020",
+      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -459,38 +475,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 177200,
       "name": "When You Touch Me",
       "url": "https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Hard Times",
-        "url": "https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm"
-      },
-      "artists": [
-        {
-          "name": "Laughing Hyenas",
-          "url": "https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq"
-        }
-      ],
-      "duration_ms": 439706,
-      "name": "Hard Time Blues",
-      "url": "https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Nothing Can Stop These Men",
         "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 135400,
       "name": "Ida Honey (Tell Me You'll Be Mine)",
       "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm"
+      },
+      "artists": [
+        {
+          "name": "Laughing Hyenas",
+          "url": "https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq"
+        }
+      ],
+      "duration_ms": 439706,
+      "name": "Hard Time Blues",
+      "url": "https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "The Kids Are All Square - This Is Hip & Girlsville",
-        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
       },
       "artists": [
         {
-          "name": "Thee Headcoatees",
-          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
         }
       ],
-      "duration_ms": 145400,
-      "name": "Round Every Corner",
-      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
+      "duration_ms": 123013,
+      "name": "Get It!",
+      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -667,34 +667,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
+        "name": "The Kids Are All Square - This Is Hip & Girlsville",
+        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
       },
       "artists": [
         {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
+          "name": "Thee Headcoatees",
+          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
         }
       ],
-      "duration_ms": 123013,
-      "name": "Get It!",
-      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
+      "duration_ms": 145400,
+      "name": "Round Every Corner",
+      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -711,6 +695,22 @@
       "duration_ms": 217040,
       "name": "Summer Sun Blues",
       "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

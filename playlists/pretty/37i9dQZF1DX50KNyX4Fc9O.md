@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Sam Fischer
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,235 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,244 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 | 2 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 |
 | 3 | [DISAPPEAR](https://open.spotify.com/track/4nEXjVr2y4XTjV3mtRBxH6) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DISAPPEAR](https://open.spotify.com/album/6dpHwZukx4LPFryQQ5XJTx) | 3:15 |
-| 4 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 4 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 5 | [I AM \- From the Ava DuVernay feature film 'Origin'](https://open.spotify.com/track/1uNSDmdnCmOgMvAyfCnh2Q) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [I AM \(From the Ava DuVernay feature film 'Origin'\)](https://open.spotify.com/album/5xu60Zz8cb4j7Qnmy7oio7) | 4:29 |
 | 6 | [Stretch](https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Stretch](https://open.spotify.com/album/7AVMVoBNIuqrQVGEvlQyTA) | 3:07 |
 | 7 | [LAX & CHILL](https://open.spotify.com/track/1iR340r1ui8lZdT8PDizKs) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [LAX & CHILL](https://open.spotify.com/album/5aZKTKnOoULxkAH56BM0Y0) | 2:36 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 100 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 101 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 |
 
-Snapshot ID: `MCwyZjgzM2RlNDI2OTliYmJiNzlmYzE5MDNmMWNiYTk0NDE3MDgyOGM0`
+Snapshot ID: `MCw4MDRmMDg2YWY0YjlhMmE2NzA2YzEzNWNkYjkxOGM0NTg4Yzk5OTY5`

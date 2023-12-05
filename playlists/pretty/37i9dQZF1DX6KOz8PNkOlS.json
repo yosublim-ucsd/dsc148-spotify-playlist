@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 421663,
+  "num_followers": 421864,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTEzMWEzMjBiMjhlZTQ1MWRiNTliODZlOWY2ZTE0ZTBhOWExZWNl",
+  "snapshot_id": "MCwyOTdmYTE5YmViMjdkMWRhNzliYjY1YjYyZmYyMGY2MTI5MTk1OGVh",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -129,22 +129,6 @@
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-      "added_at": "2022-08-31 04:27:20",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Oceans",
@@ -163,6 +147,22 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "I Know I'm Funny haha",
+        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "A Dream With a Baseball Player",
+      "url": "https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1"
     },
     {
       "added_at": "2023-09-13 16:09:15",
@@ -213,20 +213,20 @@
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2022-08-31 04:27:20",
       "album": {
-        "name": "I Know I'm Funny haha",
-        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 221186,
-      "name": "A Dream With a Baseball Player",
-      "url": "https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1"
+      "duration_ms": 241080,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -275,18 +275,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
     },
     {
       "added_at": "2023-09-25 03:06:06",
@@ -307,18 +307,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
       "added_at": "2023-06-07 16:18:58",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
-      "added_at": "2023-04-05 03:29:43",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Be Right Back",
@@ -421,6 +405,22 @@
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
+      "added_at": "2023-04-14 00:36:48",
+      "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
       "added_at": "2023-10-10 01:29:29",
       "album": {
         "name": "Ghosts",
@@ -439,22 +439,6 @@
       "duration_ms": 258120,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
-    },
-    {
-      "added_at": "2023-04-14 00:36:48",
-      "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -491,6 +475,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2023-04-05 03:29:43",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
+    },
+    {
       "added_at": "2022-01-14 03:14:10",
       "album": {
         "name": "Move into Me",
@@ -651,38 +667,6 @@
       "duration_ms": 258359,
       "name": "Move into Me",
       "url": "https://open.spotify.com/track/5PBIfafBl1Rw9XfrfGWa7z"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -717,22 +701,6 @@
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
-      "added_at": "2022-04-18 03:39:12",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173774,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Hurt",
@@ -747,6 +715,38 @@
       "duration_ms": 216094,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+    },
+    {
+      "added_at": "2022-04-18 03:39:12",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 173774,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
     },
     {
       "added_at": "2023-06-07 16:02:09",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 241173,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 274995,
+      "name": "Do You Love Her Now",
+      "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Too Good (Unknown Mortal Orchestra Remix)",
         "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 235005,
       "name": "Too Good - Unknown Mortal Orchestra Remix",
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 274995,
-      "name": "Do You Love Her Now",
-      "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
     },
     {
-      "added_at": "2022-09-09 13:33:50",
-      "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Aliso",
@@ -1155,6 +1139,22 @@
       "duration_ms": 224253,
       "name": "If It Goes",
       "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"
+    },
+    {
+      "added_at": "2022-09-09 13:33:50",
+      "album": {
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
-    },
-    {
       "added_at": "2022-09-29 00:10:44",
       "album": {
         "name": "Mercurial World (Deluxe)",
@@ -1351,6 +1335,22 @@
       "duration_ms": 189004,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Sounds Of Blue",
         "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 261614,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1643,50 +1643,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
-    },
-    {
-      "added_at": "2022-04-08 19:23:51",
-      "album": {
-        "name": "Home for Now",
-        "url": "https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN"
-      },
-      "artists": [
-        {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
-        }
-      ],
-      "duration_ms": 222994,
-      "name": "Jalisco",
-      "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+      "duration_ms": 261614,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1709,6 +1677,22 @@
       "url": "https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc"
     },
     {
+      "added_at": "2022-04-08 19:23:51",
+      "album": {
+        "name": "Home for Now",
+        "url": "https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN"
+      },
+      "artists": [
+        {
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+        }
+      ],
+      "duration_ms": 222994,
+      "name": "Jalisco",
+      "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Miss Universe",
@@ -1723,6 +1707,22 @@
       "duration_ms": 281170,
       "name": "Baby Blu",
       "url": "https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/31uhQtHGICVuHM7etgIi7O"
+      },
+      "artists": [
+        {
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Thought 8",
+      "url": "https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO"
     },
     {
       "added_at": "2021-10-15 03:01:31",

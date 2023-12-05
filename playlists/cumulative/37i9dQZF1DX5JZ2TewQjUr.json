@@ -14510,10 +14510,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-05",
       "duration_ms": 196513,
       "name": "\u96cc\u96c4\u540c\u9ad4",
       "url": "https://open.spotify.com/track/1BHc2pjfLXfntjrgs4TMGc"
+    },
+    {
+      "album": {
+        "name": "\u96cc\u96c4\u540c\u9ad4",
+        "url": "https://open.spotify.com/album/1dWHXyNedi6Hn2F3nvUisP"
+      },
+      "artists": [
+        {
+          "name": "Ragpickers",
+          "url": "https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196513,
+      "name": "\u96cc\u96c4\u540c\u9ad4",
+      "url": "https://open.spotify.com/track/3Na1t47af57acgITAyL1AR"
     },
     {
       "album": {

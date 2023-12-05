@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=4\-pnZ4abSOeO33A8uE0ppw">Fokofpolisiekar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,750 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,777 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

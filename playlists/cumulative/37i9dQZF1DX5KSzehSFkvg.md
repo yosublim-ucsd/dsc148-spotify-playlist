@@ -4,7 +4,7 @@
 
 > Les meilleurs Pop Hits Maghrébins sont ici\. Cover: Manal
 
-80 songs - 4 hr 25 min
+81 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [La Tzöröni](https://open.spotify.com/track/32GxbI4EMezFdM9hROGw5u) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko) | [La Tzöröni](https://open.spotify.com/album/4GwUKOnGUSek37TvxSKZy4) | 2:50 | 2023-10-24 |  |
 | [Laman Khalitini](https://open.spotify.com/track/5NuXWwTu9nT3qKnjwRIEVr) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Laman Khalitini](https://open.spotify.com/album/7E9YwAQvad0TuZY1EcJEin) | 3:22 | 2023-08-18 | 2023-12-01 |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2023-07-07 | 2023-08-06 |
+| [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 | 2023-12-04 |  |
 | [Lili Nhari](https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lili Nhari](https://open.spotify.com/album/51VovH7Hj6uBGJiR4WG4cz) | 3:08 | 2023-07-07 |  |
 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 | 2023-08-08 |  |
 | [Ma Houwa Jari](https://open.spotify.com/track/5Veho0QUWxN6rKnTK4DuxQ) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Ma Houwa Jari](https://open.spotify.com/album/6hY9L40UJ5E7hfY4f0nUlA) | 2:14 | 2023-07-07 | 2023-08-03 |

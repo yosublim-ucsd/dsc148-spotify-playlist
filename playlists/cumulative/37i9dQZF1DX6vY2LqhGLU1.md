@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-185 songs - 12 hr 50 min
+186 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2022-11-26 |  |
 | [Our King Has Come \(Live\)](https://open.spotify.com/track/2fNd8uZp9GvyxJKHa6bOo0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [For The Honor](https://open.spotify.com/album/7AF8bOSZOINrMfLOhZVydc) | 3:40 | 2022-11-26 |  |
 | [Peace Upon The Earth](https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:10 | 2022-11-26 |  |
+| [Prince of Peace \(feat\. Abby Vaughn\)](https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Abby Vaughn](https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn) | [Advent: Here Now](https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan) | 4:19 | 2023-12-02 |  |
 | [Reggae Christmas Medley](https://open.spotify.com/track/1GhKTFDR6hZdMYFLzEYodT) | [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4) | [Reggae Christmas Medley](https://open.spotify.com/album/6Dkc0mzW9ZjT8E3DYghCwU) | 5:00 | 2022-11-26 |  |
 | [Rejoice](https://open.spotify.com/track/1omPPso8Q4XPxYiq1fAGxm) | [Life Center Worship](https://open.spotify.com/artist/2Ce6pVvFGzybXRHQWbCTAr) | [Rejoice](https://open.spotify.com/album/5qptzJ8gFJasSSwzghvttN) | 3:47 | 2022-11-26 |  |
 | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/track/0WqMFT1BrV53fUDpkxPPBK) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Laura Cooksey](https://open.spotify.com/artist/6MWom32rnuJDTw1LnnvsxK), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/album/5Da36nhwnnXFK3A3eAJxio) | 4:33 | 2022-11-26 |  |
@@ -164,7 +165,7 @@
 | [Silent Night](https://open.spotify.com/track/2WsfrJof0Hh9fz0ZxTC2Ey) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Silent Night](https://open.spotify.com/album/47KGGJrL31NSbqcfHN3gmJ) | 3:41 | 2020-12-21 | 2022-11-27 |
 | [Silent Night](https://open.spotify.com/track/4vgPZaZf6mZib4FO0KBsqY) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cassia & Myrrh](https://open.spotify.com/artist/5gQZwYs3GNecx5mXkWEoV9) | [Silent Night](https://open.spotify.com/album/2Y8WECLIhD8EvAexL4STpB) | 3:17 | 2022-11-26 |  |
 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 | 2023-11-03 |  |
-| [silent night](https://open.spotify.com/track/5vOlDerdf4ssi8QYNfs2pM) | [the quiet hours](https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT), [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [christmas hymns](https://open.spotify.com/album/2v15H4uOwXPyKIFQQYBdtr) | 4:25 | 2022-11-26 |  |
+| [silent night](https://open.spotify.com/track/5vOlDerdf4ssi8QYNfs2pM) | [the quiet hours](https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT), [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [christmas hymns](https://open.spotify.com/album/2v15H4uOwXPyKIFQQYBdtr) | 4:25 | 2022-11-26 | 2023-12-05 |
 | [Silent Night \(Arr\. Cleobury\) \[Orch\. Morgan/Pochin\]](https://open.spotify.com/track/4pytIuCRyDE2sdUx4EiGT6) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Silent Night](https://open.spotify.com/album/5Pv2leclwlajfEww7XCTFm) | 2:36 | 2022-11-26 | 2023-12-03 |
 | [Silver Bells](https://open.spotify.com/track/2MpextDSUjiWKWBZIaqUpz) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:22 | 2020-12-21 | 2022-11-27 |
 | [Silver Bells](https://open.spotify.com/track/5La4SN8BGxWRxGuXVdjZxL) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas Music 2021](https://open.spotify.com/album/5pfk2todigsulOlBr1qn1Z) | 2:22 | 2020-12-21 | 2022-11-13 |

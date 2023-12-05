@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Canada.",
-  "num_followers": 335394,
+  "num_followers": 335388,
   "original_name": "Top 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU0OTY4MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU1MDU0NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "The Singles: Echoes from the Edge of Heaven",
         "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
@@ -105,23 +105,7 @@
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -137,7 +121,7 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -153,7 +137,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -169,7 +153,23 @@
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Have A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Sleigh Ride",
         "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
@@ -233,55 +233,7 @@
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Holiday Inn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
@@ -305,7 +257,7 @@
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
@@ -321,27 +273,23 @@
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Christmas Songs by Sinatra",
         "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
@@ -361,7 +309,23 @@
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -377,39 +341,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
@@ -433,7 +365,7 @@
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
@@ -449,23 +381,43 @@
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -481,23 +433,23 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
@@ -513,43 +465,39 @@
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Christmas (Baby, Please Come Home)",
         "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
@@ -565,23 +513,7 @@
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -601,7 +533,23 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
@@ -617,23 +565,7 @@
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
@@ -649,23 +581,59 @@
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 229477,
-      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Do They Know It\u2019s Christmas?",
         "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
@@ -681,55 +649,23 @@
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
-    },
-    {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "The Beach Boys' Christmas Album",
         "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
@@ -745,7 +681,7 @@
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
@@ -765,7 +701,7 @@
       "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
         "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
         "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
@@ -781,72 +717,136 @@
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2023-12-03 08:04:21",
+      "added_at": "2023-12-04 08:09:15",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "Have A Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "duration_ms": 130026,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "When Christmas Comes Around...",
+        "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+      "duration_ms": 242644,
+      "name": "Santa, Can\u2019t You Hear Me",
+      "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
+    },
+    {
+      "added_at": "2023-12-04 08:09:15",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Santa Claus Is Coming to Town",
+      "url": "https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7"
     }
   ],
   "unique_name": "Top 50 - Canada",

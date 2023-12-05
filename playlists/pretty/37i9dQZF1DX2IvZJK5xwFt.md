@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,441 likes - 66 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,518 likes - 66 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 65 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
 | 66 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
 
-Snapshot ID: `MCwyZWUxY2E2YThkMTIwODI0YjVjNDA5YjNmNjZmY2U3YjI5NDMzM2Y5`
+Snapshot ID: `MCwyNTcwMjZkZDhhOGVmZjVkNzQwYmM4ODM2NjdkNmVjYjA5MzFiMDJm`

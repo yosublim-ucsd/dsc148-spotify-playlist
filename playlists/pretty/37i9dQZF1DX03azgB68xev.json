@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 203012,
+  "num_followers": 203032,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDUwMjI0NzYxMGY1ZTcyMGM2NTA5Njg0YTRmOWU2NjI1YTQ4NWYw",
+  "snapshot_id": "MCwzZDg3M2Y4YTk4MDcwYjNjMDVmODZjZjRmOTdiNTZkZWMzY2ZkY2Rl",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Grace In The Wilderness",
         "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 166788,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
       "artists": [
         {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -295,6 +279,22 @@
       "duration_ms": 296666,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 185510,
       "name": "Down (Remix)",
       "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -755,22 +755,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "This Is Freedom (Ain't No Rock) [Live]",
-        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
         }
       ],
-      "duration_ms": 344125,
-      "name": "This Is Freedom (Ain't No Rock) - Live",
-      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
+      "duration_ms": 199680,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -799,18 +795,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+        "name": "This Is Freedom (Ain't No Rock) [Live]",
+        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
+      "duration_ms": 344125,
+      "name": "This Is Freedom (Ain't No Rock) - Live",
+      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
       "artists": [
         {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+      "duration_ms": 221909,
+      "name": "Spring Theory",
+      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Searching For",
         "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 255118,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 221909,
-      "name": "Spring Theory",
-      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "The Same Jesus (Reyer Remix)",
         "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Happy Day - Retain Remix",
-        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
       "artists": [
         {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
         }
       ],
-      "duration_ms": 200903,
-      "name": "Happy Day - Retain Remix",
-      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1311,6 +1295,22 @@
       "duration_ms": 184385,
       "name": "Source",
       "url": "https://open.spotify.com/track/0YJFMeUJeibHyUNw8al76e"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Happy Day - Retain Remix",
+        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        }
+      ],
+      "duration_ms": 200903,
+      "name": "Happy Day - Retain Remix",
+      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
     },
     {
       "added_at": "2023-01-13 21:46:56",

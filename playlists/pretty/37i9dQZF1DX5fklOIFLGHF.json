@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: Et\u00e9 & Los Problems",
-  "num_followers": 20195,
+  "num_followers": 20214,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTAwOTEwYzA0MmRiOWYwMjg5OTQ2ZTZhOGU3NGNkYjJhM2IwNjli",
+  "snapshot_id": "MCwzYjE5MDE4NDc0ZWE4NjEyNmY4OWMzODJlZTQxYjY5MTcyNTljOGZl",
   "tracks": [
     {
       "added_at": "2023-11-23 21:48:16",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 270213,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 212746,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Disraeli Gears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 250400,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "El Calor Del Pleno Invierno",
         "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
       },
@@ -815,22 +799,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Physical Graffiti (Deluxe Edition)",
         "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 517125,
       "name": "Kashmir - Remaster",
       "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -879,6 +879,38 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Ese Maldito Momento",
+      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
         "name": "Porfiado",
         "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
       },
@@ -911,22 +943,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -943,38 +959,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Ese Maldito Momento",
-      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -1151,34 +1151,18 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
-        "name": "Raro",
-        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Yendo a la Casa de Dami\u00e1n",
-      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Voragine",
-        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Cae el Sol",
-      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Como Olvidarme",
-      "url": "https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Oktubre",
         "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Como Olvidarme",
+      "url": "https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek"
     },
     {
       "added_at": "2023-11-23 21:48:16",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-11-23 21:48:16",
       "album": {
-        "name": "Desaf\u00edos",
-        "url": "https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Ojos de Drag\u00f3n!",
-      "url": "https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY"
-    },
-    {
-      "added_at": "2023-11-23 21:48:16",
-      "album": {
         "name": "Bella Donna (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 329413,
       "name": "Edge of Seventeen - 2016 Remaster",
       "url": "https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu"
+    },
+    {
+      "added_at": "2023-11-23 21:48:16",
+      "album": {
+        "name": "The Rolling Stones In Mono (Remastered 2016)",
+        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Paint It, Black - Mono",
+      "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"
     }
   ],
   "unique_name": "La Frecuencia",

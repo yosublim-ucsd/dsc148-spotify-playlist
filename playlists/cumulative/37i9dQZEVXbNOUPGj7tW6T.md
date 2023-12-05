@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-511 songs - 1 day 4 hr 56 min
+512 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-07 | 2022-09-15 |
 | [Agust D](https://open.spotify.com/track/6AknCCsxOsrJ2mkSdCtET1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 3:54 | 2023-04-08 | 2023-04-10 |
 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 | 2023-10-29 |  |
+| [Ahora Estoy Solo](https://open.spotify.com/track/2RdTRx9fjrxCW1bLZsCDob) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Super Cumbias \(Remastered\)](https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd) | 3:07 | 2023-12-04 |  |
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2021-08-06 | 2021-12-22 |
 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 | 2021-04-21 | 2021-10-20 |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-11-25 |  |
@@ -77,7 +78,7 @@
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Blood Sweat & Tears](https://open.spotify.com/track/4lsn7TSeTBVqeBtlZQnQRw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:37 | 2022-10-11 | 2022-10-13 |
 | [Bonita](https://open.spotify.com/track/2Q7KYjCv7XaLc0KRGY9m50) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/5eABKqhbKkcAkAi3o6tFun) | 3:07 | 2021-03-27\* | 2021-06-27 |
-| [Bonito](https://open.spotify.com/track/09eahr9he14Pam6BP84DJ0) | [El Duglas](https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9) | [Bonito](https://open.spotify.com/album/3EUZMxNoVk4jyQlIiG27UO) | 3:05 | 2023-12-03 |  |
+| [Bonito](https://open.spotify.com/track/09eahr9he14Pam6BP84DJ0) | [El Duglas](https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9) | [Bonito](https://open.spotify.com/album/3EUZMxNoVk4jyQlIiG27UO) | 3:05 | 2023-12-03 | 2023-12-05 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2021-04-26 | 2021-09-24 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2023-01-05 | 2023-02-12 |
 | [Boy With Luv \- Japanese ver.](https://open.spotify.com/track/1GAAUZBTaIM1LwNpOJQJrZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7 \~ THE JOURNEY \~](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) | 3:50 | 2023-04-04 | 2023-04-06 |

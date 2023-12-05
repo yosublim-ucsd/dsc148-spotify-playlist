@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-265 songs - 13 hr 5 min
+266 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Light Year](https://open.spotify.com/track/1C2JiKNMjv8FaZlrgwObBJ) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Light Year](https://open.spotify.com/album/2uEPdEPr1HkwxgHqJwecAn) | 3:54 | 2021-09-06 |  |
 | [Ljung](https://open.spotify.com/track/4S3rgz60bvE155xKGyCaZe) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Ljung](https://open.spotify.com/album/6xKGBiSNUOB37r84vLhPWJ) | 2:00 | 2021-12-22 |  |
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2021-09-06 |  |
+| [Luminary](https://open.spotify.com/track/137CbIbl9SXUiCS2R58Uqz) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Luminary](https://open.spotify.com/album/5VyVfg2OuhWr4yQMpketLt) | 3:24 | 2023-12-04 |  |
 | [Lunaria](https://open.spotify.com/track/64NfNdH3XaMEpchQznOuxl) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 1:52 | 2021-09-06 | 2023-07-29 |
 | [Lupus Dream](https://open.spotify.com/track/5PZASTgARJNAA849LvrAz5) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [A New Constellation](https://open.spotify.com/album/20auUkhq5BLo3ab520baTi) | 3:17 | 2021-09-06 | 2023-03-18 |
 | [Mayor Menor](https://open.spotify.com/track/5nrBW6ySNOcXTzC7WcpyNf) | [King Kuelgue](https://open.spotify.com/artist/5PIv0hL3wDUZ57va29ZKeT) | [Tres](https://open.spotify.com/album/2QCMu5Nsx4Cs1Rl3m2tq7j) | 1:52 | 2021-09-06 | 2023-07-29 |
@@ -247,7 +248,7 @@
 | [Under a Cloud](https://open.spotify.com/track/2rbk8KIJi5m1GA2gQepA98) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Cold Light of Day](https://open.spotify.com/album/7Kmi7xXY7piM5RzMDen8qd) | 2:52 | 2021-09-06 |  |
 | [Under The Wind](https://open.spotify.com/track/4YS6FM8lct3QyV2oGIrCp4) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Under The Wind](https://open.spotify.com/album/6E1x5WibS1p1kHsDuXfiau) | 4:00 | 2021-09-06 | 2023-03-18 |
 | [Understudy](https://open.spotify.com/track/0Y41ZfnVaNRQp9dQiagwbC) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Understudy](https://open.spotify.com/album/3VcIkzC32KOKkJNheSSwzW) | 2:43 | 2021-09-06 |  |
-| [Underwater](https://open.spotify.com/track/33VnwqwErqFX9tKW3M2jzO) | [Enis Hartmann](https://open.spotify.com/artist/1L7wIuEyeJaUv8ZPilJEPa) | [Steps & Leaps](https://open.spotify.com/album/5WVe8BBSIMvv4w2mqG7RZP) | 2:57 | 2021-09-06 |  |
+| [Underwater](https://open.spotify.com/track/33VnwqwErqFX9tKW3M2jzO) | [Enis Hartmann](https://open.spotify.com/artist/1L7wIuEyeJaUv8ZPilJEPa) | [Steps & Leaps](https://open.spotify.com/album/5WVe8BBSIMvv4w2mqG7RZP) | 2:57 | 2021-09-06 | 2023-12-05 |
 | [Unity](https://open.spotify.com/track/0gcxkJ3YAK9xp7tPZaNVAJ) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 3:21 | 2021-09-06 |  |
 | [Uplifting](https://open.spotify.com/track/65nKrnZS2M6OaGiZaMOM0S) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Uplifting](https://open.spotify.com/album/6WHIs2pQ0qQrSfea85Atwd) | 4:54 | 2021-09-06 |  |
 | [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 | 2022-04-20 |  |

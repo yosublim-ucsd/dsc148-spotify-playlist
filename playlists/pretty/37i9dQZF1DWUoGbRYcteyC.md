@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,351 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,001,352 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 27 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 28 | [🦋 MARIPOSAS 🦋](https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [🦋 MARIPOSAS 🦋](https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY) | 2:42 |
 | 29 | [Bombón](https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT) | 2:40 |
-| 30 | [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 |
-| 31 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
-| 32 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
+| 30 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
+| 31 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
+| 32 | [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 |
 | 33 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 34 | [Feriado](https://open.spotify.com/track/0CyhLA1qjIinJAGnJYk1oK) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:46 |
 | 35 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
@@ -50,20 +50,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 40 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 |
 | 41 | [Medialuna](https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:27 |
 | 42 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
-| 43 | [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 |
-| 44 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
-| 45 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
-| 46 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 43 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
+| 44 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
+| 45 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 46 | [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 |
 | 47 | [Mar Adentro](https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 4:01 |
 | 48 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 |
 | 49 | [Quiéreme](https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quiéreme](https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv) | 3:02 |
 | 50 | [Llegaste tú](https://open.spotify.com/track/5gAbyyyD5Pr0WDkX8sNWSO) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Jesse & Joy](https://open.spotify.com/album/09Gz79Vlh6TDdL5qt5PhQR) | 4:05 |
 | 51 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
 | 52 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
-| 53 | [ENVICIAO](https://open.spotify.com/track/5RBqpCaJSjyWJH0qmAXlyN) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:29 |
-| 54 | [Carolina](https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Carolina](https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k) | 2:47 |
-| 55 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
-| 56 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
+| 53 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
+| 54 | [ENVICIAO](https://open.spotify.com/track/5RBqpCaJSjyWJH0qmAXlyN) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:29 |
+| 55 | [Carolina](https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Carolina](https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k) | 2:47 |
+| 56 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
 | 57 | [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 |
 | 58 | [No Tengo Nada](https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [No Tengo Nada](https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml) | 3:45 |
 | 59 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 64 | [bubble gum](https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [bubble gum](https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw) | 3:30 |
 | 65 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 |
 
-Snapshot ID: `MCxkOWQwMTRmNjg2OTJkMmI5NmU3YTNkNGM2OTI4ZGZmMjcwMDc0ZDNj`
+Snapshot ID: `MCxmMjU3ODNkNzA0ZmY1ZGJhODZkOTUxY2VmZmQ4ZTNiMjZjN2JiYWUy`

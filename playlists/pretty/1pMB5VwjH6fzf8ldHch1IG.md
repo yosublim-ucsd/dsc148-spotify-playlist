@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,879 likes - 60 songs - 3 hr 11 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,876 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 14 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 15 | [Elevator Hum](https://open.spotify.com/track/3MPLwP2T5FQ2vtJiDvn79Q) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Elevator Hum](https://open.spotify.com/album/6fenEkY5qHSMxWKRpObBrb) | 3:55 |
 | 16 | [Save My Soul](https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 3:10 |
-| 17 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 17 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 18 | [Next to You](https://open.spotify.com/track/57reeqpImanYb0RBFICHMY) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Next to You](https://open.spotify.com/album/048xY1jvFBHCyJgH0wcsBd) | 2:52 |
 | 19 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 20 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 |
