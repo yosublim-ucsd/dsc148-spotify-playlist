@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 125991,
+  "num_followers": 126015,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTBhOWNhZjlhNGVhMWQ3Yzc4NzE2NjM4MjcwZTVmY2MxOTc0YTAx",
+  "snapshot_id": "MCwxMDhkOGU0YzJkMmI1YjVhZTYyZDQ1YjExZjY2ZWYxMzRhZTMyNjdl",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -263,26 +263,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Love Me Like You",
-        "url": "https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Love Me Like You",
-      "url": "https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "All I See (feat. CASS)",
         "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 183341,
       "name": "All I See (feat. CASS)",
       "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Love Me Like You",
+        "url": "https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Love Me Like You",
+      "url": "https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -771,22 +771,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
       "artists": [
         {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 214693,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -811,18 +807,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+      "duration_ms": 214693,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 222551,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Hands High",
-        "url": "https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "Hands High",
-      "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Better View",
         "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Hands High",
+        "url": "https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm"
+      },
+      "artists": [
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 223346,
+      "name": "Hands High",
+      "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1003,22 +1019,6 @@
       "duration_ms": 208204,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        },
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "I've Got A Fire",
         "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 218946,
       "name": "I\u2019ve Got A Fire",
       "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Jesus Is The Key",
         "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2023-02-18 04:35:24",

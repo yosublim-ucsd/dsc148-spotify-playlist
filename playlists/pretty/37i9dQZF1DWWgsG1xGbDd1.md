@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,283 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,318 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Things a Come Up to Bump](https://open.spotify.com/track/1V8TACzzOdmBYczCBBoKwt) | [The Bassies](https://open.spotify.com/artist/0iRfV89CEYWMpwoYb1SUIZ) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 2:34 |
 | 60 | [How Could I Live](https://open.spotify.com/track/4dY12uO1KLfh79TUyZVSEN) | [The Sharks](https://open.spotify.com/artist/5YUnGJyBSdPLoJExvs7qHF) | [Studio One Lovers](https://open.spotify.com/album/0RAY8NtmtYwIEh6G5avSyi) | 3:11 |
 
-Snapshot ID: `MCxkMTA3NzE4NWYxNzNjOWNjNjJhMjY3ODkxM2Y2N2QwZWMzODk0NGNm`
+Snapshot ID: `MCxiZDdiYjljMThlYjliOTAwOTEwMmU2NDIzZTJlODhkMjEwYmY3NDEw`

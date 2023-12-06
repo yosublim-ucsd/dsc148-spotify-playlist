@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "ISSUES DELUXE",
+        "url": "https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ"
+      },
+      "artists": [
+        {
+          "name": "CYBER RUI",
+          "url": "https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170010,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2"
+    },
+    {
+      "album": {
         "name": "As you are",
         "url": "https://open.spotify.com/album/7lizwS91vA2vdPKGEZWTx1"
       },
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 118518,
       "name": "Zone 6",
       "url": "https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt"

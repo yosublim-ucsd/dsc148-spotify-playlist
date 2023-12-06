@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=ZcnGNbUxQlyrFIYIhVZLCw">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,180 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,519 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 16 | [Kuyabongwa](https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81) | [ChubbyCheeks](https://open.spotify.com/artist/2jMiIQfoS53BBQstybElVW) | [Kuyabongwa](https://open.spotify.com/album/1p2L4YEwcJHgRndeMG25Cw) | 3:34 |
 | 17 | [Inkumbulo](https://open.spotify.com/track/1xL5DE9xNucOz9K2t7Q7IH) | [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Inkumbulo](https://open.spotify.com/album/1RACDef4fKbSdTbXCBB3yO) | 3:40 |
 | 18 | [KUYALUNGA](https://open.spotify.com/track/5UwtI4FsIbqq9dP2Z8WNLi) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [KUYALUNGA](https://open.spotify.com/album/6E6Vcd24pqKCTQbeEK3IHa) | 3:58 |
-| 19 | [Ukhisimusi](https://open.spotify.com/track/46MKPNCPgQ8d1ujdMeovGW) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Ukhisimusi](https://open.spotify.com/album/44lCMSa01ESUGgpAzWrHIC) | 5:32 |
+| 19 | [Ukhisimusi](https://open.spotify.com/track/46MKPNCPgQ8d1ujdMeovGW) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Dj Radix](https://open.spotify.com/artist/1e1wEtfkiETX9bghMZnU4x) | [Ukhisimusi](https://open.spotify.com/album/44lCMSa01ESUGgpAzWrHIC) | 5:32 |
 | 20 | [Free](https://open.spotify.com/track/5T9CAx0lK25jCTj7LRAjHL) | [Darkie Fiction](https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg) | [Free](https://open.spotify.com/album/6DqoAUmZnzAE3quXt0bAgq) | 2:07 |
 | 21 | [Impilo \(feat\. 031 Choppa\)](https://open.spotify.com/track/6X4fod67yqrMEpdwGmJgfU) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Impilo \(feat\. 031 Choppa\)](https://open.spotify.com/album/4tME7o9opbummzHk9XWTaa) | 4:17 |
 | 22 | [Njalo](https://open.spotify.com/track/3oyrlumXA15HTQQ3dwBGVe) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Njalo](https://open.spotify.com/album/4z7nzQ247jp025EVzZMXyF) | 4:14 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 54 | [Feelings](https://open.spotify.com/track/3LNQ3RLbxPOjfGVTrlXQl5) | [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Feelings](https://open.spotify.com/album/2kN74xWPubjhrFnDtL2pHJ) | 2:54 |
 | 55 | [Kukude Emathandweni](https://open.spotify.com/track/5gwyqqUjqTSOnXklI7582D) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Kukude Emathandweni](https://open.spotify.com/album/18UdSJLB7xeeigWWsF0u4s) | 3:52 |
 
-Snapshot ID: `MCxhNTRmMzJkZDNmYzNmZjBhMjkzNmQxOTFjY2Y0YWU1YTUxZDljYWNj`
+Snapshot ID: `MCwxNTk0N2Q4Zjg2ZmVmNTVhODkyY2Q5M2JiM2E1MjI3OGY4MTg1MzQz`

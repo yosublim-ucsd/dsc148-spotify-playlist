@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Landon Barker
 
-680 songs - 1 day 11 hr 15 min
+681 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [AFTERTASTE](https://open.spotify.com/track/3ZarOuID7yQHZu0uKZ2xok) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [AFTERTASTE](https://open.spotify.com/album/3kuwEIhYml4wGj2UEfwrk7) | 3:08 | 2022-03-24 | 2022-04-21 |
 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 | 2022-03-17 | 2022-07-28 |
 | [Alive](https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Alive](https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv) | 3:12 | 2023-03-17 |  |
+| [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 | 2023-11-17 |  |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-11-11 | 2022-11-13 |
 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-03-24 |  |
 | [All I Need](https://open.spotify.com/track/20NJF63c7zVC6kf5ViH8VG) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [All I Need](https://open.spotify.com/album/3fmtbVIXRK5M4OSAxllhDb) | 2:26 | 2022-03-17 | 2022-07-08 |
@@ -300,7 +301,7 @@
 | [Hometown Heroes](https://open.spotify.com/track/5WIm8DA0JdrHz9tVFcOnxW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Hometown Heroes](https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp) | 3:06 | 2022-03-24 | 2022-04-18 |
 | [Honest](https://open.spotify.com/track/6GA5TVYR34SoRv8OvRKarY) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Honest](https://open.spotify.com/album/4cH11OunMUMHKuhSvWEMvL) | 3:46 | 2022-03-24 | 2022-04-04 |
 | [House Burn Down](https://open.spotify.com/track/48oBIuYRNSsKPigKQAQzXp) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [House Burn Down](https://open.spotify.com/album/5hoJlHBaY7391kmYXbV4zu) | 3:10 | 2022-03-24 | 2022-04-14 |
-| [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-09 |  |
+| [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-09 | 2023-12-06 |
 | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E), [Lydia Night](https://open.spotify.com/artist/0J5n8cS1rKCAZ7eJek1uYK) | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/album/6JMXuj7c10IpXdwHWp7ZHd) | 3:12 | 2022-03-24 | 2022-05-24 |
 | [How Do You Love Me](https://open.spotify.com/track/44UXLRvq1ZrSLb32OVOteB) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/5jKzirISr4V40vLUvN8gMI) | 3:56 | 2023-08-25 |  |
 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 | 2022-06-03 |  |

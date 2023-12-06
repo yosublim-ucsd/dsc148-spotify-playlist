@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 278400,
       "name": "Elamy",
       "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
@@ -1984,6 +1984,24 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+    },
+    {
+      "album": {
+        "name": "Emerald Skies",
+        "url": "https://open.spotify.com/album/3NBivztC0hpwUNKeV7Hs6Z"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Emerald Skies",
+      "url": "https://open.spotify.com/track/6D11LKlEYTF9URakCVjhvO"
     },
     {
       "album": {
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 190199,
       "name": "Over",
       "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
@@ -6520,6 +6538,24 @@
       "duration_ms": 255574,
       "name": "Sinner - Edit",
       "url": "https://open.spotify.com/track/3rM7KGUECeqVtYPoELk7ct"
+    },
+    {
+      "album": {
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
     },
     {
       "album": {
@@ -7542,6 +7578,28 @@
       "duration_ms": 156795,
       "name": "The Maker",
       "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
+    },
+    {
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213870,
+      "name": "The Morning After",
+      "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
     },
     {
       "album": {

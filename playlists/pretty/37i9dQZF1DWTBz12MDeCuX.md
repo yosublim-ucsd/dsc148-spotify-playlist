@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: iilliaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,091 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,485 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 96 | [MAXIMUM RIZZ](https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:27 |
 | 97 | [r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR) | [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV) | [r4ver girl](https://open.spotify.com/album/6G5vDGdzRSuRyYnkMxJK0j) | 1:56 |
 | 98 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 |
-| 99 | [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 |
+| 99 | [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 |
 | 100 | [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 |
 
-Snapshot ID: `MCwwOWQzODI1ZjcyN2ZkYzUwMjg3NzIxYzBiNTRkNjZlYWFiNjUxNDcw`
+Snapshot ID: `MCwwZGY5YzcyZGEwMWQ2NzMwMzZiOGNkMzFlZmJjOTlhNzdhYjA4M2U1`

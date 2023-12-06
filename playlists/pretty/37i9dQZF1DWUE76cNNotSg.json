@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 493003,
+  "num_followers": 493174,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzc4NzNmMzg2ZmFmNjUxNDI4YzBmZTgwYzJkNDAxZjg3ZDk2N2Iy",
+  "snapshot_id": "MCw3ZDgwMzdmYWYxMzFmOGNlYWJmMGJkYmVhYTU3OWI0OTIyN2UyOTEz",
   "tracks": [
     {
       "added_at": "2023-12-01 19:48:47",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2023-12-01 19:48:47",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 228162,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
-    },
-    {
-      "added_at": "2023-12-01 19:48:47",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-12-01 19:48:47",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2023-12-01 19:48:47",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
-    },
-    {
-      "added_at": "2023-12-01 19:48:47",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2023-12-01 19:48:47",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "UH",
+      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
+    },
+    {
+      "added_at": "2023-12-01 19:48:47",
+      "album": {
         "name": "Rust & Gold",
         "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
@@ -1479,18 +1495,22 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 180533,
-      "name": "UH",
-      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     },
     {
       "added_at": "2023-12-01 19:48:47",
@@ -1519,46 +1539,6 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
-        "name": "On the Quiet (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
-      },
-      "artists": [
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "Vaarwell",
-          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Far Away Place",
-      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
-    },
-    {
-      "added_at": "2023-12-01 19:48:47",
-      "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
-    },
-    {
-      "added_at": "2023-12-01 19:48:47",
-      "album": {
         "name": "We Stayed Up All Night",
         "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 265758,
       "name": "We Stayed Up All Night",
       "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
+    },
+    {
+      "added_at": "2023-12-01 19:48:47",
+      "album": {
+        "name": "On the Quiet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Far Away Place",
+      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
     },
     {
       "added_at": "2023-12-01 19:48:47",
@@ -1611,34 +1611,18 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+        "name": "Home For Now",
+        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
       },
       "artists": [
         {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
         }
       ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
-    },
-    {
-      "added_at": "2023-12-01 19:48:47",
-      "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+      "duration_ms": 222439,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
     },
     {
       "added_at": "2023-12-01 19:48:47",
@@ -1659,18 +1643,50 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
-        "name": "Home For Now",
-        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
       "artists": [
         {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 222439,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "added_at": "2023-12-01 19:48:47",
+      "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2023-12-01 19:48:47",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
       "added_at": "2023-12-01 19:48:47",
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
-    },
-    {
-      "added_at": "2023-12-01 19:48:47",
-      "album": {
         "name": "Kyle (i found you)",
         "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
       },
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-12-01 19:48:47",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
-    },
-    {
-      "added_at": "2023-12-01 19:48:47",
-      "album": {
         "name": "Don't Turn Around",
         "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
+    },
+    {
+      "added_at": "2023-12-01 19:48:47",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     }
   ],
   "unique_name": "golden hour",

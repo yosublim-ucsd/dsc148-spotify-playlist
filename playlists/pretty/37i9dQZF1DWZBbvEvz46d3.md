@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,879 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,907 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Chodz, przytul, przebacz](https://open.spotify.com/track/5eYQ4VtpaITG5fMmLBPYZi) | [Andrzej Piaseczny](https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH) | [Spis Rzeczy Ulubionych](https://open.spotify.com/album/2h7ug91di7NKRe2gENYET7) | 4:46 |
 | 75 | [Prowadz mnie](https://open.spotify.com/track/5d2WnlqT8zmD4WjZrwH5jh) | [Kasia Kowalska](https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ) | [Samotna w Wielkim Miescie](https://open.spotify.com/album/3nTHYaPt2iLWUF93RTfPC5) | 4:14 |
 
-Snapshot ID: `MCxiMzA3Yjc0YWRhNjc0NmQxMDIyNWI3Njc4MDcxMzg4NzA4ZjViZGNm`
+Snapshot ID: `MCxlNTdlNjQwODZkNzdhZmIxYmMxNzliNGZjYjQ2YzNhN2ZkMTc5ODgx`

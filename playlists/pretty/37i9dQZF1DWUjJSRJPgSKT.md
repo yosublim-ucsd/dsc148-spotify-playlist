@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,177 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,242 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 22 | [Scrapple From The Apple \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 7:22 |
 | 23 | [Minors Holiday \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 4:27 |
 | 24 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
-| 25 | [Salt Peanuts](https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h) | [Dizzy Gillespie Quintet](https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A) | [An Electrifying Evening With The Dizzy Gillespie Quintet](https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0) | 7:08 |
-| 26 | [52nd Street Theme \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 |
+| 25 | [52nd Street Theme \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 |
+| 26 | [Salt Peanuts](https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h) | [Dizzy Gillespie Quintet](https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A) | [An Electrifying Evening With The Dizzy Gillespie Quintet](https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0) | 7:08 |
 | 27 | [Alamode](https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU) | 6:50 |
 | 28 | [Airegin](https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:26 |
 | 29 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [A Shade Of Jade \- Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 7:08 |
 | 65 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 
-Snapshot ID: `MCxhYTM4OWQ4NjBhMThlYWFjNjJlNGY4ZTUxNDIyZGQwMTUzMGQxYmM1`
+Snapshot ID: `MCxhY2I4YWVlYWJmZjc5OGJmYTFiYjM2NjM2MjlkNjQxZDIzNTliYjYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,449 likes - 50 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,566 likes - 50 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 5 | [This Is The Way \(We Dance\)](https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq) | [D\-tip](https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF), [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [This Is The Way \(We Dance\)](https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK) | 5:37 |
 | 6 | [It Is Well](https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew) | [It Is Well](https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa) | 7:10 |
 | 7 | [Grootman \(Spiritual Love Affair\)](https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz) | [Daano](https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd) | [The Jazz Kid III](https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI) | 7:27 |
-| 8 | [Oh Mdali](https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Playmaster & Smallistic](https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Oh Mdali](https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs) | 6:01 |
+| 8 | [Oh Mdali](https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Playmaster & Smallistic](https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Oh Mdali](https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs) | 6:01 |
 | 9 | [HER](https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [Day Dream](https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu) | 6:13 |
 | 10 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 |
 | 11 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 43 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
 | 44 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
 | 45 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
-| 46 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
-| 47 | [Those Times](https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn) | [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal) | [Those Times](https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY) | 7:45 |
+| 46 | [Those Times](https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn) | [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal) | [Those Times](https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY) | 7:45 |
+| 47 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
 | 48 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 |
 | 49 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
 | 50 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
 
-Snapshot ID: `MCxmNTNhOTA0NzkwMTQ5NTMwMmU2MWNkYjgxMDI0NjgxMWFkYzI4ZTk0`
+Snapshot ID: `MCwzYjUyYTFlMzFmNGY1M2JjMTYwOGYwNWZjM2Y3MmEzMWMzY2ZlOTMx`

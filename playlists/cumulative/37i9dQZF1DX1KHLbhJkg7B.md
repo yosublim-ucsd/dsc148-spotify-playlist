@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-355 songs - 22 hr 18 min
+356 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 | 2023-03-10 |  |
 | [Circles](https://open.spotify.com/track/0xESLu1HGNj3xrvsmU0XMO) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Circles](https://open.spotify.com/album/7ByBR4dghH8plBWsCl9hBy) | 3:18 | 2023-01-06 | 2023-06-03 |
 | [Circles](https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Circles](https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK) | 3:14 | 2021-12-10 | 2023-10-28 |
+| [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 | 2023-12-01 |  |
 | [Come Fly with Me](https://open.spotify.com/track/7C1HA5sMYMZAZ1yvIOZ1Qw) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 3:10 | 2022-01-07 | 2022-07-29 |
 | [Coming Home](https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:33 | 2021-12-10 | 2022-09-10 |
 | [Country State Of Mind](https://open.spotify.com/track/1vVbMOgQbT7kp3Ri0gI9KR) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Country State Of Mind](https://open.spotify.com/album/6srulwxu8B7uv7A6olGYMH) | 4:02 | 2021-12-10 | 2022-07-22 |
@@ -260,7 +261,7 @@
 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-12-10 |  |
 | [Shotgun Willie](https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Shotgun Willie](https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk) | 2:35 | 2023-02-24 | 2023-03-11 |
 | [Should've Been A Cowboy](https://open.spotify.com/track/7c20lA9sS4c5CeulMOSAZt) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Should've Been A Cowboy](https://open.spotify.com/album/4qU7lxvipvrDnPVfydiiaH) | 3:35 | 2022-03-11 | 2022-07-26 |
-| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 |  |
+| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 | 2023-12-06 |
 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 | 2021-12-10 | 2023-01-06 |
 | [Six Days On The Road](https://open.spotify.com/track/032sAei1X5MdodhFWfTwE2) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2022-03-11 | 2022-04-20 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/4BdJ29tKViIvXhSKoB2dSS) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/25Kg2AqcqSY4FtrUtXc1s7) | 3:54 | 2023-10-27 |  |

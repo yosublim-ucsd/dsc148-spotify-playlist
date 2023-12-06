@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "90s Rap Mashup",
+        "url": "https://open.spotify.com/album/5Kt5QHJX0wnEk3A3mAApR5"
+      },
+      "artists": [
+        {
+          "name": "Austin Williams",
+          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210860,
+      "name": "90s Rap Mashup",
+      "url": "https://open.spotify.com/track/067ogyD1BIeZDh4UD0yV3Y"
+    },
+    {
+      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
       },
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
@@ -1120,6 +1138,24 @@
       "duration_ms": 130666,
       "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+    },
+    {
+      "album": {
+        "name": "A Cigarette",
+        "url": "https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "A Cigarette",
+      "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
     },
     {
       "album": {
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 141334,
       "name": "ALL MY FELLAS",
       "url": "https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU"
@@ -2262,6 +2298,32 @@
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+    },
+    {
+      "album": {
+        "name": "Alucin",
+        "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197114,
+      "name": "Alucin",
+      "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
     },
     {
       "album": {
@@ -4752,7 +4814,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 294065,
       "name": "Black Sheep - Brie Larson Vocal Version",
       "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
@@ -9035,6 +9097,24 @@
     },
     {
       "album": {
+        "name": "DIE 4 YOU",
+        "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194045,
+      "name": "DIE 4 YOU",
+      "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
+    },
+    {
+      "album": {
         "name": "Jackpot Juicer",
         "url": "https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW"
       },
@@ -9936,7 +10016,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
@@ -11584,6 +11664,24 @@
       "duration_ms": 171819,
       "name": "Excuse the Mess",
       "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
+    },
+    {
+      "album": {
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
     },
     {
       "album": {
@@ -15143,6 +15241,24 @@
     },
     {
       "album": {
+        "name": "he never will",
+        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171133,
+      "name": "he never will",
+      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
+    },
+    {
+      "album": {
         "name": "A White Sport Coat And A Pink Crustacean",
         "url": "https://open.spotify.com/album/1oN6OAJ7e3FO5QboDNtNOh"
       },
@@ -16494,7 +16610,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
@@ -18386,7 +18502,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 201066,
       "name": "Intrusive Thoughts",
       "url": "https://open.spotify.com/track/6PwrZtyXv480zMraalNzPd"
@@ -18480,7 +18596,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -20154,7 +20270,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
@@ -21389,6 +21505,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270315,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6"
+    },
+    {
+      "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
@@ -21404,6 +21538,24 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164386,
+      "name": "Lo Tienes Todo",
+      "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
     },
     {
       "album": {
@@ -21616,7 +21768,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 210338,
       "name": "Long Story Short",
       "url": "https://open.spotify.com/track/6LVNGPtSPpc4KDFjvLS8c1"
@@ -26109,6 +26261,28 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "The Covey Band",
+          "url": "https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193591,
+      "name": "Nothing You Can Take From Me (Boot-Stompin' Version) - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L"
+    },
+    {
+      "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
       },
@@ -27708,7 +27882,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 198817,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
@@ -28238,7 +28412,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 216194,
       "name": "Pickup Man (feat. Post Malone)",
       "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
@@ -29603,6 +29777,28 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "The Covey Band",
+          "url": "https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233341,
+      "name": "Pure As The Driven Snow - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/6yQwizH2mspw25bW6UuccH"
+    },
+    {
+      "album": {
         "name": "Push (From Barbie The Album)",
         "url": "https://open.spotify.com/album/694IwHsLbe9Eu9ANJBbR9w"
       },
@@ -30168,7 +30364,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 159170,
       "name": "Reggaeton Champagne",
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
@@ -32691,6 +32887,24 @@
     },
     {
       "album": {
+        "name": "Sin So Sweet",
+        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Sin So Sweet",
+      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
+    },
+    {
+      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
@@ -33344,6 +33558,24 @@
       "duration_ms": 165673,
       "name": "Soldier, Poet, King",
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
     },
     {
       "album": {
@@ -34572,7 +34804,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 172886,
       "name": "Stuck Inside",
       "url": "https://open.spotify.com/track/725gkdHSkTogsY5xyRWUHJ"
@@ -36027,6 +36259,24 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139091,
+      "name": "The Ballad of Lucy Gray Baird - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/0Ac9NKZTvLPMQN36oWHf5C"
+    },
+    {
+      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -36604,6 +36854,28 @@
       "duration_ms": 161506,
       "name": "The Next Episode",
       "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168929,
+      "name": "The Old Therebefore / Singing at Snakes - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/6Mbgtn1ZjgS1upiV2ghB9y"
     },
     {
       "album": {
@@ -39890,7 +40162,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -40084,6 +40356,28 @@
     {
       "album": {
         "name": "VVV",
+        "url": "https://open.spotify.com/album/7LOf9ew6WqgdVcaeUoe5uS"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Sanikwave",
+          "url": "https://open.spotify.com/artist/4vy5ZH1CnzEqaInvIUu4z1"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227612,
+      "name": "VVV",
+      "url": "https://open.spotify.com/track/41iF26gge0j1ZNkaGQUpJg"
+    },
+    {
+      "album": {
+        "name": "VVV",
         "url": "https://open.spotify.com/album/58qd4MXmdf6NlmxMDhOZVa"
       },
       "artists": [
@@ -40098,7 +40392,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 227612,
       "name": "VVV",
       "url": "https://open.spotify.com/track/71H5M1aGUJCEkjxinQWBW2"
@@ -42084,6 +42378,28 @@
       "duration_ms": 260361,
       "name": "Would've, Could've, Should've",
       "url": "https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F"
+    },
+    {
+      "album": {
+        "name": "Wrap Me Up",
+        "url": "https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148027,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u"
     },
     {
       "album": {

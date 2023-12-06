@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,267 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,317 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 19 | [Seeing Stars](https://open.spotify.com/track/48DMQ9Ty03yR3v11S2fV8A) | [Bundog](https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO) | [Seeing Stars](https://open.spotify.com/album/2BXShoE5yXkRc3XpffwwSF) | 2:14 |
 | 20 | [All I Want Is You \(feat\. NorthsideBenji\)](https://open.spotify.com/track/3C9YXCS9aS60nyGqL4X13l) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [All I Want Is You \(feat\. NorthsideBenji\)](https://open.spotify.com/album/7cKlRpmFXEjClzmrtmsHck) | 3:00 |
 | 21 | [Can't Know My Name](https://open.spotify.com/track/5z4wuSzgKgRgqHBymx6Jqt) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Tory Time](https://open.spotify.com/album/3NbzU5FgHXRMmPwaNHR3Bv) | 2:53 |
-| 22 | [Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
+| 22 | [The Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [The Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
 | 23 | [Trendsetter](https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Trendsetter](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) | 2:22 |
 | 24 | [Everything I Need \- Remix](https://open.spotify.com/track/2Qv7RfQRJ8Mgp7WGdcZThR) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY), [Rohan](https://open.spotify.com/artist/7cORZKOcJ3aIgeaZmfXF6C) | [Everything I Need \(Remix\)](https://open.spotify.com/album/0rdKPYcSoF9J7JgkV4mlbC) | 2:43 |
 | 25 | [The Weekend](https://open.spotify.com/track/055kzYgddnupFsFPd7rmy5) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [The Weekend](https://open.spotify.com/album/7BmdtoruNOzZJTl5bgumWd) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Sydanie's Interlude](https://open.spotify.com/track/2qKCqLhfrmT9E6JxIVp8Mx) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Sydanie](https://open.spotify.com/artist/20ufdufFoqPElQAOMGDyJG) | [INFINITY CLUB](https://open.spotify.com/album/3iZjJHvvL04Adbtt6hMiJR) | 2:30 |
 | 100 | [Drop Ship](https://open.spotify.com/track/0ms6No7pjrbC3yIg3UO0HH) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [Drop Ship](https://open.spotify.com/album/0oxEw9sx77i15pxH89Njl1) | 1:51 |
 
-Snapshot ID: `MCwzYTNmOGRiZjkwYmRjOTNlMGI5YmIzNGIyZjc2MjlkZGI3MGYzZTNi`
+Snapshot ID: `MCxkNTdmMGQzYjNmMzBjNzQ2NzA5MjMyMGU1MTUwNWI5M2MwNzAxMGYw`

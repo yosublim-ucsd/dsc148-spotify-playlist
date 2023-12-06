@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Fadhilah Intan
 
-342 songs - 21 hr 38 min
+343 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,8 +255,9 @@
 | [Roman Picisan](https://open.spotify.com/track/4d3Oc82rj1hVPlNZvcZ3KB) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Kangen](https://open.spotify.com/album/1Nu57IYMONBk10GTTaVkt7) | 5:01 | 2022-05-25 | 2022-09-01 |
 | [Romansa Kita](https://open.spotify.com/track/6FS84HTUkgEgkQ37bBHlwc) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [SITISM](https://open.spotify.com/album/02Wu2mZtM5kDXtboVtgw6Y) | 3:35 | 2023-07-05 | 2023-08-31 |
 | [Rumah](https://open.spotify.com/track/1PydWeR9bgx8cgoGLoXLVx) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Rumah](https://open.spotify.com/album/632wN8YxY2h4IazaMubRhl) | 4:13 | 2023-08-16 | 2023-09-28 |
+| [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 | 2023-11-29 |  |
 | [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-10-05 | 2023-02-06 |
-| [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-02-01 |  |
+| [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-02-01 | 2023-12-06 |
 | [Rumah Singgah](https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT) | 4:06 | 2022-05-25 | 2022-10-08 |
 | [Saat Kau Pergi](https://open.spotify.com/track/60KyqCqx207IWtHxLpMZdz) | [Harry](https://open.spotify.com/artist/42Fi9dpzwjgV0yKkJZdjiT) | [Saat Kau Pergi](https://open.spotify.com/album/4Sf3yMxm2adH49CffAi7tE) | 3:58 | 2022-09-15 | 2022-11-17 |
 | [Sabar](https://open.spotify.com/track/1NqEelh9GHYQhTc9l8ZL5e) | [Nora](https://open.spotify.com/artist/6SjcUon0IVBu3SwvwyXlkb), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Sabar](https://open.spotify.com/album/0j5ch9H7wil6wGPOOnzZHa) | 3:06 | 2023-08-02 | 2023-08-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,226 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,239 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 48 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 49 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 |
 | 50 | [Poco a Poco \- Remix](https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Poco a Poco \(Remix\)](https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW) | 2:57 |
-| 51 | [Glorieta](https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3) | 2:28 |
-| 52 | [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 |
+| 51 | [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 |
+| 52 | [Glorieta](https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3) | 2:28 |
 | 53 | [Negro Santo](https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Negro Santo](https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW) | 4:27 |
 | 54 | [En el Temblor \(feat\. Chico Mann\)](https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Taurus](https://open.spotify.com/album/27bZK5n13Hoz2n3OscFxJf) | 3:36 |
 | 55 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 63 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 64 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
 | 65 | [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 |
-| 66 | [La Noche](https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ) | [G\-Flux](https://open.spotify.com/artist/746l1MMYehSycjviJJbe2Y), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Hey Cosmo](https://open.spotify.com/artist/0w7bkE6Qq1rmGIDSmC5xS9) | [La Noche](https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM) | 4:00 |
-| 67 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
+| 66 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
+| 67 | [La Noche](https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ) | [G\-Flux](https://open.spotify.com/artist/746l1MMYehSycjviJJbe2Y), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Hey Cosmo](https://open.spotify.com/artist/0w7bkE6Qq1rmGIDSmC5xS9) | [La Noche](https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM) | 4:00 |
 | 68 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 |
 | 69 | [Voy Por Ella](https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX) | [Tipa Tipo](https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24) | [Voy Por Ella](https://open.spotify.com/album/7mPcPYrGSlusx5TQYZyHzY) | 3:36 |
 | 70 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 |
 | 75 | [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 |
 
-Snapshot ID: `MCxiODRjZTg4MDcyYmUzYWRmMTk4YjM0MmUzNTc2MGE0MGZlY2YwYjli`
+Snapshot ID: `MCxkZDJhYTA0ZDMwODk0ZTAxMDlkYTUyZjVmN2Q4N2UxOTRmYmYzNmJh`

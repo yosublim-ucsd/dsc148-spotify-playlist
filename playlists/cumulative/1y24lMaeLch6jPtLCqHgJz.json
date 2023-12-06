@@ -5085,6 +5085,28 @@
     },
     {
       "album": {
+        "name": "This Rave",
+        "url": "https://open.spotify.com/album/6DrjRcQIJ9QnKQ3Ry8b9ns"
+      },
+      "artists": [
+        {
+          "name": "Kazden",
+          "url": "https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y"
+        },
+        {
+          "name": "Karasso",
+          "url": "https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138888,
+      "name": "This Rave",
+      "url": "https://open.spotify.com/track/4YVc9zNCVmHHZcBnCYNQeO"
+    },
+    {
+      "album": {
         "name": "This Time (Never Be Alone Again)",
         "url": "https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N"
       },

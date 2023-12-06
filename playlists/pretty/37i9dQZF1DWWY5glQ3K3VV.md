@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,713 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,750 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 75 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 |
 | 76 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
 | 77 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:02 |
-| 78 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 |
-| 79 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 |
+| 78 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 |
+| 79 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 |
 | 80 | [DREAM TEAM \(feat\. Dylan, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 2:38 |
 
-Snapshot ID: `MCxiNmVhOTJkYWUyMTgyNzQ5NTMwZTE5YzM5MDM0N2Q2NDVlZDBlN2Qw`
+Snapshot ID: `MCwwYzNiMGM3ZDA0NzdjNDMzNGNjMmJjNTBiZTQwZWRhY2IxMmE1OGUw`

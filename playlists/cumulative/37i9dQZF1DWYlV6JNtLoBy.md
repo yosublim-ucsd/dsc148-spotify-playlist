@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-97 songs - 8 hr 2 min
+98 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-07-07 |  |
 | [Tobina](https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Tobina](https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp) | 3:51 | 2022-12-19 | 2023-06-16 |
 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 | 2023-08-04 |  |
-| [Tumeshinda](https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4), [Godwill Babette](https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X) | [Tumeshinda](https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9) | 6:05 | 2022-12-19 |  |
+| [Tumeshinda](https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4), [Godwill Babette](https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X) | [Tumeshinda](https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9) | 6:05 | 2022-12-19 | 2023-12-06 |
 | [Uko Single?](https://open.spotify.com/track/1LYgA4jCtKJQ3sx8WjMIcz) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Uko Single?](https://open.spotify.com/album/5ub2GKGHFCglwgxkpiq3v0) | 3:44 | 2023-09-01 |  |
 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 | 2022-12-19 | 2023-08-04 |
 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-12-19 |  |
@@ -105,5 +105,6 @@
 | [Yesu Nakupenda](https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Uinuliwe Baba](https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX) | 6:58 | 2022-12-19 | 2023-06-29 |
 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 | 2022-12-19 |  |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-06-16 |  |
+| [YOU'LL NEVER LEAVE ME](https://open.spotify.com/track/212foSbfdipO7619yXHkJx) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [MARISA AYUNTA](https://open.spotify.com/artist/2FnCb0QgCIyN2MFPjBYD92) | [YOU'LL NEVER LEAVE ME](https://open.spotify.com/album/6SC1WweelSTjiRFn8XPZX6) | 6:08 | 2023-12-01 |  |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

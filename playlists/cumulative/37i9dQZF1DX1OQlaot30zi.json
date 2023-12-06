@@ -38495,6 +38495,24 @@
     },
     {
       "album": {
+        "name": "OUTFIT",
+        "url": "https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR"
+      },
+      "artists": [
+        {
+          "name": "19F",
+          "url": "https://open.spotify.com/artist/1wtu0PppVIsGTuYVE3gkiR"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179118,
+      "name": "OUTFIT",
+      "url": "https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD"
+    },
+    {
+      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/5LzeVSNCy9PnQNKgMl9Q7y"
       },

@@ -4,7 +4,7 @@
 
 > Presenting the biggest tracks from the Class of 2023.
 
-1,454 songs - 3 day 5 hr 31 min
+1,455 songs - 3 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,7 +882,8 @@
 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 | 2022-02-02 | 2023-01-05 |
 | [Move](https://open.spotify.com/track/25ih45PHto3pvIXzfMheXy) | [Sequence](https://open.spotify.com/artist/1sWaickM18vneOfW9s0eqh) | [Move](https://open.spotify.com/album/5ZTAO5FS5jDu5pBCvk6KL5) | 2:42 | 2022-11-23 | 2022-12-01 |
 | [MOVE](https://open.spotify.com/track/0pJjHONYVlyB8auE0HlOA5) | [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [MOVE](https://open.spotify.com/album/5QsmuXieN3gcsqyc9vk6fp) | 2:49 | 2022-03-10 | 2022-04-14 |
-| [Move On](https://open.spotify.com/track/2YyKmRpwrWV5QdwMnT1zKK) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [Move On](https://open.spotify.com/album/2kc6qB23IfsatZA3Qokyrt) | 3:35 | 2023-04-26 |  |
+| [Move On](https://open.spotify.com/track/2YyKmRpwrWV5QdwMnT1zKK) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [Move On](https://open.spotify.com/album/2kc6qB23IfsatZA3Qokyrt) | 3:35 | 2023-04-26 | 2023-12-06 |
+| [Move On](https://open.spotify.com/track/5hXJUml2Mz25mnhOXg4aa1) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [Why Does Love Mean Loss?](https://open.spotify.com/album/0hDlGqJF59ElVLFAy6lnsa) | 3:35 | 2023-11-29 |  |
 | [Move To The](https://open.spotify.com/track/5OrMkiv57J2WIH4QTWuaKJ) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Move To The](https://open.spotify.com/album/3tsLIMNmEgp7PjrEu4YhPO) | 6:51 | 2022-06-22 | 2022-07-21 |
 | [Movies](https://open.spotify.com/track/1GOpmjNbSs8vrmk6ZQC7ZW) | [Paris Petitjean](https://open.spotify.com/artist/72tgvDZCJayys27ylPTM6K) | [Movies](https://open.spotify.com/album/7lEU7ZXtMmea5n9B9aXTt0) | 2:20 | 2023-09-05 | 2023-10-04 |
 | [Mrs\. C](https://open.spotify.com/track/44uqxWNGTZIEpX6BuBB42I) | [MOGY](https://open.spotify.com/artist/6qY4YXCbJeoyoQmt92EBgl) | [Mrs\. C](https://open.spotify.com/album/32x6st1zSFpiExoTbNJiph) | 2:55 | 2022-08-31 | 2022-10-27 |

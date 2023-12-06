@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,285 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,290 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 28 | [christmas time](https://open.spotify.com/track/7rkuXl7laeAVFZwWzMR8Tl) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [christmas time](https://open.spotify.com/album/2nwhsv3Lf8JttICN3e3K92) | 2:48 |
 | 29 | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/track/44Go9rmuqrzTS2dYJMT6ee) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [179 Deli \(with AJ Tracey\)](https://open.spotify.com/album/0dEpwUIoXY3qhmkJ0OatS1) | 3:02 |
 | 30 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
-| 31 | [我不想 \(feat\. KnowKnow\)](https://open.spotify.com/track/0yCFaLAyUHbUYpv4N9lBRu) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [ULTRA 超](https://open.spotify.com/album/1kxKAs2COOqpfCHWEtYG0q) | 3:42 |
+| 31 | [I don't want \(feat\. KnowKnow\)](https://open.spotify.com/track/0yCFaLAyUHbUYpv4N9lBRu) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [ULTRA](https://open.spotify.com/album/1kxKAs2COOqpfCHWEtYG0q) | 3:42 |
 | 32 | [Don't Back](https://open.spotify.com/track/3gbmLpJKRouimNzqyUKdvI) | [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [Hood Eye Black](https://open.spotify.com/album/6Z7AxDlXvP9r9iWcCLBzQn) | 3:47 |
 | 33 | [Back and Forth](https://open.spotify.com/track/25eEcgHpDEJYLJeFpKyXt4) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Back and Forth](https://open.spotify.com/album/5WezzeLLpbwdtmjb8sZbbq) | 2:41 |
 | 34 | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [demigod chan](https://open.spotify.com/track/15c3MaKtAZ6NsYECSH0UrK) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [demigod chan](https://open.spotify.com/album/4oMTCCsF18RzDc9L5wgg7p) | 2:31 |
 | 60 | [Christmas Song \(Version II\)](https://open.spotify.com/track/5jGtK8nKWb7EZoWndPWUTz) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Christmas Song \(Version II\)](https://open.spotify.com/album/4TeEgeJ8h2Byt1IiG7sBxA) | 3:06 |
 
-Snapshot ID: `MCxiMzU0NjQ0Mjc2N2ExNzBjOWUzMmJmYThhNDg4NGQyNGQwYThhMTY5`
+Snapshot ID: `MCw0Yjk1ZDJkZDc0NTE5MmY0NjE3MWNmNzZmY2Y3NTk2MzBmMjk2OTQ5`

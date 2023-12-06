@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Lana Del Rey
 
-454 songs - 1 day 3 hr 42 min
+455 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Knock Me Off My Feet](https://open.spotify.com/track/15GwXVerL8HSCf6zEf7aCG) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Knock Me Off My Feet](https://open.spotify.com/album/1ZvDkuuGB4JQc31jHdoQq0) | 3:07 | 2021-09-03 | 2022-03-09 |
 | [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:04 | 2021-09-03 | 2022-07-29 |
 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 | 2022-03-08 |  |
-| [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2022-03-08 |  |
+| [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2022-03-08 | 2023-12-06 |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-03-08 | 2022-04-16 |
 | [LA Dream](https://open.spotify.com/track/3rjzulPWrq3z3ltE7cQQtR) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/0dpbyuT99nksoWdOMMheAS) | 3:29 | 2022-03-08 | 2022-07-28 |
 | [Laberinto](https://open.spotify.com/track/5sVf6iEfRPyyxaVyGSYHUO) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/5TPygbVZFHfeYLwBGYVLm7) | 3:42 | 2021-09-03 | 2022-04-19 |
@@ -303,6 +303,7 @@
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2021-09-03 |  |
 | [Oh, But Lover](https://open.spotify.com/track/4Sp5AdeCtHcPQc0KtJUAuR) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Oh, But Lover](https://open.spotify.com/album/6miGsq9L3Tnod0GAHzMXne) | 4:04 | 2021-09-03 | 2022-07-29 |
 | [Old Man](https://open.spotify.com/track/14JYx9cDWjQejvsOKvxEza) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Old Man](https://open.spotify.com/album/2fHlWPh4fWgfKwDWB0Nl3f) | 3:33 | 2021-09-03 | 2022-07-27 |
+| [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 | 2023-03-08 |  |
 | [On + Off](https://open.spotify.com/track/4JTbXALrXVYabZKZ9gr8M7) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [On + Off](https://open.spotify.com/album/5o2W0AlXEITVI8OjRE4k3X) | 3:41 | 2021-09-03 | 2022-04-29 |
 | [One Time](https://open.spotify.com/track/1Z4UKak2eNteHFZkwiYPNz) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [Sway](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu) | 3:37 | 2022-03-08 | 2022-04-18 |
 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 | 2021-09-03 | 2022-04-19 |

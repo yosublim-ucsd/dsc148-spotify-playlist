@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,077 songs - 3 day 3 hr 7 min
+1,078 songs - 3 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Diamonds and Pearls \(Long Version\)](https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls \(Super Deluxe Edition\)](https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK) | 5:32 | 2023-10-27 | 2023-11-26 |
 | [Diamonds and Pearls \- Live at Glam Slam, Minneapolis, MN, 1/11/1992](https://open.spotify.com/track/2WcnUyVio7x2DO2Sj0TSP6) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Live At Glam Slam](https://open.spotify.com/album/3vrx9weTIyEQLaPvyB6mqw) | 5:31 | 2023-10-13 | 2023-10-28 |
 | [Die Zauberflote \(The Magic Flute\): Overture \(Arr\. Solo Piano by Kohlberg\) \- Welte\-Mignon 1802](https://open.spotify.com/track/6u6AdJqeyS7Zbb6tm5H293) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Walter Kohlberg](https://open.spotify.com/artist/7iH6xlrk1xoyTtO3mRIG8I), [Peter Phillips](https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp) | [Great Piano Transcriptions from the Golden Age, Vol\. 5](https://open.spotify.com/album/27nFbgBGgM7gnb1xzt6cvr) | 6:21 | 2023-10-13 | 2023-10-21 |
+| [Dixie Highway \- Live](https://open.spotify.com/track/35VaQZ1H6HZ0YoHpLqYCuD) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Catch The Sun \(Live Tokyo '80\)](https://open.spotify.com/album/1WPM8sZgB28yaJHqg34FbP) | 6:43 | 2023-12-01 |  |
 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 | 2023-10-06 | 2023-10-21 |
 | [DJ Play A Christmas Song \- 7th Heaven Club Mix](https://open.spotify.com/track/5kU3NesP9gTe1tqvbB9R05) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [7th Heaven](https://open.spotify.com/artist/5pflJc47McwW2cNXOKCtSi) | [DJ Play A Christmas Song \(DJ Mixes\)](https://open.spotify.com/album/1qsVaIjStefGK4mJLwNHia) | 6:41 | 2023-11-17 | 2023-12-02 |
 | [DJ Play A Christmas Song \- Robin Schulz Mix](https://open.spotify.com/track/7xDccCsiVDEgOFjuPii2PK) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [DJ Play A Christmas Song \(DJ Mixes\)](https://open.spotify.com/album/5JgDmPiAAG3IG7I09XaQXv) | 3:30 | 2023-12-01 |  |
@@ -567,7 +568,7 @@
 | [Love Is All That Matters \- Extended Version](https://open.spotify.com/track/2bW4qGjnmJ5kqHPMdQrPj4) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Love Is All That Matters](https://open.spotify.com/album/3WFzLbp8lKYQ74Cmhl1CKw) | 7:47 | 2023-09-29 | 2023-10-08 |
 | [Love Me Two Times](https://open.spotify.com/track/041siYMLiKaHk8F9sgRuhF) | [Virgin Magnetic Material](https://open.spotify.com/artist/04KTmShSJF84eXqUcis0Qw), [LM.ORG](https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW), [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W) | [Love Me Two Times](https://open.spotify.com/album/45NdY0ZL7x51DvIxQhO5IJ) | 5:58 | 2023-06-30 | 2023-07-30 |
 | [Love Reign O'er Me \- Live At Wembley, UK / 2019](https://open.spotify.com/track/3xXulxthxt9RN9yApzWawR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 8:30 | 2023-03-31 | 2023-04-15 |
-| [Lovin', Touchin', Squeezin' \- Live](https://open.spotify.com/track/3rBcbq8RGfo2ytEyjMOs0i) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Catch The Sun \(Live Tokyo '80\)](https://open.spotify.com/album/1WPM8sZgB28yaJHqg34FbP) | 4:43 | 2023-12-01 |  |
+| [Lovin', Touchin', Squeezin' \- Live](https://open.spotify.com/track/3rBcbq8RGfo2ytEyjMOs0i) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Catch The Sun \(Live Tokyo '80\)](https://open.spotify.com/album/1WPM8sZgB28yaJHqg34FbP) | 4:43 | 2023-12-01 | 2023-12-06 |
 | [LOW](https://open.spotify.com/track/76HeRbTvaAMjE8abMYBskQ) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [LOW](https://open.spotify.com/album/1TW9CQwdnOC1PFXfL0RIoY) | 3:14 | 2023-03-31 | 2023-04-22 |
 | [Lucero](https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Drama](https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb) | 3:28 | 2023-10-27 | 2023-11-02 |
 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 | 2023-07-07 | 2023-08-06 |

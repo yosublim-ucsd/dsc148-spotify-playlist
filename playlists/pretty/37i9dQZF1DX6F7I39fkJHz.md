@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 
 > Las más bichotas de la escena featuring Aura BAE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,331 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,348 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 58 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
 | 59 | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K) | 2:38 |
 | 60 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
-| 61 | [Papi Quiero Perrear](https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Papi Quiero Perrear](https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY) | 2:15 |
+| 61 | [Esperándote](https://open.spotify.com/track/4GeN50qDloPTrNCScXywZA) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Esperándote](https://open.spotify.com/album/5KJF1Dz2r0zc1aPnqqqJbT) | 2:45 |
 | 62 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 |
-| 63 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 |
-| 64 | [Esperándote](https://open.spotify.com/track/4GeN50qDloPTrNCScXywZA) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Esperándote](https://open.spotify.com/album/5KJF1Dz2r0zc1aPnqqqJbT) | 2:45 |
+| 63 | [Papi Quiero Perrear](https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Papi Quiero Perrear](https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY) | 2:15 |
+| 64 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 |
 | 65 | [Tengo To](https://open.spotify.com/track/07Y65et1sMhIcVP4MA7p0R) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 3:02 |
 | 66 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
 | 67 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 84 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
 | 85 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
 
-Snapshot ID: `MCxhODFiZWQ5N2FhYTkyYjZhNWUyMjVhOTAxYmVjNWQ1MDg0NWZiMWI1`
+Snapshot ID: `MCw3ODMwOWMyZGY4MjFiMDM3NTk2ZDEzNjcwYjg5MjE4M2Q0NDgzMWQw`

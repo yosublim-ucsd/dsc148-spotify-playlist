@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: PRO8L3M
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,871 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,940 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Żyję jak chcę](https://open.spotify.com/track/1NZJSGozxKLaR0QZQjMXlX) | [VAE VISTIC](https://open.spotify.com/artist/5mHmKPBFWx5DZWUtb2xGJg), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Omirya](https://open.spotify.com/album/2XFslPIQwCiPtzNVANmvQJ) | 2:48 |
 | 50 | [GDZIE JEST STARY MISZEL?](https://open.spotify.com/track/7bzKH246y24DGtFk4V8Ff1) | [Miszel](https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4), [Premixm](https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI) | [GDZIE JEST STARY MISZEL?](https://open.spotify.com/album/7IFZchl539KQwRyE17rLaR) | 2:01 |
 
-Snapshot ID: `MCw0OTIxOGUxYTQyOWEzZDg0OTk0OGY0NjY1OGQzNjk3NzFkNjMzMDA0`
+Snapshot ID: `MCw4MDA3OTZmYzA5ODFhM2RmMTllMzgxZDU4YTQ0MjdkMzM2MWUzOWVm`

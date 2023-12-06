@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-254 songs - 13 hr 7 min
+255 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [The Way Out](https://open.spotify.com/track/1c9UrEdPVH8EGQeWJVI5Or) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Alkaz](https://open.spotify.com/artist/0kTZZdRDF3KIno7fdmLpss), [SweetState](https://open.spotify.com/artist/5wfV9K49DuuaFl1tLIwhLQ), [Eon Le Roux](https://open.spotify.com/artist/0JoJVRkKJ51VeD9XLjQD9D) | [The Way Out](https://open.spotify.com/album/0dEWPZuNgMDDFeWLetlOVh) | 3:13 | 2022-07-29 | 2022-11-19 |
 | [There's Still Time](https://open.spotify.com/track/7yh0Nvp2RacQ42AIWZu8Py) | [STARLYTE](https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [There’s Still Time](https://open.spotify.com/album/0vnDRzYHPonEaDzQTMqnMw) | 3:30 | 2022-07-29 | 2022-10-04 |
 | [This Feeling](https://open.spotify.com/track/4gzdGjwIXhM3EzjKZMIq6b) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Alex Aspen](https://open.spotify.com/artist/6Q5kFbxHkQQRIbah391oiE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [This Feeling](https://open.spotify.com/album/5aYxX3kMdOJx9sZLAnRsuN) | 2:58 | 2022-07-29 | 2022-11-19 |
+| [This Rave](https://open.spotify.com/track/4YVc9zNCVmHHZcBnCYNQeO) | [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn) | [This Rave](https://open.spotify.com/album/6DrjRcQIJ9QnKQ3Ry8b9ns) | 2:18 | 2023-12-05 |  |
 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 | 2022-07-29 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2023-06-02 |  |
 | [Tides](https://open.spotify.com/track/4IHJ09f2VWAtnBZcDGkWKu) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Zack Torrez](https://open.spotify.com/artist/28Wd6TGd4pQWRk702jYWbJ) | [Tides](https://open.spotify.com/album/6NfzXnD8jaAHZ7PQe2K41n) | 3:09 | 2023-01-30 | 2023-04-22 |

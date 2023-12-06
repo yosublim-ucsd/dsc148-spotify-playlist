@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,225 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,356 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 34 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
 | 35 | [Older Girl](https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9) | 4:15 |
 | 36 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
-| 37 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
-| 38 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
+| 37 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
+| 38 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
 | 39 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
 | 40 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 41 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 |
 | 50 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
 
-Snapshot ID: `MCwxM2EzYTk5OWY3N2RiMWQwODFjMWM1ZDA4OGIxNjdiMjRjNjRhZWFj`
+Snapshot ID: `MCxkNDAwNjNmNTZiNjJlMDgzY2IxYjE5YzVjN2FjMDc5NGQwNzk2ZTM1`

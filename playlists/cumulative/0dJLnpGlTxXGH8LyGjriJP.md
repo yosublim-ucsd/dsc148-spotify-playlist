@@ -4,7 +4,7 @@
 
 > 
 
-710 songs - 1 day 12 hr 1 min
+711 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Offended \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/40WxFAbt8UEK7jKLmIxRNY) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DC4](https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo) | 4:15 | 2023-10-15 |  |
 | [Oh Okay \(feat\. Young Thug & Lil Baby\)](https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:19 | 2022-12-28 |  |
 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-07-06 |  |
+| [Oh Well](https://open.spotify.com/track/5j5MbkYwoJKV1gASgobqpe) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:13 | 2023-12-06 |  |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-04 |  |
 | [ON FYE](https://open.spotify.com/track/0Kjc5WDL5o0eEZMX35XHKO) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [RICH YOUNGIN](https://open.spotify.com/album/3o5M2OXfUVRsUFrd7u4a5K) | 2:42 | 2022-10-21 |  |
 | [On Go \(feat\. Polo G\)](https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [On Go \(feat\. Polo G\)](https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z) | 3:00 | 2022-06-04 |  |

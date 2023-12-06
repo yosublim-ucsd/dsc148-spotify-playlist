@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Gazo, Tiakola
 
-9,871 songs - 20 day 14 hr 55 min
+9,872 songs - 20 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9595,7 +9595,8 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-13 | 2023-04-21 |
 | [Wish You Well](https://open.spotify.com/track/6FyFZL0wZ5rExjwdtWPVx2) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Wish You Well](https://open.spotify.com/album/1gLP9nYI48QohmYSbFK8qo) | 3:14 | 2022-03-31 | 2022-04-08 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-18 | 2022-08-26 |
-| [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-11-30 |  |
+| [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 | 2023-12-04 |  |
+| [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-11-30 | 2023-12-06 |
 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 | 2023-04-06 | 2023-04-14 |
 | [Wishlist](https://open.spotify.com/track/4WCOxwqS5NqmcGCO0FngNb) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Wishlist](https://open.spotify.com/album/4bJoRazDOrMpA58mF7n5HT) | 2:22 | 2022-12-01 | 2022-12-09 |
 | [Wisswii&Sprite](https://open.spotify.com/track/7oUjiQGYr7z0qLs2XmzBFr) | [Didi](https://open.spotify.com/artist/618CkKAZvvzRlKwFRMY4Yp), [ZID](https://open.spotify.com/artist/6388aDqfUD73rIX2ThecHI) | [Wisswii&Sprite](https://open.spotify.com/album/5yOIx2JsgsJPs4ba5686al) | 2:30 | 2023-06-08 | 2023-06-16 |

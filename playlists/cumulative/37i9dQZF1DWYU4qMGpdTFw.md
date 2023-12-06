@@ -4,7 +4,7 @@
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-72 songs - 3 hr 24 min
+73 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Delincuente](https://open.spotify.com/track/5GgzofR27LCAPrYhSV1rqA) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [¡¡¡Viven!!!](https://open.spotify.com/album/1O3rrFEc39bmYhKF3hWUgq) | 2:02 | 2023-04-28 |  |
 | [Demolición](https://open.spotify.com/track/3dTcwy3L3fOP0vm4Lz0zdD) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:57 | 2023-04-28 |  |
 | [Descocada](https://open.spotify.com/track/5EwmXZJSfe0g7PyRn9ihXs) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:12 | 2023-04-28 |  |
-| [El Día Que David Bowie Murió](https://open.spotify.com/track/24QcPeUL1G7qzbpYrHB9mO) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Superioridad Moral](https://open.spotify.com/album/2EhD9TMKlvtlPzYwGN8bKC) | 2:40 | 2023-04-28 |  |
+| [El Día Que David Bowie Murió](https://open.spotify.com/track/24QcPeUL1G7qzbpYrHB9mO) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Superioridad Moral](https://open.spotify.com/album/2EhD9TMKlvtlPzYwGN8bKC) | 2:40 | 2023-04-28 | 2023-12-06 |
+| [El día que David Bowie murió](https://open.spotify.com/track/67EOoerLhiHC2yfXV6tW9D) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Superioridad moral](https://open.spotify.com/album/6LHcg2p2UHJRxrwBH8ewML) | 2:40 | 2023-09-08 |  |
 | [El entierro de los gatos](https://open.spotify.com/track/40sm7YdfUwAHpRTjcRz6yd) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 3:23 | 2023-04-28 |  |
 | [El Garage de Ginna Monster](https://open.spotify.com/track/1bf4TNiNJZ12uUk08px8PM) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [4](https://open.spotify.com/album/0WtYJpkdfN9g0rEGcgL55a) | 3:00 | 2023-04-28 |  |
 | [El Rock Nacio Conmigo](https://open.spotify.com/track/33UNvcod6bwL2pzPBl6BlV) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:06 | 2023-04-28 |  |

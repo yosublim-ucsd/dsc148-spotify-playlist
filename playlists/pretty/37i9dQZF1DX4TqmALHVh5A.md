@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Gwendoline
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,508 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,523 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [The 360 Holes Bird](https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp) | [BLVL](https://open.spotify.com/artist/35ky25MGfnUDQehlu1hzdS) | [The 360 Holes Bird](https://open.spotify.com/album/3AKYrcj3lRLL5B6EUuJAkL) | 3:00 |
 | 50 | [Laisse moi le chat](https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Laisse moi le chat](https://open.spotify.com/album/2KqwI0E1dIt9aHnJuLIxMt) | 3:25 |
 
-Snapshot ID: `MCw3NTAzZTE0NzRkNmYyZDE0N2Y0MTE1MzcyNTBhZTA2NDg1NmY0ZDg4`
+Snapshot ID: `MCw2OThjZWQ1YzNlZWQwYzU5OGEyOTIxNjE5MDRmOTgyNjJiMGRmMWMw`

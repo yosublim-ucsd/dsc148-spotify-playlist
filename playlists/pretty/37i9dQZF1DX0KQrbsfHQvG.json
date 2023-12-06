@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 189715,
+  "num_followers": 189781,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjFmNmE1ZTdjYzQyMjMyYzQ1ZmE3MWMwMmRiOWM2NzJhNDZlMjQx",
+  "snapshot_id": "MCxhM2Q0NzQ5OTg2Mzc0NzU4ODA4YWJkMDAzMmE2ZWEwNGY5YTIzMDli",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Eat The Elephant",
         "url": "https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 281626,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/4D07vsUEpOoMO1LmFknt3D"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Imaginary Enemy",
-        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "digging for windows",
         "url": "https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 211253,
       "name": "digging for windows",
       "url": "https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
     },
     {
       "added_at": "2023-06-23 04:01:00",

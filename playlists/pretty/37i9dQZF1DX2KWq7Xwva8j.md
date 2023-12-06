@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Yarea
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,114 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,131 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 25 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 |
 | 26 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 |
 | 27 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 |
-| 28 | [Quiero Q Me Tatúes](https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [Quiero Q Me Tatúes](https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA) | 2:30 |
-| 29 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
+| 28 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
+| 29 | [Quiero Q Me Tatúes](https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [Quiero Q Me Tatúes](https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA) | 2:30 |
 | 30 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 |
 | 31 | [Nada ha cambiado](https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [NO ME PASA NADA](https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI) | 2:40 |
 | 32 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 38 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
 | 39 | [Entre Tú y Yo](https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [Entre Tú y Yo](https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva) | 3:19 |
 | 40 | [Bloque](https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Bloque](https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8) | 2:43 |
-| 41 | [Tregua](https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Tregua](https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx) | 2:33 |
-| 42 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 |
+| 41 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 |
+| 42 | [Tregua](https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Tregua](https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx) | 2:33 |
 | 43 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 44 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
 | 45 | [Como si nada](https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Como si nada](https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 |
 | 50 | [novio del año](https://open.spotify.com/track/61N27UaFzOqJrhIOruw8Vy) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:34 |
 
-Snapshot ID: `MCw1NmQ4M2ZjZWJkZTdhZmQ1MWIyMDkxYjA0YTI0OWMwODBkZTFmMjA0`
+Snapshot ID: `MCwxYTBkYTVmMTEzNTA0NmE1NzY2MDAxNzk3ZTViYjI2MDA4MTRjYWY0`

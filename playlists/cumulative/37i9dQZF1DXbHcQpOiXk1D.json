@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 302160,
       "name": "Berlin 1",
       "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 319040,
       "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
       "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
@@ -1652,6 +1652,32 @@
       "duration_ms": 224014,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5fGjThnj0fj4zjWfqIYAcz"
+    },
+    {
+      "album": {
+        "name": "Closer (feat. Andreya Triana)",
+        "url": "https://open.spotify.com/album/7tE9gx7J5h4NKc4K3hVcmt"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Mala",
+          "url": "https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258608,
+      "name": "Closer (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ"
     },
     {
       "album": {
@@ -2432,7 +2458,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 355493,
       "name": "Ego Killah",
       "url": "https://open.spotify.com/track/4i1vC7Wy7Zgg5c3Fl58gNN"
@@ -4874,7 +4900,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 215413,
       "name": "Leader",
       "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
@@ -5272,7 +5298,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 341200,
       "name": "Love In Outer Space (feat. Nao)",
       "url": "https://open.spotify.com/track/5VhmL0AjrVrsOHqz5RqUZD"
@@ -6064,7 +6090,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 227435,
       "name": "Mystics (feat. Venna) - Live at Joshua Tree",
       "url": "https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z"

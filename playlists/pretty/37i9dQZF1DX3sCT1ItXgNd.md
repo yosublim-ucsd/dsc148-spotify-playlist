@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: iñigo quintero
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,164 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,270 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 43 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 |
 | 44 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 |
 | 45 | [Derecho a No Declarar](https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Derecho a No Declarar](https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B) | 2:26 |
-| 46 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 |
-| 47 | [PALANTE](https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj) | 2:26 |
-| 48 | [Un Rato pa Siempre](https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Rato pa Siempre](https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m) | 2:43 |
-| 49 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 |
+| 46 | [PALANTE](https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj) | 2:26 |
+| 47 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 |
+| 48 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 |
+| 49 | [Un Rato pa Siempre](https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Rato pa Siempre](https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m) | 2:43 |
 | 50 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 |
-| 51 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
-| 52 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 |
+| 51 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 |
+| 52 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
 | 53 | [En el mismo bar](https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9) | [De Rancho](https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [GARZI](https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m) | [En el mismo bar](https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF) | 2:42 |
 | 54 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
 | 55 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 57 | [Muuurakami](https://open.spotify.com/track/11ieXaO9DXXQ7SlBhcd2Zt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Muuurakami](https://open.spotify.com/album/0Iieg3Af01SP3z8HQGIeC2) | 3:30 |
 | 58 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 |
 
-Snapshot ID: `MCxjN2Y3OTIxYWY2Y2EzMmU2MjZjOWI5MDlmZGNjODMzNDg0NmMyZDkz`
+Snapshot ID: `MCw3ZGUzMTU3ZmNhMzQ2MzFmODIxYmUwM2MxYmRiNjMwOGU2MmJiOGJj`

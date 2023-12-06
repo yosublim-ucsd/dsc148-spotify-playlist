@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "East of Any Place (Habibi Funk 025)",
+        "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108500,
+      "name": "(You Look) So Funny",
+      "url": "https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
       },
@@ -3488,7 +3506,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 267958,
       "name": "Que Entre el Fr\u00edo",
       "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"

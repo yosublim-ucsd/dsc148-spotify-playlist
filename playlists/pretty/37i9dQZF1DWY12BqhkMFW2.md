@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,910 likes - 35 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,003 likes - 35 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [As](https://open.spotify.com/track/750vuAyjSZGt53r570s8ML) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 5:31 |
 | 35 | [Love Me in a Special Way](https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:50 |
 
-Snapshot ID: `MCxmMGVjZGIxMWJlNzUzNWFjNDVjODk5NWEwNDkyYjY5YjhhYzVlODIy`
+Snapshot ID: `MCxmMTA4MWZjMTYwODhiYmFkMjU2NTFiZDE4ODZiZTBmOTQwMTczYTEx`

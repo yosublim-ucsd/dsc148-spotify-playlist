@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 530047,
+  "num_followers": 530037,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTFiMzMwYzU1M2ZmNmY2MDJmNzY2OTAyOTcwYmNiZjQwZDYyNDky",
+  "snapshot_id": "MCw3NDE1YmI3MDVkNWY5NmMyMjUwY2ZiZjAxMjQ5MDRiYTg3Zjc5ZjJl",
   "tracks": [
     {
       "added_at": "2023-11-24 01:57:21",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-11-24 01:57:21",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
       "artists": [
         {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+      "duration_ms": 251038,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2023-11-24 01:57:21",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-11-24 01:57:21",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 251038,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
       "added_at": "2023-11-24 01:57:21",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-24 01:57:21",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2023-11-24 01:57:21",
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 452773,
       "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "added_at": "2023-11-24 01:57:21",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2023-11-24 01:57:21",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-11-24 01:57:21",
       "album": {
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
+    },
+    {
+      "added_at": "2023-11-24 01:57:21",
+      "album": {
         "name": "Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
-    },
-    {
-      "added_at": "2023-11-24 01:57:21",
-      "album": {
-        "name": "Little Blue Moon",
-        "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Little Blue Moon",
-      "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
     },
     {
       "added_at": "2023-11-24 01:57:21",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-24 01:57:21",
       "album": {
-        "name": "No Way",
-        "url": "https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 173483,
-      "name": "No Way",
-      "url": "https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV"
-    },
-    {
-      "added_at": "2023-11-24 01:57:21",
-      "album": {
         "name": "I Hope",
         "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 153684,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
+    },
+    {
+      "added_at": "2023-11-24 01:57:21",
+      "album": {
+        "name": "No Way",
+        "url": "https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 173483,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV"
     },
     {
       "added_at": "2023-11-24 01:57:21",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2023-11-24 01:57:21",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F"
       },
       "artists": [
         {
           "name": "Dayo Bello",
           "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+      "duration_ms": 222000,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS"
     },
     {
       "added_at": "2023-11-24 01:57:21",

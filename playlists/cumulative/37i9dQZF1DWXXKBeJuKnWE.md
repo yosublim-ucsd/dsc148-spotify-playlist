@@ -2,7 +2,7 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy rockers\. Cover: Trash Boat
+> The home for heavy music\. Cover: Trash Boat
 
 255 songs - 15 hr 30 min
 

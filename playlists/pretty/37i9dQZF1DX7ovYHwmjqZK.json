@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 204467,
+  "num_followers": 204567,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTQ3NjM3NzRlZGU2ZDk5ZThhMjNkNjA0OTE1OTZiMjAyOWJjNTIw",
+  "snapshot_id": "MCxiNmE3YzhjYzFkMTgwYzY5ZGVlNzlkN2Y1ODdlMWJkYzM0MWQ3Y2Iw",
   "tracks": [
     {
       "added_at": "2023-11-24 08:43:33",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 167764,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Balan\u00e7o na Quebrada",
         "url": "https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 224415,
       "name": "Quinze Pras Sete na Vila",
       "url": "https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 167764,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Bim Bom",
-        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 101793,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Rosa Morena EP",
         "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 182453,
       "name": "Flor De Lis",
       "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Bim Bom",
+        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 101793,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
-        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 194576,
-      "name": "Maria e o Samba",
-      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Afro Choro",
         "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 298014,
       "name": "Afro Choro",
       "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
+        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 194576,
+      "name": "Maria e o Samba",
+      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
+      },
+      "artists": [
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 187905,
+      "name": "Seres Incriveis",
+      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Selfie",
-        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 187905,
-      "name": "Seres Incriveis",
-      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1063,6 +1063,34 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Borges",
+          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
+        },
+        {
+          "name": "Mauricio Tizumba",
+          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
+        },
+        {
+          "name": "Josi Lopes",
+          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
+        },
+        {
+          "name": "Play",
+          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
+        }
+      ],
+      "duration_ms": 332026,
+      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Mano Que Zuera",
         "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
       },
@@ -1091,34 +1119,6 @@
       "duration_ms": 179299,
       "name": "Voc\u00ea E Eu",
       "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Borges",
-          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
-        },
-        {
-          "name": "Mauricio Tizumba",
-          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
-        },
-        {
-          "name": "Josi Lopes",
-          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
-        },
-        {
-          "name": "Play",
-          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
-        }
-      ],
-      "duration_ms": 332026,
-      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Terra-M\u00e3e",
-        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
-      },
-      "artists": [
-        {
-          "name": "Carla Casarim",
-          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
-        }
-      ],
-      "duration_ms": 216701,
-      "name": "Brasil Geral",
-      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Deslizando Na Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
       },
@@ -1259,22 +1243,6 @@
       "duration_ms": 173213,
       "name": "Pega Esse Sambete A\u00ed",
       "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Storytellers",
-        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
-      },
-      "artists": [
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 310680,
-      "name": "Se Acontecer",
-      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1299,18 +1267,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Caminhos Cruzados",
-        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
+        "name": "Terra-M\u00e3e",
+        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
       },
       "artists": [
         {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+          "name": "Carla Casarim",
+          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
         }
       ],
-      "duration_ms": 152752,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
+      "duration_ms": 216701,
+      "name": "Brasil Geral",
+      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1335,6 +1303,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Caminhos Cruzados",
+        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 152752,
+      "name": "Caminhos Cruzados",
+      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 234973,
       "name": "Samba Dolente",
       "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Storytellers",
+        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
+      },
+      "artists": [
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 310680,
+      "name": "Se Acontecer",
+      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
     },
     {
       "added_at": "2023-11-24 08:43:33",

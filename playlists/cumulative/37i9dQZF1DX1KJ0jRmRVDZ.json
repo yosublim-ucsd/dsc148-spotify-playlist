@@ -3185,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Kind of",
+        "url": "https://open.spotify.com/album/27tShaiDUhC6KeszVy0PSZ"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184394,
+      "name": "Kind of",
+      "url": "https://open.spotify.com/track/40HlZlt8wxkIhd9sMFJ68I"
+    },
+    {
+      "album": {
         "name": "kitto kawaranai iro",
         "url": "https://open.spotify.com/album/5A6H1IuZkDPdEl2bed6nDL"
       },
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 132295,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
@@ -17524,7 +17542,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 206107,
       "name": "\u98df\u5353",
       "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"

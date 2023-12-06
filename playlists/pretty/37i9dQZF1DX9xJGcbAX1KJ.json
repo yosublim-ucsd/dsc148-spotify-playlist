@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 16584,
+  "num_followers": 16588,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWM1YjgwMTIxZDg1Y2FlZTEyMTY1Y2QyNjgxNjdlYmY4MzgxNjcw",
+  "snapshot_id": "MCwyNGQzMTc2NDcwY2M3MDk2NjE3NGNiYzY2Yzk3ZjI3M2ExMDBlZjc4",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -171,22 +171,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Imagine Dragons (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 303433,
-      "name": "Blank Space/Stand By Me - Live From Spotify London",
-      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Imagine Dragons (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 303433,
+      "name": "Blank Space/Stand By Me - Live From Spotify London",
+      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -351,6 +351,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 223236,
+      "name": "Girls Just Wanna Have Some",
+      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 223236,
-      "name": "Girls Just Wanna Have Some",
-      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -591,6 +591,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -715,22 +715,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Blood & Rust",
-        "url": "https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Cover Sessions, Vol. 3",
         "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+        "name": "Blood & Rust",
+        "url": "https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder"
       },
       "artists": [
         {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
         }
       ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+      "duration_ms": 239133,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -775,6 +759,22 @@
       "duration_ms": 201136,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
     },
     {
       "added_at": "2019-02-22 20:19:46",

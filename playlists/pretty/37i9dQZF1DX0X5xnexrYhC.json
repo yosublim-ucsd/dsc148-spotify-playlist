@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 84970,
+  "num_followers": 85068,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2YyMThlODAxZDZiZjdmMjRkNTk3MjU0NjA2NWEyNjlkOTYzZWRj",
+  "snapshot_id": "MCxkZTU5NWUyNjc0MGUyNzUwYWNlZWZiNjFmNDkzODMxYjIyYmIxNTI5",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 148470,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "cinderella's dead",
         "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
       },
@@ -231,6 +215,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 148470,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "killer queen",
         "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
       },
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Cure For Me",
-      "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "STRUT",
         "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
       },
@@ -327,18 +311,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 201640,
+      "name": "Cure For Me",
+      "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -371,6 +355,22 @@
       "duration_ms": 177582,
       "name": "i hope ur miserable until ur dead",
       "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "Halloweenie IV: Innards",
         "url": "https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 249739,
       "name": "Beggin For Thread",
       "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "die first",
-        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177108,
-      "name": "die first",
-      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 161561,
       "name": "pity party (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
     },
     {
       "added_at": "2022-11-15 00:54:21",

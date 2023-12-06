@@ -4,11 +4,11 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-186 songs - 12 hr 54 min
+187 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Tis the Reason](https://open.spotify.com/track/35QKr1MHNd6KFnrSAYkltA) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | ['Tis the Reason](https://open.spotify.com/album/4zwNvu8Rs7MhWaSkcvif15) | 2:58 | 2022-11-26 |  |
+| ['Tis the Reason](https://open.spotify.com/track/35QKr1MHNd6KFnrSAYkltA) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | ['Tis the Reason](https://open.spotify.com/album/4zwNvu8Rs7MhWaSkcvif15) | 2:58 | 2022-11-26 | 2023-12-06 |
 | [A Christmas Hallelujah](https://open.spotify.com/track/3SLIVorgLM8sGjSheFBXKn) | [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Eagle Brook Music Christmas](https://open.spotify.com/album/39g6bt0dKbJRBodUHeD3Vb) | 6:08 | 2022-11-26 |  |
 | [A Great Light](https://open.spotify.com/track/2AO9r5sEWxrKf1n7XwdgsS) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Ryan Delmore](https://open.spotify.com/artist/7vGfGzlkAiKT1TRaPkmzA8) | [Adore Him \(Vineyard Worship Christmas\)](https://open.spotify.com/album/2RCocGj4TJb3vs9goPVnVG) | 6:00 | 2022-11-26 |  |
 | [Adore Him](https://open.spotify.com/track/3dp6fAwRQ5MYNmJTWdYVhD) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Becky Lucas](https://open.spotify.com/artist/7HCn9LFCIK5RaGklYwEt8N), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Adore Him](https://open.spotify.com/album/06MeFxZ2kmyEzuwgxJYmi9) | 4:30 | 2022-11-26 |  |
@@ -130,6 +130,7 @@
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/12mJKE60PNEnfoz6FWgUCq) | [Leah Paschall](https://open.spotify.com/artist/173uICvHhsYJNLaGk8iLYr) | [O Come, O Come Emmanuel](https://open.spotify.com/album/52h9FsROuyUbIknjaza2aO) | 3:49 | 2022-11-26 |  |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/7rZci3sRu1CLjAJRsId7FO) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Christmas Collection, Vol\. 1](https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o) | 4:14 | 2020-12-21 |  |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2kdiLHWZvTSx4rc0z5BVaS) | 2:43 | 2022-11-26 |  |
+| [O Come, O Come Emmanuel \(Christ Has Come\)](https://open.spotify.com/track/4NecbctVwdB59CiVjnqsj8) | [Journey Worship Co.](https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco) | [Christ Has Come](https://open.spotify.com/album/6W4sy3YeZUtTbljn7eFC0p) | 4:02 | 2023-12-02 |  |
 | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E) | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw) | 3:27 | 2022-11-26 |  |
 | [O Come, O Come Emmanuel \- Live](https://open.spotify.com/track/7LsbDRyc93aBzxLXCHzLpr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 3:49 | 2022-11-26 |  |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/4wV3z1k4Fhj3oJvlnABJhk) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [When Christmas Comes](https://open.spotify.com/album/3R2VCPanRYetPeXJ5bmDmj) | 3:47 | 2022-11-26 |  |

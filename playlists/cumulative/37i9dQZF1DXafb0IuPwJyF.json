@@ -7731,6 +7731,28 @@
     },
     {
       "album": {
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6"
       },
@@ -19454,7 +19476,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 269732,
       "name": "\u6c7a\u5fc3",
       "url": "https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y"

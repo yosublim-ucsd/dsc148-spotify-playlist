@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover\- Raftaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,137 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,254 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
-| 2 | [Jaadugar](https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:12 |
-| 3 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 |
-| 4 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 |
-| 5 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 |
-| 6 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
+| 2 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 |
+| 3 | [Ready To Die](https://open.spotify.com/track/1Orns3vFhjrIEqlVHP8lfN) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 11](https://open.spotify.com/album/5qypSGvDCEWvWwPIN0VsnG) | 4:06 |
+| 4 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 |
+| 5 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
+| 6 | [Haseena](https://open.spotify.com/track/0Q37Ax4ON1mIANcQvqfbOl) | [Kayden Sharma](https://open.spotify.com/artist/5Pa7FTzW1HcmSlaQc2Xbz8), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Mtv Hustle 03 Represent Episode 5](https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR) | 3:02 |
 | 7 | [Yadav Brand 2](https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2) | 2:54 |
 | 8 | [Zero After Zero](https://open.spotify.com/track/6mhopOuZqV3ujE7oQ9T1tM) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talay Riley](https://open.spotify.com/artist/5Yh3qHDUeUiyQqn1jmNhT1) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:54 |
 | 9 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 49 | [Chhore Ncr Aale](https://open.spotify.com/track/4YzmUshoyqoiOx2lVM0rD9) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:20 |
 | 50 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 |
 
-Snapshot ID: `MCw4ODlmYTZmZDg5ZDQ0NGFiNDIyYzQ3NjE4ZTlhMjU2YTUxM2I0MjQ1`
+Snapshot ID: `MCwwYTJiMjg4ODc1NDExNjdmNGYxMmJjNTNjNzg2MGQxYmZkNDVmN2Rm`

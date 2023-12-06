@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 8883,
+  "num_followers": 8925,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmM3Zjg1MzBhNDI5ZmM5NDAyNzU3MDVmOGQ2OWJjYjY2MTBmMDZl",
+  "snapshot_id": "MCxmOGYzZmY1ODQ5NGNjMTVjMGQ0YmFkNmNjMjc1ODIzZGJlNDc5YmMy",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -107,6 +107,34 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Confete e serpentina",
+        "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
+      },
+      "artists": [
+        {
+          "name": "LOFI LAND",
+          "url": "https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe"
+        },
+        {
+          "name": "FaOut",
+          "url": "https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V"
+        },
+        {
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        },
+        {
+          "name": "BOSSIFY",
+          "url": "https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Confete e serpentina",
+      "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Perdido en Memorias",
         "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
       },
@@ -143,34 +171,6 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Confete e serpentina",
-        "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
-      },
-      "artists": [
-        {
-          "name": "LOFI LAND",
-          "url": "https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe"
-        },
-        {
-          "name": "FaOut",
-          "url": "https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V"
-        },
-        {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        },
-        {
-          "name": "BOSSIFY",
-          "url": "https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Confete e serpentina",
-      "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
@@ -279,46 +295,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
-      },
-      "artists": [
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        }
-      ],
-      "duration_ms": 135017,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Bossa De Flauta",
-        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
-      },
-      "artists": [
-        {
-          "name": "Papi Churro",
-          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
-        },
-        {
-          "name": "Smuv",
-          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
-        },
-        {
-          "name": "Beats for Trees",
-          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
-        }
-      ],
-      "duration_ms": 114418,
-      "name": "Bossa De Flauta",
-      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -359,18 +335,42 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+        "name": "Bossa De Flauta",
+        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Papi Churro",
+          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
+        },
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+      "duration_ms": 114418,
+      "name": "Bossa De Flauta",
+      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Aubade",
+        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
+      },
+      "artists": [
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        }
+      ],
+      "duration_ms": 171870,
+      "name": "Aubade",
+      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -391,6 +391,22 @@
       "duration_ms": 125861,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -427,18 +443,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Aubade",
-        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
+        "name": "Remixes lofi del Regional Chill",
+        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
       },
       "artists": [
         {
-          "name": "Bastido",
-          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 171870,
-      "name": "Aubade",
-      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+      "duration_ms": 123875,
+      "name": "Los d\u00edas grises (Remix)",
+      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -459,26 +479,6 @@
       "duration_ms": 153857,
       "name": "Parque de Bugambilias",
       "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Remixes lofi del Regional Chill",
-        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 123875,
-      "name": "Los d\u00edas grises (Remix)",
-      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Brazilian Flavor",
+        "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
+      },
+      "artists": [
+        {
+          "name": "Dawmata",
+          "url": "https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3"
+        }
+      ],
+      "duration_ms": 118288,
+      "name": "Brazilian Flavor",
+      "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -559,18 +575,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Brazilian Flavor",
-        "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
       "artists": [
         {
-          "name": "Dawmata",
-          "url": "https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3"
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
         }
       ],
-      "duration_ms": 118288,
-      "name": "Brazilian Flavor",
-      "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
+      "duration_ms": 127586,
+      "name": "Viento de Arrabal",
+      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -619,26 +639,6 @@
       "duration_ms": 124245,
       "name": "Donde Estas?",
       "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Mindr",
-          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
-        }
-      ],
-      "duration_ms": 127586,
-      "name": "Viento de Arrabal",
-      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Aguanc\u00f3",
+      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Happy To Help",
         "url": "https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 112065,
       "name": "Happy To Help",
       "url": "https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Aguanc\u00f3",
-      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Metro Mexico",
         "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
       },
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "El D\u00eda M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
       },
       "artists": [
         {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
         }
       ],
-      "duration_ms": 146239,
-      "name": "Cholomuco",
-      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
+      "duration_ms": 122250,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1279,6 +1283,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "El D\u00eda M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 146239,
+      "name": "Cholomuco",
+      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Helado de Mango (Remix)",
         "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 141825,
       "name": "Helado de Mango (Remix)",
       "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Beautiful Lights",
-        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "Diamond Sparkle",
-      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Monstera",
         "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 122202,
       "name": "Ipanema Sunset",
       "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Beautiful Lights",
+        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 148860,
+      "name": "Diamond Sparkle",
+      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
     },
     {
       "added_at": "2023-11-03 04:00:00",

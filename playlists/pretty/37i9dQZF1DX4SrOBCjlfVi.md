@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BigXthaPlug, Flo Milli, and more\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,004 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,109 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 5 | [The Type \(feat\. YTB Fatt\)](https://open.spotify.com/track/7k2lQiLrZFJcnaOqsG2mdR) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [The Type \(feat\. YTB Fatt\)](https://open.spotify.com/album/2qsWf8N2vSQ50orp7smpMF) | 3:28 |
 | 6 | [Watchin Now](https://open.spotify.com/track/4rt78PYlUq6XIiLBsfFs4M) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Watchin Now](https://open.spotify.com/album/7riLmoqGYjabjk2D35MGdb) | 2:27 |
 | 7 | [Bulletproof \(feat\. NLE Choppa\)](https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Frozone](https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR) | 2:49 |
-| 8 | [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ) | 2:07 |
+| 8 | [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/0lCuickjQ0wGBvYDYc2TLA) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE) | 2:07 |
 | 9 | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w) | 2:45 |
 | 10 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 |
 | 11 | [Didn't Come To Play \(with Quavo\)](https://open.spotify.com/track/25QZIoCdgSWSn547PTvB5V) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Didn't Come To Play \(with Quavo\)](https://open.spotify.com/album/6FdFMoizXJxTepfoVOdHrN) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Fill Up \(feat\. BabyDrill\)](https://open.spotify.com/track/5itRFdvUZBFVruujumEQcs) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Fill Up \(feat\. BabyDrill\)](https://open.spotify.com/album/076Us4TZCSDXU6Tn4M8XLK) | 2:46 |
 | 50 | [Lackin](https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Lifestyle](https://open.spotify.com/album/70USnNa3bAg0XAoaukW1x1) | 1:37 |
 
-Snapshot ID: `MCxmYWUyZTM4MDMxOWU1NTk2NDcwYTMzYWRhNDc2MDhhZjEwNDY3NWNj`
+Snapshot ID: `MCxlYThkZWUxYzkzOWVhNGEwZTNhZDNmYzhjNTg2MWQwNDgxYzBjZjIz`

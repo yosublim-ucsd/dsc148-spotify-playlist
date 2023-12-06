@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-300 songs - 18 hr 43 min
+301 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Es el Amor](https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 | 2022-07-05 | 2022-07-29 |
 | [Esa Parte De Mí](https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte De Mí](https://open.spotify.com/album/3StKKTOhmUMbmrqZbH0tDi) | 3:35 | 2022-07-05 | 2022-07-29 |
-| [Escándalo](https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:38 | 2022-12-23 |  |
+| [Escándalo](https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:38 | 2022-12-23 | 2023-12-06 |
 | [Escándalo](https://open.spotify.com/track/6jT4JBxErmiJNDYnPpKgIn) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Sonideras](https://open.spotify.com/album/1SGHSl1ZCOqIdliVE4S61M) | 4:38 | 2022-07-05 | 2022-07-29 |
 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 | 2022-07-05 |  |
 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 | 2022-07-05 | 2023-07-08 |
@@ -115,6 +115,7 @@
 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 | 2022-07-05 |  |
 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 | 2022-07-05 |  |
 | [Guaracha Sabrosona](https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk) | 3:39 | 2022-07-05 | 2022-07-22 |
+| [Hasta la luna](https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES), [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H) | [\#Tocoparavos](https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D) | 2:29 | 2023-12-01 |  |
 | [Hoja En Blanco](https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Nunca Me Faltes](https://open.spotify.com/album/4IERX704YcJHePC2n4irxt) | 4:26 | 2022-07-05 | 2022-07-29 |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2022-07-05 |  |
 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 | 2022-07-05 |  |

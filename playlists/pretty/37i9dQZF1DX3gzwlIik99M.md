@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,877 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,881 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Molinos De Viento](https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [La Leyenda De La Mancha](https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7) | 4:11 |
-| 2 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 |
-| 3 | [Jumpdafuckup](https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Primitive \(Special Edition\)](https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l) | 5:11 |
+| 2 | [Jumpdafuckup](https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Primitive \(Special Edition\)](https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l) | 5:11 |
+| 3 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 |
 | 4 | [Maldito sea tu nombre](https://open.spotify.com/track/7vEYpLe2jDmZTYg0zdPNoz) | [Ángeles Del Infierno](https://open.spotify.com/artist/2qzYtiwABDEql4L7JpZ59Y) | [Pacto con el diablo](https://open.spotify.com/album/24u0EDg9yMY6AYVPDn9o25) | 3:45 |
 | 5 | [Pacto Pesado](https://open.spotify.com/track/63MHBrGBDADyDEDHv5uWej) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Oscuro Plan del Poder](https://open.spotify.com/album/0Ja02wnS135j7p3CJTfjbJ) | 3:38 |
 | 6 | [El Caballo De Troya](https://open.spotify.com/track/2sUsyTWx6HeRxrnPpNL1gJ) | [Tierra Santa](https://open.spotify.com/artist/3854DTPVGm3wxqNeRMnKqn) | [Tierras de Leyenda](https://open.spotify.com/album/3FDDeh9sZO0LomncCL9fEf) | 3:29 |
@@ -18,19 +18,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 8 | [Soy de la Esquina](https://open.spotify.com/track/6QgFbmtynzdNpHWsmSKmPy) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Victimas del Vaciamiento](https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb) | 3:10 |
 | 9 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 |
 | 10 | [Acido](https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [El Mar De Las Almas](https://open.spotify.com/album/52tcNhROdl0187orh4tB3N) | 3:43 |
-| 11 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
-| 12 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
-| 13 | [El nuevo camino del hombre](https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:29 |
+| 11 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
+| 12 | [El nuevo camino del hombre](https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:29 |
+| 13 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
 | 14 | [El Infierno de Dante](https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK) | [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [El Llamado de la Hembra](https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa) | 4:35 |
 | 15 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 |
 | 16 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 |
-| 17 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
-| 18 | [Mass Hypnosis](https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:25 |
-| 19 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |
-| 20 | [A Toda Madre](https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs) | 3:22 |
-| 21 | [Como Relámpago en la Oscuridad](https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [La Industria del Poder](https://open.spotify.com/album/6EzOsuKn38yWoNgpy9veNr) | 5:00 |
-| 22 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
-| 23 | [En la Jaula](https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q) | [Horcas](https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq) | [Por Tu Honor](https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12) | 3:57 |
+| 17 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |
+| 18 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
+| 19 | [A Toda Madre](https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs) | 3:22 |
+| 20 | [Como Relámpago en la Oscuridad](https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [La Industria del Poder](https://open.spotify.com/album/6EzOsuKn38yWoNgpy9veNr) | 5:00 |
+| 21 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
+| 22 | [En la Jaula](https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q) | [Horcas](https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq) | [Por Tu Honor](https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12) | 3:57 |
+| 23 | [Mass Hypnosis](https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:25 |
 | 24 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
 | 25 | [El Charro](https://open.spotify.com/track/4kLJUOOd8yrb1frZ3oKFE1) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 1:50 |
 | 26 | [Nuevo Orden Mundial](https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Nuevo Orden Mundial](https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
 | 50 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
 
-Snapshot ID: `MCxjZTE3YzI0MGEzMWZmY2FmNGFmNGVhN2RhMzYyMmRiNWI1ODdiNTg4`
+Snapshot ID: `MCxlYmY1Mzk5OGVjNzVlNDEyMDhjZTRhMjRmY2JjMGE5NzEyZTlmNTM0`

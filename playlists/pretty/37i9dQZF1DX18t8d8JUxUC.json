@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Mateo Falgas",
-  "num_followers": 19009,
+  "num_followers": 19028,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUzNGE3NzkzNTE3MTA5ZjYzMzZhMGZlMGI2ZDYwMmQ3Y2IxOWEy",
+  "snapshot_id": "MCwxNDRjODIzZjQzMmRmZjFkYjJmOGM5MWNiNGYwNTY4NmNlZTk5ZjUw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Ojos Del Sol",
-        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Ojos Del Sol",
-      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "\u00bfY Si Te Invito?",
         "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 186000,
       "name": "\u00bfY Si Te Invito?",
       "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Ojos Del Sol",
+        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Ojos Del Sol",
+      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Respirar Bajo el Agua",
         "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 165032,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Balboa",
+        "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 220629,
+      "name": "Quiero Sentirlo Todo",
+      "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -967,22 +983,6 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Balboa",
-        "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 220629,
-      "name": "Quiero Sentirlo Todo",
-      "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 196034,
       "name": "Hace rato",
       "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2023-12-01 05:01:00",

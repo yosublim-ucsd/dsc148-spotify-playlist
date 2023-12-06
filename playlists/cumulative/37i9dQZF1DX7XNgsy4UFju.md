@@ -4,7 +4,7 @@
 
 > The best in indie\. Cover: Mustafa
 
-1,405 songs - 3 day 11 hr 23 min
+1,406 songs - 3 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,8 @@
 | [forever](https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [forever](https://open.spotify.com/album/3Tp9D49OesqcRIgAArAlye) | 4:00 | 2023-11-10 | 2023-11-18 |
 | [Forever](https://open.spotify.com/track/5IePz2lBFBi1W6UhGxKWTX) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Forever](https://open.spotify.com/album/4ILVXpzzZL4OUYvhos4c77) | 4:24 | 2022-01-28 | 2022-03-05 |
 | [Forever Is A Charm](https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Forever Is A Charm](https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl) | 3:11 | 2022-09-09 | 2022-09-24 |
-| [forever mine](https://open.spotify.com/track/1jutIgCs5YmagoBHrbikP7) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [forever mine](https://open.spotify.com/album/4hBXYiyR4PoBqWkknZlZGg) | 2:55 | 2023-10-06 |  |
+| [forever mine](https://open.spotify.com/track/1jutIgCs5YmagoBHrbikP7) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [forever mine](https://open.spotify.com/album/4hBXYiyR4PoBqWkknZlZGg) | 2:55 | 2023-10-06 | 2023-12-06 |
+| [forever mine](https://open.spotify.com/track/3OZw5UHlYIzwc0dCBOBFx9) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:55 | 2023-12-01 |  |
 | [Forget You](https://open.spotify.com/track/54xA4D0ZXwHUNwqxNUa5MW) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Forget You](https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs) | 2:55 | 2022-02-25 | 2022-04-02 |
 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 | 2022-11-19 |
 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-11-13 |

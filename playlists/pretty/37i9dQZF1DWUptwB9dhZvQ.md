@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,402 likes - 81 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,462 likes - 81 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 49 | [Sandhanam Theme \- Background Score](https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:46 |
 | 50 | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/track/3lHH6j1JzcCYVct83zihWs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/album/4MGAcD1ZvQPy2r6FQcgAx7) | 1:03 |
 | 51 | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 |
-| 52 | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/track/6QnaSrPceLo5ClJUHA61K2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/album/7oPBIbwVgBYrhbf0tRzCpT) | 4:25 |
-| 53 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 |
+| 52 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 |
+| 53 | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/track/6QnaSrPceLo5ClJUHA61K2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/album/7oPBIbwVgBYrhbf0tRzCpT) | 4:25 |
 | 54 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
 | 55 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 |
 | 56 | [Bhavani Theme \- Background Score](https://open.spotify.com/track/4SwrKUWClv1t4HqK5SeMCo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 80 | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 |
 | 81 | [Manmadhan Theme Music](https://open.spotify.com/track/4ObpDubU06zaWluKR7lCls) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Y7FfRUWBEKImjc2T6NjzO) | 1:23 |
 
-Snapshot ID: `MCwyYjI2ZGYxOTNhMTFmZTlmOGNiOWJkYTQyZjE3NzY4MTNjZDQ0N2Mx`
+Snapshot ID: `MCwyMmMwNzNhMzRkYTY2MzBiZjYwODY0MWUyNmVjM2Q0NTcxZTNhMjdl`

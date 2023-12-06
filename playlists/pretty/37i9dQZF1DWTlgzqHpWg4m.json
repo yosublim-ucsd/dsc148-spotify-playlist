@@ -1,12 +1,12 @@
 {
   "description": "welcome to the Golden State.",
-  "num_followers": 820143,
+  "num_followers": 820219,
   "original_name": "California Rock State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2RiNzI4ZDY5M2ViM2U5MTAxZTdlNmViNmUwM2Y4MWQxY2JhNTNh",
+  "snapshot_id": "MCwyZGE0ZjQxZWRiZDg2MzUzOGNmNTU4ZjBkZWI5MDMxYjJlOGRkMDQ0",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Astro Lounge",
-        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 231533,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
       "added_at": "2023-02-24 05:01:00",

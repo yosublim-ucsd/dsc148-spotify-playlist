@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Lyn Lapid
 
-4,385 songs - 9 day 2 hr 6 min
+4,386 songs - 9 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-12 | 2023-06-03 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-17 | 2023-03-04 |
 | [A\-List](https://open.spotify.com/track/3aLMnL5LOmwMXYgnWWPJid) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [I Found Love at 23](https://open.spotify.com/album/1yZ7o3rLx5tSzMNQOe7FMy) | 2:24 | 2023-10-27 | 2023-11-18 |
-| [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-24 |  |
+| [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-24 | 2023-12-06 |
+| [A2B](https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6gvw0F8qkG8VA03z1U8eCN) | 2:10 | 2023-12-02 |  |
 | [Aaja Baby](https://open.spotify.com/track/2M4iSOZiosyPBgcjirEnrm) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [Aaja Baby](https://open.spotify.com/album/4apRp8Kc1wx3FlxcJMKfmM) | 3:11 | 2023-07-07 | 2023-07-22 |
 | [Abandonment Issues](https://open.spotify.com/track/5wtt3CxEQYPcnY13aXtRfV) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Abandonment Issues](https://open.spotify.com/album/4sxJ9NpZDYuTg2HdFaq7rM) | 2:57 | 2022-08-26 | 2022-09-10 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-05-20 |

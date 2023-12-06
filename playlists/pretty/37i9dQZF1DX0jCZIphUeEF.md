@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,215 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,225 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 69 | [Bangalora](https://open.spotify.com/track/59GRvXZLg7H7DJZkw4D7TJ) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Bangalora](https://open.spotify.com/album/1JYRYOsPFkzC4DBU5RW28h) | 7:47 |
 | 70 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 |
 
-Snapshot ID: `MCw0NWUzZGExNDZmOThjMWExNzdmYThhNDcxMzhjNGZkMWY4NGNiMjJl`
+Snapshot ID: `MCwwNmJjZTQzNDM3ZWJiZmRiOGY0NjdmMTVjMzliODk1Zjc4ZjczMjk2`

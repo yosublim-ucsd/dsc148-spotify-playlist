@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 85825,
+  "num_followers": 85898,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWJlOTI0NDk4OGE2MDY0MGMzOWNjZWNhNGMzNzM3NTMxYzI1ZGI1",
+  "snapshot_id": "MCw4MzViYTBiODcwNWY3NGNmZDYxNTFmODE1NTc3NjQ5YTgyMjNlYjYz",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "2000 Blacks Got To Be Free (feat. Roy Ayers)",
-        "url": "https://open.spotify.com/album/1YV7aEV84KGSUHIDuM4TtZ"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 293295,
-      "name": "2000 Blacks Got to Be Free - Edit",
-      "url": "https://open.spotify.com/track/6lI0dzCFeR86ijHg3SGSNP"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "The Way You Love Me - Deluxe Re-Issue",
         "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 256016,
       "name": "Dionne",
       "url": "https://open.spotify.com/track/544LVQh9D4e15YPq1rlJg6"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "2000 Blacks Got To Be Free (feat. Roy Ayers)",
+        "url": "https://open.spotify.com/album/1YV7aEV84KGSUHIDuM4TtZ"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 293295,
+      "name": "2000 Blacks Got to Be Free - Edit",
+      "url": "https://open.spotify.com/track/6lI0dzCFeR86ijHg3SGSNP"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -691,6 +691,46 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
+      },
+      "artists": [
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Hayze",
+          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Changes (feat. Haze)",
+      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Mister Vi",
+          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
+        }
+      ],
+      "duration_ms": 596157,
+      "name": "I'm A Blessed Man",
+      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Black Mahogani",
         "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
       },
@@ -727,26 +767,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Hayze",
-          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Changes (feat. Haze)",
-      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "WELCOME HOME",
         "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 415680,
       "name": "Jus Dance",
       "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
-      },
-      "artists": [
-        {
-          "name": "Leroy Styles",
-          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
-        },
-        {
-          "name": "Mister Vi",
-          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
-        }
-      ],
-      "duration_ms": 596157,
-      "name": "I'm A Blessed Man",
-      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
-      },
-      "artists": [
-        {
-          "name": "ADO",
-          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
-        },
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 264552,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Backfired",
         "url": "https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 519039,
       "name": "Backfired - Dave Lee Club Mix",
       "url": "https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
+      },
+      "artists": [
+        {
+          "name": "ADO",
+          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 264552,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -943,18 +943,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Get Up ! (20216)",
-        "url": "https://open.spotify.com/album/1dN2kgarF0CpP3hquG8UAC"
+        "name": "Love & Happiness (feat. India)",
+        "url": "https://open.spotify.com/album/5SeyhiafZ5HRUtNWI8GM5Z"
       },
       "artists": [
         {
-          "name": "Byron Stingily",
-          "url": "https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD"
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 439466,
-      "name": "Get Up (Everybody) - Parade Mix",
-      "url": "https://open.spotify.com/track/4cId03qMA9VLM8E92kYLEn"
+      "duration_ms": 259200,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) (feat. India) (Dream Sequence)",
+      "url": "https://open.spotify.com/track/3CbDRuzh7MBjT4GiM8DFUM"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -983,18 +987,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+        "name": "Get Up ! (20216)",
+        "url": "https://open.spotify.com/album/1dN2kgarF0CpP3hquG8UAC"
       },
       "artists": [
         {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+          "name": "Byron Stingily",
+          "url": "https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD"
         }
       ],
-      "duration_ms": 269572,
-      "name": "Night Visions",
-      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
+      "duration_ms": 439466,
+      "name": "Get Up (Everybody) - Parade Mix",
+      "url": "https://open.spotify.com/track/4cId03qMA9VLM8E92kYLEn"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1031,6 +1035,22 @@
       "duration_ms": 377768,
       "name": "It's Over Now - Extended Vocal Mix",
       "url": "https://open.spotify.com/track/76sTVWN1GTofI77lz4nlxk"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 269572,
+      "name": "Night Visions",
+      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1091,46 +1111,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Love & Happiness (feat. India)",
-        "url": "https://open.spotify.com/album/5SeyhiafZ5HRUtNWI8GM5Z"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) (feat. India) (Dream Sequence)",
-      "url": "https://open.spotify.com/track/3CbDRuzh7MBjT4GiM8DFUM"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
-      },
-      "artists": [
-        {
-          "name": "3 Winans Brothers",
-          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 569724,
-      "name": "Dance - Louie Vega Dance Ritual Mix",
-      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/6naxk0MtAT5YJawdeNeUaC"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 354440,
       "name": "Get Down (feat. Kenny Dope & DJ Sneak & Terry Hunter & Tara McDonald) (Kenny Dope Mix)",
       "url": "https://open.spotify.com/track/22XJmDUVqLdCHve3CEsHJo"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
+      },
+      "artists": [
+        {
+          "name": "3 Winans Brothers",
+          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 569724,
+      "name": "Dance - Louie Vega Dance Ritual Mix",
+      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh"
+      },
+      "artists": [
+        {
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+        }
+      ],
+      "duration_ms": 463320,
+      "name": "Poor People (Big Room Mix)",
+      "url": "https://open.spotify.com/track/3CYhbioAH5j4AHKwW0N9oL"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "They Don't Care (Yoruba Soul Extended Mix)",
         "url": "https://open.spotify.com/album/7FMWMkurzgI71X81Z1Bge4"
       },
@@ -1295,18 +1311,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "No Politics",
-        "url": "https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh"
+        "name": "Future Retro",
+        "url": "https://open.spotify.com/album/1wki4wfFifXgxNMZisngOv"
       },
       "artists": [
         {
-          "name": "Quentin Harris",
-          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+          "name": "The Layabouts",
+          "url": "https://open.spotify.com/artist/6XRpgVJmeNjNh04Pjq07Wm"
+        },
+        {
+          "name": "Portia Monique",
+          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
         }
       ],
-      "duration_ms": 463320,
-      "name": "Poor People (Big Room Mix)",
-      "url": "https://open.spotify.com/track/3CYhbioAH5j4AHKwW0N9oL"
+      "duration_ms": 266273,
+      "name": "Bring Me Joy",
+      "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1347,42 +1367,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Future Retro",
-        "url": "https://open.spotify.com/album/1wki4wfFifXgxNMZisngOv"
+        "name": "(un)Reliable Recordings Presents: New Things Remixes",
+        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
       },
       "artists": [
         {
-          "name": "The Layabouts",
-          "url": "https://open.spotify.com/artist/6XRpgVJmeNjNh04Pjq07Wm"
+          "name": "Michal Martyniuk",
+          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
         },
         {
-          "name": "Portia Monique",
-          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
-        }
-      ],
-      "duration_ms": 266273,
-      "name": "Bring Me Joy",
-      "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Meridian 2016",
-        "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
         },
         {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+          "name": "YaniKa",
+          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
         }
       ],
-      "duration_ms": 424226,
-      "name": "What's Your Number - Jazzanova Re-Number",
-      "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
+      "duration_ms": 377069,
+      "name": "New Things (Eric Kupper Remix)",
+      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1431,26 +1435,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "(un)Reliable Recordings Presents: New Things Remixes",
-        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
+        "name": "Meridian 2016",
+        "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
       },
       "artists": [
         {
-          "name": "Michal Martyniuk",
-          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
         },
         {
-          "name": "Eric Kupper",
-          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
-        },
-        {
-          "name": "YaniKa",
-          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
         }
       ],
-      "duration_ms": 377069,
-      "name": "New Things (Eric Kupper Remix)",
-      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
+      "duration_ms": 424226,
+      "name": "What's Your Number - Jazzanova Re-Number",
+      "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Defined",
-        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
-      },
-      "artists": [
-        {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
-        }
-      ],
-      "duration_ms": 342893,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "As Long As You Believe (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/0zixIlzr498H0saKAnv9Ta"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 223414,
       "name": "As Long As You Believe - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/4K6i7KU9W76t5JpygKcKby"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Defined",
+        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "duration_ms": 342893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Basic Blaze",
+        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Palmer Brown",
+          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
+        }
+      ],
+      "duration_ms": 319760,
+      "name": "My Beat - feat. Palmer Brown",
+      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Love It",
         "url": "https://open.spotify.com/album/0KneyKV5tME1HoDFtEMUDS"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 554268,
       "name": "Love It - Phil Asher's Restless Soul Vocal Mix",
       "url": "https://open.spotify.com/track/108xPfHyjfwRv4ZJrDJdHL"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Basic Blaze",
-        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Palmer Brown",
-          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "My Beat - feat. Palmer Brown",
-      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        }
+      ],
+      "duration_ms": 406813,
+      "name": "Bad Habit - feat. Lisa Millett",
+      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Dangerous Vibes",
         "url": "https://open.spotify.com/album/2vmbTbPhF34PAichMEpgWQ"
       },
@@ -1779,18 +1795,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+        "name": "Best of the Last",
+        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
       },
       "artists": [
         {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+          "name": "Studio Apartment",
+          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
+        },
+        {
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
         }
       ],
-      "duration_ms": 406813,
-      "name": "Bad Habit - feat. Lisa Millett",
-      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+      "duration_ms": 452439,
+      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
+      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1835,26 +1855,6 @@
       "duration_ms": 641584,
       "name": "Morning Factory",
       "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Best of the Last",
-        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
-      },
-      "artists": [
-        {
-          "name": "Studio Apartment",
-          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
-        },
-        {
-          "name": "Monique Bingham",
-          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
-        }
-      ],
-      "duration_ms": 452439,
-      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
-      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2191,6 +2191,30 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Highways",
+        "url": "https://open.spotify.com/album/1iICsAza05q2fnEm4aHezr"
+      },
+      "artists": [
+        {
+          "name": "Akabu",
+          "url": "https://open.spotify.com/artist/1wLsQhBKNjZOd8NdXY4kTC"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Jinadu",
+          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
+        }
+      ],
+      "duration_ms": 409090,
+      "name": "Highways - Dave Lee Medusa Mix",
+      "url": "https://open.spotify.com/track/5b2Mjf5TQ7ZqlMHik968cn"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
         "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
       },
@@ -2215,30 +2239,6 @@
       "duration_ms": 247918,
       "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
       "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Highways",
-        "url": "https://open.spotify.com/album/1iICsAza05q2fnEm4aHezr"
-      },
-      "artists": [
-        {
-          "name": "Akabu",
-          "url": "https://open.spotify.com/artist/1wLsQhBKNjZOd8NdXY4kTC"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        },
-        {
-          "name": "Jinadu",
-          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
-        }
-      ],
-      "duration_ms": 409090,
-      "name": "Highways - Dave Lee Medusa Mix",
-      "url": "https://open.spotify.com/track/5b2Mjf5TQ7ZqlMHik968cn"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2283,6 +2283,42 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
+      },
+      "artists": [
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "Je Ka Jo - Demo Mix",
+      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Timeless Vol. 1",
+        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
+      },
+      "artists": [
+        {
+          "name": "Elements Of Life",
+          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
+        },
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        }
+      ],
+      "duration_ms": 501320,
+      "name": "Elements of Life - Album Mix",
+      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Mix The Vibe: Kaoz On King Street",
         "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
       },
@@ -2303,18 +2339,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
       "artists": [
         {
-          "name": "Joaquin \"Joe\" Claussell",
-          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
         }
       ],
-      "duration_ms": 447026,
-      "name": "Je Ka Jo - Demo Mix",
-      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
+      "duration_ms": 198666,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2343,26 +2383,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "It's Alright, I Feel It",
-      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "When The Morning Comes",
         "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
       },
@@ -2379,26 +2399,6 @@
       "duration_ms": 475262,
       "name": "When The Morning Comes - Main Vocal Mix",
       "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Timeless Vol. 1",
-        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
-      },
-      "artists": [
-        {
-          "name": "Elements Of Life",
-          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
-        },
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        }
-      ],
-      "duration_ms": 501320,
-      "name": "Elements of Life - Album Mix",
-      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2455,26 +2455,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "More Than a Remix",
         "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
       },
@@ -2495,6 +2475,26 @@
       "duration_ms": 455346,
       "name": "For Real - Atjazz Remix",
       "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2583,22 +2583,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Set Me Free - Remixes",
-        "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
+        "name": "My Prayer (Micky More & Andy Tee Mixes)",
+        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
       "artists": [
         {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
         },
         {
-          "name": "Xoli",
-          "url": "https://open.spotify.com/artist/4LY4ifoDNpCTb52LZlrt1c"
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
         }
       ],
-      "duration_ms": 435920,
-      "name": "Set Me Free - Original Mix",
-      "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+      "duration_ms": 228694,
+      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
+      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2619,22 +2619,38 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "My Prayer (Micky More & Andy Tee Mixes)",
-        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
+        "name": "Set Me Free - Remixes",
+        "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
       "artists": [
         {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
         },
         {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+          "name": "Xoli",
+          "url": "https://open.spotify.com/artist/4LY4ifoDNpCTb52LZlrt1c"
         }
       ],
-      "duration_ms": 228694,
-      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
-      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
+      "duration_ms": 435920,
+      "name": "Set Me Free - Original Mix",
+      "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2659,18 +2675,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
+        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
       },
       "artists": [
         {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+          "name": "DJ Le Roi",
+          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+        },
+        {
+          "name": "Chappell",
+          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
         }
       ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+      "duration_ms": 446026,
+      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
+      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2695,26 +2715,6 @@
       "duration_ms": 416509,
       "name": "Mercyless - Atjazz Unreleased Astro Remix",
       "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
-        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
-      },
-      "artists": [
-        {
-          "name": "DJ Le Roi",
-          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
-        },
-        {
-          "name": "Chappell",
-          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
-        }
-      ],
-      "duration_ms": 446026,
-      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
-      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2759,6 +2759,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/3RwDXsnqjYwdSKYnsm2xrM"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Kenton Lee",
+          "url": "https://open.spotify.com/artist/2Ee5ylRUxJdGacCEHIr052"
+        }
+      ],
+      "duration_ms": 346853,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6VZGDCHjMs16OGAT1uP5sM"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -2783,26 +2803,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/3RwDXsnqjYwdSKYnsm2xrM"
-      },
-      "artists": [
-        {
-          "name": "Leroy Styles",
-          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
-        },
-        {
-          "name": "Kenton Lee",
-          "url": "https://open.spotify.com/artist/2Ee5ylRUxJdGacCEHIr052"
-        }
-      ],
-      "duration_ms": 346853,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/6VZGDCHjMs16OGAT1uP5sM"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Think Twice (Remixes)",
         "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
       },
@@ -2819,6 +2819,22 @@
       "duration_ms": 578013,
       "name": "Think Twice - Mark E Remix",
       "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2843,22 +2859,6 @@
       "duration_ms": 487531,
       "name": "Glory - Atjazz Remix",
       "url": "https://open.spotify.com/track/7gFX0LEM6Ty0yojsBcsEXz"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-11-30 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,261 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,725 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 73 | [Last Christmas](https://open.spotify.com/track/0u74xi5AJEulKPccore7B2) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb), [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Last Christmas](https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R) | 2:48 |
 | 74 | [Take Me Home For Christmas](https://open.spotify.com/track/72HP2M4jjw4t0AIGdEVGEF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Take Me Home For Christmas](https://open.spotify.com/album/5nzOzmqaWGkrlfWfk9Jrfh) | 3:23 |
 | 75 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
-| 76 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
+| 76 | [Sleigh Ride](https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 3:04 |
 | 77 | [Christmas Eve](https://open.spotify.com/track/4u3p9G8NEyF37rfQ0OHS4T) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:16 |
-| 78 | [Sleigh Ride](https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 3:04 |
+| 78 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
 | 79 | [A Holly Jolly Christmas](https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 2:22 |
 | 80 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/18J9Wt6fBBFjkQciPsxa3g) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/1kmXMD3SJfTEt4NmrSKRhe) | 2:52 |
 | 81 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 93 | [Baby It’s Not Christmas Without You](https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Baby It’s Not Christmas Without You](https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ) | 2:47 |
 | 94 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
 | 95 | [christmas lights](https://open.spotify.com/track/30rSSHrRnhtUxU9hbW1CFE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [christmas lights](https://open.spotify.com/album/72Sm4S7HImUd9m25k8K1oV) | 4:28 |
-| 96 | [God Rest Ye Merry Gentlemen / We Three Kings](https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 3:26 |
+| 96 | [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 |
 | 97 | [Christmas in California](https://open.spotify.com/track/7Giga9qA0SLacsMlIRD4X8) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [Christmas in California](https://open.spotify.com/album/7zDHDUi94poNUi2prXFPSQ) | 3:09 |
-| 98 | [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 |
+| 98 | [God Rest Ye Merry Gentlemen / We Three Kings](https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 3:26 |
 | 99 | [Merry Christmas](https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Merry Christmas](https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh) | 2:30 |
 | 100 | [Maybe This Christmas](https://open.spotify.com/track/0c58Aj6LMtGrYASYmjl2kR) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Mellow Christmas Acoustic](https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ) | 1:52 |
 
-Snapshot ID: `MCxiMDI3NWY2ZDgzNWNlOWE0OTcyY2NlZjk1ZTJkODc2ODM1YmMyYjlj`
+Snapshot ID: `MCw0YzdjODg2YjEyYmI3YzRhNTdkNGVmMzFmZGYyNWFkNWJmMjBmZWRm`

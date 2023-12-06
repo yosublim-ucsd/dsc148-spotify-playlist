@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-255 songs - 14 hr 10 min
+256 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-04-08 | 2023-09-30 |
 | [Natural Born Killer](https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:16 | 2022-10-05 | 2023-04-20 |
 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 | 2022-06-28 | 2022-10-06 |
+| [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 | 2023-09-29 |  |
 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-08-11 | 2023-11-05 |
 | [Nothing Left](https://open.spotify.com/track/3PoiPLGqcvVnZUGAzaStv9) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nothing Left](https://open.spotify.com/album/7Ga5rDDpZcRVkjTx4fVrm5) | 2:02 | 2020-11-13 | 2022-07-28 |
 | [Oh My Heart](https://open.spotify.com/track/0Tpc0c8WaTnbYsoWoJ06k2) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Howl \(Deluxe Edition\)](https://open.spotify.com/album/7l9uIV35NqVTEHa3gqvC3h) | 3:11 | 2020-08-20 | 2022-04-21 |
@@ -177,7 +178,7 @@
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 | 2022-10-06 |
 | [Pink Lemonade](https://open.spotify.com/track/6LzsmlN5UbCYytaaKZueRH) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Pink Lemonade](https://open.spotify.com/album/5O58RXX6L0S62ynfG7HxHR) | 4:12 | 2020-08-20 | 2022-01-27 |
 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-04-08 | 2022-11-13 |
-| [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-10-05 |  |
+| [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-10-05 | 2023-12-06 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-06-23 |  |
 | [Prescription Kid](https://open.spotify.com/track/043IjYujEo3sEDuaBtWzu0) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Prescription Kid](https://open.spotify.com/album/1fR0QXuE9xmQwvQKkYcNpi) | 3:28 | 2020-08-20 | 2022-07-29 |
 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 | 2020-08-20 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,835 likes - 914 songs - 2 day 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,841 likes - 914 songs - 2 day 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 44 | [On & Off \- Spotify Singles](https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx), [QuietMike](https://open.spotify.com/artist/04NM7FYXlUYU2HiH3GrOIu) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:24 |
 | 45 | [Almost Doesn't Count \- Spotify Singles](https://open.spotify.com/track/1tkVsTS1tnMPIBHyWQioLB) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Bryan\-Michael Cox](https://open.spotify.com/artist/2DQGYZN46cPcNWVRyAMX8l) | [Spotify Singles](https://open.spotify.com/album/2iMqeChn3AuGV1DzaMR5Jn) | 3:38 |
 | 46 | [Do You Ever \- Spotify Singles](https://open.spotify.com/track/4biV1t1EPavZ40ZiYHGvxo) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Bryan\-Michael Cox](https://open.spotify.com/artist/2DQGYZN46cPcNWVRyAMX8l) | [Spotify Singles](https://open.spotify.com/album/2iMqeChn3AuGV1DzaMR5Jn) | 3:01 |
-| 47 | [Technicolor \- Spotify Singles](https://open.spotify.com/track/0RgltCLC6gLdDX6UR7Noei) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS) | 2:43 |
-| 48 | [You Get What You Give \- Spotify Singles](https://open.spotify.com/track/67Z8vS45C4PrIRrLWIkavo) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/3q6MNWSfHKPf8phO5Oo3uS) | 4:02 |
+| 47 | [Technicolor \- Spotify Singles](https://open.spotify.com/track/0kdaH9AO4ddOgIAYrnf2tU) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/72ekwhd1WlpvNWvSFirYfr) | 2:43 |
+| 48 | [You Get What You Give \- Spotify Singles](https://open.spotify.com/track/2oSbYZWUPoIAqLOQlqjMSi) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Spotify Singles](https://open.spotify.com/album/72ekwhd1WlpvNWvSFirYfr) | 4:02 |
 | 49 | [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 |
 | 50 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 |
 | 51 | [HATELOVE \- Spotify Single](https://open.spotify.com/track/0aqsHz5aoW0370n2fxXJc4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:03 |
@@ -923,4 +923,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 913 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 914 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCxhNzkwMWJlOTljYmY5NWI0YmFlYTM1ODQ5OGE2MzgzZmU0YmE2ZTJk`
+Snapshot ID: `MCxiNjQ5MTk3MmVhMTI0NjRhOTZjMWJlMmZhMjdjZDIzMzZkNTFhNzBh`

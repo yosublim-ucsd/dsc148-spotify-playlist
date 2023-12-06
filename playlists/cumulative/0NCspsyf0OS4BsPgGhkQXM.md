@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-964 songs - 2 day 2 hr 52 min
+965 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [MONTAGEM \- IMPARÁVEL](https://open.spotify.com/track/5IKgQI6RfSdOL57iBp3isa) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj), [OTVphonk](https://open.spotify.com/artist/0AocRNEO5hAP398nPuJV8a), [PYTT NB27E](https://open.spotify.com/artist/0Ydzn0gJyMcgxO2IbudsT5) | [MONTAGEM IMPARÁVEL](https://open.spotify.com/album/7IjPafXZgjVjAXQInB4Jse) | 1:30 | 2023-11-10 |  |
 | [MONTAGEM BATIDA CATIVANTE](https://open.spotify.com/track/0bDEkp4c1sGg8LpikNPlCI) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [nxtjvr](https://open.spotify.com/artist/62Ub8v044KkVnGx090irXv), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [MONTAGEM BATIDA CATIVANTE](https://open.spotify.com/album/3v8ffmJaEuFvAxYlPPWFn5) | 1:32 | 2023-09-01 | 2023-10-28 |
 | [MONTAGEM DO H](https://open.spotify.com/track/6SaXGy6CqDqEgvOuhWAXoP) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO) | [MONTAGEM DO H](https://open.spotify.com/album/704NgQhNJixiWHJn2KUC8i) | 1:50 | 2023-11-10 |  |
+| [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2023-12-05 |  |
 | [MOOGTOPIA](https://open.spotify.com/track/2xStfjvbjUGfqu0IZJVy3z) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [MOOGTOPIA](https://open.spotify.com/album/2FGW5ppcSgCZ0kawkIUC31) | 2:28 | 2023-11-08 |  |
 | [MOOGTOPIA \- Instrumental](https://open.spotify.com/track/0CrYuSEjndTCPCB0PRw0M4) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [MOOGTOPIA \(Instrumental\)](https://open.spotify.com/album/2XQcKEDvB1p66FLp1GXKCK) | 2:25 | 2023-11-08 |  |
 | [Moonbeams](https://open.spotify.com/track/1bgoe4DClcoRvDapWU68CK) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Moonbeams](https://open.spotify.com/album/3klnFBO7TxwcQkzcuM5yVI) | 3:56 | 2022-01-14 | 2022-02-05 |

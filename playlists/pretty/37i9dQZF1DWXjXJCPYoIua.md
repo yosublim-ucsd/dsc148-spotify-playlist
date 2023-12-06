@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,204 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,330 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 78 | [Silencio En El Callejon](https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Silencio En El Callejon](https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG) | 3:00 |
 | 79 | [EYO](https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:25 |
 | 80 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
-| 81 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
+| 81 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
 | 82 | [No Que No Eras Fan](https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:22 |
 | 83 | [Kódigos](https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS) | 3:47 |
-| 84 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
+| 84 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
 | 85 | [Liga Malandra](https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Quetzal](https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 6:00 |
 | 86 | [So Fly](https://open.spotify.com/track/2BjIi07kN0yKSur0Fwrnss) | [NB Ridaz](https://open.spotify.com/artist/2KNDYRKdCzuKzCCUyjAcF4), [Big Gemini](https://open.spotify.com/artist/0jbx51hrAITPKt71DQj4lt) | [NB Ridaz.com](https://open.spotify.com/album/7wbQYeQPqFVDCir28YTlSM) | 4:14 |
 | 87 | [No Me Arrepiento \(feat\. Gera MX, Neto Peña, Santa Fe Klan\)](https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
 | 100 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 
-Snapshot ID: `MCxmZWJjZGUwYjI0ZjRjZWFhNWRjYTMxYTM4ZTMyNWJhZjAyMTQ2M2Y5`
+Snapshot ID: `MCxkNDk5YjY3NjM4NGY5MTgzMzdlYzU0NDY1YjBiNTA3ODhlOGQzNTMy`

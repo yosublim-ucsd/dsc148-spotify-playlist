@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,232 likes - 35 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,242 likes - 35 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 |
 | 35 | [Emoción Diamante](https://open.spotify.com/track/0rUb5mvK44ldO7PvhYRLHR) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Miss Universo](https://open.spotify.com/album/3iuxk4D9W1vq5oH2apy3hy) | 3:48 |
 
-Snapshot ID: `MCxjZTk2NTI2ODc4MjQ5MGVjODg4Y2EyNTUyOWVjNDNlMmU5OGIxZjg0`
+Snapshot ID: `MCxiZjA4MDE1YTAyYzExZTNlYWU2M2FiYTQ5ZDU2MzZhMzZjYmQxNDQ0`

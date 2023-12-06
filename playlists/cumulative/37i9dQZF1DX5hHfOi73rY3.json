@@ -216,7 +216,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 394124,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 275806,
       "name": "Buggin' - Edit",
       "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 148571,
       "name": "House & Pressure",
       "url": "https://open.spotify.com/track/4BG03MHYQwuWENZ31vFlsV"
@@ -884,6 +884,24 @@
       "duration_ms": 288919,
       "name": "I <3 U SO - Skream's Made Zdar Feel Like He Was 20 Again Remix",
       "url": "https://open.spotify.com/track/0qnKGJgAZZXSKkUMcnAyIz"
+    },
+    {
+      "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288919,
+      "name": "I <3 U SO - Skream's Made Zdar Feel Like He Was 20 Again Remix",
+      "url": "https://open.spotify.com/track/4vSsMRGjCez8mriReBzGD1"
     },
     {
       "album": {
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 505577,
       "name": "We Do What We Want",
       "url": "https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6"
@@ -2372,6 +2390,24 @@
       "duration_ms": 505577,
       "name": "We Do What We Want",
       "url": "https://open.spotify.com/track/4gve8Gz2iNDnOIfqQK2dAI"
+    },
+    {
+      "album": {
+        "name": "DJ Central Groove Vol, 15",
+        "url": "https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c"
+      },
+      "artists": [
+        {
+          "name": "Ben Pearce",
+          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "What I Might Do",
+      "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
     },
     {
       "album": {

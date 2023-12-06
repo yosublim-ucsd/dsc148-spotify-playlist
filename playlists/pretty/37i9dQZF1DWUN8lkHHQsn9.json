@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:2FhI5QfUYl5iIlUog9HHEw\">27.Fuckdemons</a>",
-  "num_followers": 7130,
+  "num_followers": 7138,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjg2ZDhiNjJiMjA5NTJlOGQ2OGRlMzNlMTAwNTUwYWQzNjA1NGI1",
+  "snapshot_id": "MCxiYzg4MzhkOWFkZmE0YzQyMDg1N2JjNjViZDEzMWY4YjU0ZDU2MDRj",
   "tracks": [
     {
       "added_at": "2023-11-13 23:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 207732,
+      "name": "Jako\u015b To Przetrwamy",
+      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 284422,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 207732,
-      "name": "Jako\u015b To Przetrwamy",
-      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Bolt",
-        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
       "artists": [
         {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 216860,
-      "name": "Bolt",
-      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 234246,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "Przypadki",
         "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 190443,
       "name": "Przypadki",
       "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "Spina",
         "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 213921,
       "name": "Spina",
       "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -1167,6 +1151,42 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
+        "name": "Dziewczyna z NASA",
+        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        },
+        {
+          "name": "Panilas",
+          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Dziewczyna z NASA",
+      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
         "name": "Technikolor",
         "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
-        "name": "Dziewczyna z NASA",
-        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        },
-        {
-          "name": "Panilas",
-          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Dziewczyna z NASA",
-      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
     },
     {
       "added_at": "2023-11-13 23:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-11-13 23:00:00",
       "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2023-11-13 23:00:00",
+      "album": {
         "name": "Ulubione miejsce",
         "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 267000,
       "name": "Rojava",
       "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
-    },
-    {
-      "added_at": "2023-11-13 23:00:00",
-      "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
     },
     {
       "added_at": "2023-11-13 23:00:00",

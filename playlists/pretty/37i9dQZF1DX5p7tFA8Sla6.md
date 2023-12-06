@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,215 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,234 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 20 | [Do It](https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:18 |
 | 21 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
 | 22 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 |
-| 23 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 |
-| 24 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
+| 23 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
+| 24 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 |
 | 25 | [Get Up \(I Feel Like Being A\) Sex Machine](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 5:16 |
 | 26 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 27 | [Mothership Connection \(Star Child\)](https://open.spotify.com/track/7rLAPi81R7qlVqgXfykdEL) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 6:13 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 56 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
 | 57 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
 | 58 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 |
-| 59 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
-| 60 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 |
+| 59 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 |
+| 60 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
 | 61 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
 | 62 | [Joyous](https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [The Greatest Of Pleasure](https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn) | 6:27 |
 | 63 | [Let's Work](https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 3:54 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 76 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
 | 77 | [Shake Your Money](https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [Shake Your Money](https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r) | 3:20 |
 | 78 | [Take It Back \(feat\. Doc Brown\)](https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Doc Brown](https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 3:31 |
-| 79 | [Night Time](https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d) | [Mr President](https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR), [Sabba MG](https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl) | [Going to a Go Go](https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9) | 6:42 |
-| 80 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
+| 79 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
+| 80 | [Night Time](https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d) | [Mr President](https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR), [Sabba MG](https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl) | [Going to a Go Go](https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9) | 6:42 |
 | 81 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 |
 | 82 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 |
 | 83 | [I'm Your Biggest Fan](https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes and Badgers](https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCw4NGFlNTVjN2M1Y2UyMmFiZmU3OGFhZWZjZmVmMzE0NmE0NGFiZmY3`
+Snapshot ID: `MCw0N2I2YzFmMzIwNzEzMTljNWMxODc4MTRiZGNiZmNjMjkyZjU3YmJj`

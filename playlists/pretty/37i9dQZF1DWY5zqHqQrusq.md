@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,367 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,383 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 |
 | 50 | [Nyamaza](https://open.spotify.com/track/67Uei6pIFzXZ0SsQDZj69G) | [PHY](https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c) | [Tatu](https://open.spotify.com/album/1j3zadSjNiCQ8VmYpRIhmb) | 3:11 |
 
-Snapshot ID: `MCwzM2Y0MGQ3Yjk1YWQyMTRjNGUyMTQxNjdjNGFkMmZhNTdlNzk2MGJh`
+Snapshot ID: `MCwyOWFjOGE2NjdlY2FjYWQyNWM0ODk0ZDU1MzIwNThhMDJkM2JlZTBm`

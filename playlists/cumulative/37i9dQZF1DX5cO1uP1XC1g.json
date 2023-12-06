@@ -6296,6 +6296,24 @@
     {
       "album": {
         "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+        "url": "https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194769,
+      "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+      "url": "https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
         "url": "https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf"
       },
       "artists": [
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 198019,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"

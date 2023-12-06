@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: YOASOBI
 
-1,128 songs - 2 day 22 hr 24 min
+1,129 songs - 2 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [NEWSmile](https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [NEWSmile](https://open.spotify.com/album/4Pv8k6WZ60oUiuJtARH4BN) | 3:21 | 2023-07-09 | 2023-08-07 |
 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 | 2023-09-13 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2022-08-21 | 2023-02-13 |
+| [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 | 2023-12-05 |  |
 | [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 | 2022-08-07 | 2022-09-02 |
 | [Night Session](https://open.spotify.com/track/2Ne03AM5kPOFEi5HKjRrmi) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Night Session](https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn) | 2:29 | 2022-07-03 | 2022-07-11 |
 | [NINGEN GOKKO](https://open.spotify.com/track/21ACvBsQXpDd3bZCpOwnL8) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [NINGEN GOKKO](https://open.spotify.com/album/4aaTetFOkMr99jizvjIjw0) | 4:17 | 2022-07-25 | 2022-09-19 |
@@ -1019,7 +1020,7 @@
 | [永遠のあくる日](https://open.spotify.com/track/5WaSJKCZhmRZ8Pxn1oTjA5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [永遠のあくる日](https://open.spotify.com/album/4jFVggky7sWAA2JVf34gXf) | 4:06 | 2022-03-21 | 2022-05-08 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-03-05 | 2023-04-10 |
 | [江ノ島エスカー \(2023 ver.\)](https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(完全版\)](https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu) | 2:40 | 2023-07-09 | 2023-07-24 |
-| [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 | 2023-11-05 |  |
+| [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 | 2023-11-05 | 2023-12-06 |
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2021-12-19 | 2022-01-31 |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-04-10 | 2022-05-16 |
 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 | 2022-11-20 | 2023-01-30 |

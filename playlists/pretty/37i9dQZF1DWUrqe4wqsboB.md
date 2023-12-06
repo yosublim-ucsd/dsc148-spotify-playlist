@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Los Rivera Destino
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,191 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,206 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 38 | [Duermo con frío](https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA) | [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [El Cuento de Cita](https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX) | 3:14 |
 | 39 | [Guarapo y Flor](https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Guarapo y Flor](https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ) | 2:59 |
 | 40 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
-| 41 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
-| 42 | [Café](https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G), [Balbi](https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 3:07 |
+| 41 | [Café](https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G), [Balbi](https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 3:07 |
+| 42 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
 | 43 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
 | 44 | [Beso Con Sal](https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA) | [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Beso Con Sal](https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy) | 2:33 |
 | 45 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
-| 46 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
-| 47 | [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 |
+| 46 | [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 |
+| 47 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
 | 48 | [Pirámide](https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Pirámide](https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18) | 3:24 |
 | 49 | [Miel y Mantequilla](https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Miel y Mantequilla](https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b) | 3:47 |
 | 50 | [Dulce Estar](https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB) | [Polem](https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw) | [Lo Sencillo](https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT) | 3:30 |
 
-Snapshot ID: `MCw5OTcyZTc2OTUzOTcwZTFmZDdiZGI4ZmY1MjkwYzk4ZTJmYTUxMjVi`
+Snapshot ID: `MCxmODM2MzU0NjkzY2NhNjgwYjk5ODhkNmQ2ODQyOWM1NTU2ZmIzMzQz`

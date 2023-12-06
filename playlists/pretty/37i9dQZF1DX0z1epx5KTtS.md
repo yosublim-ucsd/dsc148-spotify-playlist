@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,969 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,034 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [La démarche](https://open.spotify.com/track/25SKpttgqUjWfw8MJDV66z) | [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [La démarche](https://open.spotify.com/album/5pmUbV0mjV7fB2mHNpjwRe) | 3:05 |
 | 40 | [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 |
 
-Snapshot ID: `MCwwNzY4OGU4N2FjYjY1OWI3ZDQ5MmRkNWY1NjM2Y2UwMDQ5ZWIzZWEy`
+Snapshot ID: `MCxhYzNlOTA4ZGVlZGNkOGRjZTY0Yjc2NzYwMmNlYjI2NTRkYmViNGUw`

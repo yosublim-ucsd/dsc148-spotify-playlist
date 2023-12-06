@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,199 likes - 96 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,217 likes - 96 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 56 | [Love Is Here To Stay](https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:24 |
 | 57 | [Night Dreamer \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:15 |
 | 58 | [Nice Work If You Can Get It](https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Buddy And Sweets](https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc) | 4:04 |
-| 59 | [Silver's Serenade \- 20\-Bit Remastering/1997](https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Finest](https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE) | 9:21 |
+| 59 | [Silver's Serenade \- Remastered 1997](https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Finest](https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE) | 9:21 |
 | 60 | [Wanderlust](https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:00 |
 | 61 | [Stars Fell On Alabama](https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 6:14 |
 | 62 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 95 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
 | 96 | [On a Slow Boat to China](https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [On a Slow Boat to China](https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws) | 3:50 |
 
-Snapshot ID: `MCw4MGQ3YTExZThmZTc2ODM3NDdlN2RlNDhmN2Y0MjAwYmQ2OWU4NjJh`
+Snapshot ID: `MCwxMmE1ZmJjMDhmZjE2YjA1ZGEwODEzZmUxZjNkNTQwYzJjYzFmMzI4`

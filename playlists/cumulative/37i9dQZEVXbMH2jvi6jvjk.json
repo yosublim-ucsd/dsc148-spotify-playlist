@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -10552,7 +10570,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -11766,7 +11784,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 368640,
       "name": "Habibi (Quantum Sound)",
       "url": "https://open.spotify.com/track/0JtoyusgiISK10cXzX79uH"
@@ -12658,40 +12676,6 @@
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
-    },
-    {
-      "album": {
-        "name": "Weekent Sun Sets (Horns In The Sun Remix EP)",
-        "url": "https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn"
-      },
-      "artists": [
-        {
-          "name": "DJ Kent",
-          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
-        },
-        {
-          "name": "Thakzin",
-          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
-        },
-        {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
-        },
-        {
-          "name": "M\u00d6RDA",
-          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
-        },
-        {
-          "name": "Brenden Praise",
-          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
-        }
-      ],
-      "date_added": "2023-10-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 336657,
-      "name": "Horns In The Sun - Thakzin Remix",
-      "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
     },
     {
       "album": {
@@ -13618,7 +13602,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -16004,7 +15988,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 300302,
       "name": "Ka Valungu",
       "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
@@ -22290,7 +22274,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -22696,7 +22680,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 307913,
       "name": "Ok'salayo",
       "url": "https://open.spotify.com/track/5B3JWkzaEumPyWXGyDcuGQ"
@@ -23226,7 +23210,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -26976,7 +26960,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
@@ -34934,7 +34918,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 360920,
       "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
       "url": "https://open.spotify.com/track/5O677N09WkpiDFluKb1fXh"

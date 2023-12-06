@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 299126,
+  "num_followers": 299242,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGZiZjdmYzVkNWVmY2JjYTQyMDg5MTcxYzU2YzA5MTI2M2JjNTZi",
+  "snapshot_id": "MCxjOGFiMjQ2N2JiNzI1NTg4MWU1MTVhZGFiNzM1NTExZWE3Mzg0NmQx",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 400037,
-      "name": "Earth To Sea",
-      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 173259,
       "name": "Stay And Rest For A While",
       "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Leviosa",
         "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 135375,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1087,22 +1103,6 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
-      },
-      "artists": [
-        {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 185182,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Detox",
@@ -1243,6 +1227,22 @@
       "duration_ms": 273455,
       "name": "Detox",
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 185182,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Humpty Dumpty",
-        "url": "https://open.spotify.com/album/1F68Q7RXXElRqb1nlklYKH"
+        "name": "Mahjong Room",
+        "url": "https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e"
       },
       "artists": [
         {
-          "name": "Hitch Von Cassen",
-          "url": "https://open.spotify.com/artist/4GFY0t6jiCfYgWDxTfCK4p"
-        },
-        {
-          "name": "Ana Ora",
-          "url": "https://open.spotify.com/artist/009y7OLLaB8PkJL8bUywC1"
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
         }
       ],
-      "duration_ms": 254000,
-      "name": "I'm lost in a fishbowl",
-      "url": "https://open.spotify.com/track/2UInBM4KnSCz1bqb0NNO3q"
+      "duration_ms": 174874,
+      "name": "Two Step",
+      "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Mahjong Room",
-        "url": "https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e"
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Nature TV",
+          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
+        },
+        {
+          "name": "Nice Guys",
+          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
         }
       ],
-      "duration_ms": 174874,
-      "name": "Two Step",
-      "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
+      "duration_ms": 225618,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
     }
   ],
   "unique_name": "Dreampop",

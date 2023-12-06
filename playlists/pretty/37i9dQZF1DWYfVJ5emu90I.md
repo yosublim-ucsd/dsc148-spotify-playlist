@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,751 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,762 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 13 | [NIKE DRIP \- REMIX](https://open.spotify.com/track/7g9zIRbdPvfiPrDOlL3RFP) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [NIKE DRIP \(REMIX\)](https://open.spotify.com/album/2PDJLYDBWmDqtyQMJaO7mF) | 2:30 |
 | 14 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 15 | [FreeBoiii](https://open.spotify.com/track/4fc1GduRB1LoVpCxcPsBfK) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Pedro the GodSon](https://open.spotify.com/artist/0BQTXgCijj1OlovJI9x0Jg) | [Zee PACK vol.1.5](https://open.spotify.com/album/7F3KclbfnIcYI0e7b4Slpd) | 2:55 |
-| 16 | [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 |
+| 16 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
 | 17 | [Ippai G2](https://open.spotify.com/track/7quDM98kweHmcHrqzdCkIj) | [Link Hood](https://open.spotify.com/artist/7wjf64sDcVNsgTXKKyaxio), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Ippai G2](https://open.spotify.com/album/2rJl8FBwTHAkQ8p0aqIPuo) | 3:12 |
-| 18 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
+| 18 | [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 |
 | 19 | [Psycho](https://open.spotify.com/track/1MrMCAwN8FKvSKHaDAAoTY) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/3xey9oaCCAC2AEL1mcemo3) | 2:37 |
 | 20 | [BAKUON](https://open.spotify.com/track/3Ce2pidrO43laAAFJcZZbe) | [LYTO](https://open.spotify.com/artist/3aCv90gO2lX7bOzETHLGjA) | [NEVER ENDING STORY](https://open.spotify.com/album/621nNvyHkZ6ekzTTyNc6Bk) | 3:20 |
 | 21 | [iina feat\. ANARCHY](https://open.spotify.com/track/1dKpLk4NuBezRALQuuhFmx) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [iina feat\. ANARCHY](https://open.spotify.com/album/2gmBOlwrlh72vYJVN2wU18) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
 | 50 | [For Real](https://open.spotify.com/track/0GdDLqCeNprluWECiORtjq) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/4GpGXeroaWC7vZmvOPvFOA) | 3:17 |
 
-Snapshot ID: `MCw1YzM4MDNjMjEwYmVjZjFhMmMxNGQ1NGU2MDc1YzY0NDU2ZmNlYTA3`
+Snapshot ID: `MCw3ZWY3ZWU5YTk5YmI4NWFhZDQ0NWMzMzdhYWUzZTg2YmFiZDZlNTU2`

@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1857085,
+  "num_followers": 1857051,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGQxYzJmNGFlNGZjZTg0NjA4ZDBjNzY5MDZmYWRjMDllNDAzMmNh",
+  "snapshot_id": "MCw4ZGFhZDQwNDI5YzExOTZhNDRjYTcxNjFjZDA3Yzk2MDJiMzRmZTc2",
   "tracks": [
     {
       "added_at": "2023-11-28 17:39:43",
@@ -539,18 +539,26 @@
     {
       "added_at": "2023-11-28 17:39:43",
       "album": {
-        "name": "Funk Rave",
-        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
         }
       ],
-      "duration_ms": 147201,
-      "name": "Funk Rave",
-      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+      "duration_ms": 180040,
+      "name": "OJOS FERRARI",
+      "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
     },
     {
       "added_at": "2023-11-28 17:39:43",
@@ -611,26 +619,18 @@
     {
       "added_at": "2023-11-28 17:39:43",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+        "name": "Funk Rave",
+        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 180040,
-      "name": "OJOS FERRARI",
-      "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
+      "duration_ms": 147201,
+      "name": "Funk Rave",
+      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
     },
     {
       "added_at": "2023-11-28 17:39:43",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-11-28 17:39:43",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2023-11-28 17:39:43",
-      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
+    },
+    {
+      "added_at": "2023-11-28 17:39:43",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
       "added_at": "2023-11-28 17:39:43",

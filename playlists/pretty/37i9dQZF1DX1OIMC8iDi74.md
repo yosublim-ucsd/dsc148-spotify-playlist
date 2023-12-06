@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Boombox Cartel & FrostTop
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,718 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,771 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 32 | [Arena](https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO) | 3:26 |
 | 33 | [Neck And Neck \- DNMO Remix](https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Northern Lights \(Remixes\)](https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe) | 3:02 |
 | 34 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 |
-| 35 | [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 |
-| 36 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
-| 37 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
+| 35 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
+| 36 | [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 |
+| 37 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 | 38 | [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 |
 | 39 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 |
 | 40 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 96 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 |
 | 97 | [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 |
 | 98 | [Love Hotel](https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN) | [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Love Hotel](https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl) | 3:23 |
-| 99 | [LOUD](https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb) | [LOUD](https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK) | 2:45 |
-| 100 | [Wide Awake](https://open.spotify.com/track/0Oe5QO7zwMWKkGhgr5vIEz) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Wide Awake](https://open.spotify.com/album/3eE3Yr8OLOnjAdmTPUkekm) | 3:15 |
+| 99 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
+| 100 | [LOUD](https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb) | [LOUD](https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK) | 2:45 |
 
-Snapshot ID: `MCw0NDMyYWM4MGQ4MzBhODU5NWE3MzcyMTI3NDJlNWQxNWU5YWIwYTBi`
+Snapshot ID: `MCw2YzYwMmY5OTM1NGU2ZjM2YjM3YTMzOWFiZTFjNTg2Y2FiMDY0Mjgy`

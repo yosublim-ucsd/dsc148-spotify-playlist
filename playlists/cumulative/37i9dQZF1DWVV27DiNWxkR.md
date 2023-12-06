@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-356 songs - 1 day 0 hr 4 min
+357 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Romance \- Edit](https://open.spotify.com/track/3C4ELBpjDw4fXVJIvOvZwF) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Romance](https://open.spotify.com/album/5fu3xT9sOh2CeOeCgDOD2X) | 4:04 | 2019-09-29\* | 2020-11-17 |
 | [Rose Petals](https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 3:33 | 2019-09-29\* | 2022-05-21 |
 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 | 2021-07-23 |  |
+| [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-05 |  |
 | [Runaway](https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 4:08 | 2021-04-02 | 2022-08-27 |
 | [Sad Girl](https://open.spotify.com/track/5jULuJettXzlqIxKnrvxgi) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Sad Girl](https://open.spotify.com/album/0ZO7XpGugFXslg2rshL81Y) | 3:53 | 2021-01-14 | 2022-08-27 |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2020-05-01 | 2022-07-29 |

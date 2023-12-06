@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: HARDY",
-  "num_followers": 456737,
+  "num_followers": 456785,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTlkMzNhN2IzOTIzZThiNWE1OTA4M2VhZTg4ZmVjM2FiYmQ5N2Qy",
+  "snapshot_id": "MCw2ZjY3OThjM2IyNjAxYzg0MDllYzZjNjc1NTZlMmE2MWQ0MTE1NmI1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "But I Got A Beer In My Hand",
-        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
+        "name": "Teenage Dixie",
+        "url": "https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
         }
       ],
-      "duration_ms": 176426,
-      "name": "But I Got A Beer In My Hand",
-      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+      "duration_ms": 167266,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Teenage Dixie",
-        "url": "https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY"
+        "name": "But I Got A Beer In My Hand",
+        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
       },
       "artists": [
         {
-          "name": "Muscadine Bloodline",
-          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Me On You",
-      "url": "https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN"
+      "duration_ms": 176426,
+      "name": "But I Got A Beer In My Hand",
+      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Whiskey Drink",
+      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Giddy Up!",
         "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 167760,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Highway Desperado",
-        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Whiskey Drink",
-      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Take Me Out",
-        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Good Ol' Days",
         "url": "https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 166622,
       "name": "Good Ol' Days",
       "url": "https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Take Me Out",
+        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "You Got The Wrong Guy",
-        "url": "https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 180615,
-      "name": "You Got The Wrong Guy",
-      "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "If You Show Me Yours",
         "url": "https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 226666,
       "name": "If You Show Me Yours",
       "url": "https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "You Got The Wrong Guy",
+        "url": "https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 180615,
+      "name": "You Got The Wrong Guy",
+      "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Singing In A Beer",
+        "url": "https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "duration_ms": 172910,
+      "name": "Singing In A Beer",
+      "url": "https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Take Me Backroad (feat. High Valley)",
         "url": "https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 193133,
       "name": "Take Me Backroad (feat. High Valley)",
       "url": "https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Singing In A Beer",
-        "url": "https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5"
-      },
-      "artists": [
-        {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
-        }
-      ],
-      "duration_ms": 172910,
-      "name": "Singing In A Beer",
-      "url": "https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Queen Of Me (Royal Edition Extended Version)",
-        "url": "https://open.spotify.com/album/2pymQjoyFaQuoGL1oOZeD9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 160290,
-      "name": "On Three",
-      "url": "https://open.spotify.com/track/7qAXZbesT1QwNJa5YYUjR5"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Do This Life",
         "url": "https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 182706,
       "name": "Do This Life",
       "url": "https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Queen Of Me (Royal Edition Extended Version)",
+        "url": "https://open.spotify.com/album/2pymQjoyFaQuoGL1oOZeD9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 160290,
+      "name": "On Three",
+      "url": "https://open.spotify.com/track/7qAXZbesT1QwNJa5YYUjR5"
     },
     {
       "added_at": "2023-12-01 05:00:00",

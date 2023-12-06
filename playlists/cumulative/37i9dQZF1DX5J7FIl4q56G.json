@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 355221,
       "name": "Ad Infernum",
       "url": "https://open.spotify.com/track/1OvyyYbZZjbbFBs9AS6ijP"
@@ -21322,6 +21322,24 @@
       "duration_ms": 229159,
       "name": "Delusions Of Mortality",
       "url": "https://open.spotify.com/track/2mH4PnhKYZ6YOyxBzZ1y6J"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/7ACxLfrkh5ADpD0Xwry40J"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194656,
+      "name": "Demigod",
+      "url": "https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow"
     },
     {
       "album": {
@@ -68390,6 +68408,24 @@
       "duration_ms": 150880,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/6mOmeSIqH8e5oMu4z4dg0m"
+    },
+    {
+      "album": {
+        "name": "Rodent",
+        "url": "https://open.spotify.com/album/6yV3LE8RLvpVmYYfWKRwJ7"
+      },
+      "artists": [
+        {
+          "name": "Verona on Venus",
+          "url": "https://open.spotify.com/artist/375AHSKPxfGjbQySaTa2VW"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254199,
+      "name": "Rodent",
+      "url": "https://open.spotify.com/track/7tMNOySqYpwyWQarUZo72r"
     },
     {
       "album": {

@@ -1729,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Hal Jarhi",
+        "url": "https://open.spotify.com/album/4ZUeA6F2MoE38fhmXcWm0V"
+      },
+      "artists": [
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269375,
+      "name": "Hal Jarhi",
+      "url": "https://open.spotify.com/track/6BB2PW7vUYR0I9Yz9xwSK8"
+    },
+    {
+      "album": {
         "name": "Hala Bek",
         "url": "https://open.spotify.com/album/5jx0W4QtPWYZrJOKCaq76F"
       },
@@ -2937,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "Rdy",
+        "url": "https://open.spotify.com/album/0IoOphEIvuBQxelbffR5Jc"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270118,
+      "name": "Rdy",
+      "url": "https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp"
+    },
+    {
+      "album": {
         "name": "Redo Alsalam",
         "url": "https://open.spotify.com/album/2ONlOnlJ51lPGEg0jpB5dV"
       },
@@ -3176,7 +3212,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 375833,
       "name": "Shabeah Rouhi",
       "url": "https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE"
@@ -3230,7 +3266,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 229200,
       "name": "Shof Galbi",
       "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"

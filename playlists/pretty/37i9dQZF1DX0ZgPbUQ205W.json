@@ -1,12 +1,12 @@
 {
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
-  "num_followers": 83075,
+  "num_followers": 83109,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2VlNDcwMzU2YWJiMzc1MGQ5NjM2YTBhMGFlZTAzNzc0ZGZmZDRj",
+  "snapshot_id": "MCxhOWNkYzdiNmE4OWI2MGJhZjE5N2VlOTUxYjZkNTFhNTY2OWU0YzA2",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Candles on the Moon",
-        "url": "https://open.spotify.com/album/0KtqPp4quy5rDlMfWnRIjL"
-      },
-      "artists": [
-        {
-          "name": "Prism Trio",
-          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
-        }
-      ],
-      "duration_ms": 163570,
-      "name": "Across the Ocean",
-      "url": "https://open.spotify.com/track/3uAk1bGnkgBOybte47PUm1"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 151542,
       "name": "Still",
       "url": "https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Candles on the Moon",
+        "url": "https://open.spotify.com/album/0KtqPp4quy5rDlMfWnRIjL"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "duration_ms": 163570,
+      "name": "Across the Ocean",
+      "url": "https://open.spotify.com/track/3uAk1bGnkgBOybte47PUm1"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Merry Monday",
-        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
-      },
-      "artists": [
-        {
-          "name": "Lennie Weston",
-          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Merry Monday",
-      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Obliqua",
         "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 186664,
       "name": "Caerulea",
       "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Merry Monday",
+        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Merry Monday",
+      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Please, Stay",
-        "url": "https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK"
-      },
-      "artists": [
-        {
-          "name": "Hviid Larsen",
-          "url": "https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO"
-        }
-      ],
-      "duration_ms": 188875,
-      "name": "Please, Stay",
-      "url": "https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Nublu",
         "url": "https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 233865,
       "name": "Nublu",
       "url": "https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Please, Stay",
+        "url": "https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK"
+      },
+      "artists": [
+        {
+          "name": "Hviid Larsen",
+          "url": "https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO"
+        }
+      ],
+      "duration_ms": 188875,
+      "name": "Please, Stay",
+      "url": "https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Ripples of a Stream",
-        "url": "https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3"
-      },
-      "artists": [
-        {
-          "name": "Turning Trio",
-          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "Ripples of a Stream",
-      "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "chemin de la lune",
         "url": "https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 219273,
       "name": "chemin de la lune",
       "url": "https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Ripples of a Stream",
+        "url": "https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3"
+      },
+      "artists": [
+        {
+          "name": "Turning Trio",
+          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "Ripples of a Stream",
+      "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Flow of Your Way",
-        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
-      },
-      "artists": [
-        {
-          "name": "Lachlan Wright Trio",
-          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
-        }
-      ],
-      "duration_ms": 206784,
-      "name": "The Flow of Your Way",
-      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Romancing",
         "url": "https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 175744,
       "name": "Romancing",
       "url": "https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "The Flow of Your Way",
+        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
+      },
+      "artists": [
+        {
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
+        }
+      ],
+      "duration_ms": 206784,
+      "name": "The Flow of Your Way",
+      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Nightcaps",
-        "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 183757,
-      "name": "Always a Lady",
-      "url": "https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Clear Sight",
         "url": "https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 167113,
       "name": "Clear Sight",
       "url": "https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Nightcaps",
+        "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 183757,
+      "name": "Always a Lady",
+      "url": "https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR"
-      },
-      "artists": [
-        {
-          "name": "Tiril Brandt",
-          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
-        }
-      ],
-      "duration_ms": 242399,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Honey, You Are My Everything",
         "url": "https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Looking Forward",
-        "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR"
       },
       "artists": [
         {
-          "name": "Steve Luke & Holloway",
-          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
         }
       ],
-      "duration_ms": 191874,
-      "name": "Looking Forward",
-      "url": "https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp"
+      "duration_ms": 242399,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -951,6 +935,22 @@
       "duration_ms": 164616,
       "name": "First Call",
       "url": "https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Looking Forward",
+        "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 191874,
+      "name": "Looking Forward",
+      "url": "https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Lonely Dreams",
-        "url": "https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma Trio",
-          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
-        }
-      ],
-      "duration_ms": 217238,
-      "name": "Lonely Dreams",
-      "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "The End is the Beginning",
         "url": "https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 194245,
       "name": "You're Good to Me",
       "url": "https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Lonely Dreams",
+        "url": "https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "duration_ms": 217238,
+      "name": "Lonely Dreams",
+      "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Vilan",
+        "url": "https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 174874,
+      "name": "Vilan",
+      "url": "https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Mysterious Stranger",
         "url": "https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Vilan",
-        "url": "https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g"
+        "name": "Withered Flowers",
+        "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
       },
       "artists": [
         {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
         }
       ],
-      "duration_ms": 174874,
-      "name": "Vilan",
-      "url": "https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW"
+      "duration_ms": 233000,
+      "name": "Withered Flowers",
+      "url": "https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 226353,
       "name": "Fading Lights",
       "url": "https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Withered Flowers",
-        "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Withered Flowers",
-      "url": "https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Where is Jack?",
-        "url": "https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S"
-      },
-      "artists": [
-        {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
-        }
-      ],
-      "duration_ms": 215231,
-      "name": "Where is Jack?",
-      "url": "https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "The Reasons That I Love You",
         "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 280938,
       "name": "The Reasons That I Love You",
       "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Where is Jack?",
+        "url": "https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "duration_ms": 215231,
+      "name": "Where is Jack?",
+      "url": "https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Min B\u00e4sta V\u00e4n",
-        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
-      },
-      "artists": [
-        {
-          "name": "Bergsundet",
-          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Min B\u00e4sta V\u00e4n",
-      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
         "url": "https://open.spotify.com/album/6NUxtWDXrctrTv06UTWx9L"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 352493,
       "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
       "url": "https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Min B\u00e4sta V\u00e4n",
+        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
+      },
+      "artists": [
+        {
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Min B\u00e4sta V\u00e4n",
+      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "\u00c1n tillits",
-        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
-      },
-      "artists": [
-        {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        }
-      ],
-      "duration_ms": 152234,
-      "name": "M\u00f3gr\u00e1",
-      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Times Revisited",
         "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
       },
@@ -2279,6 +2259,26 @@
       "duration_ms": 269634,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/0TUwZjN2G4WA8HBwuGNC6J"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "\u00c1n tillits",
+        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
+      },
+      "artists": [
+        {
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 152234,
+      "name": "M\u00f3gr\u00e1",
+      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "End of Summer",
-        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 423680,
-      "name": "Reminiscence",
-      "url": "https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 278680,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "End of Summer",
+        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 423680,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2435,6 +2435,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Dialect",
+        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
+      },
+      "artists": [
+        {
+          "name": "Claire Cross",
+          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
+        },
+        {
+          "name": "Harry Cook",
+          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
+        }
+      ],
+      "duration_ms": 222858,
+      "name": "Road to Eden",
+      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Extended Circle",
         "url": "https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ"
       },
@@ -2471,26 +2491,6 @@
       "duration_ms": 191040,
       "name": "Doubt Thou the Stars",
       "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Dialect",
-        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
-      },
-      "artists": [
-        {
-          "name": "Claire Cross",
-          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
-        },
-        {
-          "name": "Harry Cook",
-          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
-        }
-      ],
-      "duration_ms": 222858,
-      "name": "Road to Eden",
-      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2931,22 +2931,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Blue Bird",
-        "url": "https://open.spotify.com/album/23k3ADRVxmy9EbEhmXnUsG"
-      },
-      "artists": [
-        {
-          "name": "Michel Bisceglia",
-          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
-        }
-      ],
-      "duration_ms": 343416,
-      "name": "Dry Water",
-      "url": "https://open.spotify.com/track/3xQH8Wn7AaDIcQlK7itltB"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Winter's End",
         "url": "https://open.spotify.com/album/29HLuD88a9SxVZzoYWNBWB"
       },
@@ -2959,6 +2943,22 @@
       "duration_ms": 167120,
       "name": "Walking In Sand",
       "url": "https://open.spotify.com/track/7rgU8MJnY9aHCgbNo7iYRB"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Blue Bird",
+        "url": "https://open.spotify.com/album/23k3ADRVxmy9EbEhmXnUsG"
+      },
+      "artists": [
+        {
+          "name": "Michel Bisceglia",
+          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
+        }
+      ],
+      "duration_ms": 343416,
+      "name": "Dry Water",
+      "url": "https://open.spotify.com/track/3xQH8Wn7AaDIcQlK7itltB"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Never Ending January",
-        "url": "https://open.spotify.com/album/1VY0hkSejVXZ8VDZkMqmSs"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Never Ending January",
-      "url": "https://open.spotify.com/track/4L10SBstHivQvkGiPu4FHX"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "My Heart Is A Prism",
         "url": "https://open.spotify.com/album/3qakmpWIbDJHI8zXNN3Fkc"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 230992,
       "name": "My Heart Is A Prism",
       "url": "https://open.spotify.com/track/5KdeyyZl1bKXHRrtzNefOi"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Never Ending January",
+        "url": "https://open.spotify.com/album/1VY0hkSejVXZ8VDZkMqmSs"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Never Ending January",
+      "url": "https://open.spotify.com/track/4L10SBstHivQvkGiPu4FHX"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Helsinki Songs",
-        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
-      },
-      "artists": [
-        {
-          "name": "Trygve Seim",
-          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
-        }
-      ],
-      "duration_ms": 358813,
-      "name": "Birthday Song",
-      "url": "https://open.spotify.com/track/6lPxHEHnSSey6zI4bdpe0s"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "One Kiss Too Many",
         "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Helsinki Songs",
+        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
+      },
+      "artists": [
+        {
+          "name": "Trygve Seim",
+          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
+        }
+      ],
+      "duration_ms": 358813,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/6lPxHEHnSSey6zI4bdpe0s"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Wait Till You See Her",
-        "url": "https://open.spotify.com/album/2dm29TGcN40O3pPfNt3uNi"
-      },
-      "artists": [
-        {
-          "name": "John Abercrombie Quartet",
-          "url": "https://open.spotify.com/artist/1bpaoXG09rnpj5OsHvHs2z"
-        }
-      ],
-      "duration_ms": 340906,
-      "name": "Wait Till You See Her",
-      "url": "https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Circuits",
         "url": "https://open.spotify.com/album/5lI3qpMTIWBJxuk5cVVQMw"
       },
@@ -3235,6 +3219,22 @@
       "duration_ms": 250822,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/6AE9COwzDi5jf92AQgGWKE"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Wait Till You See Her",
+        "url": "https://open.spotify.com/album/2dm29TGcN40O3pPfNt3uNi"
+      },
+      "artists": [
+        {
+          "name": "John Abercrombie Quartet",
+          "url": "https://open.spotify.com/artist/1bpaoXG09rnpj5OsHvHs2z"
+        }
+      ],
+      "duration_ms": 340906,
+      "name": "Wait Till You See Her",
+      "url": "https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -3327,22 +3327,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Suite: April 2020",
-        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "VIII. yearning",
-      "url": "https://open.spotify.com/track/2JLAr5J7fP4IsRtx9cLkWN"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Things Unsaid",
         "url": "https://open.spotify.com/album/3jSnz17sXiS9Alj7GcpiLH"
       },
@@ -3359,22 +3343,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Beautiful Skin",
-        "url": "https://open.spotify.com/album/5A30Kh2Yrc2FbxjIBKOavp"
+        "name": "Suite: April 2020",
+        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
       },
       "artists": [
         {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 183701,
-      "name": "Beautiful Skin",
-      "url": "https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO"
+      "duration_ms": 211000,
+      "name": "VIII. yearning",
+      "url": "https://open.spotify.com/track/2JLAr5J7fP4IsRtx9cLkWN"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -3403,6 +3383,26 @@
       "duration_ms": 203013,
       "name": "Silenced Wings",
       "url": "https://open.spotify.com/track/6Jvz580uudC0WWdkJQAe8h"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Beautiful Skin",
+        "url": "https://open.spotify.com/album/5A30Kh2Yrc2FbxjIBKOavp"
+      },
+      "artists": [
+        {
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 183701,
+      "name": "Beautiful Skin",
+      "url": "https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO"
     },
     {
       "added_at": "2023-12-01 00:01:00",

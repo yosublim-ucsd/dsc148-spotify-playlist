@@ -4,7 +4,7 @@
 
 > pov: your Spotify Wrapped says you’re from berkeley, burlington, or cambridge
 
-366 songs - 21 hr 58 min
+367 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 | 2021-12-15 | 2022-01-07 |
 | [Kiss City](https://open.spotify.com/track/4cGypWQnh0A4iAC9qsId7h) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Kiss City](https://open.spotify.com/album/7cmsEgxgZSQeggXZuJHINh) | 2:23 | 2022-07-20 | 2022-07-30 |
 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-11 | 2023-11-26 |
-| [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 | 2022-01-08 |  |
+| [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 | 2022-01-08 | 2023-12-06 |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2022-04-29 | 2022-09-24 |
 | [Landslide](https://open.spotify.com/track/0ZxSPvOEDHlwUvjfKxLdZr) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 3:53 | 2022-01-08 | 2022-04-19 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-06-23 |  |
@@ -273,6 +273,7 @@
 | [Road Head](https://open.spotify.com/track/6WVheb5G29cbDOzF4qMfli) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6AOaqWipm2Zk0oBp0uUey2) | 3:15 | 2022-01-08 | 2022-04-14 |
 | [Rodeo Clown](https://open.spotify.com/track/1km9AsmFeKZpeR4VvPYsJh) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:23 | 2022-02-11 | 2022-02-25 |
 | [Ronnie's Song](https://open.spotify.com/track/6JlpXkpYISoirRTPbXUtdY) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Ronnie's Song](https://open.spotify.com/album/762wgpEIMum1F8bXrmSJWW) | 2:32 | 2022-04-06 | 2023-06-24 |
+| [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-05 |  |
 | [San Francisco](https://open.spotify.com/track/34bHZtb2hS3m4hWM3GukXW) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [San Francisco](https://open.spotify.com/album/0e03p5hyHj39m29ZPFmAsE) | 3:07 | 2022-01-06 | 2022-07-20 |
 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 | 2022-04-29 |  |
 | [Sarah](https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:56 | 2021-12-15 | 2023-04-30 |

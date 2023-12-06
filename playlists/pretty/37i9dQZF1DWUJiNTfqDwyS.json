@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 353903,
+  "num_followers": 354198,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTBjMzZkNDQxOGY3YmVjZjkwMWJjN2M5ZDdiMjFjYjM2Y2I5Y2Nj",
+  "snapshot_id": "MCxjNTExZDgzMDlkNGQ5ZDM1MTY5YTA1NGEzNDNiNDliZTRhOTI2NGQ0",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "The Premonition",
-        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
-      },
-      "artists": [
-        {
-          "name": "Firewind",
-          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 156340,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "The Premonition",
+        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
+      },
+      "artists": [
+        {
+          "name": "Firewind",
+          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
     },
     {
       "added_at": "2023-08-23 14:56:37",

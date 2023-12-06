@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-923 songs - 2 day 4 hr 39 min
+924 songs - 2 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Kayoku](https://open.spotify.com/track/1ZPjVQ4u8j2hq0YmP1faS3) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Kayoku](https://open.spotify.com/album/26xOkQ9XkpM47h4kzEuMbu) | 3:12 | 2022-11-15 | 2023-03-18 |
 | [Kayoku](https://open.spotify.com/track/5UTKodEPN6kf0SO8i4bh5g) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [Connect](https://open.spotify.com/album/62rpeORAQSPiNsiAot0OpD) | 3:13 | 2023-03-16 | 2023-04-05 |
 | [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 | 2023-08-24 |  |
+| [Kind of](https://open.spotify.com/track/40HlZlt8wxkIhd9sMFJ68I) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Kind of](https://open.spotify.com/album/27tShaiDUhC6KeszVy0PSZ) | 3:04 | 2023-12-05 |  |
 | [kitto kawaranai iro](https://open.spotify.com/track/2BWG6OHVB0zuky2mN3SOfn) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [kitto kawaranai iro](https://open.spotify.com/album/5A6H1IuZkDPdEl2bed6nDL) | 3:43 | 2022-06-23 | 2022-07-18 |
 | [Knickknack Kingdom](https://open.spotify.com/track/0ODFEhCNOo6XmAjpJrALAw) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Knickknack Kingdom](https://open.spotify.com/album/5hOcnt10bv1Qmy8sG7YzFn) | 3:00 | 2022-07-07 | 2022-07-27 |
 | [Koe Todoita Hikara](https://open.spotify.com/track/3q6G4DEStAQWFsEnwzNdw9) | [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [Koe Todoita Hikara](https://open.spotify.com/album/5ZNzXtCuL3OxwisiApGPWt) | 4:32 | 2022-08-18 | 2022-08-31 |
@@ -249,7 +250,7 @@
 | [Reason for existence \(Acoustic ver.\)](https://open.spotify.com/track/0I4vcFpiiUQRqhyYUqlKcO) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Reason for existence \(Acoustic ver.\)](https://open.spotify.com/album/0bHlAZ78hbAVqPNQci3KMi) | 4:00 | 2023-11-12 | 2023-11-16 |
 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-06 | 2023-11-28 |
 | [Reincarnation](https://open.spotify.com/track/0sqnyvAzus3puMUcE0C0xa) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Reincarnation](https://open.spotify.com/album/30BWPdioslpPR0mhGt6BlM) | 2:45 | 2023-11-29 |  |
-| [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-17 |  |
+| [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-17 | 2023-12-06 |
 | [Requiem](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 | 2023-04-25 | 2023-11-29 |
 | [RestartSmile](https://open.spotify.com/track/7nn2z9nlUVacYiDDNbkrsi) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [RestartSmile](https://open.spotify.com/album/4Ne4UIGziyFGdReco9fNSi) | 3:28 | 2022-06-16 | 2022-07-12 |
 | [Rise \(feat\. Hatsune Miku\) \- Guiano Vocaloid Remix With Δ](https://open.spotify.com/track/3TaNfmkBp2woaZ7HyEe0jt) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [Rise \(feat\. Hatsune Miku\) \[Guiano Vocaloid Remix With Δ\]](https://open.spotify.com/album/7EbKU7x7HiJDDbAvSw203I) | 3:50 | 2023-07-20 | 2023-08-16 |
@@ -926,7 +927,7 @@
 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-06 | 2023-11-29 |
 | [飛翔](https://open.spotify.com/track/43powmv1nlfJh45XjzlPuq) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [飛翔](https://open.spotify.com/album/07m0ZECtpRNrRO4sPtLKPW) | 3:46 | 2023-08-01 | 2023-08-09 |
 | [飛翔するmeme](https://open.spotify.com/track/2xE7eUMv2Lkb3e0VFVt3f4) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm) | [飛翔するmeme](https://open.spotify.com/album/2QAbZlfehVfHiiuB8bcUvm) | 3:54 | 2022-06-09 | 2022-07-23 |
-| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 |  |
+| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2023-12-06 |
 | [食虫植物](https://open.spotify.com/track/7Lju8n8ye0pu1gS3YHu0ny) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [食虫植物](https://open.spotify.com/album/1ztYjEcNyEOmaqfABKpz2F) | 3:02 | 2022-06-28 | 2022-07-28 |
 | [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-09-29 | 2023-04-04 |
 | [魔崇華麗奴](https://open.spotify.com/track/46G5u4FtuJbfyvkM7fOiAE) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [魔崇華麗奴](https://open.spotify.com/album/2y0BPmfeO2tju6aY35jF7W) | 3:05 | 2023-04-13 | 2023-05-24 |

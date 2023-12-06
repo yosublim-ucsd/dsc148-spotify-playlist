@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277003,
+  "num_followers": 277007,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjU5ZGJhM2QzMTRmY2ZjNTQzODI2ZDQ5Njg4YWYxZDEzMjE1MTRh",
+  "snapshot_id": "MCwyMzhlZmU5OTM4MzA0Njc0ODFiYzUyNGYxOWI4OTEwMzkxYjk4NzRl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Happier (Stripped)",
         "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 250506,
       "name": "Happier - Stripped",
       "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Concrete Angel (acoustic)",
+        "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "duration_ms": 265718,
+      "name": "Concrete Angel (acoustic)",
+      "url": "https://open.spotify.com/track/62sJECqRfQ6P7pkNwfnkaO"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -915,34 +931,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Concrete Angel (acoustic)",
-        "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
       },
       "artists": [
         {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
         }
       ],
-      "duration_ms": 265718,
-      "name": "Concrete Angel (acoustic)",
-      "url": "https://open.spotify.com/track/62sJECqRfQ6P7pkNwfnkaO"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Regardless (Acoustic)",
-        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Regardless - Acoustic",
-      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
+        "name": "Regardless (Acoustic)",
+        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
       },
       "artists": [
         {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
+      "duration_ms": 224053,
+      "name": "Regardless - Acoustic",
+      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Old Friend / Capricorn (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 172756,
-      "name": "Old Friend - Live Acoustic",
-      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
         "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 175990,
       "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
       "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Old Friend / Capricorn (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 172756,
+      "name": "Old Friend - Live Acoustic",
+      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Are You With Me (Remixes)",
-        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Are You with Me - Harold Van Lennep Piano Edit",
-      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Grabbitz - Friends EP",
         "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 61711,
       "name": "7.6.14 (Intro)",
       "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Are You With Me (Remixes)",
+        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Are You with Me - Harold Van Lennep Piano Edit",
+      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-10-06 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 651132,
+  "num_followers": 651190,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWQwNzE1OGFlZWZlMGI0NjFlYWRjMzAzYWNkNTI3MjNkNzVjNzYx",
+  "snapshot_id": "MCwyOThjY2Q4NzNiNDJhMGJlZTNiYmQyYWNlYTQzNTA5OWU2M2Y4NDhk",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -271,22 +271,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Talk To Me (feat. Lzzy Hale)",
-        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 208021,
-      "name": "Talk To Me (feat. Lzzy Hale)",
-      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -311,18 +307,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+        "name": "Talk To Me (feat. Lzzy Hale)",
+        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
         }
       ],
-      "duration_ms": 215362,
-      "name": "Rotoscope",
-      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
+      "duration_ms": 208021,
+      "name": "Talk To Me (feat. Lzzy Hale)",
+      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "We Bring You the Stars",
-        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "We Bring You the Stars",
-      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 148500,
       "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "We Bring You the Stars",
+        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "We Bring You the Stars",
+      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "life's a bitch... but it gets better",
         "url": "https://open.spotify.com/album/2bRpk2HmQS7y9SEyKnybUq"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 129920,
       "name": "not my problem",
       "url": "https://open.spotify.com/track/4FYk0LZ86J7DYUEBcs7e3G"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Bang Ya Head",
-        "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
       "artists": [
         {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 216280,
-      "name": "Bang Ya Head (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -791,18 +787,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+        "name": "Bang Ya Head",
+        "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
       },
       "artists": [
         {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
         }
       ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+      "duration_ms": 216280,
+      "name": "Bang Ya Head (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 270226,
       "name": "And So It Went [Feat. Tom Morello]",
       "url": "https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Sad Girl Mixtape",
-        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 155342,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 262062,
       "name": "The Game Is Over",
       "url": "https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 155342,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "METAL KINGDOM",
         "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 259549,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Yeah Right",
-      "url": "https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er"
     }
   ],
   "unique_name": "Heavy Queens",

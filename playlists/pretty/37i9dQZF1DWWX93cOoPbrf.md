@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Enigma Norteño en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,220 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,452 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 20 | [La Barbie](https://open.spotify.com/track/6k3ng0apceyq91moCbqLnw) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [La Barbie](https://open.spotify.com/album/7DCK7oS1ZxuYsW49l1vb9w) | 3:18 |
 | 21 | [La Solución](https://open.spotify.com/track/7bP9j03GToxQBxQCqxk2Od) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro](https://open.spotify.com/album/5Qj50rqzTCvfmoXoUhi7HN) | 2:30 |
 | 22 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 |
-| 23 | [Señores de Alto Grado](https://open.spotify.com/track/0aEX77IxJBmeWNBj3FV4Oi) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 2:40 |
+| 23 | [Señores de Alto Grado](https://open.spotify.com/track/2CFH3Ob6xALoL7TxURtQKz) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 2:40 |
 | 24 | [Urus, Rolex Y Respeto](https://open.spotify.com/track/6TPwOoskk5Qvd3H54AbdAX) | [Otro Nivel](https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Urus, Rolex Y Respeto](https://open.spotify.com/album/4DaNd0WWBogKRgKVE8ZJr4) | 3:54 |
 | 25 | [El Cinco De Las Cuatro](https://open.spotify.com/track/1TUszLjyHqWjruuOMOv0ro) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Cinco De Las Cuatro](https://open.spotify.com/album/6aIKbjrdIynZPF4nKRgwSI) | 3:01 |
 | 26 | [La Misma Bandera](https://open.spotify.com/track/6YXIE2hwDP2FMZpvHGTQFB) | [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG), [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ) | [La Misma Bandera](https://open.spotify.com/album/0N1vpOeE3V72u7Euvx9p9n) | 2:37 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 48 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
 | 49 | [El Guero Reyna](https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Al Gusto de Uno](https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg) | 2:54 |
 | 50 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 |
-| 51 | [El Exitoso](https://open.spotify.com/track/2nbZDGc8nrRk7pUtuuPBsU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 3:42 |
+| 51 | [El Exitoso](https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 3:42 |
 | 52 | [Chica La Bola](https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Chica La Bola](https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ) | 2:53 |
 | 53 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 | 54 | [Desde Topo Hasta La Sierra](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 | 75 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 
-Snapshot ID: `MCwxMTAwNDVkNGYzOTEwYjJiNzhmZDc2NTQ3Zjc2YWM2MzQ0YjEyZTRi`
+Snapshot ID: `MCxhOGRmYTZjZTRkZGM2OTM4MmJkMmFlOTRjMDhkYjNlZGUxMDEwYzc0`

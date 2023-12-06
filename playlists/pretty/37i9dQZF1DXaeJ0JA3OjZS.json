@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 79525,
+  "num_followers": 79719,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmU5NDA1ODc4YjcyYTJlZGM1ODQ0NWFlNjAyMTAwM2M0NjkzNDBl",
+  "snapshot_id": "MCxiYjQ3MTQzM2IwMTc3ZDdkOGIzZTliMTY2ZGRhMjNiMzVkNTljNDMx",
   "tracks": [
     {
       "added_at": "2023-12-01 06:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "El Golden Boy",
-        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "El Golden Boy",
-      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 276760,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "El Texano y el Machete",
+      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
         "name": "Corridos Finos III",
         "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "El Puente Roto",
-        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Caballos de la Cordada",
-      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Puros Corridos",
         "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
+        "name": "El Puente Roto",
+        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Caballos de la Cordada",
+      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
         "name": "Mi Potrillo",
         "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 210800,
       "name": "Mi Potrillo",
       "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "El Texano y el Machete",
-      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
     },
     {
       "added_at": "2023-12-01 06:00:00",

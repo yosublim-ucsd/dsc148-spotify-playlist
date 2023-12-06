@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 187325,
       "name": "Biri-Biri",
       "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 196175,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1e3mXhGDxuntmvO1sVACT2"
@@ -4221,6 +4221,28 @@
     },
     {
       "album": {
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -4854,6 +4876,24 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
+    },
+    {
+      "album": {
+        "name": "Question",
+        "url": "https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171695,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus"
     },
     {
       "album": {
@@ -5868,7 +5908,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
@@ -7270,6 +7310,24 @@
       "duration_ms": 251200,
       "name": "\u304b\u307e\u3078\u3093",
       "url": "https://open.spotify.com/track/4NfeLplLIUwLuIOONnnm9c"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "album": {

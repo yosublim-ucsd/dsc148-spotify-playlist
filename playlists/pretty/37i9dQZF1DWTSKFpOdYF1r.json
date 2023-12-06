@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 943038,
+  "num_followers": 943299,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjMxZWY5ODhmOTA2ZjQ1MjI1ZTAzODQwN2U5YjFiYTA0ZmM2ZDhm",
+  "snapshot_id": "MCxlYzhlNWFjOGM1NGVjZGMwYWJjYTQxMzFmNWMyOTc1ODhlZWJjNjk1",
   "tracks": [
     {
       "added_at": "2022-11-17 20:08:09",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
         "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 212000,
       "name": "Just like Heaven",
       "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Tom Tom Club",
-        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Voices Carry (Expanded Edition)",
         "url": "https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 263573,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Gigantic - Remastered",
-      "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Gigantic - Remastered",
+      "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "She Bop",
-      "url": "https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "Psychocandy",
         "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 181746,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "She Bop",
+      "url": "https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF"
     },
     {
       "added_at": "2022-11-17 20:08:09",

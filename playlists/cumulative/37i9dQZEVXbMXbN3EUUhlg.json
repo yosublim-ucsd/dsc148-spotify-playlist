@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 190100,
       "name": "Agudo M\u00e1gico 4",
       "url": "https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 262258,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 174306,
       "name": "Ciclone",
       "url": "https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D"
@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 196988,
       "name": "Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
@@ -5580,6 +5580,32 @@
       "duration_ms": 202826,
       "name": "enough for you",
       "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
+    },
+    {
+      "album": {
+        "name": "Ent\u00e3o Vai",
+        "url": "https://open.spotify.com/album/2VPfQfeiqWlqnS3ZXkIZox"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163435,
+      "name": "Ent\u00e3o Vai",
+      "url": "https://open.spotify.com/track/5v1Fjk1RDKGqxwNOzGDewL"
     },
     {
       "album": {
@@ -6732,7 +6758,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/4ldcxPVAtih8alepJTu8Hx"
@@ -6874,7 +6900,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 510697,
       "name": "Fernando de Noronha",
       "url": "https://open.spotify.com/track/62W2f0QOg20ufNjJQHqnkq"
@@ -9184,7 +9210,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 163833,
       "name": "Love Gostosinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
@@ -10622,7 +10648,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 207343,
       "name": "MOLETOM",
       "url": "https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ"
@@ -10902,7 +10928,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 190293,
       "name": "MULHER SEGURA - Ao Vivo",
       "url": "https://open.spotify.com/track/6S44vghJxOzBM2dwG10KBR"
@@ -12032,7 +12058,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -12806,7 +12832,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
@@ -12926,7 +12952,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 152085,
       "name": "Pirulito Vermelho",
       "url": "https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ"
@@ -13614,7 +13640,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 178547,
       "name": "P\u00e1tio do Posto - Ao Vivo",
       "url": "https://open.spotify.com/track/4uLzGOlqSanpNS3htaUViY"

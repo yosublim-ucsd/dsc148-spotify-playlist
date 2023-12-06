@@ -4,7 +4,7 @@
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-104 songs - 5 hr 51 min
+105 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 | 2022-03-18 |  |
 | [A Fistful O' Roses](https://open.spotify.com/track/0luBzUkwlfRGQKfUwDVwVe) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [A Fistful O' Roses](https://open.spotify.com/album/54ildx6MHioyvqGTAFASOe) | 4:52 | 2022-03-18 | 2022-07-29 |
 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 | 2022-03-18 |  |
-| [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 | 2022-03-18 |  |
+| [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 | 2022-03-18 | 2023-12-06 |
 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 | 2022-03-18 |  |
 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 | 2022-03-18 |  |
 | [Bullhead](https://open.spotify.com/track/1Fa7HO1JHC20Fcv0wTTDTQ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Bullhead](https://open.spotify.com/album/4e4gqnGXeLQIpccdoN95kE) | 2:39 | 2022-03-18 | 2022-07-29 |
@@ -101,6 +101,7 @@
 | [The Tempest](https://open.spotify.com/track/4Pi1gat00bwbi84xENZabP) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [WestWinds](https://open.spotify.com/album/0Piq7ZTmthM6KOlu3VUCTR) | 4:07 | 2022-03-18 | 2022-07-29 |
 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 | 2022-03-18 |  |
 | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/album/3OFS3PgFrKOz3cKfQ4S8Vx) | 4:13 | 2022-03-18 | 2023-05-19 |
+| [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/4mydnwj57bTdkUKqvxg9b4) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Anthem](https://open.spotify.com/album/24VDA7uDpJNooCG6L7WTug) | 4:13 | 2022-03-18 |  |
 | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/7IOrBMvRcXDg7cbYN925xk) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Anthem](https://open.spotify.com/album/24bp5VFAICVJ2ZXRuDUCJP) | 4:13 | 2022-03-18 | 2023-11-06 |
 | [This Is Our Day](https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ) | 3:23 | 2022-03-18 |  |
 | [This Is Our Day](https://open.spotify.com/track/7cvkeq1Pjnbryp9gEXNggb) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/2AZk5BiFgrZT8w2NbcZhPK) | 3:23 | 2022-03-18 | 2022-07-29 |

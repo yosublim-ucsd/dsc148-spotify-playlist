@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,037 likes - 58 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,117 likes - 58 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 16 | [Ntozabantu](https://open.spotify.com/track/1d6f5DF7ze4mUtvTYDP0ku) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Dream](https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK) | 5:09 |
 | 17 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 |
 | 18 | [Waar Was Jy?](https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Waar Was Jy?](https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7) | 3:49 |
-| 19 | [Intwenjani](https://open.spotify.com/track/0eotNIGKUHo9XGsUlToDIh) | [Mawillies](https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N) | [Intwenjani](https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli) | 5:33 |
+| 19 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
 | 20 | [Fohloza](https://open.spotify.com/track/3bJ1H9XkqkKjXEeidp9Qm4) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Mapantsula](https://open.spotify.com/album/14x1u7Nyu6nlhKFxeAUcyc) | 7:03 |
-| 21 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
+| 21 | [Intwenjani](https://open.spotify.com/track/0eotNIGKUHo9XGsUlToDIh) | [Mawillies](https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N) | [Intwenjani](https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli) | 5:33 |
 | 22 | [Ngeke Balunge](https://open.spotify.com/track/5xJG9LXQhnGbXbYOjetyht) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi), [Teargas](https://open.spotify.com/artist/6ffbZWFEp3uVx8w46WlNvD), [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG), [Brickz](https://open.spotify.com/artist/0xg74fIMwGk17TIvf422xZ), [Skhokho](https://open.spotify.com/artist/4ack50GWpOabzl8e2mH05Z), [Madluphuthu](https://open.spotify.com/artist/0RbbfEN7Q3ahYF9Kwkz4cd) | [The King Don Father 2.5](https://open.spotify.com/album/05kvjBR6DLNVKqmxeGfCny) | 6:52 |
 | 23 | [Izinja Zam](https://open.spotify.com/track/13kgXxmYBhTx8sG2fhlLLG) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz 2001](https://open.spotify.com/album/7d1lS59Y8vA3hW3u8ir9RV) | 4:25 |
 | 24 | [Chomi Yabana](https://open.spotify.com/track/3P51N4sDSQAgqmZxXJ5XpW) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [24 Seven](https://open.spotify.com/album/6jsx7AJpZo4VqKVD0PlvHU) | 5:17 |
@@ -54,17 +54,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 44 | [Tornado Part 1](https://open.spotify.com/track/21xIGXNksYlM9FBDFQC18y) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Tornado](https://open.spotify.com/album/4MLRGUuN0sDl7bjeYj3KVa) | 5:37 |
 | 45 | [Ghets Ghetsa](https://open.spotify.com/track/11Uc9JBy59hJNB99TyC9pJ) | [Doc Shebeleza](https://open.spotify.com/artist/4FdeMdW9yGUe580u1pK0DB) | [S'kumfete](https://open.spotify.com/album/1GgqdXa6jVVVGj9Hui743C) | 5:47 |
 | 46 | [Lost 'N Found](https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Lost 'N Found](https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys) | 5:03 |
-| 47 | [O Kae Molao](https://open.spotify.com/track/7IU36yYPpn00PDfCmgyPzt) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King of Kwaito Uyagawula](https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS) | 4:32 |
-| 48 | [Iphindlela](https://open.spotify.com/track/74HMKhYjNgCBRBShSVFJBD) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [The Concerto](https://open.spotify.com/album/2FHJZ05xyERSOkHDsmAYPT) | 4:51 |
+| 47 | [Iphindlela](https://open.spotify.com/track/74HMKhYjNgCBRBShSVFJBD) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [The Concerto](https://open.spotify.com/album/2FHJZ05xyERSOkHDsmAYPT) | 4:51 |
+| 48 | [O Kae Molao](https://open.spotify.com/track/7IU36yYPpn00PDfCmgyPzt) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King of Kwaito Uyagawula](https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS) | 4:32 |
 | 49 | [Tsodiyo](https://open.spotify.com/track/3oSbA5i516ghSq9KEwfRAW) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Incomplete Without](https://open.spotify.com/album/1ukKAGgF6cLMJ1v0HTFUuM) | 3:50 |
 | 50 | [Ibuhlungu](https://open.spotify.com/track/2SMayfL8qCOPA98aKdDTjN) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's Our Game \(no need to claim\)](https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt) | 4:54 |
 | 51 | [Girls \- House Mix](https://open.spotify.com/track/643NMYHAgwj8EUm60lAdBy) | [Aba Shante](https://open.spotify.com/artist/1QzbZCzJIHfCrUZCkhfn0n) | [Girls](https://open.spotify.com/album/5yuAUEG0eeQeW3uMUHnKTd) | 5:56 |
 | 52 | [Skangkgata](https://open.spotify.com/track/1IySzC0vuHqXITiwa5reMf) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Tempy Life](https://open.spotify.com/album/4TcdlZ58Tfqi1vWfIFqe1w) | 4:24 |
-| 53 | [Traffic Cop](https://open.spotify.com/track/2W4OnQi6OjNeuSH91Y84WJ) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Traffic Cop](https://open.spotify.com/album/3kbCt8sjjreUDsj58En0MH) | 5:22 |
-| 54 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 |
+| 53 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 |
+| 54 | [Traffic Cop](https://open.spotify.com/track/2W4OnQi6OjNeuSH91Y84WJ) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Traffic Cop](https://open.spotify.com/album/3kbCt8sjjreUDsj58En0MH) | 5:22 |
 | 55 | [Jakarumba Kwa! Kwa! Kwa!](https://open.spotify.com/track/6ykFit7VtAKyNDXUNi8spe) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs) | 6:22 |
 | 56 | [Hey Kop](https://open.spotify.com/track/1VQsFRvJde95Wtkp3rk4yf) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:29 |
 | 57 | [M'du Or Die \(U Leave Once\)](https://open.spotify.com/track/3HeRoFFma480WyN7hHgm91) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:53 |
 | 58 | [Ratlala](https://open.spotify.com/track/0TRVmZwsu14poorzV522Uy) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:59 |
 
-Snapshot ID: `MCwzY2U3ZGJjMGYzMmU3NjI1NjcwYmY3NjNmNmUwY2ZjYWIzNTU2ZGUy`
+Snapshot ID: `MCxjZTA1M2ZiYzg4ZDQzYjJlODQ5MTc1Mjk3OTlkZGRhZWM2NDM5ZDQ1`

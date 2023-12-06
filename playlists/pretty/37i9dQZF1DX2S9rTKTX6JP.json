@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665389,
+  "num_followers": 665425,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2U5N2UzMzk1YTljZDAzZWY3OTUyNTUwNmI3ZGZjY2M1NDE0NTI1",
+  "snapshot_id": "MCxmM2EwY2M3NTdhZjMyN2M4YTliYTBkOWIxM2JiY2Y2OGY3ZjI3ZGU1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Bad Guy",
-        "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 157831,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Running Up That Hill",
         "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 263716,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 157831,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Life's Been Good",
-        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 252355,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Life's Been Good",
+        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "eMOTIVe",
         "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
       },
       "artists": [
         {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 262906,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "You're Living All Over Me",
         "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Live & Inspired",
+        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Decade II: Rock & Acoustic",
         "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 204653,
       "name": "Royals",
       "url": "https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Live & Inspired",
-        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "At Night We Live",
         "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 262746,
       "name": "Pony",
       "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
-        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Dirt Soundtrack",
         "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 188133,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+      },
+      "artists": [
+        {
+          "name": "The Polyphonic Spree",
+          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
@@ -2259,18 +2275,34 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
       },
       "artists": [
         {
-          "name": "The Polyphonic Spree",
-          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+          "name": "Toothgrinder",
+          "url": "https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP"
         }
       ],
-      "duration_ms": 323666,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+      "duration_ms": 275146,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Chain (from Gears 5)",
+        "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 252170,
+      "name": "The Chain (from Gears 5)",
+      "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2307,22 +2339,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Chain (from Gears 5)",
-        "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 252170,
-      "name": "The Chain (from Gears 5)",
-      "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2335,6 +2351,38 @@
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "One Step Closer \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "One Step Closer \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2363,22 +2411,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Crawling",
         "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
       },
@@ -2391,38 +2423,6 @@
       "duration_ms": 212240,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "One Step Closer \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "One Step Closer \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Chain",
-        "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
-      },
-      "artists": [
-        {
-          "name": "Toothgrinder",
-          "url": "https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
     },
     {
       "added_at": "2023-11-17 05:00:00",

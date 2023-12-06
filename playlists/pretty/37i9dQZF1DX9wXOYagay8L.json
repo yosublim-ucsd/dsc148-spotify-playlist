@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=ZcnGNbUxQlyrFIYIhVZLCw\">Lwah Ndlunkulu</a>",
-  "num_followers": 126180,
+  "num_followers": 126519,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTRmMzJkZDNmYzNmZjBhMjkzNmQxOTFjY2Y0YWU1YTUxZDljYWNj",
+  "snapshot_id": "MCwxNTk0N2Q4Zjg2ZmVmNTVhODkyY2Q5M2JiM2E1MjI3OGY4MTg1MzQz",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -370,6 +370,10 @@
         {
           "name": "Blaq Diamond",
           "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        },
+        {
+          "name": "Dj Radix",
+          "url": "https://open.spotify.com/artist/1e1wEtfkiETX9bghMZnU4x"
         }
       ],
       "duration_ms": 332434,

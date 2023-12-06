@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 41263,
+  "num_followers": 41275,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg4MzVjYmEyMjNlMTk5NGY0NzNlMzhjMGVmZDM5Zjc1MDRkNzAx",
+  "snapshot_id": "MCxjNjY3NDU3YzMyMzgyYWQzNTJmYzRmYjkwNmFiMDJkYjljOTEzYTQ2",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
-        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
-      },
-      "artists": [
-        {
-          "name": "Black Czar",
-          "url": "https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Bamboo Dance",
-      "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "The Calypso Way",
         "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 187573,
       "name": "Poor but Ambitious",
       "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
+        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
+      },
+      "artists": [
+        {
+          "name": "Black Czar",
+          "url": "https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Bamboo Dance",
+      "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.3",
-        "url": "https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL"
-      },
-      "artists": [
-        {
-          "name": "The Executor",
-          "url": "https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur"
-        }
-      ],
-      "duration_ms": 185835,
-      "name": "My Reply to Houdini",
-      "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s",
         "url": "https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 177200,
       "name": "Mr. Nankivell's Speech",
       "url": "https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.3",
+        "url": "https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL"
+      },
+      "artists": [
+        {
+          "name": "The Executor",
+          "url": "https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur"
+        }
+      ],
+      "duration_ms": 185835,
+      "name": "My Reply to Houdini",
+      "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
     },
     {
       "added_at": "2021-04-23 15:05:50",

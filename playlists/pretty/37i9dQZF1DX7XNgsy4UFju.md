@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best in indie\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,805 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,814 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 83 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
 | 84 | [Derby Raceway](https://open.spotify.com/track/2ZMKNo6lLh7MbXscunPfLj) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 3:48 |
 | 85 | [Sitcom](https://open.spotify.com/track/7fLbYOnVOj87FN6BkYdnDV) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Sitcom](https://open.spotify.com/album/3WPPGYahCn1SDYu79OyFrc) | 4:26 |
-| 86 | [forever mine](https://open.spotify.com/track/1jutIgCs5YmagoBHrbikP7) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [forever mine](https://open.spotify.com/album/4hBXYiyR4PoBqWkknZlZGg) | 2:55 |
+| 86 | [forever mine](https://open.spotify.com/track/3OZw5UHlYIzwc0dCBOBFx9) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:55 |
 | 87 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
 | 88 | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq) | 3:48 |
 | 89 | [The Hand That Fits The Glove](https://open.spotify.com/track/1dJyCYF2EQ5dSiv0LToyqV) | [Faith Healer](https://open.spotify.com/artist/2CQKYlMk1oC4h5zrC3k6RX) | [The Hand That Fits The Glove](https://open.spotify.com/album/4C2aTv1Oh5OrEu1wAKRDqQ) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Hey, Big Beluga](https://open.spotify.com/track/5E3zEkgKnUyiQuHMytfxGa) | [Po Lazarus](https://open.spotify.com/artist/2kOLImI4VIsAM8yA9KQUOi) | [Living In The Light](https://open.spotify.com/album/79FfEcU3In6KhBGT7QYVxR) | 4:45 |
 | 100 | [Parallel](https://open.spotify.com/track/71yizzHrqEmKVdffU6BZbo) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Parallel](https://open.spotify.com/album/7EzyshmCFWJhje9N91PuFL) | 4:06 |
 
-Snapshot ID: `MCw1NDgzN2I2ZjA5MjQ4OThkNzllY2U3MTk3MmMzZWJjMDQyMGFmMDFk`
+Snapshot ID: `MCxiOTI3NDMwMzhiMGU0NTAwNTQzZWI2ZmM4OGFlYTEwZWUzYWE4NzA2`

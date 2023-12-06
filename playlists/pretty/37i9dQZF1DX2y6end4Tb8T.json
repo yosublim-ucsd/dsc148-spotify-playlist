@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 57331,
+  "num_followers": 57373,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWMyNTg1MzkzZTBjN2QzOTM3OTJmYmVkZGE2ZmFjNTVkMGVkYTEy",
+  "snapshot_id": "MCw0NzVmMGM2NWU1YzYxYjhjYjg3MjdlYzY1MTljYTkwZmI2ZTMwMjk3",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1995,6 +1995,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "The Saga of Wiz Khalifa (Deluxe)",
+        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 125577,
+      "name": "POV (feat. Rubi Rose)",
+      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "NFL",
         "url": "https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA"
       },
@@ -2015,26 +2035,6 @@
       "duration_ms": 210327,
       "name": "NFL (feat. Gudda Gudda & HoodyBaby)",
       "url": "https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "The Saga of Wiz Khalifa (Deluxe)",
-        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 125577,
-      "name": "POV (feat. Rubi Rose)",
-      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
     }
   ],
   "unique_name": "808.",

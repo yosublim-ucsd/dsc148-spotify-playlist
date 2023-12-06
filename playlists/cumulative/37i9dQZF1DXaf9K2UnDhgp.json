@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Christmas Isn\u2019t Christmas",
+        "url": "https://open.spotify.com/album/1bSjH8cgr3IIYCbNInKqt6"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Christmas Isn\u2019t Christmas",
+      "url": "https://open.spotify.com/track/4gt4FB6ECU3LPKCwdGupiW"
+    },
+    {
+      "album": {
         "name": "Christmas Karaoke",
         "url": "https://open.spotify.com/album/1MrJmDS4JcacrgZPuO0NIO"
       },

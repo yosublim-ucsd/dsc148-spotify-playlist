@@ -4,7 +4,7 @@
 
 > Sweat it out with your favorite country workout songs\. Cover: Lainey Wilson
 
-204 songs - 11 hr 11 min
+205 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Downtown](https://open.spotify.com/track/4kY7rYtE4OQkJNq22OIYRI) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Golden](https://open.spotify.com/album/254bcFt3AV1O2B121GFD9S) | 3:15 | 2021-12-22 | 2023-11-07 |
 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 | 2021-12-22 |  |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1UYfAU2bwgjaM5rIIPQleC) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/5H6lxubLtZamdoXEmVmcbz) | 2:40 | 2021-12-22 | 2022-12-28 |
-| [Drinkin’ Beer\. Talkin’ God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/0rOVgtieEk5SoypbulRiKI) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album](https://open.spotify.com/album/5XZ317tmx2xF9ikD4nKusw) | 2:40 | 2023-10-05 |  |
+| [Drinkin’ Beer\. Talkin’ God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/0rOVgtieEk5SoypbulRiKI) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album](https://open.spotify.com/album/5XZ317tmx2xF9ikD4nKusw) | 2:40 | 2023-10-05 | 2023-12-06 |
 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2021-12-22 |  |
 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 | 2021-12-22 |  |
 | [Every Little Thing](https://open.spotify.com/track/4EpLU30bi1KNWkBTfgZkoK) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi) | 3:10 | 2021-12-22 | 2022-07-29 |
@@ -197,6 +197,7 @@
 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 | 2021-12-22 |  |
 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 | 2021-12-22 | 2023-11-18 |
 | [When She Says Baby](https://open.spotify.com/track/6cx2TVSoYqVyiBEpXdvUBR) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/7qiVLcS6D9zdQN7KW9vP2E) | 2:51 | 2021-12-22 | 2022-07-27 |
+| [When She Says Baby](https://open.spotify.com/track/7bQKR4QQCIlX0RoHlaKiIn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6) | 2:51 | 2023-10-05 |  |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-12-27 |  |
 | [Why Should We](https://open.spotify.com/track/6S0EUBIYewbisWgQKMvuzR) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 2:50 | 2021-12-22 | 2022-11-13 |
 | [Why Should We](https://open.spotify.com/track/0h6qJZXkVGNUIoM4q8CrFH) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Why Should We](https://open.spotify.com/album/506ax7XUl3ogqAfdnxc3Ad) | 2:52 | 2021-12-22 | 2022-07-29 |

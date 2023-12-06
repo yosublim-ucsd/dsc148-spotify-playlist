@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 51588,
+  "num_followers": 51597,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y3MzExMGZiZjA0YzVlN2E2MzI5ZDAxYzhiYWI5ZTQ0YzUzZWI5",
+  "snapshot_id": "MCxlMzVkMDM5YmMzNThmZjMzNTY5OTZhMzZlN2ZlMDMxODBjYTNhMThj",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -655,30 +655,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Las Favoritas de David Zaizar",
         "url": "https://open.spotify.com/album/5UNpgO6yxJKjItZrmKM9m3"
       },
@@ -707,6 +683,22 @@
       "duration_ms": 124500,
       "name": "Luna Lunera",
       "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -767,18 +759,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -815,22 +815,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Guitarras Mexicanas, Vol. 2",
-        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
+        "name": "Antolog\u00eda... Hermanos Michel",
+        "url": "https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Duo: Ramos - Monterrubio",
-          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Serenata Campechana",
-      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
+      "duration_ms": 163240,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -851,18 +847,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Antolog\u00eda... Hermanos Michel",
-        "url": "https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL"
+        "name": "Guitarras Mexicanas, Vol. 2",
+        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
       },
       "artists": [
         {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Duo: Ramos - Monterrubio",
+          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
+      "duration_ms": 256613,
+      "name": "Serenata Campechana",
+      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "No Llega El Olvido",
-        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
-      },
-      "artists": [
-        {
-          "name": "Son De Durango",
-          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
-        }
-      ],
-      "duration_ms": 180504,
-      "name": "No Llega El Olvido",
-      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Mariachi Sol: Viva Mexico",
         "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 204146,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/5saspiZn3XAYBfNBy9iAlN"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "No Llega El Olvido",
+        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
+      },
+      "artists": [
+        {
+          "name": "Son De Durango",
+          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+        }
+      ],
+      "duration_ms": 180504,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
     },
     {
       "added_at": "2023-10-06 06:00:00",

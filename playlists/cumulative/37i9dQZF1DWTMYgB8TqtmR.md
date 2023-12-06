@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-616 songs - 1 day 7 hr 2 min
+617 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 | 2023-04-14 |
 | [Anything You Say](https://open.spotify.com/track/0QybIH9tGbiqh6I2pZsb9b) | [Nike Sellmar](https://open.spotify.com/artist/61drgErIKJq61Lbqdd62GP) | [Anything You Say](https://open.spotify.com/album/3LJS13iiVWy31x8WhEumNA) | 3:04 | 2022-11-28 | 2023-01-06 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-03-31 | 2022-11-04 |
+| [Astronaut \- Spotify Singles](https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Astronaut \- Spotify Singles](https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA) | 2:19 | 2023-12-05 |  |
 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-01-31 | 2023-02-10 |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-10-05 |  |
 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 | 2022-11-24 | 2023-01-27 |
@@ -384,7 +385,7 @@
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 | 2022-12-20 |
 | [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-05-22 | 2023-07-01 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-09 | 2022-09-09 |
-| [När festen tagit slut](https://open.spotify.com/track/5fEE0xGJCPFgZTHJycBddf) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [När festen tagit slut](https://open.spotify.com/album/6SbXhwxJudbAiM1WIJG5Ml) | 3:20 | 2023-09-28 |  |
+| [När festen tagit slut](https://open.spotify.com/track/5fEE0xGJCPFgZTHJycBddf) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [När festen tagit slut](https://open.spotify.com/album/6SbXhwxJudbAiM1WIJG5Ml) | 3:20 | 2023-09-28 | 2023-12-06 |
 | [När lyktorna tänds – Spotify Singles](https://open.spotify.com/track/477OQNyWt0hvsGLG4fXqP4) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [När lyktorna tänds – Spotify Singles](https://open.spotify.com/album/4hpel896xPcyHSPphnZ6TR) | 4:06 | 2023-10-19 |  |
 | [NÄR RADION DÅNAR](https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [NÄR RADION DÅNAR](https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO) | 2:10 | 2022-10-27 | 2023-01-27 |
 | [Nätterna i Göteborg](https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Nätterna i Göteborg](https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ) | 2:51 | 2023-01-05 | 2023-06-02 |
@@ -428,7 +429,7 @@
 | [Psykopat](https://open.spotify.com/track/549YcFCZtSzi5JDzZszYzw) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Psykopat](https://open.spotify.com/album/3Tz4Nx90tMdRiA0IZzrJxL) | 2:47 | 2023-03-02 | 2023-03-31 |
 | [Psykos](https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [ALLTING DÄREMELLAN](https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON) | 2:56 | 2023-10-26 |  |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-10 | 2022-11-25 |
-| [Que Pasa?](https://open.spotify.com/track/3ZGxEFPmgKtrGXzCWCb04l) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Que Pasa?](https://open.spotify.com/album/6YoQO2lhDjISo3XmzD2Kos) | 2:20 | 2023-11-13 |  |
+| [QUE PASA?](https://open.spotify.com/track/3ZGxEFPmgKtrGXzCWCb04l) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [QUE PASA?](https://open.spotify.com/album/6YoQO2lhDjISo3XmzD2Kos) | 2:20 | 2023-11-13 |  |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-02-02 | 2023-06-09 |
 | [Queens](https://open.spotify.com/track/5y7P80dZWvvakgj89Gkekn) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Queens](https://open.spotify.com/album/1AjJDrIkBxVjaVkhSD8wRt) | 2:57 | 2022-04-14 | 2022-04-29 |
 | [Ramla](https://open.spotify.com/track/4qP2qyJgxBtNcAexuvs45j) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ramla](https://open.spotify.com/album/3hhMWYseNlwaMyrAAcbSIW) | 3:28 | 2023-11-23 |  |

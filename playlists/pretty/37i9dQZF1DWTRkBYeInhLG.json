@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 464616,
+  "num_followers": 464820,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDQwYTZiOTIyMDJjMGI0NTY0MjdiZGY5MDIzZTI4YmQxZTU2Yzli",
+  "snapshot_id": "MCw4OTlkZTc1MzExZjkzMmRiMmQwNDVkMDBkNTQzMjhkNzNlNzY4ZGRj",
   "tracks": [
     {
       "added_at": "2023-11-13 05:27:26",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-11-13 05:27:26",
       "album": {
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "P.S. I LOVE YOU",
+      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
+    },
+    {
+      "added_at": "2023-11-13 05:27:26",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2023-11-13 05:27:26",
-      "album": {
-        "name": "P.S. I LOVE YOU",
-        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "P.S. I LOVE YOU",
-      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
     },
     {
       "added_at": "2023-11-13 05:27:26",
@@ -827,18 +827,22 @@
     {
       "added_at": "2023-11-13 05:27:26",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+        "name": "Aku Yang Salah",
+        "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
       },
       "artists": [
         {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        },
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
         }
       ],
-      "duration_ms": 197813,
-      "name": "Air & Api",
-      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
+      "duration_ms": 251553,
+      "name": "Aku Yang Salah",
+      "url": "https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc"
     },
     {
       "added_at": "2023-11-13 05:27:26",
@@ -859,22 +863,18 @@
     {
       "added_at": "2023-11-13 05:27:26",
       "album": {
-        "name": "Aku Yang Salah",
-        "url": "https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
       "artists": [
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        },
-        {
-          "name": "Nuca",
-          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
         }
       ],
-      "duration_ms": 251553,
-      "name": "Aku Yang Salah",
-      "url": "https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc"
+      "duration_ms": 197813,
+      "name": "Air & Api",
+      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
     },
     {
       "added_at": "2023-11-13 05:27:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,038 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,032 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 |
 | 100 | [Hard Act To Follow](https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Hard Act To Follow](https://open.spotify.com/album/0QbOUPiNJAU4h1tGnxfvnh) | 3:14 |
 
-Snapshot ID: `MCxjMWY4YTkzODQ1NjYzMzdiOWVmYjE1MGViYmYxNzAzZDRmMzJjZDUy`
+Snapshot ID: `MCxmODBhNjBkZTlkNzc5MmI3MWNjNTQ2MWIxNjM1YTJkMTZmM2IyNTM3`

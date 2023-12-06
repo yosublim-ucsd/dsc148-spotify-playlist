@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Boombox Cartel & FrostTop
 
-298 songs - 16 hr 22 min
+299 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Stars Tonight](https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 2:53 | 2022-02-01 |  |
 | [STAY STRONG](https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [STAY STRONG](https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD) | 3:03 | 2022-07-14 | 2023-04-22 |
 | [STAY STRONG](https://open.spotify.com/track/3aPaa10F8G5yzzh9Eb6ayQ) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [STAY STRONG](https://open.spotify.com/album/2x211pbSpVexGZvTsAtSaD) | 3:03 | 2021-11-19 | 2022-07-29 |
+| [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 | 2023-12-01 |  |
 | [Stinger](https://open.spotify.com/track/0yrSc38VgNvTRVfzD01oDE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Stinger](https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3) | 3:50 | 2021-11-19 | 2023-07-08 |
 | [Stranded](https://open.spotify.com/track/6UBCNenDeCeq2MWKnFWJ1m) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [Stranded](https://open.spotify.com/album/1RMV5oTOyhjRXl38G2T8G4) | 2:59 | 2021-11-19 | 2022-02-02 |
 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 | 2022-02-01 |  |
@@ -297,7 +298,7 @@
 | [Voices](https://open.spotify.com/track/2tsIMR0ok3KDqJ4oodDRjg) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Voices](https://open.spotify.com/album/3Xug1RZvXgaLQf7yPVlu7n) | 3:08 | 2023-11-03 |  |
 | [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 | 2022-02-01 | 2023-11-18 |
 | [Why Is It So Hard](https://open.spotify.com/track/6ovna0z2elvIqqfVw8p4z1) | [Santiago](https://open.spotify.com/artist/1nZ7JTJvYw7eGVECfF43hF) | [Why Is It So Hard](https://open.spotify.com/album/1u42tckI6ReuhdPIVgUxjW) | 3:23 | 2021-11-26 | 2022-01-28 |
-| [Wide Awake](https://open.spotify.com/track/0Oe5QO7zwMWKkGhgr5vIEz) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Wide Awake](https://open.spotify.com/album/3eE3Yr8OLOnjAdmTPUkekm) | 3:15 | 2023-09-22 |  |
+| [Wide Awake](https://open.spotify.com/track/0Oe5QO7zwMWKkGhgr5vIEz) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Wide Awake](https://open.spotify.com/album/3eE3Yr8OLOnjAdmTPUkekm) | 3:15 | 2023-09-22 | 2023-12-06 |
 | [Windows 10 \- Trap Mix](https://open.spotify.com/track/14ZmWCuRUubceb4pEe8tUE) | [DJ30A](https://open.spotify.com/artist/65vvuazV1f4jvSBedvK47v), [Huda Hudia](https://open.spotify.com/artist/4I1riHiGHL0NLBQAzAyEdp) | [Windows 10 \(Trap Mix\)](https://open.spotify.com/album/10UCecyPtNSyIeBXDtssY1) | 4:06 | 2021-11-19 | 2022-02-01 |
 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 | 2022-02-01 |  |
 | [Wrong Kind](https://open.spotify.com/track/4RsiHeY3G77kcmDygKtqda) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Wrong Kind](https://open.spotify.com/album/7ypaimtNdehVcHnmYDiHc0) | 4:02 | 2021-11-19 | 2022-02-01 |

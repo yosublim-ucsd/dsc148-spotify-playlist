@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,614 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,674 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SpinDatBac](https://open.spotify.com/track/1WzuY075zswuk0pgMNrqCT) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SpinDatBac](https://open.spotify.com/album/1FSxhiCNZgovaqCQnlnHbX) | 2:35 |
 | 2 | [Loop Hole \(feat\. 21 Savage\)](https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:31 |
 | 3 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
-| 4 | [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ) | 2:07 |
+| 4 | [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/0lCuickjQ0wGBvYDYc2TLA) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE) | 2:07 |
 | 5 | [Eyes Red](https://open.spotify.com/track/327maCobrzQZ20H1LwQ6Bk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:25 |
 | 6 | [Way Too Long](https://open.spotify.com/track/499qzfPwb8DdacaTiHMqn9) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Way Too Long](https://open.spotify.com/album/0ImWPSvnRCmHoI6kjQGK4J) | 2:28 |
 | 7 | [Free My N\*\*\*a](https://open.spotify.com/track/2z7LbO6rugeuWIBOWpncVi) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Free My N\*\*\*a](https://open.spotify.com/album/7Mk6Qao19lj3TcpQcDvE3t) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [The Streets](https://open.spotify.com/track/4b9gu3ChsEGAnle4WIqxqo) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [The Streets](https://open.spotify.com/album/3Iqca530onnDoofMp0goL6) | 3:24 |
 | 50 | [Pyrex Kids](https://open.spotify.com/track/4CWWxTamXXIUJByb9YbOa1) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Pyrex Kids](https://open.spotify.com/album/5IMPUqSOUvIOheYQbjOlTX) | 1:52 |
 
-Snapshot ID: `MCwwOTlhMDViYjJjZDM4YTYxYjI1ZmQ4OGUwMDU4Mzk0MTRhYmQ3ZTZh`
+Snapshot ID: `MCw5OGU0ZTAzOWZhYmU3MjljMmUxMWRjNmZjYzQyMzM1ZTBiOWYzOWU5`

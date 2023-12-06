@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 72236,
+  "num_followers": 72309,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2QyYzczMDU2MjdjNjJjNjVjYWRhYzgzMzdhMjJiZjY1YjI3ZmJm",
+  "snapshot_id": "MCw2NjcxZWM5MmE3MTZlMTc1ZjRlNGM1NDA1OTNhMDM3YmIzOWRjY2Iy",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -887,18 +887,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "UDNTLUVME",
-        "url": "https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0"
+        "name": "You",
+        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
       },
       "artists": [
         {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         }
       ],
-      "duration_ms": 138461,
-      "name": "UDNTLUVME",
-      "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
+      "duration_ms": 108923,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -915,6 +919,22 @@
       "duration_ms": 142639,
       "name": "eyes",
       "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -983,6 +1003,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 174635,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
       },
@@ -1011,46 +1051,6 @@
       "duration_ms": 192949,
       "name": "Jersey Anniversary",
       "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
-      },
-      "artists": [
-        {
-          "name": "The Szns",
-          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
-        },
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 174635,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 108923,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "What Happened 2 Me?",
-        "url": "https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x"
-      },
-      "artists": [
-        {
-          "name": "Is0kenny",
-          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
-        }
-      ],
-      "duration_ms": 99688,
-      "name": "What Happened 2 Me?",
-      "url": "https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 121532,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "What Happened 2 Me?",
+        "url": "https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x"
+      },
+      "artists": [
+        {
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+        }
+      ],
+      "duration_ms": 99688,
+      "name": "What Happened 2 Me?",
+      "url": "https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T"
     },
     {
       "added_at": "2023-11-24 05:00:00",

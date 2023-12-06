@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: YOVNGCHIMI & Dei V",
-  "num_followers": 230428,
+  "num_followers": 230444,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGE2OWU5ZjQzYjA4Mzc2NWRiZDdhZjhjMjY4YTliODFmNzlmMjc4",
+  "snapshot_id": "MCw5NDBiNzc4NGVjYWI1OGI2N2I2ZTFlOTE1OWVkYWI4Yjg1YmNlODg0",
   "tracks": [
     {
       "added_at": "2023-11-22 19:12:03",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-11-22 19:12:03",
       "album": {
-        "name": "Delirando",
-        "url": "https://open.spotify.com/album/1XfwYTtr8YYbY4DZp1Dgvf"
-      },
-      "artists": [
-        {
-          "name": "Lemuell",
-          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
-        },
-        {
-          "name": "JS Beatz",
-          "url": "https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK"
-        }
-      ],
-      "duration_ms": 156116,
-      "name": "Delirando",
-      "url": "https://open.spotify.com/track/1BrsRp6scfbwfV9U6cg3wr"
-    },
-    {
-      "added_at": "2023-11-22 19:12:03",
-      "album": {
         "name": "Otra",
         "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 166299,
       "name": "Otra",
       "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
+    },
+    {
+      "added_at": "2023-11-22 19:12:03",
+      "album": {
+        "name": "Delirando",
+        "url": "https://open.spotify.com/album/1XfwYTtr8YYbY4DZp1Dgvf"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        },
+        {
+          "name": "JS Beatz",
+          "url": "https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK"
+        }
+      ],
+      "duration_ms": 156116,
+      "name": "Delirando",
+      "url": "https://open.spotify.com/track/1BrsRp6scfbwfV9U6cg3wr"
     },
     {
       "added_at": "2023-11-22 19:12:03",

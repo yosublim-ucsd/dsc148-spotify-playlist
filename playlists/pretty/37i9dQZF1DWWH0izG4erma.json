@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 572029,
+  "num_followers": 572172,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjc0N2EwMzgzY2UzODY1NzZlNzE1NWNiMzRmYjNlZGRhNTdjZTUz",
+  "snapshot_id": "MCwxYmRjOTg5OTg1ODNmYzRiODYyZjE1ZTM3NDg2YzkwY2ViMmM0ZDVj",
   "tracks": [
     {
       "added_at": "2023-12-01 22:30:39",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
         "name": "The Better Me",
         "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 156610,
       "name": "Money Spent",
       "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+      "duration_ms": 200626,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/4XufHN8jFwyZEjvplEJh3w"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Highway Desperado",
-        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Tough Crowd",
-      "url": "https://open.spotify.com/track/4XufHN8jFwyZEjvplEJh3w"
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
+        "name": "Whiskey Lullaby",
+        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
+      },
+      "artists": [
+        {
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        },
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
+        }
+      ],
+      "duration_ms": 269594,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
+    },
+    {
+      "added_at": "2023-12-01 22:30:39",
+      "album": {
         "name": "Fire On Wheels",
         "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
@@ -1559,22 +1579,6 @@
       "duration_ms": 156973,
       "name": "Fire On Wheels",
       "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
-    },
-    {
-      "added_at": "2023-12-01 22:30:39",
-      "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Let the Rain Come Down",
-      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2023-12-01 22:30:39",
@@ -1643,22 +1647,18 @@
     {
       "added_at": "2023-12-01 22:30:39",
       "album": {
-        "name": "Whiskey Lullaby",
-        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
       "artists": [
         {
-          "name": "Drew Jacobs",
-          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
-        },
-        {
-          "name": "Caitlynne Curtis",
-          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 269594,
-      "name": "Whiskey Lullaby",
-      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
+      "duration_ms": 199773,
+      "name": "Let the Rain Come Down",
+      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2023-12-01 22:30:39",

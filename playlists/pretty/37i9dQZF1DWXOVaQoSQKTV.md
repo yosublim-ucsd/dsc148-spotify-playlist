@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,872 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,879 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 16 | [Bad Girls](https://open.spotify.com/track/0iEkYC73HyDZIVKWNPv4Rl) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 3:09 |
 | 17 | [Moments In Between](https://open.spotify.com/track/7nY0B3u1AfX9tIAki2Xuxe) | [Mini Trees](https://open.spotify.com/artist/5gmk49M0KriLVEWOqAoqjH) | [Always In Motion](https://open.spotify.com/album/5FQQRKMrEXWJSNA2PaXdSy) | 2:50 |
 | 18 | [Got It Made \(with Ricky Ducati\)](https://open.spotify.com/track/1sslQ7yjZwiOmEVj6DOo2F) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Flashback FM](https://open.spotify.com/album/5wX2uxnrx2KpVEz2enYGD2) | 3:53 |
-| 19 | [Wow, Pt\. 2](https://open.spotify.com/track/1l2X2RBt1g5dToAgZqkteq) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6), [C'SAR](https://open.spotify.com/artist/1M8L7wkacOaWB74gm05yxg) | [Wow](https://open.spotify.com/album/09FZiiYJOcqZOd79UPWydN) | 2:52 |
+| 19 | [Wow, Pt.2](https://open.spotify.com/track/13AyzN04wqrFTrAFhMhPeR) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6) | [Wow](https://open.spotify.com/album/56wJMpbHtmnX7ctoSn5I43) | 2:52 |
 | 20 | [See What I Mean](https://open.spotify.com/track/0ZuZ9B2P1nFMuvHutlrIob) | [Beat Market](https://open.spotify.com/artist/5xoyBvcEcZXtv6rjvGoCOe), [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [See What I Mean](https://open.spotify.com/album/1Hb1cIQ9janmPepeZNidbS) | 2:20 |
 | 21 | [Lightleak](https://open.spotify.com/track/3szbKoHJIy4dMCIPnmV9u4) | [There's Talk](https://open.spotify.com/artist/2WhB9sVFJmyQTjSx54za8L) | [Lightleak](https://open.spotify.com/album/3a0DLD5fuRlbEQQhARZFHY) | 3:54 |
 | 22 | [Feels like Summer \- Lhotse Remix](https://open.spotify.com/track/1LnceISmVaEQUcNI8EAhLz) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb), [Lhotse](https://open.spotify.com/artist/5CFO1lbjoMQ8NqmjnKURx5) | [Feels like Summer \(Lhotse Remix\)](https://open.spotify.com/album/2VwgoDnK5A2OVOoURGPgGw) | 3:26 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 112 | [Art School](https://open.spotify.com/track/61dHU4KcK7t84kQ1BLbAGs) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Zentropy](https://open.spotify.com/album/3PUvh9gqBS9I5F2JcIVIfz) | 1:53 |
 | 113 | [Terrible Light](https://open.spotify.com/track/3BaGOz4fmkYhtuyuaa3kXE) | [Young Echoes](https://open.spotify.com/artist/61Ggm1pZJZje8rzVqV6GVo), [Leanne Hoffman](https://open.spotify.com/artist/7Fuyx8RUOvG5STfQvmc4ml) | [Terrible Light](https://open.spotify.com/album/36m81qh4IzZrFchXjaRVGo) | 3:51 |
 | 114 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 |
-| 115 | [That Feeling](https://open.spotify.com/track/7zo6SpUVJsdLEmu4ucjNVV) | [Nada Funk](https://open.spotify.com/artist/2ODpVD3Wyal3qYui1yHXkV), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [That Feeling](https://open.spotify.com/album/4Harn1bbAoLFNrECHa83zg) | 3:23 |
+| 115 | [That Feeling](https://open.spotify.com/track/1DuBCIGdnMEivJmk3vT2GY) | [Nada Funk](https://open.spotify.com/artist/2ODpVD3Wyal3qYui1yHXkV), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [That Feeling](https://open.spotify.com/album/6uvEZEMm5FP04bBFJq8tPG) | 3:23 |
 | 116 | [Palm of Hand](https://open.spotify.com/track/2XOH9bHATizsqvX8MmYjlB) | [NE\-HI](https://open.spotify.com/artist/4nx194YMhKEOO8WJWagjll) | [Offers](https://open.spotify.com/album/3UwNnPvDiIOI2IE6bq7evV) | 4:34 |
 | 117 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 |
 | 118 | [Come Back](https://open.spotify.com/track/1Vc1O9TbmFhAaNYRry9sc3) | [Lean](https://open.spotify.com/artist/167WV6cgZZKO6Mog8MomA0) | [Years \(Edited Version\)](https://open.spotify.com/album/4KssxP6KdoZECE9pKpJBEI) | 3:14 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCw3OGRkZDM5ZTVkZjJjMTY1NmIxMjhlZDA4YTMyYTE5MTAxMDUxMDJk`
+Snapshot ID: `MCw3NTY5ZmMwMzQ4MmE5Y2NkZTZmZDI0NWI4ZTc0YjZjNTk1YzJlODdl`

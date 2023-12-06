@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: Boombox Cartel & FrostTop",
-  "num_followers": 893718,
+  "num_followers": 893771,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDMyYWM4MGQ4MzBhODU5NWE3MzcyMTI3NDJlNWQxNWU5YWIwYTBi",
+  "snapshot_id": "MCw2YzYwMmY5OTM1NGU2ZjM2YjM3YTMzOWFiZTFjNTg2Y2FiMDY0Mjgy",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Dum Dee Dum",
+        "url": "https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Dum Dee Dum",
+      "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 210017,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Dum Dee Dum",
-        "url": "https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Dum Dee Dum",
-      "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1917,6 +1917,26 @@
       "url": "https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Steve Aoki (feat. bludnymph)",
+        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
+      },
+      "artists": [
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Steve Aoki (feat. bludnymph)",
+      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "LOUD",
@@ -1935,26 +1955,6 @@
       "duration_ms": 165675,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/3eE3Yr8OLOnjAdmTPUkekm"
-      },
-      "artists": [
-        {
-          "name": "Maddy O'Neal",
-          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
-        },
-        {
-          "name": "Torii Wolf",
-          "url": "https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0Oe5QO7zwMWKkGhgr5vIEz"
     }
   ],
   "unique_name": "Trap Mojito",

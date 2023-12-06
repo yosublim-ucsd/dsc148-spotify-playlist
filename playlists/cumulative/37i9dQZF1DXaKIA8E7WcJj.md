@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-829 songs - 1 day 19 hr 26 min
+830 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Albatross \- 2018 Remaster](https://open.spotify.com/track/3IKyTBHZSgCx2v1ZX8v0TZ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2vykpF7BFnflpzjTCG52FU) | 3:11 | 2019-05-26\* | 2022-07-29 |
 | [All Along the Watchtower](https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:58 | 2019-07-17 | 2021-10-16 |
 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 | 2022-06-08 | 2023-11-19 |
+| [All Day and All of the Night](https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:22 | 2022-08-12 |  |
 | [All Day and All of the Night](https://open.spotify.com/track/5gmMa8nwzrkcPbHzSW3azN) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/0fT3ySwzj1bPUWINB07MoI) | 2:22 | 2019-06-26 | 2021-10-13 |
 | [All I Have to Do Is Dream \- Single Version; 2006 Remaster](https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Definitive Pop: The Everly Brothers](https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d) | 2:20 | 2019-05-26\* | 2020-06-12 |
 | [All Or Nothing \- Alternate Mix \(Electronically Processed Stereo\)](https://open.spotify.com/track/0PHfdT6eX7lHeuO8IOqQxe) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [From The Beginning \(Deluxe Edition\)](https://open.spotify.com/album/271BmmcNClDA0BHCz8pXPJ) | 3:02 | 2019-06-22 | 2019-08-10 |
@@ -287,7 +288,7 @@
 | [Hey Jude](https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hey Jude](https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL) | 4:07 | 2021-01-05 | 2022-07-29 |
 | [Hey Jude \- Remastered 2009](https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 7:11 | 2019-05-26\* | 2021-10-12 |
 | [Hey Paula](https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Lo Mejor de los Años 60, Vol\. 3 Pop](https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK) | 2:32 | 2019-07-21 | 2021-10-16 |
-| [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 | 2019-07-26 |  |
+| [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 | 2019-07-26 | 2023-12-06 |
 | [Hi Ho Silver Lining \- First Stereo Mix](https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [60s Icons](https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC) | 3:18 | 2019-07-18 | 2019-07-30 |
 | [Hit the Road Jack](https://open.spotify.com/track/4UGxnxGlpc7BB8Cbu8vITC) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Greatest Hits, Vol.1](https://open.spotify.com/album/73PGy9XzvgR1OjCSKjuihl) | 1:59 | 2019-06-24 | 2021-05-28 |
 | [Hit the Road Jack](https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Soul](https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD) | 1:59 | 2021-10-12 |  |

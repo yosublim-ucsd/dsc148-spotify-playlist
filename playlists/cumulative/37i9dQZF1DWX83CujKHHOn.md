@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-363 songs - 22 hr 28 min
+364 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 | 2021-12-06 |  |
 | [Can't Go Back](https://open.spotify.com/track/6oz8T0xhXzkEVxyelC3Hc3) | [Rosi Golan](https://open.spotify.com/artist/1eggYygEtBl6TJv5CtkYn7) | [Lead Balloon](https://open.spotify.com/album/5xcKokaga7HALAx6Iy2MBB) | 3:47 | 2022-01-05 | 2022-04-21 |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2022-08-05 | 2023-05-31 |
+| [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2023-12-05 |  |
 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2021-12-06 | 2023-11-09 |
 | [Chandelier \- Piano Version](https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:01 | 2022-01-05 |  |
 | [Ciao, Bella](https://open.spotify.com/track/1JxadVAaAPwYnzGV5KWTtu) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Ciao, Bella](https://open.spotify.com/album/2FJiVWqvCTiDbPymkO43r4) | 4:12 | 2022-03-18 | 2022-07-29 |
@@ -274,8 +275,8 @@
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-07-08 |  |
 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 | 2021-12-06 | 2022-07-29 |
 | [Someone to Break Your Heart](https://open.spotify.com/track/1j1eVY0fZLQH5W0UMNz5hd) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Someone to Break Your Heart](https://open.spotify.com/album/6uWWQBNQke5npCz2UwI5G3) | 3:19 | 2022-01-05 | 2022-07-25 |
-| [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-12-06 | 2023-11-09 |
-| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-11-08 |  |
+| [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-12-06 |  |
+| [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-11-08 | 2023-12-06 |
 | [Someone You Loved \- Acoustic](https://open.spotify.com/track/7iSool3PmS50F5St2bhmTU) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm) | [Someone You Loved \(Acoustic\)](https://open.spotify.com/album/69WwEw6R3xBZgmwpp9aY5u) | 2:42 | 2021-12-06 | 2022-12-08 |
 | [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-01-18 | 2022-11-14 |
 | [Sorry](https://open.spotify.com/track/2DyCLtTrd9f2DRRDq1ngJx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq) | 3:40 | 2021-12-06 | 2022-07-29 |
@@ -366,7 +367,7 @@
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2022-01-05 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2023-11-08 |  |
 | [You Don't Get To \- Stripped](https://open.spotify.com/track/6FtOjCh88PmVmDynhicvkc) | [Julia Gargano](https://open.spotify.com/artist/54IqzX9ecr68nJoastw0Nz) | [You Don't Get To \(Stripped\)](https://open.spotify.com/album/7B686IbMkI1dteleIZVSeR) | 3:16 | 2021-12-06 | 2022-04-21 |
-| [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 |  |
+| [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 | 2023-12-06 |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2022-01-05 |  |
 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 | 2022-01-05 | 2022-04-21 |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2022-07-08 |  |

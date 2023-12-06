@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-398 songs - 21 hr 42 min
+399 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 | 2022-10-28 | 2023-10-28 |
 | [Say It](https://open.spotify.com/track/7fQ4WRBESYZNY6BMhAoIQ8) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Say It](https://open.spotify.com/album/1z8WyOkgd080WMDeSmmQpJ) | 3:35 | 2021-07-26 | 2022-07-20 |
 | [Say Yes](https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Say Yes](https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk) | 3:53 | 2021-07-26 |  |
-| [Silver & Gold \- Yarni & Liv East Remix](https://open.spotify.com/track/5HfAWcuSOLWGihI0bfpls0) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Blackbird Returns](https://open.spotify.com/album/6r3NfKBFkgG0QD2ayvff1r) | 5:00 | 2023-08-04 |  |
+| [Silver & Gold \- Yarni & Liv East Remix](https://open.spotify.com/track/5HfAWcuSOLWGihI0bfpls0) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Blackbird Returns](https://open.spotify.com/album/6r3NfKBFkgG0QD2ayvff1r) | 5:00 | 2023-08-04 | 2023-12-06 |
 | [Silver & Gold \- Yarni & Liv East Remix](https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Silver & Gold \(Yarni & Liv East Remix\)](https://open.spotify.com/album/5bdW11Oe6IDrFSROCHH7Ef) | 5:00 | 2023-08-04 | 2023-10-03 |
 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-10 | 2023-10-07 |
 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 | 2023-10-06 | 2023-11-22 |
@@ -347,6 +347,7 @@
 | [The Wheel](https://open.spotify.com/track/6Mm7nCTVVduH0uehfNfITB) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [The Wheel](https://open.spotify.com/album/3YnQLqCzYIh8wJJtxYQit6) | 3:20 | 2021-07-26 | 2022-04-21 |
 | [The Wheel \(feat\. Reva DeVito\)](https://open.spotify.com/track/24lQFc4lt65TynrdW72E2x) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [The Ride](https://open.spotify.com/album/2VmViaYZiLCABRP78yvsep) | 3:20 | 2021-07-26 | 2022-04-20 |
 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 | 2021-07-26 | 2023-04-01 |
+| [There Is A Light](https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [There Is A Light](https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81) | 3:01 | 2023-12-01 |  |
 | [THINKING](https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [THINKING](https://open.spotify.com/album/3qZHlcmOavLTKddnup8qdf) | 2:00 | 2021-07-26 | 2022-07-29 |
 | [Throw That Back](https://open.spotify.com/track/7MiE0I58L6n6L7lmPKwe73) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Throw That Back](https://open.spotify.com/album/4C5xbCzBOcg4gWofG7dmBE) | 3:07 | 2021-07-26 | 2022-07-29 |
 | [Tighten It Up \- Barney Bones \- DRAMA Edit](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Tighten It Up \(Barney Bones \- DRAMA Edit\)](https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply) | 2:52 | 2023-04-28 |  |

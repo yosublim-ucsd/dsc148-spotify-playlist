@@ -4,7 +4,7 @@
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-41 songs - 3 hr 17 min
+42 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [THE RACE OF THE NIGHT](https://open.spotify.com/track/5a4hArSlv7i3784T7YJKaq) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION](https://open.spotify.com/album/5IWYS5uU24ol0NotfK8XqV) | 4:43 | 2022-05-24 |  |
 | [The Top \- Extended Ver.](https://open.spotify.com/track/0soHG17CsBtQqjX7Ygvfwt) | [KEN BLAST](https://open.spotify.com/artist/2UqOfH9sWaoyHyOtlRNp7P) | [Super Eurobeat Vol.217](https://open.spotify.com/album/0RllqPOD1JcWeaUcZAWCeX) | 4:36 | 2022-05-24 |  |
 | [Wheelpower & Go! \- Extended Mix](https://open.spotify.com/track/7aWe7X4JGQNoH6gYD9HDFB) | [Dejo](https://open.spotify.com/artist/3rgGi7LiN9mc5q3yHSZj0e), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju) | [Super Eurobeat Vol.211](https://open.spotify.com/album/6IaZFK6YdURDRzWsiRFgIq) | 5:11 | 2022-05-24 | 2022-07-29 |
-| [Wheelpower And Go! \- Extended mix](https://open.spotify.com/track/54qcESwnWTtQBsTIEmPmJB) | [Dejo](https://open.spotify.com/artist/3rgGi7LiN9mc5q3yHSZj0e), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju) | [Bratt Sinclaire Eurobeat Style Vol.14](https://open.spotify.com/album/1602NuLcMSIF1chdZewiEg) | 5:08 | 2022-05-24 |  |
+| [Wheelpower And Go! \- Extended Mix](https://open.spotify.com/track/1lWTxEDBdvbGOngkTor6RG) | [Dejo](https://open.spotify.com/artist/3rgGi7LiN9mc5q3yHSZj0e), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju) | [Fire Trails](https://open.spotify.com/album/63LEzPJxIVtYyMBsy0cD2t) | 5:08 | 2023-07-11 |  |
+| [Wheelpower And Go! \- Extended mix](https://open.spotify.com/track/54qcESwnWTtQBsTIEmPmJB) | [Dejo](https://open.spotify.com/artist/3rgGi7LiN9mc5q3yHSZj0e), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju) | [Bratt Sinclaire Eurobeat Style Vol.14](https://open.spotify.com/album/1602NuLcMSIF1chdZewiEg) | 5:08 | 2022-05-24 | 2023-12-06 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

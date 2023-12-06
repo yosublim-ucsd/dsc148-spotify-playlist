@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,976 likes - 33 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,056 likes - 33 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 26 | [GAS GAS GAS \- EXTENDED MIX](https://open.spotify.com/track/5A32buYzWvtkJizBkX8OCQ) | [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [GAS GAS GAS](https://open.spotify.com/album/0uhTliVFDT7CCzitqtW4KA) | 4:21 |
 | 27 | [THE RACE OF THE NIGHT](https://open.spotify.com/track/5a4hArSlv7i3784T7YJKaq) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION](https://open.spotify.com/album/5IWYS5uU24ol0NotfK8XqV) | 4:43 |
 | 28 | [The Top \- Extended Ver.](https://open.spotify.com/track/0soHG17CsBtQqjX7Ygvfwt) | [KEN BLAST](https://open.spotify.com/artist/2UqOfH9sWaoyHyOtlRNp7P) | [Super Eurobeat Vol.217](https://open.spotify.com/album/0RllqPOD1JcWeaUcZAWCeX) | 4:36 |
-| 29 | [Wheelpower And Go! \- Extended mix](https://open.spotify.com/track/54qcESwnWTtQBsTIEmPmJB) | [Dejo](https://open.spotify.com/artist/3rgGi7LiN9mc5q3yHSZj0e), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju) | [Bratt Sinclaire Eurobeat Style Vol.14](https://open.spotify.com/album/1602NuLcMSIF1chdZewiEg) | 5:08 |
+| 29 | [Wheelpower And Go! \- Extended Mix](https://open.spotify.com/track/1lWTxEDBdvbGOngkTor6RG) | [Dejo](https://open.spotify.com/artist/3rgGi7LiN9mc5q3yHSZj0e), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju) | [Fire Trails](https://open.spotify.com/album/63LEzPJxIVtYyMBsy0cD2t) | 5:08 |
 | 30 | [Adrenaline](https://open.spotify.com/track/5lxcV6KE2x3am3gtBCzYUc) | [Ace](https://open.spotify.com/artist/0eF7CXsaTUjvCiiGkgKRQT) | [Super Eurobeat Vol\. 225](https://open.spotify.com/album/3epa4cuYMhq2Y3nkjNtGKI) | 4:22 |
 | 31 | [Rage your dream](https://open.spotify.com/track/4n54JaXMZLwJ3qUPnLh8TC) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Rage your dream](https://open.spotify.com/album/6fdW8U59XKOZcHIAe1DWud) | 4:32 |
 | 32 | [SPACE BOY \- feat\. MOTSU](https://open.spotify.com/track/7mogXiwfyDlSp5pyO31zfR) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [SPACE BOY \(feat\. MOTSU\)](https://open.spotify.com/album/09DSKsiXa71yFjxKk5jfGs) | 4:23 |
 | 33 | [DEJA VU \- Yuta Imai Remix](https://open.spotify.com/track/7xGdck3GbTSk7b3uSFQ91w) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [DEJA VU \(Yuta Imai Remix\)](https://open.spotify.com/album/24aoHrgiGdSC6JSwxR55rM) | 3:02 |
 
-Snapshot ID: `MCwxODQwYjE5N2NlOTQ4MjgwNjRlMTZkN2QwMjU3OTViODQxOWYyZDJj`
+Snapshot ID: `MCwyYjlkZDlmYmQ0YzE5MGYzNDQzY2IyOWU1YmQwNjBlNmZlNDA4Zjgw`

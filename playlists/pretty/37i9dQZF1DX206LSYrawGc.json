@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 264696,
+  "num_followers": 264879,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZjMzUwNzcxMzE2ZmQ2MjcwMWMzNzgyZWE5ZWIwOWYzNzYwZjZl",
+  "snapshot_id": "MCw3ZWJiNmU5Zjk4NTc1ZGYxNGM2YmVjMTBlMjlkZjcyZTIzZTQ3ZmVh",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 353786,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
-    },
-    {
       "added_at": "2022-06-29 17:56:03",
       "album": {
         "name": "Girls, Girls, Girls (40th Anniversary; 2021 - Remaster)",
@@ -695,6 +679,22 @@
       "duration_ms": 281666,
       "name": "Wild Side (2021- Remaster)",
       "url": "https://open.spotify.com/track/3C7tm62iWcPuIbZRUp5AZU"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 353786,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
     },
     {
       "added_at": "2021-03-16 22:32:51",

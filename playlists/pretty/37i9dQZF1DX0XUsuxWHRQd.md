@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music Jack Harlow, Drake and Sexyy Red.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,696,624 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,698,770 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Snail Shells](https://open.spotify.com/track/028IoCfEoEoM9fwodhqNP5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Saint Michael V2](https://open.spotify.com/album/5wBErX7aRc72byoh2KIHl6) | 1:31 |
 | 50 | [Better Than Ever \(feat\. Rod Wave\)](https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Decided 2](https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ) | 4:03 |
 
-Snapshot ID: `MCwyOTIwYTAyNjkxMDMxZjM0ODMzZWE4ZmFjNTYyMGQzMWZhM2UxMmJk`
+Snapshot ID: `MCw1ZGFhNmQ3NmRhYTY2ODI5NTQ1ZDMwZjAzODg3M2I5OTA4NzkwNTJm`

@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 179964,
+  "num_followers": 180108,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDk1YjJmNjQzZDRkODFmYTgyYmE1ZjBhNjk2N2I3MGU4NGE4ZWE0",
+  "snapshot_id": "MCwyMzU3N2Q4MmNkYmE4Y2QzYjQ2NTExNWQ0ZWM4ZTE4NzgwNWY4Zjhj",
   "tracks": [
     {
       "added_at": "2021-09-28 03:14:02",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/4cMHCRLPNoEbpnl2rz6GS9"
     },
     {
+      "added_at": "2023-01-19 21:29:10",
+      "album": {
+        "name": "Music for the Masses (2006 Remaster)",
+        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Never Let Me Down Again - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
+    },
+    {
       "added_at": "2021-09-28 03:14:02",
       "album": {
         "name": "The Unforgettable Fire (Remastered)",
@@ -695,22 +711,6 @@
       "duration_ms": 203266,
       "name": "Close to Me - 2006 Remaster",
       "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
-    },
-    {
-      "added_at": "2023-01-19 21:29:10",
-      "album": {
-        "name": "Music for the Masses (2006 Remaster)",
-        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Never Let Me Down Again - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 286840,
-      "name": "Rebel Yell - Remastered 1999",
-      "url": "https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Fragile (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 510573,
       "name": "Roundabout - 2003 Remaster",
       "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 286840,
+      "name": "Rebel Yell - Remastered 1999",
+      "url": "https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc"
     },
     {
       "added_at": "2021-09-28 03:14:02",

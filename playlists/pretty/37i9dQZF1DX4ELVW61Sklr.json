@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 178107,
+  "num_followers": 178689,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODZiNTUxZmU0ZjdkMDkyZmY4ODQ5MDUxMGVlZDI0NGMwMWJiOTBl",
+  "snapshot_id": "MCxhMGY4OTBkNDM0NjAxZDA1N2Q4NTRkZmQzMTA4NzU0YzNmZTFlZDY4",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Ashanti's Christmas",
-        "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Christmas Time Again",
-      "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Home For Christmas",
@@ -507,6 +491,22 @@
       "duration_ms": 287426,
       "name": "I Can Hardly Wait 'Til Christmas",
       "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Ashanti's Christmas",
+        "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Christmas Time Again",
+      "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -687,6 +687,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas with PJ Morton (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 203207,
       "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
       "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -823,6 +823,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 140140,
       "name": "Santa Baby (with Summer Walker)",
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Litmas",
-        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Litmas",
-      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
     },
     {
-      "added_at": "2023-11-18 05:00:00",
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 145925,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Home For The Holidays",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-11-18 05:00:00",
       "album": {
-        "name": "Sleigh",
-        "url": "https://open.spotify.com/album/0uclO2Rx8I2zKd3AWRmpHs"
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
       },
       "artists": [
         {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Sleigh",
-      "url": "https://open.spotify.com/track/68Yalnq8hXLbLzO9rsm3X8"
+      "duration_ms": 145925,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1071,6 +1055,38 @@
       "duration_ms": 232840,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "A Special Christmas",
+        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
+    },
+    {
+      "added_at": "2023-11-18 05:00:00",
+      "album": {
+        "name": "Sleigh",
+        "url": "https://open.spotify.com/album/0uclO2Rx8I2zKd3AWRmpHs"
+      },
+      "artists": [
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Sleigh",
+      "url": "https://open.spotify.com/track/68Yalnq8hXLbLzO9rsm3X8"
     },
     {
       "added_at": "2023-11-18 05:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 178998,
       "name": "You Bring The Love",
       "url": "https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "A Special Christmas",
-        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
-      "added_at": "2023-11-03 05:45:27",
-      "album": {
-        "name": "Christmastime is here",
-        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 317847,
-      "name": "Christmastime is here",
-      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
@@ -1177,20 +1161,20 @@
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2023-11-03 05:45:27",
       "album": {
-        "name": "Spend Christmas With You",
-        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
+        "name": "Christmastime is here",
+        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
       },
       "artists": [
         {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
         }
       ],
-      "duration_ms": 195816,
-      "name": "Spend Christmas With You",
-      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
+      "duration_ms": 317847,
+      "name": "Christmastime is here",
+      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1211,6 +1195,22 @@
       "duration_ms": 190286,
       "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
       "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Spend Christmas With You",
+        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Spend Christmas With You",
+      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        },
-        {
-          "name": "Kendra Jae",
-          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
-        }
-      ],
-      "duration_ms": 171056,
-      "name": "Under the Mistletoe (with Kendra Jae)",
-      "url": "https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "Still Home For The Holidays",
         "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
       },
@@ -1289,24 +1269,24 @@
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
-      "added_at": "2022-12-16 05:50:43",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Here (For Christmas)",
-        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
       },
       "artists": [
         {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
         },
         {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Kendra Jae",
+          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
         }
       ],
-      "duration_ms": 253046,
-      "name": "Here (For Christmas)",
-      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
+      "duration_ms": 171056,
+      "name": "Under the Mistletoe (with Kendra Jae)",
+      "url": "https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1327,6 +1307,26 @@
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+    },
+    {
+      "added_at": "2022-12-16 05:50:43",
+      "album": {
+        "name": "Here (For Christmas)",
+        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 253046,
+      "name": "Here (For Christmas)",
+      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     }
   ],
   "unique_name": "R&B Christmas",

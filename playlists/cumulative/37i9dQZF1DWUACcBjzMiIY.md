@@ -4,14 +4,14 @@
 
 > Easy listening for a pleasant drive.
 
-386 songs - 1 day 0 hr 43 min
+387 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 | 2019-06-21 |  |
 | [100 Years](https://open.spotify.com/track/0B5KeB25moPkcQUnbDvj3t) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle For Everything](https://open.spotify.com/album/3o03nl4jDQYUDuX9d8lylY) | 4:04 | 2019-06-21 | 2022-11-13 |
 | [A New Day Has Come](https://open.spotify.com/track/1Hck0Y3AgGLIvv9pRuq3ti) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/5QN7mdrNquAGx37ixtQnLO) | 5:41 | 2019-06-21 | 2022-07-29 |
-| [A New Day Has Come](https://open.spotify.com/track/6LefIBy3hzTN6Yd1m81gpC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 5:41 | 2019-06-21 |  |
+| [A New Day Has Come](https://open.spotify.com/track/6LefIBy3hzTN6Yd1m81gpC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 5:41 | 2019-06-21 | 2023-12-06 |
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2019-06-21 |  |
 | [A Thousand Years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 | 2019-06-21 |  |
 | [Across The Universe \- Remastered 2009](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:48 | 2019-06-21 |  |
@@ -109,6 +109,7 @@
 | [Gone, Gone, Gone](https://open.spotify.com/track/56sxN1yKg1dgOZXBcAHkJG) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon](https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E) | 3:29 | 2019-06-21 |  |
 | [Gone, Gone, Gone](https://open.spotify.com/track/5L79aNYCTKiZq7vaOElXYj) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon \(Deluxe\)](https://open.spotify.com/album/773GsAWk3z8mGgMDeR7n1A) | 3:29 | 2019-06-21 | 2022-12-03 |
 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 | 2023-11-03 |  |
+| [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 | 2023-11-03 |  |
 | [Good Old Days \(feat\. Kesha\)](https://open.spotify.com/track/2Za1AlJNvksouPPWbXpR2X) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [GEMINI](https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2) | 4:00 | 2019-06-21 |  |
 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 | 2019-06-21 |  |
 | [Goodbye My Lover](https://open.spotify.com/track/3Iya0xOCXhgSdDwIYM75wh) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK) | 4:18 | 2019-06-21 | 2022-02-09 |

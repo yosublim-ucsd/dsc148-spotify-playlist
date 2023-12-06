@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Black Noise Brainwaves",
+        "url": "https://open.spotify.com/album/0RxgWTvsPWPONveWKrt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Soundverb",
+          "url": "https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313562,
+      "name": "Black Noise Brainwaves",
+      "url": "https://open.spotify.com/track/26rQZ6fJl7zsWL9A6Dg5tv"
+    },
+    {
+      "album": {
         "name": "Black Noise Sleeping",
         "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
       },
@@ -2300,6 +2318,24 @@
       "duration_ms": 147250,
       "name": "Placid Black Noise - Seamless",
       "url": "https://open.spotify.com/track/53bFTZXzQF0Cyr1NT1r22h"
+    },
+    {
+      "album": {
+        "name": "Precision Black Noise",
+        "url": "https://open.spotify.com/album/4dbKAwo7geHFOsNeMGOfS1"
+      },
+      "artists": [
+        {
+          "name": "Noyze Freq",
+          "url": "https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296843,
+      "name": "Precision Black Noise",
+      "url": "https://open.spotify.com/track/1tu0CljjpVzkEsHEqbDUoh"
     },
     {
       "album": {

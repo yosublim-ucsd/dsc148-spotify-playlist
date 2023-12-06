@@ -1,12 +1,12 @@
 {
   "description": "This week's best new metal & hard rock tracks. Cover: P.O.D. & Tatiana Shmayluk of Jinjer",
-  "num_followers": 712180,
+  "num_followers": 712251,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDA5ZWU5ZDIxMWFmYzcyNTJmMzk1YTY4NzZjYTExNGJlNjI5OTRi",
+  "snapshot_id": "MCwyMGMxZWRjMmQ2MDAwOWU3ODlmODU2NGQwZmVlOTQ3MTM3M2M4NzI3",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -509,6 +509,38 @@
       "url": "https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x"
     },
     {
+      "added_at": "2023-12-06 00:05:02",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/7ACxLfrkh5ADpD0Xwry40J"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 194656,
+      "name": "Demigod",
+      "url": "https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow"
+    },
+    {
+      "added_at": "2023-12-06 00:23:22",
+      "album": {
+        "name": "Rodent",
+        "url": "https://open.spotify.com/album/6yV3LE8RLvpVmYYfWKRwJ7"
+      },
+      "artists": [
+        {
+          "name": "Verona on Venus",
+          "url": "https://open.spotify.com/artist/375AHSKPxfGjbQySaTa2VW"
+        }
+      ],
+      "duration_ms": 254199,
+      "name": "Rodent",
+      "url": "https://open.spotify.com/track/7tMNOySqYpwyWQarUZo72r"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Boogeyman Boogie",
@@ -679,22 +711,6 @@
       "duration_ms": 248306,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/6GlVs8IEegaQY3Tw5DG16t"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Ad Infernum",
-        "url": "https://open.spotify.com/album/0wO9Yhqdrh6RCZeF4EfJ95"
-      },
-      "artists": [
-        {
-          "name": "Dead Icarus",
-          "url": "https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS"
-        }
-      ],
-      "duration_ms": 355221,
-      "name": "Ad Infernum",
-      "url": "https://open.spotify.com/track/1OvyyYbZZjbbFBs9AS6ijP"
     },
     {
       "added_at": "2023-12-01 05:00:00",

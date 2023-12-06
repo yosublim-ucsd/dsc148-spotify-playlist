@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,494 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,534 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 34 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 |
 | 35 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 |
 | 36 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 |
-| 37 | [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 |
+| 37 | [A2B](https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6gvw0F8qkG8VA03z1U8eCN) | 2:10 |
 | 38 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 | 39 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Why Do the Bad Things Feel Good](https://open.spotify.com/album/3skESfWDfea0zr9H54Ql0Z) | 3:21 |
 | 40 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 59 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
 | 60 | [BITTERSWEET](https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [BITTERSWEET](https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX) | 2:38 |
 
-Snapshot ID: `MCxlNDdkZDc1N2Y2YTMwODI3ZGU2YzVkNDlmNjEwMDczNTExMGRiY2Zh`
+Snapshot ID: `MCxhZGM2NzU4Y2MzNmRiY2MyZWVmZGYzNmY0YjViOTMyODExNDYyMzQw`

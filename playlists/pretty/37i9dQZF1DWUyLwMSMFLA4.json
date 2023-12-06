@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 478655,
+  "num_followers": 478799,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTU5MDEyNDQxOWZjNTJmOTBmYzZkNjM0NGY5ZGE3MTYyZGMzOTkz",
+  "snapshot_id": "MCwzNzhjNWVlYTU2N2MxZGFjMjgzOTdlNGE5ODFkZTRiY2MxM2U4NzRi",
   "tracks": [
     {
       "added_at": "2023-10-27 14:10:50",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
+        "name": "Los M\u00e1s Grandes Exitos",
+        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Se Me Ha Perdido un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
-        "name": "Los M\u00e1s Grandes Exitos",
-        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 206520,
-      "name": "Se Me Ha Perdido un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -963,22 +979,6 @@
       "duration_ms": 200893,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 344280,
-      "name": "Amor Clasificado",
-      "url": "https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
         "name": "Me Muero de Amor (En Vivo)",
         "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 208619,
       "name": "Me Muero de Amor - En Vivo",
       "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 344280,
+      "name": "Amor Clasificado",
+      "url": "https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
         "name": "Amor pirata",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
-        "name": "200 Copas",
-        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        }
-      ],
-      "duration_ms": 237738,
-      "name": "200 Copas",
-      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+        "name": "200 Copas",
+        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
       },
       "artists": [
         {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 233613,
-      "name": "Porque te amo",
-      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+      "duration_ms": 237738,
+      "name": "200 Copas",
+      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Porque te amo",
+      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
         "name": "El Color De Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 195586,
       "name": "No Podre Olvidarme",
       "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
+        "name": "Rodrigo - Lo mejor del amor",
+        "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Lo mejor del amor",
+      "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1343,22 +1359,6 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
-        "name": "Rodrigo - Lo mejor del amor",
-        "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Lo mejor del amor",
-      "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
-        "name": "Los Verdugos De La Mufa",
-        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
+        "name": "Los Verdugos De La Mufa",
+        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Te Pido Perdon",
-      "url": "https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Te Pido Perdon",
+      "url": "https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1627,38 +1627,6 @@
       "duration_ms": 243920,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
-        "name": "Soy Sabalero",
-        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 179583,
-      "name": "Soy Sabalero",
-      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
     },
     {
       "added_at": "2023-10-27 14:10:50",
@@ -1711,6 +1679,54 @@
     {
       "added_at": "2023-10-27 14:10:50",
       "album": {
+        "name": "Soy Sabalero",
+        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Soy Sabalero",
+      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Chica del Este",
+      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
+    },
+    {
+      "added_at": "2023-10-27 14:10:50",
+      "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 254333,
       "name": "Vienes y Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2023-10-27 14:10:50",
-      "album": {
-        "name": "10 A\u00f1os",
-        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Chica del Este",
-      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
     },
     {
       "added_at": "2023-10-27 14:10:50",

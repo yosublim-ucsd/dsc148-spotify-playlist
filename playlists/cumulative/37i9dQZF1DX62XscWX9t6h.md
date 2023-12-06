@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-129 songs - 9 hr 5 min
+130 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Badi Sabah Olmadan](https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:43 | 2022-03-11 | 2023-08-15 |
 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 | 2023-11-23 |  |
 | [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 | 2021-10-20 |  |
-| [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 | 2022-03-04 |  |
+| [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 | 2022-03-04 | 2023-12-06 |
 | [Break Away](https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:06 | 2022-04-17 |  |
 | [Buleríâ del aire acondiçionao \(feat\. Miguelito García\) \- Versión Maxi](https://open.spotify.com/track/0yV9em29PuD1roFpthc0aQ) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Miguelito García](https://open.spotify.com/artist/0hGbfFHeG8GY5idG4PO31p) | [Puerta de la Cânne](https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C) | 4:40 | 2021-10-20 |  |
 | [Calling England Home](https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9) | [Calling England Home](https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz) | 6:13 | 2021-10-20 |  |
@@ -40,6 +40,7 @@
 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 | 2021-10-20 |  |
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-02-23 |  |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-10-20 |  |
+| [East Of Any Place](https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 2:10 | 2023-12-05 |  |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F) | 5:01 | 2022-02-18 |  |
 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 | 2021-10-20 | 2023-09-10 |
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2021-10-20 |  |

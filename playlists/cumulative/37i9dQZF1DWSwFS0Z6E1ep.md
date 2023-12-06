@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s.
 
-298 songs - 12 hr 54 min
+299 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Bye Bye Love](https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:22 | 2022-06-07 | 2023-12-04 |
 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 | 2022-06-07 | 2023-09-15 |
 | [Bye Bye Love](https://open.spotify.com/track/1j7HyD3cxyYw9bMFevxWyR) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | ["All I Do Is Dream" Everly Brothers](https://open.spotify.com/album/6c6lTSg4kIOMQ52CkTTUEx) | 2:24 | 2021-04-23 | 2022-07-29 |
-| [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 | 2022-06-07 |  |
+| [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 | 2022-06-07 | 2023-12-06 |
+| [Bye Bye Love](https://open.spotify.com/track/3To4AGsFPnDlP7oYj8nyuh) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Everly Brothers](https://open.spotify.com/album/2mD3cUWmcoehgpTCsNCSyV) | 2:24 | 2022-06-07 |  |
 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 | 2021-04-23 |  |
 | [Can't Buy Me Love \- Remastered](https://open.spotify.com/track/7KmRz1oKEwgj9qpfn72OfO) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D) | 2:11 | 2022-06-07 | 2022-07-29 |
 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 | 2022-06-07 | 2023-05-31 |

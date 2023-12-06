@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-467 songs - 1 day 4 hr 39 min
+469 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [growing pains](https://open.spotify.com/track/7BOoSqdeANMIO1xwHpQJ89) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 3:31 | 2023-08-24 | 2023-11-03 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-13 |  |
 | [Hallway Weather](https://open.spotify.com/track/0XYC5esjcwkqAYVtPvEUST) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Hallway Weather](https://open.spotify.com/album/2SBsj6Pk4ZCY5lmsWDjjvi) | 3:53 | 2023-04-20 | 2023-05-31 |
-| [Hana \- Ballad](https://open.spotify.com/track/08ldhcNuoqot1mavblvKfc) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/3IGw7uRv2y5lTMlIe8PLeT) | 4:07 | 2023-11-02 |  |
+| [Hana \- Ballad](https://open.spotify.com/track/08ldhcNuoqot1mavblvKfc) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/3IGw7uRv2y5lTMlIe8PLeT) | 4:07 | 2023-11-02 | 2023-12-06 |
 | [hands](https://open.spotify.com/track/38brEUUgL0fFovAqQMm9gb) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 5:58 | 2022-10-20 | 2022-11-09 |
 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2022-10-20 |  |
 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2022-11-08 |  |
@@ -208,7 +208,7 @@
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz) | 3:25 | 2022-12-06 | 2023-02-22 |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-10-20 | 2023-03-22 |
 | [I'm Still](https://open.spotify.com/track/24zGCRo8XIpi5Qdi987i2K) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/0HTFMinf7xWQtmfP7abwVD) | 5:29 | 2023-08-15 | 2023-09-22 |
-| [I'm Wondering If \- KZOK version](https://open.spotify.com/track/7xo88tFEvWWSfL5cjQtJsY) | [Blind Willie](https://open.spotify.com/artist/77Wn9w8XVyOcJOe7CB0Obc) | [Blind Willie](https://open.spotify.com/album/6yBtvBR62dkOQDqaI26iFi) | 3:31 | 2023-09-21 |  |
+| [I'm Wondering If \- KZOK version](https://open.spotify.com/track/7xo88tFEvWWSfL5cjQtJsY) | [Blind Willie](https://open.spotify.com/artist/77Wn9w8XVyOcJOe7CB0Obc) | [Blind Willie](https://open.spotify.com/album/6yBtvBR62dkOQDqaI26iFi) | 3:31 | 2023-09-21 | 2023-12-06 |
 | [If I Was A Painter](https://open.spotify.com/track/6HNRHvqwjiQc0deescr4x6) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [All Of This Is Chance](https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE) | 4:07 | 2023-02-09 | 2023-02-17 |
 | [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 | 2023-03-07 |  |
 | [Impossible Isle](https://open.spotify.com/track/1tM82FSU8iBUzkbsmoonOc) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Infinity Sunset](https://open.spotify.com/album/44TG59bpLSTuANLGSnhToH) | 3:58 | 2022-11-08 | 2022-11-13 |
@@ -274,6 +274,7 @@
 | [Never Saw It Coming](https://open.spotify.com/track/25HpCBspDVXL1XigIDzLwF) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 3:07 | 2023-11-14 |  |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2022-12-22 |  |
 | [new day](https://open.spotify.com/track/7uVtYRoo4ZQX8LNBETpMkY) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [new day](https://open.spotify.com/album/1UwzyiMeZwNh3oGITGHm8u) | 3:44 | 2023-01-10 | 2023-01-18 |
+| [New In Town](https://open.spotify.com/track/30d9CfN1PElhNtGWIzlhYR) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [New In Town](https://open.spotify.com/album/3efyVqUDcIGkkgrgalIPOL) | 2:45 | 2023-12-05 |  |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-10-20 | 2023-01-06 |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 | 2023-11-16 |
 | [Nonvignon](https://open.spotify.com/track/0HIrwgryXKOJ0CIfyP3gds) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Nonvignon](https://open.spotify.com/album/7JHB9DWgncfSI4q58mi2eU) | 3:53 | 2023-04-20 | 2023-09-22 |
@@ -361,7 +362,7 @@
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2022-12-15 |  |
 | [The Meeting Place](https://open.spotify.com/track/7n09veyrtEC6g7e33V98XY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [The Meeting Place](https://open.spotify.com/album/6FEnZmqXQQg9QwiiUZsDVn) | 4:22 | 2023-03-14 | 2023-04-21 |
 | [The Show \(with John Legend\)](https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:11 | 2023-11-02 |  |
-| [The translator sings](https://open.spotify.com/track/2DUjwpK2MEWL745k5vEOzM) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [The translator sings](https://open.spotify.com/album/1J0uPRxwn9MqJBX1DU30Qt) | 2:49 | 2023-11-14 |  |
+| [The translator sings](https://open.spotify.com/track/2DUjwpK2MEWL745k5vEOzM) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [The translator sings](https://open.spotify.com/album/1J0uPRxwn9MqJBX1DU30Qt) | 2:49 | 2023-11-14 | 2023-12-06 |
 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 | 2023-03-14 | 2023-09-23 |
 | [The World](https://open.spotify.com/track/1FnMJKhfwSZlQRL6SyP162) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/25I9wFWR6xbLZYP6veOxhw) | 3:06 | 2022-11-15 | 2022-11-17 |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-15 | 2023-03-27 |
@@ -429,7 +430,7 @@
 | [コハルビヨリ](https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [コハルビヨリ](https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz) | 4:24 | 2023-05-23 | 2023-08-16 |
 | [セラヴィ \-c'est la vie\-](https://open.spotify.com/track/1MDpjHl1plH4ZyQkVqIU4k) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [セラヴィ \-c'est la vie\-](https://open.spotify.com/album/0egtsy2R72JXPLqyZVg3nm) | 4:15 | 2023-03-30 | 2023-04-21 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-21 |
-| [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 | 2023-03-01 |
+| [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 |  |
 | [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 | 2023-11-01 |
 | [ハローソング](https://open.spotify.com/track/07FLYYBSqru9qs5hFlMa2N) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [ハローソング](https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9) | 2:56 | 2023-07-20 | 2023-08-02 |
 | [バラード気分](https://open.spotify.com/track/4XQ95yHjkLVfPFdEQW6P0X) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [ハザードオブラブ](https://open.spotify.com/album/4mnLjBxlCFOlMLs017DURJ) | 3:58 | 2023-11-28 | 2023-11-30 |
@@ -437,6 +438,7 @@
 | [ブルーグラス](https://open.spotify.com/track/7Lp7f1LepstiBcED0WZHXb) | [the hollows](https://open.spotify.com/artist/4WfM6bTmKWlemJydz5SHTA), [田中カズ](https://open.spotify.com/artist/57Gil4buf0JDxk8h29FGUw) | [ブルーグラス](https://open.spotify.com/album/2vkRImsgwYenvjNrw0c2Jw) | 4:28 | 2023-02-14 | 2023-03-01 |
 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 | 2022-10-20 | 2022-11-09 |
 | [マリーアン](https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [マリーアン](https://open.spotify.com/album/2KOYRhDdqcjpzL6c80EUHS) | 2:37 | 2023-10-10 | 2023-11-01 |
+| [人人](https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [人人](https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh) | 4:21 | 2023-12-05 |  |
 | [傘](https://open.spotify.com/track/20vsE9x63o1JUlMbU2qZ3O) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [傘](https://open.spotify.com/album/100ElNipKedqL4iTrDFMrx) | 3:03 | 2022-11-29 | 2022-12-07 |
 | [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-10-20 | 2022-11-09 |
 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 | 2022-10-20 | 2022-11-02 |

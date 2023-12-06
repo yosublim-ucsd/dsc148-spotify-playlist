@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,281 likes - 94 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,834 likes - 94 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,16 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 70 | [So Bad \(feat\. HAIM\)](https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:36 |
 | 71 | [Avenue](https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM) | 3:16 |
 | 72 | [Hair Down](https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/6GkRXv0hCHePEkqkhxCpk2) | 3:36 |
-| 73 | [Sweet Life](https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Sweet Life](https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr) | 2:56 |
-| 74 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
+| 73 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
+| 74 | [Sweet Life](https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Sweet Life](https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr) | 2:56 |
 | 75 | [Orbit \- Live from Air Studios](https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Orbit \(Live from Air Studios\)](https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV) | 3:54 |
 | 76 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
 | 77 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
 | 78 | [gangster romanse \(feat\. Magdi\)](https://open.spotify.com/track/1wYNkGybIdmnXFtTM7sS9C) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Magdi](https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J) | [sukkerspinn & hodepine \(Del 2\)](https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0) | 2:43 |
 | 79 | [Hopeful](https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [How Is Your Soul?](https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X) | 2:46 |
-| 80 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
-| 81 | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \- Remix](https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \[Remix\]](https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO) | 3:31 |
-| 82 | [like you](https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic), [Days to Waste](https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26), [fawlin](https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm) | [like you](https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo) | 3:14 |
+| 80 | [like you](https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic), [Days to Waste](https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26), [fawlin](https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm) | [like you](https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo) | 3:14 |
+| 81 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
+| 82 | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \- Remix](https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Roll Some Mo \(feat\. Ty Dolla $ign & Wale\) \[Remix\]](https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO) | 3:31 |
 | 83 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
 | 84 | [21](https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [21](https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf) | 3:15 |
 | 85 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 94 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
 
-Snapshot ID: `MCw0M2NlMjE5MTQ2ZTA5MGEwZmM4YThhOTBjOTE1YWIwMTgyNTMyZGYy`
+Snapshot ID: `MCw5MTg4NWQ0NTk1OGY4YjY2NjRmYWU1ZmU3NjJjMDgyODZhNjhkOTJk`

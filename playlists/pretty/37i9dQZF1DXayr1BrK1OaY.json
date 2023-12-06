@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 199168,
+  "num_followers": 199839,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         }
       ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Keep On Dancing",
+        "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "Keep On Dancing",
+      "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "BRONSON",
         "url": "https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg"
       },
@@ -871,18 +887,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Keep On Dancing",
-        "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 185520,
-      "name": "Keep On Dancing",
-      "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
+      "duration_ms": 285093,
+      "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
+      "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -907,26 +927,6 @@
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
-      "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 203947,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 199906,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 203947,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1063,26 +1063,6 @@
       "duration_ms": 183536,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Forever In My Mind",
-        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "LPW",
-          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
-        }
-      ],
-      "duration_ms": 152610,
-      "name": "Forever In My Mind",
-      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1143,6 +1123,26 @@
       "duration_ms": 240000,
       "name": "Little Planets - Remix",
       "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Forever In My Mind",
+        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        }
+      ],
+      "duration_ms": 152610,
+      "name": "Forever In My Mind",
+      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 267842,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "A Girl Between Two Worlds",
         "url": "https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 446510,
       "name": "What's a Girl to Do",
       "url": "https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 267842,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lone Raver",
-        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 257299,
-      "name": "Lone Raver",
-      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 448800,
       "name": "Always",
       "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Lone Raver",
+        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 257299,
+      "name": "Lone Raver",
+      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Len\u00e7\u00f3is (Love Me) [Notre Dame Remix]",
-        "url": "https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ"
+        "name": "Believe In Myself",
+        "url": "https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
         }
       ],
-      "duration_ms": 304927,
-      "name": "Len\u00e7\u00f3is (Love Me) - Notre Dame Remix",
-      "url": "https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw"
+      "duration_ms": 221387,
+      "name": "Believe In Myself",
+      "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
     }
   ],
   "unique_name": "crying on the dance floor",

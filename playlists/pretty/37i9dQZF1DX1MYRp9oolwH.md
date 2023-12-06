@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,486 likes - 48 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,533 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs) | 3:39 |
-| 2 | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/track/1rB5ytMmm0IjMOydmIwX75) | [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Battu Vijay Kumar](https://open.spotify.com/artist/3yywCO2Grag7FotoRYObNR), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/album/6ZUTj4n7Kf5mtu2K41LdzV) | 3:12 |
+| 2 | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/track/1rB5ytMmm0IjMOydmIwX75) | [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k), [Battu Vijay Kumar](https://open.spotify.com/artist/3yywCO2Grag7FotoRYObNR), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Nuvve Nuvve \(From "Sapta Sagaralu Dhaati \- Side B"\)](https://open.spotify.com/album/6ZUTj4n7Kf5mtu2K41LdzV) | 3:12 |
 | 3 | [Humma Humma](https://open.spotify.com/track/4gkjonokhGz5iVg0Af5z1A) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Tirupathi Jaavana](https://open.spotify.com/artist/6kRspxY3CqfVt2tiKbd8HP) | [Ooru Peru Bhairavakona](https://open.spotify.com/album/6Sa8qfKnsIgzRch6aR7fga) | 3:09 |
 | 4 | [Hey Bujji Bangaram](https://open.spotify.com/track/2myUwmXr6AoPqvbyfKEgZB) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Aadikeshava](https://open.spotify.com/album/51Jfh7J7GTf3CR6l3bpq9S) | 3:54 |
 | 5 | [Prema Oh Ayudham \(From "Leo \(Telugu\)"\)](https://open.spotify.com/track/2GDGcLFc4mgmf3tOzziqXP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Prema Oh Ayudham \[From "Leo \(Telugu\)"\]](https://open.spotify.com/album/5gKy1rLXdS7TECWKj4x9po) | 3:34 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 47 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 48 | [Ninnu Choosi Choodanga](https://open.spotify.com/track/5ab5N1AiyDJBxZ1237eBqS) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Katha Venuka Katha](https://open.spotify.com/album/2jFleBZRXrLDcBHKACAucc) | 3:30 |
 
-Snapshot ID: `MCwzMTdmNzczZTljNzM2ODI4MzdlMDljMDZmYjM5OGM3NmEzZGU4OWU1`
+Snapshot ID: `MCxmOGM4YjNlZWRlNGY1OTY1ZDJhNzg3MjA2YWRlMmZiN2M5YjVjMjQ0`

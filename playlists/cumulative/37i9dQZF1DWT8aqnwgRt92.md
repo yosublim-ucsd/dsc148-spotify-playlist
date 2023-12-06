@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,068 songs - 2 day 19 hr 28 min
+1,070 songs - 2 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [AMBER](https://open.spotify.com/track/5M5MbNaEoXqBiRA0q1dSMk) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [華灯](https://open.spotify.com/album/3ru7HsERi4MJq4VfV8rVdv) | 3:54 | 2023-02-14 | 2023-02-16 |
 | [Anagram of Coda](https://open.spotify.com/track/5VEqP2gCkD2u7m5451CO0J) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/0MgCo4HDr5LKp6jks5wBh0) | 4:40 | 2022-08-23 | 2022-08-25 |
 | [Anagram of Coda \- off vocal](https://open.spotify.com/track/3pp0QnYSYdK1xGIetlfqnh) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/5rLplZ8aZBpjNCQyOaX7aT) | 4:40 | 2022-08-23 | 2022-09-21 |
+| [Angie](https://open.spotify.com/track/1Ll5LhieLQBzPnSZ4BduJ6) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Angie](https://open.spotify.com/album/684W97C1tLkWkAXAnSA3GH) | 3:01 | 2023-12-05 |  |
 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 | 2022-05-28 | 2022-07-06 |
 | [Another Complex](https://open.spotify.com/track/6FZSpjDp4A6AZE0mIPUHio) | [somei](https://open.spotify.com/artist/0tVhHQ4UZHCOsvrd3wf0km) | [Another Complex](https://open.spotify.com/album/4sqKDhjSQHH4hPYPim5pMY) | 4:27 | 2023-10-17 | 2023-10-27 |
 | [Another Self](https://open.spotify.com/track/7gz4Eo94PvX01geJuH8xDx) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Another Self](https://open.spotify.com/album/2txcg6rnTnKDCfHy9DivYm) | 3:35 | 2023-07-18 | 2023-09-08 |
@@ -229,7 +230,7 @@
 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 | 2022-06-09 | 2022-06-15 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7) | 4:03 | 2022-07-28 | 2022-10-19 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/1IlMcBvlQlPSd58GxEHX44) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:05 | 2023-01-10 | 2023-04-09 |
-| [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2023-10-03 |  |
+| [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2023-10-03 | 2023-12-06 |
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2023-10-24 |  |
 | [Here I Stand](https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand](https://open.spotify.com/album/6XHLf6XkdhyHJzWSUhh1f0) | 3:49 | 2023-03-31 | 2023-04-02 |
 | [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 | 2023-01-31 | 2023-04-01 |
@@ -572,6 +573,7 @@
 | [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 | 2023-01-05 | 2023-04-26 |
 | [TOP SPEED](https://open.spotify.com/track/7BdrHGMunb79QnPKDKMT12) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [TOP SPEED](https://open.spotify.com/album/40zpUuPgl8mFc84FtAH77b) | 1:37 | 2023-07-11 | 2023-07-26 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-08-17 |
+| [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/5mGYUEVZ9UR7JYKCbgWnkV) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/3SOGVZE05ZKcJSLIm3BLR6) | 2:28 | 2023-12-05 |  |
 | [TRANSFORMERS\-Earthspark!!](https://open.spotify.com/track/03JEwdYpFd63utphXDqy3k) | [サイキックラバー](https://open.spotify.com/artist/3RzP9wHS4d0hAFOqbvkEMs) | [TRANSFORMERS\-Earthspark!!](https://open.spotify.com/album/3OBm1szR6Iqe7M4BAG4Ub8) | 4:15 | 2023-10-03 | 2023-10-11 |
 | [TRIGGER](https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [TRIGGER](https://open.spotify.com/album/0FX4ocXqTa8VSq9QSXFA4O) | 4:34 | 2023-02-21 | 2023-04-21 |
 | [Triple Crown](https://open.spotify.com/track/2Xj29pmiylN4Ygdmtq2x53) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Who’s Me?](https://open.spotify.com/album/0Rkxo1b5OMjDR3II0flvm4) | 3:25 | 2023-06-27 | 2023-07-19 |
@@ -693,7 +695,7 @@
 | [ゆるり](https://open.spotify.com/track/1FU9vclbtQZGm5kkykkYUY) | [果歩](https://open.spotify.com/artist/3eFJ5DLTrkKw1kpb8gz2TS) | [ゆるり](https://open.spotify.com/album/08o1s4irye1tK3zvFkElZE) | 3:37 | 2023-10-10 |  |
 | [るろうの形代](https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [るろうの形代](https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4) | 3:24 | 2023-10-05 |  |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |
-| [をりふしの唄](https://open.spotify.com/track/2oUty1xXSQ8yXEZCUOxyrv) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [Dawn](https://open.spotify.com/album/0VNRPnERVF37ZmIUv5coD5) | 4:44 | 2023-11-14 |  |
+| [をりふしの唄](https://open.spotify.com/track/2oUty1xXSQ8yXEZCUOxyrv) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [Dawn](https://open.spotify.com/album/0VNRPnERVF37ZmIUv5coD5) | 4:44 | 2023-11-14 | 2023-12-06 |
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 | 2023-01-13 |
 | [アイオライト](https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [アイオライト](https://open.spotify.com/album/231sUO0rctK4kQGp4efhFA) | 3:45 | 2023-04-18 | 2023-07-12 |
 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2023-10-26 |  |

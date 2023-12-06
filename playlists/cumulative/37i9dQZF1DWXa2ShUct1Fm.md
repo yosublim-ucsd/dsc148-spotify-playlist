@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-199 songs - 11 hr 8 min
+200 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Shhh](https://open.spotify.com/track/3XI0t7rD8t7alUaC9bxKsb) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:06 | 2022-05-27 | 2023-08-01 |
 | [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA \(SEVENTEEN\)](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 | 2023-07-28 |  |
 | [Shining Diamond](https://open.spotify.com/track/4BHThgh4ODCszIJ6e4YGGw) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:23 | 2022-05-27 |  |
+| [Short Hair](https://open.spotify.com/track/4JCHRuXg9IRWBXtXtjgWxd) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1OpPuw9WMaPNTpI0wTutbz) | 3:41 | 2023-12-05 |  |
 | [Sickness \(feat.PLEDIS GIRLZ\)](https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [Sickness](https://open.spotify.com/album/3vX4Wr2G40cQAsNC5WO3K1) | 3:24 | 2022-05-27 |  |
 | [Side By Side \(Korean Version\)](https://open.spotify.com/track/4FXKLGkXw4v5Kw3pEWCTYV) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Side By Side](https://open.spotify.com/album/2icreg0F2hBSb6JGpTeOYA) | 2:59 | 2022-05-27 |  |
 | [SIMPLE](https://open.spotify.com/track/0mv9yj1mjcEJes46dHDib5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:40 | 2022-05-27 |  |

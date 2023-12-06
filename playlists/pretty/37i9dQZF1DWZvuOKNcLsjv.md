@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: テイラー・スウィフト\(Taylor Swift\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,721 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,768 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 |
 | 100 | [恋をして \- Acoustic Version](https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [恋をして \(Acoustic Version\)](https://open.spotify.com/album/0HP0RkqQbEKWvQO1rjbet8) | 2:52 |
 
-Snapshot ID: `MCw5ZDIxMjUyMTUwMDExYzNiOTI0NGJiYzFjOTU3YmVkYmNhMzI1MjQx`
+Snapshot ID: `MCwzZDJiNGUyZDc5YzVmNWM0NTJkMGIzNDJjMzk0ZWVmODQ5ZDM1MGRh`

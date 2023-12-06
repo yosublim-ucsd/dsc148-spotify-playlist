@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-689 songs - 1 day 6 hr 50 min
+690 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Above the horizon](https://open.spotify.com/track/5wI2gifR40G8xSipSS6Y0b) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:39 | 2021-12-23 | 2022-07-14 |
 | [Adrift](https://open.spotify.com/track/4wsC53BG8Fb5zeEH0cIvoT) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Adrift](https://open.spotify.com/album/4nVIT4fPofwAVw7GmJWQPV) | 3:41 | 2021-12-23 | 2023-01-26 |
 | [After Hours](https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [After Hours](https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C) | 1:51 | 2022-01-06 | 2023-07-14 |
-| [Afternoon coffee](https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:27 | 2022-07-28 |  |
+| [Afternoon coffee](https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:27 | 2022-07-28 | 2023-12-06 |
 | [Afternoon Rain](https://open.spotify.com/track/1iJnHe4sAY9GIaXKWv3gly) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain](https://open.spotify.com/album/3Ct0VS2eZA3QiVJXjwrhJR) | 2:53 | 2022-07-28 | 2023-04-27 |
 | [Afternoon Rain](https://open.spotify.com/track/5mpUj2p05omEr65a7DIJLS) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain](https://open.spotify.com/album/45ZDGJk840ObsQ4DnKiW3f) | 2:53 | 2022-01-06 | 2022-04-15 |
 | [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 | 2022-01-27 |  |
@@ -350,6 +350,7 @@
 | [lone flower](https://open.spotify.com/track/6NsPMaIFOHVCLtmFcB3QJc) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [lone flower](https://open.spotify.com/album/3aKlMgXMYadkXqtjcVcVQN) | 1:46 | 2023-09-28 |  |
 | [Long Live the King \- Instrumental](https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Long Live the King \(Instrumental\)](https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf) | 3:31 | 2021-12-23 | 2022-12-24 |
 | [longing](https://open.spotify.com/track/6g9mzW0JWmbTjBn322uAXa) | [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [BTW](https://open.spotify.com/album/47M6AklGuOo8XJ9UCGz9Wc) | 2:19 | 2022-01-27 | 2022-02-03 |
+| [Lost in Thought](https://open.spotify.com/track/3vfSOpKk9Hu3bRPuFScjI6) | [Lofi Milk](https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT), [Maho Fukami](https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP) | [Lost in Thought](https://open.spotify.com/album/6AluH8s9TOlpl78dzO2CRz) | 3:02 | 2023-12-05 |  |
 | [LOST SOULS](https://open.spotify.com/track/1hFa14hm2jsTnCPcOkI8IC) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw) | [LOST SOULS](https://open.spotify.com/album/2RxEUgSGEnFhqbGtAuXGyT) | 2:34 | 2022-08-04 | 2022-08-22 |
 | [Lucid Dream](https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Lucid Dream](https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui) | 2:42 | 2021-12-23 |  |
 | [Luv](https://open.spotify.com/track/1tJa54bWcdqb2kawGtd7ZB) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Runnin'](https://open.spotify.com/album/6bd0gJXzXRJxCNaTGAiS8c) | 1:27 | 2021-12-23 | 2022-02-11 |

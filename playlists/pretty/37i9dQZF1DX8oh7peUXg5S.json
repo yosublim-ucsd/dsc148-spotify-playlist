@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Serrat.",
-  "num_followers": 318027,
+  "num_followers": 318088,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTk4MTBiMjM1MjFmM2VmYjU2ZGJlNmZiMzNlMGZiNTY0YWM4NWY2",
+  "snapshot_id": "MCw3ZGUzYWEyMTYxY2IzZDcxNmQ0Y2Y4MzRlZTkxMmRjMjBlZjFlYTNk",
   "tracks": [
     {
       "added_at": "2023-12-01 15:52:27",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-12-01 15:52:27",
       "album": {
-        "name": "Fisica Y Quimica",
-        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 302933,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
+      "duration_ms": 217146,
+      "name": "Todo se transforma",
+      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
     },
     {
       "added_at": "2023-12-01 15:52:27",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-12-01 15:52:27",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Todo se transforma",
-      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+      "duration_ms": 302933,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
     },
     {
       "added_at": "2023-12-01 15:52:27",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-12-01 15:52:27",
       "album": {
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "La vida es m\u00e1s compleja de lo que parece",
+      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
+    },
+    {
+      "added_at": "2023-12-01 15:52:27",
+      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 192840,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
-    },
-    {
-      "added_at": "2023-12-01 15:52:27",
-      "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "La vida es m\u00e1s compleja de lo que parece",
-      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
     },
     {
       "added_at": "2023-12-01 15:52:27",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-12-01 15:52:27",
       "album": {
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/2FjvTumNw0T9JjgXWdk8wu"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/5whakz21q29cP0BlGfR2A7"
+    },
+    {
+      "added_at": "2023-12-01 15:52:27",
+      "album": {
         "name": "Algo contigo",
         "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 230136,
       "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
       "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
-    },
-    {
-      "added_at": "2023-12-01 15:52:27",
-      "album": {
-        "name": "Vestida De Nit",
-        "url": "https://open.spotify.com/album/2FjvTumNw0T9JjgXWdk8wu"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 158230,
-      "name": "Mechita",
-      "url": "https://open.spotify.com/track/5whakz21q29cP0BlGfR2A7"
     },
     {
       "added_at": "2023-12-01 15:52:27",

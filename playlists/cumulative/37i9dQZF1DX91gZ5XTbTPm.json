@@ -1030,7 +1030,7 @@
     {
       "album": {
         "name": "ATL Freestyle 1 & 2 (feat. Luh Tyler & Rob49)",
-        "url": "https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ"
+        "url": "https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE"
       },
       "artists": [
         {
@@ -1049,6 +1049,32 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 127741,
+      "name": "ATL Freestyle 1 (feat. Luh Tyler & Rob49)",
+      "url": "https://open.spotify.com/track/0lCuickjQ0wGBvYDYc2TLA"
+    },
+    {
+      "album": {
+        "name": "ATL Freestyle 1 & 2 (feat. Luh Tyler & Rob49)",
+        "url": "https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
       "duration_ms": 127741,
       "name": "ATL Freestyle 1 (feat. Luh Tyler & Rob49)",
       "url": "https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL"

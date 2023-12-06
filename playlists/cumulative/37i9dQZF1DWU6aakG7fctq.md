@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Méne
 
-507 songs - 1 day 4 hr 11 min
+508 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Cul De Sac](https://open.spotify.com/track/0LPhD0LxOeR5O6LIwFrQqd) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Cul De Sac](https://open.spotify.com/album/5hp7RfGh9v2CvFdmTkZHaS) | 4:20 | 2022-01-10 | 2022-07-29 |
 | [cup!](https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [cup!](https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe) | 2:14 | 2023-07-21 | 2023-09-02 |
 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 | 2022-05-06 | 2022-11-25 |
-| [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 | 2023-11-03 |  |
+| [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 | 2023-11-03 | 2023-12-06 |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2022-09-06 | 2023-03-11 |
 | [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 | 2023-09-22 |
 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 | 2022-12-09 | 2023-01-07 |
@@ -333,6 +333,7 @@
 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 | 2023-05-19 |  |
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2022-12-16 | 2023-04-15 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-06 | 2023-01-21 |
+| [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 | 2023-12-01 |  |
 | [Para cenar](https://open.spotify.com/track/7vJgPTBxooGDJ8U6b4JtUE) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Para cenar](https://open.spotify.com/album/7ygO1HGSFyUiRzbefypRAh) | 3:41 | 2022-12-09 | 2022-12-20 |
 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 | 2023-03-03 | 2023-03-25 |
 | [Para Nada](https://open.spotify.com/track/0f4PXAx8MCRSYl5A4RzNla) | [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [Para Nada](https://open.spotify.com/album/46qWTQj6l7vkquJKCWS5uS) | 2:26 | 2021-11-18 | 2022-07-27 |

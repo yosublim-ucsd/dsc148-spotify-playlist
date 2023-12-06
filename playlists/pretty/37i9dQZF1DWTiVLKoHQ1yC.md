@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,864 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,951 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 48 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 |
 | 49 | [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 |
 | 50 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
-| 51 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 |
-| 52 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
+| 51 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
+| 52 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 |
 | 53 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
 | 54 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
 | 55 | [Fallen](https://open.spotify.com/track/71yhzfnnCJGyqASU49wKJO) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/2lU1O72Qpkh9PFhP5UQM4F) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Unite](https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd) | 3:08 |
 | 60 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
 
-Snapshot ID: `MCw4YzZlZjc0YzIzZDBjOTg3MmU1ODM2OWVmOWRjZDk2NmY4NDY2ZGRh`
+Snapshot ID: `MCxlNDBkNWE5Y2IzZjIwNmM5NjExYzZiYTIzYzVjYjE2YzlmNTNjYTZm`

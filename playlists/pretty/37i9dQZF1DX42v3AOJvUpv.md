@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,920 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,941 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
 | 50 | [Varias Horas Soñando](https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 4:35 |
 
-Snapshot ID: `MCxiMWI3NjRkZTNhNzhlNDAxY2UxZjAzYjM2MmNkZDc5OTA4YjE1Yjg0`
+Snapshot ID: `MCwyNzU0OGFhZGRmOTM4M2Q1N2EyZGRjNGUxZTAwMjg2OGZjMjE4NzM5`

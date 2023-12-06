@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-193 songs - 11 hr 26 min
+195 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Take Off](https://open.spotify.com/track/2tXMwAdeuzJp3H56WzjhR9) | [Prinze George](https://open.spotify.com/artist/3o6TKTQIu0lCYcNtSO3i1G) | [Happy Garden](https://open.spotify.com/album/2SaejUutRCAq4mzj8mlEKF) | 3:36 | 2023-06-08 |  |
 | [Tease](https://open.spotify.com/track/2IlA9iGM6wVXj3Eq5CzKAX) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 4:22 | 2023-06-08 |  |
 | [Terrible Light](https://open.spotify.com/track/3BaGOz4fmkYhtuyuaa3kXE) | [Young Echoes](https://open.spotify.com/artist/61Ggm1pZJZje8rzVqV6GVo), [Leanne Hoffman](https://open.spotify.com/artist/7Fuyx8RUOvG5STfQvmc4ml) | [Terrible Light](https://open.spotify.com/album/36m81qh4IzZrFchXjaRVGo) | 3:51 | 2023-06-08 |  |
-| [That Feeling](https://open.spotify.com/track/7zo6SpUVJsdLEmu4ucjNVV) | [Nada Funk](https://open.spotify.com/artist/2ODpVD3Wyal3qYui1yHXkV), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [That Feeling](https://open.spotify.com/album/4Harn1bbAoLFNrECHa83zg) | 3:23 | 2023-06-08 |  |
+| [That Feeling](https://open.spotify.com/track/1DuBCIGdnMEivJmk3vT2GY) | [Nada Funk](https://open.spotify.com/artist/2ODpVD3Wyal3qYui1yHXkV), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [That Feeling](https://open.spotify.com/album/6uvEZEMm5FP04bBFJq8tPG) | 3:23 | 2023-06-08 |  |
+| [That Feeling](https://open.spotify.com/track/7zo6SpUVJsdLEmu4ucjNVV) | [Nada Funk](https://open.spotify.com/artist/2ODpVD3Wyal3qYui1yHXkV), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [That Feeling](https://open.spotify.com/album/4Harn1bbAoLFNrECHa83zg) | 3:23 | 2023-06-08 | 2023-12-06 |
 | [THE DON](https://open.spotify.com/track/3KDaxC6gpTu4Ey6DL5YMBQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 3:12 | 2023-06-08 |  |
 | [The Other Side](https://open.spotify.com/track/2InpyoVZwkgb8kIPsT9HCG) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 4:27 | 2023-06-08 |  |
 | [The Technology](https://open.spotify.com/track/0asDnlxGyRvFZw7Ft0DrnB) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP) | [Super Rare: a Compilation of Early Tracks, Japan Exclusives and Rarities](https://open.spotify.com/album/1cK9XZ32ji2QoJd3UoRLNM) | 4:11 | 2023-06-08 |  |
@@ -195,7 +196,8 @@
 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 | 2023-06-08 |  |
 | [What's Life](https://open.spotify.com/track/0YHfLP0QLo7Gl7eyyxiSyp) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 3:31 | 2023-06-08 |  |
 | [Wild](https://open.spotify.com/track/7JUhDKFsJlvmz08ZYDSp5b) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [100%](https://open.spotify.com/album/4NHty5cHW6KZtSI961U5sW) | 3:35 | 2023-06-08 |  |
-| [Wow, Pt\. 2](https://open.spotify.com/track/1l2X2RBt1g5dToAgZqkteq) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6), [C'SAR](https://open.spotify.com/artist/1M8L7wkacOaWB74gm05yxg) | [Wow](https://open.spotify.com/album/09FZiiYJOcqZOd79UPWydN) | 2:52 | 2023-06-08 |  |
+| [Wow, Pt\. 2](https://open.spotify.com/track/1l2X2RBt1g5dToAgZqkteq) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6), [C'SAR](https://open.spotify.com/artist/1M8L7wkacOaWB74gm05yxg) | [Wow](https://open.spotify.com/album/09FZiiYJOcqZOd79UPWydN) | 2:52 | 2023-06-08 | 2023-12-06 |
+| [Wow, Pt.2](https://open.spotify.com/track/13AyzN04wqrFTrAFhMhPeR) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6) | [Wow](https://open.spotify.com/album/56wJMpbHtmnX7ctoSn5I43) | 2:52 | 2023-06-08 |  |
 | [Yellow Sea](https://open.spotify.com/track/266iIGIh8AbMLVFIM5Urhb) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Voices](https://open.spotify.com/album/5l9seKsDpX6RCaJrPDTfKF) | 3:37 | 2023-06-08 |  |
 | [You and I](https://open.spotify.com/track/27Y30D0H9GbnXizb51SiVG) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nice to Meet U](https://open.spotify.com/album/0SSHBehokP8u9nrVwHnXE3) | 3:41 | 2023-06-08 |  |
 | [You Never Leave Me](https://open.spotify.com/track/5y4Dg2q6aZAc38LWD80ryh) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:58 | 2023-06-08 |  |

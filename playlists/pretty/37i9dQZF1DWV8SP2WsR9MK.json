@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 79341,
+  "num_followers": 79409,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTg4M2NmMDRhM2ZiMDNjZmEzNDU5MTdiNjZhMWI4ZDgwMzg4ODAw",
+  "snapshot_id": "MCwzMTM2ODJkMDg5NWM1NmE4ZGNhYmNlMDQ4NTM5NDUyOGNkMjU0NTRk",
   "tracks": [
     {
       "added_at": "2023-11-16 14:41:48",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+        "name": "The Best Of Grant Green",
+        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 217400,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
+      "duration_ms": 897626,
+      "name": "Idle Moments",
+      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "The Best Of Grant Green",
-        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 897626,
-      "name": "Idle Moments",
-      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
+      "duration_ms": 217400,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "The Genius Of The Electric Guitar",
-        "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
       },
       "artists": [
         {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 174973,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
+      "duration_ms": 347706,
+      "name": "Wavy Gravy - Remastered",
+      "url": "https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+        "name": "The Genius Of The Electric Guitar",
+        "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
         }
       ],
-      "duration_ms": 347706,
-      "name": "Wavy Gravy - Remastered",
-      "url": "https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy"
+      "duration_ms": 174973,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
         "name": "At the Garden Party",
         "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 394560,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1019,34 +1019,6 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
-      },
-      "artists": [
-        {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        },
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Eberhard Weber",
-          "url": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 385973,
-      "name": "Nimbus",
-      "url": "https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
         "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
         "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
       },
@@ -1083,26 +1055,30 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
       },
       "artists": [
         {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
         },
         {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
         },
         {
-          "name": "Benny Goodman Sextet",
-          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
+          "name": "Eberhard Weber",
+          "url": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
         }
       ],
-      "duration_ms": 182653,
-      "name": "Wholly Cats",
-      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
+      "duration_ms": 385973,
+      "name": "Nimbus",
+      "url": "https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1131,18 +1107,26 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Imaginary Day",
-        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
       "artists": [
         {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        },
+        {
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+        },
+        {
+          "name": "Benny Goodman Sextet",
+          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
         }
       ],
-      "duration_ms": 584760,
-      "name": "The Heat of the Day",
-      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
+      "duration_ms": 182653,
+      "name": "Wholly Cats",
+      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1159,6 +1143,22 @@
       "duration_ms": 354293,
       "name": "Minor Blues",
       "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
+        "name": "Imaginary Day",
+        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 584760,
+      "name": "The Heat of the Day",
+      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "Concierto (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "You'd Be So Nice To Come Home To - alt. take",
-      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
         "name": "Early Stan",
         "url": "https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 318226,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/2qaFycbq4YZ3ZspWbB57dr"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
+        "name": "Concierto (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "You'd Be So Nice To Come Home To - alt. take",
+      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 502440,
       "name": "Brooklyn Sometimes",
       "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2023-11-16 14:41:48",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2023-11-16 14:41:48",
       "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
+    },
+    {
+      "added_at": "2023-11-16 14:41:48",
+      "album": {
         "name": "Sight",
         "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 446493,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR"
-    },
-    {
-      "added_at": "2023-11-16 14:41:48",
-      "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
     },
     {
       "added_at": "2023-11-16 14:41:48",

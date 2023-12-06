@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 54197,
+  "num_followers": 54255,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmVjZjJiNzkwMWY2YzM2MzU4YWEyNzZmYjliMmMwNzE3ZDRlNTc0",
+  "snapshot_id": "MCwyZTFjNTY0YTQyNzEyZjg5MmRhM2FiZThkMTVjYTA3ZWY4ZWI0NDNk",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Char",
-        "url": "https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp"
-      },
-      "artists": [
-        {
-          "name": "Char",
-          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
-        }
-      ],
-      "duration_ms": 355666,
-      "name": "Shinin\u2019 You, Shinin\u2019 Day",
-      "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "City Lights by the Moonlight",
         "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 232080,
       "name": "City Lights by the Moonlight",
       "url": "https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Char",
+        "url": "https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp"
+      },
+      "artists": [
+        {
+          "name": "Char",
+          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
+        }
+      ],
+      "duration_ms": 355666,
+      "name": "Shinin\u2019 You, Shinin\u2019 Day",
+      "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30fb\u30de\u30de",
-        "url": "https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG"
+        "name": "Feel Happy 2007 \uff5eDebut 30th Anniversary\uff5e",
+        "url": "https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB"
       },
       "artists": [
         {
-          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
-          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
+          "name": "Shinji Harada",
+          "url": "https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1"
         }
       ],
-      "duration_ms": 209053,
-      "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
-      "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
+      "duration_ms": 227733,
+      "name": "\u3066\u3043\u30fc\u3093\u305a\u3000\u3076\u308b\u30fc\u3059",
+      "url": "https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Feel Happy 2007 \uff5eDebut 30th Anniversary\uff5e",
-        "url": "https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB"
+        "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30fb\u30de\u30de",
+        "url": "https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG"
       },
       "artists": [
         {
-          "name": "Shinji Harada",
-          "url": "https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1"
+          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
+          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
         }
       ],
-      "duration_ms": 227733,
-      "name": "\u3066\u3043\u30fc\u3093\u305a\u3000\u3076\u308b\u30fc\u3059",
-      "url": "https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7"
+      "duration_ms": 209053,
+      "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
+      "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u30b8\u30e3\u30b9\u30c8\u30fb\u30de\u30a4\u30fb\u30d5\u30a3\u30fc\u30ea\u30f3\u30b0 +2",
-        "url": "https://open.spotify.com/album/4dZTkuCW89dgiRki6f3V7F"
+        "name": "City Pop Essentials ~ Idols 2 ~",
+        "url": "https://open.spotify.com/album/6MRGLpcwXwsLTWRuPmcM6Y"
       },
       "artists": [
         {
-          "name": "KAORU",
-          "url": "https://open.spotify.com/artist/6dSipPIaYrwAIoUYF3OUeg"
+          "name": "Junko Ohashi & Minoya Central Station",
+          "url": "https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM"
         }
       ],
-      "duration_ms": 223600,
-      "name": "JOKER",
-      "url": "https://open.spotify.com/track/7qPyQXFok3Dcy6xcHpFHjg"
+      "duration_ms": 227266,
+      "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/0HZDrIXAyBCnkpz1Hsa6jm"
     },
     {
       "added_at": "2022-11-16 00:55:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,545 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,577 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 11 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 | 12 | [Medley Crianças DT Toin Toin \- Ao Vivo](https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9), [Gabriel Barreto](https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1), [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Nena Lacerda](https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW) | [Medley Crianças Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj) | 5:38 |
 | 13 | [Caminhando Vou Para Canaã](https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Caminhando Vou Para Canaã](https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN) | 2:17 |
-| 14 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
-| 15 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
+| 14 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
+| 15 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
 | 16 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 17 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
 | 18 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 36 | [Família Perfeita](https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Família Perfeita](https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V) | 3:16 |
 | 37 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
 | 38 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 |
-| 39 | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Smilingüido](https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U) | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI) | 2:51 |
-| 40 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 |
+| 39 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 |
+| 40 | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Smilingüido](https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U) | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI) | 2:51 |
 | 41 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
 | 42 | [Deus Grandão](https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Grandão](https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn) | 4:11 |
 | 43 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 | 50 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
 
-Snapshot ID: `MCxhODc4NDc1YTE0MDliZTZlMWVkYWVkMWI2MjQzM2I0MjkyMjcxNmIx`
+Snapshot ID: `MCwzMDAyZTQ3OGY1ZjQ2MDIxNWNiYWZlYjE3MmRjNzUyYmVhYWIyMTY1`

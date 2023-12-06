@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con RaiNao.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,356 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,339 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 11 | [In My Room](https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:13 |
 | 12 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
 | 13 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 |
-| 14 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 |
-| 15 | [SINCERA TE](https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 4:02 |
+| 14 | [SINCERA TE](https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 4:02 |
+| 15 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 |
 | 16 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
-| 17 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
-| 18 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
+| 17 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
+| 18 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
 | 19 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 |
 | 20 | [911](https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:17 |
 | 21 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 33 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
 | 34 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
 | 35 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 |
-| 36 | [Numb The Pain](https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Numb The Pain](https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv) | 3:26 |
-| 37 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
-| 38 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 |
+| 36 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 |
+| 37 | [Walk On Everything](https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Walk On Everything](https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK) | 2:57 |
+| 38 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
 | 39 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
 | 40 | [Me Gusta Ese Lokito](https://open.spotify.com/track/0nArt1Dx0sI8WnBmXuh8FR) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Me Gusta Ese Lokito](https://open.spotify.com/album/7lmbsT7oWscPE7qr4fwOXU) | 2:47 |
 | 41 | [Gringuita](https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Gringuita](https://open.spotify.com/album/3yoLKFEw3Ukn9l9np8JCrV) | 2:40 |
-| 42 | [Walk On Everything](https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Walk On Everything](https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK) | 2:57 |
-| 43 | [En La Oscuridad](https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:22 |
-| 44 | [Miénteme](https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Miénteme](https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD) | 2:38 |
+| 42 | [En La Oscuridad](https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:22 |
+| 43 | [Miénteme](https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Miénteme](https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD) | 2:38 |
+| 44 | [Numb The Pain](https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Numb The Pain](https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv) | 3:26 |
 | 45 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 |
 | 46 | [Vámonos](https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Vámonos](https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj) | 2:40 |
 | 47 | [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 49 | [luchador](https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [luchador ep](https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0) | 2:22 |
 | 50 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
 
-Snapshot ID: `MCw5NTc2MTFhZWViNGJhYTFjZDA3NDM4ODAwOTg0NzBmY2NjZDI3NWY5`
+Snapshot ID: `MCw1NjdmMTJkYzJmMTU4YTBmZWJlOTY1MmRlOTdmZWYzOGY0NDlkZGY2`

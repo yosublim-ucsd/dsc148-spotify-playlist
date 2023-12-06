@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,189 likes - 303 songs - 19 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,197 likes - 303 songs - 19 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 131 | [Nao Identificado](https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:18 |
 | 132 | [Dano Sarrada](https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:25 |
 | 133 | [Ladeirinha](https://open.spotify.com/track/0X5WUTfkftVSrQhLcZSLD8) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Milagreiro](https://open.spotify.com/album/0VrYHszrgS31q8ChCj8MXE) | 3:38 |
-| 134 | [Do Seu Lado \- Ao Vivo](https://open.spotify.com/track/369SakQysvPRw00B9er8Ff) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest \- Os Maiores Sucessos](https://open.spotify.com/album/7KyAR9NjOUfINkNY06jR9f) | 4:49 |
+| 134 | [Do Seu Lado \- Ao Vivo](https://open.spotify.com/track/30Q8BodSWrBwQifVwh2caQ) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest \(Ao Vivo\)](https://open.spotify.com/album/2G30xrmdmGjD8VxbIVYfQm) | 4:49 |
 | 135 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
 | 136 | [Dilemma \(feat\. Kelly Rowland\)](https://open.spotify.com/track/14MgTooapmJdLlEMAr2zAM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Simply Deep](https://open.spotify.com/album/3nrQeLjGJNdYsjJ8JVPKAf) | 4:49 |
 | 137 | [They Don't Care About Us](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:44 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 302 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 |
 | 303 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 
-Snapshot ID: `MCxjNWQ4Mjc2YTZlYzFhMjQwOGEzODg4ZmYwYzU4NGIxOGQyMjZmZTIz`
+Snapshot ID: `MCwzZmMxZGIyYzZhZWJiMDExZDgwZWZlZGEyOTZkOGQwNDVmOWVkOTVk`

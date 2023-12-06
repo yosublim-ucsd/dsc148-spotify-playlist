@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
-  "num_followers": 881028,
+  "num_followers": 881235,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmY3ZDc4MzlkZTRlYTAwZDU4MmRhNjhkNjQ1OWQzNDBjYzgyOGY2",
+  "snapshot_id": "MCxjZTE5NGIzNmFjOTAxYzBlNzRmNGNlZWYwZWI0YjI5OGExMDIxZGMz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Signal Sender",
-        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 200137,
-      "name": "Signal Sender",
-      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Think I'm Gonna Love You",
         "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 164494,
       "name": "Think I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Signal Sender",
+        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 200137,
+      "name": "Signal Sender",
+      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Pretty Picture, Dirty Brush",
-        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
-      },
-      "artists": [
-        {
-          "name": "The Harmaleighs",
-          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "I Keep Ticking On",
-      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Pretty Picture, Dirty Brush",
+        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
+      },
+      "artists": [
+        {
+          "name": "The Harmaleighs",
+          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "I Keep Ticking On",
+      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Summer Wind / All Summer (Where You Gonna Be?)",
         "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 160581,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
       "artists": [
         {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
         }
       ],
-      "duration_ms": 179731,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 176321,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Heart Medicine",
         "url": "https://open.spotify.com/album/6vTgHn3r0keWWSSHbGeybq"
       },
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Yellow Paper Daisy",
-        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "Yellow Paper Daisy",
-      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Pollution",
         "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 234031,
       "name": "Pollution",
       "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 176321,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Yellow Paper Daisy",
+        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 199772,
+      "name": "Yellow Paper Daisy",
+      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
     },
     {
       "added_at": "2023-12-01 05:00:00",

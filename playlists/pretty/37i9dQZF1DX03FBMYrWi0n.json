@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bibi Club",
-  "num_followers": 3525,
+  "num_followers": 3536,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDQ4YTg4NzFiZTQ4ZWE0MDM1NGFhNzY0ZjkzYmRlZWJhYjZjMTkx",
+  "snapshot_id": "MCw3ZTU5NmU5YjFjMTljOWJhMjEyMzM5YWNkNGViZjAxOGQ0NDc5MGZm",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
+        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "N'importe O\u00f9 Sauf Ici",
+      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Sainte-Col\u00e8re",
         "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
-        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
-      },
-      "artists": [
-        {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "N'importe O\u00f9 Sauf Ici",
-      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 223849,
       "name": "Comfort, Edge",
       "url": "https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "tu penses-tu + veux veux pas",
         "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
       },
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
+      },
+      "artists": [
+        {
+          "name": "Plants and Animals",
+          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
+        }
+      ],
+      "duration_ms": 343160,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Maison ouverte",
         "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 183706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "\u200emint \u200econdition",
         "url": "https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 253546,
       "name": "La vie attend pas",
       "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
-      },
-      "artists": [
-        {
-          "name": "Plants and Animals",
-          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
-        }
-      ],
-      "duration_ms": 343160,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 268426,
       "name": "Ma\u00efa",
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "C'est ma lady",
+        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "C'est ma lady",
+      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Parfaite \u00e0 l'\u00e9cran",
-        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Parfaite \u00e0 l'\u00e9cran",
-      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "DVTR",
         "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Parfaite \u00e0 l'\u00e9cran",
+        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Parfaite \u00e0 l'\u00e9cran",
+      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
     },
     {
       "added_at": "2023-10-27 04:01:00",

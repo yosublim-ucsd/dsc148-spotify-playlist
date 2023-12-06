@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 75956,
+  "num_followers": 75954,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDQ2NThjOWE2NjdkNTU0MjAxMWQ4YzNmNmEyMzc1ZGRhNTIzZGVm",
+  "snapshot_id": "MCxmNWE1N2ZiNWRhYjQ5MDAyNGYyMTRlMDFkMDRmNzFlNGJkZWNlYzEx",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -701,20 +701,24 @@
       "url": "https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH"
     },
     {
-      "added_at": "2023-04-06 23:29:21",
+      "added_at": "2023-10-05 17:45:18",
       "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW"
+        "name": "Switching Sides (feat. Dee Gatti)",
+        "url": "https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        },
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
         }
       ],
-      "duration_ms": 104842,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
+      "duration_ms": 139794,
+      "name": "Switching Sides (feat. Dee Gatti)",
+      "url": "https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -737,24 +741,20 @@
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
     },
     {
-      "added_at": "2023-10-05 17:45:18",
+      "added_at": "2023-04-06 23:29:21",
       "album": {
-        "name": "Switching Sides (feat. Dee Gatti)",
-        "url": "https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr"
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW"
       },
       "artists": [
         {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        },
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 139794,
-      "name": "Switching Sides (feat. Dee Gatti)",
-      "url": "https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863"
+      "duration_ms": 104842,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
     },
     {
       "added_at": "2020-06-01 21:07:43",

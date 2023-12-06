@@ -1,12 +1,12 @@
 {
   "description": "no-clip out of reality",
-  "num_followers": 681120,
+  "num_followers": 682618,
   "original_name": "liminal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmE2YjI4ZmFiMzhmNWJmMmQ3NGNhNTk3N2M4YTcyNTFlZTlmMGIz",
+  "snapshot_id": "MCxjMTBjMmEwYWU2OTQ1YzczYzQ4NGUwNmQ0MjM0NWZjNGVkOGM2MTBk",
   "tracks": [
     {
       "added_at": "2023-10-20 16:05:28",
@@ -93,10 +93,10 @@
       "url": "https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh"
     },
     {
-      "added_at": "2023-08-30 15:16:37",
+      "added_at": "2023-12-05 17:39:19",
       "album": {
-        "name": "snowfall",
-        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
+        "name": "Lifeglow",
+        "url": "https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d"
       },
       "artists": [
         {
@@ -104,33 +104,13 @@
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
         },
         {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
         }
       ],
-      "duration_ms": 124065,
-      "name": "snowfall",
-      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
-    },
-    {
-      "added_at": "2023-08-30 15:16:37",
-      "album": {
-        "name": "Infinite Cloud",
-        "url": "https://open.spotify.com/album/5PBXsF4rwr1KOJkIxKbF4d"
-      },
-      "artists": [
-        {
-          "name": "Elliot Norlander",
-          "url": "https://open.spotify.com/artist/2vcH94PF19UypegwaEughz"
-        },
-        {
-          "name": "azzz",
-          "url": "https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh"
-        }
-      ],
-      "duration_ms": 107169,
-      "name": "Infinite Cloud",
-      "url": "https://open.spotify.com/track/4c5MdOKty7RhhqviGZWYrL"
+      "duration_ms": 125085,
+      "name": "erased",
+      "url": "https://open.spotify.com/track/6G9BrX4DAlIcVj61VSJgFS"
     },
     {
       "added_at": "2023-08-30 15:16:37",
@@ -359,6 +339,26 @@
       "duration_ms": 189466,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu"
+    },
+    {
+      "added_at": "2023-08-30 15:16:37",
+      "album": {
+        "name": "snowfall",
+        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "duration_ms": 124065,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
     },
     {
       "added_at": "2023-08-30 15:16:37",

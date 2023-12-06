@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 20831,
+  "num_followers": 20869,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzVjMWRiYWNmMzMxNDkxNjlkM2E5NjFkMDA0NzMxYjAzZWJjZDhm",
+  "snapshot_id": "MCwxZDg3MTA1YmNmNGJmZjBmM2NjNDdiOGRkN2VjNTJkOTJjNWY3NWNh",
   "tracks": [
     {
       "added_at": "2023-11-10 14:30:24",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Albura Remixed",
+        "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 314854,
+      "name": "Belleza en el Aire - Remix",
+      "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 244000,
       "name": "Baile De M\u00e1scaras",
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Albura Remixed",
-        "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
-      },
-      "artists": [
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 314854,
-      "name": "Belleza en el Aire - Remix",
-      "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Tierra de King Coya",
+        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
+      },
+      "artists": [
+        {
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+        }
+      ],
+      "duration_ms": 276029,
+      "name": "Te digo Wayno",
+      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "El Despertar Del Anfibio (Instrumental)",
         "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 383686,
       "name": "El Despertar Del Anfibio - Instrumental",
       "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Tierra de King Coya",
-        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
-      },
-      "artists": [
-        {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
-        }
-      ],
-      "duration_ms": 276029,
-      "name": "Te digo Wayno",
-      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Luchin",
         "url": "https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 259551,
       "name": "Luchin",
       "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Do\u00f1a Ubenza (Remix)",
         "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 281142,
       "name": "Do\u00f1a Ubenza - Remix",
       "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
-      },
-      "artists": [
-        {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
-        }
-      ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        }
+      ],
+      "duration_ms": 208179,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "El tiempo de las cosas que frenan",
         "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 300250,
       "name": "El tiempo de las cosas que frenan",
       "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        }
-      ],
-      "duration_ms": 208179,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe"
     },
     {
       "added_at": "2023-11-10 14:30:24",

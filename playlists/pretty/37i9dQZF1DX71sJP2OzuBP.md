@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,861 likes - 105 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,874 likes - 105 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 27 | [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 |
 | 28 | [別讓愛停擺 Love Will Empower Your Life](https://open.spotify.com/track/1E48bUfeMiv4Yv6uCn7s3S) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [別讓愛停擺 Love Will Empower Your Life](https://open.spotify.com/album/3Sh2Q0R3BG4WERoIpE4022) | 4:07 |
 | 29 | [太阳与地球](https://open.spotify.com/track/2dyHXh5dfquUdH2ci30ZSI) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [太阳与地球](https://open.spotify.com/album/6nD2McHVXlAo9NUl96FjQk) | 4:22 |
-| 30 | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/track/5mivWWWtw7x1H7TCBTDS5g) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/album/0adwWPry7ob0mHUSNJyobe) | 3:51 |
+| 30 | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/track/5mivWWWtw7x1H7TCBTDS5g) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/album/0adwWPry7ob0mHUSNJyobe) | 3:51 |
 | 31 | [這樣就很好](https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [這樣就很好](https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8) | 3:26 |
 | 32 | [以朋友的身份](https://open.spotify.com/track/7zYMWbC1ABibwQmJyESgc6) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [以朋友的身份](https://open.spotify.com/album/6v0EqpVf6wDujILY6Ia7OQ) | 3:30 |
 | 33 | [暗号](https://open.spotify.com/track/5J7BOS35dPK27X8PacuLA5) | [李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90), [J.En Cheo](https://open.spotify.com/artist/6a4zj3BAL2o9RWOlyKpKhr) | [暗号](https://open.spotify.com/album/6CjcZUrIbto4gRIz2axmB1) | 4:31 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [Woody](https://open.spotify.com/track/6S1JhalUapj0WoE8fKsaZ2) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 3:18 |
 | 105 | [一首未完的歌](https://open.spotify.com/track/1RnGnadcVIfwOzk5OR8Hg2) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [一首未完的歌](https://open.spotify.com/album/63JEeEKzaiX3qF87bcPbPE) | 2:36 |
 
-Snapshot ID: `MCw0MjdhMWRmZmQ5ZmViNTU1N2FlMTU1NDY2MDA1OGZhY2M0MWU1MWUw`
+Snapshot ID: `MCwzOTlhNTA3MzM4MDk3MzBlZDM0NWUzZjFiZmY5NmVmYWI1MjI3MWVh`

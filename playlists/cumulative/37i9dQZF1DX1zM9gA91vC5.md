@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-941 songs - 1 day 16 hr 46 min
+942 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 | 2022-07-20 |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-17 |  |
 | [Con el tiempo todo se consigue](https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [Con el tiempo todo se consigue](https://open.spotify.com/album/2IyGImJyMeoaxHpCfFDMoJ) | 2:35 | 2020-08-14\* |  |
-| [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-10-17 |  |
+| [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-10-17 | 2023-12-06 |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 | 2022-07-20 |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-07-01 | 2022-12-24 |
 | [Continuo](https://open.spotify.com/track/3AogJjKJYSIEiXx8Xfq9Z9) | [Mauro Cangemi](https://open.spotify.com/artist/7M8vWWoWXUuH6qcoOpO2PN) | [Continuo](https://open.spotify.com/album/6ytCXPOIhToAXlhYEbbya7) | 2:14 | 2020-08-14\* | 2022-12-24 |
@@ -685,6 +685,7 @@
 | [Sanitatem](https://open.spotify.com/track/2zbZlJVyhSb5PDdmFj3BHe) | [Vaalery](https://open.spotify.com/artist/4d3XQvjuqIEVgCErQ0sFdr) | [Sanitatem](https://open.spotify.com/album/5oAhY5CG5BN2Tv9zAkHHAK) | 4:16 | 2020-08-14\* | 2020-10-15 |
 | [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 | 2022-06-08 |
 | [Sapiens](https://open.spotify.com/track/5w32YiZfjZ0vC3Y1bYs62i) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 3:05 | 2020-08-14\* | 2022-05-06 |
+| [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 | 2023-11-28 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2020-11-12 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2021-05-20 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2021-09-30 |  |

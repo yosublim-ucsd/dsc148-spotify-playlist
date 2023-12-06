@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: iilliaa
 
-1,475 songs - 2 day 21 hr 35 min
+1,476 songs - 2 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1441,7 +1441,8 @@
 | [Wings \(Techno\)](https://open.spotify.com/track/4lbpgDljenAkK6SNITUFiy) | [NO EMOTION](https://open.spotify.com/artist/1BgQ3C1p54I1vmG21Mhy0m) | [Wings \(Techno\)](https://open.spotify.com/album/0j2Y0dGF9PYIx8EoeG1S0y) | 2:00 | 2023-07-26 | 2023-08-03 |
 | [Wings \(Techno\)](https://open.spotify.com/track/0ZCFBp0el7wDgzvCLqaAWe) | [NO EMOTION](https://open.spotify.com/artist/1BgQ3C1p54I1vmG21Mhy0m) | [Wings \(Techno\)](https://open.spotify.com/album/68uw91RNTCVXWFTU3lOa9G) | 2:15 | 2023-08-14 |  |
 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 | 2023-11-30 |  |
-| [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-11-30 |  |
+| [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 | 2023-12-04 |  |
+| [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-11-30 | 2023-12-06 |
 | [Without You](https://open.spotify.com/track/70iMhwrs7qZg64GiW8sMew) | [Kidd Azzurra](https://open.spotify.com/artist/78l0gyXe9ppP4zLZDsgfcj) | [Without You](https://open.spotify.com/album/6RXrLreUG2FzqOSy1CHzy8) | 1:53 | 2022-06-09 | 2022-07-01 |
 | [WO WO](https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WO WO](https://open.spotify.com/album/5dZm2HzDYT22UmJzG9qfXT) | 2:35 | 2023-08-29 | 2023-09-08 |
 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2023-07-20 | 2023-08-11 |

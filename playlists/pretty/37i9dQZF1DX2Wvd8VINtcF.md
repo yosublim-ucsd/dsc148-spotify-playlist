@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,270 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,363 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 100 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 101 | [I'm Done](https://open.spotify.com/track/2OfPiMCN1oV3lFgh6mO0vQ) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [I'm Done](https://open.spotify.com/album/3c9nI13kCbfkFJqaPJRGcs) | 2:29 |
 
-Snapshot ID: `MCxiOGIxZjcxOTY4NDlhM2U3NTBmZTA4YmQwM2Y5MDllZmZlYmQxMjRk`
+Snapshot ID: `MCw5YTdjMGUzMDQ0Njc4NmNhNGEzOGY4YzcyZGZlMjgxYjA5OGY4ODBi`

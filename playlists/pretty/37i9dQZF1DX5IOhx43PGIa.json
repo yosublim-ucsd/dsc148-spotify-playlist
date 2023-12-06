@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 281492,
+  "num_followers": 281515,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWFmZWQwZWMwNmNjMmQ3YzljODQxMDE2YWUwZDRlYmYzM2RjZGE2",
+  "snapshot_id": "MCw3NGIzMTIzYzMzMWRiYmRmOTllMTM2NjdhNDExYWFmYTBhZjViODcx",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Isn't It Obvious",
         "url": "https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 158130,
       "name": "Isn't It Obvious",
       "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Like Me, Like Me",
-        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Like Me, Like Me",
-      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Lovegod",
         "url": "https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 188065,
       "name": "Lovegod",
       "url": "https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Like Me, Like Me",
+        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Like Me, Like Me",
+      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 224940,
       "name": "in my head",
       "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 211406,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "mad's world",
         "url": "https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 211406,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Self Soothing",
         "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "all of you",
-        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 158485,
-      "name": "all of you",
-      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "treat your friends",
         "url": "https://open.spotify.com/album/2Rdk812Zcmfaec9zCfdGnt"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 173624,
       "name": "treat your friends",
       "url": "https://open.spotify.com/track/0lyxM7QX5gEIn600SxaS7i"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "all of you",
+        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 158485,
+      "name": "all of you",
+      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Cellulite",
+        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 190398,
+      "name": "Cellulite",
+      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "WORLD STOP TURNING (feat. Warren Hue)",
         "url": "https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 248403,
       "name": "WORLD STOP TURNING (feat. Warren Hue)",
       "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Cellulite",
-        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 190398,
-      "name": "Cellulite",
-      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "therapy",
+        "url": "https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF"
+      },
+      "artists": [
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 136804,
+      "name": "therapy",
+      "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/6vzZymCJxleZ6bRSqACu0h"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 108140,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/7a2UmwAVHBHa9enFYVyzfm"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "therapy",
-        "url": "https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF"
-      },
-      "artists": [
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 136804,
-      "name": "therapy",
-      "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "KLEPTO",
-        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "feti\u0161h",
-      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "I Just Wanna Know",
         "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 144489,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "KLEPTO",
+        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "feti\u0161h",
+      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "scenic route",
+        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 180592,
+      "name": "scenic route",
+      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/7eMJSkTBdRuiiImOehXDG4"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 224305,
       "name": "Don't",
       "url": "https://open.spotify.com/track/5TuwpS3bMTEq2KPc8xrdxO"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 169222,
-      "name": "deadline",
-      "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2279,8 +2279,8 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "scenic route",
-        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
       },
       "artists": [
         {
@@ -2288,9 +2288,9 @@
           "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 180592,
-      "name": "scenic route",
-      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
+      "duration_ms": 169222,
+      "name": "deadline",
+      "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
     },
     {
       "added_at": "2023-12-01 05:00:00",

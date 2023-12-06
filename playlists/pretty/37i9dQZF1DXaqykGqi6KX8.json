@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 45352,
+  "num_followers": 45417,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDRlM2NjZGRmNGZkNTE0MGQwYzk3NmJlMWE0MTg5MzAzZWZkZGVk",
+  "snapshot_id": "MCw1MzcwY2U3ZGZlMWJmMGY2M2QwZDkzMzhhNzJlMzAxMWI1OWMyMzNh",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Summoning the Bygones",
-        "url": "https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx"
-      },
-      "artists": [
-        {
-          "name": "BILOCATE",
-          "url": "https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe"
-        }
-      ],
-      "duration_ms": 524840,
-      "name": "The Tragedy Within",
-      "url": "https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Wasted Years",
         "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 240507,
       "name": "Time to Raise the Curtains",
       "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Summoning the Bygones",
+        "url": "https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx"
+      },
+      "artists": [
+        {
+          "name": "BILOCATE",
+          "url": "https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe"
+        }
+      ],
+      "duration_ms": 524840,
+      "name": "The Tragedy Within",
+      "url": "https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Mirrors of Disgrace",
-        "url": "https://open.spotify.com/album/2myDafpzzFLHe6nw7LWGyh"
+        "name": "Color Blind",
+        "url": "https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy"
       },
       "artists": [
         {
-          "name": "Esodic",
-          "url": "https://open.spotify.com/artist/46XPKhmZCbqaixuDpJsC4S"
+          "name": "Massive Scar Era",
+          "url": "https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D"
         }
       ],
-      "duration_ms": 285651,
-      "name": "Blind Fate (Turab)",
-      "url": "https://open.spotify.com/track/6YJxrjI7Y53MCKWEzdxDta"
+      "duration_ms": 222156,
+      "name": "Unfollow",
+      "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"
     }
   ],
   "unique_name": "Arab Metal",

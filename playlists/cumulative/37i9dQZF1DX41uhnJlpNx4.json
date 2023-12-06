@@ -60,10 +60,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 261808,
       "name": "A La PM Puse En Alto",
       "url": "https://open.spotify.com/track/3gzj2Q3R1oSfp0hlDnzv7J"
+    },
+    {
+      "album": {
+        "name": "A la PM Puse en Alto",
+        "url": "https://open.spotify.com/album/4MJbNa68mEnrqV0D2MolBj"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261808,
+      "name": "A la PM Puse en Alto",
+      "url": "https://open.spotify.com/track/7Ifp3RKxdfp3zopuyszTJm"
     },
     {
       "album": {

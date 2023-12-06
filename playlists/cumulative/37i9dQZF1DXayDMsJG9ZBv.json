@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: XG",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Beyonce",
   "name": "Hot Hits Japan",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 180381,
       "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151760,
+      "name": "):\u963f\u4fee\u7f85:(",
+      "url": "https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl"
     },
     {
       "album": {
@@ -198,7 +216,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 245813,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/4fUMgL19kixzHhrttFZXsD"
@@ -1431,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "FEEL OR BEEF BADPOP IS DEAD",
+        "url": "https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa"
+      },
+      "artists": [
+        {
+          "name": "NAMEDARUMAAZ",
+          "url": "https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409756,
+      "name": "FEEL OR BEEF BADPOP IS DEAD",
+      "url": "https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid"
+    },
+    {
+      "album": {
         "name": "Fifty's map \uff5e\u304a\u3068\u306a\u306e\u5730\u56f3",
         "url": "https://open.spotify.com/album/2T1C7BX29tDn1rQNtYMnpn"
       },
@@ -2092,7 +2128,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 201973,
       "name": "Hontowane,",
       "url": "https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl"
@@ -2110,7 +2146,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 289946,
       "name": "Hoshi no Furu Hi ni",
       "url": "https://open.spotify.com/track/1wUV9QbSDeBKintovkTn5v"
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 229477,
       "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
@@ -3260,6 +3296,24 @@
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
+    },
+    {
+      "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
     },
     {
       "album": {
@@ -3368,7 +3422,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 162413,
       "name": "Nice to meet you (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
@@ -4430,7 +4484,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 233853,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN"
@@ -4832,7 +4886,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 219331,
       "name": "THE UNION",
       "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
@@ -4920,6 +4974,24 @@
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+    },
+    {
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "album": {
@@ -5146,7 +5218,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 200255,
       "name": "Water - Remix",
       "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
@@ -5386,7 +5458,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 230709,
       "name": "You Broke My Heart",
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
@@ -5408,6 +5480,24 @@
       "duration_ms": 179040,
       "name": "You Just Walked In My Life",
       "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
+    },
+    {
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "album": {
@@ -5452,6 +5542,24 @@
       "duration_ms": 188060,
       "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
       "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "album": {
@@ -5644,6 +5752,24 @@
       "duration_ms": 318762,
       "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340080,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su"
     },
     {
       "album": {
@@ -6164,6 +6290,24 @@
       "duration_ms": 265714,
       "name": "\u661f\u6708\u591c",
       "url": "https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm"
+    },
+    {
+      "album": {
+        "name": "\u6669\u9910\u6b4c",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "album": {

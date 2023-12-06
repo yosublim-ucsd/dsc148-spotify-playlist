@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-409 songs - 1 day 0 hr 41 min
+410 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Feelings](https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Feelings](https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh) | 3:22 | 2023-06-16 |  |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 |  |
 | [Fine By Myself](https://open.spotify.com/track/0V3Ml2chd5ssOkUrz1X7FU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Fine By Myself](https://open.spotify.com/album/4tBU38rdZK9rGZDDnaoVvs) | 2:43 | 2023-11-10 |  |
-| [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2023-07-07 |  |
+| [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2023-07-07 | 2023-12-06 |
 | [Flow State](https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Flow State](https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE) | 2:32 | 2023-10-20 | 2023-11-22 |
 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-06 |  |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-09-09 | 2023-04-29 |
@@ -411,6 +411,7 @@
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-04 |  |
 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 4:53 | 2023-08-25 | 2023-11-06 |
+| [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF) | 4:53 | 2023-08-25 |  |
 | [With You](https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:09 | 2021-12-03 | 2022-11-05 |
 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 | 2022-09-30 | 2023-05-08 |
 | [Yellow Cabi](https://open.spotify.com/track/4NzDQkPYgeNrE2Q5UB5KQO) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 1:57 | 2022-10-07 | 2022-10-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Cole Swindell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,455 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,969 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Goin For Broke](https://open.spotify.com/track/5bu8p495FPdRySYSptdny2) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Goin For Broke](https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau) | 3:22 |
 | 100 | [Cab In A Solo](https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Cab In A Solo](https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW) | 3:45 |
 
-Snapshot ID: `MCxmNjAyN2VjZGVhMjA1OWU2MTVhOTc3NzAwYmM3ZGY4ZjJjZWZjNTg2`
+Snapshot ID: `MCwxYjQzNDAzZjE1ZDdkMTc0M2Y2NDgyMDUyODRlYWE4MTUxODFkNWE4`

@@ -1,13 +1,29 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 115500,
+  "num_followers": 115571,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTUwZTZmMjA2OGE1NjI3MDhlOTgxZTY0MDRmOTdlZDJiYThmYmFi",
+  "snapshot_id": "MCwxNDM1OTE1MTgyYzA4MTQ5YTVjZTRiMmZhZWVlMGEzMmUwNzI0YTE4",
   "tracks": [
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+    },
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 503240,
-      "name": "Way Maker - Live",
-      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Altars",
-        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 300826,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
+      "duration_ms": 247451,
+      "name": "R\u00edo",
+      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+        "name": "Altars",
+        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
         }
       ],
-      "duration_ms": 247451,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
+      "duration_ms": 300826,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Goodness of God - EP",
         "url": "https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 258250,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "All Of Us (All Praise) [Live]",
         "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 386906,
       "name": "All Praise - Live",
       "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        },
-        {
-          "name": "John Wesley",
-          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Another In The Fire (Studio)",
         "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 265518,
       "name": "Another In The Fire - Studio",
       "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
+      },
+      "artists": [
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        },
+        {
+          "name": "John Wesley",
+          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "A Thousand More",
         "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 359710,
       "name": "A Thousand More - Live",
       "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1559,22 +1559,6 @@
       "duration_ms": 292840,
       "name": "Come Holy Spirit - Worship Version",
       "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Turner",
-          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
-        }
-      ],
-      "duration_ms": 261886,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1603,22 +1587,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Kingdom Dreamers",
-        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
       },
       "artists": [
         {
-          "name": "KXC",
-          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
-        },
-        {
-          "name": "Tom Eccleshall",
-          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
+          "name": "Jonathan Turner",
+          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
         }
       ],
-      "duration_ms": 297070,
-      "name": "Kingdom Dreamers",
-      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
+      "duration_ms": 261886,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1635,6 +1615,26 @@
       "duration_ms": 284760,
       "name": "Savior Of The World - Single Version",
       "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Kingdom Dreamers",
+        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Tom Eccleshall",
+          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
+        }
+      ],
+      "duration_ms": 297070,
+      "name": "Kingdom Dreamers",
+      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1679,38 +1679,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 219942,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1747,6 +1715,38 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Christ Our Hope in Life and Death",
         "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 271320,
       "name": "Christ Our Hope in Life and Death",
       "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "I Remember (Studio Version)",
+        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "I Remember - Studio Version",
+      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Here Comes This Dreamer (Live)",
         "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 253756,
       "name": "Heaven's Well - Live",
       "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "I Remember (Studio Version)",
-        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "I Remember - Studio Version",
-      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Your Name (Live)",
-        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 385294,
-      "name": "Your Name - Live",
-      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -2303,22 +2287,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Lord You Have My Heart (feat. Martin Smith)",
-        "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
+        "name": "Your Name (Live)",
+        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
       },
       "artists": [
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz"
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
         }
       ],
-      "duration_ms": 267467,
-      "name": "Lord You Have My Heart (feat. Martin Smith)",
-      "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
+      "duration_ms": 385294,
+      "name": "Your Name - Live",
+      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2335,6 +2315,26 @@
       "duration_ms": 312018,
       "name": "He Wears A Crown - Live",
       "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Lord You Have My Heart (feat. Martin Smith)",
+        "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz"
+        }
+      ],
+      "duration_ms": 267467,
+      "name": "Lord You Have My Heart (feat. Martin Smith)",
+      "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
     },
     {
       "added_at": "2021-06-12 04:00:40",

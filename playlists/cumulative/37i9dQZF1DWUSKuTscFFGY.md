@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés pop\. Photo : Dove Cameron
 
-211 songs - 10 hr 55 min
+212 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [5 AM](https://open.spotify.com/track/2vZ8h5CXVsOlClCXj89DDW) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [5 AM](https://open.spotify.com/album/6vyHKqHP0VDK8v5lWeLefY) | 3:05 | 2023-07-28 | 2023-08-18 |
 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-07-28 | 2023-08-04 |
 | [A Very Bad Fun Idea \- Taken From The Film "BONUS TRACK"](https://open.spotify.com/track/2G5JdsSuoOEHXQVqO7uFui) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Very Bad Fun Idea \(Taken From The Film "BONUS TRACK"\)](https://open.spotify.com/album/6FYhRX8riiDRSv0HpE5jvU) | 3:35 | 2023-11-30 |  |
-| [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-23 |  |
+| [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-23 | 2023-12-06 |
+| [A2B](https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6gvw0F8qkG8VA03z1U8eCN) | 2:10 | 2023-11-30 |  |
 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2023-11-30 |  |
 | [Am I Enough](https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Am I Enough](https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8) | 2:47 | 2023-11-16 |  |
 | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long\)](https://open.spotify.com/track/2yjeXq5ahx6UUg2rHaUe6X) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \(FAST X Soundtrack\)](https://open.spotify.com/album/2H5nzViLpbX8JzY1cQMVza) | 2:56 | 2023-07-28 | 2023-08-18 |

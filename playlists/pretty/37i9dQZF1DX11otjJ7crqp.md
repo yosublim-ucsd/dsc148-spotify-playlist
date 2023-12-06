@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,294 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,352 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 53 | [therapy](https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [therapy](https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF) | 2:16 |
 | 54 | [Blue Boy](https://open.spotify.com/track/0DTdFyK7RkDQEAppGRSKyo) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Blue Boy](https://open.spotify.com/album/2bMNDxWazWChajaSXnrpdg) | 3:00 |
 | 55 | [Books](https://open.spotify.com/track/5s5XSIecq1xvvOyujFFjrI) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Books](https://open.spotify.com/album/5makcexyZJmKWVzA7QLpyj) | 2:54 |
-| 56 | [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 |
+| 56 | [A2B](https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6gvw0F8qkG8VA03z1U8eCN) | 2:10 |
 | 57 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 | 58 | [STUCK](https://open.spotify.com/track/5GOdow3olKCstvsqCfXFZg) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [STUCK](https://open.spotify.com/album/0ggyrO4fmfmZPXTND1NhwI) | 2:36 |
 | 59 | [east side](https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [east side](https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj) | 2:45 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 100 | [Hush](https://open.spotify.com/track/4iXqSVXVzaldHOsQgHtzOD) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [Hush](https://open.spotify.com/album/27J61fYTdrTOa8DCygULU3) | 2:20 |
 | 101 | [Bittersweet](https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Bittersweet](https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb) | 2:58 |
 
-Snapshot ID: `MCxlNWQxNDlkYzUyMzQwYTRmMWE0NmM2NjNjODI3NGU5OGZhOWMyNTdh`
+Snapshot ID: `MCwwZGJhZGQzZDI1YjUxNDU5NTZlZTNhYjdiOTBhOWM3ZTJmZTNhNzMy`

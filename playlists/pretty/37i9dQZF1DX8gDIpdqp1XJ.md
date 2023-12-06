@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,498 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,461 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 7 | [The Botanist](https://open.spotify.com/track/7ezLCYYElreJTHe7KyuKTG) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Habitat](https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC) | 4:30 |
 | 8 | [Average Guy \(Blame\)](https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Average Guy \(Blame\)](https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo) | 3:00 |
 | 9 | [Puppet](https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Puppet](https://open.spotify.com/album/68rJY7Zio90SZPpWJyLGfx) | 3:17 |
-| 10 | [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/track/1u87YKsVkulCvckDBtTfqv) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/album/0htTLQYeJhBADpJ0oQ8m8X) | 5:33 |
+| 10 | [Gamma Rays \- Sean Ono Lennon Remix](https://open.spotify.com/track/1i2n0psXd2lqsDsAmw6Y0I) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/album/3Bmc00a8kML8raVySQcVTJ) | 5:33 |
 | 11 | [Something Real](https://open.spotify.com/track/5ylKFAdMokkhy9cZeshJQY) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Something Real](https://open.spotify.com/album/5U1s3hxTPXZWEEc8d82ak2) | 2:59 |
 | 12 | [Piggies](https://open.spotify.com/track/0YmVJGxRW8VDvEoDYE8d0S) | [The Amazing](https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30) | [Piggies](https://open.spotify.com/album/1MmtHO2F23nIID3DUI5Sn3) | 3:51 |
 | 13 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 |
 | 100 | [Lately](https://open.spotify.com/track/08Q1EXipT8rCIiBy7k6ePX) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lately](https://open.spotify.com/album/14maTnZCS9S3FG0YZ21LyL) | 3:56 |
 
-Snapshot ID: `MCxkMTVjZTM4NjFmYjFjMDFjOWYzNmZjNjhmYzk1NmRkMjFjNzEyYzJk`
+Snapshot ID: `MCw3MzZkNmZkNzdhOTVkYzZiN2FhZmQ3YTc2Yjc0OWM3ZjIyMzJhNDU3`

@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1173126,
+  "num_followers": 1173277,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODQyN2M1ZjBmOWY2NzRjNTk3Zjc2Y2ExYmFhYjFjNzViYWY3OTk1",
+  "snapshot_id": "MCwwMjNiNzQwNDg4OTE3MzY5NTFlZGU3ZjBjNTIyYzNiNDE2ZDNjMDk3",
   "tracks": [
     {
       "added_at": "2023-11-09 23:50:22",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "you missed the best part",
-        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 124743,
-      "name": "hospital beach",
-      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "I Just Wanna Feel Your Love Again",
         "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 241166,
       "name": "I Just Wanna Feel Your Love Again",
       "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "you missed the best part",
+        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 124743,
+      "name": "hospital beach",
+      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 249705,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 136250,
       "name": "Eulogy For Nobody",
       "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 249705,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 150415,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2023-11-09 23:50:22",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
       "added_at": "2023-10-16 20:29:38",
       "album": {
         "name": "Hitchhiker",
@@ -1279,6 +1295,26 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Things I Wanted To Tell You",
+        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Feel Again (Feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Maybe I\u2019m Lonely",
         "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
       },
@@ -1291,22 +1327,6 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1343,26 +1363,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Things I Wanted To Tell You",
-        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Feel Again (Feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "If I Really Love You",
         "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "When the City Sleeps",
-        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 216514,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1411,6 +1395,22 @@
       "duration_ms": 128729,
       "name": "Second Place",
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "When the City Sleeps",
+        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 216514,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 111710,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Emotionless",
         "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 148401,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-09-29 20:20:52",

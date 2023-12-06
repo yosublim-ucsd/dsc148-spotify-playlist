@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 289169,
+  "num_followers": 289302,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTdjM2IzNWI1Y2Y3NDk3NmRlZjUzMmEzYWRhOWYyYzQ3ZjMzMTgx",
+  "snapshot_id": "MCxlNzQyOTk3OTRjZjJkOTU0NTRmMDEwOTk5Njc5ODRjOTc1ZjBhOTgy",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -63,38 +63,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "True To Myself",
-      "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Pelo mundo",
-        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 196642,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Acordei Bem Cedo",
         "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
       },
@@ -115,6 +83,38 @@
       "duration_ms": 377142,
       "name": "Acordei Bem Cedo",
       "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Pelo mundo",
+        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "True To Myself",
+      "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
       "added_at": "2023-11-10 03:01:00",

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-530 songs - 1 day 10 hr 20 min
+531 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 | 2022-01-05 |  |
 | [Hash Pipe](https://open.spotify.com/track/5sLrVwYvSXmRQ6keGONuee) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Picnic Songs](https://open.spotify.com/album/0qYGHDdIzEq6wGv59g4BDa) | 3:06 | 2022-01-05 | 2022-07-29 |
 | [Hate My Life](https://open.spotify.com/track/21rrpIokftsRDF2StX3TcI) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs](https://open.spotify.com/album/1AB8tdwS9hY4iyulXexNab) | 3:10 | 2022-01-05 | 2022-05-25 |
-| [Hate My Life](https://open.spotify.com/track/5zcLnqZbAjDGXX7HNcT1rE) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs \(Special Edition\)](https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B) | 3:10 | 2022-01-05 |  |
+| [Hate My Life](https://open.spotify.com/track/5zcLnqZbAjDGXX7HNcT1rE) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs \(Special Edition\)](https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B) | 3:10 | 2022-01-05 | 2023-12-06 |
 | [Have A Nice Day](https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Have A Nice Day](https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P) | 3:49 | 2022-01-05 |  |
 | [Have Faith In Me](https://open.spotify.com/track/4IX6QvjOI62tyHigVsTUlv) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:08 | 2022-01-05 |  |
 | [Have Faith In Me](https://open.spotify.com/track/5D25Vmd458UZ6n27g76d3l) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW) | 3:08 | 2022-01-05 | 2022-05-25 |
@@ -383,6 +383,7 @@
 | [Ride](https://open.spotify.com/track/5zWUPmxHV2SlneROGBg651) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Winning Days](https://open.spotify.com/album/0fVzDzoFvGEFTlVPWlaMeg) | 2:36 | 2022-01-05 | 2022-07-29 |
 | [Right On](https://open.spotify.com/track/1I3ONgfdEuAbJsutpy43j4) | [Shocore](https://open.spotify.com/artist/2UFFWzwg7S6Qyjbl8HGn4O) | [Evilution](https://open.spotify.com/album/5W6BX3IvSjEVl1j3VbCZ2C) | 3:15 | 2022-04-11 | 2022-05-25 |
 | [Roadside](https://open.spotify.com/track/2YJvYVpOF8Z9Yf8QHpOMsz) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:21 | 2022-01-05 | 2022-05-25 |
+| [Rock & Roll Queen](https://open.spotify.com/track/3CLmZAW1fgpnRyVwUx4bbZ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young for Eternity](https://open.spotify.com/album/5tTubYK1AQxmixhWcwG5OR) | 2:49 | 2023-01-18 |  |
 | [Rock & Roll Queen](https://open.spotify.com/track/1O5qBgWDXf19N75X7Bvilv) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/1HkZWKsIED91NaG9PDEQt6) | 2:51 | 2022-01-05 | 2022-07-29 |
 | [Runnin' Wild](https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8) | 3:38 | 2022-01-05 | 2022-07-27 |
 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 | 2022-01-05 |  |

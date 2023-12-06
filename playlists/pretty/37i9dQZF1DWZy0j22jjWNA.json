@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 88596,
+  "num_followers": 88620,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTU3MjkyZTU0M2FmZGE0ZGRiZmE5NDMzZWQzMjA0ZTI3YWVjZjVj",
+  "snapshot_id": "MCwwNTg0MDAyOGRkMWQwYmRiNTYyMzE3YjYzN2MwNjBjNzgwZGE1MzVm",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -203,26 +203,6 @@
       "duration_ms": 219066,
       "name": "It Would Be You",
       "url": "https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Souls",
-        "url": "https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Riah",
-          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -539,6 +519,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Morning Song",
+        "url": "https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 261728,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -555,22 +551,6 @@
       "duration_ms": 222878,
       "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
       "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Morning Song",
-        "url": "https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 261728,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -703,22 +683,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "City of Black & White Revisited",
-        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 225837,
-      "name": "City of Black & White",
-      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Under Fire",
         "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
       },
@@ -731,6 +695,22 @@
       "duration_ms": 258573,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "City of Black & White Revisited",
+        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 225837,
+      "name": "City of Black & White",
+      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -947,22 +927,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Broken With You",
-        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Sheridan",
-          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
-        }
-      ],
-      "duration_ms": 178796,
-      "name": "Starts With You And Me",
-      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Versions",
         "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
       },
@@ -975,6 +939,22 @@
       "duration_ms": 231346,
       "name": "Losing the Lonely",
       "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Broken With You",
+        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
+      },
+      "artists": [
+        {
+          "name": "Nathan Sheridan",
+          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
+        }
+      ],
+      "duration_ms": 178796,
+      "name": "Starts With You And Me",
+      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1107,6 +1087,22 @@
       "duration_ms": 172088,
       "name": "Power Over Me",
       "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
+      },
+      "artists": [
+        {
+          "name": "Daniella Mason",
+          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
     }
   ],
   "unique_name": "Good People Good Music",

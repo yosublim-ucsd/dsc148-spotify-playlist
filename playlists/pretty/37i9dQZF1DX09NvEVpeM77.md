@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,881 likes - 125 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,073 likes - 125 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 124 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
 | 125 | [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 |
 
-Snapshot ID: `MCw4YzFiNWMxODQwYjc0OGY4ZTI5MmJmMDdmNGU0NmI2MGIwYzAyYTFj`
+Snapshot ID: `MCwyZDA1YWQzMGJhMGQ2MDg3ZTdiMGU0OTk4YjVkYWE2MWE5NWQ4MTdh`

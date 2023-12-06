@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42431,
+  "num_followers": 42449,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmFlODc1MDE5ZGI3NmYyMzkzNzUzNDQ2MDgwMzIwYTg5ZGQ2OTg1",
+  "snapshot_id": "MCw1ZGRlYjVhNWRkN2I5ZTljNTI0Zjk3MDk1MDdmYmQ2NTFkN2M3N2Vl",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Guitar Forms (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Decca Singles 1949-1958",
@@ -1283,22 +1299,6 @@
       "duration_ms": 186760,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Guitar Forms (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
     },
     {
       "added_at": "2019-10-02 08:54:10",

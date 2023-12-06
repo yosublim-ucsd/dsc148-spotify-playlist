@@ -4,7 +4,7 @@
 
 > All the New Joints featuring BigXthaPlug, Flo Milli, and more\. Cover: Sexyy Red
 
-4,086 songs - 7 day 22 hr 38 min
+4,087 songs - 7 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/11BbPUv7NlzlcbY7AmHHKy) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [AT THE PARTY](https://open.spotify.com/album/0kXRXezhirr0900HvfPYHV) | 3:58 | 2023-11-03 | 2023-11-11 |
 | [AT WHAT COST?](https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [AT WHAT COST?](https://open.spotify.com/album/3GkYOJW5mbaUCSUpN2cQI4) | 2:39 | 2023-09-01 | 2023-09-09 |
 | [ATL Freestyle](https://open.spotify.com/track/57YTz6wLTV3c6bXFI8nwAh) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [ATL Freestyle](https://open.spotify.com/album/6nEdEnEP91fbVHHXcVYmYq) | 2:19 | 2023-11-10 | 2023-11-18 |
-| [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ) | 2:07 | 2023-12-01 |  |
+| [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/0lCuickjQ0wGBvYDYc2TLA) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE) | 2:07 | 2023-12-01 |  |
+| [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ) | 2:07 | 2023-12-01 | 2023-12-06 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 | 2023-06-24 |
 | [AVENTADOR](https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 2:03 | 2022-08-12 | 2022-08-20 |
 | [AWESOME](https://open.spotify.com/track/5O6XUXibuVgl0folQt5e4p) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:44 | 2022-11-18 | 2022-11-26 |

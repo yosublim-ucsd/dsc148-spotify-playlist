@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-896 songs - 1 day 16 hr 40 min
+899 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [basketball](https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [basketball](https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs) | 2:21 | 2021-05-25 | 2022-07-09 |
 | [Beach House](https://open.spotify.com/track/02q4rkGaqNOeU6NTCqAsvB) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Beach House](https://open.spotify.com/album/6VoNaPreRVyoR00XGRLziD) | 2:05 | 2021-03-06 | 2021-05-29 |
 | [beamer boy](https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/69nnJOr40uKMOFvB1sSKLp) | 3:23 | 2022-06-29 | 2022-09-24 |
+| [bearer of the curse](https://open.spotify.com/track/1GxVD3a8YzewUOx0ObNnsl) | [Yokai Dreams](https://open.spotify.com/artist/56wkZ4KK49FvsUlzwCumWF) | [bearer of the curse](https://open.spotify.com/album/4qq9zejxxOLjIJBEl3xeyF) | 2:05 | 2023-12-05 |  |
 | [Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Anarchy](https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw) | 3:05 | 2022-07-01 | 2023-01-28 |
 | [Beeline](https://open.spotify.com/track/3FpkGXrGNBBBX9SmujIy0M) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Beeline](https://open.spotify.com/album/5AtuFIcGGLoD4XlxrIAmWS) | 2:43 | 2021-05-29 | 2022-07-28 |
 | [BEEN THRU](https://open.spotify.com/track/6qjPSvC9JtdsGb4PR0nvRo) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [916frosty](https://open.spotify.com/artist/6c0lj01vVpHsCH7Z5CfJ9K) | [BEEN THRU](https://open.spotify.com/album/0FuW9JxVaZuMmQBO0QxBjO) | 3:04 | 2021-05-29 | 2022-04-14 |
@@ -679,6 +680,7 @@
 | [She Likes My Tattoos](https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:44 | 2023-09-01 |  |
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-07-22 | 2023-11-04 |
 | [She Likes My Tattoos](https://open.spotify.com/track/70VBBZjawKfX6Jkrb0ru4d) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:44 | 2023-09-01 | 2023-11-11 |
+| [sheep](https://open.spotify.com/track/47LQYTkU1i3Xr5NYEVlTRd) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy), [oc](https://open.spotify.com/artist/6e0A38lng3gwUehNIeSm3G), [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [sheep](https://open.spotify.com/album/16yEDTVbS0kNMxqhmjSL6S) | 3:34 | 2023-12-05 |  |
 | [Shoot](https://open.spotify.com/track/6PJxtrcNUrrAUSrFZd4FhZ) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Ron Grams](https://open.spotify.com/artist/7ExRitoagqoDzxPBU5hp8y) | [Shoot](https://open.spotify.com/album/0qzjEFkrwdBnZyvrXwa45v) | 2:53 | 2021-05-22 | 2022-04-20 |
 | [Shoot Me Down](https://open.spotify.com/track/6E8DXXi3dmQs91BNJLz3yg) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Shoot Me Down](https://open.spotify.com/album/6W1u60F5cZp3iK311nbEpq) | 2:25 | 2021-05-29 | 2022-04-20 |
 | [shooting star](https://open.spotify.com/track/43HJfsp6pEocMweUhg9y5y) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [shooting star](https://open.spotify.com/album/5OV6W4584Dq4IuwVo9LHi7) | 3:36 | 2022-02-18 | 2022-07-29 |
@@ -886,6 +888,7 @@
 | [would you be my baby](https://open.spotify.com/track/0s1jF1PHS9oQ1rHSYg90XB) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/36s99vXNlumFqVrvqmidCl) | 1:13 | 2022-07-22 | 2022-10-20 |
 | [would you be my baby](https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki) | 1:13 | 2022-10-07 | 2023-07-21 |
 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 | 2023-04-07 |  |
+| [X's & O's](https://open.spotify.com/track/6gvkUTWdh9vmuqrwCb6gRr) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [X's & O's](https://open.spotify.com/album/5vHMAPEMBJhR4gphpKNvbC) | 2:03 | 2023-12-05 |  |
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2022-07-22 | 2023-01-28 |
 | [YELLOW NOISE](https://open.spotify.com/track/41oClmFa1qJUCON9DD4SBg) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:46 | 2023-10-13 |  |
 | [YellowStone](https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [YellowStone](https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp) | 3:09 | 2023-03-03 |  |

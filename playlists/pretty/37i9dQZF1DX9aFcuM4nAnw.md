@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,385 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,386 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 19 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 |
 | 20 | [This Isn't You](https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 2:23 |
 | 21 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
-| 22 | [In McDonalds](https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 2:06 |
-| 23 | [Intro / Menu](https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [The Old City \(Original Soundtrack\)](https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG) | 2:08 |
+| 22 | [Intro / Menu](https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [The Old City \(Original Soundtrack\)](https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG) | 2:08 |
+| 23 | [In McDonalds](https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 2:06 |
 | 24 | [1.0\_1\-hellofriend.wav](https://open.spotify.com/track/2fFlmlePz9hrVMv4LvdQxN) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj) | 1:16 |
 | 25 | [Disengaged](https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:16 |
 | 26 | [\#4](https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MCwyNDQ3NGIxMjBmNzlhNmFiOGE2ZGFlNjE2OGU5NTdlNmMzOTk5OGE3`
+Snapshot ID: `MCw3MmJkYWE4OWMxMjRlZWUyZTNjYmNhNjA0ODFlM2I1NmFmY2YwNGIx`

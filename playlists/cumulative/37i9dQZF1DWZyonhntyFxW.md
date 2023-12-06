@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ\-qPyy0ERszIyg"> Marwan Pablo </a> : اسمعوا الميلوديز على ملوك السين\. غلاف
 
-253 songs - 12 hr 53 min
+254 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [MAREED](https://open.spotify.com/track/2Mv3lhZmdcCFjSWpMKf70i) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:36 | 2022-07-30 | 2022-08-24 |
 | [MAREED](https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:36 | 2022-07-28 | 2022-07-31 |
 | [Masr7ya](https://open.spotify.com/track/0NRCKDMBB0RB9vKWO9ePY1) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 3:37 | 2023-11-27 |  |
+| [Matafetch](https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:36 | 2023-12-05 |  |
 | [Matbosesh 3Al Sora Kteer](https://open.spotify.com/track/02hW8iovo5mxTEYxV0me0E) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Matbosesh 3Al Sora Kteer](https://open.spotify.com/album/1jxRTZnozNblBwG3EZTpCc) | 3:01 | 2023-06-03 | 2023-06-16 |
 | [MATBOSESH 3AL SORA KTEER](https://open.spotify.com/track/1GpGDH9ZjwsEsYpvWQlqed) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [MATBOSESH 3AL SORA KTEER](https://open.spotify.com/album/6KEVEDUAhskxwMkMOT53PI) | 3:02 | 2023-01-12 | 2023-06-05 |
 | [Matgreesh](https://open.spotify.com/track/3RKzFNbYS8iiBGJCrfbVbb) | [VLI WEEZY](https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Matgreesh](https://open.spotify.com/album/0ChMqRWMDlD6RVyl1EOguu) | 3:24 | 2022-05-10 | 2023-01-04 |
@@ -140,7 +141,7 @@
 | [Matloob](https://open.spotify.com/track/3GFCoYz5FJHXuU81xkICJs) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 3:23 | 2023-05-25 | 2023-08-18 |
 | [MAWAWEL](https://open.spotify.com/track/4pHTYFhKIdmDWHBi9oliWv) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAWAWEL](https://open.spotify.com/album/2UKKXEuzmNF6RW0ZfOq1rN) | 2:53 | 2022-12-29 |  |
 | [Mel Awel](https://open.spotify.com/track/6lCWpCNAybFwgsamSSKJkp) | [3askalany](https://open.spotify.com/artist/7c1QO1bjAblAKb0BfknXQP) | [Mel Awel](https://open.spotify.com/album/3ehkJr1wWNC7DazGAi78NS) | 3:22 | 2023-08-31 |  |
-| [Melodies](https://open.spotify.com/track/0izKRFFUPvOctUpMVo9XIN) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:21 | 2023-11-27 |  |
+| [Melodies](https://open.spotify.com/track/0izKRFFUPvOctUpMVo9XIN) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:21 | 2023-11-27 | 2023-12-06 |
 | [Melok El Scene](https://open.spotify.com/track/3m3mUrLGCe65i4MOugQSZf) | [MR YASEEN](https://open.spotify.com/artist/17ffht4Wa7TD9dhalJDw6K), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Melok El Scene](https://open.spotify.com/album/2EAY4ezzVKdRd7KrzEEmxN) | 3:40 | 2023-06-27 | 2023-08-18 |
 | [Men El Akher](https://open.spotify.com/track/2qzHA1TrDl6EhnaCZpM2yx) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Men El Akher](https://open.spotify.com/album/41jloKy8Li6pfkwSrLxZ0r) | 4:21 | 2022-12-30 | 2023-02-17 |
 | [Mesabek](https://open.spotify.com/track/6FLWYkD96VoBh2Sv2SWewV) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Mesabek](https://open.spotify.com/album/33eGSVyONMDWu2bBpGNMCP) | 4:09 | 2023-02-22 | 2023-08-18 |

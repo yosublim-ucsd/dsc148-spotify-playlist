@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 206615,
       "name": "Plaza En el Cielo",
       "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
@@ -3678,6 +3678,24 @@
       "duration_ms": 187710,
       "name": "REMORDIMIENTO",
       "url": "https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX"
+    },
+    {
+      "album": {
+        "name": "Riley (S)",
+        "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
+      },
+      "artists": [
+        {
+          "name": "I AM",
+          "url": "https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178040,
+      "name": "Riley",
+      "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
     },
     {
       "album": {

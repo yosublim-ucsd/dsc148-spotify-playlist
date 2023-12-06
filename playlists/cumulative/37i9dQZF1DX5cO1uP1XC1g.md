@@ -4,7 +4,7 @@
 
 > The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=0YJbRhSmTM\-p68DBwaI\_Ag">Assala</a>
 
-344 songs - 20 hr 40 min
+345 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,8 @@
 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-11-04 | 2023-06-02 |
 | [ما تندم ع شي](https://open.spotify.com/track/72ZLaleDUPYGsCN34RNGdr) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [ما تندم ع شي](https://open.spotify.com/album/18Z8uAEnnX0bQhtHjFG3wT) | 3:05 | 2023-02-02 | 2023-06-02 |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-22 | 2023-06-02 |
-| [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-07-11 |  |
+| [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2023-11-30 |  |
+| [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-07-11 | 2023-12-06 |
 | [مسيطره](https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4) | 2:48 | 2022-07-22 | 2022-08-18 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2021-12-12 | 2022-07-29 |
 | [مش كفاية فراق](https://open.spotify.com/track/75Ca7I3xIHLqG1S0izGV02) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [مش كفاية فراق](https://open.spotify.com/album/6pUq5K38plrNVoJ7shbzb5) | 4:34 | 2023-08-10 | 2023-08-31 |

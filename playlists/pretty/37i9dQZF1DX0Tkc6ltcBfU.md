@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: BabyDrill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,541 likes - 74 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,588 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 58 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
 | 59 | [Which One](https://open.spotify.com/track/3uZ6TJZmID7iy1v8mmeWpg) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Which One](https://open.spotify.com/album/2gt15XhyEmnVnuqCr2i6Rv) | 2:31 |
 | 60 | [Pink Panther \(feat\. Lil Gotit\)](https://open.spotify.com/track/7doNmOV0adtKYPHkznWr2o) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Pink Panther \(feat\. Lil Gotit\)](https://open.spotify.com/album/0vpfhRCn28dUB7rTWBZQ2o) | 2:03 |
-| 61 | [Not Worthy 2](https://open.spotify.com/track/1pGkgfarR7dAlueOvkfS0y) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:16 |
+| 61 | [Not Worthy 2 ft\. Jeezy](https://open.spotify.com/track/1pGkgfarR7dAlueOvkfS0y) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:16 |
 | 62 | [Still Lowkey](https://open.spotify.com/track/4tapGiB2MZidoygeH7zPBv) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Still Lowkey](https://open.spotify.com/album/28sVPpkdp1F54YqFrSmGnQ) | 2:34 |
 | 63 | [What Goes Next](https://open.spotify.com/track/3dfotIG0lfPxg1CBVjrmaQ) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [What Goes Next](https://open.spotify.com/album/0FnzVFf7gRlLxVoHyPkRMS) | 2:30 |
 | 64 | [To The Bank](https://open.spotify.com/track/3h4HlcmWdexWJ6SSyZG67E) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:12 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 73 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 |
 | 74 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 |
 
-Snapshot ID: `MCxlZTM1MWYyZTFjMDA0MTZlMjgwMjBmNmRmMTI3NDAyNGViYzIyNjI5`
+Snapshot ID: `MCwzOTBjNjQ4NjYxMDk0OWQ4MjFhMWRiZTBjNTQxZGQ3NjI4NDdhYzE0`

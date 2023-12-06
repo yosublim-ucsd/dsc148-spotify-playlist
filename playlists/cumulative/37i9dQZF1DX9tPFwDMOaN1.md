@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! Cover: ATEEZ
+> Turn on the movement with the latest and greatest in K\-Pop! Cover: TAEYEON
 
 388 songs - 20 hr 48 min
 

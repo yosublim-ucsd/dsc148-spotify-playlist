@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: P.O.D\. & Tatiana Shmayluk of Jinjer
 
-5,212 songs - 14 day 17 hr 12 min
+5,214 songs - 14 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Acid Haze](https://open.spotify.com/track/5AG01j4cCNcjjH6227kzKv) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Dread Reaver](https://open.spotify.com/album/2OmOVZhJZbpASN7UcegN8Z) | 4:51 | 2022-03-24 | 2022-04-01 |
 | [Acoustipex](https://open.spotify.com/track/3zT48ClIwBdvn0GpRTjxqX) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Acoustipex](https://open.spotify.com/album/4kkeIAASlhiu5f1w1WaZ93) | 5:59 | 2022-11-04 | 2022-11-12 |
 | [Actin' Up](https://open.spotify.com/track/0DkIEyzTbwVbG0IZyekIZb) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Actin' Up](https://open.spotify.com/album/6EKWmlEdfIOYggqHMc56s6) | 2:23 | 2023-07-21 | 2023-07-29 |
-| [Ad Infernum](https://open.spotify.com/track/1OvyyYbZZjbbFBs9AS6ijP) | [Dead Icarus](https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS) | [Ad Infernum](https://open.spotify.com/album/0wO9Yhqdrh6RCZeF4EfJ95) | 5:55 | 2023-12-01 |  |
+| [Ad Infernum](https://open.spotify.com/track/1OvyyYbZZjbbFBs9AS6ijP) | [Dead Icarus](https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS) | [Ad Infernum](https://open.spotify.com/album/0wO9Yhqdrh6RCZeF4EfJ95) | 5:55 | 2023-12-01 | 2023-12-06 |
 | [Ad Maiora Semper](https://open.spotify.com/track/7H9hsQsRbsHuJvDOf7tRKy) | [White Skull](https://open.spotify.com/artist/68rma2DcKarO2FNjbr6neD) | [Ad Maiora Semper](https://open.spotify.com/album/4v46juW5KATfhMNOFmRrH9) | 4:33 | 2022-10-14 | 2022-10-22 |
 | [Adamantine](https://open.spotify.com/track/2BwQv8zaVIZPvA0S5aJ3ks) | [Dark The Suns](https://open.spotify.com/artist/7ldEIhfppQqruChWjVKgeE) | [Raven and the Nightsky](https://open.spotify.com/album/4olxoVLfLEOVTUFRx62O51) | 4:37 | 2023-09-29 | 2023-10-07 |
 | [Adderall \- No Intro](https://open.spotify.com/track/6jsgDXBHbzXWv0Lsbmorf2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Adderall](https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH) | 4:36 | 2023-06-09 | 2023-06-17 |
@@ -1146,6 +1146,7 @@
 | [Deliver Us From Evil](https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Deliver Us From Evil](https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO) | 5:21 | 2021-12-17 | 2022-01-07 |
 | [Deliverance](https://open.spotify.com/track/2BVTLEEbNKbOBCkEQmOb2j) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Deliverance](https://open.spotify.com/album/6CORTXGLALFSWFt5yfutX5) | 3:32 | 2023-08-11 | 2023-08-19 |
 | [Delusions Of Mortality](https://open.spotify.com/track/2mH4PnhKYZ6YOyxBzZ1y6J) | [Suffocation](https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1) | [Hymns From The Apocrypha](https://open.spotify.com/album/4Byt3zV8C9V8KhKTdrvemZ) | 3:49 | 2023-11-03 | 2023-11-11 |
+| [Demigod](https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Rebirth](https://open.spotify.com/album/7ACxLfrkh5ADpD0Xwry40J) | 3:14 | 2023-12-06 |  |
 | [DEMIGODS](https://open.spotify.com/track/1W7DnXOcP8ZtgOJBp82ITh) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [DEMIGODS](https://open.spotify.com/album/7q98CKlA3Q0BZTCEsnKF3c) | 5:41 | 2023-11-24 | 2023-12-02 |
 | [Demon](https://open.spotify.com/track/0hsAsWuztnj9tlEVCKR3Ic) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [AOKAMI](https://open.spotify.com/artist/4juluquEqP4WygWA1jtNh9) | [Demon](https://open.spotify.com/album/6yrZ3xWKwqovHd07bETTc4) | 3:30 | 2023-03-03 | 2023-03-11 |
 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 | 2022-05-27 | 2022-06-07 |
@@ -3664,6 +3665,7 @@
 | [Roaring Vortex](https://open.spotify.com/track/7CXbZ8UMFqerLsLNqDtw5D) | [ANTHEM](https://open.spotify.com/artist/67BObUWOkPPGftw3ITCHXH) | [Crimson & Jet Black](https://open.spotify.com/album/03OVhbUUlOHc91iTRXySRA) | 5:58 | 2023-04-21 | 2023-04-29 |
 | [ROC SH!T](https://open.spotify.com/track/5vHhnLEqrFXj8Agx6JmKAD) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [ROC SH!T](https://open.spotify.com/album/1tpC1yYHkOxqRtaGlc6kbJ) | 3:05 | 2023-07-07 | 2023-07-15 |
 | [Rock Bottom](https://open.spotify.com/track/6mOmeSIqH8e5oMu4z4dg0m) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Rock Bottom](https://open.spotify.com/album/257tcvaYD6roMvDz5AbXQA) | 2:30 | 2023-03-17 | 2023-03-25 |
+| [Rodent](https://open.spotify.com/track/7tMNOySqYpwyWQarUZo72r) | [Verona on Venus](https://open.spotify.com/artist/375AHSKPxfGjbQySaTa2VW) | [Rodent](https://open.spotify.com/album/6yV3LE8RLvpVmYYfWKRwJ7) | 4:14 | 2023-12-06 |  |
 | [Rodin](https://open.spotify.com/track/69WneC6u16YpzYxTvVpm7U) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Gris Klein](https://open.spotify.com/album/19DOARmoP1fongIfEjg80g) | 3:05 | 2022-10-14 | 2022-10-22 |
 | [Roll Like Thunder](https://open.spotify.com/track/4RIVbM34beXfFc7tjvz203) | [House Of Lords](https://open.spotify.com/artist/0iu8uY2sqeWpiwxcdwOonn) | [Saints and Sinners](https://open.spotify.com/album/3YU65pbifLS6ucd5EtFUoC) | 3:48 | 2022-09-16 | 2022-09-24 |
 | [Roll the Dice](https://open.spotify.com/track/1tcBSRLxOVRmNSu2vvr77F) | [Aphyxion](https://open.spotify.com/artist/40UIlN4YEByXy4ewEZmqXu) | [Roll the Dice](https://open.spotify.com/album/37jZjLhJ8a9cOczhHVhRVY) | 3:36 | 2022-10-14 | 2022-10-22 |

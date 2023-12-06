@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Felipe e MC Ryan SP, João Gomes, MC Cabelinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,923,887 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,304 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 22 | [Coração Que Apanhou](https://open.spotify.com/track/1PVPV2HxyUdoPxvUurCd8i) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Daqui pra Sempre, Vol\. 02](https://open.spotify.com/album/3E2scPcf8tGEmfDzOrrFcV) | 3:27 |
 | 23 | [Falta De Atenção](https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Falta De Atenção](https://open.spotify.com/album/4Tk9B83h1srd2bSbQnE4lM) | 2:30 |
 | 24 | [Vai Valer a Pena](https://open.spotify.com/track/6l4tZllSDoVwx2NhcqIyIw) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Vai Valer a Pena](https://open.spotify.com/album/1vF8BcWxnjySE13x5Pe83Y) | 3:00 |
-| 25 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 |
+| 25 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 |
 | 26 | [É OS D](https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [É OS D](https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN) | 2:56 |
 | 27 | [Desacato](https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Gui Da Norte](https://open.spotify.com/artist/1PC8RPtwfgPPdlxyAsd1Bw) | [Desacato](https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8) | 7:18 |
 | 28 | [Meu Ponto Fraco](https://open.spotify.com/track/4ghczZ2JkJD7RUa7kh5l3F) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Vitin Do MT](https://open.spotify.com/artist/2gQgF9nDVtxEw1Ph6D4Wq2) | [ROMA](https://open.spotify.com/album/6bCdPbY4Wi931I1UcH8JOT) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Só lamento](https://open.spotify.com/track/27b6If422K7cuNezwYN55c) | [Thomas Vaqueiro](https://open.spotify.com/artist/5Fc2BzVQzypkuOBhvYdrvJ), [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv) | [Só lamento](https://open.spotify.com/album/1igCfqzOqI1Gmr4vl6NE6e) | 3:11 |
 | 100 | [Toda Vez \- Ao Vivo](https://open.spotify.com/track/2MDPZG8NsDIVeFoazvS3il) | [Grupo Façanha](https://open.spotify.com/artist/7rVqW5hEuqyZHkgGtuHuLe), [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q) | [Toda Vez \(Ao Vivo\)](https://open.spotify.com/album/0OVb0E8JkEOt9mvZmEFbrF) | 2:46 |
 
-Snapshot ID: `MCxhODA4MzNmODZhYjQ3MDNiZmYyYzg0ZmMxYmNkMDA1M2FjNjNhY2Rk`
+Snapshot ID: `MCxjMWQ2NzJkOTZkYjcwZDk0ZDMwNzU5MWVkYTc4YmYwYjE0Mzk1M2Y2`

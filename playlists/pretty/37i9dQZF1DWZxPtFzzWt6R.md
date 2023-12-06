@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,177 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,238 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 27 | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS) | 3:07 |
 | 28 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
 | 29 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
-| 30 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |
-| 31 | [Confia no Processo](https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv) | [João Marcos & Danilo](https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F) | [Confia no Processo](https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp) | 3:03 |
+| 30 | [Confia no Processo](https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv) | [João Marcos & Danilo](https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F) | [Confia no Processo](https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp) | 3:03 |
+| 31 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |
 | 32 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
 | 33 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 34 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 60 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 |
 
-Snapshot ID: `MCw3OWE2ZTQxMmFiYjBlYjRkMTY2NDk3YzZlNTI0OTJiN2VkNzk4NWU1`
+Snapshot ID: `MCwyZDIxNjdkYTBhYjAzNTA4YzIzODI1MWY5YzA1NWZhM2MyMTJiNzIw`

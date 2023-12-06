@@ -1,12 +1,12 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 26893,
+  "num_followers": 26895,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDA4ODU1NWVkZTk3OTRhZTJkMWQxYjBmNDUwOTg4NTMyYjMwMTc4",
+  "snapshot_id": "MCwxODYxNTY2MGI5ZDVhMzFmOTYwMGRkYTY2ZDk4NGQ0Nzc4ZWJlYjEz",
   "tracks": [
     {
       "added_at": "2023-12-01 11:30:00",
@@ -155,38 +155,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Run To The Hills",
-        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Run To The Hills",
-      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
-        "name": "Euphoria (The Alternative Mixes)",
-        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -207,6 +175,38 @@
       "duration_ms": 176960,
       "name": "Where You Are (S\u00e1ve\u017ean)",
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Euphoria (The Alternative Mixes)",
+        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Run To The Hills",
+        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Run To The Hills",
+      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc"
-      },
-      "artists": [
-        {
-          "name": "Panetoz",
-          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
-        }
-      ],
-      "duration_ms": 185688,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "L\u00e4ngtan",
         "url": "https://open.spotify.com/album/7bmBYDzXffP3R5lECEdzkH"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Tropicalisera",
-        "url": "https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
         }
       ],
-      "duration_ms": 173692,
-      "name": "In i dimman",
-      "url": "https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX"
+      "duration_ms": 185688,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -335,6 +319,22 @@
       "duration_ms": 184319,
       "name": "Jag ljuger s\u00e5 bra",
       "url": "https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Tropicalisera",
+        "url": "https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 173692,
+      "name": "In i dimman",
+      "url": "https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
         "name": "Take Me To Your Heaven",
         "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+        "name": "Alltid p\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
       },
       "artists": [
         {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+      "duration_ms": 182773,
+      "name": "H\u00e5ll om mig",
+      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -467,18 +483,18 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Alltid p\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
+        "name": "Dolly Styles b\u00e4sta",
+        "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
       "artists": [
         {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
         }
       ],
-      "duration_ms": 182773,
-      "name": "H\u00e5ll om mig",
-      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
+      "duration_ms": 171340,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -495,22 +511,6 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
-        "name": "Dolly Styles b\u00e4sta",
-        "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
-      },
-      "artists": [
-        {
-          "name": "Dolly Style",
-          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
-        }
-      ],
-      "duration_ms": 171340,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Fr\u00e5n nu till evighet",
-        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Evighet",
-      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 189120,
       "name": "As I Lay Me Down",
       "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Fr\u00e5n nu till evighet",
+        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Evighet",
+      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 181633,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 180893,
       "name": "Manboy",
       "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 181633,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
     },
     {
       "added_at": "2023-12-01 11:30:00",

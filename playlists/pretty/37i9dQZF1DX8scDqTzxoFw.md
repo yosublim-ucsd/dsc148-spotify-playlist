@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 
 > Watch the kids go wild for these party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,961 likes - 110 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,957 likes - 110 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 | 17 | [KIDZ BOP Never Stop](https://open.spotify.com/track/3Ncmc1ozAqjANGAJhdody8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Never Stop](https://open.spotify.com/album/0LS1fogHuhi7tXmiQTM474) | 2:55 |
 | 18 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 19 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
-| 20 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
+| 20 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
 | 21 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 22 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |
 | 23 | [Like the Zombies Do](https://open.spotify.com/track/6PSN0NJHzkCmNWGpF6yDsj) | [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Kylee Russell](https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:03 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 | 109 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 110 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 
-Snapshot ID: `MCw3MDkzODc3MDRmNmRmNzZiZjYyOThjYTNhOGJmZDBhNjM5MjY2Mjkz`
+Snapshot ID: `MCw4ODIxZWYzZjIxMjM0ZDRhNTc1ZDBlZDhhYWJkMDUxOWY5Mjc0Nzc5`

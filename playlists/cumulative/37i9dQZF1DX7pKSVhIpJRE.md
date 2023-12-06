@@ -4,7 +4,7 @@
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-140 songs - 8 hr 5 min
+141 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 | 2023-11-16 |  |
 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 | 2023-11-16 |  |
 | [Stretched Choir](https://open.spotify.com/track/5kEjgSSVtSly2COLijc9Yc) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Three \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2Fo6fhIcRqerCpyYBORZWK) | 2:13 | 2023-11-16 |  |
+| [Sweet Disposition](https://open.spotify.com/track/6DR7WWSHxfwZpS9JY2C6A9) | [The Crown](https://open.spotify.com/artist/3UZyYh6oRF0RGSt8u0w7Cj), [Fort Nowhere](https://open.spotify.com/artist/6riEBbCnOOr0uBy8YjK4Zj), [FFM](https://open.spotify.com/artist/5MAUtUtG1JQsg7PwiHMmZo) | [Sweet Disposition](https://open.spotify.com/album/7iIeirz3RCCTN5O4wr1dDf) | 2:47 | 2023-12-05 |  |
 | [Tallis: Spem in Alium \- 1\. Spem in Alium](https://open.spotify.com/track/7vCkGmgFZ5aw2W0yiSXazh) | [The Tallis Scholars](https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG), [Peter Phillips](https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk) | [Spem in Alium \- The Tallis Scholars Sing Thomas Tallis \(With 3 Bonus Tracks\)](https://open.spotify.com/album/0oP0XZoe62zQPxBNlayPmP) | 5:04 | 2023-11-16 |  |
 | [The Anointing](https://open.spotify.com/track/0kVy9D25VGQOummP2N9yPQ) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [The Crown: Season One \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6ng66yiXAHS3lYzt7C6AD5) | 5:13 | 2023-11-16 |  |
 | [The Crown Main Title](https://open.spotify.com/track/52IkG0BbNmrz4zUcnsN7Uf) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Crown: Season One \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6ng66yiXAHS3lYzt7C6AD5) | 1:24 | 2023-11-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 342312,
+  "num_followers": 342443,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI5Y2MyMGY5NWU4ZjAxYzEwNmIyMGY4NzJiMTlhYTQyMjliMzdk",
+  "snapshot_id": "MCwzZDJhZDcxOTM3ZjAxMWM4MmJlMGRlYjc1OWUzYWIxYjJkYjQwYzNj",
   "tracks": [
     {
       "added_at": "2023-11-10 05:06:42",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "So Called Life",
-      "url": "https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 234945,
       "name": "There\u2019s Fear In Letting Go",
       "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "So Called Life",
+      "url": "https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
+      "duration_ms": 228260,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "TRUE POWER",
-        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 228260,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM"
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -495,38 +495,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Meat & Greet",
-        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 210559,
-      "name": "Meat & Greet",
-      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
@@ -543,6 +511,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Meat & Greet",
+        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 210559,
+      "name": "Meat & Greet",
+      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5ZQSKzxwW86JEosVUWDoRm"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
         "name": "Welcome to the Chaos",
         "url": "https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 208979,
       "name": "Welcome to the Chaos (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/5ZQSKzxwW86JEosVUWDoRm"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "The Optimist",
-        "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 178415,
-      "name": "The Optimist",
-      "url": "https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "The Optimist",
+        "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 178415,
+      "name": "The Optimist",
+      "url": "https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "Together Right",
-        "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Together Right",
-      "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Extrovert",
         "url": "https://open.spotify.com/album/2rv0XADiy2bRhJ2ROPAqFy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 212222,
       "name": "Devastate",
       "url": "https://open.spotify.com/track/7vxqsIF0X2BrYKazuIWzoh"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "Together Right",
+        "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Together Right",
+      "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
     },
     {
       "added_at": "2023-11-10 05:06:42",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-11-10 05:06:42",
       "album": {
-        "name": "If I Could",
-        "url": "https://open.spotify.com/album/6szEjP6Wd7OcTeITpFlNtR"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/7MSGK0KByE9M66NOMup1AT"
-    },
-    {
-      "added_at": "2023-11-10 05:06:42",
-      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 215733,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2rzoY8Gzj9iC0jPwPRQgZP"
+    },
+    {
+      "added_at": "2023-11-10 05:06:42",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/6szEjP6Wd7OcTeITpFlNtR"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7MSGK0KByE9M66NOMup1AT"
     },
     {
       "added_at": "2023-11-10 05:06:42",

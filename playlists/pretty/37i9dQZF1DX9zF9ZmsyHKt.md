@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,510 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,551 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 53 | [As Mais Braba](https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 4:40 |
 | 54 | [Só o Amor](https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Só o Amor](https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ) | 2:58 |
 | 55 | [JBL](https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 2](https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY) | 3:13 |
-| 56 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
-| 57 | [Sorriso Aberto](https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Sorriso Aberto](https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc) | 4:36 |
-| 58 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
+| 56 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 |
+| 57 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
+| 58 | [Sorriso Aberto](https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Sorriso Aberto](https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc) | 4:36 |
 | 59 | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r) | 2:17 |
 | 60 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
 | 61 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 76 | [Cafeína](https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5) | 3:11 |
 | 77 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
 | 78 | [Ninguém Perguntou por Você](https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 5:21 |
-| 79 | [Nobre Vagabundo](https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:53 |
-| 80 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
+| 79 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
+| 80 | [Nobre Vagabundo](https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:53 |
 | 81 | [Assim Que Se Faz](https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ) | [Luciana Mello](https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb) | [Assim Que Se Faz](https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0) | 5:00 |
 | 82 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 |
 | 83 | [Diz Que Fui Por Ai](https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara \(1964\)](https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7) | 2:09 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 86 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 |
 | 87 | [Coração](https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [É o Que Temos](https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ) | 4:08 |
 | 88 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 |
-| 89 | [Preta de Quebrada](https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:26 |
-| 90 | [Saudade](https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Little Electric Chicken Heart](https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv) | 3:40 |
+| 89 | [Saudade](https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Little Electric Chicken Heart](https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv) | 3:40 |
+| 90 | [Preta de Quebrada](https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:26 |
 | 91 | [Você Pra Mim](https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:27 |
 | 92 | [Baldin de Gelo](https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Baldin de Gelo](https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9) | 2:47 |
 | 93 | [Suave Veneno](https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Os Maiores Sucessos De Novela De Nana Caymmi](https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 100 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
 
-Snapshot ID: `MCwyN2Y2MzBkNTE0M2IzNTliNzExMzM5ZDhlNWUwYTg0YTUzMmVlMjFl`
+Snapshot ID: `MCwwMTJkMWZmNGY3ZTU4YzFjNmMxMTdjMjhmM2RjOGEwZjNhMzQwZDdj`

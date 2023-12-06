@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,498 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,825 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 15 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 | 16 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 |
 | 17 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
-| 18 | [Day & Night](https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk) | 4:20 |
-| 19 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 |
+| 18 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 |
+| 19 | [Day & Night](https://open.spotify.com/track/0JlYPewyE0Cs5rkUCsWqgy) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2syAapNLqkGguLZr8PZubk) | 4:20 |
 | 20 | [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 |
 | 21 | [내 맘을 볼 수 있나요](https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:45 |
 | 22 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 |
 | 50 | [With My Tears](https://open.spotify.com/track/4Rkp8OAEGdNqysT6LRpz8t) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em) | 4:13 |
 
-Snapshot ID: `MCw3YTNjYjBjMDdiNmY4OTVjNjI5ZDQ3MDcxNjcyZjZiYjM5NzI4Mzcw`
+Snapshot ID: `MCw3NmI2NzIxYjQyYjA1ZWI2MTM3YmQ2MTdhOGE0OTE4OTFjNmVjMjQw`

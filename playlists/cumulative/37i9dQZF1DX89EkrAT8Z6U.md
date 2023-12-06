@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-295 songs - 12 hr 31 min
+296 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Mercury: Retrograde](https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e) | 2:04 | 2022-05-25 | 2022-07-29 |
 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 | 2022-11-10 |  |
 | [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 | 2022-08-26 | 2022-11-21 |
-| [MK Plus Ultra](https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg) | 2:10 | 2023-07-13 |  |
+| [MK Plus Ultra](https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg) | 2:10 | 2023-07-13 | 2023-12-06 |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-07-21 | 2023-08-19 |
 | [MUKANJYO](https://open.spotify.com/track/02846iBEHz7g1pFLvpRllW) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Mukanjyo](https://open.spotify.com/album/2GETS8ihYgK6ONlklnGHM9) | 3:12 | 2022-05-25 | 2022-07-29 |
 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 | 2022-07-08 |  |
@@ -215,6 +215,7 @@
 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 | 2022-05-25 | 2022-07-29 |
 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 | 2022-11-21 |  |
 | [Sasuke](https://open.spotify.com/track/5q5t2C28uQdg2mk8HOfDWb) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Sasuke](https://open.spotify.com/album/2MsdnHASkr4LyTS938BOCb) | 3:18 | 2022-05-25 | 2022-07-28 |
+| [SELL OUT](https://open.spotify.com/track/1671uMsakQAiHKNAKeV3YI) | [Basco](https://open.spotify.com/artist/1j6WlpKlErRMXTjGKez8oJ) | [SELL OUT](https://open.spotify.com/album/45XvqeI16CbVKcXDc86ujJ) | 2:26 | 2023-09-26 |  |
 | [SELL OUT](https://open.spotify.com/track/5zKzTGIpw4yZc21TzAe3HA) | [Basco](https://open.spotify.com/artist/7KK39gLQnZYYMZQv8RhVX9) | [SELL OUT](https://open.spotify.com/album/7Ev3PtVvvDfHDjbdPhVe34) | 2:26 | 2022-05-25 | 2022-07-28 |
 | [Sending Signals](https://open.spotify.com/track/0A2lBlxU3REeDVn9ICuxXV) | [Lames](https://open.spotify.com/artist/0YOqUYaXpo6wSaYPn3jbyy) | [Sending Signals](https://open.spotify.com/album/1JGJGVcyWJISQDUP3qhVQN) | 1:44 | 2022-06-16 | 2022-06-19 |
 | [Shakira!](https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Shakira!](https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM) | 2:29 | 2022-05-25 |  |

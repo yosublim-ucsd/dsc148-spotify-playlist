@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,059 likes - 181 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,497 likes - 181 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 30 | [the b\*tch who stole christmas](https://open.spotify.com/track/16diS2hN9fIZiyjdtjJjPE) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [the b\*tch who stole christmas](https://open.spotify.com/album/60bxITz36xeSamTsQ0Kn8d) | 2:22 |
 | 31 | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 |
 | 32 | [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 |
-| 33 | [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 |
+| 33 | [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 |
 | 34 | [Worst Time of Year](https://open.spotify.com/track/5fbHicMbd940I3O6Ug9OsR) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Worst Time of Year](https://open.spotify.com/album/64ns99Mb4WWR12Cc39u8rz) | 3:43 |
 | 35 | [Come Home to Me](https://open.spotify.com/track/4zAzUmzbYZF6nT2SmuCI1I) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Come Home to Me](https://open.spotify.com/album/0OTCxWoluh7SPdaEePy3mb) | 2:59 |
 | 36 | [Sleigh Ride](https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Sleigh Ride](https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u) | 3:18 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 180 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 181 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCxjZTA5Y2QzYzZhZTFhM2Q1YTRhMGQyYTI1YjE1ZmRmNmY1ZDgyNzVi`
+Snapshot ID: `MCxiMTVmYzc0YWY2MGQwMzcwNTcxYTcwNGViY2UzZTE5MDgwOWI3YTk2`

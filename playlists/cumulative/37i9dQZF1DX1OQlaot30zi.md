@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, Nerissima Serpe, Massimo Pericolo, Ghali, Boro e tanti altri.
 
-2,710 songs - 5 day 2 hr 57 min
+2,711 songs - 5 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1787,6 +1787,7 @@
 | [Ossigeno](https://open.spotify.com/track/61ddLD0PEOJBIeeg3SGezE) | [Gizy](https://open.spotify.com/artist/0z5dPTY04w8yscFrWO94pc) | [Ossigeno](https://open.spotify.com/album/69unynMt6f3S9VhY3KIcCc) | 2:35 | 2023-11-17 | 2023-11-22 |
 | [Ossignore](https://open.spotify.com/track/5LeH3a24bm0fwrRcThwGni) | [Tredinotte](https://open.spotify.com/artist/747deLLZ5hU9k9rmY9THBI) | [Ossignore](https://open.spotify.com/album/0tv7yooQMQU6gFvRoqsUWg) | 2:41 | 2023-02-24 | 2023-03-10 |
 | [Ottocento](https://open.spotify.com/track/4eJK7cwS3tE19PeD4YALJD) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Ottocento](https://open.spotify.com/album/7m7ym6wmkm1Nb4heFdkCcO) | 2:36 | 2023-01-19 | 2023-02-10 |
+| [OUTFIT](https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD) | [19F](https://open.spotify.com/artist/1wtu0PppVIsGTuYVE3gkiR) | [OUTFIT](https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR) | 2:59 | 2023-12-05 |  |
 | [OUTSIDE](https://open.spotify.com/track/7nc1oR8VKY2Gpw8sGhmmZE) | [Pablo CT1](https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe) | [OUTSIDE](https://open.spotify.com/album/5LzeVSNCy9PnQNKgMl9Q7y) | 2:57 | 2022-11-10 | 2022-12-02 |
 | [OUTSIDER](https://open.spotify.com/track/5mReDtjzYeBKhgG3okmyjr) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [OUTSIDER](https://open.spotify.com/album/0Y6y87L7QxjYMd9AotKayf) | 2:57 | 2023-03-24 | 2023-04-07 |
 | [OUTSIDERS \(feat\. Octavian\)](https://open.spotify.com/track/6oR1DRvLCuqrtYoNGpm8ah) | [Spinas](https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [TEMPO](https://open.spotify.com/album/3YIJJF70a3qXDywdOK8oiT) | 2:59 | 2023-09-07 | 2023-10-06 |

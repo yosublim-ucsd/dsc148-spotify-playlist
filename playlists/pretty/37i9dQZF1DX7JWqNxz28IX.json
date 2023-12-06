@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43063,
+  "num_followers": 43092,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODFiN2NiYTVhYWJiMTViMDMzNTc0MTc4ZjYyZDVhM2VkZTU1MThl",
+  "snapshot_id": "MCw2NTIwZjZmNDIzNTNmNDYwMWE0NjUxNTQ2NWQxNTNjNzA5NWUyNzBi",
   "tracks": [
     {
       "added_at": "2023-11-24 09:10:21",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
+        "name": "Testa e cuore",
+        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
+      },
+      "artists": [
+        {
+          "name": "Incubo",
+          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
+        }
+      ],
+      "duration_ms": 184087,
+      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
+      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 202744,
       "name": "Sedato e Deluso",
       "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Testa e cuore",
-        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
-      },
-      "artists": [
-        {
-          "name": "Incubo",
-          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
-      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1199,38 +1199,26 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Demonio",
-        "url": "https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT"
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
       "artists": [
         {
-          "name": "Enea",
-          "url": "https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj"
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
         },
         {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Demonio",
-      "url": "https://open.spotify.com/track/4ggaABHfPX3ZgH7stluAAo"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
-      },
-      "artists": [
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
         {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
         }
       ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1255,6 +1243,42 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+      },
+      "artists": [
+        {
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+        }
+      ],
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "Demonio",
+        "url": "https://open.spotify.com/album/2FHdSgPhLBJVaXWqMOK1dT"
+      },
+      "artists": [
+        {
+          "name": "Enea",
+          "url": "https://open.spotify.com/artist/4AbkLl6EgZ6BiIZ9SX40dj"
+        },
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Demonio",
+      "url": "https://open.spotify.com/track/4ggaABHfPX3ZgH7stluAAo"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
@@ -1267,30 +1291,6 @@
       "duration_ms": 172216,
       "name": "Empatia",
       "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
-      },
-      "artists": [
-        {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1367,6 +1367,22 @@
       "duration_ms": 148714,
       "name": "Cicatrici (feat. Tenth Sky)",
       "url": "https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "setiva",
+        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "duration_ms": 137137,
+      "name": "setiva",
+      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1491,6 +1507,22 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
         "name": "Febbre a febbraio",
         "url": "https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd"
       },
@@ -1511,38 +1543,6 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "setiva",
-        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 137137,
-      "name": "setiva",
-      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
         "name": "Semiminime",
         "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 129854,
       "name": "Semiminime",
       "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "Marie 3 (Principessa Paranoia)",
+        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Marie 3 - Principessa Paranoia",
+      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1579,18 +1595,38 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Marie 3 (Principessa Paranoia)",
-        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
+        "name": "sai che...",
+        "url": "https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b"
       },
       "artists": [
         {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+          "name": "Kid Vice",
+          "url": "https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo"
+        },
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Marie 3 - Principessa Paranoia",
-      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
+      "duration_ms": 160434,
+      "name": "sai che...",
+      "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
+    },
+    {
+      "added_at": "2023-11-24 09:10:21",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1615,18 +1651,22 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+        "name": "Fuori di me",
+        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        },
+        {
+          "name": "Liarr",
+          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+      "duration_ms": 166267,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1647,22 +1687,18 @@
     {
       "added_at": "2023-11-24 09:10:21",
       "album": {
-        "name": "Fuori di me",
-        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+        "name": "Spalla Destra",
+        "url": "https://open.spotify.com/album/1u5GTFReIuhmN8tBp7T0KD"
       },
       "artists": [
         {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Liarr",
-          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
+          "name": "deca ydf",
+          "url": "https://open.spotify.com/artist/13Il0NL1QiQEVvWhK6ZZ5a"
         }
       ],
-      "duration_ms": 166267,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
+      "duration_ms": 177777,
+      "name": "Spalla Destra",
+      "url": "https://open.spotify.com/track/6dEDitKtQNG6GQzwBN2vvb"
     },
     {
       "added_at": "2023-11-24 09:10:21",
@@ -1715,38 +1751,6 @@
       "duration_ms": 216000,
       "name": "Lettera (interlude)",
       "url": "https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Cosa Siamo Noi Ora",
-        "url": "https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "OPPOSTI",
-      "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
-    },
-    {
-      "added_at": "2023-11-24 09:10:21",
-      "album": {
-        "name": "Palude 4",
-        "url": "https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu"
-      },
-      "artists": [
-        {
-          "name": "Blue Virus",
-          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Palude 4",
-      "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
     }
   ],
   "unique_name": "ragazzo triste",

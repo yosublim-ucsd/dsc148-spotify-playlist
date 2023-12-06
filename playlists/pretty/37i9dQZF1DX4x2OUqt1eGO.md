@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,715 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,731 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 3 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
 | 4 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 |
 | 5 | [Enchanting Flute](https://open.spotify.com/track/0zqWV67DuqFzLXiLJsAk9Z) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Krishna Aur Kans](https://open.spotify.com/album/4860cfaunfgt4lu0OGbZjv) | 3:17 |
-| 6 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 |
-| 7 | [Healing Song](https://open.spotify.com/track/6eCmV7Lo5Aqn9QbxMR94Mq) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX), [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Healing Song](https://open.spotify.com/album/3rHQ7V8XGIiQfPZOJ5KTqa) | 3:23 |
+| 6 | [Healing Song](https://open.spotify.com/track/6eCmV7Lo5Aqn9QbxMR94Mq) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX), [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Healing Song](https://open.spotify.com/album/3rHQ7V8XGIiQfPZOJ5KTqa) | 3:23 |
+| 7 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 |
 | 8 | [Bliss](https://open.spotify.com/track/3sdt7exS3REm1OKia8zcyi) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2) | 7:25 |
 | 9 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 |
 | 10 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 20 | [Shiva Medicine](https://open.spotify.com/track/5e1m5IOaefA2QOzl9ADGEm) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX) | [Shiva Medicine](https://open.spotify.com/album/47FfjcwJOPkJa59P9IgwZe) | 2:59 |
 | 21 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 |
 | 22 | [Grateful Mind](https://open.spotify.com/track/54crKFXpXRuqt8EXf79yeB) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Sleep Meditation](https://open.spotify.com/album/7C5Jj9bLdoC9ig586ZBdvM) | 2:21 |
-| 23 | [Naan Nee](https://open.spotify.com/track/6cbiAEy3OoREiXooWZ2cRQ) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw) | [Think Instrumental with Navin, Vol\. 1](https://open.spotify.com/album/0hBfWJXTVK1vBdlvEXfr95) | 3:37 |
-| 24 | [Abhogi](https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:02 |
-| 25 | [Heaven](https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb) | 5:28 |
+| 23 | [Heaven](https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb) | 5:28 |
+| 24 | [Naan Nee](https://open.spotify.com/track/6cbiAEy3OoREiXooWZ2cRQ) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw) | [Think Instrumental with Navin, Vol\. 1](https://open.spotify.com/album/0hBfWJXTVK1vBdlvEXfr95) | 3:37 |
+| 25 | [Abhogi](https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:02 |
 | 26 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 |
 | 27 | [Flute Music \- Krishna flute](https://open.spotify.com/track/0yfD9XIMKAbySuM7cmsEYc) | [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV), [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U) | [Flute Music \(Krishna flute\)](https://open.spotify.com/album/58gnufbwqLbNE0OZQbUfDT) | 1:21 |
 | 28 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Mohana](https://open.spotify.com/track/63QIf46bybNGLt5sKIfljg) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Fluid \(Flute Grooves by Naveen Kumar\)](https://open.spotify.com/album/0FznvOl4NZqN1J9X2xuFEC) | 6:40 |
 | 75 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
 
-Snapshot ID: `MCw2ZTc1ODMxOTFjNzY2M2U3YzAzOGVhNzljYTUxZWEyOTU2MGRmM2Y4`
+Snapshot ID: `MCwwMjk2YWRjZDBkMTU1NjczYTVkOGIxNDY2OTFkYjIwZWQ2ODcyM2Vl`

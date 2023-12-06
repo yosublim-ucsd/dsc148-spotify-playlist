@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Kossisko
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,322 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,353 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 |
 | 100 | [End of Tha Night](https://open.spotify.com/track/4FCEeZGENqjVz9dDRsKJoM) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4), [Elijah Treat](https://open.spotify.com/artist/4SzodZqoVynssqd6ajKdpB) | [End of Tha Night](https://open.spotify.com/album/4H51nFp0Ojxn4mRa8WHraj) | 3:09 |
 
-Snapshot ID: `MCw4NjczODk4NmYwOTg1MzQzMzgyOGIwZWJhOGU2YWVjYzc0ZGI2OGYz`
+Snapshot ID: `MCwzM2FiMGE3YjdmNzcyNWNhZWZjZjQxZDhhMDFmNzc5ODBiYzU1MGJh`

@@ -2,12 +2,13 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 優里
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: imase
 
-80 songs - 4 hr 52 min
+85 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 | 2023-12-05 |  |
 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 | 2023-11-29 |  |
 | [Anone](https://open.spotify.com/track/4oKsfQvfCHiFkKww8vX56O) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Anone](https://open.spotify.com/album/4HjChxXbdVLauxSsAAwFXi) | 6:46 | 2023-11-23 |  |
 | [Ashen](https://open.spotify.com/track/2dbM1j1plZaxNeRGGvyy66) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ashen](https://open.spotify.com/album/4sI4AogOQTRzDa8zyuZyV0) | 4:03 | 2023-11-30 |  |
@@ -36,6 +37,8 @@
 | [Monopoly](https://open.spotify.com/track/59rhrmvQl2CtQBd6W8NeQO) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Monopoly](https://open.spotify.com/album/27MwvD3buume0Dl4C743vI) | 3:58 | 2023-11-23 | 2023-11-29 |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-12-04 |  |
 | [Moonthief](https://open.spotify.com/track/5VpeLvjayWlwt2VwkgKTKj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Moonthief](https://open.spotify.com/album/4qA404qUuqlXMOLiVZwj6i) | 2:32 | 2023-11-29 |  |
+| [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 | 2023-12-05 |  |
+| [Not Queen](https://open.spotify.com/track/00Dtc5rQVt1ogVMZQJEQct) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Not Queen](https://open.spotify.com/album/2Q73xJxTrew6X3JZGPxgjA) | 2:58 | 2023-12-05 |  |
 | [Palette](https://open.spotify.com/track/6nJEwLgz7LtzMb9n3b0pgK) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Palette](https://open.spotify.com/album/2cB22mxGdZqgJTdrKQGtBc) | 3:23 | 2023-11-23 |  |
 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-11-23 | 2023-12-05 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-11-23 |  |
@@ -63,17 +66,19 @@
 | [グッドミュージック](https://open.spotify.com/track/4Y1HKX8JNTNWikn3pl5uug) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [グッドミュージック](https://open.spotify.com/album/79hsEqxTrl5F8y5F5OYXgU) | 3:08 | 2023-11-23 | 2023-11-30 |
 | [ケタタマ \- feat\. Mori Calliope](https://open.spotify.com/track/2LHNdyP8WcDUi70Y7LHOmL) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [ケタタマ \(feat\. Mori Calliope\)](https://open.spotify.com/album/3tliDt4FKNpQ02aPI2Ftet) | 3:26 | 2023-11-23 |  |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-11-23 |  |
-| [ジングル](https://open.spotify.com/track/6IQuANQN2e61EoNTZf3r5O) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [ジングル](https://open.spotify.com/album/5rEU14CuDKV5CASdI38Qpo) | 3:24 | 2023-11-29 |  |
+| [ジングル](https://open.spotify.com/track/6IQuANQN2e61EoNTZf3r5O) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [ジングル](https://open.spotify.com/album/5rEU14CuDKV5CASdI38Qpo) | 3:24 | 2023-11-29 | 2023-12-06 |
 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 | 2023-11-23 |  |
 | [ダブル・プッシュ・オフ。](https://open.spotify.com/track/5TiirG23LRTNq0hRuML8iq) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq), [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [ダブル・プッシュ・オフ。](https://open.spotify.com/album/5TrVfUhS0GLtkJ8uapOmGF) | 2:54 | 2023-11-29 |  |
 | [ビリミリオン \-オーケストラアレンジver.\-](https://open.spotify.com/track/6UdoLzijnlc38s8OeHUYx2) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [響](https://open.spotify.com/album/4ttLt1ZktC5gPJ0v4lzlm3) | 3:58 | 2023-11-29 |  |
 | [ブリキノダンス](https://open.spotify.com/track/2yVBhde18jnhFGgA52eDt2) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ブリキノダンス](https://open.spotify.com/album/0Rqk9EbfcSQRVS8cDEmyWz) | 3:19 | 2023-11-29 | 2023-11-30 |
+| [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(Remix\)](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 | 2023-12-05 |  |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-11-23 | 2023-12-01 |
 | [ラブドランカー](https://open.spotify.com/track/5HCCjLQ7RLQHjHPBNljQ5l) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD) | [ラブドランカー](https://open.spotify.com/album/03Q6Xk1M9x1rHCXZRRp2gF) | 3:52 | 2023-11-29 |  |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 |  |
 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-11-29 |  |
 | [僕に彼女ができたんだ](https://open.spotify.com/track/1CzAdgGHPXQXorOJvVaRPF) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:08 | 2023-11-23 |  |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-29 |  |
+| [夢と悪魔とファンタジー](https://open.spotify.com/track/4e4FVy70OnvQZ9lXbwPhCB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって](https://open.spotify.com/album/55lTYZYG9JnlBg9NSHEgma) | 4:29 | 2023-12-05 |  |
 | [大阪ランデヴ](https://open.spotify.com/track/2Hw8l3di4DKBXKrrnxrTHH) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [大阪ランデヴ](https://open.spotify.com/album/1tFkaDrHfXRj6EkInWiwK6) | 4:21 | 2023-11-23 |  |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2023-11-23 |  |
 | [愛 need your love](https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [愛 need your love](https://open.spotify.com/album/7aNVI1dGbfpGZUQV0zkPRa) | 3:46 | 2023-11-29 | 2023-11-30 |

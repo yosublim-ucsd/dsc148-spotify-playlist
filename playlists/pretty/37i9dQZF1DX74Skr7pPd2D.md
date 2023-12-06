@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,431 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,449 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 70 | [What's New?](https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Giblet Gravy \(Expanded Edition\)](https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ) | 5:32 |
 | 71 | [My Funny Valentine](https://open.spotify.com/track/00GTtlXO556jzueCinWmu9) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 2:00 |
 | 72 | [Brother? Can You Spare A Dime?](https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [You Gotta Pay The Band](https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP) | 6:45 |
-| 73 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:06 |
-| 74 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
+| 73 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
+| 74 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:06 |
 | 75 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |
 | 76 | [Brian's Bounce](https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Family](https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU) | 4:56 |
 | 77 | [Cheek To Cheek](https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Fred Astaire Sings & Swings Irving Berlin](https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926) | 5:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MCwzMmFlODc1MDE5ZGI3NmYyMzkzNzUzNDQ2MDgwMzIwYTg5ZGQ2OTg1`
+Snapshot ID: `MCw1ZGRlYjVhNWRkN2I5ZTljNTI0Zjk3MDk1MDdmYmQ2NTFkN2M3N2Vl`

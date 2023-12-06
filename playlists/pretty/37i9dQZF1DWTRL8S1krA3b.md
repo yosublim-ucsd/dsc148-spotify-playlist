@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100 likes - 92 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171 likes - 92 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 34 | [Silver Bells](https://open.spotify.com/track/6zXErxTVDYkWizKbuULPlD) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [A Redhill Valley Christmas](https://open.spotify.com/album/23mnKQI9vBQhMKhXW3KDR5) | 3:16 |
 | 35 | [Christmas When You Call](https://open.spotify.com/track/2qgMuttdSb2iaYYO73xmQt) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Christmas When You Call](https://open.spotify.com/album/1EpcSjZWYc3rNxSK4j3xDI) | 3:16 |
 | 36 | [Hot Pink Christmas](https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Hot Pink Christmas](https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT) | 2:36 |
-| 37 | [O Holy Night](https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Allie Colleen](https://open.spotify.com/artist/0BCaNoJBFXJPdjSA6Y3anc) | [O Holy Night](https://open.spotify.com/album/085lMH6I79hVVbyATMspdf) | 3:09 |
+| 37 | [O Holy Night](https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [O Holy Night](https://open.spotify.com/album/085lMH6I79hVVbyATMspdf) | 3:09 |
 | 38 | [Blue Christmas](https://open.spotify.com/track/4cpfEGfJnZTtoUr23lRFGK) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Blue Christmas](https://open.spotify.com/album/0FfnwndZx81v9DSvswzqog) | 2:34 |
 | 39 | [Santa Baby](https://open.spotify.com/track/5ajQCyeRSRwqxByzJDsQg0) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Santa Baby](https://open.spotify.com/album/4iQUCVTTNj7oBflckNBBq3) | 3:22 |
 | 40 | [White Christmas](https://open.spotify.com/track/6dsMUDMX2naw6KxiOIASHa) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Lit](https://open.spotify.com/album/3zjZ9kKvJY5mQrJg5INSHS) | 2:40 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 91 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
 | 92 | [Christmas By Myself](https://open.spotify.com/track/40UBf4GUXj80nfB91hCp5N) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Christmas By Myself](https://open.spotify.com/album/6jqt6GqBIbyPbXRkmS0K2F) | 3:00 |
 
-Snapshot ID: `MCwwN2Q3ZmI5M2ZmYjBlMjI0MTNjNTAzNmExMWE4NDMyY2RlYzUwZDY1`
+Snapshot ID: `MCwyODkwYzI5NWE5ZTA3N2FmNDgxNjI0ZjQ4NjY4ZTEzMzM0ZTVlNjc2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > para andar en modo k\-poper alucín 🫰🏼🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,840 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,907 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 | 74 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 |
 | 75 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 
-Snapshot ID: `MCw2NmM2NDIxYmUzYjk1MmRhNTBmMzYzYTljY2JjNWQ3MThkMmZmMzFm`
+Snapshot ID: `MCxkODg3ZjZlZDUyNDNhNzkwZjg5NjIxYWM2ZTE4NjMwMThhYmMyZmE5`

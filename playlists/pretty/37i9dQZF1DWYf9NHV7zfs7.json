@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 22789,
+  "num_followers": 22835,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2NiNjlmMzZjNjU0NjI2Mzc4MTZkZjM5YjM5YzlmNTQ1ODA2OGYx",
+  "snapshot_id": "MCw0ZjhjZGUyYjJjZDc3MmQwMWRkYmIxYTVmZGE0ZDQxOTI2ZDc5Y2Nm",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Aqua di Emma",
-        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 162327,
-      "name": "Te Dar\u00eda",
-      "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
         "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 211327,
       "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
       "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Aqua di Emma",
+        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 162327,
+      "name": "Te Dar\u00eda",
+      "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Tarde o Temprano",
+      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Tarde o Temprano",
-        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Tarde o Temprano",
-      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 250178,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 158532,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 250178,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Bandana La Vuelta",
+        "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
+      },
+      "artists": [
+        {
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Llega la Noche",
+      "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "GUIAME",
         "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
       },
@@ -1411,6 +1427,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Donde digan las estrellas",
+        "url": "https://open.spotify.com/album/688zCqVZX3ZJGjvaD8DiTY"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Gonzalo Hermida",
+          "url": "https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or"
+        }
+      ],
+      "duration_ms": 212912,
+      "name": "Donde digan las estrellas",
+      "url": "https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "A punto (feat. Delfina Campos)",
         "url": "https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t"
       },
@@ -1431,22 +1467,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Bandana La Vuelta",
-        "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
-      },
-      "artists": [
-        {
-          "name": "Bandana",
-          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Llega la Noche",
-      "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Popular",
         "url": "https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 181399,
       "name": "Figurita",
       "url": "https://open.spotify.com/track/2u6ZHI2hEGwnXhUbzlQmOc"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Donde digan las estrellas",
-        "url": "https://open.spotify.com/album/688zCqVZX3ZJGjvaD8DiTY"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Gonzalo Hermida",
-          "url": "https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or"
-        }
-      ],
-      "duration_ms": 212912,
-      "name": "Donde digan las estrellas",
-      "url": "https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ"
     }
   ],
   "unique_name": "Esto es Pop",

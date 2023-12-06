@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,767 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,777 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Next Best Exit](https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Next Best Exit](https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB) | 2:46 |
 | 100 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 |
 
-Snapshot ID: `MCxjMjNjOTE1ZWM2ZmEzMjg0YmNmYWIxMGI3M2RiZDFiMDEyZjlmOWI3`
+Snapshot ID: `MCxiM2Q1N2E0YmEzMjU4YzBkZTMwNDM5MjFkZWIzNTQ4MDFjYmUwNGEw`

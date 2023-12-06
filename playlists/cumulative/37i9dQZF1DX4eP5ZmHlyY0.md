@@ -2,9 +2,9 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: GENERATIONS from EXILE TRIBE
+> 日本で活躍するボーイズグループを特集。cover: FANTASTICS from EXILE TRIBE
 
-60 songs - 3 hr 28 min
+61 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Come Alive](https://open.spotify.com/track/4yl2H7Dh1ppXvZHFVDHkgA) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Come Alive](https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh) | 3:33 | 2023-11-23 |  |
 | [Crazy Love](https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [Crazy Love](https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt) | 5:02 | 2023-11-23 |  |
 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 | 2023-11-23 | 2023-12-01 |
+| [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 | 2023-12-05 |  |
 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 | 2023-11-23 |  |
 | [Eyes On Me](https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Eyes On Me](https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl) | 2:51 | 2023-11-23 |  |
 | [FIRE feat\. SPRITE](https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [FIRE feat\. SPRITE](https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen) | 3:51 | 2023-11-23 |  |
@@ -49,7 +50,7 @@
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 |  |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-11-30 |  |
 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 | 2023-11-23 | 2023-12-03 |
-| [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 |  |
+| [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 | 2023-12-06 |
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [SWITCHing](https://open.spotify.com/track/0t6EeePFHmdIXdS4TBRqyk) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [SWITCHing](https://open.spotify.com/album/6zYRDSWPlRRb1B0FQantp8) | 3:05 | 2023-11-23 |  |
 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 | 2023-11-23 | 2023-11-29 |

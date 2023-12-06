@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32022,
+  "num_followers": 32075,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGE5ZDQ0OTI3ZWQ0NDZlYmVhNjA5ZmU4YTNhM2FjOThjNTIxOWM1",
+  "snapshot_id": "MCw5YTg1NTk4NTYxODViZTAwMWUxYWYzODk2MDY0MGRmYzFmYzJmZTkx",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -991,6 +991,30 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "B.A.R.S (Vol. 1)",
+        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Sho Nuff (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1SjbEsqXoDVPzWqYyrtwuc"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
         "url": "https://open.spotify.com/album/1jblALddh9vcMp7j4MqM8H"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 316000,
       "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
       "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "B.A.R.S (Vol. 1)",
-        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
-      },
-      "artists": [
-        {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Sho Nuff (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1SjbEsqXoDVPzWqYyrtwuc"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "B.A.R.S (Vol. 1)",
+        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 180811,
+      "name": "Came Up (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/36iOyLIlGimlYeGmXgRZ5R"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "Everybody Sucks",
         "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
       },
@@ -1255,30 +1279,6 @@
       "duration_ms": 174445,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/1ePCvZmnZKBLaDrYf8r4kQ"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "B.A.R.S (Vol. 1)",
-        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
-      },
-      "artists": [
-        {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 180811,
-      "name": "Came Up (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/36iOyLIlGimlYeGmXgRZ5R"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "All The Way Up",
-        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "All The Way Up (K)",
-      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 209633,
       "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
       "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "All The Way Up (K)",
+      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
     },
     {
       "added_at": "2023-11-27 14:05:19",

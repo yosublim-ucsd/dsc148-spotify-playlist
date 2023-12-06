@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 187804,
+  "num_followers": 187968,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2I4NTQ4MTk3YjAwMzg0ODI3ODliMTc4ZmRjZDkzNmUwMmIzYTg2",
+  "snapshot_id": "MCxlOTQ4ZTNlNjdhMDYwZDc4NTc0Y2I5M2JlNzJiNDdiODkwY2M1OGVk",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Modo Insano",
-        "url": "https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
-        }
-      ],
-      "duration_ms": 196551,
-      "name": "Modo Insano",
-      "url": "https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Feria en el Sobre",
         "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Modo Insano",
+        "url": "https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "duration_ms": 196551,
+      "name": "Modo Insano",
+      "url": "https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "No Te Metas",
-        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 219452,
-      "name": "No Te Metas",
-      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 108266,
       "name": "Tocando Tierra",
       "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "No Te Metas",
+        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 219452,
+      "name": "No Te Metas",
+      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Estilo Malandro",
-      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
       },
@@ -1327,6 +1311,70 @@
       "duration_ms": 295345,
       "name": "En El Espacio",
       "url": "https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Estilo Malandro",
+      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 187106,
+      "name": "Ya Te la Cypress",
+      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Malo Es No Hacer Billete",
+        "url": "https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 169805,
+      "name": "Malo Es No Hacer Billete",
+      "url": "https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Viviendo Recio",
+        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 306744,
+      "name": "Sangre De Barrio",
+      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1351,22 +1399,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Malo Es No Hacer Billete",
-        "url": "https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 169805,
-      "name": "Malo Es No Hacer Billete",
-      "url": "https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Qui\u00e9n?",
         "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
       },
@@ -1379,38 +1411,6 @@
       "duration_ms": 226560,
       "name": "Qui\u00e9n?",
       "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 187106,
-      "name": "Ya Te la Cypress",
-      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Viviendo Recio",
-        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 306744,
-      "name": "Sangre De Barrio",
-      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 181765,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
+      "duration_ms": 207749,
+      "name": "Gran Vida",
+      "url": "https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1491,6 +1487,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Nosotros Somos la Under Side Karnal",
+        "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 308485,
+      "name": "Ni Muy Muy Ni Tan Tan",
+      "url": "https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Hits Visuales, Vol. 1",
         "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
       },
@@ -1503,6 +1515,42 @@
       "duration_ms": 264365,
       "name": "Noche De Lokera",
       "url": "https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 181765,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 381186,
+      "name": "Ileso",
+      "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1523,54 +1571,6 @@
       "duration_ms": 252533,
       "name": "La Feria Drogas y Muerte",
       "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 207749,
-      "name": "Gran Vida",
-      "url": "https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Nosotros Somos la Under Side Karnal",
-        "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 308485,
-      "name": "Ni Muy Muy Ni Tan Tan",
-      "url": "https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 381186,
-      "name": "Ileso",
-      "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1611,22 +1611,6 @@
       "duration_ms": 206726,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Si Preguntan por M\u00ed",
         "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Se Rumora",
+        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 252923,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
         "url": "https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 243999,
       "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Se Rumora",
-        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 252923,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "VRGCRA",
         "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Sabadrugs",
         "url": "https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC"
       },
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "99'S",
-        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
-      },
-      "artists": [
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 233941,
-      "name": "99'S",
-      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Robot Montana",
         "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 175730,
       "name": "Mariguana & Tequila",
       "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "99'S",
+        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 233941,
+      "name": "99'S",
+      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
     },
     {
       "added_at": "2023-11-24 06:00:00",

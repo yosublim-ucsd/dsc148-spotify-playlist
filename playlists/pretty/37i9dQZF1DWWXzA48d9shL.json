@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 557390,
+  "num_followers": 557632,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmMzMmFlZWZhZDQxY2JhOTNjMjNlZGE5YmEyYThhOTBiMjcyMzAz",
+  "snapshot_id": "MCxmMDcxNzM3NDA3MTVlNmNkNzVlOWM1Nzc3ZGM2NThmYTlmYmM0ZGMy",
   "tracks": [
     {
       "added_at": "2023-12-01 15:46:50",
@@ -31,6 +31,26 @@
       "duration_ms": 275675,
       "name": "in your darkest nightmares, you'll see me",
       "url": "https://open.spotify.com/track/6i3NunmMCcqnYVWCna0k44"
+    },
+    {
+      "added_at": "2023-12-05 18:13:33",
+      "album": {
+        "name": "SOUTH STRIP",
+        "url": "https://open.spotify.com/album/6erVSzriWHdz8wEYpM0iU2"
+      },
+      "artists": [
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 195405,
+      "name": "KOTA",
+      "url": "https://open.spotify.com/track/6eYNLf71cggJ1OKIgu8gnW"
     },
     {
       "added_at": "2023-11-16 22:44:54",
@@ -103,6 +123,22 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
+    },
+    {
+      "added_at": "2023-12-05 18:11:47",
+      "album": {
+        "name": "RIGHT BETWEEN THE EYES",
+        "url": "https://open.spotify.com/album/3T5Ja60ghxC0pCsDb2G3T6"
+      },
+      "artists": [
+        {
+          "name": "Gao the Arsonist",
+          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "RIGHT BETWEEN THE EYES",
+      "url": "https://open.spotify.com/track/6MduUVifnAw1mft3JR41Z9"
     },
     {
       "added_at": "2023-12-01 15:46:50",

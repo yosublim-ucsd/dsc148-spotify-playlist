@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "bearer of the curse",
+        "url": "https://open.spotify.com/album/4qq9zejxxOLjIJBEl3xeyF"
+      },
+      "artists": [
+        {
+          "name": "Yokai Dreams",
+          "url": "https://open.spotify.com/artist/56wkZ4KK49FvsUlzwCumWF"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "bearer of the curse",
+      "url": "https://open.spotify.com/track/1GxVD3a8YzewUOx0ObNnsl"
+    },
+    {
+      "album": {
         "name": "Anarchy",
         "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
       },
@@ -13023,6 +13041,32 @@
     },
     {
       "album": {
+        "name": "sheep",
+        "url": "https://open.spotify.com/album/16yEDTVbS0kNMxqhmjSL6S"
+      },
+      "artists": [
+        {
+          "name": "I'm Geist",
+          "url": "https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy"
+        },
+        {
+          "name": "oc",
+          "url": "https://open.spotify.com/artist/6e0A38lng3gwUehNIeSm3G"
+        },
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214389,
+      "name": "sheep",
+      "url": "https://open.spotify.com/track/47LQYTkU1i3Xr5NYEVlTRd"
+    },
+    {
+      "album": {
         "name": "Shoot",
         "url": "https://open.spotify.com/album/0qzjEFkrwdBnZyvrXwa45v"
       },
@@ -17058,6 +17102,24 @@
       "duration_ms": 182546,
       "name": "WOULDN'T IT BE NICE",
       "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
+    },
+    {
+      "album": {
+        "name": "X's & O's",
+        "url": "https://open.spotify.com/album/5vHMAPEMBJhR4gphpKNvbC"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123322,
+      "name": "X's & O's",
+      "url": "https://open.spotify.com/track/6gvkUTWdh9vmuqrwCb6gRr"
     },
     {
       "album": {

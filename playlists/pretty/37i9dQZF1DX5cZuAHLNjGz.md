@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,285 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,964 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
 | 2 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |
 | 3 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 |
-| 4 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
-| 5 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
-| 6 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
+| 4 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
+| 5 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
+| 6 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 7 | [Bp Up Down](https://open.spotify.com/track/4bLKGyKQ9wKGUYA64Jw4QE) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:56 |
 | 8 | [Kamlee](https://open.spotify.com/track/7xpZ1artTVaHabv93yK77N) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Kamlee](https://open.spotify.com/album/2yTk24mhG0VYWFY7bj9mLJ) | 3:29 |
 | 9 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 |
 | 101 | [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 |
 
-Snapshot ID: `MCxjNjBiY2ExMDZhODVlMjk4MDIyYTVmYjNjN2NmOGM2MjdhMTQzNzc2`
+Snapshot ID: `MCw2MGY3MTliY2Y0YjY1OGQ2MTU4NDMyZmJhMTYyZWFjMzkwZDg5ZDgx`

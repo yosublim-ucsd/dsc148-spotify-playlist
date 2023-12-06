@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 83987,
+  "num_followers": 84160,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTAxNTUxZDNmNGJkMjFhN2Y1M2MxMmNmMmU5ZWY4MWNkMmIyZWY3",
+  "snapshot_id": "MCxhM2I3ZTM1ZTFhNDZiMTBhZDRjMGI1Njg0NTk0OTUwYjI2ZmNkMGU5",
   "tracks": [
     {
       "added_at": "2023-11-23 09:59:15",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 437840,
       "name": "A Love Supreme, Pt. II - Resolution",
       "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 495373,
+      "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 302666,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 495373,
-      "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
         }
       ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
+      "duration_ms": 606160,
+      "name": "You've Got to Have Freedom",
+      "url": "https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 606160,
-      "name": "You've Got to Have Freedom",
-      "url": "https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4"
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
         "name": "Fuchsia Swing Song",
         "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
       },
@@ -1287,18 +1271,34 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
       "artists": [
         {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Yearnin'",
+      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 383400,
-      "name": "Yearnin'",
-      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods Quartet",
+          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
+        }
+      ],
+      "duration_ms": 485226,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 401546,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods Quartet",
-          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
-        }
-      ],
-      "duration_ms": 485226,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
-        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1735,6 +1719,22 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
+        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
+        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 286266,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
       },
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
-      },
-      "artists": [
-        {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        }
-      ],
-      "duration_ms": 511093,
-      "name": "Soul-Lo Blues - Remastered 1997",
-      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 229866,
       "name": "Pepper Steak",
       "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        }
+      ],
+      "duration_ms": 511093,
+      "name": "Soul-Lo Blues - Remastered 1997",
+      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
-        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
-      },
-      "artists": [
-        {
-          "name": "Albert Ayler",
-          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
-        }
-      ],
-      "duration_ms": 442826,
-      "name": "The Wizard",
-      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
         "name": "The Cool Sounds Of Pepper Adams",
         "url": "https://open.spotify.com/album/7pTUQRvzI4d9BDledmEmPF"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 617173,
       "name": "Bloos, Booze, Blues",
       "url": "https://open.spotify.com/track/73hj1t2tGYe5uZS8XHUiqC"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
+        "name": "Spiritual Unity 50th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/0X7WwByQT7NxJNhb8iHJ3K"
+      },
+      "artists": [
+        {
+          "name": "Albert Ayler",
+          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
+        }
+      ],
+      "duration_ms": 442826,
+      "name": "The Wizard",
+      "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -2431,22 +2431,18 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Yun Kan 12345",
-        "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
       },
       "artists": [
         {
-          "name": "Fredrik Ljungkvist",
-          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
-        },
-        {
-          "name": "Yun Kan 5",
-          "url": "https://open.spotify.com/artist/0q6wWSnM3PoDwYAmgUBCOW"
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
         }
       ],
-      "duration_ms": 410373,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -2467,18 +2463,22 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+        "name": "Yun Kan 12345",
+        "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
       },
       "artists": [
         {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+          "name": "Fredrik Ljungkvist",
+          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
+        },
+        {
+          "name": "Yun Kan 5",
+          "url": "https://open.spotify.com/artist/0q6wWSnM3PoDwYAmgUBCOW"
         }
       ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
+      "duration_ms": 410373,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
     },
     {
       "added_at": "2023-11-23 09:59:15",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "On This Night",
-        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
-      },
-      "artists": [
-        {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        }
-      ],
-      "duration_ms": 447466,
-      "name": "The Mac Man",
-      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
-    },
-    {
-      "added_at": "2023-11-23 09:59:15",
-      "album": {
         "name": "Byablue",
         "url": "https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr"
       },
@@ -2559,18 +2543,34 @@
     {
       "added_at": "2023-11-23 09:59:15",
       "album": {
-        "name": "Contemporary Jazz",
-        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
+        "name": "On This Night",
+        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
       },
       "artists": [
         {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
         }
       ],
-      "duration_ms": 962320,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
+      "duration_ms": 447466,
+      "name": "The Mac Man",
+      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+    },
+    {
+      "added_at": "2023-11-23 09:59:15",
+      "album": {
+        "name": "You're Driving Me Crazy",
+        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Blues in Pig Alley",
+      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
     }
   ],
   "unique_name": "Saxophone Classics",

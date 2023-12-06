@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Picture Parlour",
-  "num_followers": 116858,
+  "num_followers": 116903,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2I1YTczYmU5MDZlMjMzY2VkY2ZiYmU3ZTE2Nzg4ODAyOTdmOTA0",
+  "snapshot_id": "MCw4NjZlZTkyMTBkNjRjY2YwYTYwMzUwOTkxMDYwNGZjNGEzOWUyNTZl",
   "tracks": [
     {
       "added_at": "2023-10-27 10:55:40",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u"
     },
     {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Shaking Hips and Crashing Cars",
+        "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "duration_ms": 219072,
+      "name": "I'm a Liar",
+      "url": "https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary"
+    },
+    {
       "added_at": "2023-10-27 10:55:40",
       "album": {
         "name": "Happy Cars",
@@ -509,22 +525,6 @@
       "url": "https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl"
     },
     {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "Shaking Hips and Crashing Cars",
-        "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 219072,
-      "name": "I'm a Liar",
-      "url": "https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary"
-    },
-    {
       "added_at": "2023-10-27 10:55:40",
       "album": {
         "name": "Better Luck Next Time",
@@ -539,22 +539,6 @@
       "duration_ms": 233666,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
         "name": "Another Round",
         "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 307527,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "If You Wanna",
-        "url": "https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "If You Wanna",
-      "url": "https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Landmines",
-        "url": "https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa"
+        "name": "If You Wanna",
+        "url": "https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB"
       },
       "artists": [
         {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 283593,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8"
+      "duration_ms": 168994,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -683,6 +667,22 @@
       "duration_ms": 211119,
       "name": "3AM",
       "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 283593,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Right Time",
-        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 240214,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Somebody's Child",
         "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 140613,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 240214,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
+        "name": "Godless",
+        "url": "https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs"
+      },
+      "artists": [
+        {
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+        }
+      ],
+      "duration_ms": 199381,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
         "name": "People Like Me & You",
         "url": "https://open.spotify.com/album/5CctSFDfkZCmQOp5vMfGA4"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "Godless",
-        "url": "https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs"
-      },
-      "artists": [
-        {
-          "name": "Red Rum Club",
-          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
-        }
-      ],
-      "duration_ms": 199381,
-      "name": "Godless",
-      "url": "https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/1G87Kj047fGnnuyy9TSgIZ"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1YtDiUfVAR54jdvCD9UfRe"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Exposed to Some Light",
         "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 239250,
       "name": "Exposed to Some Light",
       "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/1G87Kj047fGnnuyy9TSgIZ"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1YtDiUfVAR54jdvCD9UfRe"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Baggio",
-        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 221389,
-      "name": "Baggio",
-      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Seven Bridge Road",
         "url": "https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 266140,
       "name": "Seven Bridge Road",
       "url": "https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Baggio",
+        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 221389,
+      "name": "Baggio",
+      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Wor Flags",
-        "url": "https://open.spotify.com/album/6uLXBuJe88sWg7sW1Hsnlm"
+        "name": "Skirts & Salads",
+        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
       },
       "artists": [
         {
-          "name": "Andrew Cushin",
-          "url": "https://open.spotify.com/artist/0mUufv9jrIi9BPpN9VHduc"
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
         }
       ],
-      "duration_ms": 225680,
-      "name": "Wor Flags",
-      "url": "https://open.spotify.com/track/2lvcExg0HKWUjxVeRwKjno"
+      "duration_ms": 144896,
+      "name": "Skirts & Salads",
+      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Skirts & Salads",
-        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
+        "name": "Wor Flags",
+        "url": "https://open.spotify.com/album/6uLXBuJe88sWg7sW1Hsnlm"
       },
       "artists": [
         {
-          "name": "Shelf Lives",
-          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+          "name": "Andrew Cushin",
+          "url": "https://open.spotify.com/artist/0mUufv9jrIi9BPpN9VHduc"
         }
       ],
-      "duration_ms": 144896,
-      "name": "Skirts & Salads",
-      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
+      "duration_ms": 225680,
+      "name": "Wor Flags",
+      "url": "https://open.spotify.com/track/2lvcExg0HKWUjxVeRwKjno"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Good Luck Charm",
-        "url": "https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf"
-      },
-      "artists": [
-        {
-          "name": "THE GOA EXPRESS",
-          "url": "https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX"
-        }
-      ],
-      "duration_ms": 187683,
-      "name": "Good Luck Charm",
-      "url": "https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Isn't",
         "url": "https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Wide Asleep",
-        "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
+        "name": "Good Luck Charm",
+        "url": "https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf"
       },
       "artists": [
         {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+          "name": "THE GOA EXPRESS",
+          "url": "https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX"
         }
       ],
-      "duration_ms": 252253,
-      "name": "Wide Asleep",
-      "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
+      "duration_ms": 187683,
+      "name": "Good Luck Charm",
+      "url": "https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1387,6 +1371,22 @@
       "duration_ms": 202761,
       "name": "Bring Us Down",
       "url": "https://open.spotify.com/track/3h2RARW0N82V81Del0u88T"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Wide Asleep",
+        "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Wide Asleep",
+      "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Deepest Blue",
-        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 218751,
-      "name": "Lazy Brain",
-      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Hummus and Pitta",
         "url": "https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 137319,
       "name": "Hummus and Pitta",
       "url": "https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Deepest Blue",
+        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 218751,
+      "name": "Lazy Brain",
+      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1503,34 +1503,18 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Jenny / Patsy Decline",
-        "url": "https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD"
+        "name": "How Will I Know If Heaven Will Find Me?",
+        "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
       },
       "artists": [
         {
-          "name": "RATS",
-          "url": "https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0"
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
         }
       ],
-      "duration_ms": 166698,
-      "name": "Patsy Decline",
-      "url": "https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+      "duration_ms": 177866,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1551,6 +1535,38 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+      },
+      "artists": [
+        {
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+        }
+      ],
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Jenny / Patsy Decline",
+        "url": "https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD"
+      },
+      "artists": [
+        {
+          "name": "RATS",
+          "url": "https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Patsy Decline",
+      "url": "https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
         "name": "days like these",
         "url": "https://open.spotify.com/album/205F9vWMOP9BqDHjwhSZ6d"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 134997,
       "name": "days like these",
       "url": "https://open.spotify.com/track/3HGBDwd7WgDb5B2Arr30fV"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "How Will I Know If Heaven Will Find Me?",
-        "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"
     },
     {
       "added_at": "2023-10-20 00:13:22",

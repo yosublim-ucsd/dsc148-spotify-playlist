@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 292215,
+  "num_followers": 292223,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGVmMDA5M2Q4OTEwMzdjNWE2NDcwNzQ5MWU4Yjk1MDQ4MzI0MTBh",
+  "snapshot_id": "MCw5MzAyYzUwNzI2MTEzMGU2NDU2ZmMyMTZiOGQ0MjI3NDY5MTc3ZGY1",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -102,6 +102,10 @@
         {
           "name": "Don L",
           "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luiza De Alexandre",
+          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
         }
       ],
       "duration_ms": 185328,
@@ -603,6 +607,30 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Ac\u00fastico Canc\u00fan",
         "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
@@ -655,30 +683,6 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1127,26 +1131,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Um Pouco Mais",
         "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
@@ -1163,6 +1147,26 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1243,26 +1247,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "n\u00e3o d\u00e1 certo",
         "url": "https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq"
       },
@@ -1283,6 +1267,26 @@
       "duration_ms": 159666,
       "name": "n\u00e3o d\u00e1 certo",
       "url": "https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1539,30 +1543,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Malandra Treinada",
-        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Malandra Treinada",
-      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1587,6 +1567,30 @@
       "duration_ms": 141120,
       "name": "Voc\u00ea Falou pra Mim",
       "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Malandra Treinada",
+        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Malandra Treinada",
+      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
     },
     {
       "added_at": "2023-12-01 03:00:00",

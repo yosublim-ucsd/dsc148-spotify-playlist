@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=0YJbRhSmTM\-p68DBwaI\_Ag">Assala</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,746 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,916 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Leil W Yal Ein](https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Ya Leil W Yal Ein](https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62) | 3:04 |
-| 2 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 |
+| 2 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 |
 | 3 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 |
 | 4 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 |
 | 5 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 44 | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu) | [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6), [Mohamed Osama](https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN) | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71) | 2:41 |
 | 45 | [Hiya Hiya](https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/79IFajmgcokKaytvnRFomI) | 3:37 |
 
-Snapshot ID: `MCwxZGJiY2QxZjRhYjZmN2FlMjRiYWYzYzU5NzRmZjc4MzBiNjVhNDhj`
+Snapshot ID: `MCwwNmU4NDUyZWNhY2E2NDQ4OTEwYjQ3OTIwOWJiZGY0ZmRiZTc1ODQz`

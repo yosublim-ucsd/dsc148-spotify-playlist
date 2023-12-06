@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 104022,
+  "num_followers": 104234,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjkwMDk5MGRlYTE5YjNjZjg4ZjFjNzAxMWY4Zjk5NDJhODMyMzcz",
+  "snapshot_id": "MCxlMTNjYjg4YWNhOGQ0OWM0MjhmYWQ5NjhlNWZiNDEzZmJhMzQ5YzI5",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 289293,
-      "name": "Dime Como Te Olvido",
-      "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
+      "duration_ms": 289293,
+      "name": "Dime Como Te Olvido",
+      "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "25 Exitos De Oro",
         "url": "https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 286813,
       "name": "Quiero Volar",
       "url": "https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "La Vampiresa",
+        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
+      },
+      "artists": [
+        {
+          "name": "Explosion Colombiana De Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
+        }
+      ],
+      "duration_ms": 314398,
+      "name": "La Vampiresa",
+      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 153733,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "La Vampiresa",
-        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
-      },
-      "artists": [
-        {
-          "name": "Explosion Colombiana De Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
-        }
-      ],
-      "duration_ms": 314398,
-      "name": "La Vampiresa",
-      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
-        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
-      },
-      "artists": [
-        {
-          "name": "Paco Silva y su Tropa Colombiana",
-          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "20 a\u00f1os",
-      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Cumbia De Las Velas",
         "url": "https://open.spotify.com/album/4iB78CfVjDQUyOjY5GKmHF"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 293362,
       "name": "Cumbia De Las Velas",
       "url": "https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
+        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
+      },
+      "artists": [
+        {
+          "name": "Paco Silva y su Tropa Colombiana",
+          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "20 a\u00f1os",
+      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2203,22 +2203,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/51jlsaM0JQ5rksqkiWFtOH"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
       },
       "artists": [
         {
-          "name": "Rocko Paez",
-          "url": "https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd"
-        },
-        {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+          "name": "El Kombo Kolombia",
+          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
         }
       ],
-      "duration_ms": 192860,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/137YnCNlEhEOyE5opLTj3f"
+      "duration_ms": 375757,
+      "name": "Solo T\u00fa Me Haces Feliz",
+      "url": "https://open.spotify.com/track/5GTNnaqanXfnuBT0NZ2rlf"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2239,18 +2235,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/51jlsaM0JQ5rksqkiWFtOH"
       },
       "artists": [
         {
-          "name": "El Kombo Kolombia",
-          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
+          "name": "Rocko Paez",
+          "url": "https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd"
+        },
+        {
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
         }
       ],
-      "duration_ms": 375757,
-      "name": "Solo T\u00fa Me Haces Feliz",
-      "url": "https://open.spotify.com/track/5GTNnaqanXfnuBT0NZ2rlf"
+      "duration_ms": 192860,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/137YnCNlEhEOyE5opLTj3f"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
+      },
+      "artists": [
+        {
+          "name": "El Kombo Kolombia",
+          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Va Que Va",
+      "url": "https://open.spotify.com/track/3o4cvLJP480RwmfQh135iO"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Rafael Orozco El \u00cddolo de Siempre",
         "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 216400,
       "name": "Muere una Flor",
       "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Fue un Amor de Verdad",
-        "url": "https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI"
-      },
-      "artists": [
-        {
-          "name": "La Decision Vallenata",
-          "url": "https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC"
-        }
-      ],
-      "duration_ms": 266157,
-      "name": "Fue un Amor de Verdad",
-      "url": "https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
+        "name": "Fue un Amor de Verdad",
+        "url": "https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI"
       },
       "artists": [
         {
-          "name": "El Kombo Kolombia",
-          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
+          "name": "La Decision Vallenata",
+          "url": "https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Va Que Va",
-      "url": "https://open.spotify.com/track/3o4cvLJP480RwmfQh135iO"
+      "duration_ms": 266157,
+      "name": "Fue un Amor de Verdad",
+      "url": "https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs"
     },
     {
       "added_at": "2023-11-08 22:38:29",

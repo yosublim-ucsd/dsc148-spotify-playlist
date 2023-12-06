@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 529787,
+  "num_followers": 529957,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDZhOTNjMjg1ODc3OTcyNmY1YTRmZmExOTI2ODIzODg3NDkyNjE5",
+  "snapshot_id": "MCwzMWU2MzRkNWMyNzYxMGZkYjNhODcwMTcwYWE3MjQwMjQyMGYzMTI2",
   "tracks": [
     {
       "added_at": "2023-12-01 11:45:42",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "denk mal dr\u00fcber nach...",
-        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        }
-      ],
-      "duration_ms": 141026,
-      "name": "mietfrei",
-      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "mietfrei",
+      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -839,26 +839,18 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "2022 war film gewesen",
-        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
       "artists": [
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 137847,
-      "name": "Party Sahne",
-      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -887,18 +879,26 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+        "name": "2022 war film gewesen",
+        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
         }
       ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+      "duration_ms": 137847,
+      "name": "Party Sahne",
+      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "denk mal dr\u00fcber nach...",
-        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "MAXIMUM RIZZ",
-      "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "Zelten auf Kies",
         "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
       },
@@ -993,7 +977,7 @@
         },
         {
           "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+          "url": "https://open.spotify.com/artist/6VGXBOQixBVZ0ff8A2l0nI"
         }
       ],
       "duration_ms": 137837,
@@ -1031,6 +1015,22 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "MAXIMUM RIZZ",
+      "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
+        "name": "LEBENSLANG (HBz Remix)",
+        "url": "https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/6VGXBOQixBVZ0ff8A2l0nI"
+        },
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 170783,
+      "name": "LEBENSLANG - HBz Remix",
+      "url": "https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
         "name": "CHASE THE SUN",
         "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
       },
@@ -1107,46 +1131,6 @@
       "duration_ms": 211288,
       "name": "CHASE THE SUN",
       "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "Schmetterling",
-        "url": "https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3"
-      },
-      "artists": [
-        {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
-        }
-      ],
-      "duration_ms": 120840,
-      "name": "Schmetterling",
-      "url": "https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
-        "name": "LEBENSLANG (HBz Remix)",
-        "url": "https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        },
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 170783,
-      "name": "LEBENSLANG - HBz Remix",
-      "url": "https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1187,6 +1171,22 @@
       "duration_ms": 148965,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "Schmetterling",
+        "url": "https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        }
+      ],
+      "duration_ms": 120840,
+      "name": "Schmetterling",
+      "url": "https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
-      },
-      "artists": [
-        {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "How You Remind Me",
         "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 148411,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+      },
+      "artists": [
+        {
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "Es kracht in Buxtehude",
-        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
-      },
-      "artists": [
-        {
-          "name": "Trizto",
-          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
-        },
-        {
-          "name": "MontanaBlack",
-          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Es kracht in Buxtehude",
-      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "About You Now (How I Feel)",
         "url": "https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 162352,
       "name": "About You Now (How I Feel)",
       "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "Es kracht in Buxtehude",
+        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
+      },
+      "artists": [
+        {
+          "name": "Trizto",
+          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
+        },
+        {
+          "name": "MontanaBlack",
+          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Es kracht in Buxtehude",
+      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
     },
     {
       "added_at": "2023-12-01 11:45:42",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-12-01 11:45:42",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-12-01 11:45:42",
-      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+    },
+    {
+      "added_at": "2023-12-01 11:45:42",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-12-01 11:45:42",

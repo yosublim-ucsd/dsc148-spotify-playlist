@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 444200,
+  "num_followers": 444225,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTk0MDQ1N2MzYmFhMDEzMjg3MTJjOWZhMGI0MjQ3NjFlMDdlYjdi",
+  "snapshot_id": "MCxjODEwYjYxOGI5ZTJkY2ZkY2IwMjhjZTJmNTA0ZjFlNzA5ZTdhZGM5",
   "tracks": [
     {
       "added_at": "2023-11-29 08:16:23",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "typewriter",
-        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
-      },
-      "artists": [
-        {
-          "name": "shawn pink",
-          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "typewriter",
-      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Memories & Notes",
         "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 113357,
       "name": "Memories & Notes",
       "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "typewriter",
+        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
+      },
+      "artists": [
+        {
+          "name": "shawn pink",
+          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "typewriter",
+      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Blue Side",
-        "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
-      },
-      "artists": [
-        {
-          "name": "Qommodity",
-          "url": "https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P"
-        }
-      ],
-      "duration_ms": 128212,
-      "name": "Blue Side",
-      "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "Under The Tree",
         "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 114422,
       "name": "Under The Tree",
       "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
+      },
+      "artists": [
+        {
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+        }
+      ],
+      "duration_ms": 120615,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
+        "name": "Blue Side",
+        "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
       },
       "artists": [
         {
-          "name": "A Space for Rent",
-          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+          "name": "Qommodity",
+          "url": "https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P"
         }
       ],
-      "duration_ms": 120615,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
+      "duration_ms": 128212,
+      "name": "Blue Side",
+      "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "soul",
-        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
-      },
-      "artists": [
-        {
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "memory",
-      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
         "name": "cabin in the woods",
         "url": "https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 138370,
       "name": "No Awake Zone",
       "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
+      },
+      "artists": [
+        {
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        }
+      ],
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
+        "name": "Stay In Bed",
+        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
+      },
+      "artists": [
+        {
+          "name": "Zap Strap",
+          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
+        }
+      ],
+      "duration_ms": 124821,
+      "name": "Stay In Bed",
+      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+    },
+    {
+      "added_at": "2023-11-29 08:16:23",
+      "album": {
         "name": "Palettes",
         "url": "https://open.spotify.com/album/1uP9SkTbdd8TCugL6cVbAz"
       },
@@ -1175,18 +1191,22 @@
     {
       "added_at": "2023-11-29 08:16:23",
       "album": {
-        "name": "Stay In Bed",
-        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
+        "name": "Memories Fade",
+        "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
       },
       "artists": [
         {
-          "name": "Zap Strap",
-          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
         }
       ],
-      "duration_ms": 124821,
-      "name": "Stay In Bed",
-      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+      "duration_ms": 147474,
+      "name": "Memories Fade",
+      "url": "https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M"
     },
     {
       "added_at": "2023-11-29 08:16:23",
@@ -1207,26 +1227,6 @@
       "duration_ms": 171428,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR"
-    },
-    {
-      "added_at": "2023-11-29 08:16:23",
-      "album": {
-        "name": "Memories Fade",
-        "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 147474,
-      "name": "Memories Fade",
-      "url": "https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M"
     },
     {
       "added_at": "2023-11-29 08:16:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,714 likes - 98 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,720 likes - 98 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 53 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 54 | [Deeper Underground \- Full Version](https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 4:46 |
 | 55 | [You Gotta Be](https://open.spotify.com/track/5Z8kUbnUQqBUzM5FsBNOAl) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 4:00 |
-| 56 | [Everything's Gonna Be Alright](https://open.spotify.com/track/1ifq3DVpguU02W6Prh5T3u) | [Sweetbox](https://open.spotify.com/artist/6G7NK00vdfxNtdjLOfdUnZ) | [Sweetbox](https://open.spotify.com/album/6iYeOMqZOM7PxxuuFrGEj4) | 3:14 |
+| 56 | [Everything's Gonna Be Alright](https://open.spotify.com/track/1ifq3DVpguU02W6Prh5T3u) | [Sweetbox](https://open.spotify.com/artist/2YCJYQq4i8MMxbNM59OWmy) | [Sweetbox](https://open.spotify.com/album/6iYeOMqZOM7PxxuuFrGEj4) | 3:14 |
 | 57 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
 | 58 | [陽のあたる場所](https://open.spotify.com/track/6EyZPRnCZc7evpOR02qLPB) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Mother Father Brother Sister](https://open.spotify.com/album/60B4x5zJ4YezFWEtN5RkUn) | 5:17 |
 | 59 | [ALL MY TRUE LOVE](https://open.spotify.com/track/5Qo3rm69SGaT1F1xUhUr49) | [SPEED](https://open.spotify.com/artist/3VpWtcxsAiE148UkrC1yt9) | [ALL MY TRUE LOVE](https://open.spotify.com/album/2SRCEBDYMke2QSbTlEx01M) | 5:22 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 97 | [My Father's Eyes](https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 5:23 |
 | 98 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
 
-Snapshot ID: `MCw2ODkyY2M3OTU1OThmMjc2NzY5ZWJiMjQyNWY5N2NkYjk3ZTliZTFk`
+Snapshot ID: `MCxlNjZlYmFhNmU1ZGE1NTlhZWZmM2EwYjY3YThjMjczYjcwMzNiMTll`

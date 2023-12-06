@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,591 likes - 41 songs - 2 hr 21 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,600 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

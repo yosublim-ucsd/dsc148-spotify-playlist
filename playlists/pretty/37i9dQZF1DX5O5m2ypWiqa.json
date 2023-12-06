@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1793952,
+  "num_followers": 1794583,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjlmMzE2ZDZlMGJmN2Y5NjE3ZDc5OTc5ZGQzZjAwMGQ1OTNiMzdl",
+  "snapshot_id": "MCw1Njc4YjNmOGM3YzM5NzYwMTkwNDVmNmM3ZjZhZGQ2YTJjYjgzZmFi",
   "tracks": [
     {
       "added_at": "2023-11-08 20:27:36",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 159026,
+      "name": "D\u00e1maso",
+      "url": "https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 159026,
-      "name": "D\u00e1maso",
-      "url": "https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Con paso sensual",
-        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Y yo que te amo",
-      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 149812,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Y yo que te amo",
+      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 220616,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 194906,
       "name": "Para Que Regreses",
       "url": "https://open.spotify.com/track/0EZ5c3oWdpWIaYHvifMqI2"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Para Impresionarte",
-      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Cuando Quieras Quiero",
-        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
-      },
-      "artists": [
-        {
-          "name": "Claudio Alcaraz",
-          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Hola, \u00bfQue Tal?",
-      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 220154,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Cuando Quieras Quiero",
+        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
+      },
+      "artists": [
+        {
+          "name": "Claudio Alcaraz",
+          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Hola, \u00bfQue Tal?",
+      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
@@ -1376,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 151510,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
+      "duration_ms": 162584,
+      "name": "Inv\u00edtame Un Cigarro",
+      "url": "https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "S\u00f3lo Contigo",
-        "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 161944,
       "name": "Un Pinchi Beso",
       "url": "https://open.spotify.com/track/4hazVM2fmzBmcJ4JUW8R5x"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "S\u00f3lo Contigo",
+        "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
     },
     {
       "added_at": "2023-11-08 20:27:36",

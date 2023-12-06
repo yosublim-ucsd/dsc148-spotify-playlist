@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Icona Pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,307 likes - 91 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,366 likes - 91 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 90 | [Hold Me Tight](https://open.spotify.com/track/7KBy269iiwoiod6DB8HBOD) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n) | [So Sloppy Vol.1](https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41) | 5:17 |
 | 91 | [Let Me Help You](https://open.spotify.com/track/2nmvnnbgvpqVjzyJff782n) | [AuntL](https://open.spotify.com/artist/3reCqkeINi69VML3NYktWI), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j), [Sober Chow](https://open.spotify.com/artist/2BGi0t7XS0pDdmTPilGIe8) | [Let Me Help You](https://open.spotify.com/album/7h4cmWR29UvpnP3q58zy37) | 3:02 |
 
-Snapshot ID: `MCxhM2VjYmE4ZGRmZjUwZDRkZTg1NTUwOWU0ZjRjYjU3YjdmNzQ2OWYw`
+Snapshot ID: `MCxhODcyZjUzN2Q3YWRmMDM3MGZiYzQzMTljY2U4MGIxMDJiODQ3NGVh`

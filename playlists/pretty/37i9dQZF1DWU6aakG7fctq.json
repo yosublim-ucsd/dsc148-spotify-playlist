@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: M\u00e9ne",
-  "num_followers": 508410,
+  "num_followers": 508417,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTk4YjM4YjE2NTdiNzk2ZTZjNmQ0NTcwNTk0MmFjMDZiOGU3ZTQz",
+  "snapshot_id": "MCw0OGE2OTg2Y2YxODViZDcwMzRmZGZmNmM0OGMxYTVlMmVjZDRlNGZj",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Hermoso",
-        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 207274,
-      "name": "Hermoso",
-      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "road 2 neverland",
         "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 209000,
       "name": "falco",
       "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 207274,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Por Si No Vuelvo A Casa",
+        "url": "https://open.spotify.com/album/4VXlxaBQHvjgHuloYsQ7kU"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "D\u00f3nde Tu Est\u00e1s",
+      "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Naufragar",
         "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 256885,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Por Si No Vuelvo A Casa",
-        "url": "https://open.spotify.com/album/4VXlxaBQHvjgHuloYsQ7kU"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "D\u00f3nde Tu Est\u00e1s",
-      "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Discoman\u00eda",
         "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
       },
@@ -967,26 +987,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Mi vida en llamas (feat. Buscabulla)",
-        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Mi vida en llamas (feat. Buscabulla)",
-      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Solo Tu",
         "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
       },
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Mi Droga Favorita",
         "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "INVISIBLE",
         "url": "https://open.spotify.com/album/2ydcEadqA3CdrPGreJnZ3R"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 142000,
       "name": "INVISIBLE",
       "url": "https://open.spotify.com/track/3OlK094z1LQdceoqsyQlhv"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "MIEL",
+        "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "duration_ms": 135573,
+      "name": "LAS FURIAS // NOS MIRAN",
+      "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1247,34 +1263,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "MIEL",
-        "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
       "artists": [
         {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 135573,
-      "name": "LAS FURIAS // NOS MIRAN",
-      "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Todo Lo Que Es Bueno",
-        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Todo Lo Que Es Bueno",
-      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 133693,
       "name": "Insurgentes",
       "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Todo Lo Que Es Bueno",
+        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Todo Lo Que Es Bueno",
+      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Mu\u00e9vete",
         "url": "https://open.spotify.com/album/53vZo5q0F7jYsa7C2KDzku"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 176623,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/2K2nInEDfZrfxMO7AhswCE"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "vidas",
+        "url": "https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "duration_ms": 253934,
+      "name": "vidas",
+      "url": "https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Caf\u00e9 con Miel",
         "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "vidas",
-        "url": "https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U"
+        "name": "MAKIA",
+        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
       },
       "artists": [
         {
-          "name": "Ale Fdz",
-          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 253934,
-      "name": "vidas",
-      "url": "https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK"
+      "duration_ms": 195411,
+      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
+      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 195411,
-      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
-      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "El Rio",
         "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 134884,
       "name": "El Rio",
       "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "La Sombra del Amanecer",
-        "url": "https://open.spotify.com/album/25i71egTd0RdShae3PQcve"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 376325,
-      "name": "La Sombra del Amanecer",
-      "url": "https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "La Sombra del Amanecer",
+        "url": "https://open.spotify.com/album/25i71egTd0RdShae3PQcve"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "duration_ms": 376325,
+      "name": "La Sombra del Amanecer",
+      "url": "https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "MAGIA",
         "url": "https://open.spotify.com/album/6d8tgeQzie2e3zDJYxutjN"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Nena, dime algo.",
-        "url": "https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY"
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3arnuYBuNFads3xhmztypA"
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Nena, dime algo.",
+        "url": "https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3arnuYBuNFads3xhmztypA"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "odio esta casa (cuando te vas)",
         "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
@@ -1627,38 +1643,6 @@
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Cortada En La Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada En La Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Inhabitable",
-        "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
-      },
-      "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        }
-      ],
-      "duration_ms": 167240,
-      "name": "Inhabitable",
-      "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1679,18 +1663,34 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Dama",
-        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
+        "name": "Inhabitable",
+        "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
         }
       ],
-      "duration_ms": 226125,
-      "name": "Dama",
-      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
+      "duration_ms": 167240,
+      "name": "Inhabitable",
+      "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Cortada En La Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada En La Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-12-01 05:01:00",

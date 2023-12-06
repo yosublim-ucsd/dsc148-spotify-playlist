@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 432203,
+  "num_followers": 432404,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDMxZmU2ODMwODI4M2QzNjAzMzQ1ZjUzOTQ1NzZjMWVlMTY2YWJl",
+  "snapshot_id": "MCwyNmYyZGI2YjE0OWJiNTMxY2RkMTkzYWQ4MjBkMjJlZTJiNzNlNjRl",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Summer Isles",
         "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 192920,
       "name": "I Just Love You",
       "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "You Don't Own Me Anymore",
-        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "Kathy's Song",
-      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 179224,
       "name": "multiverse",
       "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "Kathy's Song",
+      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 230626,
-      "name": "Pale November Dew",
-      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 186157,
       "name": "Twist",
       "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 230626,
+      "name": "Pale November Dew",
+      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 211674,
-      "name": "The Eye",
-      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 351309,
       "name": "Imagining My Man",
       "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 211674,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Dust to Dust",
-      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 240954,
       "name": "Masterpiece - solo",
       "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Dust to Dust",
+      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Light That Match",
         "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 182386,
       "name": "Light That Match",
       "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 222859,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "The Only Ones",
         "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Azalea",
-        "url": "https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 222859,
-      "name": "Sausalito",
-      "url": "https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Don't Let The Kids Win",
+        "url": "https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 255692,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -1903,18 +1919,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Don't Let The Kids Win",
-        "url": "https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
         }
       ],
-      "duration_ms": 255692,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A"
+      "duration_ms": 229432,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1955,18 +1971,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
+        "name": "On Board",
+        "url": "https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY"
       },
       "artists": [
         {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+          "name": "Alana Henderson",
+          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
+        },
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
         }
       ],
-      "duration_ms": 229432,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
+      "duration_ms": 310817,
+      "name": "On Board",
+      "url": "https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1987,26 +2007,6 @@
       "duration_ms": 326160,
       "name": "The West Coast Of Clare",
       "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "On Board",
-        "url": "https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY"
-      },
-      "artists": [
-        {
-          "name": "Alana Henderson",
-          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
-        },
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 310817,
-      "name": "On Board",
-      "url": "https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA"
     },
     {
       "added_at": "2023-12-01 05:00:00",

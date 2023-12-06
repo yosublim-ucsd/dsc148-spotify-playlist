@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 593535,
+  "num_followers": 593700,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTE1NjkwZTIxNWUxMjcxZWE0ODRlZTk3YjYzMGNmY2E5OTVjNzAz",
+  "snapshot_id": "MCw1ZWI4NzA1YTgwYmU5MGY3M2U1MTgwYzFhN2YwYWNiMDJiMGIxZTgy",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 163106,
       "name": "Common Man",
       "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+        "name": "Lord I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
       },
       "artists": [
         {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+      "duration_ms": 249906,
+      "name": "Lord, I Hope This Day Is Good - Single Version",
+      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+      },
+      "artists": [
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 231026,
       "name": "Seven Spanish Angels (with Ray Charles)",
       "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Lord I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Lord, I Hope This Day Is Good - Single Version",
-      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Family's Fine, But This One's All Mine!",
-        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
       "artists": [
         {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
         }
       ],
-      "duration_ms": 237306,
-      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
-      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+        "name": "The Family's Fine, But This One's All Mine!",
+        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
       },
       "artists": [
         {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
         }
       ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+      "duration_ms": 237306,
+      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
+      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "West By West",
         "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 160533,
       "name": "Jose Cuervo",
       "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "I Love 'Em All",
+        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "I Love 'Em All",
-        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
+        "name": "Just Sylvia",
+        "url": "https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV"
       },
       "artists": [
         {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+          "name": "Sylvia",
+          "url": "https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR"
         }
       ],
-      "duration_ms": 221280,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
+      "duration_ms": 199200,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1667,22 +1683,6 @@
       "duration_ms": 178840,
       "name": "All My Rowdy Friends Are Coming Over Tonight",
       "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Just Sylvia",
-        "url": "https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV"
-      },
-      "artists": [
-        {
-          "name": "Sylvia",
-          "url": "https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967"
     },
     {
       "added_at": "2023-08-21 19:29:52",

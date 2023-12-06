@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: YUJIN KIM\(김유진\)\)
+> All about Korean Jazz hits & new \(Cover: J Rabbit\(제이래빗\)\)
 
-170 songs - 12 hr 33 min
+171 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 | 2022-05-03 |  |
 | [Isolate \(feat\. AHRAM GO\)](https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB) | 3:12 | 2023-07-24 |  |
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 | 2023-08-23 |
+| [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [J RABBIT CHRISTMAS ALBUM](https://open.spotify.com/album/3juUkvOjeWbjsHsaIq4Dl2) | 3:06 | 2023-12-05 |  |
 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 | 2023-08-09 |
 | [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 | 2023-07-24 |  |
 | [let it flow](https://open.spotify.com/track/4tiw4EJUBYiyaCRZBeWNPd) | [Sunji Lee](https://open.spotify.com/artist/6JBv1lNpxPnxf2f4AxImDM) | [Oscillations](https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv) | 6:12 | 2022-05-03 | 2022-05-19 |

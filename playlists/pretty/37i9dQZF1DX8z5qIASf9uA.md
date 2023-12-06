@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Valentín Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,779 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,916 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [La Jugada](https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Jugada](https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj) | 3:53 |
 | 75 | [Yo la Quería para Mi](https://open.spotify.com/track/6JRJhfBSAGgQKXkXsTH4b0) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:27 |
 
-Snapshot ID: `MCw0NDM2NmExOGUzZWJlOWY3MzUzZmM2ODMwODFjYTZhN2MxNmJmZDVh`
+Snapshot ID: `MCwzYmIwOTUxMmYwMGUzZDk0NDcxOWMyZDc2ODU3NmM0OTM0YWUyMzk1`

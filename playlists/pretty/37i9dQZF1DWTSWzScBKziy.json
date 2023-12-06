@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 94505,
+  "num_followers": 94554,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTNlZDNmNTlhZjQ0MTJmNjE0YmNkYzk1YTQ5NDg1NzcxMmUyMjMy",
+  "snapshot_id": "MCxkZGY5OGU1YmY0NmM2NTE1M2I4NjJiN2UzYjA5NjdkNDM0MTU2NzIy",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Perfectly Loved",
         "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 207084,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 210066,
       "name": "For All My Life",
       "url": "https://open.spotify.com/track/49gozhH6p55OJaH6s1zk2c"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 207084,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -307,6 +307,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 625062,
+      "name": "Fear Is Not My Future (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "The Lord's Prayer (It's Yours)",
         "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
       },
@@ -363,34 +391,6 @@
       "duration_ms": 225228,
       "name": "The Goodness (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 625062,
-      "name": "Fear Is Not My Future (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "How Far",
         "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 187205,
       "name": "How Far",
       "url": "https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Soul Worth Saving",
+        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226650,
+      "name": "Soul Worth Saving",
+      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 229213,
       "name": "Jesus at a Distance",
       "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Soul Worth Saving",
-        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226650,
-      "name": "Soul Worth Saving",
-      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Big Tent Revival",
-        "url": "https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Big Tent Revival",
-      "url": "https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 407811,
       "name": "The Word Is Working (Refreshed)",
       "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Big Tent Revival",
+        "url": "https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Big Tent Revival",
+      "url": "https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs"
     },
     {
       "added_at": "2022-10-29 07:17:38",

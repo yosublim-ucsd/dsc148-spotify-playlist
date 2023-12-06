@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 184401,
+  "num_followers": 184460,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBjODdjYzMzYzMyYTE1MDRjZGQzMjU2MGRlOTg5OTZhZDg4MDY3",
+  "snapshot_id": "MCw5ZDEyODM2OGQ2MzQ0MzY3OWQ4ZDJhMWZmNTQ2NjQyMGM5OWUzZDg1",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "De Sur a Norte",
-        "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
-      },
-      "artists": [
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Basta",
-      "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 242216,
       "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
       "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "De Sur a Norte",
+        "url": "https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X"
+      },
+      "artists": [
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Pateando Piedras",
+        "url": "https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 179188,
+      "name": "Por Que No Se Van",
+      "url": "https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Pateando Piedras",
-        "url": "https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 179188,
-      "name": "Por Que No Se Van",
-      "url": "https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "La Historia Del Folklore (2da Parte)",
         "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Mexico: Days of Struggle",
-        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
-      },
-      "artists": [
-        {
-          "name": "Judith Reyes",
-          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
-        }
-      ],
-      "duration_ms": 330946,
-      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
-      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Cantos revolucionarios de america latina",
         "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 270160,
       "name": "Hasta siempre",
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Mexico: Days of Struggle",
+        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
+      },
+      "artists": [
+        {
+          "name": "Judith Reyes",
+          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
+        }
+      ],
+      "duration_ms": 330946,
+      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
+      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "El Corrido de Milo Vela",
-        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "El Corrido de Milo Vela",
-      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 128573,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "El Corrido de Milo Vela",
+        "url": "https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "El Corrido de Milo Vela",
+      "url": "https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "M\u00fasica Guerrera",
         "url": "https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK"
       },
@@ -1443,6 +1427,42 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1495,26 +1515,6 @@
       "duration_ms": 284693,
       "name": "Cancion Pacifico-Violenta",
       "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
     },
     {
       "added_at": "2023-10-13 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 290065,
+  "num_followers": 290108,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmM0MTQyMTQ0YjhjNTk3NGUxZTBjM2M5ZGE4ZDRhOTIyNDhjODUw",
+  "snapshot_id": "MCw3NzQ3MzFjYmFmYTIyNDc4MDIxOTUwN2QyZTc2M2U4OWFiMWE1ZmZk",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -939,8 +939,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
       },
       "artists": [
         {
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Giddy Up",
-        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 181320,
-      "name": "Giddy Up",
-      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Forever and Then Some",
         "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Giddy Up",
+        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 181320,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 186866,
       "name": "No Name",
       "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Four Years of Chances",
+      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1439,22 +1455,6 @@
       "duration_ms": 338814,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Four Years of Chances",
-      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Blue Kentucky Girl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Blue Kentucky Girl - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+        "name": "Blue Kentucky Girl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
+      "duration_ms": 200933,
+      "name": "Blue Kentucky Girl - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 206835,
-      "name": "Light As a Fire",
-      "url": "https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "That's How Rumors Get Started",
         "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 189093,
       "name": "Stone Me",
       "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Rule 62",
+        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "You Don't Scare Me",
+      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Rule 62",
-        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa"
       },
       "artists": [
         {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
         }
       ],
-      "duration_ms": 250080,
-      "name": "You Don't Scare Me",
-      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+      "duration_ms": 206835,
+      "name": "Light As a Fire",
+      "url": "https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu"
     },
     {
       "added_at": "2023-10-06 04:00:00",

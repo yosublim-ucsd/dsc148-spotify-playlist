@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 16235,
+  "num_followers": 16253,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTNmYmUwMzk5ZDVhMTdjYTAzOWNjYjY1NzY5ZmJjM2YzMzg5NmY5",
+  "snapshot_id": "MCw5YzY2ZmIxOTZkMjZjMTRiYzIxZjc1MGRhY2JjY2ZjN2I3MDNhNTFh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -479,22 +479,18 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "Shen Yeng Anthem",
+        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 181550,
-      "name": "System (feat. WizKid)",
-      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+      "duration_ms": 141226,
+      "name": "Shen Yeng Anthem",
+      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -515,18 +511,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Shen Yeng Anthem",
-        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 141226,
-      "name": "Shen Yeng Anthem",
-      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
     },
     {
       "added_at": "2022-10-01 20:09:45",

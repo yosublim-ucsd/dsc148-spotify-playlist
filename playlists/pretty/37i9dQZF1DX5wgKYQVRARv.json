@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: TesseracT",
-  "num_followers": 522957,
+  "num_followers": 523062,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjUyMzc0NWVhNjQ4ZWJlMjM4Y2RhOTEyNTUwYmE2OTI3ZTQ4NDU1",
+  "snapshot_id": "MCwzMWUwZjE4ZTMwZmVhYjJkODVmNTgxMjdmNGZhMGZjNWNmNDYzNGM4",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "ObZen",
-        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 442733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Remember That You Will Die",
         "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 350085,
       "name": "Ego Death (feat. Steve Vai)",
       "url": "https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "ObZen",
+        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 442733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Grey",
-        "url": "https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ"
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
       },
       "artists": [
         {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+          "name": "Andromida",
+          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
+        },
+        {
+          "name": "Dayshell",
+          "url": "https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX"
         }
       ],
-      "duration_ms": 367030,
-      "name": "The Grey",
-      "url": "https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td"
+      "duration_ms": 252000,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Do Your Worst",
-        "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ"
       },
       "artists": [
         {
-          "name": "Andromida",
-          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
-        },
-        {
-          "name": "Dayshell",
-          "url": "https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX"
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS"
+      "duration_ms": 367030,
+      "name": "The Grey",
+      "url": "https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
-      },
-      "artists": [
-        {
-          "name": "InVisions",
-          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
-        }
-      ],
-      "duration_ms": 272757,
-      "name": "The 6 6 9",
-      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/1eZGxI9LWYt3VdvEUUCPBa"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 190812,
       "name": "Empire",
       "url": "https://open.spotify.com/track/2aj46915WcKBD1HnbnYpQz"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
+      },
+      "artists": [
+        {
+          "name": "InVisions",
+          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
+        }
+      ],
+      "duration_ms": 272757,
+      "name": "The 6 6 9",
+      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "The Eternal Reign",
+        "url": "https://open.spotify.com/album/6323vcawGVGPqKrt8ZihTp"
+      },
+      "artists": [
+        {
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+        }
+      ],
+      "duration_ms": 205529,
+      "name": "Empires Erased",
+      "url": "https://open.spotify.com/track/663CMmhlatqRPRa1viS72M"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Hacktivist",
         "url": "https://open.spotify.com/album/5Oe7FEBFrVJYu2dmfk5ntJ"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 268440,
       "name": "Dinner",
       "url": "https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "The Eternal Reign",
-        "url": "https://open.spotify.com/album/6323vcawGVGPqKrt8ZihTp"
-      },
-      "artists": [
-        {
-          "name": "Born Of Osiris",
-          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
-        }
-      ],
-      "duration_ms": 205529,
-      "name": "Empires Erased",
-      "url": "https://open.spotify.com/track/663CMmhlatqRPRa1viS72M"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Sowers of Discord",
-        "url": "https://open.spotify.com/album/3fo2JBLUlOvkN5FlyZiJyR"
-      },
-      "artists": [
-        {
-          "name": "Above, Below",
-          "url": "https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/39XqmCHbfbKTXGx2pqc1s2"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Abandoned",
         "url": "https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 326612,
       "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
       "url": "https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "The Sowers of Discord",
+        "url": "https://open.spotify.com/album/3fo2JBLUlOvkN5FlyZiJyR"
+      },
+      "artists": [
+        {
+          "name": "Above, Below",
+          "url": "https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/39XqmCHbfbKTXGx2pqc1s2"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Revel In Time",
+        "url": "https://open.spotify.com/album/59eeYsYn4KBOtOtAPCESVW"
+      },
+      "artists": [
+        {
+          "name": "Arjen Anthony Lucassen's Star One",
+          "url": "https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Fate of Man",
+      "url": "https://open.spotify.com/track/2MGmRnEMvhnmXOwXZow44X"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 246000,
       "name": "Ephemeral",
       "url": "https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Revel In Time",
-        "url": "https://open.spotify.com/album/59eeYsYn4KBOtOtAPCESVW"
-      },
-      "artists": [
-        {
-          "name": "Arjen Anthony Lucassen's Star One",
-          "url": "https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Fate of Man",
-      "url": "https://open.spotify.com/track/2MGmRnEMvhnmXOwXZow44X"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Escapades",
-        "url": "https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo"
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/6lQM0ttt55S8PtXkFHVURB"
       },
       "artists": [
         {
-          "name": "The Omnific",
-          "url": "https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR"
+          "name": "Adept",
+          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
         }
       ],
-      "duration_ms": 342506,
-      "name": "Ne Plus Ultra",
-      "url": "https://open.spotify.com/track/7jZbzsR5oLAa1fJVeBufox"
+      "duration_ms": 219737,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/0MhMeOy3Rq1LkaB7puQRRp"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/6lQM0ttt55S8PtXkFHVURB"
+        "name": "Escapades",
+        "url": "https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo"
       },
       "artists": [
         {
-          "name": "Adept",
-          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
+          "name": "The Omnific",
+          "url": "https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR"
         }
       ],
-      "duration_ms": 219737,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/0MhMeOy3Rq1LkaB7puQRRp"
+      "duration_ms": 342506,
+      "name": "Ne Plus Ultra",
+      "url": "https://open.spotify.com/track/7jZbzsR5oLAa1fJVeBufox"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Artificial Void",
+        "url": "https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 346415,
+      "name": "Avatar",
+      "url": "https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Let The Truth Speak",
         "url": "https://open.spotify.com/album/4VDOK5SlUOZUvncenGt6JR"
       },
@@ -1859,34 +1875,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Artificial Void",
-        "url": "https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg"
+        "name": "CLOSURE / CONTINUATION",
+        "url": "https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR"
       },
       "artists": [
         {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+          "name": "Porcupine Tree",
+          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
         }
       ],
-      "duration_ms": 346415,
-      "name": "Avatar",
-      "url": "https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Mute Talk",
-        "url": "https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi"
-      },
-      "artists": [
-        {
-          "name": "Walking Across Jupiter",
-          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Mute Love",
-      "url": "https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs"
+      "duration_ms": 340327,
+      "name": "Rats Return",
+      "url": "https://open.spotify.com/track/0bVYEas0fHQ1g63DtdcYoV"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "CLOSURE / CONTINUATION",
-        "url": "https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR"
+        "name": "Mute Talk",
+        "url": "https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi"
       },
       "artists": [
         {
-          "name": "Porcupine Tree",
-          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
         }
       ],
-      "duration_ms": 340327,
-      "name": "Rats Return",
-      "url": "https://open.spotify.com/track/0bVYEas0fHQ1g63DtdcYoV"
+      "duration_ms": 247384,
+      "name": "Mute Love",
+      "url": "https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "ERRA (Instrumental)",
-        "url": "https://open.spotify.com/album/1xOd0gw1LfPZwsLbPYpS10"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 240525,
-      "name": "Gungrave - Instrumental",
-      "url": "https://open.spotify.com/track/6agFnF6ehPslrN7mRjTUS6"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "I Am That Thirst",
         "url": "https://open.spotify.com/album/7hw65PGHpBFnDcZRdT3VBr"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 280141,
       "name": "I Am That Thirst",
       "url": "https://open.spotify.com/track/6haPL5fAuRJ25u2E9PQyQx"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "ERRA (Instrumental)",
+        "url": "https://open.spotify.com/album/1xOd0gw1LfPZwsLbPYpS10"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 240525,
+      "name": "Gungrave - Instrumental",
+      "url": "https://open.spotify.com/track/6agFnF6ehPslrN7mRjTUS6"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
-      },
-      "artists": [
-        {
-          "name": "Their Dogs Were Astronauts",
-          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
-        }
-      ],
-      "duration_ms": 298909,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "The Testament",
         "url": "https://open.spotify.com/album/6teXtF5T7zmF49lqjnwtW8"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 219240,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/53J9ZOQ0ezFytsEi6AWlSr"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
+      },
+      "artists": [
+        {
+          "name": "Their Dogs Were Astronauts",
+          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+        }
+      ],
+      "duration_ms": 298909,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Samsara",
-        "url": "https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP"
+        "name": "Para",
+        "url": "https://open.spotify.com/album/5kaDYE7WiHuPcfnJLU1X7h"
       },
       "artists": [
         {
-          "name": "The Northern",
-          "url": "https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU"
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6"
         }
       ],
-      "duration_ms": 280540,
-      "name": "Samsara",
-      "url": "https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY"
+      "duration_ms": 229268,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/1ygXmSQzIQm4kqGiTod2h0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2323,6 +2323,22 @@
       "duration_ms": 228000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/2QlBlV967zy7AoA4DZoydi"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP"
+      },
+      "artists": [
+        {
+          "name": "The Northern",
+          "url": "https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU"
+        }
+      ],
+      "duration_ms": 280540,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2379,22 +2395,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/5kaDYE7WiHuPcfnJLU1X7h"
-      },
-      "artists": [
-        {
-          "name": "Rogue",
-          "url": "https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6"
-        }
-      ],
-      "duration_ms": 229268,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/1ygXmSQzIQm4kqGiTod2h0"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Lord Of Chaos",
         "url": "https://open.spotify.com/album/370O27tHg8pVtHw6GeETG7"
       },
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Picayune",
+        "url": "https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ"
+      },
+      "artists": [
+        {
+          "name": "Satyr",
+          "url": "https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy"
+        }
+      ],
+      "duration_ms": 231797,
+      "name": "Picayune",
+      "url": "https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/6vydOYFChvEWsa9SgYdCrU"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 207176,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/1tamD4SIIH3yyiRihgd24a"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Picayune",
-        "url": "https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ"
-      },
-      "artists": [
-        {
-          "name": "Satyr",
-          "url": "https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy"
-        }
-      ],
-      "duration_ms": 231797,
-      "name": "Picayune",
-      "url": "https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Apex",
-        "url": "https://open.spotify.com/album/4zim0xEXs4qma90rRl6dnn"
-      },
-      "artists": [
-        {
-          "name": "Mycelia",
-          "url": "https://open.spotify.com/artist/08vNN31sWBehxdwHOLpf48"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Eight Milligrams",
-      "url": "https://open.spotify.com/track/25rY5RVLYvQxe924Ej1xSp"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Apple of Discord (Instrumental Edition)",
         "url": "https://open.spotify.com/album/3L3PNiY8LMxc6YqlMQHvNq"
       },
@@ -2659,6 +2643,22 @@
       "duration_ms": 234000,
       "name": "Beauty In Expiration - Instrumental",
       "url": "https://open.spotify.com/track/5XiyUFdyBMvSXY7pHaq9Ni"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/4zim0xEXs4qma90rRl6dnn"
+      },
+      "artists": [
+        {
+          "name": "Mycelia",
+          "url": "https://open.spotify.com/artist/08vNN31sWBehxdwHOLpf48"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Eight Milligrams",
+      "url": "https://open.spotify.com/track/25rY5RVLYvQxe924Ej1xSp"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2871,18 +2871,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "How To Swim Down",
-        "url": "https://open.spotify.com/album/2NAGNdsP9P04YDX312nDbE"
+        "name": "Binary Garden",
+        "url": "https://open.spotify.com/album/45v6n9cb9vbIfSomFJx1zD"
       },
       "artists": [
         {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+          "name": "Auras",
+          "url": "https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk"
         }
       ],
-      "duration_ms": 245085,
-      "name": "How To Swim Down",
-      "url": "https://open.spotify.com/track/3ck8dO1Mmm9Q8nd0yZlJLZ"
+      "duration_ms": 258266,
+      "name": "The Demoness",
+      "url": "https://open.spotify.com/track/3XUNtWOXxvy4MSlKNEIASE"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2907,18 +2907,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Binary Garden",
-        "url": "https://open.spotify.com/album/45v6n9cb9vbIfSomFJx1zD"
+        "name": "How To Swim Down",
+        "url": "https://open.spotify.com/album/2NAGNdsP9P04YDX312nDbE"
       },
       "artists": [
         {
-          "name": "Auras",
-          "url": "https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk"
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
         }
       ],
-      "duration_ms": 258266,
-      "name": "The Demoness",
-      "url": "https://open.spotify.com/track/3XUNtWOXxvy4MSlKNEIASE"
+      "duration_ms": 245085,
+      "name": "How To Swim Down",
+      "url": "https://open.spotify.com/track/3ck8dO1Mmm9Q8nd0yZlJLZ"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2939,18 +2939,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Satellites (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
+        "name": "Prototype",
+        "url": "https://open.spotify.com/album/4i4eF8fn6DxE6OCatKIfPx"
       },
       "artists": [
         {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Blind Lead the Blind (Single Edit) - Instrumental",
-      "url": "https://open.spotify.com/track/0us13tL2Pzfm3YO6W0CCMc"
+      "duration_ms": 238641,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/2xgevvLhVHskqiKTd2dnGr"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2971,18 +2971,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Prototype",
-        "url": "https://open.spotify.com/album/4i4eF8fn6DxE6OCatKIfPx"
+        "name": "Satellites (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
       "artists": [
         {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
         }
       ],
-      "duration_ms": 238641,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/2xgevvLhVHskqiKTd2dnGr"
+      "duration_ms": 173333,
+      "name": "Blind Lead the Blind (Single Edit) - Instrumental",
+      "url": "https://open.spotify.com/track/0us13tL2Pzfm3YO6W0CCMc"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Lie",
-        "url": "https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7"
-      },
-      "artists": [
-        {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        }
-      ],
-      "duration_ms": 197134,
-      "name": "The Lie",
-      "url": "https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Dead and Gone",
         "url": "https://open.spotify.com/album/5OJSteJeFevGYUd1GfDb7W"
       },
@@ -3127,6 +3111,22 @@
       "duration_ms": 177568,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/1u2WRDMqPg36u9T8Rt3uqo"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "The Lie",
+        "url": "https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        }
+      ],
+      "duration_ms": 197134,
+      "name": "The Lie",
+      "url": "https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Subatlantic",
-        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 415666,
-      "name": "Subatlantic",
-      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Ground Zero",
         "url": "https://open.spotify.com/album/6a20nDS6Ark7CHoUunsiwU"
       },
@@ -3179,6 +3163,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Subatlantic",
+        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "duration_ms": 415666,
+      "name": "Subatlantic",
+      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Reclaim",
         "url": "https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0"
       },
@@ -3191,6 +3191,22 @@
       "duration_ms": 196320,
       "name": "Reclaim",
       "url": "https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM"
+      },
+      "artists": [
+        {
+          "name": "Their Dogs Were Astronauts",
+          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+        }
+      ],
+      "duration_ms": 232594,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -3223,22 +3239,6 @@
       "duration_ms": 364895,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/6suhC134iU9dsegUGIngx6"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM"
-      },
-      "artists": [
-        {
-          "name": "Their Dogs Were Astronauts",
-          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
-        }
-      ],
-      "duration_ms": 232594,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -3279,22 +3279,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "penny royal poison",
-        "url": "https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO"
-      },
-      "artists": [
-        {
-          "name": "Vildhjarta",
-          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
-        }
-      ],
-      "duration_ms": 189138,
-      "name": "penny royal poison",
-      "url": "https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Gallimaufry",
         "url": "https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK"
       },
@@ -3311,6 +3295,22 @@
       "duration_ms": 255743,
       "name": "Fragile Space",
       "url": "https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "penny royal poison",
+        "url": "https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "duration_ms": 189138,
+      "name": "penny royal poison",
+      "url": "https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ"
     }
   ],
   "unique_name": "Progressive Metal",

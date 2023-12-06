@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 777079,
+  "num_followers": 777090,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmVmZGIyMjFkNzgyYWZiYjg5NTEzOTgxY2UzZWI1OWQwZjkzM2Vj",
+  "snapshot_id": "MCwyYjAyNTczNTRmNTk5MmI0OTQ0OGVlNWZhOWJhNmFhNjc0YTYyOGE4",
   "tracks": [
     {
       "added_at": "2023-12-01 18:09:04",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Wu Wei",
-        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 169382,
-      "name": "Wu Wei",
-      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Silk Under Rain",
         "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 192000,
       "name": "Lively Bluebottle",
       "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Gemoedsrust",
-        "url": "https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC"
-      },
-      "artists": [
-        {
-          "name": "Ebba Dekker",
-          "url": "https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Gemoedsrust",
-      "url": "https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 187200,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Gemoedsrust",
+        "url": "https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC"
+      },
+      "artists": [
+        {
+          "name": "Ebba Dekker",
+          "url": "https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Gemoedsrust",
+      "url": "https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Ionosphere",
-        "url": "https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx"
-      },
-      "artists": [
-        {
-          "name": "Elias M\u00eda",
-          "url": "https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY"
-        }
-      ],
-      "duration_ms": 199900,
-      "name": "Ionosphere",
-      "url": "https://open.spotify.com/track/4TItjggHGUClo9prDawdHq"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Begynnelse",
         "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 190777,
       "name": "Tillsammans",
       "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Ionosphere",
+        "url": "https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx"
+      },
+      "artists": [
+        {
+          "name": "Elias M\u00eda",
+          "url": "https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY"
+        }
+      ],
+      "duration_ms": 199900,
+      "name": "Ionosphere",
+      "url": "https://open.spotify.com/track/4TItjggHGUClo9prDawdHq"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk"
-      },
-      "artists": [
-        {
-          "name": "Artemio Li Fonti",
-          "url": "https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Peripateo",
         "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 193162,
       "name": "Peripateo",
       "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk"
+      },
+      "artists": [
+        {
+          "name": "Artemio Li Fonti",
+          "url": "https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Alcyone",
-        "url": "https://open.spotify.com/album/3ucA44AcStyBbX26Wl9HVl"
-      },
-      "artists": [
-        {
-          "name": "Donald Beaudoin",
-          "url": "https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI"
-        }
-      ],
-      "duration_ms": 236124,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "396 Hz Sleep and Rest Frequencies",
         "url": "https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 190800,
       "name": "396 Hz Breathe Deeply",
       "url": "https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Alcyone",
+        "url": "https://open.spotify.com/album/3ucA44AcStyBbX26Wl9HVl"
+      },
+      "artists": [
+        {
+          "name": "Donald Beaudoin",
+          "url": "https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI"
+        }
+      ],
+      "duration_ms": 236124,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb"
-      },
-      "artists": [
-        {
-          "name": "Mike Fields",
-          "url": "https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8"
-        }
-      ],
-      "duration_ms": 175108,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 181000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb"
+      },
+      "artists": [
+        {
+          "name": "Mike Fields",
+          "url": "https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8"
+        }
+      ],
+      "duration_ms": 175108,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
+        "name": "Through it All",
+        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+      },
+      "artists": [
+        {
+          "name": "Iselinn",
+          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
@@ -2079,18 +2095,18 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Through it All",
-        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+        "name": "Deep Steadiness",
+        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
       },
       "artists": [
         {
-          "name": "Iselinn",
-          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+          "name": "Winds Of Minds",
+          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
         }
       ],
-      "duration_ms": 186559,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
+      "duration_ms": 156793,
+      "name": "Deep Steadiness",
+      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2123,22 +2139,6 @@
       "duration_ms": 169424,
       "name": "inteira",
       "url": "https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
-        "name": "Deep Steadiness",
-        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
-      },
-      "artists": [
-        {
-          "name": "Winds Of Minds",
-          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
-        }
-      ],
-      "duration_ms": 156793,
-      "name": "Deep Steadiness",
-      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/2TIvzUtfG9bbDTN60kM15E"
+      },
+      "artists": [
+        {
+          "name": "Johanna Frid",
+          "url": "https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/2TIvzUtfG9bbDTN60kM15E"
-      },
-      "artists": [
-        {
-          "name": "Johanna Frid",
-          "url": "https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Understanding Yourself",
-        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
-      },
-      "artists": [
-        {
-          "name": "Mikael Arvo",
-          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Deep Contemplation",
-      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Vignette",
         "url": "https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 160285,
       "name": "Vignette",
       "url": "https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Understanding Yourself",
+        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvo",
+          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Deep Contemplation",
+      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
     },
     {
       "added_at": "2023-12-01 18:09:04",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-12-01 18:09:04",
       "album": {
-        "name": "Oblac\u030cno",
-        "url": "https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT"
-      },
-      "artists": [
-        {
-          "name": "Lois Haas",
-          "url": "https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Oblac\u030cno",
-      "url": "https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq"
-    },
-    {
-      "added_at": "2023-12-01 18:09:04",
-      "album": {
         "name": "Forest Dreams",
         "url": "https://open.spotify.com/album/0Wvh866m5t5BxXeB866g9N"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 176007,
       "name": "Star Landing",
       "url": "https://open.spotify.com/track/5bVoFNkEvizQkTX0ZIS3M7"
+    },
+    {
+      "added_at": "2023-12-01 18:09:04",
+      "album": {
+        "name": "Oblac\u030cno",
+        "url": "https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT"
+      },
+      "artists": [
+        {
+          "name": "Lois Haas",
+          "url": "https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Oblac\u030cno",
+      "url": "https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq"
     },
     {
       "added_at": "2023-12-01 18:09:04",

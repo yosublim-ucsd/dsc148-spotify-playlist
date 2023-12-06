@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: i\u00f1igo quintero",
-  "num_followers": 991164,
+  "num_followers": 991270,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2Y3OTIxYWY2Y2EzMmU2MjZjOWI5MDlmZGNjODMzNDg0NmMyZDkz",
+  "snapshot_id": "MCw3ZGUzMTU3ZmNhMzQ2MzFmODIxYmUwM2MxYmRiNjMwOGU2MmJiOGJj",
   "tracks": [
     {
       "added_at": "2023-11-30 23:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "PALANTE",
+        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 146264,
+      "name": "PALANTE",
+      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "Como Ayer",
         "url": "https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "PALANTE",
-        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
+        "name": "Toxic Christmas",
+        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
       },
       "artists": [
         {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 146264,
-      "name": "PALANTE",
-      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
+      "duration_ms": 199546,
+      "name": "Toxic Christmas",
+      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -875,22 +891,6 @@
       "duration_ms": 163505,
       "name": "Un Rato pa Siempre",
       "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Toxic Christmas",
-        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Toxic Christmas",
-      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "Lugar Para\u00edso",
+        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "Copita Champagne",
         "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 163000,
       "name": "Copita Champagne",
       "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Lugar Para\u00edso",
-        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
     },
     {
       "added_at": "2023-11-30 23:01:00",

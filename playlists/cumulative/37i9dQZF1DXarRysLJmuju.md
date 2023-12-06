@@ -4,7 +4,7 @@
 
 > The latest pop hits in one playlist\. Cover: Preston Pablo
 
-1,230 songs - 2 day 14 hr 28 min
+1,231 songs - 2 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-23 | 2023-10-16 |
 | [A Man Like Me](https://open.spotify.com/track/1pJklQvgj7BmpMrO9E2P3u) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 2](https://open.spotify.com/album/3GD05St31XOYQZ0Hboop4T) | 2:30 | 2023-09-29 |  |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
-| [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-24 |  |
+| [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-24 | 2023-12-06 |
+| [A2B](https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6gvw0F8qkG8VA03z1U8eCN) | 2:10 | 2023-12-01 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-07-16 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-12-31 | 2022-07-30 |
 | [Accept It \(Retrospected\)](https://open.spotify.com/track/1W38GmPFvLAkp4KWdiExDj) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Brett Matthews](https://open.spotify.com/artist/1z6pylUZFNXlYe6rIDvRqZ) | [Accept It \(Retrospected\)](https://open.spotify.com/album/3SmBzajWibp34B20J3ZSL1) | 3:42 | 2022-04-01 | 2022-04-23 |

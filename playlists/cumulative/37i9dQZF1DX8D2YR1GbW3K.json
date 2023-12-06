@@ -396,10 +396,36 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 270000,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S"
+    },
+    {
+      "album": {
+        "name": "Boneless",
+        "url": "https://open.spotify.com/album/3EGr7WaJM6g9UoD1S16jcg"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/75f4fO9adbAYJqNBKJNrxs"
     },
     {
       "album": {
@@ -994,7 +1020,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 121874,
       "name": "Dum Dum",
       "url": "https://open.spotify.com/track/6sWUWTthhMxzX6ADl8WBAb"
@@ -4152,7 +4178,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 277500,
       "name": "Unicorn Zombie Apocalypse",
       "url": "https://open.spotify.com/track/4OpPtBlAU2ayk7rS0SyxlM"

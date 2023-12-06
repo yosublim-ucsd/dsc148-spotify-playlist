@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 
 > De la cuna pa'l mundo\. Celebrando la cultura y música de Puerto Rico con los sonidos de la Casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,455 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,469 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 32 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 |
 | 33 | [BEACHY](https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BEACHY](https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id) | 2:48 |
 | 34 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 |
-| 35 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 |
-| 36 | [Amandita](https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Amandita](https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P) | 3:43 |
+| 35 | [Amandita](https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Amandita](https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P) | 3:43 |
+| 36 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 |
 | 37 | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 |
 | 38 | [Tiempos de Plan B](https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Tiempos de Plan B](https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb) | 2:41 |
 | 39 | [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 46 | [Soltera](https://open.spotify.com/track/78uXMDNh2W2jZVrc4qBatZ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:33 |
 | 47 | [TrapTelly](https://open.spotify.com/track/5L9u1w2MgYKkStdDoqjw0T) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Slick La Mina](https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n) | [El 6EI66EI6](https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB) | 1:55 |
 | 48 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
-| 49 | [Polvo](https://open.spotify.com/track/0T5VcGJw3qFfeVlabdwQfE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:31 |
-| 50 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
+| 49 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
+| 50 | [Polvo](https://open.spotify.com/track/0T5VcGJw3qFfeVlabdwQfE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:31 |
 
-Snapshot ID: `MCxlNTQwZmI0ZDIyODM1MzNmOWI1MWVkYjg2YWJiMzYyOWUyMmIzZDli`
+Snapshot ID: `MCxmZDdhNWRlODk4MDhmNDAzMmRmMjgzMTBiNGI1NjQ5MmJjMWM3ZGU3`

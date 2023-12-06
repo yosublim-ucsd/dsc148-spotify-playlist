@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,262 likes - 100 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,348 likes - 100 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 93 | [Obbatala](https://open.spotify.com/track/4kDHcLLfnC8Zj0gbCGUwAX) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Da Le \(Havana\)](https://open.spotify.com/artist/0Ls9PL0afEyfXXY1XDdQP2) | [Obbatala](https://open.spotify.com/album/1DI9vExiR85U1srTsof7O0) | 6:52 |
 | 94 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
 | 95 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
-| 96 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL) | 3:59 |
+| 96 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [eL\-Jay](https://open.spotify.com/artist/3AdQcvHPUsbnXLvuCFtjZE), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL) | 3:59 |
 | 97 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC), [Snow Owl](https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 |
 | 98 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 |
 | 99 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
 | 100 | [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 |
 
-Snapshot ID: `MCw1NDFhNzRjMDg5YWNjNmY1YTlkODI5MGI4MjIwNDA4ZTNhZTFhOGIy`
+Snapshot ID: `MCwxYzkyNjVkMzY2OGU5ZTBhZTQwNDhmNmNkYjFlNWQ2MTA4ZDJiYWE2`

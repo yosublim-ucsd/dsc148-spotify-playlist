@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,323 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,661 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 40 | [Christmas Time Is Here \(with Tony Bennett\)](https://open.spotify.com/track/7GhKjft6686rQW4G5UzFr3) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Noël \(Deluxe Edition\)](https://open.spotify.com/album/27Ovu2vEYcN7dcd27yRkGg) | 3:30 |
 | 41 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
 | 42 | [It's Only Christmas Once A Year](https://open.spotify.com/track/5mGkaXIy3B6Xh8D2nMQrhR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:04 |
-| 43 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [White Christmas \(Spotify Singles \- Holiday, Recorded at Air Studios, London\)](https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0) | 3:12 |
+| 43 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/1A4Yu7C7lCylnun5R1bX3q) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:12 |
 | 44 | [Come On Christmas Time](https://open.spotify.com/track/3mPx20pkw0rGWFmRUBeS9W) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 4:08 |
 | 45 | [frozen halos](https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [frozen halos](https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt) | 3:02 |
 | 46 | [\(Christmas\) Stay With Me](https://open.spotify.com/track/5r74NPQSY8to7C0RdsUIS4) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [\(Christmas\) Stay With Me](https://open.spotify.com/album/5fB1YuQPu279DL3Fc2iKrb) | 4:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 84 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 85 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `MCwwMjRmMzA4YTlhOTIxNDVkMmJmNzIwYWM4NGZiZDRkODgxMjhiOGNl`
+Snapshot ID: `MCwwYWVkZTQ2MTk3M2YwYWU4YzQxYjdlNDcyMTIwZjU4MTI1N2VmZmIx`

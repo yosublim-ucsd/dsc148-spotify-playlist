@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1041532,
+  "num_followers": 1041749,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTY5YmIyODNlYTUyMzAxNjFmYWU5NzRlMzVlY2EzZjdhYjhlY2Ji",
+  "snapshot_id": "MCxhNzJhNmFlZGY1NWUzMjkzM2JiOGEwODdjZGE0YWIwYjUxOTA2MTEx",
   "tracks": [
     {
       "added_at": "2023-11-22 14:56:28",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-11-22 14:56:28",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 154133,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
     },
     {
       "added_at": "2023-11-22 14:56:28",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-11-22 14:56:28",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 164666,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+      "duration_ms": 154133,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
     },
     {
       "added_at": "2023-11-22 14:56:28",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-22 14:56:28",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
-      },
-      "artists": [
-        {
-          "name": "Buddy Greco",
-          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "My Kind Of Girl",
-      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
-    },
-    {
-      "added_at": "2023-11-22 14:56:28",
-      "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 196320,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2023-11-22 14:56:28",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
+      },
+      "artists": [
+        {
+          "name": "Buddy Greco",
+          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "My Kind Of Girl",
+      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
     },
     {
       "added_at": "2023-11-22 14:56:28",

@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 71141,
+  "num_followers": 71182,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTY1ZDVkY2M1MGQ4ZmE4MzFjMDMxZDJjNTIzMTNmMDZhMzY3NGFl",
+  "snapshot_id": "MCxlMDBhYjkzZmFiZTEzM2ZmYzU1ZjM4NTZkZmNmYzZkNTE1YTI1Yjc4",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Cha Cha Linda",
-      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Boleros De Siempre",
         "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 171432,
       "name": "Mil Cosas",
       "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Cha Cha Linda",
+      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -663,6 +663,26 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 159746,
       "name": "Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Entre Tu Amor Y Mi Amor",
-      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Noche criolla",
         "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
       },
@@ -851,6 +835,26 @@
       "duration_ms": 180035,
       "name": "Ven aca (Bolero)",
       "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -907,22 +911,34 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Entre Tu Amor Y Mi Amor",
+      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
       },
       "artists": [
         {
           "name": "Alberto Beltran",
           "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 161346,
-      "name": "Todo Me Gusta de Ti",
-      "url": "https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof"
+      "duration_ms": 170649,
+      "name": "La N\u00famero Cien",
+      "url": "https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        }
-      ],
-      "duration_ms": 170649,
-      "name": "La N\u00famero Cien",
-      "url": "https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 141000,
       "name": "Besos De Fuego",
       "url": "https://open.spotify.com/track/0gcHTyuJ19PvuDAcaw0uEX"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "The Golden Record Vol. 2",
-        "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Exitos de Alvaro Carrillo",
-        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 280773,
-      "name": "Amor M\u00edo / Sabr\u00e1 Dios / Sabor a Mi",
-      "url": "https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los 100 Mejores Boleros, Vol. 3",
         "url": "https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 167293,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "The Golden Record Vol. 2",
+        "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Exitos de Alvaro Carrillo",
+        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 280773,
+      "name": "Amor M\u00edo / Sabr\u00e1 Dios / Sabor a Mi",
+      "url": "https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b"
     },
     {
       "added_at": "2021-12-26 12:28:38",

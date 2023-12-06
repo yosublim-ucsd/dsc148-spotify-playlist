@@ -1804,10 +1804,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 168000,
       "name": "BET",
       "url": "https://open.spotify.com/track/1K5QA85zFIYv1ya0f2XDZq"
+    },
+    {
+      "album": {
+        "name": "DALE",
+        "url": "https://open.spotify.com/album/2nZ9NW1n76ti7fFcJg2Lrh"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/7y0tirehAFF9YtxljxDOPt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,538 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,566 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 66 | [it's murder](https://open.spotify.com/track/3ln8AnWliwXUEGbEsrKddF) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [it's murder](https://open.spotify.com/album/3L2UQRrfGnsdHY47SDsyC7) | 2:46 |
 | 67 | [High Times](https://open.spotify.com/track/1Y0FotOGW8HlgV19zHQd3m) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [High Times](https://open.spotify.com/album/3TgiLtuLXjG0nj4n5lg771) | 4:56 |
 | 68 | [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 |
-| 69 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:02 |
+| 69 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 70 | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp) | 3:21 |
 | 71 | [Running Man](https://open.spotify.com/track/69cmkBPNocsukIBXrHgpGl) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Running Man](https://open.spotify.com/album/61ZUfdcs4OzANFwNpA15xE) | 2:37 |
 | 72 | [Love is Alive \- Original](https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Daniël von Piekartz](https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn) | [Love Is Alive \(Original\)](https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh) | 5:31 |

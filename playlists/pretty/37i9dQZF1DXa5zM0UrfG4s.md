@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,695 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,701 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 48 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
 | 49 | [TOP GUN](https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [TOP GUN](https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c) | 2:20 |
 | 50 | [Sju Fjell](https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sju Fjell](https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ) | 2:58 |
-| 51 | [Sjå sole](https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Staut](https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD) | 3:26 |
-| 52 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 |
+| 51 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 |
+| 52 | [Sjå sole](https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Staut](https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD) | 3:26 |
 | 53 | [En jävel på att ragga bil](https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [En jävel på att ragga bil](https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C) | 2:46 |
 | 54 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 55 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 |
 | 70 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 |
 
-Snapshot ID: `MCw0NjdkMWVkYjYyMWM4OGUzNTJhNDE0OWY3ZDlkOWE3NjdlZWQxNzhi`
+Snapshot ID: `MCw5ZGY1ODBiNWFhNGUwYWIwMjkxMmZhYWY3MmVhZDg5NjNhNDQxODA5`

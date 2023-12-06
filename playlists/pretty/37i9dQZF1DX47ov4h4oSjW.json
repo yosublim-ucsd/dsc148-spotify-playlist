@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 103864,
+  "num_followers": 103867,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWUyMDg3NGU1OGQ1NDcxZjE5NDNkYjBmYTU0MGIwYjBhMGNkZDhl",
+  "snapshot_id": "MCxiZjhiMmJmZjUzYTY1YjUxMDc2NmY3NWVhMjc0NGUwZmY0N2Q5MGI4",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
         "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 184853,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Trance Frendz",
         "url": "https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 354988,
       "name": "20:17",
       "url": "https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Valse pour Johann",
-        "url": "https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd"
-      },
-      "artists": [
-        {
-          "name": "Fjellson Weber",
-          "url": "https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2"
-        }
-      ],
-      "duration_ms": 145075,
-      "name": "Valse pour Johann",
-      "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Solipsism",
         "url": "https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 345800,
       "name": "Midwayer",
       "url": "https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Valse pour Johann",
+        "url": "https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd"
+      },
+      "artists": [
+        {
+          "name": "Fjellson Weber",
+          "url": "https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2"
+        }
+      ],
+      "duration_ms": 145075,
+      "name": "Valse pour Johann",
+      "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Mystique",
-        "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Mystique",
-      "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 188500,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Mystique",
+      "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
-      },
-      "artists": [
-        {
-          "name": "Regina Mira",
-          "url": "https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C"
-        }
-      ],
-      "duration_ms": 119726,
-      "name": "The Winding Paths",
-      "url": "https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Time is the Longest Distance",
         "url": "https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 124452,
       "name": "Time is the Longest Distance",
       "url": "https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91"
+      },
+      "artists": [
+        {
+          "name": "Regina Mira",
+          "url": "https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C"
+        }
+      ],
+      "duration_ms": 119726,
+      "name": "The Winding Paths",
+      "url": "https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pensierino",
-        "url": "https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q"
-      },
-      "artists": [
-        {
-          "name": "Maura Bellucci",
-          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Pensierino",
-      "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Pensierino",
+        "url": "https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Pensierino",
+      "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Tient qu'a\u0300 un fil",
         "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Exhibitions",
-      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dark Taupe",
         "url": "https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 182435,
       "name": "African Violet",
       "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Exhibitions",
+      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Unyielding Faith",
-        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
-      },
-      "artists": [
-        {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Unyielding Faith",
-      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Midnight Musette",
         "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 197084,
       "name": "Midnight Musette",
       "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Unyielding Faith",
+        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Unyielding Faith",
+      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Kardelen",
-        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 167848,
-      "name": "Kardelen",
-      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Svanninge Bakker",
         "url": "https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Kardelen",
+        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 167848,
+      "name": "Kardelen",
+      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Upraise",
         "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Amalfi Moon",
-        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
-      },
-      "artists": [
-        {
-          "name": "Ana Olgica",
-          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Amalfi Moon",
-      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1483,22 +1467,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Silentium",
-        "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
-      },
-      "artists": [
-        {
-          "name": "VIbeke Holst-Tofte",
-          "url": "https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h"
-        }
-      ],
-      "duration_ms": 141342,
-      "name": "Silentium",
-      "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Isonzo",
         "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
       },
@@ -1511,6 +1479,38 @@
       "duration_ms": 107500,
       "name": "Isonzo",
       "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amalfi Moon",
+        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
+      },
+      "artists": [
+        {
+          "name": "Ana Olgica",
+          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Amalfi Moon",
+      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
+      },
+      "artists": [
+        {
+          "name": "VIbeke Holst-Tofte",
+          "url": "https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h"
+        }
+      ],
+      "duration_ms": 141342,
+      "name": "Silentium",
+      "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dunmore",
         "url": "https://open.spotify.com/album/66wulAfBtzKGoqbUPvYzuu"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 122500,
       "name": "Dunmore",
       "url": "https://open.spotify.com/track/7vYzWlDUalocUHnAlcSbUc"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+      },
+      "artists": [
+        {
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2023-03-12 10:18:38",

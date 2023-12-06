@@ -11723,6 +11723,24 @@
     },
     {
       "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "album": {
         "name": "MOOGTOPIA",
         "url": "https://open.spotify.com/album/2FGW5ppcSgCZ0kawkIUC31"
       },

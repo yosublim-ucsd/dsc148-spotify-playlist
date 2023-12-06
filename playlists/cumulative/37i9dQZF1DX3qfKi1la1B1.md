@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-319 songs - 20 hr 43 min
+320 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Didn't Cha Know](https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [On & On](https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA) | 5:02 | 2023-01-19 | 2023-10-06 |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-09-14 |  |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-30 | 2023-08-23 |
-| [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-26 |  |
+| [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-26 | 2023-12-06 |
 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-23 | 2023-03-10 |
 | [Don’t Get Too Close](https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Don’t Get Too Close](https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE) | 4:04 | 2023-02-14 | 2023-03-22 |
 | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 | 2023-11-23 |  |
@@ -195,6 +195,7 @@
 | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc) | 4:17 | 2022-10-20 | 2023-01-13 |
 | [Off The Wall](https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:11 | 2023-03-21 | 2023-05-12 |
 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-07 | 2023-12-02 |
+| [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 | 2023-12-05 |  |
 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2022-10-20 |  |
 | [Overthinker \- Stones Taro Remix](https://open.spotify.com/track/0mPLsl9A6JdPBqRws85AYk) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Overthinker\(Stones Taro Remix\)](https://open.spotify.com/album/53fRA0u4akvEtfL4POeEX5) | 4:54 | 2022-11-24 | 2022-12-24 |
 | [Panic Attacks](https://open.spotify.com/track/0Y2DVH8AJKYRUxwmI0VfYd) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Apple Pie](https://open.spotify.com/album/0f02wMNqFZiSplA2H8C6kf) | 3:46 | 2022-11-10 | 2022-11-13 |

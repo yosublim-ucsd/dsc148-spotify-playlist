@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Kim Dong Ryul\(김동률\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,260 likes - 106 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,274 likes - 106 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 105 | [Look into eyes say it](https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Again,Star \#2](https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0) | 3:56 |
 | 106 | [Eclipse](https://open.spotify.com/track/5m52cGb4MWsj44ggieU76K) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [Eclipse](https://open.spotify.com/album/1TyitQhFrsvGGQu9lYNEsw) | 4:08 |
 
-Snapshot ID: `MCw1NDI2OWM2MmI1YWRiMWM0OTc4Y2M0ODFhOWQ1MzlhNTU3OTFlMDdm`
+Snapshot ID: `MCw3MDY5NzU0ZTAwNjU5MDhjOTAzYTgyYTcwOTI3NTgyOWIxZTgzNjc0`

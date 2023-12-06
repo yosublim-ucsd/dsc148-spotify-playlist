@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-266 songs - 19 hr 24 min
+267 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Genesis](https://open.spotify.com/track/3l3ahfNRJqe58020fZz10w) | [David A\. Molina](https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug) | [Genesis](https://open.spotify.com/album/0Ruw6EAFove5eAZrf7cU6l) | 3:58 | 2023-10-20 |  |
 | [Geneva](https://open.spotify.com/track/1LdM2sf8oIuxeo45egJupT) | [Superpoze](https://open.spotify.com/artist/1iQhd9xO2v82j0dBbt4tHz) | [Geneva](https://open.spotify.com/album/1RcopfYKcxb1fLgjtrGLs5) | 5:02 | 2022-03-25 | 2022-04-20 |
 | [Ghosts \- Live with ONL](https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY) | [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq), [Dirk Brossé](https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo) | [L\(oo\)ping \[Live with ONL\]](https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O) | 5:12 | 2023-06-16 |  |
+| [Glass \(Solo Piano\)](https://open.spotify.com/track/7rn4HCPwItrdZxp4bZDblx) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/2CnIxi6GN1s6Wwk6WhsOtK) | 6:15 | 2023-10-20 |  |
 | [Glass \- Solo Piano](https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX) | 6:15 | 2022-03-18 | 2023-11-05 |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-03-25 | 2023-08-27 |
 | [Glühwürmchen](https://open.spotify.com/track/477kAeGQunBZ16ayZmTWJT) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Glühwürmchen](https://open.spotify.com/album/4hCUhAjYSwgi5oELIDemgD) | 3:56 | 2021-12-10 | 2022-01-25 |
@@ -220,7 +221,7 @@
 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 | 2021-12-10 |  |
 | [Scott and Kate Part 2](https://open.spotify.com/track/3MLo3dIZ3iy6ZCjifr6q0D) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Scott and Kate Part 2](https://open.spotify.com/album/6YcckpMztmNbdEIvFblBRu) | 2:49 | 2021-12-10 | 2021-12-31 |
 | [Season Shifting \- Robert Lippok Rework](https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Post\-Svalbard](https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk) | 4:30 | 2021-12-10 |  |
-| [Shéhérazade \- Laura Masotto Rework](https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Matteo Zanferrari](https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj) | [Shéhérazade \(Laura Masotto Rework\)](https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q) | 4:03 | 2022-06-24 |  |
+| [Shéhérazade \- Laura Masotto Rework](https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Matteo Zanferrari](https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj) | [Shéhérazade \(Laura Masotto Rework\)](https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q) | 4:03 | 2022-06-24 | 2023-12-06 |
 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 | 2022-07-22 | 2023-03-30 |
 | [Sleepless Wake](https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Sleepless Wake](https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs) | 3:42 | 2021-12-10 |  |
 | [Sol Levante](https://open.spotify.com/track/6MyFal8h8ZENjR8fXlViPT) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [LYS](https://open.spotify.com/album/3LHe1BsZZVZ5m7Mw4FxxPy) | 3:49 | 2022-05-27 | 2022-07-20 |

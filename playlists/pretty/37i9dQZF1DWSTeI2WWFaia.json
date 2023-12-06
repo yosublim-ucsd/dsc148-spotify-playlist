@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617686,
+  "num_followers": 1617651,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWE2MjAyYjk1YTg2MDA4ZTVhN2E4ZWNiMDMxMzMzMjg3NzJkM2Vj",
+  "snapshot_id": "MCwzOThjYzFiZjIwYzhjODVkYzllZjAyMmQxZmYzZGY1ZjU4MmJiNGNj",
   "tracks": [
     {
       "added_at": "2023-12-01 04:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
         "name": "Flying High, Part 2",
         "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 177360,
       "name": "Vertigo (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 137197,
-      "name": "black mirror",
-      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
       "added_at": "2023-12-01 04:00:00",
@@ -707,6 +707,30 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 210509,
       "name": "Slip",
       "url": "https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "added_at": "2023-12-01 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-12-01 04:00:00",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
         "name": "The Elephant Man's Bones",
         "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 186491,
       "name": "Runway",
       "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
-    },
-    {
-      "added_at": "2023-12-01 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "beauty supply",
-      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
     },
     {
       "added_at": "2023-12-01 04:00:00",

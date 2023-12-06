@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-177 songs - 7 hr 24 min
+179 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Black Noise 200 Hz](https://open.spotify.com/track/5RtVe2D7d22mJHoWyeUs7t) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:10 | 2023-03-10 | 2023-04-22 |
 | [Black Noise Atmosphere](https://open.spotify.com/track/7BptRteRhIc7S6uUE4Yd8K) | [Black Noise Therapy](https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM), [Black Noise Loopable](https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun) | [Black Noise Loopable](https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ) | 1:35 | 2023-03-10 | 2023-04-22 |
 | [Black Noise Bliss](https://open.spotify.com/track/2vzASEraCzNjxtKiyMMw6t) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Relaxing Black Noise Sounds](https://open.spotify.com/album/3mBWZqwhnCwlhzeWnX27YM) | 2:48 | 2023-06-01 |  |
+| [Black Noise Brainwaves](https://open.spotify.com/track/26rQZ6fJl7zsWL9A6Dg5tv) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [Black Noise Brainwaves](https://open.spotify.com/album/0RxgWTvsPWPONveWKrt7Wy) | 5:13 | 2023-12-05 |  |
 | [Black Noise Calm Your Mind](https://open.spotify.com/track/2xdwQs5ww2BeMmwyiQQwnX) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:29 | 2023-03-10 | 2023-04-22 |
 | [Black Noise Calmness](https://open.spotify.com/track/42n0kVOXzIdDB7X6hs6qLb) | [Noise Library](https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR) | [Soothing Black Noise for Stress Relief](https://open.spotify.com/album/2CsPVS3h8C0uahyXQqzl3W) | 2:16 | 2023-03-10 | 2023-07-06 |
 | [Black Noise Detox](https://open.spotify.com/track/6wOzuuFkPC8B6D627hwMh3) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [Black Noise Detox](https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1) | 1:58 | 2023-06-01 | 2023-06-20 |
@@ -133,6 +134,7 @@
 | [Peaceful Darkness \- Black Noise](https://open.spotify.com/track/7AKssyLSWIQaWyZ1NQAgHn) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Black Noise Tranquility](https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e) | 2:50 | 2023-07-06 |  |
 | [Pitch Black Noise \- Seamless](https://open.spotify.com/track/3JlHTG4rOlMugwQBnbRts7) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Pitch Black Noise](https://open.spotify.com/album/1dnYK5bNWVP8M9oGz8ZTQC) | 2:29 | 2023-06-01 |  |
 | [Placid Black Noise \- Seamless](https://open.spotify.com/track/53bFTZXzQF0Cyr1NT1r22h) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Placid Black Noise](https://open.spotify.com/album/062LOMoeL90kizJiCxeVOS) | 2:27 | 2023-04-21 |  |
+| [Precision Black Noise](https://open.spotify.com/track/1tu0CljjpVzkEsHEqbDUoh) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Precision Black Noise](https://open.spotify.com/album/4dbKAwo7geHFOsNeMGOfS1) | 4:56 | 2023-12-05 |  |
 | [Relaxing Black Noise](https://open.spotify.com/track/1xeezarRnmhQaG2P4GUGSQ) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:10 | 2023-03-10 | 2023-04-22 |
 | [Relaxing Black Noise](https://open.spotify.com/track/4pjIbPnncl6elz81Yw7o9R) | [Black Noise Therapy](https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM), [Black Noise Loopable](https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun) | [Black Noise Loopable](https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ) | 2:09 | 2023-03-10 | 2023-04-22 |
 | [Relaxing Black Noise](https://open.spotify.com/track/6w1WwnWgkbTguF1jQBmFLB) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Relaxing Black Noise](https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP) | 2:13 | 2023-03-10 |  |

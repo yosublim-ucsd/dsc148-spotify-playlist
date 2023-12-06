@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 280571,
+  "num_followers": 280760,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWFiM2JmYzc5Y2QzMDQzMjE1Mzc0ZDVkMzhiODUxNWZmMWJiN2Ew",
+  "snapshot_id": "MCwzYmY5MmY3N2U1NjBkYTRhZjMwYmFmN2ZlMjMzYmU4MjcxMjY5NTBi",
   "tracks": [
     {
       "added_at": "2023-11-24 07:40:48",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 97240,
+      "name": "Qui\u00e9n Se Anima",
+      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
+    },
+    {
+      "added_at": "2023-11-24 07:40:48",
+      "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 191994,
       "name": "El Envidioso",
       "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
-    },
-    {
-      "added_at": "2023-11-24 07:40:48",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 97240,
-      "name": "Qui\u00e9n Se Anima",
-      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2023-11-24 07:40:48",
-      "album": {
         "name": "Gu\u00e1rdame Esta Noche",
         "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 186408,
       "name": "Borracho de Cochera",
       "url": "https://open.spotify.com/track/0acLovnnWxsN8JwjTr0ecY"
+    },
+    {
+      "added_at": "2023-11-24 07:40:48",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2023-11-24 07:40:48",
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2023-11-24 07:40:48",
+      "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+        "name": "6 Tragos",
+        "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Sabor de Enga\u00f1o",
-      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
+      "duration_ms": 153000,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "6 Tragos",
-        "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 153000,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
+      "duration_ms": 186586,
+      "name": "Sabor de Enga\u00f1o",
+      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
     },
     {
       "added_at": "2023-11-24 07:40:48",

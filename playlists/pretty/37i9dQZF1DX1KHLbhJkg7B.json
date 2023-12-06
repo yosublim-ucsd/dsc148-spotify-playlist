@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 101764,
+  "num_followers": 101835,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU3MjgxODk1YjI3NmE2YWE2ZGUxZTVhM2M5MmY3YmE5ZWJjN2E1",
+  "snapshot_id": "MCw1YTA0MjgyZTM5OGJiNTc0OGM3ZTRhNzkzZjdjNTBjOTIwODVhYmM0",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Jersey Giant",
-        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 266320,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+      "duration_ms": 177867,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 177867,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Maoli Music Overload",
+        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 256217,
       "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Maoli Music Overload",
-        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young To Feel This Damn Old (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 218493,
       "name": "Footloose",
       "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Much Too Young To Feel This Damn Old (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "He Got the Best of Me",
-        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "He Got the Best of Me",
-      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
       },
@@ -1683,6 +1667,38 @@
       "duration_ms": 269382,
       "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
       "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "He Got the Best of Me",
+        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "He Got the Best of Me",
+      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+      "duration_ms": 230666,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1751,22 +1767,6 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     }
   ],
   "unique_name": "Country Covers",

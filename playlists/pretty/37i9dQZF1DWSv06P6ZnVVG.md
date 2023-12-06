@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,589 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,683 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 53 | [El Ahualoca](https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 3:34 |
 | 54 | [La Cumbia del Rio, la Cusinela, la Fiebre Tropical \- En Vivo](https://open.spotify.com/track/5xIFQUNjIDOs89UsTKSQu9) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [En Vivo](https://open.spotify.com/album/68Kjwy354fRRFUSpFTO7nx) | 5:56 |
 | 55 | [Son de la Raza](https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac) | [Banda La Mera Mera](https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c) | [Son de la Raza](https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk) | 3:37 |
-| 56 | [Cinco Trancazos](https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Para Ti](https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr) | 2:46 |
-| 57 | [Popurrí Costeño: Pinotepa / San Marqueña / Son Costeño](https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ) | [La Picosa Hernández Banda](https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2) | [Una Leyenda](https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf) | 5:25 |
+| 56 | [Popurrí Costeño: Pinotepa / San Marqueña / Son Costeño](https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ) | [La Picosa Hernández Banda](https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2) | [Una Leyenda](https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf) | 5:25 |
+| 57 | [Cinco Trancazos](https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Para Ti](https://open.spotify.com/album/6Nv7sfvruLGAqTBtnTO0sr) | 2:46 |
 | 58 | [Carnavalezco](https://open.spotify.com/track/0kk8kIdLalXbrl3DaFrXPM) | [Los Oaxapen´S](https://open.spotify.com/artist/3ZrpEqKME1c5ZXm6g4ZLI8) | [Las más muerteras](https://open.spotify.com/album/3gjCOwINDNAOi3VIk8PbZ8) | 3:34 |
 | 59 | [Zapateando Con La Banda](https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Mas Zacatecano Que Nunca](https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH) | 2:34 |
 | 60 | [El Sonao](https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Bailando Ando](https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss) | 4:21 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 68 | [Pica Perica \- En Vivo Desde El Rancho](https://open.spotify.com/track/3rRsyxWKh1znG601xHefUN) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:36 |
 | 69 | [Sin Miedo Al Toro](https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Sin Miedo Al Toro](https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar) | 3:19 |
 | 70 | [Son de la Cotorra](https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF) | [La Super Banda De Chilacachapa](https://open.spotify.com/artist/60WAscKOtR4uzuKWqjnHn4) | [Vamos Pa' Los Toros](https://open.spotify.com/album/09zNtJ7OrP7eZNieO2qk8F) | 2:47 |
-| 71 | [Corazon De Texas](https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:33 |
-| 72 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
+| 71 | [El Huitzuqueño](https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko \(Serie Titanium\)](https://open.spotify.com/album/2sNtqcgzWpdOthyYrpCsbo) | 3:07 |
+| 72 | [Corazon De Texas](https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:33 |
 | 73 | [La Ardilla](https://open.spotify.com/track/1bhgkbzzfIxxInt7Hzs2et) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:44 |
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCw2ZjY1MWI2NzdhN2ZkNTA2ZDQ4NTg3ODdiZTRiODEwMWFhMDAyNWFl`
+Snapshot ID: `MCwzNDkzMWFiY2M1NTRkNzc0Zjk4ZTljNjg4MmJhNGY2YjM5MzdmODlk`

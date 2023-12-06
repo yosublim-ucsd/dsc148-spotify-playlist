@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 218744,
       "name": "Kokomo, IN",
       "url": "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
@@ -4908,6 +4908,24 @@
       "duration_ms": 152888,
       "name": "Ronnie's Song",
       "url": "https://open.spotify.com/track/6JlpXkpYISoirRTPbXUtdY"
+    },
+    {
+      "album": {
+        "name": "Ruined",
+        "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "Ruined",
+      "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
     },
     {
       "album": {

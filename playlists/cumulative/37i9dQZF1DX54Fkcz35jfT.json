@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/1QS0b8uup5KXDD858XJecR"
+      },
+      "artists": [
+        {
+          "name": "Kanna",
+          "url": "https://open.spotify.com/artist/47U5PirBYuleMsuD307qej"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180398,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0e5R5RHym5iKSPUzES8Nt6"
+    },
+    {
+      "album": {
         "name": "Dive in Your Faith",
         "url": "https://open.spotify.com/album/38QdEHccuklJS8B35kl2qE"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 212413,
       "name": "error",
       "url": "https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 162546,
       "name": "Let It Go As If You Wander",
       "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
@@ -2537,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "The Novembers",
+        "url": "https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO"
+      },
+      "artists": [
+        {
+          "name": "THE NOVEMBERS",
+          "url": "https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207006,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b"
+    },
+    {
+      "album": {
         "name": "Shousatsu",
         "url": "https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als"
       },
@@ -2664,7 +2700,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR"
@@ -3241,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "\u592a\u967d\u3068\u6708\u306e\u30d3\u30fc\u30c8\u30cb\u30af\u30b9",
+        "url": "https://open.spotify.com/album/06dTtsuu4ZddnDTW7mIUpa"
+      },
+      "artists": [
+        {
+          "name": "LINK",
+          "url": "https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "\u30a2\u30f3\u30bb\u30e0",
+      "url": "https://open.spotify.com/track/5ZMS3dRr2INkP6r2TZnU6m"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9",
         "url": "https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr"
       },
@@ -3508,7 +3562,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
@@ -3623,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30cd\u30de",
+        "url": "https://open.spotify.com/album/4ZDYzzPwxrwf015qEeIPMO"
+      },
+      "artists": [
+        {
+          "name": "TYOSiN",
+          "url": "https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219810,
+      "name": "\u5f57\u661f",
+      "url": "https://open.spotify.com/track/1qEnnY6gKiBXxU4D6shBgH"
+    },
+    {
+      "album": {
         "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0 / G'old\u301cen\u301cGuy (D\u00d7D remix) [feat. Misaki]",
         "url": "https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU"
       },
@@ -3638,6 +3710,24 @@
       "duration_ms": 324599,
       "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0",
       "url": "https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6"
+    },
+    {
+      "album": {
+        "name": "\u611f\u60c5is MINE/Super Model",
+        "url": "https://open.spotify.com/album/0hH7lHpPWSDtysnqC9FDL4"
+      },
+      "artists": [
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106500,
+      "name": "\u611f\u60c5is MINE",
+      "url": "https://open.spotify.com/track/1ijdOQYxwXh7HMqQCxY7Mi"
     },
     {
       "album": {
@@ -3778,7 +3868,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"

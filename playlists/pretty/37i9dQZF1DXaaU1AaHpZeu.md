@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Kevin Kaarl en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,013 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,031 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Diferentes](https://open.spotify.com/track/3iE2vzSHjgq84y3Yyg5z8G) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Diferentes](https://open.spotify.com/album/6wkgGlz3RZcX5Zfk0u2HzJ) | 3:22 |
 | 50 | [100m](https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [100m](https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY) | 2:20 |
 
-Snapshot ID: `MCw2YTJkNGJlZWYzZDc5NjExOTZjODc5ZGMyYTEwY2QxOTUzYzRiZjA0`
+Snapshot ID: `MCxiYzU0MTIxMDRkYjhkOTEwNDFjM2ZhNDE4Y2M1OGZjMWJjODgwMmY0`

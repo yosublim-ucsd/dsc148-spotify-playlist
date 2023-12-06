@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,331 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,373 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 96 | [Teca](https://open.spotify.com/track/1xvTx3zOmzXG4G3MSZzHB8) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Teca](https://open.spotify.com/album/7nuzZbEmoCi1OdDgWyJIVI) | 3:21 |
 | 97 | [Twisted \(feat\. Juicy J, Logic & A$AP Rocky\)](https://open.spotify.com/track/3CiXFXXykPmgZAKyK5iQ95) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 4:22 |
 | 98 | [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 |
-| 99 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 |
-| 100 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
+| 99 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
+| 100 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 |
 
-Snapshot ID: `MCw5YWMyNTg1MzkzZTBjN2QzOTM3OTJmYmVkZGE2ZmFjNTVkMGVkYTEy`
+Snapshot ID: `MCw0NzVmMGM2NWU1YzYxYjhjYjg3MjdlYzY1MTljYTkwZmI2ZTMwMjk3`

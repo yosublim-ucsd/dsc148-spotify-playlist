@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133521,
+  "num_followers": 1133531,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGZkMWU0MDM1NzE3ZWU3MzM1ZDA0MTE0YTQxYmRiMDIwOGM2YzIx",
+  "snapshot_id": "MCw4OWJiODAyYzMxZGMwZWJhZTBiYzcyZWY0NTE4ZTM1ODYxYTcwYzEx",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 174857,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
         }
       ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
       "artists": [
         {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+      "duration_ms": 192461,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "duration_ms": 132789,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Arcade",
         "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 148015,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 132789,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
+        "name": "Visiting Hours (Acoustic)",
+        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
         }
       ],
-      "duration_ms": 192461,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
+      "duration_ms": 197202,
+      "name": "Visiting Hours (Acoustic)",
+      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Visiting Hours (Acoustic)",
-        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 197202,
-      "name": "Visiting Hours (Acoustic)",
-      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Just The Two Of Us - Acoustic",
         "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 186008,
       "name": "Just the Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 170884,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Pumped Up Kicks",
-        "url": "https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf"
-      },
-      "artists": [
-        {
-          "name": "City Sessions",
-          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
-        }
-      ],
-      "duration_ms": 129991,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Make You Feel My Love",
         "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 189680,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        }
+      ],
+      "duration_ms": 129991,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy"
     },
     {
       "added_at": "2023-11-24 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: you met a great guy but you have to fight your seven evil exes to be with him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,718 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,382 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 49 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
 | 50 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 
-Snapshot ID: `MCwwZDU0MTcyOTE3NzI2YjAxYTAyNjk2YzA2NjIyY2FkMjA1NmVjNzMy`
+Snapshot ID: `MCxkYzc0MmQ5ZmQ2MThiZWY2YzgxNTZjZDFmY2Q4M2ZkOTU3NjZjNTNi`

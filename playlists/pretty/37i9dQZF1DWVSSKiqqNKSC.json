@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 231388,
+  "num_followers": 231431,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjMzNmU5Mzk5MzQxOTk0NWNjNDMyYTRmZDNmYTk5M2VjYzc4OWQ5",
+  "snapshot_id": "MCw1MWU2YjUyZWFkNTEyNzY1OTIyYTE3OWQzYjRhODEzNGRlMWRkNmNj",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "De Vuelta al Barrio",
         "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 346266,
       "name": "La Cosa Mala",
       "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "EN LETRAS DE OTROS",
+        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 233979,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "A Lo Cubano",
         "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "EN LETRAS DE OTROS",
-        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
+        "name": "Lleg\u00f3 La Verdad (Remasterizado)",
+        "url": "https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe"
       },
       "artists": [
         {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
         }
       ],
-      "duration_ms": 233979,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
+      "duration_ms": 315520,
+      "name": "Dime Cu\u00e1nto - Remasterizado",
+      "url": "https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -839,26 +855,6 @@
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Party Full Nasty (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "Yakarta",
-          "url": "https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Besito Con Lengua",
-      "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
     }
   ],
   "unique_name": "Salsa Cubana",

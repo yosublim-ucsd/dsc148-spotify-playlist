@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Top 50 tracks from Fresh Finds Canada in 2023\. Cover: Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,809 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,872 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 43 | [Tourner](https://open.spotify.com/track/10JAfW2AVRnUbHTzlvplTB) | [Véda](https://open.spotify.com/artist/10fGKWTRU4oFbQG0sWPVHi), [Jeune Rebeu](https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD) | [Mon boy](https://open.spotify.com/album/3GrwegDfPCjoMqUIRhzuOc) | 2:08 |
 | 44 | [Suitcases By The Door](https://open.spotify.com/track/4pY5T1a0Py3JJjZLHtkD9Q) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [If I Was, I Am](https://open.spotify.com/album/648zHL2TdKCfvMmTPFlEGl) | 3:09 |
 | 45 | [Blackfly](https://open.spotify.com/track/3oQXWHENhdJ7hBRdh51XS3) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [Blackfly](https://open.spotify.com/album/2lBZPj07QVlo5q9Og3EiRv) | 3:44 |
-| 46 | [Give Me A Sign?](https://open.spotify.com/track/7pccPyIVWGHZ7LF9V7FdTK) | [Ayla Tesler\-Mabe ](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [Give Me A Sign?](https://open.spotify.com/album/60YXL5gJybKpZiZrTxYe6X) | 3:56 |
+| 46 | [Give Me A Sign?](https://open.spotify.com/track/7pccPyIVWGHZ7LF9V7FdTK) | [Ayla Tesler\-Mabé](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [Give Me A Sign?](https://open.spotify.com/album/60YXL5gJybKpZiZrTxYe6X) | 3:56 |
 | 47 | [MODA](https://open.spotify.com/track/4x6WlBCITrqjZZUHl1Dnhh) | [MÓRY](https://open.spotify.com/artist/5FdrFhHWZupu9cqlWAg2WR) | [MODA](https://open.spotify.com/album/6ggoPcqaldJe77m7h1I1Ag) | 2:21 |
 | 48 | [Bossy](https://open.spotify.com/track/4KidIxKUxGge858xuBX3nP) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Bossy](https://open.spotify.com/album/60MeZDogc0KOw6KBHlbIch) | 2:27 |
 | 49 | [Waiting](https://open.spotify.com/track/7w4uX9NWrXpN4MQm8Nm1c2) | [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF) | [Waiting](https://open.spotify.com/album/2ky7NQoD7VzN92siA9r3xJ) | 3:11 |
 | 50 | [Rosé](https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Rosé](https://open.spotify.com/album/2US1trwBIEqtNCzH7myt6u) | 2:36 |
 
-Snapshot ID: `MCw0YThhYzk3ZTQzN2E0YmNhMTg0NjI1ZTM1MzUyNGI4NTU1OTY0ZDEz`
+Snapshot ID: `MCw0Yjk3NDk5OGY1ZDM5ZDk5YjFkNDkyYjFmM2I1YzM4ZGYwZmRhMzU2`

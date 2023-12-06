@@ -4,7 +4,7 @@
 
 > where folk flowers bloom\. cover: Jonah Kagen <3
 
-126 songs - 7 hr 24 min
+127 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-12-01 |  |
 | [Rearview](https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 3:51 | 2023-10-06 |  |
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-10-06 |  |
+| [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-05 |  |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-10-13 |  |
 | [Secrets](https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U) | 4:12 | 2023-10-06 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-10-06 |  |

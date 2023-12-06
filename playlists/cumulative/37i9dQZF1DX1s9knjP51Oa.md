@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-742 songs - 1 day 7 hr 46 min
+747 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 | 2023-03-06 |  |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-02-15 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2021-12-13 | 2023-01-28 |
+| [Dahlia](https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Dahlia](https://open.spotify.com/album/78wynCL5BJIJe0utApFZko) | 2:55 | 2023-12-05 |  |
 | [Dancing the twelve](https://open.spotify.com/track/2yDIfosvpcbhKj3liMHZov) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Dancing the twelve](https://open.spotify.com/album/2UTmoOVrkHOflkHZH7Nx6S) | 2:38 | 2022-07-21 |  |
 | [Dans mes mains](https://open.spotify.com/track/5xiXoZATdF3BFUMZcDZSYA) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Dans mes mains](https://open.spotify.com/album/4JmFUz0CPUf1ItlKbhqvU3) | 2:00 | 2021-12-13 | 2023-01-10 |
 | [Dawn](https://open.spotify.com/track/5VMPixSvGFod1dZGHXG8XI) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Dawn](https://open.spotify.com/album/3b4fmBYxqQaqoLqxcTdfmx) | 2:26 | 2022-03-02 | 2022-10-14 |
@@ -360,6 +361,7 @@
 | [Late](https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Late](https://open.spotify.com/album/2oaXu9YZPKsSuNOvBkAnGe) | 2:59 | 2021-12-13 | 2022-10-14 |
 | [Lavender](https://open.spotify.com/track/7cMwmMmh2RRtGv1jl3QPUH) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Lavender](https://open.spotify.com/album/0ydbZvW2I6oagnbyzvYg15) | 2:56 | 2021-12-13 | 2022-01-05 |
 | [Le crépuscule](https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd) | [Pascale Perrot](https://open.spotify.com/artist/11nSedLZI37ACQ8UjQEzx1) | [Le crépuscule](https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK) | 2:10 | 2022-01-04 |  |
+| [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 | 2023-12-05 |  |
 | [Le soleil brille](https://open.spotify.com/track/33JTqE9e7gORkp63S7FZF2) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Le soleil brille](https://open.spotify.com/album/3TPBg1dhAwxW3m63reCbhY) | 2:39 | 2021-12-13 | 2022-05-27 |
 | [Lebensecht](https://open.spotify.com/track/2TZetlpje1UuPbMU2heuMR) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Lebensecht](https://open.spotify.com/album/1fG6rd3TUUUkCzYKJiAORx) | 2:23 | 2023-01-09 |  |
 | [Legendary Love](https://open.spotify.com/track/3JXtJtFkP8gVIl3BM2ajr5) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Legendary Love](https://open.spotify.com/album/68T3xbvdcXwFTpgdYmyUYk) | 3:07 | 2021-12-13 | 2022-10-05 |
@@ -504,8 +506,9 @@
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-03-02 | 2023-08-22 |
 | [Radiant](https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Radiant](https://open.spotify.com/album/7eOhUnQ92WaJvaPo0khuLw) | 1:59 | 2021-12-13 | 2023-08-22 |
 | [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 | 2022-10-24 | 2023-10-09 |
-| [Rainbow](https://open.spotify.com/track/54az4H0JwwXsB25718PKg9) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/0Vf69rDPEdfbJypvpou4uS) | 2:56 | 2023-10-23 |  |
+| [Rainbow](https://open.spotify.com/track/54az4H0JwwXsB25718PKg9) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/0Vf69rDPEdfbJypvpou4uS) | 2:56 | 2023-10-23 | 2023-12-06 |
 | [Rainbow](https://open.spotify.com/track/5o9VMlbsJvXSdVfi3u4sFh) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/2WvA7DZjMD9l7kOuMGqyBj) | 2:56 | 2023-10-02 | 2023-11-04 |
+| [Rainbow](https://open.spotify.com/track/6Ab0DT2fQv7ZQWxfMBrqZP) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/3Z6neqTOayCbmWy9fOFbPe) | 2:56 | 2023-12-05 |  |
 | [Raison d'etre](https://open.spotify.com/track/4zypTg1KZ3HNPcYqfWou6f) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Raison d'etre](https://open.spotify.com/album/267CXYk2upy1NS7lZ7pmjh) | 2:23 | 2021-12-13 | 2022-10-05 |
 | [Reach for the Sky \- Piano](https://open.spotify.com/track/2bVsl2aubHgckddYBsVfrL) | [Melina Lugn](https://open.spotify.com/artist/2L4aEUABQWSMXk23DTxj5M) | [Reach for the Sky \- Piano](https://open.spotify.com/album/2e2QN4Kq1gzzVigLLE1pGZ) | 1:54 | 2023-11-06 | 2023-11-21 |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-12-13 | 2022-07-22 |
@@ -641,6 +644,7 @@
 | [The Great Walls Of Time](https://open.spotify.com/track/36YnXU7SvvZtNI2j0vvsGS) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [The Great Walls Of Time](https://open.spotify.com/album/6P2rrRGi74wWvXjgcC2AvC) | 1:58 | 2022-10-04 | 2023-04-04 |
 | [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-09 |  |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-13 | 2022-01-05 |
+| [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-05 |  |
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2021-12-13 | 2022-12-22 |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 | 2021-12-13 | 2023-01-28 |
@@ -731,6 +735,7 @@
 | [Wiegenlieden](https://open.spotify.com/track/3U6R2JSOzgPzQo57fZFsDZ) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Wiegenlieden](https://open.spotify.com/album/55EUDdrVTg81REpnhuSwVl) | 2:38 | 2021-12-13 | 2022-10-25 |
 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 | 2021-12-13 | 2023-01-28 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-02-15 |  |
+| [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-05 |  |
 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 | 2022-01-18 |  |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-05 | 2023-02-01 |
 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2021-12-13 | 2022-09-24 |

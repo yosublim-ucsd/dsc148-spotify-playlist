@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1202565,
+  "num_followers": 1202954,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDEyZWIyMzA2NTMxODRhNWI0Y2E1NDUyNWIyYjY0ZjZkM2E1NDNk",
+  "snapshot_id": "MCw3OTAwMzYwYzU2OTM0MTY3Mzg4ODZjYTU0MGZmYzExMTBiMmZiM2Mw",
   "tracks": [
     {
       "added_at": "2023-12-01 10:52:12",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "GISEKE",
         "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/344MYybqGBtYOEI97tb0f5"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "Smoke Break-Dance (feat. JID)",
+      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "Casa Lopez",
         "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Smoke Break-Dance (feat. JID)",
-      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -667,58 +667,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "David Ngyah",
-          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "2nd Exit",
-        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
-      },
-      "artists": [
-        {
-          "name": "2nd Exit",
-          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
-        }
-      ],
-      "duration_ms": 176884,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 260693,
-      "name": "Dog It",
-      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
       },
@@ -755,6 +703,58 @@
       "duration_ms": 259906,
       "name": "Cookie Chips",
       "url": "https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "David Ngyah",
+          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "2nd Exit",
+        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
+      },
+      "artists": [
+        {
+          "name": "2nd Exit",
+          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
+        }
+      ],
+      "duration_ms": 176884,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Speakthru (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 187175,
       "name": "Shine Thru",
       "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1407,26 +1407,18 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Everything's Beautiful",
-        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Phonte",
-          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Violets (feat. Phonte)",
-      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1463,18 +1455,26 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+        "name": "Everything's Beautiful",
+        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
       "artists": [
         {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Phonte",
+          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
         }
       ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+      "duration_ms": 203680,
+      "name": "Violets (feat. Phonte)",
+      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 276252,
+      "name": "Organic Rust",
+      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 276252,
-      "name": "Organic Rust",
-      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "That Jazz",
         "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
@@ -1615,22 +1615,18 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Haiku",
-        "url": "https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9"
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
       "artists": [
         {
-          "name": "Handbook",
-          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
-        },
-        {
-          "name": "RKZ",
-          "url": "https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Careful",
-      "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "Haiku",
+        "url": "https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        },
+        {
+          "name": "RKZ",
+          "url": "https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW"
         }
       ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
+      "duration_ms": 131000,
+      "name": "Careful",
+      "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1735,38 +1735,6 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1783,6 +1751,46 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
+        "name": "Lost in Translation",
+        "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
+      },
+      "artists": [
+        {
+          "name": "JuJu Rogers",
+          "url": "https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA"
+        },
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Regis Molina",
+          "url": "https://open.spotify.com/artist/5IHvNCXmpIHeBZkSWulM3i"
+        }
+      ],
+      "duration_ms": 297990,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1811,26 +1819,18 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Lost in Translation",
-        "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
       },
       "artists": [
         {
-          "name": "JuJu Rogers",
-          "url": "https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA"
-        },
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Regis Molina",
-          "url": "https://open.spotify.com/artist/5IHvNCXmpIHeBZkSWulM3i"
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
         }
       ],
-      "duration_ms": 297990,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+    },
+    {
+      "added_at": "2023-12-01 10:52:12",
+      "album": {
         "name": "Heart Shaped Kisses",
         "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
       },
@@ -1907,26 +1923,6 @@
       "duration_ms": 168000,
       "name": "Heart Shaped Kisses",
       "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2023-12-01 10:52:12",
-      "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
-        }
-      ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2023-12-01 10:52:12",
@@ -1951,18 +1947,22 @@
     {
       "added_at": "2023-12-01 10:52:12",
       "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
         }
       ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2023-12-01 10:52:12",

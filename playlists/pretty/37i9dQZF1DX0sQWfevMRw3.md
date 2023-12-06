@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JULEN PÅ FYRA HJUL ÄR HÄR!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,167 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,294 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 24 | [Om du vill \- J.O.X Remix](https://open.spotify.com/track/6pjS1WqmHn1vkF5ZseaDMj) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Om du vill \(J.O.X Remix\)](https://open.spotify.com/album/19MHAGESlf6je7cc8PTOoc) | 2:41 |
 | 25 | [We Call It A Pilsner Car](https://open.spotify.com/track/13Nl0amQmDiJb2x8I1dAQY) | [Lohmann & Co](https://open.spotify.com/artist/52Bhcaz5r8ZIIuAim0EXRb) | [We Call It A Pilsner Car](https://open.spotify.com/album/6uGupbOzu1hoiW7kFyl1N6) | 2:09 |
 | 26 | [Hon vill ha mig \- Remix](https://open.spotify.com/track/7sKX5WSjQEPMzuIPFurvBO) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA) | [Hon vill ha mig \(Remix\)](https://open.spotify.com/album/0Qpy7rAQcv4rwfh0sLQM98) | 2:04 |
-| 27 | [VINBALLE](https://open.spotify.com/track/1XdMxUEDz7yG8zOEQKmZi5) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [VINBALLE](https://open.spotify.com/album/0ma6EgyQCcJZk0ahCTeahd) | 3:05 |
+| 27 | [VINBALLE](https://open.spotify.com/track/1XdMxUEDz7yG8zOEQKmZi5) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [VINBALLE](https://open.spotify.com/album/0ma6EgyQCcJZk0ahCTeahd) | 3:05 |
 | 28 | [LYSSNA PÅ DANSBAND](https://open.spotify.com/track/7j3PRUN9gcgcRsxCDfseCU) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [Alkis](https://open.spotify.com/artist/4du4gxnCGpDsJHYfCL66WD) | [LYSSNA PÅ DANSBAND](https://open.spotify.com/album/0oaIlZp9PCHir7mnNyic3Q) | 3:19 |
 | 29 | [Min Ponny \(min kära lilla ponny\)](https://open.spotify.com/track/3nlmYsWXQLcsXOWJEPc21E) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Du är så söt, min kära lilla ponny](https://open.spotify.com/album/1oPeMx3wcZuzr6WM4720AB) | 2:01 |
 | 30 | [DANSAR ALDRIG NYKTER](https://open.spotify.com/track/1JgM35QWMB4P8ZfhSBSgXx) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DANSAR ALDRIG NYKTER](https://open.spotify.com/album/0W4QW4TQvbRM8GWCCttuC8) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
 | 100 | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/track/20y6dLrUf6pcyhQ0C0baRx) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/album/0S97r72koBAgUPWmole90S) | 2:34 |
 
-Snapshot ID: `MCwxNzNhZmM3MWFmMGMxYzhhMTUxMDFkZmVhNzI5ZDE3Zjk4NjA4ZGQ4`
+Snapshot ID: `MCxmYmY3NTM2ZjMwZmY1NDBhZWM5MGVlODg0YzNmZTUxZmNiYmQ0ZThl`

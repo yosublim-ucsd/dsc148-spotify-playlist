@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 37220,
+  "num_followers": 37294,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzZhM2EzYTIzNDZiMzgxNzRlZDA4MzFiZTU2MzQ0YTBmMWQ3M2Vi",
+  "snapshot_id": "MCxhMWI3YTU3MDFiNTQxYjA5NzNhMGY0M2QxZjczNTA0MGNlOWJlYWNi",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 503240,
-      "name": "Way Maker - Live",
-      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "The Afterparty Deluxe",
         "url": "https://open.spotify.com/album/1w19pMaq0hP50uuhc8fHP4"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 178998,
       "name": "Red Dirt Church (feat. NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "Intentional",
-      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Thandwa Ndim",
-        "url": "https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH"
+        "name": "Glory in His Presence",
+        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
       },
       "artists": [
         {
-          "name": "The Soil",
-          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
-        },
-        {
-          "name": "Thee Legacy",
-          "url": "https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX"
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
         }
       ],
-      "duration_ms": 271480,
-      "name": "Thandwa Ndim",
-      "url": "https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP"
+      "duration_ms": 655253,
+      "name": "Bow Down and Worship - Live",
+      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -967,18 +963,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Glory in His Presence",
-        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
+        "name": "Thandwa Ndim",
+        "url": "https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH"
       },
       "artists": [
         {
-          "name": "Benjamin Dube",
-          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        },
+        {
+          "name": "Thee Legacy",
+          "url": "https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX"
         }
       ],
-      "duration_ms": 655253,
-      "name": "Bow Down and Worship - Live",
-      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+      "duration_ms": 271480,
+      "name": "Thandwa Ndim",
+      "url": "https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP"
     }
   ],
   "unique_name": "Gospel Greatness",

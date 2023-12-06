@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva generación del pop que definió el 2023 con RENEE en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,505 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,566 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 38 | [Mi Fantasma](https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Mi Fantasma](https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1) | 2:42 |
 | 39 | [no soy yo](https://open.spotify.com/track/0tAacdFeAEMvufvMJWPDWY) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [no soy yo](https://open.spotify.com/album/3gS6OyLqYMKvBJelzhUCHP) | 2:33 |
 | 40 | [cansada de verte en todas partes](https://open.spotify.com/track/3DXxe99pe0kM1UBgUR8fGm) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 2:50 |
-| 41 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
-| 42 | [El Cuarto](https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [El Cuarto](https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6) | 2:56 |
+| 41 | [El Cuarto](https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [El Cuarto](https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6) | 2:56 |
+| 42 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
 | 43 | [Noches](https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Noches](https://open.spotify.com/album/1osB0AMsvdhhUi9To2mYOV) | 2:49 |
 | 44 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
 | 45 | [Hospital Sentimental](https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hospital Sentimental](https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
 | 50 | [Viral](https://open.spotify.com/track/2mvJIj7K8000broZTq6eks) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:32 |
 
-Snapshot ID: `MCwwMGFjMTM1YWVkZTQzZWU2MGE0ZjFiMDYzNjUxNWUyMWM2YzIwYTRi`
+Snapshot ID: `MCwxNmU5NDU3NmRiNWQwZDUwY2Q5M2JhNGNkYWQyMmE5Y2IwNDI2Y2Vm`

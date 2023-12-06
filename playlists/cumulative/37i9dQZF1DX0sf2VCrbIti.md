@@ -4,13 +4,13 @@
 
 > Que no falte la música, la familia y los amigos\. ¡Felices fiestas!
 
-53 songs - 3 hr 41 min
+54 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Pa´ Las 12](https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi) | [Rondalla Y Coro Infantil Suarez](https://open.spotify.com/artist/49T57226vsQSeHWDLAdC6q) | [Ring, Ring Villancicos Navideños Con Rondalla Y Coro Infantil Suarez](https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19) | 3:03 | 2023-12-01 |  |
 | [A Dormir Juntitos \- 2022 Remastered](https://open.spotify.com/track/2HQup8ilMYnrFItOgE3ejB) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Aqui Esperandote \(2022 Remastered\)](https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW) | 4:42 | 2023-11-22 |  |
-| [Aguinaldo Con Billo](https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 74](https://open.spotify.com/album/0GQb89N563CubetrKf5w7F) | 3:12 | 2023-12-01 |  |
+| [Aguinaldo Con Billo](https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 74](https://open.spotify.com/album/0GQb89N563CubetrKf5w7F) | 3:12 | 2023-12-01 | 2023-12-06 |
 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 | 2023-11-22 |  |
 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 | 2023-11-22 |  |
 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 | 2023-11-22 |  |
@@ -38,6 +38,7 @@
 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 | 2023-11-22 |  |
 | [Lloraras](https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Traicionera \(Baile Total\)](https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH) | 3:42 | 2023-11-22 |  |
 | [Lluvia](https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:57 | 2023-11-22 |  |
+| [Los Sabanales 3.0](https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Los Sabanales 3.0](https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt) | 3:08 | 2023-12-01 |  |
 | [Me Enamoro de Ella](https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:17 | 2023-11-22 |  |
 | [Me Gustan las Navidades](https://open.spotify.com/track/6QhNqzWx1iXZoKB8Ww2wEy) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Mejor De Gilberto En La Navidad](https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB) | 4:31 | 2023-11-22 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2023-11-22 |  |

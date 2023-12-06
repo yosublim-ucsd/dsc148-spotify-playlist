@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-391 songs - 1 day 9 hr 11 min
+392 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Deeper Grounds](https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Mahri](https://open.spotify.com/artist/5aB4vV5H1O1zAoI4XLW7IX) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:13 | 2022-11-23 | 2023-11-16 |
 | [Deja Vu](https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk) | [Deja Vu](https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP) | 7:28 | 2022-11-23 | 2022-12-16 |
 | [Desert Sun](https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:17 | 2023-11-24 | 2023-12-01 |
+| [Desert Sun](https://open.spotify.com/track/5ho09ZAulykFu0SOw0IFjn) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciouness Pt\. VI](https://open.spotify.com/album/4ufQcFRJtuzNHDx2Kpjax7) | 5:17 | 2023-11-30 |  |
 | [Desire](https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Desire](https://open.spotify.com/album/1lZ0i3cnudsI42aT08F6fq) | 3:19 | 2023-06-30 | 2023-12-01 |
 | [Destiny](https://open.spotify.com/track/06ZvFjzwcaqJRZbMkfWuaf) | [Meyer](https://open.spotify.com/artist/58VEQXhuWnFPbxlWh79Sr2) | [Hive Mind](https://open.spotify.com/album/1Dm9ruv1lwZJC3tgJgoMVL) | 3:31 | 2022-12-28 | 2023-01-06 |
 | [Devon \- Oliver Huntemann Remix](https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Devon \(Oliver Huntemann Remix\)](https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU) | 6:38 | 2022-11-23 |  |
@@ -388,7 +389,7 @@
 | [Waiting For Too Long](https://open.spotify.com/track/0VsCw4IqlcJ2GeYnQbV5zx) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Soul On Fire](https://open.spotify.com/album/0hhh9oROZpv3RBWY5FI6W4) | 4:30 | 2022-12-06 | 2023-12-01 |
 | [We Are Built \- Jos & Eli Remix](https://open.spotify.com/track/5WGDvD7AaHa8bBC6FjYR5I) | [AÏA](https://open.spotify.com/artist/7hhj3fsLhjXBlv5fQpR78H), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [We Are Built \(Jos & Eli Remix\)](https://open.spotify.com/album/5KfqQ27072aHnMVYm5klWC) | 6:39 | 2022-12-28 | 2023-01-06 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-11-23 | 2022-12-29 |
-| [We've Lost Our Light](https://open.spotify.com/track/1CCGkitAlETDZ1hJMFDAZL) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [We've Lost Our Light](https://open.spotify.com/album/57IQqomUmLnKBx0Dxi10ny) | 6:54 | 2023-11-17 |  |
+| [We've Lost Our Light](https://open.spotify.com/track/1CCGkitAlETDZ1hJMFDAZL) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [We've Lost Our Light](https://open.spotify.com/album/57IQqomUmLnKBx0Dxi10ny) | 6:54 | 2023-11-17 | 2023-12-06 |
 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 | 2023-10-27 |  |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-06-09 | 2023-08-14 |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 4:05 | 2023-08-11 | 2023-12-01 |

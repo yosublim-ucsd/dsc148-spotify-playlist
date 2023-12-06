@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 188400,
+  "num_followers": 188423,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDM1YjM5M2QyM2Y3NjBkNDFmODAzMDM1ZGFiMzhhYmQ4YTA1MGM0",
+  "snapshot_id": "MCxjN2M5NmI1M2EzNjFiYWM3ZjcxYjA4Zjc0NGNkNTk2MGEyN2Y5NTc5",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -303,6 +303,26 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Dissolvi",
+        "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
+      },
+      "artists": [
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 249534,
+      "name": "Saccade",
+      "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Circular Forms",
         "url": "https://open.spotify.com/album/4k4UMY26lPgkQnZKQFoZ6c"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Dissolvi",
-        "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
-      },
-      "artists": [
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 249534,
-      "name": "Saccade",
-      "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Lost Album",
-        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
-      },
-      "artists": [
-        {
-          "name": "58918012",
-          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
-        }
-      ],
-      "duration_ms": 576000,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/7GVde2CNnIc3sdlHHsvxsx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 317683,
       "name": "Dust Circles",
       "url": "https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Lost Album",
+        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
+      },
+      "artists": [
+        {
+          "name": "58918012",
+          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+        }
+      ],
+      "duration_ms": 576000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
-      },
-      "artists": [
-        {
-          "name": "The Last Days of Our Past",
-          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
-        }
-      ],
-      "duration_ms": 291583,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "duration_ms": 291583,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 389681,
       "name": "Water Music",
       "url": "https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Long Stories",
+        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 220557,
+      "name": "One Shy Morning",
+      "url": "https://open.spotify.com/track/2e68tZQs1ZqhHYf60mwlEK"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -903,22 +919,6 @@
       "duration_ms": 207272,
       "name": "A8",
       "url": "https://open.spotify.com/track/3VYyYqDUT9U0tYKRWjQEYU"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Long Stories",
-        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 220557,
-      "name": "One Shy Morning",
-      "url": "https://open.spotify.com/track/2e68tZQs1ZqhHYf60mwlEK"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Surfing On Sine Waves",
-        "url": "https://open.spotify.com/album/4NH9JJ1uy1ls8wlltjTjG7"
-      },
-      "artists": [
-        {
-          "name": "Polygon Window",
-          "url": "https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Quino-Phec",
-      "url": "https://open.spotify.com/track/1vMitMDq7PVpzmHF1bpKLY"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "New Tab",
         "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+        "name": "Surfing On Sine Waves",
+        "url": "https://open.spotify.com/album/4NH9JJ1uy1ls8wlltjTjG7"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Polygon Window",
+          "url": "https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Offing",
-      "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
+      "duration_ms": 283493,
+      "name": "Quino-Phec",
+      "url": "https://open.spotify.com/track/1vMitMDq7PVpzmHF1bpKLY"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1047,6 +1031,22 @@
       "duration_ms": 216892,
       "name": "On a Hilltop Sat the Moon",
       "url": "https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Offing",
+      "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+      },
+      "artists": [
+        {
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
         "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
       },
@@ -1195,6 +1211,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 309448,
+      "name": "September Remember",
+      "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Kwaidan",
         "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
       },
@@ -1211,18 +1243,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+        "name": "You Look Different",
+        "url": "https://open.spotify.com/album/3Af5Z3GlHCmgrW8JQSvT0q"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "Fall Therapy",
+          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
         }
       ],
-      "duration_ms": 309448,
-      "name": "September Remember",
-      "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
+      "duration_ms": 160573,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/1HqAie1eJAVTkKK7ya6SAT"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1247,18 +1279,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Flying to America",
-        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
+        "name": "Repair Techniques",
+        "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
       },
       "artists": [
         {
-          "name": "Marco Parisi",
-          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 468500,
-      "name": "Flying to America",
-      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+      "duration_ms": 232000,
+      "name": "Sugi",
+      "url": "https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1283,6 +1319,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Flying to America",
+        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
+      },
+      "artists": [
+        {
+          "name": "Marco Parisi",
+          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
+        }
+      ],
+      "duration_ms": 468500,
+      "name": "Flying to America",
+      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1295,42 +1347,6 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Repair Techniques",
-        "url": "https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Sugi",
-      "url": "https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "You Look Different",
-        "url": "https://open.spotify.com/album/3Af5Z3GlHCmgrW8JQSvT0q"
-      },
-      "artists": [
-        {
-          "name": "Fall Therapy",
-          "url": "https://open.spotify.com/artist/5ot3LQs7sscKD69efOq37C"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/1HqAie1eJAVTkKK7ya6SAT"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Form//Less",
-        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
-      },
-      "artists": [
-        {
-          "name": "Superposition",
-          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
-        }
-      ],
-      "duration_ms": 234691,
-      "name": "Echo//Radiate",
-      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
       },
@@ -1447,6 +1431,38 @@
       "duration_ms": 278000,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Form//Less",
+        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
+      },
+      "artists": [
+        {
+          "name": "Superposition",
+          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+        }
+      ],
+      "duration_ms": 234691,
+      "name": "Echo//Radiate",
+      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1487,6 +1503,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Shadows (The Light of Light)",
+        "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "Shadows (The Light of Light)",
+      "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "A Cambodian Spring OST",
         "url": "https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD"
       },
@@ -1499,22 +1531,6 @@
       "duration_ms": 205955,
       "name": "Solidarity Theme (Release)",
       "url": "https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
-      },
-      "artists": [
-        {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1613,20 +1629,20 @@
       "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
     },
     {
-      "added_at": "2023-06-07 02:21:46",
+      "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Majestic sapphire island",
-        "url": "https://open.spotify.com/album/2bHP9WEkHSY0evSUpcXI42"
+        "name": "Anoyo",
+        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
       "artists": [
         {
-          "name": "Saphileaum",
-          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Cosmic lake transparency - Original Mix",
-      "url": "https://open.spotify.com/track/4beDadqk2att64FbvO3zvn"
+      "duration_ms": 288802,
+      "name": "Into the void",
+      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1643,22 +1659,6 @@
       "duration_ms": 275500,
       "name": "Bh",
       "url": "https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Anoyo",
-        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 288802,
-      "name": "Into the void",
-      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
     }
   ],
   "unique_name": "Exospheres",

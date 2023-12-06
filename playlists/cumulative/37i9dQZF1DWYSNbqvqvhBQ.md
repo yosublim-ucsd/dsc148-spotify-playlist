@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Lorrèn
 
-321 songs - 18 hr 40 min
+322 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/6vcuJ0lxMSbIZDToFEfyFI) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [All I Ever Wanted](https://open.spotify.com/album/4rQWKrHV9WQL9igdrcpwDT) | 4:18 | 2023-02-23 | 2023-03-25 |
 | [All My Broken Pieces](https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [All My Broken Pieces](https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif) | 4:02 | 2023-10-27 |  |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-17 | 2023-08-25 |
+| [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2023-12-05 |  |
 | [all we got](https://open.spotify.com/track/2PO1NahelfBM15cIqxOMHi) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [all we got](https://open.spotify.com/album/0WZ22z2ZmHhHgGN8qVEXeo) | 2:33 | 2023-02-23 | 2023-03-03 |
 | [Alles Vergeven](https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles Vergeven](https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg) | 2:49 | 2023-06-08 | 2023-10-28 |
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-21 | 2023-09-16 |
@@ -162,7 +163,7 @@
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 | 2023-05-18 | 2023-10-28 |
 | [Just Say Aye](https://open.spotify.com/track/2FUWdMp90MAPCc1zV0CtQd) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Just Say Aye](https://open.spotify.com/album/6aTtPR8tdR33NwAFJg9yyb) | 3:38 | 2023-10-27 |  |
-| [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2023-06-26 |  |
+| [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2023-06-26 | 2023-12-06 |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-03-09 | 2023-06-30 |
 | [Leap Of Faith](https://open.spotify.com/track/01a7LTYpdceGcfRbOI2aN7) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Leap Of Faith](https://open.spotify.com/album/7b8MzBFxoAU3NlJcMAggJc) | 3:26 | 2023-02-23 | 2023-06-23 |
 | [Leave It All To Fate](https://open.spotify.com/track/68nomfdEA770xqEPOIf6nh) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Leave It All To Fate](https://open.spotify.com/album/5tkhKBjpB6xywz9uBLZ3dv) | 3:17 | 2023-10-27 |  |

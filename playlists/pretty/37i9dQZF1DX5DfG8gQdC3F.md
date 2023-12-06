@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from KAYTRANADA & Rochelle Jordan, Beyoncé, Sean Leon & Jessie Reyez, Dove Cameron and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,993 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,016 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 36 | [Hallelujah Heaven \(feat\. Lil Wayne, Buju Banton, and Shabba Ranks\)](https://open.spotify.com/track/5AHVUg4jzRBH9Wb6otHuZM) | [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG) | [Hallelujah Heaven \(feat\. Lil Wayne, Buju Banton, and Shabba Ranks\)](https://open.spotify.com/album/4xPtNT0XRAhrQAxRwkvDHE) | 3:21 |
 | 37 | [get it together !](https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 2:43 |
 | 38 | [I Need It Now](https://open.spotify.com/track/4jrhI63h2RzQpA4PgOAgGe) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [I Need It Now](https://open.spotify.com/album/3QwtmPuPBkUDuwN5ownyUu) | 3:05 |
-| 39 | [Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
+| 39 | [The Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [The Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
 | 40 | [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 |
 | 41 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 |
 | 42 | [Wastin Time](https://open.spotify.com/track/6hpuWbCqRFYWAxCuYDhMev) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Wastin Time](https://open.spotify.com/album/5XcER4wQ8lYFk72OeLHm8q) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Spells and Power Thoughts](https://open.spotify.com/track/1ANBmw9cKZKaEptZpR1R2Y) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Spells and Power Thoughts](https://open.spotify.com/album/3vFjzXDMFfRnhxRUTBN0CY) | 2:47 |
 | 100 | [Cigarettes](https://open.spotify.com/track/7HAD0NBufBMMzWPnwoFc4y) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Cigarettes](https://open.spotify.com/album/0zFyYAPnhb9BZGAfAcyNTx) | 2:49 |
 
-Snapshot ID: `MCw5ZWFjZjRkMWFlNGY5OGFiYjU1MzYyMTQzOGJlZjY1NzgwYzYyNDM1`
+Snapshot ID: `MCw4OWVmNDE5ZGYwODEwMDg0NTQxMjYzNzcyZDdkYzhhMmMyODRlMjU0`

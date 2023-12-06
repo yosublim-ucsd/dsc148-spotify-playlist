@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 34388,
+  "num_followers": 34441,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2YxYjMwNWM2YWJiODUxYjA0ZDUwNDhjMTY1ZWU5MGUyMDU0MWRl",
+  "snapshot_id": "MCw0YTM2NzQxZjQxMzQwMTczOTlhNDc0YWQ5Y2ZmZGMxZTY2ZjFiMGU2",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Helsinki Songs",
-        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
-      },
-      "artists": [
-        {
-          "name": "Trygve Seim",
-          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
-        }
-      ],
-      "duration_ms": 474106,
-      "name": "Helsinki Song",
-      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Fisherman's Wharf",
         "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 229946,
       "name": "Fisherman's Wharf",
       "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Helsinki Songs",
+        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
+      },
+      "artists": [
+        {
+          "name": "Trygve Seim",
+          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
+        }
+      ],
+      "duration_ms": 474106,
+      "name": "Helsinki Song",
+      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "roads",
         "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 286213,
       "name": "roads",
       "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 411640,
+      "name": "Polska Of Despair (1)",
+      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "P\u00e5 havets bunn",
         "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 411640,
-      "name": "Polska Of Despair (1)",
-      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Perfectly Unhappy",
-        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 336533,
-      "name": "Naked Trees",
-      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "The Soundtrack of My Home",
         "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 346333,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Perfectly Unhappy",
+        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 336533,
+      "name": "Naked Trees",
+      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "We Seem to Be Drifting Apart",
         "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 166920,
       "name": "Richter Sonntag",
       "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "The Height of the Reeds",
         "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
       },
@@ -1423,6 +1399,54 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Places To Write",
+        "url": "https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Places To Write",
+      "url": "https://open.spotify.com/track/0awgGcOGbt4vO7vj1hcXq1"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
@@ -1443,6 +1467,22 @@
       "duration_ms": 335320,
       "name": "Rossetti",
       "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 222762,
+      "name": "Honey in Your Head",
+      "url": "https://open.spotify.com/track/0IHTPYEnrSXADbi3XYDNfB"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1487,22 +1527,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Stitches",
-        "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 222762,
-      "name": "Honey in Your Head",
-      "url": "https://open.spotify.com/track/0IHTPYEnrSXADbi3XYDNfB"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Point of View",
         "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
       },
@@ -1531,6 +1555,26 @@
       "duration_ms": 425642,
       "name": "Hjorten i skogen",
       "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Ancient Land, New Territory",
+        "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sj\u00f8vaag",
+          "url": "https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT"
+        },
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        }
+      ],
+      "duration_ms": 459000,
+      "name": "Sacred Rituals",
+      "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1587,26 +1631,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Ancient Land, New Territory",
-        "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
-      },
-      "artists": [
-        {
-          "name": "Jonas Sj\u00f8vaag",
-          "url": "https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT"
-        },
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        }
-      ],
-      "duration_ms": 459000,
-      "name": "Sacred Rituals",
-      "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Kinder Call",
         "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
       },
@@ -1647,30 +1671,6 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Places To Write",
-        "url": "https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC"
-      },
-      "artists": [
-        {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Places To Write",
-      "url": "https://open.spotify.com/track/0awgGcOGbt4vO7vj1hcXq1"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Vejviser",
+        "url": "https://open.spotify.com/album/46IWsNiP4DYe77DZah0VOZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Rosendal",
+          "url": "https://open.spotify.com/artist/2TSWzkrfPFY7ALG36lhGjC"
+        },
+        {
+          "name": "Palle Mikkelborg",
+          "url": "https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy"
+        }
+      ],
+      "duration_ms": 492250,
+      "name": "Alminds\u00f8",
+      "url": "https://open.spotify.com/track/7subIvHLsDFkfoC7FCndOb"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Kingdom of Coldness",
         "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 544093,
       "name": "9",
       "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Vejviser",
-        "url": "https://open.spotify.com/album/46IWsNiP4DYe77DZah0VOZ"
-      },
-      "artists": [
-        {
-          "name": "Peter Rosendal",
-          "url": "https://open.spotify.com/artist/2TSWzkrfPFY7ALG36lhGjC"
-        },
-        {
-          "name": "Palle Mikkelborg",
-          "url": "https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy"
-        }
-      ],
-      "duration_ms": 492250,
-      "name": "Alminds\u00f8",
-      "url": "https://open.spotify.com/track/7subIvHLsDFkfoC7FCndOb"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1931,18 +1931,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Kautokeino Undercover",
-        "url": "https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB"
+        "name": "Sun Blowing",
+        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
       },
       "artists": [
         {
-          "name": "H\u00e5vard Stub\u00f8 Quartet",
-          "url": "https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd"
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
         }
       ],
-      "duration_ms": 388800,
-      "name": "Blodspredikan",
-      "url": "https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP"
+      "duration_ms": 263047,
+      "name": "Evening Song for B",
+      "url": "https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc"
     }
   ],
   "unique_name": "Nordic Jazz",

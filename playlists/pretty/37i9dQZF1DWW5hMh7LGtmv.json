@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 36218,
+  "num_followers": 36214,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjZiNDY1ZWQ1YTdiNzMwMzQ3NzkwYTQxYWU2ZWQyYTdmZDE0ZTgz",
+  "snapshot_id": "MCwyOWU2OTQ0MmExZjAxOTMwMDE3MDJiNTNmZWM3YTc2OTQ0NmJlYzc0",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "A Little Less Conversation: Elvis vs JXL",
-        "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "A Little Less Conversation - JXL Radio Edit Remix",
-      "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "Spectrum (Say My Name) EP",
         "url": "https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 218190,
       "name": "Spectrum (Say My Name) - Calvin Harris Remix",
       "url": "https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "A Little Less Conversation: Elvis vs JXL",
+        "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "A Little Less Conversation - JXL Radio Edit Remix",
+      "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
     },
     {
       "added_at": "2023-02-28 16:56:35",

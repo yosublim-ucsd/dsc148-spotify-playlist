@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 101826,
+  "num_followers": 101898,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWE0OGU2N2NiYzU1N2E3NTA3NTBiNjBhNzAzOTM5MmMyNTE3YWQ5",
+  "snapshot_id": "MCw0OTA0ZjczYzM1OTk0MmRlNDllODhlN2FhZGQ3NTFhYTc1ZDg1OGFh",
   "tracks": [
     {
       "added_at": "2023-10-06 07:11:21",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "Extraordinary",
-        "url": "https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
-        }
-      ],
-      "duration_ms": 241983,
-      "name": "Extraordinary",
-      "url": "https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
         "url": "https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 178909,
       "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
       "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "Extraordinary",
+        "url": "https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "duration_ms": 241983,
+      "name": "Extraordinary",
+      "url": "https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e40\u0e21\u0e30",
-        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
-      },
-      "artists": [
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e21\u0e30",
-      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 255957,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President]",
       "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e40\u0e21\u0e30",
+        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e21\u0e30",
+      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
+        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
+        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
+      },
+      "artists": [
+        {
+          "name": "Palmy",
+          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "duration_ms": 207705,
+      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
         "url": "https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB"
       },
@@ -755,6 +771,22 @@
       "duration_ms": 192615,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
       "url": "https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -779,22 +811,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
         "url": "https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 176808,
       "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
       "url": "https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
-        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
-      },
-      "artists": [
-        {
-          "name": "Palmy",
-          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
-        }
-      ],
-      "duration_ms": 207705,
-      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e0a\u0e38\u0e14\u0e40\u0e25\u0e47\u0e01",
-        "url": "https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5"
-      },
-      "artists": [
-        {
-          "name": "SCRUBB",
-          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "\u0e40\u0e18\u0e2d\u0e2b\u0e21\u0e38\u0e19\u0e23\u0e2d\u0e1a\u0e09\u0e31\u0e19 \u0e09\u0e31\u0e19\u0e2b\u0e21\u0e38\u0e19\u0e23\u0e2d\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
         "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 198787,
       "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e0a\u0e38\u0e14\u0e40\u0e25\u0e47\u0e01",
+        "url": "https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "\u0e40\u0e18\u0e2d\u0e2b\u0e21\u0e38\u0e19\u0e23\u0e2d\u0e1a\u0e09\u0e31\u0e19 \u0e09\u0e31\u0e19\u0e2b\u0e21\u0e38\u0e19\u0e23\u0e2d\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1283,22 +1283,6 @@
       "duration_ms": 216162,
       "name": "\u0e2b\u0e27\u0e07(You're Mine)",
       "url": "https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
-      },
-      "artists": [
-        {
-          "name": "SCRUBB",
-          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
-      "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1363,6 +1347,22 @@
       "duration_ms": 282000,
       "name": "\u0e08\u0e39\u0e1a",
       "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
+      "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
-        "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
-      },
-      "artists": [
-        {
-          "name": "PRETZELLE",
-          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
-        }
-      ],
-      "duration_ms": 246935,
-      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
-      "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e01\u0e2d\u0e14\u0e43\u0e19\u0e43\u0e08",
         "url": "https://open.spotify.com/album/6cjIQVmyudC1FZ1xNnMQai"
       },
@@ -1567,22 +1551,18 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e40\u0e2d\u0e34\u0e4a\u0e15 \u0e20\u0e31\u0e17\u0e23\u0e27\u0e35 (New Single 2014)",
-        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
+        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
+        "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
       },
       "artists": [
         {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
-        },
-        {
-          "name": "Ammy The Bottom Blues",
-          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
         }
       ],
-      "duration_ms": 220613,
-      "name": "YOU YOU YOU",
-      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
+      "duration_ms": 246935,
+      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
+      "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1599,6 +1579,26 @@
       "duration_ms": 198979,
       "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d - AirTag",
       "url": "https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e40\u0e2d\u0e34\u0e4a\u0e15 \u0e20\u0e31\u0e17\u0e23\u0e27\u0e35 (New Single 2014)",
+        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        },
+        {
+          "name": "Ammy The Bottom Blues",
+          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "YOU YOU YOU",
+      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1671,18 +1671,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
-        "url": "https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF"
+        "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
+        "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
       },
       "artists": [
         {
-          "name": "Mai Davika",
-          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
         }
       ],
-      "duration_ms": 192559,
-      "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
-      "url": "https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb"
+      "duration_ms": 175151,
+      "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
+      "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

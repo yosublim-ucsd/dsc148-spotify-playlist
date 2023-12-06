@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1777097,
+  "num_followers": 1777171,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjIwZmZjNWQ5ZTNjOGVkOTc3ZWU5OWQ2N2NmMTY5NTM4NTQxNDA5",
+  "snapshot_id": "MCxjZmI2NTI0NzAwMjg3NGMyOTA1NTE3M2RmMTBlMDgyZDI1ZmYzZDVm",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Feathers & Fishhooks",
-        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The Boy Who Never",
         "url": "https://open.spotify.com/album/1fFFfcxhKi0kSPhm8kdOuf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 244986,
       "name": "Falling in Love at a Coffee Shop",
       "url": "https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Feathers & Fishhooks",
+        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "I'd Have to Think About It",
+        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 150141,
+      "name": "I'd Have to Think About It",
+      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 218502,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 150141,
-      "name": "I'd Have to Think About It",
-      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/1l7efW8h9JlIqxC7BNqgYF"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Wind & Anchor",
-      "url": "https://open.spotify.com/track/5FGJDxlf3t34Qfb3l9oliE"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Flight of the Crow",
         "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+        "name": "Young",
+        "url": "https://open.spotify.com/album/1l7efW8h9JlIqxC7BNqgYF"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+      "duration_ms": 188493,
+      "name": "Wind & Anchor",
+      "url": "https://open.spotify.com/track/5FGJDxlf3t34Qfb3l9oliE"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 180419,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 269595,
-      "name": "My Lover",
-      "url": "https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 207936,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 269595,
+      "name": "My Lover",
+      "url": "https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H"
     },
     {
       "added_at": "2023-09-22 04:00:00",

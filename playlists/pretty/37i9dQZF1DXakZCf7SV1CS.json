@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 69254,
+  "num_followers": 69388,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjg2NGMxNWM5YTI2YzRkNWE3ZTlhZmQ0ZTBkZDM0YWIyOTQ5OTZi",
+  "snapshot_id": "MCw2MTgxOWZmNGFkNGJkODNlN2FkZDBhZDJkYmVmZDYyYzljODYwMThl",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Visored Vitality",
-        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Butterfly Bankai",
-      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Whatuworried4?",
         "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 155506,
       "name": "Whatuworried4?",
       "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Visored Vitality",
+        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Butterfly Bankai",
+      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "FREAK",
         "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "My Agenda",
-        "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
       },
       "artists": [
         {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
         }
       ],
-      "duration_ms": 87293,
-      "name": "Sorry Bro (I Love You)",
-      "url": "https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC"
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1279,6 +1263,22 @@
       "duration_ms": 256000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "My Agenda",
+        "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 87293,
+      "name": "Sorry Bro (I Love You)",
+      "url": "https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC"
     },
     {
       "added_at": "2023-04-27 17:13:18",

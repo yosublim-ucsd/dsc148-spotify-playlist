@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 66368,
+  "num_followers": 66386,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDFjYTY4NGNiYTNjM2UwNmFjMjRmNzY5MDI1NTI5NGYyOTA0MjUw",
+  "snapshot_id": "MCxjYjQ4Y2JjMzAxNmNmMzUxZDU1MTk5M2UzNGYyMTdlZjY5ZDg5YzRj",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -671,18 +671,26 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Los Numero 1 Bachata y Merengue Tipico",
-        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
+        "name": "Merengues Con el Alma",
+        "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
       },
       "artists": [
         {
-          "name": "El Cieguito De Nagua",
-          "url": "https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU"
+          "name": "Trio Reynoso",
+          "url": "https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q"
+        },
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        },
+        {
+          "name": "Miguel Santana",
+          "url": "https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ"
         }
       ],
-      "duration_ms": 278373,
-      "name": "El Diente de Oro",
-      "url": "https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO"
+      "duration_ms": 151044,
+      "name": "Juanita Morel",
+      "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -707,26 +715,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Merengues Con el Alma",
-        "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
+        "name": "Los Numero 1 Bachata y Merengue Tipico",
+        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
       "artists": [
         {
-          "name": "Trio Reynoso",
-          "url": "https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q"
-        },
-        {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
-        },
-        {
-          "name": "Miguel Santana",
-          "url": "https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ"
+          "name": "El Cieguito De Nagua",
+          "url": "https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU"
         }
       ],
-      "duration_ms": 151044,
-      "name": "Juanita Morel",
-      "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
+      "duration_ms": 278373,
+      "name": "El Diente de Oro",
+      "url": "https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO"
     },
     {
       "added_at": "2019-09-09 17:49:24",

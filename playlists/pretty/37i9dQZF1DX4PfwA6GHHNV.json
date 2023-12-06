@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 13691,
+  "num_followers": 13714,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTdmMGM0MjYwNmE3ZDk0MWI4N2U0ZGQwNzIyYzY1ZDVjN2YyNDU1",
+  "snapshot_id": "MCxhNTRjOGI4MWQzMzk5YjdhMTEwYmVmNTRlMGM1OTExMjc1N2JkMTRl",
   "tracks": [
     {
       "added_at": "2023-12-01 03:01:00",
@@ -42,6 +42,10 @@
         {
           "name": "Don L",
           "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luiza De Alexandre",
+          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
         }
       ],
       "duration_ms": 185328,
@@ -179,42 +183,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
-      },
-      "artists": [
-        {
-          "name": "Kota Manda",
-          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        },
-        {
-          "name": "Erick Lobato",
-          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
-        },
-        {
-          "name": "Vittau",
-          "url": "https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8"
-        },
-        {
-          "name": "TOCS",
-          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "A Volta Do Astro-Rei",
         "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
       },
@@ -255,6 +223,42 @@
       "duration_ms": 127627,
       "name": "Causa",
       "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
+      },
+      "artists": [
+        {
+          "name": "Kota Manda",
+          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Erick Lobato",
+          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
+        },
+        {
+          "name": "Vittau",
+          "url": "https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8"
+        },
+        {
+          "name": "TOCS",
+          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -323,6 +327,30 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
+        "name": "Amor que vem e vai",
+        "url": "https://open.spotify.com/album/1npfnNdXSspeEQpYhIe8RO"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Mc Maha",
+          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Amor que vem e vai",
+      "url": "https://open.spotify.com/track/2kloAyMQNjdswvFFMKNYAR"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
       },
@@ -387,30 +415,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Amor que vem e vai",
-        "url": "https://open.spotify.com/album/1npfnNdXSspeEQpYhIe8RO"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Mc Maha",
-          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Amor que vem e vai",
-      "url": "https://open.spotify.com/track/2kloAyMQNjdswvFFMKNYAR"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "Xona",
         "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
       },
@@ -451,26 +455,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "Quando C\u00ea Volta?",
         "url": "https://open.spotify.com/album/18AkwFaynQyWDnHXRy9IWu"
       },
@@ -487,6 +471,26 @@
       "duration_ms": 125000,
       "name": "Quando C\u00ea Volta?",
       "url": "https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Quando c\u00ea vem",
-        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+        "name": "Ressaca",
+        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Quando c\u00ea vem",
-      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+      "duration_ms": 238500,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -627,24 +627,28 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Ressaca",
-        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
       },
       "artists": [
         {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
     },
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Te Vejo Mais Tarde",
-        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
+        "name": "Que Cal\u00f4",
+        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
       },
       "artists": [
         {
@@ -654,15 +658,11 @@
         {
           "name": "Yumee",
           "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "\u00c9ffe",
-          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
         }
       ],
-      "duration_ms": 114117,
-      "name": "Te Vejo Mais Tarde",
-      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
+      "duration_ms": 180512,
+      "name": "Que Cal\u00f4",
+      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 220389,
       "name": "Lembra?",
       "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -791,8 +791,8 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Enquanto o tempo passa",
-        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
+        "name": "Te Vejo Mais Tarde",
+        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
       },
       "artists": [
         {
@@ -800,13 +800,17 @@
           "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
         }
       ],
-      "duration_ms": 131320,
-      "name": "Enquanto o tempo passa",
-      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
+      "duration_ms": 114117,
+      "name": "Te Vejo Mais Tarde",
+      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -967,6 +971,42 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
+        "name": "TRI \u00c2NGULOS",
+        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
+      },
+      "artists": [
+        {
+          "name": "Lell\u00ea",
+          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
+        }
+      ],
+      "duration_ms": 119874,
+      "name": "PEGADA DE CRIA",
+      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Enquanto o tempo passa",
+        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "Enquanto o tempo passa",
+      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
         "name": "Anel da Pandora",
         "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
@@ -983,42 +1023,6 @@
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
-        "name": "Que Cal\u00f4",
-        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 180512,
-      "name": "Que Cal\u00f4",
-      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
-        "name": "TRI \u00c2NGULOS",
-        "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
-      },
-      "artists": [
-        {
-          "name": "Lell\u00ea",
-          "url": "https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY"
-        }
-      ],
-      "duration_ms": 119874,
-      "name": "PEGADA DE CRIA",
-      "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
     },
     {
       "added_at": "2023-12-01 03:01:00",

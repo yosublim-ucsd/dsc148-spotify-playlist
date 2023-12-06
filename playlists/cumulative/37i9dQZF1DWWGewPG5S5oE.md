@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Answer to Remember
 
-236 songs - 19 hr 7 min
+237 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All I Want](https://open.spotify.com/track/5dQBgiQpBL3OUog4yJiWnz) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [All I Want](https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY) | 4:54 | 2022-10-11 | 2022-11-16 |
 | [All The Things You Are](https://open.spotify.com/track/1HObIEY8XDGgNjSTGJxMV0) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [All The Things You Are](https://open.spotify.com/album/3XLtciMbAUrvX4EiFwcCe9) | 2:35 | 2022-10-04 | 2022-10-19 |
 | [And we'll keep on going](https://open.spotify.com/track/0lGNdeRWLqaMgiaRgbRiKW) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [The Moon, Its Recollections Abstracted](https://open.spotify.com/album/0rqPzyBcDq8xO4UCn0gIw8) | 9:49 | 2022-10-18 | 2022-11-16 |
+| [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 | 2023-12-05 |  |
 | [Back Street](https://open.spotify.com/track/4Oq8hpl6suohYPKLjFwzkd) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Unison](https://open.spotify.com/album/4Wz2lJawGFjMLwb9R0yWAE) | 8:21 | 2023-01-24 | 2023-02-17 |
 | [BAKKI BAKI](https://open.spotify.com/track/5S7qQI8RiZU4LvnACoOUip) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [Chaos](https://open.spotify.com/album/0lsnWYZZxrgwRhdFzdfu7c) | 4:42 | 2023-11-29 |  |
 | [Baum](https://open.spotify.com/track/0b8l7Ztw9mIJ4a0Ux7f6Xg) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Baum](https://open.spotify.com/album/3vsv6V67g4nSAqwaZmAXIO) | 4:12 | 2023-01-24 | 2023-02-22 |
@@ -162,7 +163,7 @@
 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 | 2023-08-25 | 2023-09-24 |
 | [Spain](https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [Spain](https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE) | 5:11 | 2022-10-04 | 2022-11-16 |
 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 |  |
-| [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 |  |
+| [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 | 2023-12-06 |
 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 | 2022-09-06 | 2023-08-17 |
 | [Stella by Starlight](https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Stella by Starlight](https://open.spotify.com/album/6iWNzs9A3kdLxipIOnx9Fv) | 4:38 | 2022-09-06 | 2022-10-05 |
 | [Stella's Cough](https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr) | [Senri Oe](https://open.spotify.com/artist/41DTvjqwAz1jgZCAZ6KTJG) | [Stella's Cough](https://open.spotify.com/album/3hX312ymuWRcEqmb4GNhWc) | 3:42 | 2023-05-23 |  |
@@ -221,7 +222,7 @@
 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 | 2023-01-10 |  |
 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 | 2022-09-06 |  |
 | [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 | 2022-11-15 | 2022-12-14 |
-| [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 |  |
+| [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 | 2023-12-06 |
 | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/track/68Kxl8innv2zWN3epatGk9) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/album/3Ykac9AA0n5R2QiodHXmxq) | 5:12 | 2022-09-27 | 2022-10-26 |
 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 | 2022-09-06 | 2023-01-11 |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-13 | 2022-10-19 |
@@ -234,7 +235,7 @@
 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 | 2023-01-03 | 2023-02-18 |
 | [恋の予感 \- The Handoors version](https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love / 恋の予感 \(The Handoors version\)](https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV) | 4:38 | 2023-06-06 | 2023-08-23 |
 | [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 | 2023-07-25 | 2023-07-27 |
-| [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 | 2022-09-06 | 2023-12-05 |
+| [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 | 2022-09-06 |  |
 | [本日は晴天](https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [本日は晴天](https://open.spotify.com/album/1TsDnMjGiFpnOBa6h9ectt) | 4:18 | 2023-03-07 | 2023-03-29 |
 | [東京ブギウギ \- JUNK BOOGIE](https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW) | [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [TOKYO JUNK BOOGIE](https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM) | 3:20 | 2023-04-18 | 2023-06-09 |
 | [架空都市](https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [架空都市](https://open.spotify.com/album/4gk9e4b1F40Gv5Vmkjj5ix) | 2:48 | 2023-08-01 | 2023-09-16 |

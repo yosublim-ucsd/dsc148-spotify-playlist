@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-202 songs - 10 hr 48 min
+203 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 | 2021-12-21 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Mary's Boy Child](https://open.spotify.com/album/5e0Z0zZAOlCB8u8RiXklfR) | 2:06 | 2022-11-17 | 2022-12-03 |
 | [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 | 2022-11-25 | 2023-12-04 |
+| [Mary's Boy Child](https://open.spotify.com/track/7HuThzVZqpdfCSGZAfZbiS) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/7M4BN6Gb0ny9GvML8AiH6W) | 2:06 | 2023-11-28 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 | 2022-01-03 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/6koO2ZIVo02KlCcsWonkxj) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Dinner Party](https://open.spotify.com/album/3DHkMDDJ9idaUq5yQVyg0y) | 3:25 | 2022-11-10 | 2022-11-13 |
 | [Merry Christmas Baby](https://open.spotify.com/track/3tbH5WsNoiK1pC95Nd8kWw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Jazz Millennium Collection Vol\. 1 Eco](https://open.spotify.com/album/64tZFVp68PJouG0p03ZcJy) | 3:25 | 2021-12-21 | 2022-07-29 |
@@ -152,7 +153,7 @@
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2021-12-21 |  |
 | [Santa Claus Blues](https://open.spotify.com/track/2UlYU8FYRi8ejPfPbGs2pH) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Traditionalism Revisited](https://open.spotify.com/album/2iL2VCxjoVWAtpkKpTOGrI) | 5:45 | 2021-12-21 | 2022-07-29 |
 | [Santa Claus Blues](https://open.spotify.com/track/3IjmfuextKl0TMhVg5Pbew) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Instrumental Christmas Jazz](https://open.spotify.com/album/2XsJGD10sxEKihxd56pUUC) | 5:45 | 2022-11-10 | 2022-11-13 |
-| [Santa Claus Blues \- 2004 \- Remaster](https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3) | 5:46 | 2022-09-27 |  |
+| [Santa Claus Blues \- 2004 \- Remaster](https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3) | 5:46 | 2022-09-27 | 2023-12-06 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 | 2021-12-21 |  |
 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 | 2023-10-20 |  |
 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 | 2023-11-10 |  |

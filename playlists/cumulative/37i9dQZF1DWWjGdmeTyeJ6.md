@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from independent, developing artists around the world this year\. Cover: Searows
 
-5,419 songs - 12 day 7 hr 8 min
+5,420 songs - 12 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,6 +1228,7 @@
 | [diamonds](https://open.spotify.com/track/4QOdx9SyiOUBgn6J9fI9uR) | [MIXIE](https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij) | [diamonds](https://open.spotify.com/album/3OTFQ2KPvfh6QvBRW5WyYi) | 2:50 | 2023-01-11 | 2023-01-19 |
 | [Diamonds 'n' Pearls](https://open.spotify.com/track/22HvnAXszGc2IlIEkdNd76) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Diamonds 'n' Pearls](https://open.spotify.com/album/0UOWxAhlrrDokg0r3mRCYn) | 3:13 | 2023-10-04 | 2023-11-09 |
 | [dibulla](https://open.spotify.com/track/5miMPcGAPNPxWci5xsMYbY) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [dibulla](https://open.spotify.com/album/33ybsOaYfk0o0tv41R8cvm) | 3:07 | 2023-06-07 | 2023-06-15 |
+| [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 | 2023-11-29 |  |
 | [dickhead blues](https://open.spotify.com/track/0b1MDxh1MD1dwHs3nczuW7) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [dickhead blues / brain](https://open.spotify.com/album/27VaG4zOTs26E4CavIht7R) | 5:25 | 2023-01-25 | 2023-02-02 |
 | [Didn't Even Date](https://open.spotify.com/track/4yY44mYiqcLwDkAExtO8xq) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Didn't Even Date](https://open.spotify.com/album/1PGzwQdcwFZq4mxpJQ2wH9) | 3:07 | 2022-06-08 | 2022-06-16 |
 | [Didn't Wanna Settle Down](https://open.spotify.com/track/4CTG5JqMiVZ10nNBucvLX7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Didn't Wanna Settle Down](https://open.spotify.com/album/3OeuZjVa0OazEv49zQbd5H) | 2:58 | 2023-03-15 | 2023-03-23 |
@@ -4588,7 +4589,7 @@
 | [Sunshine](https://open.spotify.com/track/08WoFlGwyAB7ckXoJPDoqY) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 3:00 | 2022-03-16 | 2022-03-24 |
 | [Sunshine Roams](https://open.spotify.com/track/0GHZOdTKBL7fQmjxErlIk7) | [MoonBee](https://open.spotify.com/artist/2lpThELNjySTGNx4CmkyqH) | [Sunshine Roams](https://open.spotify.com/album/00lDuonqVhC4Bt8ZPTBh4o) | 3:36 | 2023-04-26 | 2023-05-04 |
 | [Sunup Swale](https://open.spotify.com/track/29pG0oXVCY1Q7fijAw2VLu) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p) | 8:20 | 2022-06-08 | 2022-06-16 |
-| [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-11-29 |  |
+| [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-11-29 | 2023-12-06 |
 | [super 8](https://open.spotify.com/track/4Exb0V85Rarw8Fk196x2sS) | [Jack Price](https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh) | [super 8](https://open.spotify.com/album/7DPrCyq7eeLL7WJD64QyaJ) | 2:47 | 2022-03-16 | 2022-03-24 |
 | [Super Mall Mannequin](https://open.spotify.com/track/4IaTh1fIDJ7NYjbK85sIYQ) | [Quotes From Movies](https://open.spotify.com/artist/5WR0cJ1JElYsi0mmC7AJ4t) | [Super Mall Mannequin](https://open.spotify.com/album/0LYUDQdolDvnzps2eaKVCv) | 3:20 | 2023-05-17 | 2023-05-24 |
 | [Super Power](https://open.spotify.com/track/5CFuOXsqU9nUqIc0JRvcKt) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Super Power](https://open.spotify.com/album/2CSQKjFjpulrQety6WQncn) | 2:48 | 2022-08-03 | 2022-08-11 |

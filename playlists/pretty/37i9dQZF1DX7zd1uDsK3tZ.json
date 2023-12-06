@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
-  "num_followers": 136617,
+  "num_followers": 136691,
   "original_name": "Sunday Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGVkYzlkMmQyNDY3ODZkNWQ3YmYyYWVlODdmNmVkOTVlZGFjYmIx",
+  "snapshot_id": "MCxkMThkYjM5YzIyNmQ1MjZiOGUyZGVhMWJjYzgzZTQ1ZDU2NGNmZjUz",
   "tracks": [
     {
       "added_at": "2023-11-27 18:22:22",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-11-27 18:22:22",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2023-11-27 18:22:22",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2023-11-27 18:22:22",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2023-11-27 18:22:22",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-27 18:22:22",
       "album": {
-        "name": "Partners In Crime",
-        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
-      },
-      "artists": [
-        {
-          "name": "Rupert Holmes",
-          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
-        }
-      ],
-      "duration_ms": 276493,
-      "name": "Escape (The Pina Colada Song)",
-      "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
-    },
-    {
-      "added_at": "2023-11-27 18:22:22",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 264906,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2023-11-27 18:22:22",
+      "album": {
+        "name": "Partners In Crime",
+        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
+      },
+      "artists": [
+        {
+          "name": "Rupert Holmes",
+          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Escape (The Pina Colada Song)",
+      "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
     },
     {
       "added_at": "2023-11-27 18:22:22",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-27 18:22:22",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2023-11-27 18:22:22",
-      "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
+    },
+    {
+      "added_at": "2023-11-27 18:22:22",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2023-11-27 18:22:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-27 18:22:22",
       "album": {
-        "name": "Station to Station (2016 Remaster)",
-        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 243280,
-      "name": "Golden Years - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
-    },
-    {
-      "added_at": "2023-11-27 18:22:22",
-      "album": {
         "name": "Peter Gabriel 1: Car (Remastered Version)",
         "url": "https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 261440,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2"
+    },
+    {
+      "added_at": "2023-11-27 18:22:22",
+      "album": {
+        "name": "Station to Station (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Golden Years - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
     },
     {
       "added_at": "2023-11-27 18:22:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-27 18:22:22",
       "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 184381,
-      "name": "Sound and Vision - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
-    },
-    {
-      "added_at": "2023-11-27 18:22:22",
-      "album": {
         "name": "The 35th Anniversary Collection",
         "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2023-11-27 18:22:22",
+      "album": {
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/44tcGfOAI8iZc1U5BAgLkT"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
     }
   ],
   "unique_name": "Sunday Brunch",

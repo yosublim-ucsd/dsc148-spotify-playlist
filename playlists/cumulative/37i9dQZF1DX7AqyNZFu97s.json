@@ -16224,10 +16224,28 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 215047,
       "name": "Move On",
       "url": "https://open.spotify.com/track/2YyKmRpwrWV5QdwMnT1zKK"
+    },
+    {
+      "album": {
+        "name": "Why Does Love Mean Loss?",
+        "url": "https://open.spotify.com/album/0hDlGqJF59ElVLFAy6lnsa"
+      },
+      "artists": [
+        {
+          "name": "Slaney Bay",
+          "url": "https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215047,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/5hXJUml2Mz25mnhOXg4aa1"
     },
     {
       "album": {

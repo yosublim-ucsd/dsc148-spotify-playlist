@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-561 songs - 1 day 5 hr 23 min
+562 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,7 +552,8 @@
 | [Winter Wonderland](https://open.spotify.com/track/0mEVR7fOrIeOtLXP1DLuAx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Winter Wonderland](https://open.spotify.com/album/1X8tQ76K8lWa5hC5Ebtpek) | 2:31 | 2021-12-24 | 2022-09-28 |
 | [Winter Wonderland](https://open.spotify.com/track/7JcqcXp9HkwWtx0WBWZVXp) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Winter Wonderland](https://open.spotify.com/album/7N03SyRGWWL1rEIMb8vXma) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-17 |  |
-| [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-12-01 |  |
+| [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 | 2023-12-01 |  |
+| [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-12-01 | 2023-12-06 |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2021-12-24 | 2022-09-28 |
 | [Wishlist](https://open.spotify.com/track/6VLmJP1iksTWbIpGZEgeGO) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Wishlist](https://open.spotify.com/album/5uOhXFE41n9hQl5da4DSIa) | 2:34 | 2021-12-24 | 2022-09-28 |
 | [Wonderful Christmas Time](https://open.spotify.com/track/1pl2HnUTBBIPS1GgvHiAuI) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [California Holiday](https://open.spotify.com/album/6wN9cmfRgd4drnRvhuKRTT) | 2:36 | 2022-12-02 | 2023-10-10 |

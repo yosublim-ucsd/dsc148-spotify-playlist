@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1433989,
+  "num_followers": 1434208,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTk1MGQwOTc2OTIwMGZjNDE0Mjk1MjA1MTBmOGE5Nzc5ZTM5NDFh",
+  "snapshot_id": "MCwxY2EzZDg3N2U0Mjk4ZWI0MGY2MWE0Njk4M2IwOWU5MDhjYWI4YTE1",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "For An Angel",
-        "url": "https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        }
-      ],
-      "duration_ms": 233243,
-      "name": "For An Angel - PVD Angel In Heaven Radio Edit",
-      "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "I Am the Club Rocker",
         "url": "https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 224531,
       "name": "Sun Is Up",
       "url": "https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "For An Angel",
+        "url": "https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "duration_ms": 233243,
+      "name": "For An Angel - PVD Angel In Heaven Radio Edit",
+      "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Headliners",
+        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Castles In The Sky",
         "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
       },
@@ -443,6 +459,22 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky - Radio Mix",
       "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -467,38 +499,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Heartbroken",
-        "url": "https://open.spotify.com/album/5zS1u2oihFYN3jXgKh5lAC"
-      },
-      "artists": [
-        {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Heartbroken - Edit",
-      "url": "https://open.spotify.com/track/5Yaw45Q7W0irDbTVN5LOVs"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/5zS1u2oihFYN3jXgKh5lAC"
       },
       "artists": [
         {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
         }
       ],
-      "duration_ms": 219618,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
-      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
+      "duration_ms": 178613,
+      "name": "Heartbroken - Edit",
+      "url": "https://open.spotify.com/track/5Yaw45Q7W0irDbTVN5LOVs"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -551,6 +547,26 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 219618,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
+      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -595,6 +611,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
         "url": "https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F"
       },
@@ -611,22 +643,6 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Asher D",
-          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Ready Steady Go - Extended Mix",
-      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Missing (Remixes)",
         "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 233160,
       "name": "Missing - Todd Terry Remix Radio Edit",
       "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Asher D",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Ready Steady Go - Extended Mix",
+      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "75, Brazil Street (Nicola Fasano Vs Pat-Rich)",
-        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
-      },
-      "artists": [
-        {
-          "name": "Nicola Fasano",
-          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
-        },
-        {
-          "name": "Pat-Rich",
-          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "75, Brazil Street (Radio Mix) - Nicola Fasano Vs Pat-Rich",
-      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "75, Brazil Street (Nicola Fasano Vs Pat-Rich)",
+        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
+      },
+      "artists": [
+        {
+          "name": "Nicola Fasano",
+          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
+        },
+        {
+          "name": "Pat-Rich",
+          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "75, Brazil Street (Radio Mix) - Nicola Fasano Vs Pat-Rich",
+      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Take Me Away (Into the Night)",
+        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 235866,
       "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
       "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Take Me Away (Into the Night)",
-        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4x5Y9ORUjOQs5JZk2uJ9bN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Everything (feat. Myah)",
         "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
       },
@@ -1911,6 +1895,38 @@
       "duration_ms": 228986,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 292160,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4x5Y9ORUjOQs5JZk2uJ9bN"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1939,22 +1955,6 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",

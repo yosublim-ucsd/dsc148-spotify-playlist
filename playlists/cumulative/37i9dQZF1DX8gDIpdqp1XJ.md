@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-916 songs - 2 day 12 hr 1 min
+917 songs - 2 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 | 2022-07-22 | 2023-03-07 |
 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 | 2023-03-10 | 2023-11-18 |
 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 | 2023-04-09 |
-| [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/track/1u87YKsVkulCvckDBtTfqv) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/album/0htTLQYeJhBADpJ0oQ8m8X) | 5:33 | 2023-12-01 |  |
+| [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/track/1u87YKsVkulCvckDBtTfqv) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/album/0htTLQYeJhBADpJ0oQ8m8X) | 5:33 | 2023-12-01 | 2023-12-06 |
+| [Gamma Rays \- Sean Ono Lennon Remix](https://open.spotify.com/track/1i2n0psXd2lqsDsAmw6Y0I) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [Gamma Rays \(Sean Ono Lennon Remix\)](https://open.spotify.com/album/3Bmc00a8kML8raVySQcVTJ) | 5:33 | 2023-12-01 |  |
 | [Gave U My Love](https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 1:38 | 2023-09-25 |  |
 | [Gay Days \- Bonus Track](https://open.spotify.com/track/0ooYPyv6xa8EZYbigLcsAo) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Gay Days](https://open.spotify.com/album/5lQfWYN9oYdYFMakRSk8UA) | 3:30 | 2023-06-30 | 2023-09-30 |
 | [Gelin Halayı](https://open.spotify.com/track/3f5tPuiyvrq4zTw4brN3pM) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Gelin Halayı / Dıv Dıv](https://open.spotify.com/album/6F8gxHLYlI7U6A2l5K1nxN) | 3:17 | 2021-04-02 | 2022-04-21 |

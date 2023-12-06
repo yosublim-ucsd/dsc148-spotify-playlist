@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Tee Grizzley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,075 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,585 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 35 | [Catch A B](https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Catch A B](https://open.spotify.com/album/02GqHGLaoX1mKGypdJP2VW) | 2:13 |
 | 36 | [Punch Me in Again](https://open.spotify.com/track/7w9ev8Fmx4KJEP6VDivXVb) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Punch Me in Again](https://open.spotify.com/album/7nWheo1f7seLXOWBGxqnDL) | 1:56 |
 | 37 | [She Legit](https://open.spotify.com/track/59fW5x3glsGiYADid8Dazy) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [She Legit](https://open.spotify.com/album/7n9yvNfZSxmDZj0Eu8O48g) | 1:45 |
-| 38 | [One Thing](https://open.spotify.com/track/4lph0PrafgGuJYROcnktQk) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:08 |
+| 38 | [One Thing ft\. Lil Double 0](https://open.spotify.com/track/4lph0PrafgGuJYROcnktQk) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Super Wizz](https://open.spotify.com/album/5oDaFXMXc1SFwlUb4vZrZR) | 3:08 |
 | 39 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
 | 40 | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/track/6McVbBFuyOF532MX7Mc1zm) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/album/5OMKyOOGz3VVJKIzLs1XFP) | 2:27 |
 | 41 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 |

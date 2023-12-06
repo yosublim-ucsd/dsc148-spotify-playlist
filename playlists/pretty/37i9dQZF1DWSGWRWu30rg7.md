@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Jasmine Nadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,703 likes - 56 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,707 likes - 56 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 55 | [Sejuta Miliar Dunia](https://open.spotify.com/track/2WqJ37P5GBXLXRkI2wLwZo) | [Sheemar](https://open.spotify.com/artist/39ALTxB78V8iEZbk5Q7D7h), [Melanie Putria](https://open.spotify.com/artist/6pFL2wbw65ZTXhtrvYIpem) | [Sejuta Miliar Dunia](https://open.spotify.com/album/7cGMUJGQj1x256p0rLo1la) | 3:48 |
 | 56 | [Hai Untukmu](https://open.spotify.com/track/59ztqQ3cU7tAZs8PtaWajM) | [Twnts](https://open.spotify.com/artist/25k3BnaRLcfQLY8ok2iAnb) | [Arah Waktu](https://open.spotify.com/album/73XdZzJsyKCQZyhIS4hdKv) | 3:45 |
 
-Snapshot ID: `MCw3NmFkN2NmYjk3ZThjOTM4NWNmMTIzMTRiNmNkYzVhNGE5YzczYmFh`
+Snapshot ID: `MCwwYTQxY2IzZDI5MTM2NzlkOTJkMGYyOWRlNTYwNmVmM2VmMjE2NDRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,695 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,067 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 31 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 |
 | 32 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
 | 33 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 |
-| 34 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 |
+| 34 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 35 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
-| 36 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
+| 36 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 |
 | 37 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
 | 38 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
 | 39 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 50 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 |
 
-Snapshot ID: `MCw4YWJiMzUyYzA1ZWFlYzYzNzIzZDMzM2ZhNjJkM2M3NWM2MWY3MDM2`
+Snapshot ID: `MCw4ZWRmMzY3YzdmNGMwYjcyM2JjYjU0ODQ3NDgzZmNjNWZmMzNhNmUw`

@@ -2,7 +2,7 @@
 
 ### [Best of RADAR Indonesia 2023](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Awdella
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
 
 179 songs - 11 hr 28 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,752 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,632 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 39 | [Games](https://open.spotify.com/track/6GUgd5uXPPLzNK94F7zO4Y) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Games](https://open.spotify.com/album/432GE6uinoEWLytsNonxuv) | 1:36 |
 | 40 | [You Is Not Havin](https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF) | [Lil Kari](https://open.spotify.com/artist/2QXvHlMnUVw9LKYlxuCRHd) | [You Is Not Havin](https://open.spotify.com/album/6EoQ6gT2h72WsJQHn0lIEa) | 2:12 |
 | 41 | [TATTI](https://open.spotify.com/track/67mSIbxWBzaFptWINhPN2U) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TATTI](https://open.spotify.com/album/6Z3TtvAdHtqtFCMtxhrpu8) | 1:41 |
-| 42 | [BET](https://open.spotify.com/track/1K5QA85zFIYv1ya0f2XDZq) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [DALE](https://open.spotify.com/album/61PWHu4c4uHE8dfAM0j9cf) | 2:48 |
+| 42 | [BET](https://open.spotify.com/track/7y0tirehAFF9YtxljxDOPt) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [DALE](https://open.spotify.com/album/2nZ9NW1n76ti7fFcJg2Lrh) | 2:48 |
 | 43 | [Diamonds Cry](https://open.spotify.com/track/3lq7nObJRC3GXoPDe8zZIW) | [Tevomxntana](https://open.spotify.com/artist/4R1Ph1IPb4wG0XWzzOcvQa) | [Diamonds Cry](https://open.spotify.com/album/7EW3I0378mL1kzW8x9ddp2) | 2:01 |
 | 44 | [Think He God](https://open.spotify.com/track/3xwRLDnm6pwIGWVyUabn1s) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Celestial 2](https://open.spotify.com/album/16n2UtHMNIqXIrbkJQMdRm) | 2:32 |
 | 45 | [Rover!](https://open.spotify.com/track/0s9eWn090LdFQxKqkPLiH3) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [SUPERSTAR!](https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 100 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 
-Snapshot ID: `MCwyMWI0MDY5NWMzMGExYzAxM2U2MzRkYTg4YjQ4ZjM2YmE0OWJmY2Y0`
+Snapshot ID: `MCxhY2MyMmZmYmJjNWI0OTRkMWFkMmFmODk2ZmU2NWYxZjQyM2FmYTIw`

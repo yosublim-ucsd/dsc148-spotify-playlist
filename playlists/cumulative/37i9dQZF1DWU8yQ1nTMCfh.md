@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Bruses
 
-255 songs - 14 hr 12 min
+256 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Plaza en el cielo](https://open.spotify.com/track/0HCN1c8AGVd0AJKqdw7WOr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:26 | 2023-03-10 | 2023-04-05 |
 | [Plaza en el cielo](https://open.spotify.com/track/2gCUxvwaDqfzp6zDiijnfr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:26 | 2023-04-14 | 2023-05-05 |
 | [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 | 2023-01-27 | 2023-03-08 |
-| [Plaza En el Cielo](https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:26 | 2023-05-05 |  |
+| [Plaza En el Cielo](https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:26 | 2023-05-05 | 2023-12-06 |
 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 | 2023-02-17 |  |
 | [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 | 2023-09-08 |  |
 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 | 2023-05-12 |  |
@@ -204,6 +204,7 @@
 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-12-09 | 2023-02-10 |
 | [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 | 2023-04-21 | 2023-07-23 |
 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 | 2022-12-16 | 2023-01-06 |
+| [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 | 2023-12-05 |  |
 | [Rockstar](https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Rockstar](https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj) | 3:07 | 2023-07-28 |  |
 | [Rorschach](https://open.spotify.com/track/6rR46xoz4xucXXnIn5wWNi) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Rorschach](https://open.spotify.com/album/2tv9tKzFcJC4h1hfbLgo0c) | 3:57 | 2023-01-13 | 2023-01-19 |
 | [San Saltarín](https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [San Saltarín](https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk) | 4:18 | 2023-04-21 |  |

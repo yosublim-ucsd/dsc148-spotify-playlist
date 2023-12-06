@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,970 likes - 256 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,965 likes - 256 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 255 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 |
 | 256 | [Volg mij](https://open.spotify.com/track/5AGw6j8iKs4DbgEsvSqt6c) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Volg mij](https://open.spotify.com/album/1BkTxkapTckd7hkQDHggAC) | 3:27 |
 
-Snapshot ID: `MCw4NmQzZGU1YzQyYzIwOWRhYWIzODlhZDYzMmE1ODZiNDRlNDY0Y2Vm`
+Snapshot ID: `MCxiZDUxOGJjNTAwMTUwM2Q4OWM4ZmZkMjdlMjhkNjhlMGM1NzY1MmIw`

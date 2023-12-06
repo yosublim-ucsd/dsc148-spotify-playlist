@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 142193,
+  "num_followers": 142246,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMDE1MjE2MCwwMDAwMDAwMDM4MWE1ODc3ZGE1M2U3OWQ5YmRhMjM4ZjlhYWQyNmYw",
+  "snapshot_id": "MCxkZjNmYjIwOTNkMmM3NDY1ZGNkZDQ1MmM2OTI2MzUzOTgzYzViMmZk",
   "tracks": [
     {
       "added_at": "2023-11-16 16:29:20",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Un jour, je",
-        "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
-      },
-      "artists": [
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "Un jour je marierai un ange",
-      "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 197706,
       "name": "L\u00e9a",
       "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Un jour, je",
+        "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "Un jour je marierai un ange",
+      "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
-      },
-      "artists": [
-        {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Palais d'argile",
         "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 214464,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 448906,
-      "name": "Gigi l'amoroso",
-      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Les Annees Barclay",
         "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 189666,
       "name": "Non non rien n'a chang\u00e9",
       "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 448906,
+      "name": "Gigi l'amoroso",
+      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 196693,
       "name": "Les choses qu'on fait",
       "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Animaux fragiles",
-        "url": "https://open.spotify.com/album/0bM7IqCH0vPrYCrhFiScY6"
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
       },
       "artists": [
         {
-          "name": "Ycare",
-          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
-        },
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
         }
       ],
-      "duration_ms": 195002,
-      "name": "Animaux fragiles",
-      "url": "https://open.spotify.com/track/4yWP2IC6gq5Hl8bVouCvMs"
+      "duration_ms": 164893,
+      "name": "Tu me Play",
+      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     }
   ],
   "unique_name": "Bleu Blanc Route",

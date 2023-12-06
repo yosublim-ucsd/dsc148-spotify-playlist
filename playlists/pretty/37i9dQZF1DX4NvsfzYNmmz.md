@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,448 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,573 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 27 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:22 |
 | 28 | [Christmas Everyday](https://open.spotify.com/track/4uKM6IhPAkcyUGH0sSSlDN) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 2:40 |
 | 29 | [Christmas In My Home Town](https://open.spotify.com/track/6g7bSMPsAcO1BYHueLyXQ9) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Christmas In My Hometown \(Expanded Edition\)](https://open.spotify.com/album/0jnOrnjoEhB5tEMOFyzXPz) | 2:04 |
-| 30 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 |
-| 31 | [Christmastime](https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:31 |
+| 30 | [Christmastime](https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:31 |
+| 31 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 |
 | 32 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 |
 | 33 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 |
 | 34 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Christmas Album](https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 49 | [My Grown\-Up Christmas List](https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:14 |
 | 50 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
 
-Snapshot ID: `MCxmMzAzNDA5YjlkZjk3NmVkYjI3OWM1ODlhNDdlZDYyYzc5OTY2NGE5`
+Snapshot ID: `MCw0ZWI5NjJmMTRhY2Q2NTQ0NTQ2ZDVkMWMzNDJiYTk1NDY3MWU5YmFi`

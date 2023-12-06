@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. Enigma Norteño en portada.
 
-879 songs - 1 day 21 hr 11 min
+881 songs - 1 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,8 @@
 | [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 | 2023-06-30 | 2023-08-05 |
 | [El Escocés](https://open.spotify.com/track/5tQHOTHxGXxuQA8EI9CHML) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Escocés](https://open.spotify.com/album/0nFB0y3LnogYpF37iicmDB) | 3:12 | 2022-09-23 | 2022-11-05 |
 | [El Espejo De Mi Apá](https://open.spotify.com/track/4o1RD4q23QYZz8Gu34pv69) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Espejo De Mi Apá](https://open.spotify.com/album/7kjCUQKyYvcbqbo00DREsM) | 3:11 | 2022-10-28 | 2022-12-17 |
-| [El Exitoso](https://open.spotify.com/track/2nbZDGc8nrRk7pUtuuPBsU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 3:42 | 2023-11-17 |  |
+| [El Exitoso](https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 3:42 | 2023-12-01 |  |
+| [El Exitoso](https://open.spotify.com/track/2nbZDGc8nrRk7pUtuuPBsU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 3:42 | 2023-11-17 | 2023-12-06 |
 | [El Exitoso](https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy) | 3:42 | 2023-10-27 | 2023-11-23 |
 | [El Exitoso](https://open.spotify.com/track/5KsI0xjWupcPQTGxHDOQFW) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y) | 3:42 | 2023-10-27 | 2023-11-02 |
 | [El Fieston](https://open.spotify.com/track/3dieJ76FVSIvpVssUlME5w) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Merca Xin Corte](https://open.spotify.com/artist/7jmtZgZygzmC35GMHpcM1z) | [El Fieston](https://open.spotify.com/album/3XHXxnzLAemR2oCIZhcQpd) | 3:19 | 2023-08-22 | 2023-10-28 |
@@ -785,7 +786,8 @@
 | [Señor M1](https://open.spotify.com/track/1XL8rpxRnF8eJaaRcpLJ34) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Señor M1](https://open.spotify.com/album/5GW575Sml2fB2Cyz1lCsG9) | 3:18 | 2022-09-30 | 2022-12-17 |
 | [Señor Miedo](https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Señor Miedo](https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ) | 2:52 | 2022-07-15 | 2022-09-24 |
 | [Señor Zambada](https://open.spotify.com/track/4jssobikTooy7tKmlImq9z) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Señor Zambada](https://open.spotify.com/album/7DlndpQjrLsSPTnYSSVcWN) | 3:08 | 2022-09-23 | 2022-12-17 |
-| [Señores de Alto Grado](https://open.spotify.com/track/0aEX77IxJBmeWNBj3FV4Oi) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 2:40 | 2023-12-01 |  |
+| [Señores de Alto Grado](https://open.spotify.com/track/0aEX77IxJBmeWNBj3FV4Oi) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 2:40 | 2023-12-01 | 2023-12-06 |
+| [Señores de Alto Grado](https://open.spotify.com/track/2CFH3Ob6xALoL7TxURtQKz) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 2:40 | 2023-12-01 |  |
 | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/track/2fTo0N3x8JCEy3iSVNMiHx) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/album/3l4KUKS3RgieBHWLmyjJ3Q) | 2:36 | 2022-12-30 | 2023-03-11 |
 | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/track/72zKXb35QSe3wTIsSHoz64) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/album/2gx6KVPGKqFRmdxPAUjLek) | 3:22 | 2022-10-28 | 2022-12-03 |
 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-07-15 | 2022-11-19 |

@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Diplo & HUGEL.",
-  "num_followers": 1909554,
+  "num_followers": 1909732,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGY0NDk0YTFmMGVlNTczOTkzMDE1OWNmNzBmZDJhNzk3NDMxM2I1",
+  "snapshot_id": "MCwzOTFiMDc0YzlhZGRhMjUzZTBiODRmNjFhOTc4YzAzZGRkNTlhMTkw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq"
       },
@@ -1687,18 +1703,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
       },
       "artists": [
         {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         }
       ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1723,26 +1743,6 @@
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Better Recognize",
-        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Better Recognize",
-      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1823,6 +1823,46 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "U Ok?",
+        "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "U Ok?",
+      "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Tudo Bem, Tudo Bom",
+        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Tudo Bem, Tudo Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -1851,46 +1891,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Tudo Bem, Tudo Bom",
-        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "Tudo Bem, Tudo Bom - Radio Edit",
-      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "U Ok?",
-        "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "U Ok?",
-      "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Pump",
         "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
       },
@@ -1907,42 +1907,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Whisper (feat. Raphi)",
-        "url": "https://open.spotify.com/album/4hd1MvwsU8hAyNcB5MoQSb"
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
       },
       "artists": [
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         }
       ],
-      "duration_ms": 184160,
-      "name": "Whisper (feat. Raphi)",
-      "url": "https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 174220,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
+      "duration_ms": 138725,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1967,6 +1943,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Whisper (feat. Raphi)",
+        "url": "https://open.spotify.com/album/4hd1MvwsU8hAyNcB5MoQSb"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Whisper (feat. Raphi)",
+      "url": "https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
       },
@@ -1983,18 +1979,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
       },
       "artists": [
         {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 138725,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
+      "duration_ms": 174220,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
     },
     {
       "added_at": "2023-12-01 05:00:00",

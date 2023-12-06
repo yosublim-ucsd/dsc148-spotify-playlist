@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=U8w7_PIuTm6h7wIv43Ji2g\"> ODUMODUBLVCK</a>",
-  "num_followers": 36500,
+  "num_followers": 36726,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWVlOTU3YzQ0ZmE1ZmM5ZjY0YTg1Y2QwNzQ5MGM3YmYyOTUzMzNi",
+  "snapshot_id": "MCwxOWIxMTI2YmY4OWUwNTllYjFkODc2YWEyNDhlNmU1MmE5ZGJhNWFi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:51:24",
@@ -619,8 +619,8 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 183529,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 134728,
+      "name": "Bad Since '97",
+      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
         "name": "Letter From Overseas (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 134728,
-      "name": "Bad Since '97",
-      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -819,8 +819,8 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
-        "name": "You Go Know",
-        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 142135,
-      "name": "You Go Know",
-      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
+      "duration_ms": 183529,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
+        "name": "Sere (feat. Tega boi dc)",
+        "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
+      },
+      "artists": [
+        {
+          "name": "Evil Beast",
+          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 130873,
+      "name": "Sere (feat. Tega boi dc)",
+      "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
         "name": "SHUT IT DOWN",
         "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
-        "name": "Sere (feat. Tega boi dc)",
-        "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
-      },
-      "artists": [
-        {
-          "name": "Evil Beast",
-          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 130873,
-      "name": "Sere (feat. Tega boi dc)",
-      "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
     },
     {
       "added_at": "2023-12-01 05:51:24",

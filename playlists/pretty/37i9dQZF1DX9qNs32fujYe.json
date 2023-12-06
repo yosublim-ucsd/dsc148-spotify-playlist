@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Judas Priest",
-  "num_followers": 1182323,
+  "num_followers": 1182760,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDhlM2M0MThlOWJkODcyNTgzZjdhMDMyNDIyOGNlMzUzZGQxZjU2",
+  "snapshot_id": "MCw1NGQyZTBlMWM1MTFiNzg4YmViNTZhODQwZWY3MTJiYmRiY2JlYjUx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Shout At The Devil",
+        "url": "https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Shout at the Devil",
+      "url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 194838,
       "name": "Die By The Blade",
       "url": "https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Shout At The Devil",
-        "url": "https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Shout at the Devil",
-      "url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "I Wanna Be Somebody",
-      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "From Hell With Love",
         "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 235295,
       "name": "From Hell With Love",
       "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Once More 'Round the Sun",
-        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
       "artists": [
         {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 299786,
-      "name": "The Motherload",
-      "url": "https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD"
+      "duration_ms": 269466,
+      "name": "We\u2019ll Be Back",
+      "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 269466,
-      "name": "We\u2019ll Be Back",
-      "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
+      "duration_ms": 299786,
+      "name": "The Motherload",
+      "url": "https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn"
+      },
+      "artists": [
+        {
+          "name": "Gemini Syndrome",
+          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Remember We Die",
+      "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Memento Mori",
-        "url": "https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn"
-      },
-      "artists": [
-        {
-          "name": "Gemini Syndrome",
-          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Remember We Die",
-      "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Demanufacture (Special Edition)",
         "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 237360,
       "name": "Replica",
       "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 195653,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Bone Church",
-        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Bone Church",
-      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "See What\u2019s On The Inside",
         "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 228977,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Welcome To The Circus",
-        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Jomsviking",
         "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 263760,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Altars of Madness",
-        "url": "https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0"
-      },
-      "artists": [
-        {
-          "name": "Morbid Angel",
-          "url": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "Immortal Rites",
-      "url": "https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Immutable",
         "url": "https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk"
       },
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+        "name": "Altars of Madness",
+        "url": "https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Morbid Angel",
+          "url": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
         }
       ],
-      "duration_ms": 389947,
-      "name": "UNHALL\u00d8WED",
-      "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+      "duration_ms": 243520,
+      "name": "Immortal Rites",
+      "url": "https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2411,6 +2395,22 @@
       "duration_ms": 214057,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 389947,
+      "name": "UNHALL\u00d8WED",
+      "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Master of Light",
+        "url": "https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W"
+      },
+      "artists": [
+        {
+          "name": "Freedom Call",
+          "url": "https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F"
+        }
+      ],
+      "duration_ms": 292146,
+      "name": "Metal Is for Everyone",
+      "url": "https://open.spotify.com/track/5qKymwS7ymNUCRimGhiQkm"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Sainted by the Storm",
         "url": "https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 274202,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Master of Light",
-        "url": "https://open.spotify.com/album/2l3lL1oX1ejmOfZdDZK47W"
-      },
-      "artists": [
-        {
-          "name": "Freedom Call",
-          "url": "https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F"
-        }
-      ],
-      "duration_ms": 292146,
-      "name": "Metal Is for Everyone",
-      "url": "https://open.spotify.com/track/5qKymwS7ymNUCRimGhiQkm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dad\u2019Algorhythm",
-        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Dad\u2019Algorhythm",
-      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
       },
@@ -2607,18 +2591,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5"
+        "name": "Dad\u2019Algorhythm",
+        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
       },
       "artists": [
         {
-          "name": "Edguy",
-          "url": "https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu"
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
         }
       ],
-      "duration_ms": 431693,
-      "name": "Tears of a Mandrake",
-      "url": "https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s"
+      "duration_ms": 158720,
+      "name": "Dad\u2019Algorhythm",
+      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2635,6 +2619,22 @@
       "duration_ms": 218426,
       "name": "Slowly We Rot",
       "url": "https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5"
+      },
+      "artists": [
+        {
+          "name": "Edguy",
+          "url": "https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Tears of a Mandrake",
+      "url": "https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2807,22 +2807,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Grinding Wheel",
-        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 449786,
-      "name": "Mean, Green, Killing Machine",
-      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Chaosphere (Reloaded)",
         "url": "https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw"
       },
@@ -2835,6 +2819,22 @@
       "duration_ms": 335666,
       "name": "New Millennium Cyanide Christ",
       "url": "https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Grinding Wheel",
+        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 449786,
+      "name": "Mean, Green, Killing Machine",
+      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2887,6 +2887,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "The Moon and the Fool",
+        "url": "https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6"
+      },
+      "artists": [
+        {
+          "name": "Cold Kingdom",
+          "url": "https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Long Live Rock 'n' Roll",
         "url": "https://open.spotify.com/album/0abggihGZTIzf1GfHhrjwE"
       },
@@ -2915,22 +2931,6 @@
       "duration_ms": 196740,
       "name": "Full Disclosure",
       "url": "https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "The Moon and the Fool",
-        "url": "https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6"
-      },
-      "artists": [
-        {
-          "name": "Cold Kingdom",
-          "url": "https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Raven Age",
         "url": "https://open.spotify.com/album/4sxjCBlUj4Gq4KecyQDS07"
       },
@@ -3059,6 +3043,22 @@
       "duration_ms": 328000,
       "name": "Angel In Disgrace",
       "url": "https://open.spotify.com/track/4qxXNYWAnjQhLDy0fAg9bL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Feast Of Fire",
+        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 258837,
+      "name": "Feast Of Fire",
+      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
     },
     {
       "added_at": "2023-10-27 04:00:00",

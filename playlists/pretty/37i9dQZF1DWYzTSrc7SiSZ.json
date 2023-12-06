@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 670120,
+  "num_followers": 670141,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTc3YjRkZWUwNWY3MGIzZTM5YzVhN2VjMzZkZGMzMDlhMTNlMDll",
+  "snapshot_id": "MCwwYTgyZTEyODJhMjI4ZDk0MGI4ZjJiODZkMmU2NTU3ZTJiZmRkZjY3",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177515,
-      "name": "Doler\u00eda",
-      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Wu Wu",
         "url": "https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 207727,
       "name": "Wu Wu",
       "url": "https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 177515,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Fui Yo",
         "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 255514,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Cafeliko",
-        "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 126984,
-      "name": "Cafeliko",
-      "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "El D\u00eda Que Me Odies",
         "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 185800,
       "name": "El D\u00eda Que Me Odies",
       "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Cafeliko",
+        "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 126984,
+      "name": "Cafeliko",
+      "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Leonardo La Croix",
-          "url": "https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm"
-        }
-      ],
-      "duration_ms": 166310,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Quieres de mi",
         "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 192000,
       "name": "Quieres de mi",
       "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Leonardo La Croix",
+          "url": "https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm"
+        }
+      ],
+      "duration_ms": 166310,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "beat relajado para estudiar",
-        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "beat relajado para estudiar",
-      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "beat relajado para estudiar",
+        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "beat relajado para estudiar",
+      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Bolitas",
         "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 221322,
       "name": "Bolitas",
       "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 242000,
       "name": "Volv\u00e9s",
       "url": "https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "La Espa\u00f1ola",
-        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 170743,
-      "name": "Me Quiere No Me Quiere",
-      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "La Espa\u00f1ola",
+        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 170743,
+      "name": "Me Quiere No Me Quiere",
+      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Desp\u00eddeme De Todxs",
         "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 200283,
       "name": "Perderme",
       "url": "https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dos y Veintid\u00f3s",
-        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Paralizado",
         "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Dos y Veintid\u00f3s",
+        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
     }
   ],
   "unique_name": "Chill Latino",

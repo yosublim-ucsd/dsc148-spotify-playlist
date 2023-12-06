@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 434775,
+  "num_followers": 434812,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTc4MDUwYzliZTEwMDE2Njk3NmFmNjRhODQxZGY2MjFlN2FiYmIw",
+  "snapshot_id": "MCwxNjdiNmNmMWYzYmM1ZjRkMzllMGU3OTc1M2VjNzliNDg1MjhjNDE2",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Fico Assim Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/5z9yPNcK3Sg9n6357SECOO"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        }
+      ],
+      "duration_ms": 149523,
+      "name": "Fico Assim Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/7xe3gf2X8xS8y9xLhd7ca4"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "n\u00f3sdois",
         "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
       },
@@ -743,38 +759,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Fico Assim Sem Voc\u00ea",
-        "url": "https://open.spotify.com/album/5z9yPNcK3Sg9n6357SECOO"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        }
-      ],
-      "duration_ms": 149523,
-      "name": "Fico Assim Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/7xe3gf2X8xS8y9xLhd7ca4"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Bem Me Queira",
         "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 145377,
       "name": "Bem Me Queira",
       "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Cortejo",
+        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 169250,
+      "name": "Cortejo",
+      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
       },
@@ -1003,8 +1023,8 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Sacada",
-        "url": "https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7"
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
       },
       "artists": [
         {
@@ -1012,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Sacada",
-      "url": "https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK"
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1051,22 +1071,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "(N\u00e3o \u00e9 s\u00f3 mais) um \u00e1lbum de amor",
-        "url": "https://open.spotify.com/album/6R4yxWvIdwfjNTIImLyScs"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 161496,
-      "name": "Devagar",
-      "url": "https://open.spotify.com/track/4Ywyxnxif8qSaOoD0aKMGO"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Melodram\u00e1tico",
         "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
       },
@@ -1079,6 +1083,22 @@
       "duration_ms": 146000,
       "name": "Melodram\u00e1tico",
       "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "(N\u00e3o \u00e9 s\u00f3 mais) um \u00e1lbum de amor",
+        "url": "https://open.spotify.com/album/6R4yxWvIdwfjNTIImLyScs"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "duration_ms": 161496,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/4Ywyxnxif8qSaOoD0aKMGO"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1135,8 +1155,8 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+        "name": "Sacada",
+        "url": "https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7"
       },
       "artists": [
         {
@@ -1144,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
+      "duration_ms": 161000,
+      "name": "Sacada",
+      "url": "https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1195,26 +1215,6 @@
       "duration_ms": 145000,
       "name": "deixa eu me perder",
       "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Cortejo",
-        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 169250,
-      "name": "Cortejo",
-      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "QUANDO C\u00ca VEM",
-        "url": "https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "QUANDO C\u00ca VEM",
-      "url": "https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Quero Bem Mais",
         "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 197052,
       "name": "Quero Bem Mais",
       "url": "https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "QUANDO C\u00ca VEM",
+        "url": "https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "QUANDO C\u00ca VEM",
+      "url": "https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Novela Favorita",
+        "url": "https://open.spotify.com/album/3r39DApTPOHHPxG3CwaFBk"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 144663,
+      "name": "Novela Favorita",
+      "url": "https://open.spotify.com/track/3AUhe6kIitZF2hrxZ32CKp"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Desejos",
         "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 177000,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Novela Favorita",
-        "url": "https://open.spotify.com/album/3r39DApTPOHHPxG3CwaFBk"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 144663,
-      "name": "Novela Favorita",
-      "url": "https://open.spotify.com/track/3AUhe6kIitZF2hrxZ32CKp"
     },
     {
       "added_at": "2023-12-01 03:00:00",

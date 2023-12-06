@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,209 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,234 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 10 | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [O Saki Saki \(From "Batla House"\)](https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq) | 3:11 |
 | 11 | [Deewana Kar Raha Hai](https://open.spotify.com/track/2tva3nN2kQhBjHMC7Zlty6) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Raaz 3](https://open.spotify.com/album/3FNWFTcpB7AET1JRpqLRBd) | 5:38 |
 | 12 | [Le Le Mazaa Le](https://open.spotify.com/track/0V6i9XZ7NOfXQAygSaswnM) | [Suzanne](https://open.spotify.com/artist/0uWl5BUPnXzE2RWQEprHyF), [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz), [Hrishikesh Kamerkar](https://open.spotify.com/artist/2ScHxvyRvvGRGfdUgB7K26), [Nikita Nigam](https://open.spotify.com/artist/6H8pKYxkF2q0vUmSNwmrL3) | [Wanted](https://open.spotify.com/album/7HrcUDgKJmvlOwMxeGVF1J) | 4:10 |
-| 13 | [Ishqam](https://open.spotify.com/track/7FcQRdlqMvAKmQH1SXCk1s) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Ali Quli Mirza](https://open.spotify.com/artist/5tCVWAczftmj4Ca9p6RJmj) | [Ishqam](https://open.spotify.com/album/5cfRTFNk7GosgMcMyUzTJy) | 3:14 |
-| 14 | [Dil Cheez Tujhe Dedi](https://open.spotify.com/track/4KfIDhVW9WUwUEouFcf6YN) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Airlift](https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju) | 4:31 |
+| 13 | [Dil Cheez Tujhe Dedi](https://open.spotify.com/track/4KfIDhVW9WUwUEouFcf6YN) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Airlift](https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju) | 4:31 |
+| 14 | [Ishqam](https://open.spotify.com/track/7FcQRdlqMvAKmQH1SXCk1s) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Ali Quli Mirza](https://open.spotify.com/artist/5tCVWAczftmj4Ca9p6RJmj) | [Ishqam](https://open.spotify.com/album/5cfRTFNk7GosgMcMyUzTJy) | 3:14 |
 | 15 | [Paagal](https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paagal](https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW) | 2:49 |
 | 16 | [Kay Sera Sera](https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Pukar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OQnAi9EjuGLW3AMJ2zOry) | 7:05 |
 | 17 | [Mayya Mayya](https://open.spotify.com/track/1YyCkF4HECCrkMcNn1hKBm) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Mariam Toller](https://open.spotify.com/artist/1Uj4ZC05yoQLa2oDVJVSbw), [Keerthi Sagathia](https://open.spotify.com/artist/0ESWSdsAB8QDp2eA4ES2Er) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KUhs5DCSDhq6V1AcgjXab) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 49 | [Yalla Yalla](https://open.spotify.com/track/6IKDI3h0vjvOdwllJtp4lX) | [Miraya Varma](https://open.spotify.com/artist/4FhmGc9lD5PO3ZrPPDGiRV), [Zeus](https://open.spotify.com/artist/08go4qm2BDvBAZMtpV25QV) | [Yalla Yalla](https://open.spotify.com/album/2m6iGaVxOvvS1UcdNfNakp) | 3:49 |
 | 50 | [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 |
 
-Snapshot ID: `MCw5ZDhkZDRlNzNiNzY0YWY0NWU1MDcyMDcxMTg4MzBlZTMxMTgwZjAx`
+Snapshot ID: `MCw0ZmI2ODA3MDI4OWYwYjE0MmQxNTEzMzI5ZDI1Mjk3MTg4MzIzZDQ0`

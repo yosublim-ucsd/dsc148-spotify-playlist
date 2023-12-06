@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Julian Mercado en portada. ",
-  "num_followers": 742079,
+  "num_followers": 742172,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWU1OWRkNWEzZDlkNmQ2NjY2Yzk1OGI1ZjFhOGJlYjYxM2FlZWQ1",
+  "snapshot_id": "MCw0ZTYyMjkyZDI4ODkwMjhjNTc3NTU2Y2MzZThjY2ZiNzdhOTE1MTIx",
   "tracks": [
     {
       "added_at": "2023-12-04 23:47:36",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
       },
@@ -927,6 +943,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Uno Mas Uno Igual A Zero",
         "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
       },
@@ -943,22 +975,6 @@
       "duration_ms": 159683,
       "name": "Uno mas Uno Igual a Zero",
       "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -991,22 +1007,6 @@
       "duration_ms": 155125,
       "name": "Cuando T\u00fa Me Miras",
       "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Las 745",
+        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 163073,
+      "name": "Las 745",
+      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Buenas Rachas",
         "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Las 745",
-        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 163073,
-      "name": "Las 745",
-      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Seguimos Dejando Marca (En Vivo)",
         "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 147781,
       "name": "Gente Corriente - En Vivo",
       "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Nomas La Cara Tienes",
-        "url": "https://open.spotify.com/album/11hxZaPUq1lmZStd6eAsJ7"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "Nomas La Cara Tienes",
-      "url": "https://open.spotify.com/track/1zq7qEX7okw69ydD9Py2KC"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Mi Todo",
         "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 241704,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Nomas La Cara Tienes",
+        "url": "https://open.spotify.com/album/11hxZaPUq1lmZStd6eAsJ7"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "Nomas La Cara Tienes",
+      "url": "https://open.spotify.com/track/1zq7qEX7okw69ydD9Py2KC"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "La Ni\u00f1a Del Instagram",
+        "url": "https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr"
+      },
+      "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "La Ni\u00f1a Del Instagram",
+      "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
       },
@@ -2063,6 +2079,22 @@
       "duration_ms": 183600,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2087,22 +2119,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "La Ni\u00f1a Del Instagram",
-        "url": "https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr"
-      },
-      "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "La Ni\u00f1a Del Instagram",
-      "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "S\u00c1LVAME",
         "url": "https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA"
       },
@@ -2115,54 +2131,6 @@
       "duration_ms": 185124,
       "name": "S\u00c1LVAME",
       "url": "https://open.spotify.com/track/66zpZXzpcnyeg4s6Ahhf99"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Sal\u00ed Perdiendo - En Vivo",
-      "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Ping\u00fcinos En La Cama",
-        "url": "https://open.spotify.com/album/64dPZjhrbfcXHBHLOavAIt"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 211033,
-      "name": "Ping\u00fcinos En La Cama",
-      "url": "https://open.spotify.com/track/1VtTXzI7Do7rzM8umR1bnq"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2183,6 +2151,38 @@
       "duration_ms": 203863,
       "name": "Oye Bebe",
       "url": "https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Ping\u00fcinos En La Cama",
+        "url": "https://open.spotify.com/album/64dPZjhrbfcXHBHLOavAIt"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 211033,
+      "name": "Ping\u00fcinos En La Cama",
+      "url": "https://open.spotify.com/track/1VtTXzI7Do7rzM8umR1bnq"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Sal\u00ed Perdiendo - En Vivo",
+      "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
     },
     {
       "added_at": "2023-12-04 23:47:36",

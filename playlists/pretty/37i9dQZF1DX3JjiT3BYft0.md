@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,852 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,891 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 43 | [chAngE \- Cover](https://open.spotify.com/track/71OfBuAMF2HOkrZeb62FH0) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.4](https://open.spotify.com/album/1QV7TzDf6neA0n9AkoJK5m) | 4:09 |
 | 44 | [ONE OF US](https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:42 |
 | 45 | [雨上がりの夢](https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 2:55 |
-| 46 | [キミがいなくちゃっ！](https://open.spotify.com/track/3EoWSf3jmiMPN1h5V1X9IJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:03 |
-| 47 | [花園電気ギター！！！](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 |
+| 46 | [花園電気ギター！！！](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 |
+| 47 | [キミがいなくちゃっ！](https://open.spotify.com/track/3EoWSf3jmiMPN1h5V1X9IJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:03 |
 | 48 | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr) | [日菜](https://open.spotify.com/artist/5IRX41YDPyIvlKBhfWQFjI), [千聖](https://open.spotify.com/artist/2HPjNk8xJr6y3lk8TzUcDj), [麻弥](https://open.spotify.com/artist/0roduHEfBOh5Dw6KIYlA7G), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [リサ](https://open.spotify.com/artist/7ols3PswTwnpdvbqHG2fav), [燐子](https://open.spotify.com/artist/3rsjfLbwzDOmns55hKDzS9), [薫](https://open.spotify.com/artist/2ZJwCjTnSnr2V7a91pBvoJ), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf) | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l) | 5:11 |
 | 49 | [遠い音楽 ～ハートビート～](https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 4:03 |
 | 50 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 62 | [Sacred world](https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred World](https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ) | 5:01 |
 | 63 | [灼熱 Bonfire!](https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE) | 3:44 |
 | 64 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 |
-| 65 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 |
-| 66 | [BRAVE JEWEL](https://open.spotify.com/track/0UUdr5Qqnn7RdzX6v47KVa) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:07 |
+| 65 | [BRAVE JEWEL](https://open.spotify.com/track/0UUdr5Qqnn7RdzX6v47KVa) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:07 |
+| 66 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 |
 | 67 | [UNSTOPPABLE](https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 3:50 |
 | 68 | [Blessing Chord](https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:37 |
-| 69 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 |
-| 70 | [Song I am.](https://open.spotify.com/track/289IAotG694ek6V1Lp54Ue) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:02 |
+| 69 | [Song I am.](https://open.spotify.com/track/289IAotG694ek6V1Lp54Ue) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:02 |
+| 70 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 |
 | 71 | [競宴Red×Violet](https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF) | 4:23 |
 | 72 | [BLACK SHOUT](https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 4:04 |
 | 73 | [Sing Alive](https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 5:15 |
-| 74 | [ときめきエクスペリエンス！](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 |
-| 75 | [ROZEN HORIZON](https://open.spotify.com/track/590mAad0xehlwm9SbdZgrK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/5YgaGp6mhmDjRndCtaKj3d) | 6:06 |
+| 74 | [ROZEN HORIZON](https://open.spotify.com/track/590mAad0xehlwm9SbdZgrK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/5YgaGp6mhmDjRndCtaKj3d) | 6:06 |
+| 75 | [ときめきエクスペリエンス！](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 |
 
-Snapshot ID: `MCxkZDI0NGI1NzgwODYyMDcwZTJjZDBhYjY4ZWUxMjdhYWI3OWEzNTE5`
+Snapshot ID: `MCw4OGJkYmZlZjNkMDQ0YzZkMWIxNTllZGEyOTI5MjdiOGFhNTM5OTli`

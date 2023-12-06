@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 666669,
+  "num_followers": 666853,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODkyZDUxMzUxMTQzMDRiYzVjODNjOGNlZDMwMzM2MWE0ZGFmMTlk",
+  "snapshot_id": "MCxlNDgyNjM4Njg2ODA4ZDdjZWZkMTgyYzcxYjNmNDc3NzM1ZWZkMzE0",
   "tracks": [
     {
       "added_at": "2023-11-21 11:44:08",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Follow The Sun",
-      "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Untitled (Black Is)",
         "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Follow The Sun",
+      "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 298720,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Clocks",
-        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
-      },
-      "artists": [
-        {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
-        }
-      ],
-      "duration_ms": 197576,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+      "duration_ms": 197576,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -651,6 +635,22 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Welcome To Kookoo Island",
         "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 226165,
       "name": "Belo Horizonte",
       "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Tenderfoot",
-        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
-      },
-      "artists": [
-        {
-          "name": "The Day",
-          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Tenderfoot",
-      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "The Day My Father Died",
         "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 200693,
       "name": "Chariot",
       "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Tenderfoot",
+        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
+      },
+      "artists": [
+        {
+          "name": "The Day",
+          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Tenderfoot",
+      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "My Grandma Says We Have No Future",
-        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "My Grandma Says We Have No Future",
-      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 255970,
       "name": "Riverbank",
       "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2023-11-21 11:44:08",

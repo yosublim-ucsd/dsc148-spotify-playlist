@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-264 songs - 11 hr 36 min
+265 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Very Precious Love](https://open.spotify.com/track/25fjMuRFh9gQm5HAlE9GyU) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [The Ultimate Collection](https://open.spotify.com/album/6au7s5biiS7yAITUs62UmQ) | 3:02 | 2020-07-08 | 2022-07-14 |
 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/51kNuqPnmllwTygxcMhC7P) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Hits](https://open.spotify.com/album/52dzyLWumJQhP25q0BCBRX) | 2:20 | 2020-07-08 | 2022-07-29 |
 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/428F8FMidC2u1ZHXNaeMuK) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [The Essential Frankie Laine](https://open.spotify.com/album/2iKc2szRNAvEvtfQM5vySt) | 2:20 | 2020-07-08 | 2023-01-29 |
+| [All I Have To Do Is Dream](https://open.spotify.com/track/2yTzXsYOrevaVIzQQgB3YL) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:21 | 2023-10-17 |  |
 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 | 2020-07-08 | 2023-09-15 |
 | [All I Have to Do Is Dream \(Single Version\)](https://open.spotify.com/track/0Q1tq0hFra4W9k6kx1MSjG) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:20 | 2020-07-08 | 2023-12-04 |
 | [All I Have to Do Is Dream \- Single Version; 2006 Remaster](https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Definitive Pop: The Everly Brothers](https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d) | 2:20 | 2020-07-08 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Somebody Stole My Gal](https://open.spotify.com/track/7h7Tc9jvW74WbhkvIofPO8) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [CRY](https://open.spotify.com/album/0Vqj7U2w6U7txFlZWA5dWj) | 2:25 | 2020-07-08 | 2022-07-24 |
 | [Someday \(You'll Want Me to Want You\)](https://open.spotify.com/track/4sRytDNylu3zfgW6y2rsAB) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Summertime Blues \(Rock'n'roll Love Songs\)](https://open.spotify.com/album/1mVeUTmyqPaOgM7px3QFyg) | 2:50 | 2020-07-08 | 2022-07-29 |
 | [Someday \(You'll Want Me To Want You\) \- Remastered](https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:51 | 2020-07-08 |  |
-| [Somewhere Along The Way](https://open.spotify.com/track/7fjHMzndGGwGH44CtjcO35) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:52 | 2023-10-17 |  |
+| [Somewhere Along The Way](https://open.spotify.com/track/7fjHMzndGGwGH44CtjcO35) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:52 | 2023-10-17 | 2023-12-06 |
 | [St Therese of the Roses](https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Magic Of Malcolm Vaughan](https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU) | 2:52 | 2020-07-08 | 2022-07-29 |
 | [St\. Therese of the Roses](https://open.spotify.com/track/6FFEc6zpDHwK4zQVBRXrVi) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:52 | 2020-07-08 | 2022-11-13 |
 | [Stairway of Love](https://open.spotify.com/track/21bX4JBZiU87ddI8cJD478) | [michael holliday](https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 | 2020-07-08 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-310 songs - 20 hr 16 min
+311 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Dilúvio](https://open.spotify.com/track/2munsJnflycsB0jAPgDxaU) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Dilúvio](https://open.spotify.com/album/5NfrKnAY6wBjUdURJAglm7) | 3:41 | 2023-06-28 |  |
 | [Dinheiro](https://open.spotify.com/track/4RjDz2AbKP28lkZ9XyU0xO) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Isolado No Quarto 2.0](https://open.spotify.com/album/5wVqWwXukKdryEOhlo7AFl) | 3:45 | 2023-06-14 |  |
 | [DJAVAN](https://open.spotify.com/track/5ulRqyIxWd5Zz5E3835dA5) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Francci](https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 3:01 | 2023-11-17 |  |
-| [Do Seu Lado \- Ao Vivo](https://open.spotify.com/track/369SakQysvPRw00B9er8Ff) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest \- Os Maiores Sucessos](https://open.spotify.com/album/7KyAR9NjOUfINkNY06jR9f) | 4:49 | 2023-10-13 |  |
+| [Do Seu Lado \- Ao Vivo](https://open.spotify.com/track/30Q8BodSWrBwQifVwh2caQ) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest \(Ao Vivo\)](https://open.spotify.com/album/2G30xrmdmGjD8VxbIVYfQm) | 4:49 | 2023-10-13 |  |
+| [Do Seu Lado \- Ao Vivo](https://open.spotify.com/track/369SakQysvPRw00B9er8Ff) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest \- Os Maiores Sucessos](https://open.spotify.com/album/7KyAR9NjOUfINkNY06jR9f) | 4:49 | 2023-10-13 | 2023-12-06 |
 | [Do Seu Lado \- Ao Vivo](https://open.spotify.com/track/2nrqCvsHTendQmjtTB1SxS) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest \- Rio de Janeiro \- 28/01/2005](https://open.spotify.com/album/3FckztfllBRNMGk3jzc1iU) | 4:57 | 2023-07-26 |  |
 | [Dom Dom Dom](https://open.spotify.com/track/3zd8GrqInpxh3CWsEUAUqO) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Funk, Vol\. 5](https://open.spotify.com/album/5cnoAuSNpgiygtyUH43ztW) | 2:01 | 2023-12-01 |  |
 | [Don't You Worry Child](https://open.spotify.com/track/043bfUkTydw0xJ5JjOT91w) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:43 | 2023-10-13 |  |

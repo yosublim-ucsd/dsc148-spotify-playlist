@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 288542,
+  "num_followers": 288582,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGJlMDM3YjMzYzQ1ZWYzYzQxMmJiNjJmMWI3Y2I2MGI1ZTU4ODAw",
+  "snapshot_id": "MCwwNjg4MDFhOWNmMzc3MTg5ZjhiZGRhODZkYTM5N2U4MzcxYjFjNjgw",
   "tracks": [
     {
       "added_at": "2023-12-01 08:46:07",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Cough (Odo)",
-        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Cough (Odo)",
-      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Cough (Odo)",
+        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Cough (Odo)",
+      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 251147,
       "name": "Sugarcane - Remix",
       "url": "https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Love Riddim",
-      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 190786,
       "name": "Qui sait ? (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Love Riddim",
+      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id"
-      },
-      "artists": [
-        {
-          "name": "Kidda",
-          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
-        }
-      ],
-      "duration_ms": 194558,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 155307,
       "name": "Can't Anymore",
       "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id"
+      },
+      "artists": [
+        {
+          "name": "Kidda",
+          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
+        }
+      ],
+      "duration_ms": 194558,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "So Distant (feat. Tayc)",
         "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 174059,
       "name": "So Distant (feat. Tayc)",
       "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 151899,
+      "name": "Life Is Better Now",
+      "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "Do You Mind?",
         "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 164705,
       "name": "Clueless (with Oxlade)",
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 151899,
-      "name": "Life Is Better Now",
-      "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2215,6 +2215,22 @@
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2311,22 +2327,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Anti Social (feat. Jeremih & Young Jonn)",
         "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
       },
@@ -2383,6 +2383,26 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -2403,26 +2423,6 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Nice (feat. Blxst)",
-      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2703,38 +2703,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR"
-      },
-      "artists": [
-        {
-          "name": "Dave Nunes",
-          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
-        },
-        {
-          "name": "WaxFiend",
-          "url": "https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r"
-        },
-        {
-          "name": "Saint Ronil",
-          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
-        },
-        {
-          "name": "Yung Dada",
-          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
-        },
-        {
-          "name": "CHAMOS",
-          "url": "https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi"
-        }
-      ],
-      "duration_ms": 214363,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/0qlCLYmWUwebbDwRrL2x9h"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Midnight Boom (with ChocQuibTown & Afro B)",
         "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
@@ -2771,6 +2739,38 @@
       "duration_ms": 212062,
       "name": "Meliza",
       "url": "https://open.spotify.com/track/18gZKStoeGtCAm2FV7qQHa"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR"
+      },
+      "artists": [
+        {
+          "name": "Dave Nunes",
+          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
+        },
+        {
+          "name": "WaxFiend",
+          "url": "https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r"
+        },
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        },
+        {
+          "name": "CHAMOS",
+          "url": "https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi"
+        }
+      ],
+      "duration_ms": 214363,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/0qlCLYmWUwebbDwRrL2x9h"
     },
     {
       "added_at": "2023-12-01 08:46:07",

@@ -4,13 +4,14 @@
 
 > los tenis bien limpios y la bocina retumbando
 
-211 songs - 11 hr 46 min
+212 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Blindadas](https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Blindadas](https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG) | 2:06 | 2023-01-20 | 2023-05-24 |
 | [77](https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:35 | 2023-07-04 |  |
-| [A La PM Puse En Alto](https://open.spotify.com/track/3gzj2Q3R1oSfp0hlDnzv7J) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A La PM Puse En Alto](https://open.spotify.com/album/2hiOsbQn2kl3BnMUN538Jl) | 4:21 | 2023-01-20 |  |
+| [A La PM Puse En Alto](https://open.spotify.com/track/3gzj2Q3R1oSfp0hlDnzv7J) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A La PM Puse En Alto](https://open.spotify.com/album/2hiOsbQn2kl3BnMUN538Jl) | 4:21 | 2023-01-20 | 2023-12-06 |
+| [A la PM Puse en Alto](https://open.spotify.com/track/7Ifp3RKxdfp3zopuyszTJm) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A la PM Puse en Alto](https://open.spotify.com/album/4MJbNa68mEnrqV0D2MolBj) | 4:21 | 2023-07-04 |  |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-06-10 |  |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2023-01-20 |  |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-06-10 |  |

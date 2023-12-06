@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 127426,
+  "num_followers": 127400,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzNmODk3ZjM0NTVlZjUxNTA5MDFkNDE4YWVmMjJjMjIzNzkyNTlm",
+  "snapshot_id": "MCwwYzI2NDA4NmIwNTBjMzgwYzhjMDk2OTI2ZjVkZGJmZTc1MTlhNDY1",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "complex",
+        "url": "https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 239113,
+      "name": "complex",
+      "url": "https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "worm food",
         "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 190853,
       "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/1oPd8gfPWu6zeKQX9flbpk"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "complex",
-        "url": "https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 239113,
-      "name": "complex",
-      "url": "https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s"
     },
     {
       "added_at": "2023-01-30 15:22:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID\. cover:ゆこぴ
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,388 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,483 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 44 | [脱法ロック](https://open.spotify.com/track/3RannlvnBgRRNY2gg940x7) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/4RdqGPBih6Q5RfPED5sjiu) | 3:08 |
 | 45 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 | 46 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
-| 47 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 |
-| 48 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 |
+| 47 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 |
+| 48 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 |
 | 49 | [Aunnobeats](https://open.spotify.com/track/4JPcF81HVIbndg6KNFQNg6) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [Ukiyomeguri](https://open.spotify.com/album/4JVCGjIksgYgMhXKHz5fbC) | 3:26 |
 | 50 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 |
 
-Snapshot ID: `MCw1NzhlZGIxMTU0ZTY4MGU4OWRhOTk3ODVlYTBmYTRkMTA5NTkyZDFl`
+Snapshot ID: `MCw3YjA4N2IwOTkxYTRkMDU0MWMzZjY2YzMyYzA3NWQ3YTJjNjY2OTBl`

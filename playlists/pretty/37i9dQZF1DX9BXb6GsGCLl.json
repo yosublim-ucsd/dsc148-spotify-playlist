@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 545740,
+  "num_followers": 545805,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjlkN2Y3NmI2Y2VmNzBlM2ZkZGYxN2MyYTM1ZmM2ZjJmNjA3ZDBi",
+  "snapshot_id": "MCw2YTM0NjFkNTI1ODRlMmU1YTVlZDNhNGI1ZmYzYzJkNDhmOGQ0MGRh",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "REMEDY",
-        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "REMEDY",
-      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "REMEDY",
+        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+        "name": "Summer Feelings (feat. Charlie Puth)",
+        "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
       },
       "artists": [
         {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+      "duration_ms": 160289,
+      "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
+      "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1147,26 +1151,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Summer Feelings (feat. Charlie Puth)",
-        "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 160289,
-      "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
-      "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
+        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 179652,
+      "name": "WOW (feat. Sabrina Carpenter) - Remix",
+      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
-        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 179652,
-      "name": "WOW (feat. Sabrina Carpenter) - Remix",
-      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "90s Kids",
-        "url": "https://open.spotify.com/album/3AAFCYRP4Rje75J6FORJMJ"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 163815,
-      "name": "90s Kids",
-      "url": "https://open.spotify.com/track/34evGV6SaoRLHTcXXUVOpb"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 185277,
       "name": "X (with KAROL G)",
       "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "90s Kids",
+        "url": "https://open.spotify.com/album/3AAFCYRP4Rje75J6FORJMJ"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 163815,
+      "name": "90s Kids",
+      "url": "https://open.spotify.com/track/34evGV6SaoRLHTcXXUVOpb"
     },
     {
       "added_at": "2021-08-20 08:20:52",

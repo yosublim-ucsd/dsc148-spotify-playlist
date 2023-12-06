@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7582,
+  "num_followers": 7580,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjUzNjFlZmFhMTY3OGJhMmU2YmI3NjAxOTcyMjc1ZTNkZjgyMjI0",
+  "snapshot_id": "MCxkM2M5MDA3MmM4ZjY1OTYwODhkMzEzY2VlMDdlZjRjOTM3MzVmYTk2",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -487,22 +487,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Triple Best Of",
-        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet's Blue Note Jazzmen",
-          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Weary Blues",
-      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans Heritage Hall Jazz Band",
         "url": "https://open.spotify.com/album/3KAFDWjwF2VBNBANhnZ7Nd"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 153506,
       "name": "Stock Yards Strut",
       "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet's Blue Note Jazzmen",
+          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Weary Blues",
+      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -567,6 +567,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Mardi Gras Parade Music from New Orleans",
+        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+      },
+      "artists": [
+        {
+          "name": "Sharkey Bonano",
+          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+        }
+      ],
+      "duration_ms": 285139,
+      "name": "While We Danced at Mardi Gras",
+      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "The Dukes At Disneyland",
         "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Mardi Gras Parade Music from New Orleans",
-        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
       "artists": [
         {
-          "name": "Sharkey Bonano",
-          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
         }
       ],
-      "duration_ms": 285139,
-      "name": "While We Danced at Mardi Gras",
-      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+      "duration_ms": 181133,
+      "name": "Livery Stable Blues (Barnyard Blues)",
+      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -627,22 +643,6 @@
       "duration_ms": 250986,
       "name": "Ain't She Sweet",
       "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
-      },
-      "artists": [
-        {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Livery Stable Blues (Barnyard Blues)",
-      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans to Lyon, Vol. 1",
         "url": "https://open.spotify.com/album/1aeqEOzWMKydJN0X6W1VmB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 440306,
       "name": "Algiers Strut",
       "url": "https://open.spotify.com/track/3kU40vSWnxsZguL1mdJ4Zx"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -927,18 +927,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
-        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
+        "name": "All Time Jazz: New Orleans Rhythm Kings",
+        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
       },
       "artists": [
         {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+          "name": "New Orleans Rhythm Kings",
+          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
         }
       ],
-      "duration_ms": 170866,
-      "name": "We're Gonna Have Smooth Sailing",
-      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
+      "duration_ms": 142026,
+      "name": "Bugle Call Blues",
+      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -975,18 +975,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "All Time Jazz: New Orleans Rhythm Kings",
-        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
+        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
+        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
       },
       "artists": [
         {
-          "name": "New Orleans Rhythm Kings",
-          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
         }
       ],
-      "duration_ms": 142026,
-      "name": "Bugle Call Blues",
-      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
+      "duration_ms": 170866,
+      "name": "We're Gonna Have Smooth Sailing",
+      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
     },
     {
       "added_at": "2020-08-19 17:19:14",

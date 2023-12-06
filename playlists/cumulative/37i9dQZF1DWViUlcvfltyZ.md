@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: MILANOSPORT
 
-664 songs - 1 day 12 hr 51 min
+665 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Ghicci ghicci](https://open.spotify.com/track/5QHlPJcnobVjeh4JkeGoBf) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Ghicci ghicci](https://open.spotify.com/album/2YYvugvmBJXu5fD8fr2Jy7) | 2:29 | 2023-05-18 | 2023-06-15 |
 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 | 2023-04-27 | 2023-10-28 |
 | [Giovedì al fiume](https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [PRIME DUE](https://open.spotify.com/album/0sb4eecDOevF7nhZCP1Nni) | 4:15 | 2023-07-18 | 2023-10-06 |
-| [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 | 2023-06-29 |  |
+| [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 | 2023-06-29 | 2023-12-06 |
 | [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 | 2022-08-05 |
 | [Graphiti :\)](https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP) | [Monday Comes Twice](https://open.spotify.com/artist/1v7zsqw6ZnRbq8nVDUuDru) | [Graphiti :\)](https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR) | 3:16 | 2022-05-09 | 2022-05-13 |
 | [Grunge Morale](https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Superluna Rock Music](https://open.spotify.com/album/6OEAw58eyguAaHQafIE354) | 2:58 | 2022-06-16 | 2022-07-08 |
@@ -356,6 +356,7 @@
 | [Mamma e papà](https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl) | [Marco Fracasia](https://open.spotify.com/artist/5cBxKy6si4GgCAJKaoYBrb) | [Mamma e papà](https://open.spotify.com/album/2aPx75NgtEtTVbZvAzaLoZ) | 4:31 | 2023-09-21 | 2023-10-27 |
 | [Manichini](https://open.spotify.com/track/3jFISbW5Ok8RoS3XeDZLfe) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Manichini](https://open.spotify.com/album/5zXmDgtt8EP1bzghLq7Ipc) | 3:25 | 2023-04-20 | 2023-05-12 |
 | [MANTRA](https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU) | [Isoladellerose](https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb) | [MANTRA](https://open.spotify.com/album/7LaUP7iIURuc6QPGSOPY2B) | 2:24 | 2023-10-19 | 2023-11-17 |
+| [Mare Forza 9oi](https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Mare Forza 9oi](https://open.spotify.com/album/6wHu0paIJx1aiN3w3NyExG) | 2:43 | 2023-12-05 |  |
 | [Mare Motus](https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [Zolfo](https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm) | 4:05 | 2023-10-19 | 2023-11-10 |
 | [Mark Mothersbaugh Alterego](https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Mark Mothersbaugh Alterego](https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9) | 2:48 | 2023-01-12 | 2023-04-28 |
 | [Matador](https://open.spotify.com/track/5g0aCS1VkUjInpKZJ5sqZw) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Matador](https://open.spotify.com/album/2HU1bNOzJU13btY8KjjNIC) | 3:20 | 2022-07-21 | 2022-11-25 |
@@ -516,7 +517,7 @@
 | [Scrivere](https://open.spotify.com/track/6A4gpoXjKnQC0IpBqJRxAL) | [Eugenio Sournia](https://open.spotify.com/artist/3WCGURs8932ul1bUI4FHCX) | [Eugenio Sournia](https://open.spotify.com/album/14pQ7uZjRUJqBktOWRUkO8) | 3:12 | 2023-11-16 |  |
 | [Seduci](https://open.spotify.com/track/4tDdBZoyhIgvyUueCEMxvG) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Seduci](https://open.spotify.com/album/6fiurr1oyIS6QJyt1NDoVp) | 3:17 | 2023-05-04 | 2023-05-26 |
 | [Seduci](https://open.spotify.com/track/0CPsIehtiLTUnI85XGB4qP) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:19 | 2023-10-23 | 2023-12-01 |
-| [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 | 2023-06-08 |  |
+| [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 | 2023-06-08 | 2023-12-06 |
 | [Sento Un Morso Dolce](https://open.spotify.com/track/7gMFVhNWLrVRjiMQ9Pwth5) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Habitat](https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC) | 3:28 | 2023-11-23 |  |
 | [Senza Fine](https://open.spotify.com/track/0kcOUYb4244Ul2Cd3mEvkE) | [ULTRANOIA](https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434) | [Senza Fine](https://open.spotify.com/album/2SlwwWFm3wZ9xFMwwntgup) | 3:31 | 2023-02-02 | 2023-03-03 |
 | [Senza mai guardarsi indietro](https://open.spotify.com/track/3QGx90XyhQZZUz7WKWMUCk) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Senza mai guardarsi indietro](https://open.spotify.com/album/6yTRDmKQJqpdXm0yNFFsTe) | 2:17 | 2023-07-06 | 2023-10-20 |

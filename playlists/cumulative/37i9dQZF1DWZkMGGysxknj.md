@@ -4,10 +4,11 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-272 songs - 15 hr 31 min
+273 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(You Look\) So Funny](https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 1:48 | 2023-12-05 |  |
 | [23](https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [23](https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1) | 3:07 | 2023-04-15 |  |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2021-07-16 |  |
 | [7 Inches](https://open.spotify.com/track/0Dh4cFSEyEWacV2FRf1viP) | [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1) | [For the Wolfish & Wandering](https://open.spotify.com/album/6tcuUCswHBUn4TikHmJK3M) | 3:26 | 2021-07-16 | 2022-07-29 |
@@ -194,7 +195,7 @@
 | [Promises](https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Promises](https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT) | 3:03 | 2021-07-16 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Pumped Up Kicks \(Acoustic Version\)](https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE) | 2:54 | 2021-07-16 |  |
 | [Que entre el frío](https://open.spotify.com/track/12OU5vEQio4792IRVMr2B6) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/0RAoYFdwdNtRG19pGJK8Be) | 4:27 | 2021-07-16 | 2022-07-29 |
-| [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 | 2021-07-16 |  |
+| [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 | 2021-07-16 | 2023-12-06 |
 | [Que Facil Es Hablar](https://open.spotify.com/track/2CiVK2RuaMOieFPdYacJtB) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2mmRppQCZB8ccGGUkxp0dJ) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Que Facil Es Hablar](https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw) | 2:54 | 2021-07-16 |  |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 | 2023-06-09 |  |

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-240 songs - 14 hr 44 min
+242 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 | 2022-10-20 |  |
 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2022-10-20 |  |
 | [HENTAI](https://open.spotify.com/track/7y1r8U18JSN93zZARYKfhT) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:42 | 2022-11-10 | 2022-11-14 |
-| [Here for You](https://open.spotify.com/track/1W2WTiFB8jFyfvrGskpFuM) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Here for You](https://open.spotify.com/album/3UzbiJ7QAN36hdoSY9Ks8g) | 3:21 | 2023-11-14 |  |
+| [Here for You](https://open.spotify.com/track/1W2WTiFB8jFyfvrGskpFuM) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Here for You](https://open.spotify.com/album/3UzbiJ7QAN36hdoSY9Ks8g) | 3:21 | 2023-11-14 | 2023-12-06 |
 | [High \(feat\. Campanella\)](https://open.spotify.com/track/3TMHpzaiMmou90bOIWnetM) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [翡翠 \( hisui \)](https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8) | 4:16 | 2022-10-20 | 2023-01-18 |
 | [HIT NUMBER \- EVISBEATSとPUNCH REMIX](https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ストライク!](https://open.spotify.com/album/5mJrUjgKk7jzSr9TohY7qx) | 3:28 | 2023-06-06 | 2023-11-16 |
 | [HOPE feat\. hiccorohee](https://open.spotify.com/track/1oAF8fvszphI6ys8v4Fdc1) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [ヒコロヒー](https://open.spotify.com/artist/1cpxQMl0q321dwHw3pNOlJ) | [HOPE feat\. hiccorohee](https://open.spotify.com/album/480DoFjhlOmyDHCo1hI7Hy) | 4:00 | 2023-06-06 | 2023-06-16 |
@@ -219,13 +219,15 @@
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-03-25 | 2023-04-19 |
 | [春泥棒](https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2023-03-25 | 2023-06-23 |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-25 | 2022-11-17 |
+| [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 |  |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-10-12 |  |
 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 | 2023-11-28 |  |
 | [楽園](https://open.spotify.com/track/2MCYwlrzVgOF3mmhk9tZW8) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [楽園](https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP) | 3:54 | 2022-10-20 | 2022-10-26 |
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2022-12-06 | 2023-02-25 |
 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 | 2023-09-20 |
 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 | 2022-10-20 | 2023-06-02 |
-| [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 | 2022-10-20 |  |
+| [浮かばれたいねサタデー](https://open.spotify.com/track/0wzfMN8h09YxxyGm8g50yL) | [Ryo Yoshinaga](https://open.spotify.com/artist/1q2tledGNGBATHvZ3zecQI) | [浮かばれたいねサタデー](https://open.spotify.com/album/79pFA5rz9iYrP5VgyTveOE) | 3:47 | 2023-12-05 |  |
+| [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 | 2022-10-20 | 2023-12-06 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 | 2023-03-25 |
 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2023-03-25 | 2023-12-05 |
 | [焦がれNight](https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [焦がれNight](https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2) | 3:55 | 2023-07-11 | 2023-08-23 |

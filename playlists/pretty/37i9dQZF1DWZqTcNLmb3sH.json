@@ -1,13 +1,33 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side B\n",
-  "num_followers": 56002,
+  "num_followers": 56020,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjI0NGNiZjRjZTdhNDM2MGNkMzIzYzIxZTg1YmViMGE2NTgyOGE3",
+  "snapshot_id": "MCw1ZjY3OGJmMTI3MzJjMGZlYzM2NDI0NjdjMGU5MzYzODhhYTQyODJl",
   "tracks": [
+    {
+      "added_at": "2023-12-05 06:44:55",
+      "album": {
+        "name": "Pasandaagavne ( from\"Kaatera\")",
+        "url": "https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 211155,
+      "name": "Pasandaagavne - (from \"Kaatera\")",
+      "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
+    },
     {
       "added_at": "2023-11-28 05:05:06",
       "album": {
@@ -16,8 +36,8 @@
       },
       "artists": [
         {
-          "name": "Charanraj",
-          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         },
         {
           "name": "Dhananjay Ranjan",
@@ -61,26 +81,6 @@
       "url": "https://open.spotify.com/track/1aWNLzd2uMEfI9nZyiZWAI"
     },
     {
-      "added_at": "2023-12-01 05:54:59",
-      "album": {
-        "name": "Kaatera (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/35x8sEQpw1cSG2D2TRWPnq"
-      },
-      "artists": [
-        {
-          "name": "Darshan",
-          "url": "https://open.spotify.com/artist/26H1qsQAoHvJ3NWoaJasKB"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 96124,
-      "name": "Kaatera Theme Music 02",
-      "url": "https://open.spotify.com/track/3i1AOIPSZjPCbbheknkrOn"
-    },
-    {
       "added_at": "2023-11-29 11:22:54",
       "album": {
         "name": "Byadadha Bhavne (from \"Sugar Factory\")",
@@ -116,8 +116,8 @@
           "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
         },
         {
-          "name": "Supreeth Sharma S",
-          "url": "https://open.spotify.com/artist/0z4MrVqQMVxI4zfrLJRUGw"
+          "name": "Suprith Sharma S",
+          "url": "https://open.spotify.com/artist/51B2gBGLKXNrKomRj8HKjz"
         }
       ],
       "duration_ms": 268488,
@@ -132,8 +132,8 @@
       },
       "artists": [
         {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         },
         {
           "name": "Dhananjay Ranjan",
@@ -156,8 +156,8 @@
       },
       "artists": [
         {
-          "name": "Charanraj",
-          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         },
         {
           "name": "Rakshit Shetty",
@@ -171,6 +171,26 @@
       "duration_ms": 156111,
       "name": "Dhare Neenididaasare (From \"Sapta Sagaradaache Ello - Side B\")",
       "url": "https://open.spotify.com/track/5rk8XadyFwgJMxy2l73Ynh"
+    },
+    {
+      "added_at": "2023-12-01 05:54:59",
+      "album": {
+        "name": "Kaatera (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/35x8sEQpw1cSG2D2TRWPnq"
+      },
+      "artists": [
+        {
+          "name": "Darshan",
+          "url": "https://open.spotify.com/artist/26H1qsQAoHvJ3NWoaJasKB"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 96124,
+      "name": "Kaatera Theme Music 02",
+      "url": "https://open.spotify.com/track/3i1AOIPSZjPCbbheknkrOn"
     },
     {
       "added_at": "2023-11-29 11:22:54",
@@ -440,8 +460,8 @@
       },
       "artists": [
         {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         },
         {
           "name": "Suvarna Sharma",
@@ -1324,8 +1344,8 @@
       },
       "artists": [
         {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         },
         {
           "name": "Nagarjun Sharma",
@@ -1476,8 +1496,8 @@
           "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
         },
         {
-          "name": "Charanraj",
-          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         }
       ],
       "duration_ms": 151000,
@@ -1600,12 +1620,8 @@
       },
       "artists": [
         {
-          "name": "Charan Raj M R",
-          "url": "https://open.spotify.com/artist/7JKaJx5xumMqm7rijSRGNL"
-        },
-        {
-          "name": "Charanraj",
-          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         }
       ],
       "duration_ms": 186915,
@@ -1679,42 +1695,6 @@
       "duration_ms": 295381,
       "name": "Samayave Saaladu",
       "url": "https://open.spotify.com/track/3XRMSg7cT5tgrzkRFYDDpE"
-    },
-    {
-      "added_at": "2023-10-04 12:07:55",
-      "album": {
-        "name": "Preetisabeda",
-        "url": "https://open.spotify.com/album/5VrpAmC4Gz3hRShKLhmtxm"
-      },
-      "artists": [
-        {
-          "name": "Greeshma Tharavath",
-          "url": "https://open.spotify.com/artist/38S7LZ9z3t1xYe8DLomnRY"
-        }
-      ],
-      "duration_ms": 193851,
-      "name": "Yenidhu Hosa",
-      "url": "https://open.spotify.com/track/3lgCFLGxttkoHVcMn0greF"
-    },
-    {
-      "added_at": "2023-10-06 10:58:50",
-      "album": {
-        "name": "Luv You Shankar - Title Track (Kannada) (From \"Luv You Shankar\")",
-        "url": "https://open.spotify.com/album/2yVaS7goQ1uIxlLEkz9vWQ"
-      },
-      "artists": [
-        {
-          "name": "Vardan Singh",
-          "url": "https://open.spotify.com/artist/4yeoysFmRgrJrMYtLlA7mF"
-        },
-        {
-          "name": "Shridevi Kalladka",
-          "url": "https://open.spotify.com/artist/0aPeKQSd30fMdO5Nf4dqBh"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Luv You Shankar - Title Track (Kannada) (From \"Luv You Shankar\")",
-      "url": "https://open.spotify.com/track/5USiyt3zwXbm600onq3ijN"
     }
   ],
   "unique_name": "Latest Kannada",

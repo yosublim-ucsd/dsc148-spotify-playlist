@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from independent, developing artists around the world this year. Cover: Searows",
-  "num_followers": 1170620,
+  "num_followers": 1170932,
   "original_name": "Fresh Finds Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDJjYmRhOGI5MDI3Zjg3Njg2ODE5MzRjYmEzMWI5NmJhZmI1Y2Q5",
+  "snapshot_id": "MCwxNDUzYmI0ZDQzYTI4MTg1MWNlYWQzZTY4ZGIwYzdkYTY4NGNiMDE2",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "The Rebirth Of Marvin",
         "url": "https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 202826,
       "name": "Back To Your Place",
       "url": "https://open.spotify.com/track/5BzADVUCRuxiPz2ah64RLk"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -815,50 +815,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
       },
       "artists": [
         {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
         }
       ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Same Streets But I Don't See You Around",
-        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Jethwa",
-          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
-        }
-      ],
-      "duration_ms": 173196,
-      "name": "Have I Ever Been",
-      "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "For You I'll Wait",
-        "url": "https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0"
-      },
-      "artists": [
-        {
-          "name": "harf.",
-          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
-        }
-      ],
-      "duration_ms": 235794,
-      "name": "For You I'll Wait",
-      "url": "https://open.spotify.com/track/6ju4VPjmZhm3F64pfEdi4U"
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -879,18 +847,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "little miss misogyny",
-        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+        "name": "Same Streets But I Don't See You Around",
+        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
       },
       "artists": [
         {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
         }
       ],
-      "duration_ms": 147205,
-      "name": "little miss misogyny",
-      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+      "duration_ms": 173196,
+      "name": "Have I Ever Been",
+      "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -907,6 +875,38 @@
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "For You I'll Wait",
+        "url": "https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "duration_ms": 235794,
+      "name": "For You I'll Wait",
+      "url": "https://open.spotify.com/track/6ju4VPjmZhm3F64pfEdi4U"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 223231,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Spiritual Cramp",
         "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "After The Day Party",
-      "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Cheapshot",
         "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 100593,
       "name": "Cheapshot",
       "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "After The Day Party",
+      "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "from here on out",
         "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 271421,
       "name": "from here on out",
       "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Raining Tomorrow",
-        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
+        "name": "911",
+        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
       },
       "artists": [
         {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 228484,
-      "name": "Raining Tomorrow",
-      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+      "duration_ms": 172198,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
+        "name": "Raining Tomorrow",
+        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
         }
       ],
-      "duration_ms": 172198,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
+      "duration_ms": 228484,
+      "name": "Raining Tomorrow",
+      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1271,6 +1271,22 @@
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Erotic Probiotic 2",
-        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Don Lemon",
         "url": "https://open.spotify.com/album/10llpGOIEohzO6V2awCypr"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Lose You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md"
-      },
-      "artists": [
-        {
-          "name": "UNA MIA",
-          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
-        }
-      ],
-      "duration_ms": 199454,
-      "name": "Lose You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
         "url": "https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 285955,
       "name": "Mu\u1ed1n B\u00ean Anh Th\u1eadt Kh\u00f4ng",
       "url": "https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Lose You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md"
+      },
+      "artists": [
+        {
+          "name": "UNA MIA",
+          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
+        }
+      ],
+      "duration_ms": 199454,
+      "name": "Lose You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Gulabi",
-        "url": "https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4"
-      },
-      "artists": [
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Gulabi",
-      "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Looking At Me",
         "url": "https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Colder in June",
-        "url": "https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn"
+        "name": "Gulabi",
+        "url": "https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4"
       },
       "artists": [
         {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
         }
       ],
-      "duration_ms": 231138,
-      "name": "Colder in June",
-      "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
+      "duration_ms": 165436,
+      "name": "Gulabi",
+      "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1507,6 +1491,22 @@
       "duration_ms": 153636,
       "name": "Blak Britney",
       "url": "https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Colder in June",
+        "url": "https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 231138,
+      "name": "Colder in June",
+      "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "My Future",
         "url": "https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw"
       },
@@ -1659,6 +1639,22 @@
       "duration_ms": 155468,
       "name": "My Future",
       "url": "https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Why Does the Earth Give Us People to Love?",
+        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 325204,
+      "name": "dickhead blues",
+      "url": "https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO"
     }
   ],
   "unique_name": "Fresh Finds Class of 2023",

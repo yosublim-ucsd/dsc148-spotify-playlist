@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1697401,
+  "num_followers": 1697453,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWUxOGY5ZTMzNjU3N2I4NTQ5OWM0MGQ0OWY4OGFhYmM2ODQ0N2Y4",
+  "snapshot_id": "MCwyOTE1YzU4ZjRjNTJiZjAwOTg0MzI4M2E4OGIyZDMzOTE5YjQzYmZk",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 155997,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Rainbow Mixtape",
@@ -659,22 +675,6 @@
       "duration_ms": 173320,
       "name": "Sagittarius Superstar",
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 155997,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
     },
     {
       "added_at": "2023-07-07 18:51:45",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Her Favorite Flowers",
@@ -787,6 +771,22 @@
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Stay",
@@ -939,6 +923,22 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -1073,20 +1089,20 @@
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "i wanna be your right hand",
-        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
       },
       "artists": [
         {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 148533,
-      "name": "i wanna be your right hand",
-      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+      "duration_ms": 186643,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
     },
     {
       "added_at": "2023-10-11 00:27:27",
@@ -1103,22 +1119,6 @@
       "duration_ms": 184750,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1NqIMpmNukrvX1aAgxujvO"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 186643,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1425,38 +1425,6 @@
       "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "jupiter",
-        "url": "https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn"
-      },
-      "artists": [
-        {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
-        }
-      ],
-      "duration_ms": 150430,
-      "name": "jupiter",
-      "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Pollen",
@@ -1487,6 +1455,38 @@
       "duration_ms": 141991,
       "name": "2009 TOYOTA",
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "jupiter",
+        "url": "https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 150430,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
     },
     {
-      "added_at": "2023-11-06 22:17:47",
-      "album": {
-        "name": "Drain Me!",
-        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 121533,
-      "name": "Drain Me!",
-      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "All Night",
@@ -1571,6 +1555,22 @@
       "duration_ms": 195598,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
+    },
+    {
+      "added_at": "2023-11-06 22:17:47",
+      "album": {
+        "name": "Drain Me!",
+        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 121533,
+      "name": "Drain Me!",
+      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     },
     {
       "added_at": "2023-03-24 04:00:00",

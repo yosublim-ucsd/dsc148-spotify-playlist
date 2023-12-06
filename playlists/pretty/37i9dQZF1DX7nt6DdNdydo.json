@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 46581,
+  "num_followers": 46610,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjE5MmQ3YjYxZWFjMWI2MjM0YjEyMTQ2NmVkYjhiMWU3M2M3Y2Qz",
+  "snapshot_id": "MCw5NzdlOGEzY2U5NDU1OGI5YWQxYmM3NGVjZjE5NDgwZjNiYWYzYWJm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Sax Shack Boogie",
-      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 286893,
       "name": "Rhythm In The Barnyard",
       "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Sax Shack Boogie",
+      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Rock And Roll - The Essential Collection",
-        "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
-      },
-      "artists": [
-        {
-          "name": "Joe Houston & His Rockets",
-          "url": "https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6"
-        }
-      ],
-      "duration_ms": 160186,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Come on and Have Your Fun",
         "url": "https://open.spotify.com/album/56kya17Zle3APMlEAXgkYL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 119386,
       "name": "The Flirt",
       "url": "https://open.spotify.com/track/57ReV13secms86t42AdOWq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Rock And Roll - The Essential Collection",
+        "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
+      },
+      "artists": [
+        {
+          "name": "Joe Houston & His Rockets",
+          "url": "https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6"
+        }
+      ],
+      "duration_ms": 160186,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
     },
     {
       "added_at": "2022-03-28 19:44:25",

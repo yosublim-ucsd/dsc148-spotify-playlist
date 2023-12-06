@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Stuck In The Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,908 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,922 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Time](https://open.spotify.com/track/2w3KEeb54tgFgeMtB5HHgy) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Time](https://open.spotify.com/album/6iPuJPHRgrMUnzyOJWrQp9) | 2:49 |
 | 50 | [Good Enough](https://open.spotify.com/track/4KGhV3es3fpxChfpBCgAJj) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Early Fuck\-Ups](https://open.spotify.com/album/1xhjU4FX6Ezh9HtJvhAZDM) | 3:28 |
 
-Snapshot ID: `MCwzNGJkMGQ4ZGU5NTMyODNlZjc1M2Y2ZTQwMDQwNTc3NjUzYzhhYTAy`
+Snapshot ID: `MCw1ZTdmOTczOWFkZGFlY2M1YWIwZmNiYjdmMWVmNGViY2M0NjAxODdm`

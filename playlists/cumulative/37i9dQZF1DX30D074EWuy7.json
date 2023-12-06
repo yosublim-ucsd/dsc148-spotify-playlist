@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Una selezione speciale a cura di <a href=\"spotify:artist:6jLkAhKbd3toZ58ri9NQrV\">Francesca Gaza</a>! ",
-  "name": "Jazz Italia ",
+  "description": "Una speciale selezione jazz natalizia! \ud83c\udf84 A cura di <a href=\"spotify:artist:2qW0CNnmvdEQwiabdareHi\">Paolo Fresu</a>! \ud83c\udf1f",
+  "name": "Jazz Italia: Speciale Natale ",
   "tracks": [
     {
       "album": {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 277213,
       "name": "74",
       "url": "https://open.spotify.com/track/2AicaiOhMLV91W1lVWbIJ0"
@@ -165,6 +165,32 @@
     },
     {
       "album": {
+        "name": "Trigono",
+        "url": "https://open.spotify.com/album/5YLHNnTKVaVhBUG39DpG84"
+      },
+      "artists": [
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Quartetto Alborada",
+          "url": "https://open.spotify.com/artist/4XyoalV7oNJZUzM2cqyeDZ"
+        },
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70883,
+      "name": "Abide with Me - Take One",
+      "url": "https://open.spotify.com/track/4OQdgklbR5zRsD57zXc6Xw"
+    },
+    {
+      "album": {
         "name": "Inner Core",
         "url": "https://open.spotify.com/album/3I82WfHCW4zWVOSQGeoXAF"
       },
@@ -192,10 +218,28 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 354782,
       "name": "About the End of Love",
       "url": "https://open.spotify.com/track/3mc6aAHGGl6n75AVwAvrvd"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/5BP07D2BN5mYxm4OU6Ra8B"
     },
     {
       "album": {
@@ -217,6 +261,62 @@
     },
     {
       "album": {
+        "name": "John Benson Brooks' Alabama Concerto",
+        "url": "https://open.spotify.com/album/6OAlwhUIL9TWNODmmzLXE7"
+      },
+      "artists": [
+        {
+          "name": "John Benson Brooks",
+          "url": "https://open.spotify.com/artist/0stLI6JkL2UxIuFLTPGJhp"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451400,
+      "name": "Alabama Concerto: Blues For Christmas / Rufus Playboy / Grandma's Coffin / Blues For Christmas (Return) - Fourth Movement",
+      "url": "https://open.spotify.com/track/5eJiWGyyWo2GaEXp970kvG"
+    },
+    {
+      "album": {
+        "name": "Tango macondo",
+        "url": "https://open.spotify.com/album/6Dn6zpqybEbSFQTDftgHwr"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Daniele di Bonaventura",
+          "url": "https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6"
+        },
+        {
+          "name": "Pierpaolo Vacca",
+          "url": "https://open.spotify.com/artist/2ydoAm2oP1Yhqjh6WzUVRv"
+        },
+        {
+          "name": "Malika Ayane",
+          "url": "https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197761,
+      "name": "Alguien Le Dice al Tango",
+      "url": "https://open.spotify.com/track/2Z950VvhaF7Ju6NIzJOsTe"
+    },
+    {
+      "album": {
         "name": "Perpetual Possibility",
         "url": "https://open.spotify.com/album/1GjHCmpeyiDFkyiaZDeLk5"
       },
@@ -228,7 +328,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 300951,
       "name": "All Shall Be Well",
       "url": "https://open.spotify.com/track/5gd6aLX3Svnhs6I40tz0Up"
@@ -246,7 +346,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 278869,
       "name": "Am I Hysterical?",
       "url": "https://open.spotify.com/track/3dLhVLofgmij0gikw8cghv"
@@ -418,7 +518,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 187773,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5QWmbqon58o6kpTxQ01OiH"
@@ -528,6 +628,68 @@
       "duration_ms": 589055,
       "name": "Attimi",
       "url": "https://open.spotify.com/track/33zWeKLNubdUczIdW5G4NA"
+    },
+    {
+      "album": {
+        "name": "Recollections Of The Big Band Era",
+        "url": "https://open.spotify.com/album/6JzIQniQzYrbmuVJZCUG64"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/3ST9nLlYx7MgDhLSfEapkH"
+    },
+    {
+      "album": {
+        "name": "Italian Jazz Vol. 1",
+        "url": "https://open.spotify.com/album/0ULSgqdtIWJpJJaNcwFlNj"
+      },
+      "artists": [
+        {
+          "name": "Gil Cuppini",
+          "url": "https://open.spotify.com/artist/6yzjZ4DDflJzXZw89sDjJW"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5v7p7ab6L2ofdQKBnwD5Uc"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/1O1OoIgPGVJIcmGaUfMDwU"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Roberto Cipelli",
+          "url": "https://open.spotify.com/artist/4rOLlT7H7aKBWhTsqhpvWM"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227451,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5U2wKuX9sTWd78TA3tI8fD"
     },
     {
       "album": {
@@ -716,7 +878,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 287087,
       "name": "Being Tall",
       "url": "https://open.spotify.com/track/77cm678VORgeHsoVVBTeHX"
@@ -814,7 +976,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 217507,
       "name": "Bitter Liver",
       "url": "https://open.spotify.com/track/6XPJRFUkVcOiEPTzSC9OOM"
@@ -897,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159960,
+      "name": "Blue Xmas (To Whom It May Concern)",
+      "url": "https://open.spotify.com/track/4xaYrhNS7U8tc7baaWdT8Z"
+    },
+    {
+      "album": {
         "name": "Carina",
         "url": "https://open.spotify.com/album/75kGDr36AtwMLXbOg2pV7O"
       },
@@ -930,7 +1114,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 472180,
       "name": "Borea",
       "url": "https://open.spotify.com/track/1jMWVzzVaNR9EeBv3NnjdS"
@@ -988,7 +1172,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 185069,
       "name": "Buffering Proem",
       "url": "https://open.spotify.com/track/44YwWHyKWwNgiTMifkfaSl"
@@ -1096,7 +1280,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 293600,
       "name": "Ca Mira",
       "url": "https://open.spotify.com/track/3K6Y0KqquJiSkQilfDaSlI"
@@ -1140,10 +1324,28 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 576000,
       "name": "Camporovere",
       "url": "https://open.spotify.com/track/4x1ahqEJk7ngacLLextDSU"
+    },
+    {
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292626,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4s6oQ7wdy7jOv53weBiPli"
     },
     {
       "album": {
@@ -1198,6 +1400,68 @@
       "duration_ms": 171608,
       "name": "Chit-Car",
       "url": "https://open.spotify.com/track/7ufkOpkWNHUMn3TCRKdVdU"
+    },
+    {
+      "album": {
+        "name": "Michel Petrucciani",
+        "url": "https://open.spotify.com/album/2pIZle7PcnhQPQAPGdbkpv"
+      },
+      "artists": [
+        {
+          "name": "Michel Petrucciani",
+          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429640,
+      "name": "Christmas Dreams",
+      "url": "https://open.spotify.com/track/1KcxO11OKuKgChrVxSCStT"
+    },
+    {
+      "album": {
+        "name": "Christmas Here With You",
+        "url": "https://open.spotify.com/album/1MRqlKqsXrX2bCH96xLhag"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307880,
+      "name": "Christmas Here With You",
+      "url": "https://open.spotify.com/track/0pNop5dKxQvNtjDOimXrEI"
+    },
+    {
+      "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175001,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH"
     },
     {
       "album": {
@@ -1430,7 +1694,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 208484,
       "name": "Crypted",
       "url": "https://open.spotify.com/track/2el7zHEOj3PN1iTFAK09gY"
@@ -1548,7 +1812,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 216210,
       "name": "Dear",
       "url": "https://open.spotify.com/track/239rcUUm0FK128c5F54ItZ"
@@ -1632,6 +1896,32 @@
       "duration_ms": 353310,
       "name": "Desertico",
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
+    },
+    {
+      "album": {
+        "name": "Food",
+        "url": "https://open.spotify.com/album/4yoRYk48b4Xg3nx4UBhO9u"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Omar Sosa",
+          "url": "https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX"
+        },
+        {
+          "name": "Indwe",
+          "url": "https://open.spotify.com/artist/39BgxrsJgtMwRHKjwrTdUr"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473240,
+      "name": "Didjo",
+      "url": "https://open.spotify.com/track/5BbVK4xnh10S4p0VuKqFdO"
     },
     {
       "album": {
@@ -1744,7 +2034,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 174546,
       "name": "Dora Et Les Adieux",
       "url": "https://open.spotify.com/track/2fhGlypMSdpC0yEToqKcK1"
@@ -1922,7 +2212,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 262370,
       "name": "Escher",
       "url": "https://open.spotify.com/track/6CTghVB49sA3Jjh2OGopC4"
@@ -2170,7 +2460,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 303722,
       "name": "Floods",
       "url": "https://open.spotify.com/track/5ZMb7VRwQBAlxA81J75PRe"
@@ -2305,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+    },
+    {
+      "album": {
         "name": "Koine'",
         "url": "https://open.spotify.com/album/4PfDpofG0M3YtpFjpmXg1t"
       },
@@ -2416,7 +2724,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 146230,
       "name": "Giallo ocra",
       "url": "https://open.spotify.com/track/3Vz3c1nVz8r50ckbFERFFP"
@@ -2508,7 +2816,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 204886,
       "name": "Gnossienne",
       "url": "https://open.spotify.com/track/6eLsXVRJ3AnvKykPK3aFul"
@@ -2545,6 +2853,46 @@
     },
     {
       "album": {
+        "name": "Madera Balza",
+        "url": "https://open.spotify.com/album/5v17y8byFdai5z4JqSATIq"
+      },
+      "artists": [
+        {
+          "name": "Monica Demuru",
+          "url": "https://open.spotify.com/artist/3Higz8Le5xC6BnuVZ8KZmz"
+        },
+        {
+          "name": "Natalio Mangalavite",
+          "url": "https://open.spotify.com/artist/2TfnOtx90geuS56WOoPIqO"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195416,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/0Iqa33BAmjVLRKvz96jjWI"
+    },
+    {
+      "album": {
+        "name": "Specs people",
+        "url": "https://open.spotify.com/album/7qJcMux6Z2Yj0fVwZaFaro"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Gran Torino",
+      "url": "https://open.spotify.com/track/4R2h6ve4nlBWvTn53lWdXP"
+    },
+    {
+      "album": {
         "name": "Forest City",
         "url": "https://open.spotify.com/album/1tEe3UAUaaqkGutB94Jsiw"
       },
@@ -2556,7 +2904,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 214960,
       "name": "Greenarp",
       "url": "https://open.spotify.com/track/4sHTSXAklnVPGTDNOvunVL"
@@ -2608,7 +2956,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 299787,
       "name": "Habibi Baby",
       "url": "https://open.spotify.com/track/0pCfYzmqBqZN9uRoVfErBF"
@@ -2736,6 +3084,46 @@
       "duration_ms": 205773,
       "name": "Happy Christmas, War Is Over",
       "url": "https://open.spotify.com/track/4JPpPXPhpBAH4le8U1buNw"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Jazz",
+        "url": "https://open.spotify.com/album/2Q7VM6nxHj7wxW3TlG4OD2"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon Quartet",
+          "url": "https://open.spotify.com/artist/4jDwy0eEfWolwxMAeWeaik"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577800,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3wRJXSbKVfPs4e0t38ZHhu"
+    },
+    {
+      "album": {
+        "name": "Jazz for Christmas (feat. Antonio Fara\u00f2)",
+        "url": "https://open.spotify.com/album/3pqxWoE4p8pzPgtsqtM9Gc"
+      },
+      "artists": [
+        {
+          "name": "Luca Jurman",
+          "url": "https://open.spotify.com/artist/4JXvGMYRNLql4TdYYYEt7s"
+        },
+        {
+          "name": "Antonio Fara\u00f2",
+          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4t5m1wGdsAxck39Q0R84AQ"
     },
     {
       "album": {
@@ -2938,7 +3326,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 258625,
       "name": "I Have Never Loved Someone",
       "url": "https://open.spotify.com/track/7hylvaPtjPXDeic7d8nQTi"
@@ -3007,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bell Jazz",
+        "url": "https://open.spotify.com/album/2Q7VM6nxHj7wxW3TlG4OD2"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352360,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/1AhIACP96Wu167N7chRTlO"
+    },
+    {
+      "album": {
         "name": "Trigono",
         "url": "https://open.spotify.com/album/5YLHNnTKVaVhBUG39DpG84"
       },
@@ -3034,6 +3440,42 @@
       "duration_ms": 271016,
       "name": "I'm a Dreamer",
       "url": "https://open.spotify.com/track/5Czo4C2VsrSrim1EFKWXfQ"
+    },
+    {
+      "album": {
+        "name": "I Got Rhythm Vol. 3 1935-1944",
+        "url": "https://open.spotify.com/album/58EgYWDjnCyRxxNwVN3id3"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/7wRcDQXo4QBwdRPU5ZTo7G"
+    },
+    {
+      "album": {
+        "name": "Billie Holiday Love Songs",
+        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174906,
+      "name": "I've Got My Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
     },
     {
       "album": {
@@ -3088,7 +3530,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 547800,
       "name": "il resto come sempre",
       "url": "https://open.spotify.com/track/1nJdsjINNISRA0rDIYtoep"
@@ -3186,7 +3628,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 440533,
       "name": "Inappropriate Behaviour in a Formal Setting",
       "url": "https://open.spotify.com/track/4aHwXjVSRJTrToJJIFMxUr"
@@ -3236,7 +3678,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 310951,
       "name": "Introverted Unknown",
       "url": "https://open.spotify.com/track/34R0BZcShRNZCeNoug8pfg"
@@ -3320,7 +3762,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 202000,
       "name": "iso",
       "url": "https://open.spotify.com/track/53ybYbcu7N7Vkcaswq1JYh"
@@ -3408,10 +3850,44 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 350210,
       "name": "Jenny Lind",
       "url": "https://open.spotify.com/track/74A7dX4VWPj6Fl6YnP26FL"
+    },
+    {
+      "album": {
+        "name": "Play Bach",
+        "url": "https://open.spotify.com/album/1R0tfdp7D3LcaxTw04dmL4"
+      },
+      "artists": [
+        {
+          "name": "The Classical Jazz Quartet",
+          "url": "https://open.spotify.com/artist/1eTIQmloFf0HEKBHoLt4fW"
+        },
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Stefon Harris",
+          "url": "https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ"
+        },
+        {
+          "name": "Lewis Nash",
+          "url": "https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519600,
+      "name": "Jesu, Joy of Man's Desiring",
+      "url": "https://open.spotify.com/track/4DA4z5zASfFwbXOrHm8FWq"
     },
     {
       "album": {
@@ -3452,6 +3928,24 @@
       "duration_ms": 145386,
       "name": "Jingle Bell Rock (feat. Annalisa)",
       "url": "https://open.spotify.com/track/5DAUoBntKkZkHkkbOBAkK7"
+    },
+    {
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/6jzofmhnBuJI26GX7bp2fK"
     },
     {
       "album": {
@@ -3562,7 +4056,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 233640,
       "name": "Klondike",
       "url": "https://open.spotify.com/track/6QQSVWQGN5d1RMamNIo0xw"
@@ -3819,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Tutto Cetra \"Un bacio a mezzanotte\"",
+        "url": "https://open.spotify.com/album/2NuD8aJKSh01sJvHUYECB9"
+      },
+      "artists": [
+        {
+          "name": "Quartetto Cetra",
+          "url": "https://open.spotify.com/artist/25ZBunkfzzZnPqVFHRnB74"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "La letterina di Natale",
+      "url": "https://open.spotify.com/track/0gXi92X8G9Bw4RDETbSXLQ"
+    },
+    {
+      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -3952,7 +4464,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 151000,
       "name": "Langsamer",
       "url": "https://open.spotify.com/track/6Ul0Cgkrg6d1xqZVOV1hfx"
@@ -4069,6 +4581,40 @@
     },
     {
       "album": {
+        "name": "The Whistleblowers (Heartland)",
+        "url": "https://open.spotify.com/album/6c0hQ1Dx9rXx00BeWlZGQ1"
+      },
+      "artists": [
+        {
+          "name": "David Linx",
+          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Diederik Wissels",
+          "url": "https://open.spotify.com/artist/6SWdCdXOByDrKuxMlKp6Bv"
+        },
+        {
+          "name": "Cristophe Wallemme",
+          "url": "https://open.spotify.com/artist/4Ul6vA6PQhUTiqMyBS6yq8"
+        },
+        {
+          "name": "Helge Andreas Norbakken",
+          "url": "https://open.spotify.com/artist/5oa2iDJMbJVVspUSq2IiAb"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349803,
+      "name": "Le tue mani",
+      "url": "https://open.spotify.com/track/3EQBxBOsXav9kwK0C9JMYL"
+    },
+    {
+      "album": {
         "name": "Tutti Morimmo A Stento",
         "url": "https://open.spotify.com/album/4dbMr1mMSVcgIYO3AWPzdv"
       },
@@ -4080,7 +4626,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Leggenda di Natale",
       "url": "https://open.spotify.com/track/3phNu679aziBfazRXI9Bvs"
@@ -4102,7 +4648,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 236073,
       "name": "Legno madre",
       "url": "https://open.spotify.com/track/6xNKdsKUXGKCKUaEWfSImr"
@@ -4128,7 +4674,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 351240,
       "name": "Length of Time",
       "url": "https://open.spotify.com/track/5JOVG1LXRw7eiubj2O5Kzy"
@@ -4212,7 +4758,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 239362,
       "name": "Let Me Take You",
       "url": "https://open.spotify.com/track/7HiSErhUXOCsfuEW9VXeoD"
@@ -4280,7 +4826,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 225960,
       "name": "Lettere",
       "url": "https://open.spotify.com/track/1DtNAqbvr7G1IRJ8WtPrPi"
@@ -4404,6 +4950,32 @@
       "duration_ms": 216880,
       "name": "Love is a Temple",
       "url": "https://open.spotify.com/track/3wj0rOntfKekxkJrqsOU8y"
+    },
+    {
+      "album": {
+        "name": "No\u00e8",
+        "url": "https://open.spotify.com/album/69onXIGBTdfJ7AADZExuXk"
+      },
+      "artists": [
+        {
+          "name": "Raffaele Casarano",
+          "url": "https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB"
+        },
+        {
+          "name": "Locomotive",
+          "url": "https://open.spotify.com/artist/7lFPzgsQwdyUrPIaU0oZzo"
+        },
+        {
+          "name": "Giuliano Sangiorgi",
+          "url": "https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276586,
+      "name": "Lu rusciu de lu mare - Vocal",
+      "url": "https://open.spotify.com/track/5waZ6CiNIvE8HFn5KmDEub"
     },
     {
       "album": {
@@ -4667,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Playing The Piano",
+        "url": "https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282453,
+      "name": "Merry Christmas Mr. Lawrence",
+      "url": "https://open.spotify.com/track/49zUdbESCRSGaknOJWqnTH"
+    },
+    {
+      "album": {
         "name": "Metamorphosi",
         "url": "https://open.spotify.com/album/1uBCJiku4unhCQkRzMAc94"
       },
@@ -4704,6 +5294,24 @@
       "duration_ms": 200706,
       "name": "Michelangelo Antonioni (feat. Caetano Veloso)",
       "url": "https://open.spotify.com/track/09AVoedIvM5WqdJA2j4tIb"
+    },
+    {
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "Mistletoe And Holly",
+      "url": "https://open.spotify.com/track/6zPuGWyVD5hY1on54zcKdE"
     },
     {
       "album": {
@@ -4784,7 +5392,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 43121,
       "name": "Mortara - una catena di gesti appiattiti e monodimensionali",
       "url": "https://open.spotify.com/track/3Jble5n9rqewqQi2LWqaGz"
@@ -4890,7 +5498,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 362480,
       "name": "My Body",
       "url": "https://open.spotify.com/track/6ndP9sjhs1awZ59nMrXDXI"
@@ -5020,7 +5628,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Natale Ciao",
       "url": "https://open.spotify.com/track/2kalZiYSGmZLO30NhYpdW5"
@@ -5134,6 +5742,28 @@
       "duration_ms": 181360,
       "name": "Ninna nanna e Natale",
       "url": "https://open.spotify.com/track/71XqWgeNZzIgjxDQCyg5tX"
+    },
+    {
+      "album": {
+        "name": "Songlines / Night & Blue",
+        "url": "https://open.spotify.com/album/7InAo1ThP26nfNPY39j9Jt"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Fresu Quintet",
+          "url": "https://open.spotify.com/artist/3PM3wuzLhF22bfcFg1DWfd"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190736,
+      "name": "Ninna nanna per Andrea",
+      "url": "https://open.spotify.com/track/0vLk5nEnFKhWE85A3K3wsi"
     },
     {
       "album": {
@@ -5320,7 +5950,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 449299,
       "name": "Off",
       "url": "https://open.spotify.com/track/5WciG6LkYHEn85TwYpEvCy"
@@ -5372,6 +6002,24 @@
       "duration_ms": 359466,
       "name": "Old Fashion Christmas",
       "url": "https://open.spotify.com/track/3QSerAs5hrCfJlVT4WnXju"
+    },
+    {
+      "album": {
+        "name": "Christmas Song Book",
+        "url": "https://open.spotify.com/album/3FAlvXnq7NbIeCrSRmnvSi"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361693,
+      "name": "Old Fashion Christmas",
+      "url": "https://open.spotify.com/track/1xCzlvjrhpOkzqr8OyxK5U"
     },
     {
       "album": {
@@ -5468,7 +6116,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 329960,
       "name": "Ottava",
       "url": "https://open.spotify.com/track/2os7wriEfTi0f0Eb3uG0U9"
@@ -5508,7 +6156,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 222360,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/0gMGeus1PrRZEwNrAnk0fU"
@@ -5626,7 +6274,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 207748,
       "name": "Plumage",
       "url": "https://open.spotify.com/track/4FdaUpSCUU5MPTAFPiCGvC"
@@ -5766,6 +6414,36 @@
       "duration_ms": 302021,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3H6qLglqHy5yqL1agQIYeW"
+    },
+    {
+      "album": {
+        "name": "Clorofilla",
+        "url": "https://open.spotify.com/album/5svy0iVGahFwfnwldEvz4e"
+      },
+      "artists": [
+        {
+          "name": "Leila Shirvani",
+          "url": "https://open.spotify.com/artist/7MbS9ZaBk7Dk5LH8HD4wAT"
+        },
+        {
+          "name": "Francesco Diodati",
+          "url": "https://open.spotify.com/artist/5uCDqkwdrinUuSp2ipAQIg"
+        },
+        {
+          "name": "Sara Shirvani",
+          "url": "https://open.spotify.com/artist/0IKCKVsyiwFrRzvTgDHtBj"
+        },
+        {
+          "name": "Enrico Morello",
+          "url": "https://open.spotify.com/artist/3UdoL4iyxmmgzvpY7209Ps"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180700,
+      "name": "Rami / Riturnella",
+      "url": "https://open.spotify.com/track/67dvGwfXOa1Ne5nIBT4eX9"
     },
     {
       "album": {
@@ -5923,6 +6601,24 @@
     },
     {
       "album": {
+        "name": "Christmas Spirituals",
+        "url": "https://open.spotify.com/album/7zMkHp6kZreU6RPfvIEZZQ"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Rise Up Shepherds & Follow",
+      "url": "https://open.spotify.com/track/0XMpn7RWhR9J9tdVd0Kccc"
+    },
+    {
+      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -5966,7 +6662,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 194977,
       "name": "Rotation Suggesting Permanence",
       "url": "https://open.spotify.com/track/3PdRX3VXcvB5QihiG9AGkn"
@@ -6045,6 +6741,42 @@
     },
     {
       "album": {
+        "name": "Christmas Song Book",
+        "url": "https://open.spotify.com/album/3FAlvXnq7NbIeCrSRmnvSi"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Santa Claus Got Stuck in My Chimney",
+      "url": "https://open.spotify.com/track/0n2HBsh3U1NoH0ZkXAAWDz"
+    },
+    {
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264360,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
+    },
+    {
+      "album": {
         "name": "Il mio giardino",
         "url": "https://open.spotify.com/album/0dtHmcp3sGcJx0n3XyOef4"
       },
@@ -6078,7 +6810,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 385720,
       "name": "Se Penso Io E Te",
       "url": "https://open.spotify.com/track/54PDiKL5YNlMkaKeUj7xnv"
@@ -6122,7 +6854,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 298715,
       "name": "Sea Warrior",
       "url": "https://open.spotify.com/track/6quIYIDMIL8ZC8qPdZtpE2"
@@ -6276,10 +7008,28 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 451217,
       "name": "Sfiorire",
       "url": "https://open.spotify.com/track/5orMYwNNFe3eg2VFzogmTG"
+    },
+    {
+      "album": {
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "album": {
@@ -6342,6 +7092,60 @@
       "duration_ms": 205459,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/3lnJ8dsotcdRuAosXnV9VG"
+    },
+    {
+      "album": {
+        "name": "Silent Nights",
+        "url": "https://open.spotify.com/album/7vo9X8ppoUrze5TS0Deas6"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Silent Night, Pt. 1",
+      "url": "https://open.spotify.com/track/10NjPgVfYVynCN79HvLfYz"
+    },
+    {
+      "album": {
+        "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
+        "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145640,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/4Gu4Z1RQ68h8fQnSDQxfKr"
     },
     {
       "album": {
@@ -6534,7 +7338,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 203160,
       "name": "Stand Stan",
       "url": "https://open.spotify.com/track/3bbYpaMHAbtWkvA7ecrvOU"
@@ -6552,7 +7356,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 325386,
       "name": "stanza",
       "url": "https://open.spotify.com/track/43EQlmYkZTt3PGEsfaE4V4"
@@ -6632,6 +7436,24 @@
       "duration_ms": 184133,
       "name": "Sutta n' pedi",
       "url": "https://open.spotify.com/track/0vBMVwaEziXRW28olgctME"
+    },
+    {
+      "album": {
+        "name": "Swingin' Christmas Party",
+        "url": "https://open.spotify.com/album/0DIgfN5Vmz6nJCSLYvwz2n"
+      },
+      "artists": [
+        {
+          "name": "Fats Waller",
+          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "Swingin' Them Jingle Bells",
+      "url": "https://open.spotify.com/track/4eJWs2ovx9JVp2UmBK9aiC"
     },
     {
       "album": {
@@ -6728,6 +7550,82 @@
       "duration_ms": 276000,
       "name": "That Place",
       "url": "https://open.spotify.com/track/48FYBcHOQAvt0wFtmKDp7x"
+    },
+    {
+      "album": {
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5k9CXhpAlK8bAHlh4CS4tc"
+    },
+    {
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3"
+    },
+    {
+      "album": {
+        "name": "Runnin' Out of Fools (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y31w9vk2A1Wn3GGZCpOpq"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172720,
+      "name": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "url": "https://open.spotify.com/track/62AW4IusAo7MpcXQ3HzCJl"
+    },
+    {
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "The Christmas Waltz - Alternate Version/Remastered 1999",
+      "url": "https://open.spotify.com/track/6ppoXyBjTp22DXbU9HcSNS"
     },
     {
       "album": {
@@ -6840,7 +7738,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 362970,
       "name": "The Way out Same but Different",
       "url": "https://open.spotify.com/track/12tohiRdO0tYfDZtxqjTeE"
@@ -6936,7 +7834,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 772000,
       "name": "Through the valley of Mapa, with purpose (Act I)",
       "url": "https://open.spotify.com/track/4XgFupRDqk2i50cFN57lHv"
@@ -7132,7 +8030,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 319640,
       "name": "Trieter\u00eds",
       "url": "https://open.spotify.com/track/7Lvu0gSEGdoFOxFRKmS5xS"
@@ -7392,7 +8290,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 296349,
       "name": "Under Weather",
       "url": "https://open.spotify.com/track/44NJn9W5Z4CKl7L2kix6wX"
@@ -7422,6 +8320,24 @@
       "duration_ms": 257093,
       "name": "Valse pour apollinaire",
       "url": "https://open.spotify.com/track/7pwz9HiyXLMLKi61zgT5CG"
+    },
+    {
+      "album": {
+        "name": "Plastic Dreams",
+        "url": "https://open.spotify.com/album/6dtS5Obdb9PuMku80K0Dxw"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266720,
+      "name": "Variations on a Christmas Theme",
+      "url": "https://open.spotify.com/track/4FQr73oehcGB48jrzfABN6"
     },
     {
       "album": {
@@ -7560,7 +8476,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 156493,
       "name": "Volgersi",
       "url": "https://open.spotify.com/track/5YWO0dlnH9ncdgVEpbf1pG"
@@ -7629,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Christmas Blues: Savoy Jazz Christmas Album",
+        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297200,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A"
+    },
+    {
+      "album": {
         "name": "Concerto Di Natale",
         "url": "https://open.spotify.com/album/6HBoOla1ahwaDekiOkVILu"
       },
@@ -7656,6 +8590,64 @@
       "duration_ms": 275906,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6wtNVKgmt5VJyGebqoU80x"
+    },
+    {
+      "album": {
+        "name": "Rossiter Road",
+        "url": "https://open.spotify.com/album/2mLvLFzqXYHvAsx8kzmunl"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Winter Snow",
+      "url": "https://open.spotify.com/track/58iq80PSg1F2oKqfGKICtz"
+    },
+    {
+      "album": {
+        "name": "Presenting Red Garland",
+        "url": "https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320973,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/6HZoVfwn5JNVmlRB46hqXo"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/5Falr8WxTe6dZOTtWEUIVS"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149306,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/6kkJlaBYdyFcwCg67hW40t"
     },
     {
       "album": {
@@ -7736,7 +8728,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 212760,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/68Avp2IB7vjTqAgn1BD7At"

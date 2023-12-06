@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-186 songs - 16 hr 7 min
+187 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2021-12-21 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 8:02 | 2022-02-10 |  |
-| [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 | 2022-02-10 |  |
+| [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 | 2022-02-10 | 2023-12-06 |
 | [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 | 2021-12-21 | 2022-09-15 |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw) | [The Velvet Blues](https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l) | 4:36 | 2021-12-21 |  |
 | [Son binocle](https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 4:04 | 2021-12-21 |  |
@@ -167,6 +167,7 @@
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
 | [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2023-05-30 |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-25 |  |
+| [These Foolish Things](https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [These Foolish Things](https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ) | 5:41 | 2023-11-22 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |
 | [Together](https://open.spotify.com/track/2wOlZrHUpRP9hQbqbV9Ae5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/1fcREbFQfCqfwxXkxGgvV7) | 11:12 | 2021-12-21 | 2022-07-29 |

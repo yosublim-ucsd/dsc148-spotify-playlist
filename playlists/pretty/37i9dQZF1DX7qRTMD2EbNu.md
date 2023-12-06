@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=b58foJ64RBKLJKWWf8O7qQ"> M.anifest</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,549 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,577 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 84 | [LUV THY BROTHER AS THY SELF](https://open.spotify.com/track/42HJiaqkS0jPlljIEcmWWK) | [Kwelit](https://open.spotify.com/artist/3H0hY5Y8gwHixRK5QoQ0wZ) | [PA!N](https://open.spotify.com/album/3YDUPN44CCjxug4rNQop9b) | 1:58 |
 | 85 | [Muntashi](https://open.spotify.com/track/23qrtEsnizy2O5v6Tr8MJQ) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Muntashi](https://open.spotify.com/album/6U0FDsijUBOM1IrraXxBeK) | 2:38 |
 
-Snapshot ID: `MCwxY2NhYmQwZmU3ZGRjNDY1ZjAzYzM5NjNmZjk5MzI5NmE0NWNkYTk3`
+Snapshot ID: `MCw4OTFlOGE3MDg0OGI2ODQxZDQ0YTE2YjBiZGU1Yzk3NjQ5ZTU3YWE4`

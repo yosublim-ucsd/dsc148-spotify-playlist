@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Roberto Tapia y Grupo Marca Registrada en portada.",
-  "num_followers": 1144333,
+  "num_followers": 1144516,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGIzN2FiNDdkZWIxZDdjMGVhOGQ5ZTIyMDA2MjQwZDRmNGVhODM1",
+  "snapshot_id": "MCxlOGEyZWJhYzI2NTY0NzQ3NjZjZThiNjExMWFkNzUzZjhiZDEwN2U4",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Vamos Bien",
+      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/6QeM5ysFgWsrZCnERu5hrP"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 249121,
       "name": "Sue\u00f1os de Ni\u00f1o (En Vivo)",
       "url": "https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Vamos Bien",
-      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Te Quiero Mil",
+        "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Te Quiero Mil",
+      "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Nunca Dudes En Llamarme",
         "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 204160,
       "name": "Nunca Dudes En Llamarme",
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Te Quiero Mil",
-        "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "Te Quiero Mil",
-      "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "De Memoria Me Las S\u00e9",
-        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "De Memoria Me Las S\u00e9",
-      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "No Es Cierto Que Nunca Te Quise",
         "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 140063,
       "name": "No Es Cierto Que Nunca Te Quise",
       "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "De Memoria Me Las S\u00e9",
+        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "De Memoria Me Las S\u00e9",
+      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Lo Que Les Falta",
+        "url": "https://open.spotify.com/album/4cGj439SXTrDijNzAVh6pm"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 147725,
+      "name": "Como un Diamante",
+      "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Homenaje A La Trayectoria De Don Salvador Liz\u00e1rraga",
         "url": "https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7"
       },
@@ -1939,18 +1955,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lo Que Les Falta",
-        "url": "https://open.spotify.com/album/4cGj439SXTrDijNzAVh6pm"
+        "name": "Aplaca Tus Berrinches",
+        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 147725,
-      "name": "Como un Diamante",
-      "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
+      "duration_ms": 190840,
+      "name": "Aplaca Tus Berrinches",
+      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1983,26 +2003,6 @@
       "duration_ms": 176146,
       "name": "Voy Pa\u2019Arriba Y Con Viada",
       "url": "https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Aplaca Tus Berrinches",
-        "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Aplaca Tus Berrinches",
-      "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
-        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 423653,
-      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
-      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Las Edades (En Vivo)",
         "url": "https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 217402,
       "name": "Otra Botella",
       "url": "https://open.spotify.com/track/3X1sFqUe5J6Wqrn99jL6R7"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
     },
     {
       "added_at": "2023-12-01 05:00:00",

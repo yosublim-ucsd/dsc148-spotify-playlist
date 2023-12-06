@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D?si=wq7Ohio7Rk6EhWONk3Duow"> Moelogo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,729 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,853 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 32 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 33 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 |
 | 34 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
-| 35 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
-| 36 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
+| 35 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
+| 36 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 | 37 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 |
 | 38 | [Soro](https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:42 |
 | 39 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 66 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 |
 | 67 | [Single Again \(feat\. Ruger\) \- Remix](https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Single Again \(feat\. Ruger\) \[Remix\]](https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w) | 3:56 |
 | 68 | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM) | 3:03 |
-| 69 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 |
-| 70 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 |
+| 69 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 |
+| 70 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 |
 
-Snapshot ID: `MCxhZDQ3ZTJkNGRlOTAwZWQxZDkwMzI2OGY5ZGExYjVlYjNmNjA4NGFm`
+Snapshot ID: `MCwxZWRiZjFmOTRkYThmOWMxN2ZmMDUzOGNiMGY1MDI2NTk0YmZmNmNh`

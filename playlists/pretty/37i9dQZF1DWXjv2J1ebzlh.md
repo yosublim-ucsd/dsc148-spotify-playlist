@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,678 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,711 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -456,7 +456,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 446 | [Fuego En El 23](https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv), [Luigui Gomez](https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Fuego en el 23!](https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt) | 4:44 |
 | 447 | [Cuerpo Sin Alma](https://open.spotify.com/track/3iwHy81Xa4RYmRvBDRM4tB) | [Las Colombianitas](https://open.spotify.com/artist/2eIllYecy7PTZqCXzsaIjG) | [Cuerpo Sin Alma](https://open.spotify.com/album/1WIv0QyaXRBp9CvvcaUW4R) | 2:34 |
 | 448 | [Perfidia](https://open.spotify.com/track/5RUUCHjMLcBmMFzYnTnXOv) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh), [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [One Life to Live \(Expanded Version\)](https://open.spotify.com/album/60BHEQHVN6213VZndkiI4Q) | 2:47 |
-| 449 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 |
+| 449 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 |
 | 450 | [El Toro](https://open.spotify.com/track/4NN79HOlMOViVw8GnRvyN4) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Passin' Thru](https://open.spotify.com/album/6jKVMB69KO4DOpZmCnH226) | 4:38 |
 | 451 | [Dame Un Cachito Pa' Huelé](https://open.spotify.com/track/3YOqpQ0SwBeKPlsNA06jLG) | [Arsenio Rodríguez](https://open.spotify.com/artist/2hN2DVx3lbISa1k2EuA9ug) | [El Último Amor \(1944\-1946\)](https://open.spotify.com/album/0rdWja2yODr6ZpNBSFBVlM) | 2:49 |
 | 452 | [Tình Ta Như Lửa Đơm Hoa](https://open.spotify.com/track/6e83YLIwBd2JWehTGcHIzy) | [Carol Kim](https://open.spotify.com/artist/4INNa8d1QXO7g46ZTODpR2), [Saigon Supersound](https://open.spotify.com/artist/69CibdsClVHBslcyq1hc89) | [Saigon Supersound, Vol\. 1](https://open.spotify.com/album/08BR2A2sAZHDkCsKuYbWKJ) | 4:10 |
@@ -657,7 +657,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 647 | [Pé na estrada \- Mendel Edit](https://open.spotify.com/track/5Nc5POjij6A946WwUb97CE) | [Valéria](https://open.spotify.com/artist/7eB0Z0HTaVvFxQ1SAYyV6z), [Mendel](https://open.spotify.com/artist/49yqlsZAJePjlhRcPUcNn6) | [NOAJ Edits 01 – Mendel & Delfonic](https://open.spotify.com/album/0Bwrm4qX6QUkaX3DYL8I5P) | 3:35 |
 | 648 | [País Azucar](https://open.spotify.com/track/5V0KqLAYmWsb1dUWqvczld) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y) | [Good Good Things](https://open.spotify.com/album/0fLCFCKpzzefuNlBGmHFUI) | 3:55 |
 | 649 | [Subway Joe](https://open.spotify.com/track/30E1ZeueWNbOzMP2PJRqa8) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Subway Joe](https://open.spotify.com/album/7ImYYi0tJHTsYHH8Qxm9OS) | 2:57 |
-| 650 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/0XARqKRaNIdIuRn8KIH449) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Show Em Simonal](https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU) | 3:15 |
+| 650 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/0XARqKRaNIdIuRn8KIH449) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Show Em Simonal](https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU) | 3:15 |
 | 651 | [Cocoa](https://open.spotify.com/track/1nJnASkardzYzE1GwCXvuY) | [Assagai](https://open.spotify.com/artist/4FEwj4yy2gs0sq4K2FmtJM) | [Assagai](https://open.spotify.com/album/2gQzgPKzXq9F1MXcN423sr) | 4:09 |
 | 652 | [La basse et les shakers](https://open.spotify.com/track/5WC1Jsjxe8JIz9oV2nrER8) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:15 |
 | 653 | [Reggae Merengue](https://open.spotify.com/track/2nYvF5Dc4rqdR8JzWAOYmY) | [Tommy McCook & The Supersonics](https://open.spotify.com/artist/5xzlboNkAVZ2xS14qfGBv2) | [Gay Jamaica Independence Time \(Expanded Version\)](https://open.spotify.com/album/3zwV3Rm18Nf5QuJr2OlxB5) | 2:14 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxkMTY2YjhkNTZjMTNkNzE2NzgxNzY0ODczMzQwZDExODcxYmVkOGU2`
+Snapshot ID: `MCwxMGQyYmMzYmRmOTI4OWY1N2IxOWU5OWU3OWZhZDkyYzkzYmUyZjA0`

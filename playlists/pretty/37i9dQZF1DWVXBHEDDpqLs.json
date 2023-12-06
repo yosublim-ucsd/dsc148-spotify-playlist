@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30470,
+  "num_followers": 30476,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWUyYjdhM2UyNTI4ZjlhNjIxNWNlYjJmYmI4MmQzM2RkMzRiZTE2",
+  "snapshot_id": "MCw0ZmI4NzI5ZmY5ODA1NWExZjEzMTMyMDk5ZTg0NGRjNmU2YzFjZDc4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "HARIK\u0112N",
-        "url": "https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e"
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
       },
       "artists": [
         {
-          "name": "shnd\u014d",
-          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Zfrek",
+          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
         }
       ],
-      "duration_ms": 160140,
-      "name": "HARIK\u0112N",
-      "url": "https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh"
+      "duration_ms": 166974,
+      "name": "Shake My Ass",
+      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nights Into Mornings EP",
-        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+        "name": "HARIK\u0112N",
+        "url": "https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e"
       },
       "artists": [
         {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Zfrek",
-          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
         }
       ],
-      "duration_ms": 166974,
-      "name": "Shake My Ass",
-      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+      "duration_ms": 160140,
+      "name": "HARIK\u0112N",
+      "url": "https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
       },
       "artists": [
         {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         }
       ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+      "duration_ms": 143399,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
       },
       "artists": [
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
         },
         {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
         }
       ],
-      "duration_ms": 143399,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "SHE KORO",
+          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
+        }
+      ],
+      "duration_ms": 178652,
+      "name": "Banter",
+      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "SHE KORO",
-          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
-        }
-      ],
-      "duration_ms": 178652,
-      "name": "Banter",
-      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+      },
+      "artists": [
+        {
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
-      },
-      "artists": [
-        {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wash Yo Handz",
-        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
-      },
-      "artists": [
-        {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
-        }
-      ],
-      "duration_ms": 118282,
-      "name": "Wash Yo Handz",
-      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "STAND BACK (RELOADED)",
         "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Wash Yo Handz",
+        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+      },
+      "artists": [
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        }
+      ],
+      "duration_ms": 118282,
+      "name": "Wash Yo Handz",
+      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Busy (Jaymie Silk Remix)",
-        "url": "https://open.spotify.com/album/1QZ38VPwqmFHNUbXurW20B"
-      },
-      "artists": [
-        {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
-        },
-        {
-          "name": "Jaymie Silk",
-          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Busy - Jaymie Silk Remix",
-      "url": "https://open.spotify.com/track/123p7SXAx8SBGLwLVlpmon"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Busy (Jaymie Silk Remix)",
+        "url": "https://open.spotify.com/album/1QZ38VPwqmFHNUbXurW20B"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Busy - Jaymie Silk Remix",
+      "url": "https://open.spotify.com/track/123p7SXAx8SBGLwLVlpmon"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "De Todo Se Aprende (Remix)",
-        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
-      },
-      "artists": [
-        {
-          "name": "G.Zamora",
-          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
-        },
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 361500,
-      "name": "De Todo Se Aprende - Yamil Remix",
-      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nights Into Mornings EP",
         "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "De Todo Se Aprende (Remix)",
+        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
+      },
+      "artists": [
+        {
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 361500,
+      "name": "De Todo Se Aprende - Yamil Remix",
+      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
     },
     {
       "added_at": "2023-10-06 04:00:00",

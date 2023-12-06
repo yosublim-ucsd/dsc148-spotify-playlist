@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,019 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,059 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 40 | [Guarda come dondolo](https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:31 |
 | 41 | [Balla](https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Le Sue Piu' Belle Canzoni](https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E) | 3:17 |
 | 42 | [Legata a un granello di sabbia \- Remastered](https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Legata a un granello di sabbia \(Remastered\)](https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c) | 4:05 |
-| 43 | [Ciao Ciao](https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Nostalgia Italiana \- 1965](https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb) | 2:56 |
+| 43 | [24.000 Baci](https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Anni '60](https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU) | 2:17 |
 | 44 | [Pezzettini di bikini](https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [MITO '60 la meravigliosa estate italiana Vol.1](https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11) | 2:20 |
-| 45 | [24.000 Baci](https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Anni '60](https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU) | 2:17 |
+| 45 | [Ciao Ciao](https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Nostalgia Italiana \- 1965](https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb) | 2:56 |
 | 46 | [La Partita Di Pallone](https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [La Partita](https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs) | 2:15 |
 | 47 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 | 48 | [Pinne fucile ed occhiali](https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:39 |
 | 49 | [Sei diventata nera](https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:12 |
 | 50 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 |
 
-Snapshot ID: `MCw3NTZmNTFmYmNjMmZlNWE3YjVjYzk4MjhjNjcxYmUzOTM3ZjE3OTNk`
+Snapshot ID: `MCw4NTA5MTBhMzhkMzBkYzVjYjA2MWM1ZGNiN2MwN2UwMjRjYTkyZTg0`

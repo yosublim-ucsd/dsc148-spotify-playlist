@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Azure Focus",
+        "url": "https://open.spotify.com/album/6DptTnAjZnz0r6VIaoy1IG"
+      },
+      "artists": [
+        {
+          "name": "The SubOceaners",
+          "url": "https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323840,
+      "name": "Azure Focus",
+      "url": "https://open.spotify.com/track/4Nc5D1DpDxyz44tTK057G2"
+    },
+    {
+      "album": {
         "name": "Dozy Blue",
         "url": "https://open.spotify.com/album/6MlcnEMhkCNPbU5AVOpKnL"
       },
@@ -754,6 +772,24 @@
       "duration_ms": 93485,
       "name": "Blue Noise Background",
       "url": "https://open.spotify.com/track/3J4n2oeZHXwRZnmU7S22SD"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Brain Boost",
+        "url": "https://open.spotify.com/album/0udWrSc4ZHZqjiQdRVZXiT"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320432,
+      "name": "Blue Noise Brain Boost",
+      "url": "https://open.spotify.com/track/7I5nFKY6GJd1zMci9Db8MD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 157304,
+  "num_followers": 157349,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2ZhNGMzMWNkNGQ2NjA3YjE0ZDQ0ZTZlMGViNDNkMjRkN2NiNDJh",
+  "snapshot_id": "MCxmMGMwODQyYTAzYjMwMGNmMTBjNTNiZTI4YTg4NWFhZTQ5NTFmNWMz",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "No Me Arrepiento De Este Amor",
-        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 227373,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
+      "duration_ms": 281129,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+        "name": "No Me Arrepiento De Este Amor",
+        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 281129,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -987,6 +987,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Los M\u00e1s Queridos",
         "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
       },
@@ -1103,26 +1103,6 @@
       "duration_ms": 203600,
       "name": "Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "A\u00fan Sigue La Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        },
-        {
-          "name": "Carolina Antiman",
-          "url": "https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
-      "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1155,6 +1135,26 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "A\u00fan Sigue La Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        },
+        {
+          "name": "Carolina Antiman",
+          "url": "https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
+      "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "25 Exitos Vol. 1 (USA)",
+        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "25 Exitos Vol. 1 (USA)",
-        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "#Tocoparavos",
+        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        },
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Hasta la luna",
+      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Inimitable",
         "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 254333,
       "name": "Vienes y Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl"
     }
   ],
   "unique_name": "Cocina con Cumbia",

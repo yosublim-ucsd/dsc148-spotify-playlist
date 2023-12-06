@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,067 likes - 40 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,146 likes - 40 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 9 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
 | 10 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
 | 11 | [شيلوها شيلة](https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE) | [Miami Band](https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0) | [فرقة ميامي 97](https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ) | 5:00 |
-| 12 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
-| 13 | [Lail Wa Raed Wa Reeh](https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Shafouha Wsaroo Yegolou](https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu) | 5:15 |
+| 12 | [Lail Wa Raed Wa Reeh](https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Shafouha Wsaroo Yegolou](https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu) | 5:15 |
+| 13 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
 | 14 | [Kolak Ala Badhak \- Remastered 2000](https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ba'Ad Al Hob](https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A) | 5:49 |
 | 15 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 |
 | 16 | [Al Yadi El Yadi](https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Rege'et Wahdi](https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx) | 3:13 |
 | 17 | [طبيب جراح](https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [طبيب جراح](https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA) | 6:21 |
 | 18 | [Moush Hadaaf](https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:20 |
 | 19 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 |
-| 20 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
-| 21 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
-| 22 | [El Ayam El Helwa](https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 3:45 |
+| 20 | [El Ayam El Helwa](https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 3:45 |
+| 21 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
+| 22 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
 | 23 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 |
 | 24 | [مواعدانى](https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [مشينا](https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7) | 4:17 |
 | 25 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [مالي صبر](https://open.spotify.com/track/65XBOq8w2igm2wqkMNSouA) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [احلى العيون](https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d) | 5:22 |
 | 40 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 |
 
-Snapshot ID: `MCw4MTNkZGQ2YjBiNTIxMTA0MzcxZTc2ZjE0Yjk3YjNhMjJjZjg5MWEx`
+Snapshot ID: `MCxmMzhhYmE5NjM5YWY1YzBhM2IyNTJhMWFiMGJlNThiZjJmNGM5M2U5`

@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: SV Squad
 
-190 songs - 11 hr 3 min
+191 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All I Want](https://open.spotify.com/track/03X0BZPwMFxLNg9O2yMtza) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [All I Want](https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh) | 2:30 | 2023-10-25 |  |
 | [Aminin](https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX) | [Pricetagg](https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv), [Zae](https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L) | [Aminin](https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy) | 3:37 | 2023-07-28 |  |
 | [Araw2x Gabi2x](https://open.spotify.com/track/5LrsVk1IzDBXkaUDL6PoDC) | [Zo zo](https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6) | [Araw2x Gabi2x](https://open.spotify.com/album/5tCSAhDhtQZlvFXywZu7PZ) | 3:43 | 2022-10-12 | 2023-07-29 |
-| [Ayos Lang ‘Yan](https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg) | [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm) | [Ayos Lang ‘Yan](https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H) | 3:23 | 2023-10-02 |  |
+| [Ayos Lang ‘Yan](https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg) | [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm) | [Ayos Lang ‘Yan](https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H) | 3:23 | 2023-10-02 | 2023-12-06 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-10-27 |  |
 | [Babalik Ba](https://open.spotify.com/track/2PUnWvAzUpIpIgQtOCRavW) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Babalik Ba](https://open.spotify.com/album/2tbiWn0aGNRWJm5aYhz6DA) | 2:52 | 2023-04-06 | 2023-09-07 |
 | [bb girl](https://open.spotify.com/track/4JkPVqYsg83oHC4VhSW37n) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [bb girl](https://open.spotify.com/album/0WGdprszHqeEuOIu8F6t5D) | 3:13 | 2023-02-23 | 2023-09-07 |
@@ -111,6 +111,7 @@
 | [LIME](https://open.spotify.com/track/2KBOjDGiLYvy8KL41BgO3z) | [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [LIME](https://open.spotify.com/album/1KDZdQcha6B5mDgmuO19OS) | 3:01 | 2023-07-28 | 2023-10-28 |
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 | 2023-05-18 |
 | [Lowkey](https://open.spotify.com/track/0SeoyoooF656nZQavqT07Z) | [HIMALAYA](https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU) | [Lowkey](https://open.spotify.com/album/7x97eRi6cyLPqI109TjTRd) | 3:09 | 2023-07-28 | 2023-10-12 |
+| [Luhod](https://open.spotify.com/track/7LNBQgGSCJaOVvr8JNv19n) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf) | [Luhod](https://open.spotify.com/album/44aiwRUlLdzc6tjZD0xdo0) | 2:44 | 2023-12-05 |  |
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2022-10-12 | 2023-07-29 |
 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-09-06 |  |
 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 | 2023-09-06 |  |

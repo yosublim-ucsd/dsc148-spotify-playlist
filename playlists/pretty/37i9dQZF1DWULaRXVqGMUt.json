@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 44251,
+  "num_followers": 44272,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzczYjM3MWE0ZDc1YTUwMTQ1YWU3YjZmNDVlNTBiNGE1NDU5OWVh",
+  "snapshot_id": "MCxmMWQ0NjMwMzVmNzAxODFmMTQwMzk0MWIwMmVkZGU2YWQxNWI3NjVj",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 310040,
       "name": "Junco Partner",
       "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 238315,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Bluegrass Boogie Woogie",
-      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Bobby Robinson Story Volume One",
         "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 145278,
       "name": "Shake Baby Shake",
       "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Bluegrass Boogie Woogie",
+      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Cow Cow Davenport Vol. 1 (1925-1929)",
-        "url": "https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs"
-      },
-      "artists": [
-        {
-          "name": "Charles \"Cow Cow\" Davenport",
-          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
-        }
-      ],
-      "duration_ms": 199262,
-      "name": "Chimes Blues",
-      "url": "https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Presenting Albert Ammons",
         "url": "https://open.spotify.com/album/7urtIAL4uMykGBc7QVQwFY"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 165626,
       "name": "Twelfth St Boogie",
       "url": "https://open.spotify.com/track/3gxXvhQVvIHT2vbjP5UIjK"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Cow Cow Davenport Vol. 1 (1925-1929)",
+        "url": "https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs"
+      },
+      "artists": [
+        {
+          "name": "Charles \"Cow Cow\" Davenport",
+          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
+        }
+      ],
+      "duration_ms": 199262,
+      "name": "Chimes Blues",
+      "url": "https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh"
     },
     {
       "added_at": "2023-09-15 11:42:58",

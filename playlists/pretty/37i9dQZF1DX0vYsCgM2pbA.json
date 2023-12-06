@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 129830,
+  "num_followers": 129883,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzExYmFjNTdhNjllYjRjOTc5Njg0ZDNlMzEwMDc1MmUxZDJmNjFk",
+  "snapshot_id": "MCxkZTJhYjA5OTU3OWVkNDA3NjBlODExYTBmYTc3ZThhNWQ2YTNiMDky",
   "tracks": [
     {
       "added_at": "2023-11-30 11:53:23",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
+    },
+    {
+      "added_at": "2023-11-30 11:53:23",
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-11-30 11:53:23",
-      "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
     },
     {
       "added_at": "2023-11-30 11:53:23",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-11-30 11:53:23",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
+      },
+      "artists": [
+        {
+          "name": "Good Life",
+          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 167009,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2023-11-30 11:53:23",
+      "album": {
         "name": "Sirena Deep",
         "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 285004,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/2oHwD3ipoRTMNgHuZn6qdV"
-    },
-    {
-      "added_at": "2023-11-30 11:53:23",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
-      },
-      "artists": [
-        {
-          "name": "Good Life",
-          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 167009,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
     },
     {
       "added_at": "2023-11-30 11:53:23",

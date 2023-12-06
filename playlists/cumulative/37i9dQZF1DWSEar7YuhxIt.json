@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 245573,
       "name": "Enjoy the Silence - cover version",
       "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
@@ -1064,6 +1064,24 @@
       "duration_ms": 254040,
       "name": "Same Ol' Situation (S.O.S.)",
       "url": "https://open.spotify.com/track/6wdIe1ep26qiaIaiHF5b9F"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252778,
+      "name": "Same Ol' Situation (S.O.S.) (2021- Remaster)",
+      "url": "https://open.spotify.com/track/4NUIdHd04RIUdTmwNVBw5I"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-757 songs - 1 day 21 hr 29 min
+758 songs - 1 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-11-23 | 2022-02-06 |
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2021-05-23 | 2021-07-12 |
 | [ERE](https://open.spotify.com/track/2BLdelIp46CHvKkyWeqZHL) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Sad Songs and Bullshit Part 1](https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv) | 4:44 | 2023-09-30 |  |
-| [Estranghero](https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Estranghero](https://open.spotify.com/album/4RVn8ciIB4E7FMEBbmLpNc) | 3:06 | 2023-10-08 |  |
+| [Estranghero](https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Estranghero](https://open.spotify.com/album/4RVn8ciIB4E7FMEBbmLpNc) | 3:06 | 2023-10-08 | 2023-12-06 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-22 | 2023-07-25 |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2021-12-24 | 2022-10-23 |
 | [Everyday](https://open.spotify.com/track/4RJTTrZqPFWaWACVXHkvjw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:14 | 2023-07-24 | 2023-08-12 |
@@ -495,6 +495,7 @@
 | [PANG!](https://open.spotify.com/track/1ZpiUfzl9P0pMkA03xqmUy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:58 | 2021-10-23 | 2021-10-24 |
 | [Paninindigan Kita](https://open.spotify.com/track/5d9Rka4T0szdC1MobhtXrV) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Paninindigan Kita](https://open.spotify.com/album/1hz1zGc3c7U5G7mIazQ2vW) | 5:12 | 2022-05-02 | 2023-05-10 |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-11 | 2023-09-10 |
+| [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2023-12-05 |  |
 | [Para Sa Streets](https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Para Sa Streets](https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq) | 3:14 | 2023-10-13 |  |
 | [Paradise](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:37 | 2021-06-09 | 2021-06-13 |
 | [Paraluman](https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paraluman](https://open.spotify.com/album/0kQW4dCqjMfD2Vlrf6h8Cw) | 5:12 | 2022-03-09 | 2023-10-16 |

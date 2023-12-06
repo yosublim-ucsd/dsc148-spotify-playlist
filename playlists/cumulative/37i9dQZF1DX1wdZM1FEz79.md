@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: EPITONE PROJECT\(YOONA\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요\. \(커버: 에피톤 프로젝트\(윤아\)\)
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-476 songs - 1 day 4 hr 19 min
+478 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Blueberry Eyes \- Acoustic](https://open.spotify.com/track/0KY4z8DkvSae2ROsmsrAsN) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Blueberry Eyes \(Acoustic\)](https://open.spotify.com/album/6eS71yiVKtAuzp5yQGuqS9) | 2:31 | 2022-03-31 | 2022-06-07 |
 | [Blush 두근두근 \(feat\. You Byoung Hee\)](https://open.spotify.com/track/0nJq5Y4VIdIisinUdMRQrp) | [찰리파크 Charlie Park](https://open.spotify.com/artist/3nBzd5YDZ66wUXrvb7MFJ9), [You Byoung Hee 유병희](https://open.spotify.com/artist/1rRK1lT7RU6hLS5AYWG37d) | [Blush 두근두근](https://open.spotify.com/album/3OYrwjSFrM75l5AHtuFy54) | 3:20 | 2022-03-31 | 2022-04-18 |
 | [boyhood](https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:15 | 2022-08-12 | 2022-08-19 |
+| [Buried](https://open.spotify.com/track/45gshqSTbGrN8PGycTDTFR) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Buried](https://open.spotify.com/album/3jbx3qcoQkEAwFtc9iolsL) | 3:40 | 2023-12-05 |  |
 | [Burned out](https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:06 | 2022-03-10 | 2022-04-15 |
 | [Butterfly](https://open.spotify.com/track/1wMWUyEEPNqKW5sVOZKUOk) | [Joshua](https://open.spotify.com/artist/3WEyV00BslpJ11cnVmJaJx) | [Your Questions, My Answers](https://open.spotify.com/album/0EhxVCLBEpfhTPEL7GbZYk) | 3:01 | 2022-03-31 | 2022-04-21 |
 | [Butterfly 나비야](https://open.spotify.com/track/1ajGXP7qJiyXsDaaZaGxm6) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Modern 02](https://open.spotify.com/album/2fInHvYH5od0ShRJJeeVHJ) | 3:10 | 2022-03-31 | 2022-04-18 |
@@ -213,7 +214,7 @@
 | [KeeB Going](https://open.spotify.com/track/06BqqEcWYMAw2KexwfjSNW) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [KeeB Going](https://open.spotify.com/album/2lSRYdUmYfIP6mDZVI3AFb) | 1:47 | 2022-11-11 | 2022-11-21 |
 | [Keep This Moment](https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Keep This Moment \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.4](https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs) | 3:20 | 2022-05-13 | 2022-05-31 |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2022-01-13 |  |
-| [knock \(Vocal by YOONA\)](https://open.spotify.com/track/7tARXrGfGoujF5wjwHYSW1) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [knock](https://open.spotify.com/album/1esBidl6GhZiW8qpsejsXT) | 3:17 | 2023-11-16 |  |
+| [knock \(Vocal by YOONA\)](https://open.spotify.com/track/7tARXrGfGoujF5wjwHYSW1) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [knock](https://open.spotify.com/album/1esBidl6GhZiW8qpsejsXT) | 3:17 | 2023-11-16 | 2023-12-06 |
 | [laputa](https://open.spotify.com/track/6mWT5oEv9Wzo1KS6jKKv63) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [laputa](https://open.spotify.com/album/4D9zbUsH9mRlf5prtdu5fQ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2022-09-28 |
@@ -443,7 +444,7 @@
 | [With me 오늘이 지나면](https://open.spotify.com/track/12NNRxfewZV8ey2qxQv9pa) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Dingo X BRANDNEW MUSIC](https://open.spotify.com/album/5LTNMxhEkangYCNUldlQI9) | 4:01 | 2021-12-10 | 2022-07-29 |
 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 | 2022-01-13 |  |
 | [Words of Wisdom](https://open.spotify.com/track/1s2FOsNIZNM6u3scHunCyT) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Words of Wisdom](https://open.spotify.com/album/6ZeWlNzAQfkaaQDK5VK0L7) | 5:06 | 2022-05-02 | 2022-06-08 |
-| [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 | 2021-12-10 |  |
+| [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 | 2021-12-10 | 2023-12-06 |
 | [You Back Then \(feat\. Jayeong Seo\)](https://open.spotify.com/track/4XDZgn5CyKMLzwMPQcEXzy) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [Jayeong Seo](https://open.spotify.com/artist/5VfkNtwpuckyczvncQElcB) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:00 | 2022-03-31 | 2022-04-21 |
 | [You Don't Know How I Wanna Hold You](https://open.spotify.com/track/27VyASzAp0CWCVSlrJO5Pq) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Boong\-](https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc) | 3:37 | 2022-03-31 | 2022-04-18 |
 | [You have done well](https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A) | [이정민](https://open.spotify.com/artist/7jgBLUmhwwTsywCJfcztkC) | [You have done well](https://open.spotify.com/album/12HCGXiulJ1v7cJz5hcXUA) | 3:05 | 2023-01-14 | 2023-01-26 |
@@ -479,6 +480,7 @@
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오지 않을 너에게 Don\`t Say Goodbye](https://open.spotify.com/track/49hDsEZITRSiMpDj3DG2xu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jooyeahin](https://open.spotify.com/artist/26N01XaKDXpRwspCsxM82w) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:40 | 2022-03-31 | 2022-04-20 |
 | [일기예보](https://open.spotify.com/track/0L0fkd5rNncIy3PWKe4OW9) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [weather forecast](https://open.spotify.com/album/1y0mXaR9Zo3nIKUdxldpnF) | 3:13 | 2022-03-31 | 2022-06-06 |
+| [장마 Rainy Season](https://open.spotify.com/track/2Vvl3BfXWpuuCVMkScEYpC) | [JEONGMILLA](https://open.spotify.com/artist/3FSOFI40KRqXM9BZLfsRE7) | [리버사이드 RiverSide](https://open.spotify.com/album/2n7gHWvZh3uVRLynD8O3lr) | 5:28 | 2023-12-05 |  |
 | [천천히 할래](https://open.spotify.com/track/5pm95XFWs26bl9jqTjHCJZ) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [로봇이 아니야 Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6FNX2xmB4DiuFQZgDyB0t1) | 4:03 | 2022-03-31 | 2022-04-20 |
 | [친구야 My Friend \(feat\. Kim Sawol\)](https://open.spotify.com/track/6GYfwuyeSLiNIbG8twrg40) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [작은 마을 Tiny Village](https://open.spotify.com/album/4qcORqrwArG9CxHYEN3x8d) | 4:24 | 2023-10-09 | 2023-10-28 |
 | [커피를 마시고 Coffee \- Reprise](https://open.spotify.com/track/3PX5Hkkhh4da6Sntk3LwYo) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:48 | 2021-12-10 | 2022-05-14 |

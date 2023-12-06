@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-76 songs - 3 hr 19 min
+76 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Celebrity Status](https://open.spotify.com/track/6qTVt8nIu3UzFe6qXmtEao) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Celebrity Status](https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF) | 1:26 | 2023-09-08 |  |
 | [Chops on the Blade](https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Chops on the Blade](https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk) | 3:32 | 2023-10-13 |  |
 | [Christopher Walken](https://open.spotify.com/track/13Wq2DkqFj9YRahFpfqlki) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Jake One](https://open.spotify.com/artist/3uKU7PMJ1n14NcZ131I6wd) | [Christopher Walken](https://open.spotify.com/album/1QI5fJZsupp1jjaE56e45N) | 1:51 | 2023-11-18 |  |
-| [Climb Back](https://open.spotify.com/track/1fb1mUSdnVHMchIeWxz6bN) | [Mgm Lett](https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb) | [Climb Back](https://open.spotify.com/album/3oYSaNsZkIOe925jXlNyWI) | 3:16 | 2023-12-01 |  |
+| [Climb Back](https://open.spotify.com/track/1fb1mUSdnVHMchIeWxz6bN) | [Mgm Lett](https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb) | [Climb Back](https://open.spotify.com/album/3oYSaNsZkIOe925jXlNyWI) | 2:12 | 2023-12-01 |  |
 | [Clouds](https://open.spotify.com/track/6DE80cFovgHZPxeX0iDVCi) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Clouds](https://open.spotify.com/album/4yeVf3uihXNlmJPzmubgFn) | 3:18 | 2023-12-01 |  |
 | [Curious \(feat\. Lil' Kim & Lola Brooke\) \- Remix](https://open.spotify.com/track/7yfN4CjlmyyWIG0eI7OqI1) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Curious \(Remix\) \[feat\. Lil' Kim & Lola Brooke\]](https://open.spotify.com/album/41APFFVhRDIDcOFutq7G1A) | 3:45 | 2023-10-30 |  |
 | [Da Trimmest](https://open.spotify.com/track/5h3wsrfCIIXnbyQa0QRblC) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Da Trimmest](https://open.spotify.com/album/6srl6Xvzq4YtTCUXr61Vbr) | 2:10 | 2023-09-08 |  |

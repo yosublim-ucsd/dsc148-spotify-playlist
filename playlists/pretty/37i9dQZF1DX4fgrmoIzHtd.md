@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,324 likes - 52 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,331 likes - 52 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 51 | [Change](https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Change](https://open.spotify.com/album/6XPbirRQZpjKJLMW8GhtkB) | 3:21 |
 | 52 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 |
 
-Snapshot ID: `MCw5OTEyZWU3YmQyNTU1ZDIwMjg3NDQ2NWY4YTliZTQ2Njc1NjU1ZGQy`
+Snapshot ID: `MCxlNDIyMTA5OTQyODQ2NTkwZGIzYTY3MzY2NmM5ZWEyYjU1YWQ1YjMw`

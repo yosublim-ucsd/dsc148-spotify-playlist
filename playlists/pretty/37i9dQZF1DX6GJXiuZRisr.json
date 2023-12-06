@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1536565,
+  "num_followers": 1536688,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjMzMDlhZmNjNTUzYmQ4OWU1NmQ4MTFlYmM3MGE5YzE4MzUwMjhh",
+  "snapshot_id": "MCxmMjhkNTgyYTA1YjY0NDM5ZTVlYjM0ZmRmZTQ0MWY3MjBjMWQyZWVj",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Little Mushroom That Got Away",
-        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 335409,
-      "name": "The Little Mushroom That Got Away",
-      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Rave",
         "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
       },
@@ -1191,6 +1171,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "The Little Mushroom That Got Away",
+        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 335409,
+      "name": "The Little Mushroom That Got Away",
+      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Fire With Fire",
         "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
       },
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Slipstream (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 252073,
-      "name": "Slipstream (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "REDUX 006",
-        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 255238,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1339,22 +1323,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+        "name": "REDUX 006",
+        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+      "duration_ms": 255238,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
         "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1887,6 +1903,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "The Morning After",
+      "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Sweet Surrender",
         "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
       },
@@ -1903,22 +1939,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Return (Edit)",
         "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 232380,
       "name": "The Return - Edit",
       "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Further Away",
-        "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Further Away",
+        "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1991,6 +2011,22 @@
       "duration_ms": 238072,
       "name": "Should Have Seen It Coming",
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Emerald Skies",
+        "url": "https://open.spotify.com/album/3NBivztC0hpwUNKeV7Hs6Z"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Emerald Skies",
+      "url": "https://open.spotify.com/track/6D11LKlEYTF9URakCVjhvO"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2015,50 +2051,6 @@
       "duration_ms": 460780,
       "name": "Origin",
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Cami Bear",
-          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
-        }
-      ],
-      "duration_ms": 190199,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
     }
   ],
   "unique_name": "Night Rider",

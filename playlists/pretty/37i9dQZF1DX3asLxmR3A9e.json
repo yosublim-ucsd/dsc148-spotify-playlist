@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 51715,
+  "num_followers": 51726,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmJmYjI4YTkwN2I0MTdhMDY4YmQ0ZWQ4MTZkM2ZlMTg4MjIyMDg1",
+  "snapshot_id": "MCwwMTI3ZjU1NzEzNDliNjQ0MmViNTJjNTQwYTgwMDI5ODM1M2RkYzM4",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 343253,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Work This Body",
-      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Work This Body",
+      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "A Dream of You and Me",
-      "url": "https://open.spotify.com/track/44GeTdr7MktZDqNUkLaj5h"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 207640,
       "name": "Adult Diversion",
       "url": "https://open.spotify.com/track/0otn0qLAM0yAXHNSiRsHwq"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "A Dream of You and Me",
+      "url": "https://open.spotify.com/track/44GeTdr7MktZDqNUkLaj5h"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "So Long, See You Tomorrow",
-        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 181772,
       "name": "Busy Earnin'",
       "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "So Long, See You Tomorrow",
+        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Supermodel",
-        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 281017,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Supermodel",
+        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "How Do You Feel Now?",
+        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "KOPPS",
+          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Tongues",
+      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "How Do You Feel Now?",
-        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
-      },
-      "artists": [
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "KOPPS",
-          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Tongues",
-      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
     },
     {
       "added_at": "2021-09-03 05:42:37",

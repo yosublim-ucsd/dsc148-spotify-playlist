@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 10043,
+  "num_followers": 10104,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFhMDdlM2M3NzdiNzllNWNlMWU2ZDUyZmE3OTg4OWQ5MzM3Mzhi",
+  "snapshot_id": "MCw4OGU5MGY1NjA0OTYxYzA1Y2YzNWJhMmJkZjFmZGVhNDdkYTdmYWQx",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "The Glory Experience (Songs of Zion)",
         "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 577592,
       "name": "Kaabo",
       "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "RADICAL",
-        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 188540,
-      "name": "Greatest",
-      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -419,6 +419,22 @@
       "duration_ms": 160308,
       "name": "Desire Pt. 2",
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 188540,
+      "name": "Greatest",
+      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -483,22 +499,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
         "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
@@ -515,26 +515,6 @@
       "duration_ms": 320902,
       "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
       "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 629497,
-      "name": "Who Is on the Lord's Side",
-      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -591,6 +571,58 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 629497,
+      "name": "Who Is on the Lord's Side",
+      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 284080,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Daddy Wey Dey Pamper (Gbedu Version)",
         "url": "https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r"
       },
@@ -639,22 +671,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 187428,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 284080,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -703,26 +703,6 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -823,6 +803,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
         "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Your Name Is Higher",
-        "url": "https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 209539,
-      "name": "Your Name Is Higher",
-      "url": "https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 235559,
       "name": "Yesu (Jesus)",
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Your Name Is Higher",
+        "url": "https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i"
+      },
+      "artists": [
+        {
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+        }
+      ],
+      "duration_ms": 209539,
+      "name": "Your Name Is Higher",
+      "url": "https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz"
     },
     {
       "added_at": "2023-12-01 00:01:00",

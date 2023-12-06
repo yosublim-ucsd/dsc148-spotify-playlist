@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Scalene
 
-406 songs - 22 hr 48 min
+407 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/track/5dyQxt1zLby3puYbTNFXAu) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/album/1uaqQnmLsxvhnrhNZ2fG7l) | 3:23 | 2023-09-29 |  |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
-| [Nada Se Compara](https://open.spotify.com/track/6ez3XirMlH7Hjo87z8M43P) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 2](https://open.spotify.com/album/1NnA13zzShAeTleK4sU1OY) | 3:16 | 2023-06-23 |  |
+| [Nada Se Compara](https://open.spotify.com/track/6a7Gp9ZZxJPS5fbt5AOnX3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:16 | 2023-11-24 |  |
+| [Nada Se Compara](https://open.spotify.com/track/6ez3XirMlH7Hjo87z8M43P) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 2](https://open.spotify.com/album/1NnA13zzShAeTleK4sU1OY) | 3:16 | 2023-06-23 | 2023-12-06 |
 | [Nada Voltará a Ser](https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y) | [SÖMA](https://open.spotify.com/artist/7gdkQxIeATNsxEnbYYzSEc), [Clemente Tadeu](https://open.spotify.com/artist/6j16i15qN0X51i8afDnEFk) | [Nada Voltará a Ser](https://open.spotify.com/album/3RGpCejGAh93zSjAh88knx) | 3:41 | 2023-01-20 | 2023-07-01 |
 | [Namorade](https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Namorade](https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS) | 2:12 | 2022-06-03 | 2022-06-11 |
 | [Narciso](https://open.spotify.com/track/5enX4FkpRF6nRBl3Z8eKe6) | [Wander B.](https://open.spotify.com/artist/5ZFZFNtxUpjBuLM2u2Tayu) | [Narciso](https://open.spotify.com/album/4FLsDOobhQ9xRjNgyYHcFd) | 2:43 | 2023-05-26 | 2023-08-19 |

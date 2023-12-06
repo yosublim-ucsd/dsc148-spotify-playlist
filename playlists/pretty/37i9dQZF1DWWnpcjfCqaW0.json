@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 286069,
+  "num_followers": 286126,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRmMmNhZTQ5ZWYxOWVmYjkzNTUyOTU5NTA5MGNmMTYwMDU0MWFm",
+  "snapshot_id": "MCxlYTc5YmQzZTdkYzQ0ZjBmYzViZWZiYTNjODM5ODE2OWRmMTM2YjVl",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -711,26 +711,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
+        "name": "Bobby Helms Sings To My Special Angel",
+        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
       },
       "artists": [
         {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        },
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Sunshine Trio",
-          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 181653,
-      "name": "Goodnight, Irene",
-      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
+      "duration_ms": 179293,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -751,18 +743,26 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Bobby Helms Sings To My Special Angel",
-        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        },
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Sunshine Trio",
+          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
         }
       ],
-      "duration_ms": 179293,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
+      "duration_ms": 181653,
+      "name": "Goodnight, Irene",
+      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
     },
     {
       "added_at": "2023-01-02 21:32:07",

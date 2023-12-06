@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 111317,
+  "num_followers": 111366,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjk4YzVlODNkZTQ1NGI0Nzg4NDNkOThlY2UyYjE4ZjhkY2U3ODY5",
+  "snapshot_id": "MCw4MTZkNGEzMDI3MTQ4NjdkYTQxNzc5NjhlZmRhZTZhZmM3NmYwNzA1",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -391,18 +391,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Ragga War II - Retro",
-        "url": "https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM"
+        "name": "El Cangri.com",
+        "url": "https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk"
       },
       "artists": [
         {
-          "name": "Gaby",
-          "url": "https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 221088,
-      "name": "El Meneaito (Panama)",
-      "url": "https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06"
+      "duration_ms": 182125,
+      "name": "Guayando",
+      "url": "https://open.spotify.com/track/5KfTXVRme8sMRFOqHUlWYo"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -423,22 +427,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "El Cangri.com",
-        "url": "https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk"
+        "name": "Ragga War II - Retro",
+        "url": "https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Gaby",
+          "url": "https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k"
         }
       ],
-      "duration_ms": 182125,
-      "name": "Guayando",
-      "url": "https://open.spotify.com/track/5KfTXVRme8sMRFOqHUlWYo"
+      "duration_ms": 221088,
+      "name": "El Meneaito (Panama)",
+      "url": "https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06"
     },
     {
       "added_at": "2021-12-20 17:02:25",

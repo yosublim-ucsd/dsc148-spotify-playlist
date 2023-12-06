@@ -4398,7 +4398,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 204390,
       "name": "Giro Classico",
       "url": "https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1"
@@ -6466,6 +6466,24 @@
       "duration_ms": 144456,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU"
+    },
+    {
+      "album": {
+        "name": "Mare Forza 9oi",
+        "url": "https://open.spotify.com/album/6wHu0paIJx1aiN3w3NyExG"
+      },
+      "artists": [
+        {
+          "name": "OMINI",
+          "url": "https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "Mare Forza 9oi",
+      "url": "https://open.spotify.com/track/268q0mDTAs7O9ssY6KE1ZG"
     },
     {
       "album": {
@@ -9456,7 +9474,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 200733,
       "name": "Sei in un paese meraviglioso",
       "url": "https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF"

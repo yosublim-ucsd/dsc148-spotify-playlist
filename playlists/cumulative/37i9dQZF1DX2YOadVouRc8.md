@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-330 songs - 16 hr 27 min
+331 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 | 2022-06-09 | 2022-11-26 |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 | 2023-04-21 |
 | [Lucy](https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Wayyy Saucy](https://open.spotify.com/album/4ZG7gMykuBh6qo1uhpbxl6) | 2:18 | 2023-11-24 | 2023-12-02 |
-| [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 |  |
+| [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 | 2023-12-06 |
 | [Make Sense](https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:09 | 2023-06-02 |  |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-09 | 2022-10-01 |
 | [Many Man](https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT) | [Many Man](https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C) | 2:36 | 2023-04-14 | 2023-07-15 |
@@ -231,6 +231,7 @@
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 | 2023-12-02 |
 | [RELOAD](https://open.spotify.com/track/2HFLoomeTmyQK94ud7XHIb) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RELOAD X NO CAP](https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv) | 2:27 | 2023-05-19 | 2023-05-27 |
 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 | 2023-08-03 | 2023-09-29 |
+| [Ring Di Alarm](https://open.spotify.com/track/1D0pdbZyGTIDt6ynWP3JLM) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Ring Di Alarm](https://open.spotify.com/album/3l7r1yJn2LOle1ClOKkIMo) | 2:27 | 2023-12-01 |  |
 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 | 2023-10-13 |  |
 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 | 2022-06-09 |  |
 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 | 2023-09-29 |  |

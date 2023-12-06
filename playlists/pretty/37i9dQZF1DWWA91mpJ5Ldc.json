@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 121399,
+  "num_followers": 121444,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTdkM2ZmY2YxNGJkMWQ5MTQ4YjA0MjlmOTlmZDM0NGE0YjIwZTRl",
+  "snapshot_id": "MCw1MzA4Mjg2ZmRjYWQ4ZTY5NzU5MmM2ZmVhOTA4ZjM3ZDQ3NWEzZWFh",
   "tracks": [
     {
       "added_at": "2023-11-03 06:05:48",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+        "name": "Musica para Churrasco, Vol. 1",
+        "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         }
       ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+      "duration_ms": 326493,
+      "name": "Quem N\u00e3o Quer Sou Eu",
+      "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Musica para Churrasco, Vol. 1",
-        "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 326493,
-      "name": "Quem N\u00e3o Quer Sou Eu",
-      "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
       },
       "artists": [
         {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
         }
       ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2023-11-03 06:05:48",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-11-03 06:05:48",
       "album": {
+        "name": "Aqui n\u00e3o",
+        "url": "https://open.spotify.com/album/6NZRTrHKebVLVs6YLWPihz"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "Aqui n\u00e3o",
+      "url": "https://open.spotify.com/track/1sJC8sQycGEeuC3T87DzMs"
+    },
+    {
+      "added_at": "2023-11-03 06:05:48",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
-    },
-    {
-      "added_at": "2023-11-03 06:05:48",
-      "album": {
-        "name": "Aqui n\u00e3o",
-        "url": "https://open.spotify.com/album/6NZRTrHKebVLVs6YLWPihz"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 137739,
-      "name": "Aqui n\u00e3o",
-      "url": "https://open.spotify.com/track/1sJC8sQycGEeuC3T87DzMs"
     },
     {
       "added_at": "2023-11-03 06:05:48",

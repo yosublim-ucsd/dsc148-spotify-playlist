@@ -27229,24 +27229,6 @@
     },
     {
       "album": {
-        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
-        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152226,
-      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
-    },
-    {
-      "album": {
         "name": "Alegria, Alegria!!!",
         "url": "https://open.spotify.com/album/16XSVHKfgfOzG7tYyZhqOz"
       },
@@ -27265,6 +27247,28 @@
     },
     {
       "album": {
+        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
+        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        },
+        {
+          "name": "Som Tres",
+          "url": "https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152226,
+      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
+    },
+    {
+      "album": {
         "name": "Show Em Simonal",
         "url": "https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU"
       },
@@ -27272,6 +27276,10 @@
         {
           "name": "Wilson Simonal",
           "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        },
+        {
+          "name": "Som Tres",
+          "url": "https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV"
         }
       ],
       "date_added": "2022-07-12",

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Max Styler",
-  "num_followers": 598617,
+  "num_followers": 598698,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2E3ZmMyYzQwYmVhMzFhZTlkM2I0MDhlNmI4NDM3MWE5ZDNhYmRh",
+  "snapshot_id": "MCw0YjYwNWE0OWU2ZDRjZDFkOTI0OWU0OTkyMzE3ZDQyNjIwN2U2YjFj",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Tudo Bem, Tudo Bom",
+        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Tudo Bem, Tudo Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Tudo Bem, Tudo Bom",
-        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "Tudo Bem, Tudo Bom - Radio Edit",
-      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "LALALA",
-        "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 169635,
-      "name": "LALALA",
-      "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Up N' Down (feat. JmNPR)",
         "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 208637,
       "name": "Up N' Down (feat. JmNPR)",
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 169635,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "What You Need/Stimulate",
-        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
+        "name": "LOVE DESIRE",
+        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
         }
       ],
-      "duration_ms": 173238,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
+      "duration_ms": 171428,
+      "name": "LOVE DESIRE",
+      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1615,18 +1615,34 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "LOVE DESIRE",
-        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
+        "name": "What You Need/Stimulate",
+        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
       },
       "artists": [
         {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 171428,
-      "name": "LOVE DESIRE",
-      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
+      "duration_ms": 173238,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Aisha",
+        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Aisha",
+      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1649,20 +1665,20 @@
       "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Aisha",
-        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
+        "name": "Acid (All Night Long)",
+        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 181875,
-      "name": "Aisha",
-      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
+      "duration_ms": 153690,
+      "name": "Acid (All Night Long)",
+      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1679,22 +1695,6 @@
       "duration_ms": 167903,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Acid (All Night Long)",
-        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 153690,
-      "name": "Acid (All Night Long)",
-      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1869,26 +1869,6 @@
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Get Dirty",
-        "url": "https://open.spotify.com/album/5rUYLyZrh5F1kxK21o0DbD"
-      },
-      "artists": [
-        {
-          "name": "Return Of The Jaded",
-          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
-        },
-        {
-          "name": "Tommie Sunshine",
-          "url": "https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo"
-        }
-      ],
-      "duration_ms": 170029,
-      "name": "Get Dirty",
-      "url": "https://open.spotify.com/track/1MFX2gQcebWefL6a9piY2A"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Bring It Back",
@@ -1907,6 +1887,26 @@
       "duration_ms": 178242,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Get Dirty",
+        "url": "https://open.spotify.com/album/5rUYLyZrh5F1kxK21o0DbD"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Tommie Sunshine",
+          "url": "https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo"
+        }
+      ],
+      "duration_ms": 170029,
+      "name": "Get Dirty",
+      "url": "https://open.spotify.com/track/1MFX2gQcebWefL6a9piY2A"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2047,30 +2047,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Energy (feat. Techno Tupac)",
-        "url": "https://open.spotify.com/album/782lLArC8cRM2vl9MbVGci"
-      },
-      "artists": [
-        {
-          "name": "Smalltown DJs",
-          "url": "https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f"
-        },
-        {
-          "name": "Joanna Magik",
-          "url": "https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh"
-        },
-        {
-          "name": "Techno Tupac",
-          "url": "https://open.spotify.com/artist/3X84CtZn7kefjfUMlxU2vx"
-        }
-      ],
-      "duration_ms": 242138,
-      "name": "Energy (feat. Techno Tupac)",
-      "url": "https://open.spotify.com/track/68C5lDtvEtOz5bfBfZsTEq"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Don't Wanna",
         "url": "https://open.spotify.com/album/3Wo0zmeNXZbJW6krYyyjJI"
       },
@@ -2091,6 +2067,30 @@
       "duration_ms": 215624,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/1pCriEGIU8StrJreMlk23u"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Energy (feat. Techno Tupac)",
+        "url": "https://open.spotify.com/album/782lLArC8cRM2vl9MbVGci"
+      },
+      "artists": [
+        {
+          "name": "Smalltown DJs",
+          "url": "https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f"
+        },
+        {
+          "name": "Joanna Magik",
+          "url": "https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh"
+        },
+        {
+          "name": "Techno Tupac",
+          "url": "https://open.spotify.com/artist/3X84CtZn7kefjfUMlxU2vx"
+        }
+      ],
+      "duration_ms": 242138,
+      "name": "Energy (feat. Techno Tupac)",
+      "url": "https://open.spotify.com/track/68C5lDtvEtOz5bfBfZsTEq"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2193,6 +2193,22 @@
       "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Sick With It",
+        "url": "https://open.spotify.com/album/2CwMbsVWMU3mQhvUhwzyIA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Knapp",
+          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
+        }
+      ],
+      "duration_ms": 225208,
+      "name": "Sick With It",
+      "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Think About It",
@@ -2209,20 +2225,24 @@
       "url": "https://open.spotify.com/track/6sGTKPKsrNRMg96OUhSUWo"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Sick With It",
-        "url": "https://open.spotify.com/album/2CwMbsVWMU3mQhvUhwzyIA"
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku"
       },
       "artists": [
         {
-          "name": "Kevin Knapp",
-          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
         }
       ],
-      "duration_ms": 225208,
-      "name": "Sick With It",
-      "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
+      "duration_ms": 156923,
+      "name": "The Master",
+      "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2281,24 +2301,36 @@
       "url": "https://open.spotify.com/track/64b44rQbKFCG6zVwJ2qDAk"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS"
       },
       "artists": [
         {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        },
-        {
-          "name": "AtcG",
-          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
         }
       ],
-      "duration_ms": 156923,
-      "name": "The Master",
-      "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
+      "duration_ms": 177195,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Bim Boom Bam",
+        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "Bim Boom Bam",
+      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2321,22 +2353,6 @@
       "url": "https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Bim Boom Bam",
-        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
-      },
-      "artists": [
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "Bim Boom Bam",
-      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Easy Tiger",
@@ -2351,22 +2367,6 @@
       "duration_ms": 206456,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6RTNZ5faWkSVCfKuz3WUzS"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 177195,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2F3igFy3c5lreKQ9bKsPVs"
     },
     {
       "added_at": "2023-10-27 04:01:00",

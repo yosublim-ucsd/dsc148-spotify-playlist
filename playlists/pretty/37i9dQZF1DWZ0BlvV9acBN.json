@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Catarina Von Bora",
-  "num_followers": 133178,
+  "num_followers": 133232,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTM0YTZiZTAxMTg1ODM5NmFmZDQ3NjEyMTM2ZDUwYzBkZjJiYjNm",
+  "snapshot_id": "MCxkZDE0Yjk1NWRmNGU5ZmVhMTgwNTE5YzdlMWQ2MmIzMGQ0YWM2OTNm",
   "tracks": [
     {
       "added_at": "2023-11-24 07:21:54",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
+        "name": "Uma Carta de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ramos",
+          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
+        }
+      ],
+      "duration_ms": 231874,
+      "name": "Uma Carta de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 288000,
       "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
-        "name": "Uma Carta de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ramos",
-          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
-        }
-      ],
-      "duration_ms": 231874,
-      "name": "Uma Carta de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Te Seguirei",
-        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
-      },
-      "artists": [
-        {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
-        }
-      ],
-      "duration_ms": 290232,
-      "name": "Te Seguirei",
-      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
-    },
-    {
-      "added_at": "2023-11-24 07:21:54",
-      "album": {
         "name": "Me Ensina a Seguir",
         "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-11-24 07:21:54",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
       "artists": [
         {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2023-11-24 07:21:54",
@@ -1079,6 +1063,22 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
+    },
+    {
+      "added_at": "2023-11-24 07:21:54",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-11-24 07:21:54",

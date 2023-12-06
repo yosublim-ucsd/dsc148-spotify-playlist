@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: YUJIN KIM(\uae40\uc720\uc9c4))",
+  "description": "All about Korean Jazz hits & new (Cover: J Rabbit(\uc81c\uc774\ub798\ube57))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -1228,6 +1228,24 @@
       "duration_ms": 192592,
       "name": "Isolate (feat. \uace0\uc544\ub78c)",
       "url": "https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q"
+    },
+    {
+      "album": {
+        "name": "J RABBIT CHRISTMAS ALBUM",
+        "url": "https://open.spotify.com/album/3juUkvOjeWbjsHsaIq4Dl2"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186343,
+      "name": "It\u2019s Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8"
     },
     {
       "album": {

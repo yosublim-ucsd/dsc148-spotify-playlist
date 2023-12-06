@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Beyoncé
 
-9,853 songs - 21 day 15 hr 26 min
+9,854 songs - 21 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,8 @@
 | [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/11BbPUv7NlzlcbY7AmHHKy) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [AT THE PARTY](https://open.spotify.com/album/0kXRXezhirr0900HvfPYHV) | 3:58 | 2023-11-03 | 2023-11-11 |
 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 | 2023-08-18 | 2023-08-26 |
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2022-09-09 | 2022-09-17 |
-| [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ) | 2:07 | 2023-12-01 |  |
+| [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/0lCuickjQ0wGBvYDYc2TLA) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE) | 2:07 | 2023-12-01 |  |
+| [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ) | 2:07 | 2023-12-01 | 2023-12-06 |
 | [Atlantis \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/5TdnT5EfvkF6K3jHDe7toT) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Atlantis \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/0RNI2RAuIHHNMDF4AuqkKz) | 3:02 | 2023-08-04 | 2023-08-12 |
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-08-11 | 2023-08-19 |
 | [Atmosphere](https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Atmosphere](https://open.spotify.com/album/0nN8ZEm4l9LU8dKLMDponC) | 2:11 | 2023-05-12 | 2023-05-20 |

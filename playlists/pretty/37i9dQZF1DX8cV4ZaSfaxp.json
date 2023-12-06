@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 48946,
+  "num_followers": 48999,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjQ4MDljZjUwMjE4YjljZDFkZjliODQxY2U4NmMxM2YxMTQ4Nzhh",
+  "snapshot_id": "MCxlZWM0OWUwNmJiNWE5M2Q4MDU0NTg0YTNmM2U0MTQ5YWUwNmMwMTU2",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 245598,
-      "name": "Look",
-      "url": "https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Holiday Night - The 6th Album",
         "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 222893,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1UwERmn5UogyCz6qo21BmA"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 245598,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "FREE`SM",
-        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ"
       },
       "artists": [
         {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
         }
       ],
-      "duration_ms": 220526,
-      "name": "Where are you?",
-      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
+      "duration_ms": 232298,
+      "name": "\uc624\ub298\uac19\uc740 \ubc24 A Night Like This",
+      "url": "https://open.spotify.com/track/4bHe5QKYH1sE5pQcBchQWB"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "FREE`SM",
+        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 220526,
+      "name": "Where are you?",
+      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Love Note!",
         "url": "https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 194373,
       "name": "Love Note!",
       "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "nokdu ep vol.1",
-        "url": "https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ"
-      },
-      "artists": [
-        {
-          "name": "nokdu",
-          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "\uc624\ub298\uac19\uc740 \ubc24 A Night Like This",
-      "url": "https://open.spotify.com/track/4bHe5QKYH1sE5pQcBchQWB"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Color of Night",
         "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 219240,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
-      },
-      "artists": [
-        {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "You and Me Together",
-      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 235227,
       "name": "Landed",
       "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "You and Me Together",
+      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+        "name": "AOA 4th Mini Album Good Luck",
+        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
       "artists": [
         {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
+      "duration_ms": 236031,
+      "name": "10 Seconds",
+      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1315,34 +1315,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "AOA 4th Mini Album Good Luck",
-        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
       "artists": [
         {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
         }
       ],
-      "duration_ms": 236031,
-      "name": "10 Seconds",
-      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "THIS CITY",
-        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
-      },
-      "artists": [
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "THIS CITY",
-      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "THIS CITY",
+        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "THIS CITY",
+      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 294700,
+      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1411,22 +1427,6 @@
       "duration_ms": 257031,
       "name": "When My Loneliness Calls You",
       "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 294700,
-      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 243381,
-      "name": "Ondo (with LeeHi)",
-      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1551,6 +1531,26 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 243381,
+      "name": "Ondo (with LeeHi)",
+      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "New Wave City",
         "url": "https://open.spotify.com/album/2ySXEK0kErErlRV7G469GR"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 207398,
       "name": "I Can't Let You Go (feat. Space Cowboy)",
       "url": "https://open.spotify.com/track/7hCtts26L8jf4KxxiNAX4P"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1599,22 +1615,6 @@
       "duration_ms": 250004,
       "name": "SUMMER LOVE\u2026",
       "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
     },
     {
       "added_at": "2023-11-02 08:20:42",

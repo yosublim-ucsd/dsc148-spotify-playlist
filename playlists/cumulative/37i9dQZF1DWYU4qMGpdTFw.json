@@ -352,10 +352,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 160680,
       "name": "El D\u00eda Que David Bowie Muri\u00f3",
       "url": "https://open.spotify.com/track/24QcPeUL1G7qzbpYrHB9mO"
+    },
+    {
+      "album": {
+        "name": "Superioridad moral",
+        "url": "https://open.spotify.com/album/6LHcg2p2UHJRxrwBH8ewML"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "El d\u00eda que David Bowie muri\u00f3",
+      "url": "https://open.spotify.com/track/67EOoerLhiHC2yfXV6tW9D"
     },
     {
       "album": {

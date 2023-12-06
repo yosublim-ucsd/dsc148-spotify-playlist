@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 
 > Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,778 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,883 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ePRxHPWPfx.md) - [plain]
 | 43 | [Un Ratito](https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Medianoche](https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL) | 3:00 |
 | 44 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 |
 | 45 | [La Luna y Tú](https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Canciones Chiquitas](https://open.spotify.com/album/2E2800vbcd00dx5rVBGsw0) | 1:12 |
-| 46 | [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 |
-| 47 | [Blanca Navidad](https://open.spotify.com/track/1nobDMo2NzOyNXgCeyD8f7) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 2:44 |
+| 46 | [Blanca Navidad](https://open.spotify.com/track/1nobDMo2NzOyNXgCeyD8f7) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 2:44 |
+| 47 | [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 |
 | 48 | [Noche De Paz](https://open.spotify.com/track/3XAQFFGDftEG4PXwfusXkX) | [Dylan Suarez](https://open.spotify.com/artist/1MgheGbvBpOtOTin9SVocs) | [Noche De Paz](https://open.spotify.com/album/2kyvfy3mtO5wR6o5P3ccx5) | 3:15 |
 | 49 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
 | 50 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
 
-Snapshot ID: `MCw2NjdjYzk4Y2YyOGJhYWViZGQ4ZTY2NTJlN2M3YmM0NjkwOTNlZGEx`
+Snapshot ID: `MCwwOGMwODc1ZTMzYzBmNTFiZDY2MDViMDhhOTM0NzhhYzUwODY3Y2Mx`

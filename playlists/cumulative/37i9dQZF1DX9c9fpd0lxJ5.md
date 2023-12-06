@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-212 songs - 11 hr 55 min
+213 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [CLEAN BABY](https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CLEAN BABY](https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F) | 3:04 | 2022-06-15 | 2023-11-27 |
 | [Coachella](https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Coachella](https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ) | 3:20 | 2022-06-15 | 2023-03-18 |
 | [Coachella](https://open.spotify.com/track/3nkC0uQZyp5wY0zp8hIkBL) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Coachella](https://open.spotify.com/album/1SrTH3aCRpIkcmkvqlgi3w) | 3:20 | 2021-12-29 | 2022-07-29 |
+| [comoestasmiamor <3](https://open.spotify.com/track/2EpxeTXgxi1kiwnMqf2foK) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/0RTj2p5AzPsWgBz6tnpkOF) | 2:59 | 2023-12-01 |  |
 | [comoestasmiamor <3](https://open.spotify.com/track/3Pd7klN2VLVpHXnN7TdGZW) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1) | 2:59 | 2023-05-26 | 2023-10-27 |
 | [Cool](https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Cool](https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK) | 3:44 | 2022-12-30 | 2023-09-08 |
 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 | 2021-12-29 | 2023-03-04 |
@@ -218,7 +219,7 @@
 | [Where Do You Go?](https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Where Do You Go?](https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq) | 2:27 | 2023-08-04 |  |
 | [Ya no nos hablamos](https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Ya no nos hablamos](https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A) | 3:35 | 2023-10-06 |  |
 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 | 2021-12-29 | 2023-04-19 |
-| [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 | 2022-06-15 |  |
+| [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 | 2022-06-15 | 2023-12-06 |
 | [¿Pa Qué?](https://open.spotify.com/track/6lOYaF4qJxk3woJ0YVCVgu) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/4qwDq324z7bZ2IZ9Rq5hM1) | 3:22 | 2021-12-29 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

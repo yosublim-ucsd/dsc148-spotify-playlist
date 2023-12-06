@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,202 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,210 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 14 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 15 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 |
 | 16 | [Said Sum](https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:35 |
-| 17 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 |
-| 18 | [One Wish](https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Raydiation](https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6) | 5:37 |
+| 17 | [One Wish](https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Raydiation](https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6) | 5:37 |
+| 18 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 |
 | 19 | [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \- Remix](https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg) | 4:32 |
 | 20 | [Richer \(feat\. Polo G\)](https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:10 |
 | 21 | [Crazy Story](https://open.spotify.com/track/4eYrjXGlDycrqg7a0Wgwed) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Crazy Story](https://open.spotify.com/album/4zqveS8bJzUZEz7TeNv6R1) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [On Me](https://open.spotify.com/track/0A5Fk3MPELtWLsrK8JYiY9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hottest in Hip Hop 2021](https://open.spotify.com/album/02qKaM5aOXH99lqPHF59KO) | 2:15 |
 | 50 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
 
-Snapshot ID: `MCwyZTEzMWY4YjgzMDY4YzcwN2M3NjM2OTY0MjI3NTgxYjM5YzMxYjMy`
+Snapshot ID: `MCw3YmJhNWI4NzMwNGI5YjQ5NTFlNjE5NzYwNTkxMTdlM2Y0OWFkZDlk`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D?si=wq7Ohio7Rk6EhWONk3Duow\"> Moelogo </a>  ",
-  "num_followers": 532729,
+  "num_followers": 532853,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ3ZTJkNGRlOTAwZWQxZDkwMzI2OGY5ZGExYjVlYjNmNjA4NGFm",
+  "snapshot_id": "MCwxZWRiZjFmOTRkYThmOWMxN2ZmMDUzOGNiMGY1MDI2NTk0YmZmNmNh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:55",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-01 05:01:55",
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "Panadol",
-      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
-    },
-    {
-      "added_at": "2023-12-01 05:01:55",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2023-12-01 05:01:55",
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
     },
     {
       "added_at": "2023-12-01 05:01:55",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-01 05:01:55",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm"
+    },
+    {
+      "added_at": "2023-12-01 05:01:55",
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 212307,
       "name": "All In",
       "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
-    },
-    {
-      "added_at": "2023-12-01 05:01:55",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm"
     }
   ],
   "unique_name": "Afropop",

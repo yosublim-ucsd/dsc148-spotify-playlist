@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Yo Gotti",
-  "num_followers": 511363,
+  "num_followers": 511497,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQwNzAwMmRiY2FkZjI0YjFjZmVhN2IyZDkxODRkYTI0ZWYxMzM2",
+  "snapshot_id": "MCxiOTU5NWIzM2QxZTE0YzIwNGUwNzRjNTQ2NTg0YmY1ZmU3OTU5YmUy",
   "tracks": [
     {
       "added_at": "2023-12-01 19:22:27",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Juve The Great",
-        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Soulja Slim",
-          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
         "name": "Who Is Mike Jones?",
         "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 271053,
       "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
       "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "Juve The Great",
+        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Soulja Slim",
+          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
     },
     {
       "added_at": "2023-12-01 19:22:27",

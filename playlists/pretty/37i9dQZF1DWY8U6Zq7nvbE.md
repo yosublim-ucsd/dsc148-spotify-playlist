@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,521 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,531 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 37 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 |
 | 38 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
 | 39 | [Lovely](https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Lovely](https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M) | 3:09 |
-| 40 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
-| 41 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
+| 40 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
+| 41 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
 | 42 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
 | 43 | [see you soon](https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [see you soon](https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW) | 2:38 |
 | 44 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
@@ -68,22 +68,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 58 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
 | 59 | [Ghost \- Acoustic](https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Ghost \- acoustic](https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE) | 2:31 |
 | 60 | [Kissing Other People \- Acoustic](https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Kissing Other People \(Acoustic\)](https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T) | 3:12 |
-| 61 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 |
+| 61 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
 | 62 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
-| 63 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
+| 63 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
 | 64 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
-| 65 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
-| 66 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 |
+| 65 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 |
+| 66 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
 | 67 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
 | 68 | [All of me \- Acoustic](https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [All of me \- Acoustic](https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd) | 4:28 |
-| 69 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
+| 69 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 70 | [OTW \- Acoustic Version](https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [OTW \(Acoustic Version\)](https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei) | 3:21 |
-| 71 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
-| 72 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 |
+| 71 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 |
+| 72 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 |
 | 73 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 4:12 |
 | 74 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 |
-| 75 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 |
-| 76 | [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 |
+| 75 | [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 |
+| 76 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 |
 | 77 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 |
 | 78 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 |
 | 79 | [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 83 | [SOS](https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [SOS](https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6) | 2:42 |
 | 84 | [A Case of You](https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Other Ways](https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS) | 4:32 |
 | 85 | [Cupid](https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [Cupid](https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E) | 3:01 |
-| 86 | [Pumped Up Kicks](https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Pumped Up Kicks](https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf) | 2:09 |
-| 87 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |
+| 86 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |
+| 87 | [Pumped Up Kicks](https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Pumped Up Kicks](https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf) | 2:09 |
 | 88 | [Love Song](https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Love Song](https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn) | 3:31 |
 | 89 | [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 |
 | 90 | [WITHOUT ME](https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [WITHOUT ME](https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 |
 | 100 | [Boyfriend](https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Boyfriend](https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo) | 2:59 |
 
-Snapshot ID: `MCw2OGZkMWU0MDM1NzE3ZWU3MzM1ZDA0MTE0YTQxYmRiMDIwOGM2YzIx`
+Snapshot ID: `MCw4OWJiODAyYzMxZGMwZWJhZTBiYzcyZWY0NTE4ZTM1ODYxYTcwYzEx`

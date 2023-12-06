@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-372 songs - 1 day 2 hr 23 min
+373 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 | 2023-08-29 |  |
 | [Deep Blue \- feat\. カコイミク](https://open.spotify.com/track/6Npd95zNGjg4wMhIN1ipDh) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [Miku Kakoi](https://open.spotify.com/artist/5alTj7erIXRIQbrUC2Cv1v) | [Deep Blue \(feat\. カコイミク\)](https://open.spotify.com/album/0CqGadhjfGmQIPY41VaGZs) | 5:16 | 2023-11-14 | 2023-11-30 |
 | [Don't Let Me Go](https://open.spotify.com/track/5t7TDtxEROR35WDMrUioBu) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [Don't Let Me Go](https://open.spotify.com/album/0WcB8yWpupgALCIrjfBEJG) | 3:44 | 2023-01-24 | 2023-03-15 |
+| [Don't Wanna Fight](https://open.spotify.com/track/5nO2FV3svLJtslwjKFw30m) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Don't Wanna Fight](https://open.spotify.com/album/0Gcs5fEjawL4ReXJADECtN) | 4:39 | 2023-12-05 |  |
 | [Drawl](https://open.spotify.com/track/5E7f6xYsxhDdUzwDWLrs6T) | [tatyn](https://open.spotify.com/artist/2bGZL8hoNpceJ6rRbflybA) | [Drawl](https://open.spotify.com/album/7bM3wfZAD5PRrrTC9IRMDe) | 3:18 | 2023-10-12 | 2023-10-25 |
 | [Drawl](https://open.spotify.com/track/7un82BeP1sOVI4R8NhQq6p) | [tatyn](https://open.spotify.com/artist/2bGZL8hoNpceJ6rRbflybA) | [Drawl](https://open.spotify.com/album/5DTs7RlPryssenWO0ClL0O) | 3:18 | 2023-10-12 | 2023-10-14 |
 | [Earth: my Home Planet](https://open.spotify.com/track/5jrasBBRelZu8W51HHYWSx) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [Earth: my Home Planet](https://open.spotify.com/album/367AxTys5leFcc98kZP0Nr) | 2:12 | 2022-12-13 | 2022-12-21 |
@@ -110,7 +111,7 @@
 | [kyokou](https://open.spotify.com/track/6bc4C84YxaMQNJw3O2AlUr) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 4:38 | 2023-04-20 | 2023-05-31 |
 | [La Lune](https://open.spotify.com/track/5bn0m1qjFbmYAI0imnwFPL) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [La Lune](https://open.spotify.com/album/2DwIjTWuPaPwlbsZMaegPX) | 2:13 | 2023-07-18 | 2023-08-09 |
 | [Lady \- 2020](https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 5:56 | 2022-10-20 |  |
-| [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 | 2022-10-20 |  |
+| [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 | 2022-10-20 | 2023-12-06 |
 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 | 2022-10-20 |  |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-05 |  |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-04-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23817,
+  "num_followers": 23821,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTBjYzVjZWE0NzYwMzYwNjkyMDZlNmQ1NWIyZTRjYzY1YjUwZDA5",
+  "snapshot_id": "MCw2ZTJkYjRjYTQ4OWM3YzcxZmVmMmI3ODA4ZmI2ZDljOTIyMzdkODli",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -435,22 +435,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Fotonovela",
-        "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
+        "name": "Borracha en un Ba\u00f1o Ajeno",
+        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
       },
       "artists": [
         {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
         }
       ],
-      "duration_ms": 282020,
-      "name": "Fotonovela",
-      "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+      "duration_ms": 240531,
+      "name": "Borracha en un Ba\u00f1o Ajeno",
+      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -491,6 +487,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Fotonovela",
+        "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 282020,
+      "name": "Fotonovela",
+      "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "TODO SOBRE LA NADA",
         "url": "https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 212867,
       "name": "PARAISO",
       "url": "https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Borracha en un Ba\u00f1o Ajeno",
-        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Borracha en un Ba\u00f1o Ajeno",
-      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Desaparecer",
-        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Desaparecer",
-      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Des",
         "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 225550,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Desaparecer",
+        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Desaparecer",
+      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Poncholandia",
         "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Conexi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
-      },
-      "artists": [
-        {
-          "name": "Make Mama Proud",
-          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
-        }
-      ],
-      "duration_ms": 232550,
-      "name": "CONEXI\u00d3N DE AMOR",
-      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "SHAMPOO",
         "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
       },
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "blablablablabla",
+        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        },
+        {
+          "name": "musica gratis",
+          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "blablablablabla",
+      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Chicos de la Luz",
         "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 279600,
       "name": "Caribbean",
       "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Teoria Espacial (Remix)",
-        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
-      },
-      "artists": [
-        {
-          "name": "Diego Chamorro",
-          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
-        },
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 332542,
-      "name": "Teoria Espacial (Remix)",
-      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "blablablablabla",
-        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
+        "name": "Teoria Espacial (Remix)",
+        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
       },
       "artists": [
         {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+          "name": "Diego Chamorro",
+          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
         },
         {
-          "name": "musica gratis",
-          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 201706,
-      "name": "blablablablabla",
-      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+      "duration_ms": 332542,
+      "name": "Teoria Espacial (Remix)",
+      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1155,26 +1155,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "No Ves Tal Vez (Evlay Remix)",
-        "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
+        "name": "Fonomix",
+        "url": "https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL"
       },
       "artists": [
         {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Jono McCleery",
-          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
         }
       ],
-      "duration_ms": 313608,
-      "name": "No Ves Tal Vez - Evlay Remix",
-      "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+      "duration_ms": 157974,
+      "name": "Grana",
+      "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1195,18 +1187,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Fonomix",
-        "url": "https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL"
+        "name": "No Ves Tal Vez (Evlay Remix)",
+        "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
         }
       ],
-      "duration_ms": 157974,
-      "name": "Grana",
-      "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
+      "duration_ms": 313608,
+      "name": "No Ves Tal Vez - Evlay Remix",
+      "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "M\u00edstico Mezcal",
-      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 226464,
+      "name": "M\u00edstico Mezcal",
+      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Marcha II",
         "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 224330,
       "name": "Atentado en la Pista",
       "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
-      },
-      "artists": [
-        {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Formas",
         "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 289333,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+      },
+      "artists": [
+        {
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
       },
       "artists": [
         {
-          "name": "HAKANNA",
-          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
-        },
-        {
-          "name": "Joshvatunes",
-          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
+          "name": "Lucas & The Woods",
+          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
         }
       ],
-      "duration_ms": 200125,
-      "name": "PANTERA NEGRA",
-      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
+      "duration_ms": 210659,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1723,18 +1719,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "FRIENDZONE",
-        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
+        "name": "PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
       },
       "artists": [
         {
-          "name": "Lucas & The Woods",
-          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
+          "name": "HAKANNA",
+          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
+        },
+        {
+          "name": "Joshvatunes",
+          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
         }
       ],
-      "duration_ms": 210659,
-      "name": "FRIENDZONE",
-      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
+      "duration_ms": 200125,
+      "name": "PANTERA NEGRA",
+      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
     }
   ],
   "unique_name": "ElectroPop",

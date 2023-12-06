@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Jota Quest (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2G30xrmdmGjD8VxbIVYfQm"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289626,
+      "name": "Do Seu Lado - Ao Vivo",
+      "url": "https://open.spotify.com/track/30Q8BodSWrBwQifVwh2caQ"
+    },
+    {
+      "album": {
         "name": "Jota Quest - Os Maiores Sucessos",
         "url": "https://open.spotify.com/album/7KyAR9NjOUfINkNY06jR9f"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 289626,
       "name": "Do Seu Lado - Ao Vivo",
       "url": "https://open.spotify.com/track/369SakQysvPRw00B9er8Ff"

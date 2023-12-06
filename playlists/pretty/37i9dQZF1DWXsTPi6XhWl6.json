@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33793,
+  "num_followers": 33794,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDdiNTI2ZmI3ZWJmYjhhYjE4MzE5NGE3YTUzZmM1NGI4NDVjNGJh",
+  "snapshot_id": "MCxlMDY0ZTEyNjI4OTBmY2NiNDQxODg4NDRmNmY2MjRlNjNkMjAwZDY4",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Chateau Lobby #4 (in C for Two Virgins)",
-      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -167,22 +183,6 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 307213,
       "name": "Ragged Wood",
       "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "From the Hills Below the City",
-        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "On the Road",
-      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 348226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "From the Hills Below the City",
+        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "On the Road",
+      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Asleep At Heaven's Gate (Remastered And Expanded Edition)",
-        "url": "https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F"
-      },
-      "artists": [
-        {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
-        }
-      ],
-      "duration_ms": 228349,
-      "name": "Lake Michigan",
-      "url": "https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 150506,
       "name": "Why Do You Let Me Stay Here?",
       "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Asleep At Heaven's Gate (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F"
+      },
+      "artists": [
+        {
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+        }
+      ],
+      "duration_ms": 228349,
+      "name": "Lake Michigan",
+      "url": "https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG"
     },
     {
       "added_at": "2022-06-17 04:02:00",

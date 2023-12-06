@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,152 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,237 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 28 | [Som de Alceu](https://open.spotify.com/track/06bUzFuTRlBuFz8QvkgAY6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 3:02 |
 | 29 | [Banho de Mar](https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Re.Significa](https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ) | [Banho de Mar](https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2) | 2:49 |
 | 30 | [Beleza Rara](https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Beleza Rara](https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb) | 3:25 |
-| 31 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
-| 32 | [Bem Me Queira](https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Bem Me Queira](https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ) | 2:25 |
+| 31 | [Bem Me Queira](https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Bem Me Queira](https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ) | 2:25 |
+| 32 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 33 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
 | 34 | [Aroeira](https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Casa Amarela](https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs) | [Aroeira](https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb) | 2:53 |
 | 35 | [coração tambor](https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 2:44 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 49 | [Em Outro Lugar](https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa) | 3:37 |
 | 50 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
 | 51 | [Fiz Esse Som Pra Você \- Acústica](https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Fiz Esse Som Pra Você](https://open.spotify.com/album/3toYATEN96msGnJ34emqb5) | 3:29 |
-| 52 | [No Mundo](https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw) | [No Mundo](https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N) | 3:08 |
-| 53 | [Dança](https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk) | 2:32 |
+| 52 | [Dança](https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk) | 2:32 |
+| 53 | [No Mundo](https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw) | [No Mundo](https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N) | 3:08 |
 | 54 | [Lua Nova](https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3) | [PH Moraes](https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Lua Nova](https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c) | 2:41 |
 | 55 | [Conto as Horas](https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início](https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr) | 3:12 |
 | 56 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Vem de Lá](https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 3:00 |
 | 85 | [Sorriso De Agogô](https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Sorriso De Agogô](https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9) | 3:16 |
 
-Snapshot ID: `MCw5ZWZlMTE4NmJlNTQ3Zjk5YzE5NmRjYzA4OTYwMDdmMjE2YjgzNjVk`
+Snapshot ID: `MCxhOTMxZGUyZDMwOGUyMDUwZjE1MDIwOWZhYjFhYjkwODAzNDBjNGI5`

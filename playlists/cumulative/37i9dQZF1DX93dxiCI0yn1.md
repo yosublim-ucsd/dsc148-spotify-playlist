@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-111 songs - 5 hr 28 min
+112 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [777](https://open.spotify.com/track/6DJ0s5bEUNmJBh7eWmjXcp) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [777](https://open.spotify.com/album/1U58aSWBRUT090ypxNX1nH) | 1:41 | 2023-10-24 |  |
 | [9's SOUL](https://open.spotify.com/track/4DTk4QENo1c0RtebuhHFPi) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [9's SOUL](https://open.spotify.com/album/1ZIlT9iY0JoCIm02obryyh) | 2:14 | 2023-10-24 |  |
 | [AI](https://open.spotify.com/track/0dV2Oko9MulxkW3sxmdB3m) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [AI](https://open.spotify.com/album/1lbxJmXXiwvQgZ8nWaGW7a) | 4:08 | 2023-10-24 |  |
+| [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 | 2023-12-05 |  |
 | [As you are](https://open.spotify.com/track/4h6WxofpPYdffSul9zgh5I) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/7lizwS91vA2vdPKGEZWTx1) | 3:07 | 2023-10-24 |  |
 | [Back and Forth](https://open.spotify.com/track/25eEcgHpDEJYLJeFpKyXt4) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Back and Forth](https://open.spotify.com/album/5WezzeLLpbwdtmjb8sZbbq) | 2:41 | 2023-11-28 |  |
 | [Bagchigi](https://open.spotify.com/track/5RzrT5IuPRWKD1XJ5usNFg) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Bagchigi](https://open.spotify.com/album/28IsEbIM9NZf3RTYMEXz9F) | 2:20 | 2023-10-24 |  |
@@ -116,7 +117,7 @@
 | [Who are you ?](https://open.spotify.com/track/4biUoSfwRlK3WilWUFy7PK) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [WHO AM I? \(Deluxe\)](https://open.spotify.com/album/3rZ5z3scfByZnQCOTYWpT1) | 2:56 | 2023-10-24 |  |
 | [YEN](https://open.spotify.com/track/4Hp2ZLj18BBLlATtFVR3rn) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [YEN](https://open.spotify.com/album/7zRggH4ftnbl0fFBfcR7BO) | 2:06 | 2023-10-24 | 2023-11-29 |
 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 | 2023-11-28 |  |
-| [Zone 6](https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES](https://open.spotify.com/album/4pe6HW7f9ek72LUedGmFfS) | 1:58 | 2023-10-24 |  |
+| [Zone 6](https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES](https://open.spotify.com/album/4pe6HW7f9ek72LUedGmFfS) | 1:58 | 2023-10-24 | 2023-12-06 |
 | [Zoomer](https://open.spotify.com/track/6kopnoNQZMlhuXEdPOyj31) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Golden Virginia](https://open.spotify.com/album/7M5Gqvf6GFk7C8rMpIBqid) | 2:54 | 2023-10-24 |  |
 | [返答](https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/4w98BIOWdMhWPGT2SnHiXQ) | 4:18 | 2023-11-28 | 2023-11-30 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Etienne Dufresne
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,339 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,354 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 5 | [Liaison toxique](https://open.spotify.com/track/2ty8WQ2JfPRvZEfgi68ltm) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Liaison toxique](https://open.spotify.com/album/3udeCmESR4MZ4F3AxRZySv) | 2:56 |
 | 6 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
 | 7 | [lettre à maman](https://open.spotify.com/track/5dsvNYZiUOYoZWmmtWhOdw) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 2:36 |
-| 8 | [Akrapo 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Akrapo 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 |
-| 9 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 |
+| 8 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 |
+| 9 | [Akrapo 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Akrapo 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 |
 | 10 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
 | 11 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 |
 | 12 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 35 | [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 |
 | 36 | [Maintenant](https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Maintenant](https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav) | 3:09 |
 | 37 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 |
-| 38 | [Comme ça](https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Comme ça](https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt) | 2:31 |
-| 39 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 |
-| 40 | [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 |
-| 41 | [CORONER](https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [KH\-22](https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP) | 2:51 |
+| 38 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 |
+| 39 | [CORONER](https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [KH\-22](https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP) | 2:51 |
+| 40 | [Comme ça](https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Comme ça](https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt) | 2:31 |
+| 41 | [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 |
 | 42 | [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 |
 | 43 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 |
 | 44 | [Jane Birkin](https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Jane Birkin](https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2) | 3:16 |
 | 45 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
 | 46 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 |
 | 47 | [ON EN REPARLERA](https://open.spotify.com/track/3xqTtUkGP8rjdnZHBbSNJJ) | [Hös Copperfield](https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LUEUR & ESPOIR](https://open.spotify.com/album/7Mheug4iMEyK1hPsQJ7bsi) | 3:14 |
-| 48 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 |
-| 49 | [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 |
+| 48 | [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 |
+| 49 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 |
 | 50 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 |
 
-Snapshot ID: `MCxjNmM0ZWEzOTcwOTA2MDUzOTY1MThiM2FjZWJhY2I4OGRjMjI1MGVk`
+Snapshot ID: `MCxmNjdiYTY4NzhkOWIyOTExOTgxMGMzZTVlYWYxYjI4MTk2NzJjNTM5`

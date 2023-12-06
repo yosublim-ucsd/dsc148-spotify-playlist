@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "album": {
         "name": "Vol. 3... Life And Times Of S. Carter",
         "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
       },
@@ -784,6 +802,24 @@
       "duration_ms": 177573,
       "name": "Bonkers",
       "url": "https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
     },
     {
       "album": {
@@ -1865,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -2732,6 +2786,24 @@
       "duration_ms": 145263,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/4PKxskDMb62jvG5Li46vkH"
+    },
+    {
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280466,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/60e5PcqGmlVFQ0HHgUagCJ"
     },
     {
       "album": {
@@ -4007,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/6OYd4PE30lvD5QdgGG9msA"
       },
@@ -5150,7 +5240,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
@@ -6021,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180440,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM"
+    },
+    {
+      "album": {
         "name": "Thula",
         "url": "https://open.spotify.com/album/1RMBMJecixfvRYNQlXiWpp"
       },
@@ -6210,7 +6318,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 278778,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
@@ -6703,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "album": {
         "name": "Ladysmith Black Mambazo & Friends",
         "url": "https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG"
       },
@@ -6820,6 +6946,24 @@
       "duration_ms": 255961,
       "name": "Yii Gaind\u00e9",
       "url": "https://open.spotify.com/track/2NDtTyFBl6VZbLy5wuVO5d"
+    },
+    {
+      "album": {
+        "name": "Can't Stop the Music (Original Soundtrack 1980)",
+        "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp"
     },
     {
       "album": {

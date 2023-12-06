@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adriatique, Delhia De France
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,134 likes - 92 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,242 likes - 92 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [Stars In Your Eyes \(feat\. Brave Culture\)](https://open.spotify.com/track/6ohIMkHb95QNE0AJkoNJZY) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [Stars In Your Eyes \(feat\. Brave Culture\)](https://open.spotify.com/album/5jrxESXj1aBiPyqF1TGdlQ) | 3:17 |
 | 22 | [Jai](https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [N1RVAAN](https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA) | [Jai](https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE) | 5:39 |
 | 23 | [PowerHouse](https://open.spotify.com/track/5RNJQYjPzlrCXwX48St7UR) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [PowerHouse](https://open.spotify.com/album/0R4Rx9VsDDnulXCPbOWW14) | 5:30 |
-| 24 | [One Love \- 2023 edit](https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [One Love \(2023 Edit\)](https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC) | 3:48 |
+| 24 | [One Love \- Nick Curly 2023 Edit](https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [One Love \(Nick Curly 2023 Edit\)](https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC) | 3:48 |
 | 25 | [Elevate](https://open.spotify.com/track/5woSWnFu8B2ysLsO75aWsT) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Elevate](https://open.spotify.com/album/4h8siHK8MfCs2LAj0ejMo9) | 5:40 |
 | 26 | [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 |
 | 27 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 91 | [Cosmic Vibes](https://open.spotify.com/track/4L6Yea8uk4rzIpVBEMN2am) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Alien Club](https://open.spotify.com/album/1TKLUCqgBH2bWdult8Janp) | 3:38 |
 | 92 | [ELEKTRO EROTIK](https://open.spotify.com/track/4XKSBSuzMvTIUAIedPWzG2) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [ELEKTRO EROTIK](https://open.spotify.com/album/1EaRq7aBrSKkU4tttnG3g0) | 7:03 |
 
-Snapshot ID: `MCwwZWYwMThmYjVmZDhhZTE2NzhmYjZmZThiOWY3MzFhZTZhN2FlNmU4`
+Snapshot ID: `MCwzYzQ4ZjcwYzExZTVjNTIyMWVmNDhiYjdiMzhmM2VkNGNlOTQ2NmE2`

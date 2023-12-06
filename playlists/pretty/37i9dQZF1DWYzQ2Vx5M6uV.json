@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 115087,
+  "num_followers": 115091,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjY3NDI4ODZjODIyN2RhZGYzNDJmZjIwYzRmYjc1ODY1MWQwNmNm",
+  "snapshot_id": "MCxkZWEwZjk5YzJjMmRkNGIwOWMxNWQ4Mjk4OGFkZWMyMzYzZDYzZDIw",
   "tracks": [
     {
       "added_at": "2023-11-24 07:57:26",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        }
-      ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
         "name": "Waremu",
         "url": "https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 159000,
       "name": "Like A Queen - 2023 Remasterizado",
       "url": "https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        }
+      ],
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     },
     {
       "added_at": "2023-11-24 07:57:26",

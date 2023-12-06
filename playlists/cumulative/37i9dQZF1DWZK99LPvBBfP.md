@@ -4,7 +4,7 @@
 
 > Club classics from the homeland of dance music.
 
-134 songs - 13 hr 9 min
+135 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [House Music \- Message Mix](https://open.spotify.com/track/3aAkumkFhfYUIQAMHWxc2U) | [Eddie Amador](https://open.spotify.com/artist/4d4BTB5YOMdDyTCgU1boCN) | [House Music](https://open.spotify.com/album/2AGRexErtY6iJdCBQP2Ih0) | 8:05 | 2023-07-18 | 2023-08-12 |
 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 | 2023-08-11 |  |
 | [Infinity](https://open.spotify.com/track/4iMl0Hs2mWNZYPje6jSYuf) | [Guru Josh](https://open.spotify.com/artist/0GWezHEUuBQvQM31OaWlS7) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:03 | 2023-06-13 |  |
-| [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 | 2022-04-13 |  |
+| [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 | 2022-04-13 | 2023-12-06 |
+| [Insomnia \- Radio Edit](https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Headliners](https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N) | 3:35 | 2023-08-11 |  |
 | [It Just Won't Do \- Radio Edit](https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0), [Sam Obernik](https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ) | [It Just Won't Do](https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd) | 3:18 | 2022-04-13 |  |
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2022-04-13 |  |
 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/39qNshURj4X8qghle1JSXq) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y demonios](https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso) | 7:30 | 2023-08-11 | 2023-11-06 |

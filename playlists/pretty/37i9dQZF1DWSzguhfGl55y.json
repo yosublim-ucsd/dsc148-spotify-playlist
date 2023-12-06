@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 621776,
+  "num_followers": 621827,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDI2YzFlZWJmNzNmOWNmMmNjNTk4MzU0YzllYjg0ZWU2OTg1NGYy",
+  "snapshot_id": "MCwwMjYyMzQ3MjE3ODg3NmNiMTM2Yzc1MDQyMjczOGM3YWMwODk0Mzdj",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Ich & meine Maske (Premium Version)",
+        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Augen auf",
+      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Ich & meine Maske (Premium Version)",
-        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Augen auf",
-      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+        "name": "Ich (Premium Edition)",
+        "url": "https://open.spotify.com/album/3haQhhBpqNvWbajUwpNoiv"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+      "duration_ms": 204213,
+      "name": "Schlechtes Vorbild",
+      "url": "https://open.spotify.com/track/5bNDEwqT51nXFojsaK3Ilh"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Ich (Premium Edition)",
-        "url": "https://open.spotify.com/album/3haQhhBpqNvWbajUwpNoiv"
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Schlechtes Vorbild",
-      "url": "https://open.spotify.com/track/5bNDEwqT51nXFojsaK3Ilh"
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Demotape",
-        "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Schwule M\u00e4dchen",
-      "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "4:99 - Jubil\u00e4ums-Edition",
         "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 242813,
       "name": "Prison Break Anthem (Ich glaub an Dich) - Single Version",
       "url": "https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Demotape",
+        "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Schwule M\u00e4dchen",
+      "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "Yasha",
-          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Verstrahlt",
-      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "Bitte Ziehen Sie Durch",
         "url": "https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 207413,
       "name": "Bon voyage (feat. Nina)",
       "url": "https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft",
+        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "Yasha",
+          "url": "https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Verstrahlt",
+      "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
         }
       ],
-      "duration_ms": 224080,
-      "name": "Endboss",
-      "url": "https://open.spotify.com/track/7pRY7ku84Y3x3nPoB2gxy0"
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

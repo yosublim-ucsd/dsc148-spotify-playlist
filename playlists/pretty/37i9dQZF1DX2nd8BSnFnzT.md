@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Scalene
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,398 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,405 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 56 | [FIM DO FIM](https://open.spotify.com/track/6Pk8lHNRHkuD1o0Say0o4l) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 2:15 |
 | 57 | [EU NÃO TÔ LEGAL](https://open.spotify.com/track/27iTXxl8tuMNdK7zolwemN) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [SUCESSO A QUALQUER CUSTO](https://open.spotify.com/album/6iVwmn3dr07JEPqNXtVwPr) | 2:27 |
 | 58 | [Até Logo](https://open.spotify.com/track/7x4TWQ3JjclapCLi6pWoK8) | [Skarno](https://open.spotify.com/artist/0S5CzwLcxLkVECtBom3VUt) | [Até Logo](https://open.spotify.com/album/2epcjn2UFpoOEXqUXvGJjl) | 3:35 |
-| 59 | [Nada Se Compara](https://open.spotify.com/track/6ez3XirMlH7Hjo87z8M43P) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 2](https://open.spotify.com/album/1NnA13zzShAeTleK4sU1OY) | 3:16 |
+| 59 | [Nada Se Compara](https://open.spotify.com/track/6a7Gp9ZZxJPS5fbt5AOnX3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:16 |
 | 60 | [Só Mais Essa Noite](https://open.spotify.com/track/7KI90ezWkHeTmhQ8qZWb8x) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Só Mais Essa Noite](https://open.spotify.com/album/0lbFykuNne4AWnWmNiLsHK) | 3:05 |
 | 61 | [Te Odeio](https://open.spotify.com/track/7lIkAqZttsDeShLOLyVhyk) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Cura](https://open.spotify.com/album/4tJs1uXBKXv7rP3w3XpbvE) | 2:33 |
 | 62 | [Pensando No Oceano](https://open.spotify.com/track/4r7Et3GKyFxbzwJqMU7Whs) | [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [As Cartas Que Eu Nunca Enviei](https://open.spotify.com/album/2uvRk0Wve4Ga73wA4ecbh4) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCw3MWZlYzlkMTJjZmJjYWE0MDZiZDViZGYyYjRkY2M4YTQyYTBlZTIx`
+Snapshot ID: `MCwwZDUzMzRiMDJkMjYwZGE2MmQwZjNhNzBjODlmMjE5YWZjMjg4ZGQ1`

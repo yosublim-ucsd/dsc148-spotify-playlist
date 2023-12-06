@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,207 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,224 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Tô Bem Sozin](https://open.spotify.com/track/4e5wyWT8OKRkZfrXvoluDd) | [Fxbricio](https://open.spotify.com/artist/7G28rKG3ECA7Pt6HFs54ZB), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Tô Bem Sozin](https://open.spotify.com/album/69TH1pWebxqDKWcjCqKSWO) | 3:48 |
 | 70 | [Desabriga](https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Desabriga](https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3) | 3:05 |
 
-Snapshot ID: `MCwxZWQyMDU3OTdmMzIxOTRlYmQwN2E2MTkzNGQyYjU5MzgzNTIzZDk5`
+Snapshot ID: `MCxjODNiYTQyZjNkZWI0NTgxYWViZDQwZDE3MmI0NDI1MTVmZjBiYTYz`

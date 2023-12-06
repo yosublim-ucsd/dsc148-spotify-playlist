@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 584007,
+  "num_followers": 584179,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODNlMGMxODY4NGEyNzc3MjBjYWIxYTdjYmQzMDJjZTFhY2Y1MDcx",
+  "snapshot_id": "MCxkNjBjMTMyMzY0ZmM4OTk3ZWMyYjI1MjA1Y2Q2MWE2ZmMyNTg2M2M4",
   "tracks": [
     {
       "added_at": "2023-11-17 16:08:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-17 16:08:56",
       "album": {
-        "name": "vert1go vol. 1",
-        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Into The Walls",
-      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
-    },
-    {
-      "added_at": "2023-11-17 16:08:56",
-      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 198750,
       "name": "echo",
       "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+    },
+    {
+      "added_at": "2023-11-17 16:08:56",
+      "album": {
+        "name": "vert1go vol. 1",
+        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Into The Walls",
+      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
     },
     {
       "added_at": "2023-11-17 16:08:56",

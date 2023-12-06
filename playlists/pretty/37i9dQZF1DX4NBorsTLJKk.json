@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 32955,
+  "num_followers": 32965,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTYxYTU4MGY0NmY3OTRhOGUxNDY2YTA2NDBhN2EwZjhhZjM0ODI1",
+  "snapshot_id": "MCxkMDczM2E3N2Y4MGQwNDE5MzNjMTFjZjg3YWNiY2JhNTA4YjA3MDYy",
   "tracks": [
     {
       "added_at": "2023-09-20 01:51:29",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
-        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "\u5076\u9663\u96e8",
-      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u96e8\u4e0d\u505c\u3002\u6d41 (\u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 265935,
       "name": "\u96e8\u4e0d\u505c\u3002\u6d41 - \u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
+        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "\u5076\u9663\u96e8",
+      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "EmptyORio",
-        "url": "https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx"
-      },
-      "artists": [
-        {
-          "name": "EmptyORio",
-          "url": "https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4e0d\u60f3\u5fd8\u8a18\u7684\u8072\u97f3",
         "url": "https://open.spotify.com/album/1G8hk2VOuuurxdrTpb2rju"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "EmptyORio",
+        "url": "https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx"
+      },
+      "artists": [
+        {
+          "name": "EmptyORio",
+          "url": "https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u5c0f\u5b87\u5b99",
         "url": "https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 258720,
       "name": "\u88ab\u96e8\u56f0\u4f4f\u7684\u57ce\u5e02",
       "url": "https://open.spotify.com/track/4PdRKbD69HOOSTsB5Q76wk"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u6211\u770b\u898b\u7684\u4e16\u754c",
-        "url": "https://open.spotify.com/album/50A7MTR8Qw3gPz4rLphCk2"
-      },
-      "artists": [
-        {
-          "name": "Where Chou",
-          "url": "https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno"
-        }
-      ],
-      "duration_ms": 225413,
-      "name": "\u51ac\u5b63\u5230\u53f0\u5317\u4f86\u770b\u96e8",
-      "url": "https://open.spotify.com/track/1ABqZnAkbrJ2m4xyVdDR9y"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -923,6 +907,22 @@
       "duration_ms": 265760,
       "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u6211\u770b\u898b\u7684\u4e16\u754c",
+        "url": "https://open.spotify.com/album/50A7MTR8Qw3gPz4rLphCk2"
+      },
+      "artists": [
+        {
+          "name": "Where Chou",
+          "url": "https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "\u51ac\u5b63\u5230\u53f0\u5317\u4f86\u770b\u96e8",
+      "url": "https://open.spotify.com/track/1ABqZnAkbrJ2m4xyVdDR9y"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u983b\u7387 White Frequency",
+          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
+        }
+      ],
+      "duration_ms": 308170,
+      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u88ab\u96e8\u50b7\u900f (\u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 252000,
       "name": "\u88ab\u96e8\u50b7\u900f - \u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/5DzWobny6yP1EzeO9KbqER"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
-      },
-      "artists": [
-        {
-          "name": "\u767d\u983b\u7387 White Frequency",
-          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
-        }
-      ],
-      "duration_ms": 308170,
-      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u7d2b\u5916\u7dda",
+        "url": "https://open.spotify.com/album/31D16NvXqqIEXgVyJ9t9G7"
+      },
+      "artists": [
+        {
+          "name": "\u8521\u8a69\u8553",
+          "url": "https://open.spotify.com/artist/5gIoOoGK5jxeB3piPAnENq"
+        }
+      ],
+      "duration_ms": 241853,
+      "name": "\u96e8\u8072\u8857",
+      "url": "https://open.spotify.com/track/3IdOjfIldeOXC8ZcSiQ6Rc"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u221e\u7121\u9650",
         "url": "https://open.spotify.com/album/5R3fhoNuPUPYLh4XSQRXEC"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 250560,
       "name": "\u5c0f\u96e8",
       "url": "https://open.spotify.com/track/0bO7061F8NRnHMsZ88tRM3"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u5bc4\u5c45\u87f9",
-        "url": "https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u601d\u51fd",
-          "url": "https://open.spotify.com/artist/6VOX2zlsFiZDHICYEy3oRD"
-        }
-      ],
-      "duration_ms": 284225,
-      "name": "\u96e8\u4e0d\u505c",
-      "url": "https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

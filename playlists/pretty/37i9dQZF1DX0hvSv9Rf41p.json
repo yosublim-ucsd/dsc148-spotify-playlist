@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with NGHTMRE, Rezz & DeathbyRomy",
-  "num_followers": 977002,
+  "num_followers": 977009,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjUyNWFmNWFlYzI3MjQwZTMzNzQxNTZjZGFiNGVjYjM0NTM4YTQ1",
+  "snapshot_id": "MCwwNzdhYjQ2MTE3OTg1ZTNhNjY4MzdlY2IzZjU3MzAzM2MyMjRkZDM1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -525,7 +525,7 @@
         },
         {
           "name": "AWAY",
-          "url": "https://open.spotify.com/artist/4I28YHp9GKyYMuHeD61uwb"
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
         }
       ],
       "duration_ms": 205714,
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Interference",
@@ -1571,6 +1555,22 @@
       "duration_ms": 228965,
       "name": "Interference",
       "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1769,6 +1769,66 @@
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Raven Gray",
+          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
+        }
+      ],
+      "duration_ms": 189721,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 243238,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 209341,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "All Of A Sudden",
@@ -1795,66 +1855,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Scared",
-        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 243238,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Raven Gray",
-          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
-        }
-      ],
-      "duration_ms": 189721,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Skull Machine",
         "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
       },
@@ -1877,24 +1877,24 @@
       "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
       },
       "artists": [
         {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
         },
         {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         }
       ],
-      "duration_ms": 209341,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
+      "duration_ms": 214400,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2021,6 +2021,22 @@
       "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Heavy Metal",
@@ -2039,22 +2055,6 @@
       "duration_ms": 229805,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx"
     },
     {
       "added_at": "2023-10-20 04:01:00",

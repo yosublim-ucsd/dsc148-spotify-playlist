@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 117524,
+  "num_followers": 117560,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzJmNTgxOGI3MTBhMzJkM2VmODNhYzg3ZDY4OWIxMmUzN2YyZDBj",
+  "snapshot_id": "MCwyZTM2NGI1YzgyNWZiNDhmNGNhODA1ZGRlMjgwMTY4YTA4MDYwYzI1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Karen Souza Essentials",
-        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For",
         "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 205502,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Can't Buy Me Love",
-      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 176720,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Can't Buy Me Love",
+      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 131773,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Follow the White Rabbit",
         "url": "https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM"
       },
@@ -1119,38 +1135,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
         }
       ],
-      "duration_ms": 131773,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+      "duration_ms": 200750,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1175,6 +1171,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 258398,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
-      },
-      "artists": [
-        {
-          "name": "Charles Daisey & Friends",
-          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
-        }
-      ],
-      "duration_ms": 200750,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1271,18 +1271,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
-        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
+        "name": "A Modern Songbook",
+        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        },
+        {
+          "name": "St\u00e9phane Kerecki",
+          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
         }
       ],
-      "duration_ms": 226093,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
+      "duration_ms": 411893,
+      "name": "Fields of Gold - Live",
+      "url": "https://open.spotify.com/track/1vAO8K5hBp5TollswpLnXX"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1319,6 +1327,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
+        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Give Us These Days",
         "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
       },
@@ -1343,30 +1367,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "A Modern Songbook",
-        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "Thomas Enhco",
-          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
-        },
-        {
-          "name": "St\u00e9phane Kerecki",
-          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
-        }
-      ],
-      "duration_ms": 411893,
-      "name": "Fields of Gold - Live",
-      "url": "https://open.spotify.com/track/1vAO8K5hBp5TollswpLnXX"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
+      },
+      "artists": [
+        {
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+        }
+      ],
+      "duration_ms": 219625,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
-      },
-      "artists": [
-        {
-          "name": "Louie Hobbs Trio",
-          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
-        }
-      ],
-      "duration_ms": 219625,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
       },
@@ -1447,6 +1447,26 @@
       "duration_ms": 281333,
       "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
       "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Daylight at Midnight",
+        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
+      },
+      "artists": [
+        {
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Becca Stevens",
+          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1467,22 +1487,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Live at the Village Vanguard",
-        "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
-        }
-      ],
-      "duration_ms": 432915,
-      "name": "Car Wash",
-      "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Blacknuss",
         "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
       },
@@ -1495,6 +1499,22 @@
       "duration_ms": 148800,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Live at the Village Vanguard",
+        "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+        }
+      ],
+      "duration_ms": 432915,
+      "name": "Car Wash",
+      "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1523,22 +1543,34 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Daylight at Midnight",
-        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
       },
       "artists": [
         {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Becca Stevens",
-          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
+      "duration_ms": 224171,
+      "name": "True Love Waits (Radiohead)",
+      "url": "https://open.spotify.com/track/6os2m5ftH4LYEkum1BfP3O"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "duration_ms": 179198,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1579,38 +1611,6 @@
       "duration_ms": 262573,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Don't Know Why",
-        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
-      },
-      "artists": [
-        {
-          "name": "Trois Amis",
-          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
-        }
-      ],
-      "duration_ms": 179198,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Stitches",
-        "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 224171,
-      "name": "True Love Waits (Radiohead)",
-      "url": "https://open.spotify.com/track/6os2m5ftH4LYEkum1BfP3O"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Timeless Tales [For Changing Times]",
-        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 526533,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Tears in Heaven",
         "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 283000,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Timeless Tales [For Changing Times]",
+        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 526533,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1899,58 +1899,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
-      },
-      "artists": [
-        {
-          "name": "Max Haymer",
-          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
-        }
-      ],
-      "duration_ms": 369876,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Groove Connection",
-        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
-      },
-      "artists": [
-        {
-          "name": "Jakob Manz",
-          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "The Gallery Concerts II (Jazz Poetry)",
-        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
-      },
-      "artists": [
-        {
-          "name": "Jan Lundgren",
-          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
-        },
-        {
-          "name": "Hans Backenroth",
-          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "She's Leaving Home - Live",
-      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Lieb Plays the Beatles",
         "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
       },
@@ -1979,6 +1927,58 @@
       "duration_ms": 315266,
       "name": "The Fool on the Hill",
       "url": "https://open.spotify.com/track/1kUNTX5gPEJAU1R5z1kZEz"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "The Gallery Concerts II (Jazz Poetry)",
+        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren",
+          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Hans Backenroth",
+          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "She's Leaving Home - Live",
+      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
+      },
+      "artists": [
+        {
+          "name": "Max Haymer",
+          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
+        }
+      ],
+      "duration_ms": 369876,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Groove Connection",
+        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+      },
+      "artists": [
+        {
+          "name": "Jakob Manz",
+          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Change of Plans",
         "url": "https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 282737,
       "name": "Bullet With Butterfly Wings",
       "url": "https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2023-12-01 00:01:00",

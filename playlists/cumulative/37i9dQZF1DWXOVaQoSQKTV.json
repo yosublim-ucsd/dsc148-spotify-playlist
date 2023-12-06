@@ -3252,7 +3252,7 @@
     {
       "album": {
         "name": "That Feeling",
-        "url": "https://open.spotify.com/album/4Harn1bbAoLFNrECHa83zg"
+        "url": "https://open.spotify.com/album/6uvEZEMm5FP04bBFJq8tPG"
       },
       "artists": [
         {
@@ -3267,6 +3267,28 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203524,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/1DuBCIGdnMEivJmk3vT2GY"
+    },
+    {
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/4Harn1bbAoLFNrECHa83zg"
+      },
+      "artists": [
+        {
+          "name": "Nada Funk",
+          "url": "https://open.spotify.com/artist/2ODpVD3Wyal3qYui1yHXkV"
+        },
+        {
+          "name": "Nell Widmer",
+          "url": "https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
       "duration_ms": 203524,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/7zo6SpUVJsdLEmu4ucjNVV"
@@ -3570,10 +3592,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 172800,
       "name": "Wow, Pt. 2",
       "url": "https://open.spotify.com/track/1l2X2RBt1g5dToAgZqkteq"
+    },
+    {
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/56wJMpbHtmnX7ctoSn5I43"
+      },
+      "artists": [
+        {
+          "name": "Bordo",
+          "url": "https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Wow, Pt.2",
+      "url": "https://open.spotify.com/track/13AyzN04wqrFTrAFhMhPeR"
     },
     {
       "album": {

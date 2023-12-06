@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 196661,
+  "num_followers": 196753,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQzNWE5YTFlNjdkODVjMTYwODEzNzlmMTA1Nzg1YWMzMzQzMzY1",
+  "snapshot_id": "MCwxZDNjMGY5MGQ2Mjg0NTFmOTIxYzdhNDUwMGY4Nzg4NjhmODU4NGEx",
   "tracks": [
     {
       "added_at": "2023-07-24 19:45:41",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Road Less Traveled",
-        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Road Less Traveled",
-      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 177253,
       "name": "Undo It",
       "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+        "name": "Potential Breakup Song",
+        "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
       },
       "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
+      "duration_ms": 218333,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Potential Breakup Song",
-        "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Potential Breakup Song",
-      "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1091,6 +1091,22 @@
       "duration_ms": 215640,
       "name": "Wasting All These Tears",
       "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1123,22 +1139,6 @@
       "duration_ms": 231293,
       "name": "Ready to Run",
       "url": "https://open.spotify.com/track/7yNTZj1ugKCeRJdSP1meOk"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Pioneer",
         "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 213693,
       "name": "Blame It on Your Heart",
       "url": "https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1427,22 +1443,6 @@
       "duration_ms": 198640,
       "name": "I Feel A Sin Comin' On",
       "url": "https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": "2023-07-24 19:45:41",

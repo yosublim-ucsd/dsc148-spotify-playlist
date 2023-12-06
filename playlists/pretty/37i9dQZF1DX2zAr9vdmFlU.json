@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 398895,
+  "num_followers": 398919,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzA2YWI2MTUzZGM5OWQwODE4OWY0MjU3MDQ3MDRlOGFhZWUzNDA2",
+  "snapshot_id": "MCwxNjE3NmFmNDliN2IxNzZmOGVhMDExYTEyZTVhY2Q5ODYwNzY3MjIy",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Si No Pueden Quererte (with Miguel Bos\u00e9)",
-      "url": "https://open.spotify.com/track/446rQWVFWcido9fHuW981s"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 216080,
       "name": "Arr\u00e1ncame",
       "url": "https://open.spotify.com/track/6FtIBJWxBhg8OOplgXaGr5"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Si No Pueden Quererte (with Miguel Bos\u00e9)",
+      "url": "https://open.spotify.com/track/446rQWVFWcido9fHuW981s"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Flora y Fauna",
-        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
+        "name": "Trebol (II)",
+        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
       "artists": [
         {
-          "name": "Camila Luna",
-          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Amor Frutero",
-      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -847,34 +847,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
+        "name": "Flora y Fauna",
+        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
       },
       "artists": [
         {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+          "name": "Camila Luna",
+          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
         }
       ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+      "duration_ms": 173311,
+      "name": "Amor Frutero",
+      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -891,6 +875,22 @@
       "duration_ms": 200303,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Grietas",
         "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 313750,
       "name": "Grietas",
       "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
+      },
+      "artists": [
+        {
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 258373,
       "name": "El Liso (feat. Luis Towers)",
       "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Solterona",
-        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 179856,
-      "name": "Solterona",
-      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "En Medio Del Jard\u00edn",
         "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 221986,
       "name": "En Medio Del Jard\u00edn",
       "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Solterona",
+        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 179856,
+      "name": "Solterona",
+      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Caminando por Quisqueya",
-        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Caminando por Quisqueya",
-      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "The Now Sound of Ursula 1000 (Deluxe Version)",
         "url": "https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 340946,
       "name": "Mambo 1000",
       "url": "https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Caminando por Quisqueya",
+        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Caminando por Quisqueya",
+      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
     },
     {
       "added_at": "2023-12-01 05:01:00",

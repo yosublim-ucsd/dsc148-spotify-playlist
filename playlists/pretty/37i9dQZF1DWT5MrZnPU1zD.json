@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1678195,
+  "num_followers": 1678249,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDNjY2YwODBmYWQ0MThkOTZlMDg0YWYzMDE1N2FiMjJkMDY4NDM0",
+  "snapshot_id": "MCwxZGE5N2Y5NmQxMzM0M2QwZDE3Y2Q2YjMyNjY4OTBkMDZmMDY5Mjgy",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -263,22 +263,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Bachelor",
-        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
+        "name": "Johnny Dang (with Paul Wall & DRODi)",
+        "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
       },
       "artists": [
         {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "DRODi",
+          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
         }
       ],
-      "duration_ms": 241533,
-      "name": "Bachelor",
-      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
+      "duration_ms": 192000,
+      "name": "Johnny Dang (with Paul Wall & DRODi)",
+      "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -319,26 +323,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Johnny Dang (with Paul Wall & DRODi)",
-        "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
+        "name": "Bachelor",
+        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
         },
         {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "DRODi",
-          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Johnny Dang (with Paul Wall & DRODi)",
-      "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+      "duration_ms": 241533,
+      "name": "Bachelor",
+      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Blood Moon (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
-      },
-      "artists": [
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Blood Moon (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Hellcats SRTs 2 (with Lil Durk)",
         "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 165863,
       "name": "Hellcats SRTs 2 (with Lil Durk)",
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Blood Moon (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Blood Moon (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Ganger (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Get Lucki",
+      "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Been One",
         "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Ganger (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn"
+        "name": "CRUEL WORLD",
+        "url": "https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC"
       },
       "artists": [
         {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 179612,
-      "name": "Get Lucki",
-      "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
+      "duration_ms": 147692,
+      "name": "CRUEL WORLD",
+      "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -899,22 +915,6 @@
       "duration_ms": 175764,
       "name": "Different Breed (feat. Swae Lee & Latto)",
       "url": "https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "CRUEL WORLD",
-        "url": "https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "CRUEL WORLD",
-      "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "'02 Lakers",
-        "url": "https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        }
-      ],
-      "duration_ms": 163715,
-      "name": "'02 Lakers",
-      "url": "https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Mama (with Skilla Baby & Tay B)",
         "url": "https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 174250,
       "name": "Mama (with Skilla Baby & Tay B)",
       "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "'02 Lakers",
+        "url": "https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "duration_ms": 163715,
+      "name": "'02 Lakers",
+      "url": "https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Honeybun",
-        "url": "https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        }
-      ],
-      "duration_ms": 128195,
-      "name": "Honeybun",
-      "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 179231,
       "name": "One Time",
       "url": "https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Honeybun",
+        "url": "https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "duration_ms": 128195,
+      "name": "Honeybun",
+      "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Big Pimpin' (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 123575,
-      "name": "Big Pimpin' (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Chrome Hearted (feat. Tyga)",
         "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 153600,
       "name": "Chrome Hearted (feat. Tyga)",
       "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Big Pimpin' (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 123575,
+      "name": "Big Pimpin' (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS"
     },
     {
       "added_at": "2023-12-01 05:00:00",

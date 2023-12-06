@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 247554,
       "name": "Hana - Ballad",
       "url": "https://open.spotify.com/track/08ldhcNuoqot1mavblvKfc"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 211179,
       "name": "I'm Wondering If - KZOK version",
       "url": "https://open.spotify.com/track/7xo88tFEvWWSfL5cjQtJsY"
@@ -4958,6 +4958,24 @@
       "duration_ms": 224666,
       "name": "new day",
       "url": "https://open.spotify.com/track/7uVtYRoo4ZQX8LNBETpMkY"
+    },
+    {
+      "album": {
+        "name": "New In Town",
+        "url": "https://open.spotify.com/album/3efyVqUDcIGkkgrgalIPOL"
+      },
+      "artists": [
+        {
+          "name": "Remo Drive",
+          "url": "https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165266,
+      "name": "New In Town",
+      "url": "https://open.spotify.com/track/30d9CfN1PElhNtGWIzlhYR"
     },
     {
       "album": {
@@ -6594,7 +6612,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 169856,
       "name": "The translator sings",
       "url": "https://open.spotify.com/track/2DUjwpK2MEWL745k5vEOzM"
@@ -7854,7 +7872,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 134015,
       "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
       "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
@@ -7988,6 +8006,24 @@
       "duration_ms": 157983,
       "name": "\u30de\u30ea\u30fc\u30a2\u30f3",
       "url": "https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u4eba",
+        "url": "https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh"
+      },
+      "artists": [
+        {
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "\u4eba\u4eba",
+      "url": "https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn"
     },
     {
       "album": {

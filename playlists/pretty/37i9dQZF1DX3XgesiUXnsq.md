@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Masta Ace, Marco Polo
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,598 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,653 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 18 | [SORRY NOT SORRY](https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:26 |
 | 19 | [Balut](https://open.spotify.com/track/3yeVb5di44wD6CZ2sJromR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:25 |
 | 20 | [Mr\. Put That Shit On](https://open.spotify.com/track/4r2pxdCocBEyQ93xbsaYof) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mr\. Put That Shit On](https://open.spotify.com/album/0iB4O5HImR5jopE1vf7WYr) | 5:48 |
-| 21 | [Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
+| 21 | [The Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [The Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
 | 22 | [Wake Me Up \(feat\. Lil' Kim\)](https://open.spotify.com/track/3GvaQp4dS3htsegKXq7tUp) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Wake Me Up \(feat\. Lil' Kim\)](https://open.spotify.com/album/0XTHiKLB8tj842LgI7osWR) | 3:47 |
 | 23 | [DeNiro & Pesci](https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [DeNiro & Pesci](https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x) | 2:55 |
 | 24 | [Phil Drummond \(feat\. Conway the Machine\)](https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Father Time \- 2018 Version](https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Father Time \(2018 Version\)](https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW) | 4:43 |
 | 100 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
 
-Snapshot ID: `MCwxZjdkZmFiYjVjNmEyZmJlZmE5ODcxZDhjNjI1NjJmNjM1NGNmYmI4`
+Snapshot ID: `MCw5YWUzOTQ4MGU1NjY5ZmNmOWJkOTA0ZjZiM2EyZTQ2Y2FiMGVlNzg3`

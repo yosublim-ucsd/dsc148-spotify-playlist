@@ -8196,7 +8196,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-06",
       "duration_ms": 151304,
       "name": "Light Up The Sky",
       "url": "https://open.spotify.com/track/2kD2avc7DcABRwAMFgakCy"
@@ -11440,6 +11440,32 @@
       "duration_ms": 185714,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda"
+    },
+    {
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3VDVHErDWinXwSDtKMtOeb"
+      },
+      "artists": [
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        },
+        {
+          "name": "Farius",
+          "url": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ"
+        },
+        {
+          "name": "David Frank",
+          "url": "https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211374,
+      "name": "Radiant",
+      "url": "https://open.spotify.com/track/01fXsZUFvPdAy3dW2lly1f"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Aditya A",
-  "num_followers": 113076,
+  "num_followers": 113114,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDI4YmEyZGZiMDkwMzVjNmFhYmRlYWQ0NTFkZGZjNmVkNTdlMGQ1",
+  "snapshot_id": "MCwwMDYyMzAwYjNlOTYyZmY0NDE0YzFlNjllMGNlYzYyN2E4YzE1NTQ4",
   "tracks": [
     {
       "added_at": "2023-12-01 06:19:42",
@@ -104,8 +104,8 @@
           "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
         },
         {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/2CMDAqAE1eM7zHqnzxF4dk"
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
         },
         {
           "name": "Priyansh Srivastava",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-01 06:19:42",
       "album": {
-        "name": "Awaara Ho",
-        "url": "https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Awaara Ho",
-      "url": "https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN"
-    },
-    {
-      "added_at": "2023-12-01 06:19:42",
-      "album": {
         "name": "Narazi",
         "url": "https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 168064,
       "name": "Narazi",
       "url": "https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9"
+    },
+    {
+      "added_at": "2023-12-01 06:19:42",
+      "album": {
+        "name": "Awaara Ho",
+        "url": "https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Awaara Ho",
+      "url": "https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN"
     },
     {
       "added_at": "2023-12-01 06:19:42",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-01 06:19:42",
       "album": {
-        "name": "Kaise Banu",
-        "url": "https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF"
-      },
-      "artists": [
-        {
-          "name": "Taaruk Raina",
-          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
-        }
-      ],
-      "duration_ms": 174418,
-      "name": "Kaise Banu",
-      "url": "https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt"
-    },
-    {
-      "added_at": "2023-12-01 06:19:42",
-      "album": {
         "name": "Saanware Aijaiyo",
         "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
@@ -903,22 +887,18 @@
     {
       "added_at": "2023-12-01 06:19:42",
       "album": {
-        "name": "Kaisi Jadugari",
-        "url": "https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL"
+        "name": "Kaise Banu",
+        "url": "https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF"
       },
       "artists": [
         {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
         }
       ],
-      "duration_ms": 267483,
-      "name": "Kaisi Jadugari",
-      "url": "https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA"
+      "duration_ms": 174418,
+      "name": "Kaise Banu",
+      "url": "https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt"
     },
     {
       "added_at": "2023-12-01 06:19:42",
@@ -939,6 +919,26 @@
       "duration_ms": 246857,
       "name": "Khaare Raste",
       "url": "https://open.spotify.com/track/5gQJZ484gEcVHD2OCuquik"
+    },
+    {
+      "added_at": "2023-12-01 06:19:42",
+      "album": {
+        "name": "Kaisi Jadugari",
+        "url": "https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 267483,
+      "name": "Kaisi Jadugari",
+      "url": "https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA"
     },
     {
       "added_at": "2023-12-01 06:19:42",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-12-01 06:19:42",
       "album": {
-        "name": "Muskan",
-        "url": "https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv"
-      },
-      "artists": [
-        {
-          "name": "Dikshant",
-          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
-        }
-      ],
-      "duration_ms": 198303,
-      "name": "Muskan",
-      "url": "https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i"
-    },
-    {
-      "added_at": "2023-12-01 06:19:42",
-      "album": {
         "name": "Tumhare Aane Se",
         "url": "https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 208888,
       "name": "Tumhare Aane Se",
       "url": "https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ"
+    },
+    {
+      "added_at": "2023-12-01 06:19:42",
+      "album": {
+        "name": "Muskan",
+        "url": "https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "duration_ms": 198303,
+      "name": "Muskan",
+      "url": "https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i"
     },
     {
       "added_at": "2023-12-01 06:19:42",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-12-01 06:19:42",
       "album": {
+        "name": "Shehron Ke Raaz",
+        "url": "https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Shehron Ke Raaz",
+      "url": "https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY"
+    },
+    {
+      "added_at": "2023-12-01 06:19:42",
+      "album": {
         "name": "Sheeshe Ka Dil",
         "url": "https://open.spotify.com/album/5lSThYAjDkr8P4lfvJB6Xk"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 196923,
       "name": "Sheeshe Ka Dil",
       "url": "https://open.spotify.com/track/6Mj5JAocAZu65ZCo54SpDG"
-    },
-    {
-      "added_at": "2023-12-01 06:19:42",
-      "album": {
-        "name": "Shehron Ke Raaz",
-        "url": "https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Shehron Ke Raaz",
-      "url": "https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY"
     },
     {
       "added_at": "2023-12-01 06:19:42",

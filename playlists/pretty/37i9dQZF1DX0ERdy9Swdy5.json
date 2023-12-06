@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 689218,
+  "num_followers": 689403,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGU4NGM1ZWZmMGMxNjk5YmVmM2Y1Mjk0NDRjODYyOTg1MmIwYmUw",
+  "snapshot_id": "MCxlZWUxN2YwNGJlMzJkMWFkNmYyMTE0YmRkNzU5NDNiMWVjYmY5YzZi",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 279186,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Lo Mio Es Amor",
         "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 299893,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 279186,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Mirandote",
+      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Intensamente Con Canciones de Juan Gabriel",
         "url": "https://open.spotify.com/album/3OrTxdDP1E286UALbB9T0D"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 239363,
       "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/27dI6gpXKW1EYl0L7JHsJb"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Mirandote",
-      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
     },
     {
       "added_at": "2023-10-19 19:33:14",

@@ -4,7 +4,7 @@
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-183 songs - 10 hr 50 min
+185 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Arctic Blue Noise](https://open.spotify.com/track/62zcTRfEhEmo2eSn95yndk) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Blue Noise Tranquility](https://open.spotify.com/album/6kof3XoaRMyowGAWiu7nZe) | 3:16 | 2023-11-06 |  |
 | [Azul Celeste](https://open.spotify.com/track/6QpNnDKgtUBQp0pcYa6sBG) | [Magia Blanca](https://open.spotify.com/artist/6NB99H716sPOH3xsWrtgHV) | [Montaña Azul](https://open.spotify.com/album/1zeSf8kRIJeFhHk01FKfcM) | 2:54 | 2023-05-16 |  |
 | [Azure Crystalé](https://open.spotify.com/track/5sGAgeqpWMmHszM7cTSqmd) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [Azure Crystalé](https://open.spotify.com/album/2nNadh7a53SrnMo0KJQvWJ) | 2:48 | 2023-05-16 |  |
+| [Azure Focus](https://open.spotify.com/track/4Nc5D1DpDxyz44tTK057G2) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Azure Focus](https://open.spotify.com/album/6DptTnAjZnz0r6VIaoy1IG) | 5:23 | 2023-12-05 |  |
 | [Azure Freq.](https://open.spotify.com/track/2fKYV3sUlgdKTtstSoxUnv) | [Evolysium](https://open.spotify.com/artist/2HpNxW7zoPDIEnDC0g9y25) | [Dozy Blue](https://open.spotify.com/album/6MlcnEMhkCNPbU5AVOpKnL) | 2:47 | 2023-05-16 |  |
 | [Azure Voyage \(Blue Noise\)](https://open.spotify.com/track/3d2oTExzu9dEhfCPXlpVXd) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Azure Voyage](https://open.spotify.com/album/0V6N5mAo9mHk9V9gukhRS3) | 2:52 | 2023-05-16 |  |
 | [Blissful Blue Noise](https://open.spotify.com/track/6wh7LJHpQHrhzXBtJNgZNc) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Blissful Blue Noise](https://open.spotify.com/album/026pqMVmUDdbisorPEs8rA) | 2:52 | 2023-05-16 |  |
@@ -48,6 +49,7 @@
 | [Blue Noise Ambiance](https://open.spotify.com/track/5XcF9xRYEVIZiKtKkViaNC) | [Binaural Beats Radiance](https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE), [Binaural Beats](https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c), [Deep Sleep Relaxation](https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl) | [Blue Noise](https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2) | 1:58 | 2023-05-16 | 2023-06-20 |
 | [Blue Noise Architecture](https://open.spotify.com/track/7u3GWc7xnXci5PV5PLyihN) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Blue Noise Architecture](https://open.spotify.com/album/2g0bySzL5EHwQwFZmyIvY4) | 3:16 | 2023-09-20 |  |
 | [Blue Noise Background](https://open.spotify.com/track/3J4n2oeZHXwRZnmU7S22SD) | [Binaural Beats Radiance](https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE), [Binaural Beats](https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c), [Deep Sleep Relaxation](https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl) | [Blue Noise](https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2) | 1:33 | 2023-05-16 | 2023-06-20 |
+| [Blue Noise Brain Boost](https://open.spotify.com/track/7I5nFKY6GJd1zMci9Db8MD) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Blue Noise Brain Boost](https://open.spotify.com/album/0udWrSc4ZHZqjiQdRVZXiT) | 5:20 | 2023-12-05 |  |
 | [Blue Noise Calling](https://open.spotify.com/track/1BoBA5AlKmGFZzr7nZznsS) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Blue Noise Paradise](https://open.spotify.com/album/4U2KpO5wA12k9MNTF6FdOq) | 6:42 | 2023-05-16 |  |
 | [Blue Noise Chamber](https://open.spotify.com/track/4qUI5OOK5XisC4Jpn23Wzr) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Blue Noise Chamber](https://open.spotify.com/album/1DeMrTM6C2CppGQXPBGbzY) | 3:06 | 2023-11-06 |  |
 | [Blue Noise Deep Sleep Therapy \(Loopable No Fade\)](https://open.spotify.com/track/0q2HAKD2NmJFJGhXl8jmBS) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp), [Baby Sleeps](https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ), [Background White Noise](https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh) | [Best Blue Noise For Sleep Or Focus \(Loopable\)](https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct) | 2:22 | 2023-05-16 | 2023-07-07 |

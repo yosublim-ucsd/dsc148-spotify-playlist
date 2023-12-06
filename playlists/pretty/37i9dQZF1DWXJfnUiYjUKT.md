@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,306 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,353 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 84 | [paralyzed](https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [paralyzed](https://open.spotify.com/album/2pLMdZ6fSfEHkduFOLmZp9) | 2:01 |
 | 85 | [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:33 |
 | 86 | [The Type \(feat\. YTB Fatt\)](https://open.spotify.com/track/7k2lQiLrZFJcnaOqsG2mdR) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [The Type \(feat\. YTB Fatt\)](https://open.spotify.com/album/2qsWf8N2vSQ50orp7smpMF) | 3:28 |
-| 87 | [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/3R2EmO9cHZ2JRogQR2C9zL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/1jMmpW08K37Nt7EOOA5hdQ) | 2:07 |
+| 87 | [ATL Freestyle 1 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/track/0lCuickjQ0wGBvYDYc2TLA) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [ATL Freestyle 1 & 2 \(feat\. Luh Tyler & Rob49\)](https://open.spotify.com/album/5FlTRdVu9JfE4mrNfGeZrE) | 2:07 |
 | 88 | [Trustfall](https://open.spotify.com/track/1xeDnOaPmfVZsMYSsDLyhF) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Trustfall](https://open.spotify.com/album/2whIOqiGvtYyy2SA67pElo) | 3:02 |
 | 89 | [scenic route](https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE) | 3:00 |
 | 90 | [Tetherball \(with Boyish\)](https://open.spotify.com/track/1OA2dCwth9ZlCh2UGEKhgh) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Tetherball \(with Boyish\)](https://open.spotify.com/album/1dHDuiZa2DxzgUZysJZspf) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Maybe](https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Maybe](https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM) | 3:14 |
 | 100 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 
-Snapshot ID: `MCwyNDNkYzliNmViNjJkODAwZmVmNjUzOTAzZjNjYmE4YjU1YWI5Mjkw`
+Snapshot ID: `MCw3YjRiN2M5Yzk1NjRhM2IyZWJhOWFhMTJiNDZjOWE5YTQ3OWM3ZmIw`

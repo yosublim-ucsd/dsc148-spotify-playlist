@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0kH7WA2NSr.md) - [plain]
 
 > <a href="spotify:artist:0jS6VTFGujWxinY5TSQwOG">Kevin Saunderson</a>'s favorite tracks\. Updated regularly\. Curated by Kevin Saunderson\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,934 likes - 35 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,001 likes - 35 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

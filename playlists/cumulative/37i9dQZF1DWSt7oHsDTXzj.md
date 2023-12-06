@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist\. Cover: boygenius
 
-225 songs - 12 hr 21 min
+226 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ) | 3:42 | 2022-12-23 |  |
 | [Don't Be Alone \(This Christmas\)](https://open.spotify.com/track/3Mry24wXzIDea8bYguQx0q) | [Sweet Baboo](https://open.spotify.com/artist/6cOAzWunacT10kthrJ4Oet) | [Don't Be Alone \(This Christmas\)](https://open.spotify.com/album/5PogCbbRrgXwdZsibYCd1o) | 3:34 | 2021-11-12 | 2022-07-14 |
 | [Driving Home For Christmas](https://open.spotify.com/track/0BvyQ2XjPvcPAzj9WieojA) | [Alice Jemima](https://open.spotify.com/artist/0mehCGPnogbq4Kw6FQZDxR) | [Driving Home For Christmas](https://open.spotify.com/album/4rc64XeZEuo7uf9lNWGuJP) | 3:38 | 2021-11-12 | 2022-06-29 |
+| [Driving Under Stars](https://open.spotify.com/track/0HotR5MIbpuG5FJs1pqhZ5) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Driving Under Stars](https://open.spotify.com/album/3bCdV6zwCADxI7vCqF6h70) | 3:41 | 2023-10-16 |  |
 | [Driving Under Stars](https://open.spotify.com/track/0wwhVMPo09vXS4uGTgOS2d) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Driving Under Stars](https://open.spotify.com/album/3x0TYmUqWVg1g4I2Hdvra1) | 3:41 | 2021-11-12 | 2022-07-27 |
 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 | 2021-11-12 |  |
 | [Everything Is One Big Christmas Tree](https://open.spotify.com/track/4iNWgE5JkuZfB2TrRmVFj2) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Realism \(Standard\)](https://open.spotify.com/album/3JaKUx1XHOR0kWiNXdje2h) | 2:24 | 2021-11-12 | 2022-07-24 |
@@ -158,7 +159,7 @@
 | [My Only Little Wish \(Is You\)](https://open.spotify.com/track/33UyXIgttGjIkounlO51Ay) | [asking for a friend](https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [DYSN](https://open.spotify.com/artist/2zPdY1UXnOn4PC4GpoOkPm) | [My Only Little Wish \(Is You\)](https://open.spotify.com/album/3AalQDa1ftZyQDMiKJTs1v) | 3:00 | 2021-11-12 | 2022-07-27 |
 | [O Holy Night](https://open.spotify.com/track/7GaUxiJvhyZRe16Pt4V8FZ) | [Don McCloskey](https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH) | [O Holy Night](https://open.spotify.com/album/2dYqxXKtKJigqTrCFuweqQ) | 5:06 | 2021-11-12 | 2022-07-28 |
 | [On Christmas Night](https://open.spotify.com/track/7AhwtvWWMdohC9G1n0LJH2) | [Nelson Can](https://open.spotify.com/artist/5pYHnsao4ARhkpGvHGTgHP) | [On Christmas Night](https://open.spotify.com/album/67govfB9y8dX4ECr33I8DW) | 3:29 | 2021-11-12 | 2022-05-14 |
-| [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 | 2021-11-12 |  |
+| [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 | 2021-11-12 | 2023-12-06 |
 | [Pink Xmas Tree](https://open.spotify.com/track/4CUon9bxIwVXCG9CdJlvOS) | [Jagged Jaw](https://open.spotify.com/artist/3Es6oUz3zUC5IZDRRhcRxG) | [Pink Xmas Tree](https://open.spotify.com/album/4ttCLHM3YmqgYPB58w4SWU) | 3:20 | 2021-11-12 | 2022-06-07 |
 | [pumpkin bread](https://open.spotify.com/track/603mAqHBigy7cueil9FxJf) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [pumpkin bread](https://open.spotify.com/album/1Bm7slaDsarcd8ZinmA9py) | 2:57 | 2022-01-07 | 2022-09-26 |
 | [Red River Rock](https://open.spotify.com/track/52EcieQczA1KKZ9ed5P7J8) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Red River Rock](https://open.spotify.com/album/2oF0Uy7bSrLNm2GiCvZStu) | 2:09 | 2022-01-07 | 2023-03-26 |

@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: GENERATIONS from EXILE TRIBE
+> 日本で活躍するボーイズグループを特集。cover: FANTASTICS from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,986 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,998 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
+| 1 | [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 |
 | 2 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 |
 | 3 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 |
 | 4 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 10 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 |
 | 11 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 |
 | 12 | [SWITCHing](https://open.spotify.com/track/0t6EeePFHmdIXdS4TBRqyk) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [SWITCHing](https://open.spotify.com/album/6zYRDSWPlRRb1B0FQantp8) | 3:05 |
-| 13 | [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 |
+| 13 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
 | 14 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
 | 15 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 |
 | 16 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 49 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
 | 50 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
 
-Snapshot ID: `MCw5OGRhMWM5NGE5MjA5NWE0ODliMWUzNjg1YjY1MzY4Yzg3NzkxYmQ5`
+Snapshot ID: `MCwyYjY2NzA1ZGM2ZmEyMmRmMDA0MTQ3MTg4NmY0NTVlMGI3ZTY0NDUz`

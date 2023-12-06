@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
-  "num_followers": 37706,
+  "num_followers": 37747,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWY5NGUyZTY2ZWRhZTEwMmNhNTczNjFiN2FiNzY2YjRiNmNlNTZj",
+  "snapshot_id": "MCxkNDZiOGFhNTJjMjY1NmU2ZGFkYmViNGE2YjQwYThiODY1MDE1MzE4",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Watercolors",
+        "url": "https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "While She Waits",
+      "url": "https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "On s'amuse",
         "url": "https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 272045,
       "name": "Jour Soleil",
       "url": "https://open.spotify.com/track/4Q3QyzdPOkkbTT43ca3bUY"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Watercolors",
-        "url": "https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "While She Waits",
-      "url": "https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Never Doubt",
+        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 250399,
+      "name": "Never Doubt",
+      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Yves",
         "url": "https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI"
       },
@@ -495,6 +511,22 @@
       "duration_ms": 319669,
       "name": "Yves",
       "url": "https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "OLDRICH",
+        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
+      },
+      "artists": [
+        {
+          "name": "Tamotsu LeftGroove",
+          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
+        }
+      ],
+      "duration_ms": 141020,
+      "name": "OLDRICH",
+      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -523,38 +555,6 @@
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "OLDRICH",
-        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
-      },
-      "artists": [
-        {
-          "name": "Tamotsu LeftGroove",
-          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
-        }
-      ],
-      "duration_ms": 141020,
-      "name": "OLDRICH",
-      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Never Doubt",
-        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "Never Doubt",
-      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Extra Careless",
         "url": "https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 170451,
       "name": "Extra Careless",
       "url": "https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Come Again",
         "url": "https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 203574,
       "name": "Come Again",
       "url": "https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Deciphering The Message",
-        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 131160,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Jazz Cats",
-        "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
-      },
-      "artists": [
-        {
-          "name": "Gas Lab",
-          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
-        }
-      ],
-      "duration_ms": 145272,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 125454,
       "name": "Blue Notes",
       "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Jazz Cats",
+        "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        }
+      ],
+      "duration_ms": 145272,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1055,22 +1055,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "fugla",
-        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
+        "name": "out and about with my love at the weekend",
+        "url": "https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd"
       },
       "artists": [
         {
-          "name": "Flughand",
-          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+          "name": "Akassia",
+          "url": "https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5"
         },
         {
-          "name": "steichi",
-          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+          "name": "Samuel Williams",
+          "url": "https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv"
         }
       ],
-      "duration_ms": 130240,
-      "name": "fugla",
-      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
+      "duration_ms": 139023,
+      "name": "out and about with my love at the weekend",
+      "url": "https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "out and about with my love at the weekend",
-        "url": "https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd"
+        "name": "fugla",
+        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
       },
       "artists": [
         {
-          "name": "Akassia",
-          "url": "https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5"
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
         },
         {
-          "name": "Samuel Williams",
-          "url": "https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv"
+          "name": "steichi",
+          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
         }
       ],
-      "duration_ms": 139023,
-      "name": "out and about with my love at the weekend",
-      "url": "https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z"
+      "duration_ms": 130240,
+      "name": "fugla",
+      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "synco",
-        "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
-      },
-      "artists": [
-        {
-          "name": "Julio Estrada",
-          "url": "https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b"
-        },
-        {
-          "name": "bread stinson",
-          "url": "https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ"
-        }
-      ],
-      "duration_ms": 260366,
-      "name": "synco",
-      "url": "https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Dog Dad",
         "url": "https://open.spotify.com/album/1NCtxst9iKyHJhz8AaXG9f"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 240000,
       "name": "Dog Dad",
       "url": "https://open.spotify.com/track/5oYqFfdwufBro2yGltvXWo"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "synco",
+        "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
+      },
+      "artists": [
+        {
+          "name": "Julio Estrada",
+          "url": "https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b"
+        },
+        {
+          "name": "bread stinson",
+          "url": "https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ"
+        }
+      ],
+      "duration_ms": 260366,
+      "name": "synco",
+      "url": "https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1783,6 +1783,58 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Filigrani",
+        "url": "https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3"
+      },
+      "artists": [
+        {
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Filigrani",
+      "url": "https://open.spotify.com/track/4IWWbsB2He38Nt6TPpwghj"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
+        "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        },
+        {
+          "name": "Kim \u00c5ge Furuhaug",
+          "url": "https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Langeland Frukt & Tobakk",
+      "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "duration_ms": 140838,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "713",
         "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
       },
@@ -1815,42 +1867,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo"
-      },
-      "artists": [
-        {
-          "name": "Keeth",
-          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
-        }
-      ],
-      "duration_ms": 140838,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
-        "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        },
-        {
-          "name": "Kim \u00c5ge Furuhaug",
-          "url": "https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Langeland Frukt & Tobakk",
-      "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Blue Turn",
         "url": "https://open.spotify.com/album/1gfJzf9Hu6HKzlGtfbg4km"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 168000,
       "name": "Lament",
       "url": "https://open.spotify.com/track/1RGNKh9SaJr6UNXiUe33UM"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Filigrani",
-        "url": "https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3"
-      },
-      "artists": [
-        {
-          "name": "Gianni Brezzo",
-          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Filigrani",
-      "url": "https://open.spotify.com/track/4IWWbsB2He38Nt6TPpwghj"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Even the Sun",
-        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 206326,
-      "name": "Even the Sun",
-      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Goldfoil",
         "url": "https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC"
       },
@@ -1967,18 +1951,34 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Pearl That Glitters",
-        "url": "https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW"
+        "name": "Haven (An NPR Tiny Desk Concert)",
+        "url": "https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY"
       },
       "artists": [
         {
-          "name": "SHOLTO",
-          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
         }
       ],
-      "duration_ms": 223256,
-      "name": "The Pearl That Glitters",
-      "url": "https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0"
+      "duration_ms": 250539,
+      "name": "Haven - An NPR Tiny Desk Concert",
+      "url": "https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Even the Sun",
+        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 206326,
+      "name": "Even the Sun",
+      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Haven (An NPR Tiny Desk Concert)",
-        "url": "https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY"
+        "name": "The Pearl That Glitters",
+        "url": "https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW"
       },
       "artists": [
         {
-          "name": "Svaneborg Kardyb",
-          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
         }
       ],
-      "duration_ms": 250539,
-      "name": "Haven - An NPR Tiny Desk Concert",
-      "url": "https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg"
+      "duration_ms": 223256,
+      "name": "The Pearl That Glitters",
+      "url": "https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "In The Sky: Expansion",
-        "url": "https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        }
-      ],
-      "duration_ms": 384973,
-      "name": "In The Sky: Expansion",
-      "url": "https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "The Betrayal",
         "url": "https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 117746,
       "name": "Croydon Smash",
       "url": "https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "In The Sky: Expansion",
+        "url": "https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        }
+      ],
+      "duration_ms": 384973,
+      "name": "In The Sky: Expansion",
+      "url": "https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Changing Tides of Dreams",
-        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
-      },
-      "artists": [
-        {
-          "name": "SHOLTO",
-          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
-        }
-      ],
-      "duration_ms": 181761,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Twinkles",
         "url": "https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 148736,
       "name": "Blue Heart",
       "url": "https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "The Changing Tides of Dreams",
+        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "duration_ms": 181761,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
     },
     {
       "added_at": "2023-12-01 00:01:00",

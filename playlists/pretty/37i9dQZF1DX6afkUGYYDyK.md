@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,604 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,603 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 50 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
 | 51 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
 | 52 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 |
-| 53 | [I Won't Forget \(Live\)](https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [I Won't Forget](https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7) | 8:41 |
-| 54 | [For All You've Done \(I Worship You\) \(feat\. Jason Ingram\) \- Live](https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [Live Worship From Vertical Church](https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz) | 5:45 |
+| 53 | [For All You've Done \(I Worship You\) \(feat\. Jason Ingram\) \- Live](https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [Live Worship From Vertical Church](https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz) | 5:45 |
+| 54 | [I Won't Forget \(Live\)](https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [I Won't Forget](https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7) | 8:41 |
 | 55 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 |
 | 56 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |
 | 57 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCw5NzZmNjBkN2Q4YTUwZmRmM2Y3ZDc1NjAwOTQwMTkyMjAxMmE2ZDA0`
+Snapshot ID: `MCxlNjkyNjI4MjA4YTg2M2E4NzVhOGIxMjZmYzcxZjlkMmUyMTAwMTlk`

@@ -1,12 +1,12 @@
 {
   "description": "HoCo 2023 edition.",
-  "num_followers": 4255,
+  "num_followers": 4257,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWE0ZTM4MTNmNDMwMzEyMGEzOWExZmJkOWI0YTg2MDlhMjcxYzgx",
+  "snapshot_id": "MCw4OThlOTZjZDBlMmYwMGRmODBkZmI4NDI1MjE2OGY2ZGRlNjAzZTE4",
   "tracks": [
     {
       "added_at": "2023-10-20 21:28:28",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-06-16 05:16:25",
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "added_at": "2023-06-16 05:16:25",
+      "album": {
         "name": "Life On Earth - EP",
         "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
-    },
-    {
-      "added_at": "2023-06-16 05:16:25",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
     },
     {
       "added_at": "2023-06-16 05:16:25",

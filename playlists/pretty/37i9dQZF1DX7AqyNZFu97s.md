@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > Presenting the biggest tracks from the Class of 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,142 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,172 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 67 | [Be My Guest](https://open.spotify.com/track/1qWBrP1q6NXXpQYYlryCFg) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Be My Guest](https://open.spotify.com/album/4n5ryJWx1DfqljLZp6JH9m) | 2:56 |
 | 68 | [stay.](https://open.spotify.com/track/2CCexSaM6Cay5ZSyAOAEL9) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [genr.es \(let go/what breaks\-1\)](https://open.spotify.com/album/5xTiGK5L7tstao6DuxOIpn) | 2:28 |
 | 69 | [Right Here](https://open.spotify.com/track/0Wnk2XydvGB61e0hUB1Rjt) | [Ashaine White](https://open.spotify.com/artist/3nhn1Qpg3aXPWN2IzaLj05) | [Ash](https://open.spotify.com/album/4h12Q78v9jzHHNixDcWdS9) | 3:21 |
-| 70 | [Move On](https://open.spotify.com/track/2YyKmRpwrWV5QdwMnT1zKK) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [Move On](https://open.spotify.com/album/2kc6qB23IfsatZA3Qokyrt) | 3:35 |
+| 70 | [Move On](https://open.spotify.com/track/5hXJUml2Mz25mnhOXg4aa1) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [Why Does Love Mean Loss?](https://open.spotify.com/album/0hDlGqJF59ElVLFAy6lnsa) | 3:35 |
 | 71 | [Heat](https://open.spotify.com/track/6vAznmmD372DjfKqP1kKEf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Heat](https://open.spotify.com/album/28KACgx2D6lUoDXBWr55CE) | 3:13 |
 | 72 | [Hello](https://open.spotify.com/track/7C4qhOHUD571NqtmGcpN23) | [Lazy Days](https://open.spotify.com/artist/5FGn2Rme0MBoLoWvh6zKp7) | [Hello](https://open.spotify.com/album/1acHE9u4ShCHiPADJMXtJL) | 2:55 |
 | 73 | [Breaking Free](https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA) | [Sopë](https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB) | [Breaking Free](https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Memory](https://open.spotify.com/track/3VcqPv1b86jzRehX2Zp9kh) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Issac Frank](https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj) | [Memory](https://open.spotify.com/album/6YEKFQbcHqoNMmRoDzqZae) | 2:45 |
 | 100 | [Alchemy](https://open.spotify.com/track/1bP5YTdgH4jr13CDDSpBdE) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Alchemy](https://open.spotify.com/album/4Xwwc7D75MxlvO8mAs78BV) | 3:13 |
 
-Snapshot ID: `MCxmMzYxNjljMWE4NmZmNTE0ZTY1OGIxMzEzNjBmMDViMmZlNjRhMjc2`
+Snapshot ID: `MCwyMTI2ODQyMjdkMDgxOGYyYTNhMGEzOTA2YmJmZjgzYzYyOGMwM2Y2`

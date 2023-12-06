@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,256 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,259 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 36 | [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 |
 | 37 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 |
 | 38 | [Who By Fire](https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF) | 3:00 |
-| 39 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
-| 40 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 |
+| 39 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 |
+| 40 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
 
-Snapshot ID: `MCw3NDFmMDQ0YTMxODZjNTYyODM3YjUzMmQ5MzBhNmRlNDk2MmZiMDJi`
+Snapshot ID: `MCwzOGM2M2I5YmI5OGVmZWY1ZTY2ZmEyOGFkY2Y5N2I3MDJmOGIyNDU5`

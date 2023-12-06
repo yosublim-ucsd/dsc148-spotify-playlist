@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,949 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,996 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 46 | [Summer's End](https://open.spotify.com/track/1xSfjrSPQUHyD1xFIJ44vX) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Summer's End](https://open.spotify.com/album/7obp0SlhUqCCHwbnIkAzmN) | 5:18 |
 | 47 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
 | 48 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
-| 49 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
-| 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 49 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 50 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
 
-Snapshot ID: `MCwxZWM3ZWM2ZjhmNmZhZTVjNWM4YzAyMDlkYTMwNjEzZmFmYmQ3NDg0`
+Snapshot ID: `MCw0MjlhMzNiMDExZTZmZGRmNzBmNjZjYzQzZjI2Zjc1ZmJhMDgzNTFj`

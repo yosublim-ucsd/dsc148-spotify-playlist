@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 71 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 71 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 49 | [Señorita Rock'n Roll](https://open.spotify.com/track/1JnHrbhnq095xyZHuCwbd5) | [Las Furias](https://open.spotify.com/artist/4JVrKcOll1rWrmtmVclO7n) | [Señorita Rock'n Roll](https://open.spotify.com/album/2YViM4ipt7gflJU31Rdo4P) | 2:23 |
 | 50 | [Niña Pedigree](https://open.spotify.com/track/3VJMTVdOa9XTs7c0W0rG0p) | [Intestino Grueso](https://open.spotify.com/artist/3BXog1ZXcKtHu5ucSORTMS) | [Intestino Grueso](https://open.spotify.com/album/3Zm8za9rXxU0snftwajzn3) | 1:37 |
 | 51 | [Huracan](https://open.spotify.com/track/78qqrOTvXBpXiltVTSy2ZP) | [Los Mustang 66](https://open.spotify.com/artist/7w14hP0IiEcd62JxFByyf4) | [Fuzz On!](https://open.spotify.com/album/5ExVhKpiVHBzv7dWiqDDte) | 2:22 |
-| 52 | [El Día Que David Bowie Murió](https://open.spotify.com/track/24QcPeUL1G7qzbpYrHB9mO) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Superioridad Moral](https://open.spotify.com/album/2EhD9TMKlvtlPzYwGN8bKC) | 2:40 |
+| 52 | [El día que David Bowie murió](https://open.spotify.com/track/67EOoerLhiHC2yfXV6tW9D) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Superioridad moral](https://open.spotify.com/album/6LHcg2p2UHJRxrwBH8ewML) | 2:40 |
 | 53 | [Extra Extra](https://open.spotify.com/track/5byB98BJXMwlYGWRWpQkfz) | [Finale](https://open.spotify.com/artist/1VEmYmWXlco4Jf3lD4oICe) | [225 O.p.m.](https://open.spotify.com/album/5ejVkkHzkYwtyoXddgqYDY) | 1:22 |
 | 54 | [Alta Tensión](https://open.spotify.com/track/3SRaYZZFL0iVlk0Luq79qc) | [Los Sustos](https://open.spotify.com/artist/0AnfnqJzIpxsgFna2I2xNE) | [Nasty Ritmos](https://open.spotify.com/album/3MGwF4eYuZNjmiyUeWBiSk) | 2:28 |
 | 55 | [Rompecorazones](https://open.spotify.com/track/3cQ9YLMqxP5fY5ZIODlkcF) | [Jenny Bombo](https://open.spotify.com/artist/03ok7kczfXPvLMSPot0pgX) | [Rompecorazones](https://open.spotify.com/album/62LhkYfLDJx4x5mSIhLuJ3) | 2:40 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 70 | [Alpaca](https://open.spotify.com/track/1aKLAx0q6575E5EjhSIgMl) | [Deathorcist](https://open.spotify.com/artist/5TNeUEygdPYbGmqHsSfoGk) | [Alpaca](https://open.spotify.com/album/3ymomE4E1aESx1hiUg5lyt) | 4:06 |
 | 71 | [Get Up!](https://open.spotify.com/track/3MAvDDp5U2EOBA6kQCTZPv) | [TRASH DAY](https://open.spotify.com/artist/7atgGb1JGbFC3OGbuQDYiF) | [Get Up!](https://open.spotify.com/album/10Hq07ay4eXDwaNwwyiMQ2) | 2:53 |
 
-Snapshot ID: `MCwxYjIzYjE0Nzg0ZDZjN2VlZTgxYWQwMDhkY2ZiYTRiZGE3NjQ5MGY5`
+Snapshot ID: `MCxkZmU0ZTRiYzIzNGFkNDkyNjZmN2I4Nzc4Y2IxMmNjZGM2M2I0NWVl`

@@ -4,7 +4,7 @@
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-196 songs - 9 hr 1 min
+200 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Addormentarsi](https://open.spotify.com/track/5CJwgyuXlhfXiZzJI53BUw) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Rumori Di Notte](https://open.spotify.com/album/1S9SdBPsQCziWWoXSO8azE) | 2:30 | 2023-05-26 |  |
 | [Aerial Dreamscape \- White Noise](https://open.spotify.com/track/4qrdMEB8P5Ikkyw0iEK5wd) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Aerial Dreamscape White Noise](https://open.spotify.com/album/5UULsyEl7BwKHKjdPO5COa) | 2:50 | 2023-09-08 |  |
 | [Aerial Escape \- White Noise](https://open.spotify.com/track/7akCcpVFwWlHAvOaBYzVXe) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Aerial Escape \(White Noise\)](https://open.spotify.com/album/6GG4IY1kMxzB9banHyL7EA) | 3:42 | 2023-09-20 |  |
+| [Aeronautical Noise](https://open.spotify.com/track/76VKAFmXKlVwZUvCejCFcU) | [Fredrik Koch](https://open.spotify.com/artist/7pfJtUmBYcPYTRjXGKeujY) | [natural white noise](https://open.spotify.com/album/0jr9ZvRgtUtkMVrehknAse) | 2:05 | 2023-12-05 |  |
 | [Aeroplane Deep White Noise](https://open.spotify.com/track/08wEhIRItJ46wJU0lsELya) | [Hybrid Treasure](https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J) | [Aeroplane Deep White Noise](https://open.spotify.com/album/4suN8JpqLQuK476GSOyRDW) | 3:00 | 2023-05-26 |  |
 | [Airplane Brown Noise](https://open.spotify.com/track/4uCkmEUbPytlQH08l22wEL) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Brown Noise Nap Time](https://open.spotify.com/album/22OZbDOiL4G3I4UYNGeT4F) | 3:42 | 2023-09-08 |  |
 | [Airplane Relax \(Noise\)](https://open.spotify.com/track/5yh88R4EWfiCR5u4k4hXyh) | [Prompt Unlax](https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U) | [Airplane Mode](https://open.spotify.com/album/4wbmOUDGhTXz0WxiqoAgaH) | 2:48 | 2023-06-29 |  |
@@ -28,6 +29,7 @@
 | [Audio White Noise 3](https://open.spotify.com/track/54KiKnQXbLEjoatGyBo83g) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Audio White Noise](https://open.spotify.com/album/28dDs2Jld41ai7GD5UybOY) | 1:42 | 2023-05-26 | 2023-06-17 |
 | [Bed of White Noise Clouds](https://open.spotify.com/track/0rjlSd0IrEruGGMkEO70tM) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Blanket of the Sky White Noise](https://open.spotify.com/album/64GmavAIQ7ak4mXzP6LL38) | 2:45 | 2023-09-20 |  |
 | [Best Noise Nap](https://open.spotify.com/track/1WNjO9wjIj0IMmH6okDK9g) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Around Air Noise](https://open.spotify.com/album/5OYYK54UGqNklzJTwn6Ile) | 1:51 | 2023-05-26 | 2023-06-17 |
+| [Brown Aeroplane Noise](https://open.spotify.com/track/0FNWFA80A3IH9V6N3FQocG) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Brown Aeroplane Noise](https://open.spotify.com/album/5wIZf8Xl04XQkUc7AWmx9u) | 2:50 | 2023-12-05 |  |
 | [Brown Noise Airplane Mode](https://open.spotify.com/track/4vei5lYKqbu2xN9AuDWA88) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [Brown Dreams](https://open.spotify.com/album/7E6ns1hJsMqE2Az6hSEncI) | 1:48 | 2023-05-26 | 2023-06-17 |
 | [Brown Noise Sleep Cabin](https://open.spotify.com/track/4MCOs3Y6t8V3LsILS5PRSw) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [The Sleeper's Brown Noise](https://open.spotify.com/album/7juH0tExuVfyJAPjr2cyHQ) | 3:32 | 2023-05-26 |  |
 | [Cabin Back Noise](https://open.spotify.com/track/0KByxc2bldSo9PtAQQnipz) | [High Altitude Samples](https://open.spotify.com/artist/3T9Rn6sxhCylmpTyWCuu1f) | [Sleep Over the Ocean](https://open.spotify.com/album/433vYcfr0ssW6wMmdq4lv0) | 2:51 | 2023-05-26 |  |
@@ -76,6 +78,7 @@
 | [Gentle Ferry Noise](https://open.spotify.com/track/0bnzSHrNY8rbvSFbAABsFZ) | [Both Are Infinite](https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve) | [Arctic Wind Tunnel](https://open.spotify.com/album/6NmbzbRqFWlQ0UcltKf3iI) | 2:06 | 2023-05-26 |  |
 | [Gentle White Noise \- Seamless](https://open.spotify.com/track/2COPUH8f4mlt1vzZG83zqU) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Gentle White Noise](https://open.spotify.com/album/6oxEgz8aIaZ62WeUlApe0c) | 2:53 | 2023-05-26 |  |
 | [Headphones White Noise \- For Relaxing](https://open.spotify.com/track/4DePAhk2zp5Dw5WYIRxiFD) | [WD Sounds](https://open.spotify.com/artist/6j4XeEBTfgrUEfjZR7ygAD) | [Headphones White Noise](https://open.spotify.com/album/0kIpRaeRVq3A5oSHwuF7YS) | 1:38 | 2023-05-26 | 2023-06-17 |
+| [High Altitudes](https://open.spotify.com/track/2aeYy4OvCZWqZWVrbKeh6m) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 | 2023-12-05 |  |
 | [High In The Sky Noise](https://open.spotify.com/track/1iKIF4nErRA9DCCJ561a7N) | [White Noise Doctor](https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag) | [Taxiing Away](https://open.spotify.com/album/2GwLE8pmgXH0gqs0Z1W6MX) | 2:47 | 2023-06-29 |  |
 | [Hontoni White Noise](https://open.spotify.com/track/742apIRA23YNnENap1s4xV) | [Noizu Deluxe](https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0) | [White Noizu](https://open.spotify.com/album/4f7NGXGk8LEF0XZLHyWrYU) | 2:56 | 2023-09-20 |  |
 | [Hugging White Noise](https://open.spotify.com/track/2InYISGssmeLsVXzLCC6iw) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Peaceful Flow of White Noise](https://open.spotify.com/album/0FYx1eAmRmf8v2b83MtvQe) | 4:30 | 2023-05-26 |  |
@@ -164,6 +167,7 @@
 | [Tranquil White Noise \- Seamless](https://open.spotify.com/track/7p9chKFvA6nLw2RiU346wS) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Tranquil White Noise](https://open.spotify.com/album/4hAIiM2Tn4YFAQ18f9Hfot) | 2:48 | 2023-09-20 |  |
 | [Tranquility](https://open.spotify.com/track/6CbPp21JO1ZFFVkP9vism2) | [Somnolence](https://open.spotify.com/artist/0np7yt4AmDMRNvEuYgOIXm) | [Tranquility](https://open.spotify.com/album/76TCh1UTFZMjIsHWZphYKD) | 2:49 | 2023-05-26 |  |
 | [Travelling White Noise](https://open.spotify.com/track/0hONeDyum50Wv2L4hjiewC) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Travelling White Noise](https://open.spotify.com/album/6nVYi55wBuTF21LFA5oHtq) | 4:16 | 2023-09-20 |  |
+| [Tunnel Noise](https://open.spotify.com/track/0KNJrBUU6A93gsBlPo9F7Q) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Tunnel Noise](https://open.spotify.com/album/3yRleiOvW3vcp3gubkr7gk) | 2:58 | 2023-12-05 |  |
 | [Weatherscape](https://open.spotify.com/track/3ZOLttGxtw1aNxnfKtm78c) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Weatherscape](https://open.spotify.com/album/77ByWHE7eBsRHaqSVQapmY) | 1:44 | 2023-05-26 | 2023-11-22 |
 | [Weaving Rains \(White Noise\)](https://open.spotify.com/track/3PFH2cPKWm5YOmPJNzXh29) | [Zero Oto](https://open.spotify.com/artist/4iYTkNx9MkmIxDMESbIbio) | [Sleeping in the Car](https://open.spotify.com/album/35JF3m2OyBgGyP1zJB0Tvm) | 3:13 | 2023-05-26 |  |
 | [Weißes Rauschen Verlangsamt Sich](https://open.spotify.com/track/1TxKZmv4T7HW20TM2L9R64) | [Kabinenaufnahme](https://open.spotify.com/artist/0zTtzkAwT7JSIIV6U2BAyk) | [Heilung](https://open.spotify.com/album/2zFQGHeFT312rnK9MRflSL) | 1:50 | 2023-05-26 | 2023-06-17 |

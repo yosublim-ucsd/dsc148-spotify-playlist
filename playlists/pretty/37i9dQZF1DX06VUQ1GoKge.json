@@ -1,12 +1,12 @@
 {
   "description": "Attribute to the strength built through the years, as Robb would say.",
-  "num_followers": 561041,
+  "num_followers": 561066,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTgyZDUzODg3NjQ2MDVmZmNlMzg3OTRmODVkOTJlMzUyOTE1NDRm",
+  "snapshot_id": "MCw0ZjNkNzhkZWY5MmY4MTJjNDExYTMxNjk2YTE3MWVhODc3NWI2YTE4",
   "tracks": [
     {
       "added_at": "2023-11-30 20:35:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
@@ -795,24 +811,8 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -891,8 +891,8 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Reroute to Remain",
-        "url": "https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Cloud Connected",
-      "url": "https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Reroute to Remain",
+        "url": "https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Cloud Connected",
+      "url": "https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 291440,
-      "name": "Angel Of Death",
-      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Reign In Blood",
+        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Angel Of Death",
+      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -1079,6 +1095,22 @@
       "duration_ms": 322933,
       "name": "Tornado Of Souls",
       "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1111,22 +1143,6 @@
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
-        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Super Charger Heaven",
-      "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "The Way It Ends",
         "url": "https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 214477,
       "name": "A Flag to Wave",
       "url": "https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+        "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Super Charger Heaven",
+      "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 233297,
-      "name": "MANTRA",
-      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
+      "duration_ms": 293466,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 293466,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
+      "duration_ms": 233297,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
     },
     {
       "added_at": "2023-11-30 20:35:14",

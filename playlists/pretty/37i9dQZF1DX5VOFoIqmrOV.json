@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
-  "num_followers": 312334,
+  "num_followers": 312506,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTczMWFjNGNkNjk2MGQ5OTIxNzA5MDQ4MjdkZDk1YmM0OTFmMDNi",
+  "snapshot_id": "MCxhNmJjNmZjYjQ1MDAwNGIyODNiZmJiZWE4ODFlZDJkZTJjNTlkNTUy",
   "tracks": [
     {
       "added_at": "2022-02-09 09:10:51",
@@ -311,22 +311,18 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Mirchi",
-        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+        "name": "Kumari 21 F",
+        "url": "https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc"
       },
       "artists": [
         {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Anitha",
-          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
         }
       ],
-      "duration_ms": 266760,
-      "name": "Idhedho Bagundhe",
-      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
+      "duration_ms": 299290,
+      "name": "Meghaalu Lekunna",
+      "url": "https://open.spotify.com/track/4YpxBrMONvVqbmXmYI2P5M"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -347,18 +343,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Kumari 21 F",
-        "url": "https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc"
+        "name": "Mirchi",
+        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
       },
       "artists": [
         {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anitha",
+          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
         }
       ],
-      "duration_ms": 299290,
-      "name": "Meghaalu Lekunna",
-      "url": "https://open.spotify.com/track/4YpxBrMONvVqbmXmYI2P5M"
+      "duration_ms": 266760,
+      "name": "Idhedho Bagundhe",
+      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -375,26 +375,6 @@
       "duration_ms": 209961,
       "name": "Crazy Feeling",
       "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
-      },
-      "artists": [
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Rita Thyagarajan",
-          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Seeti Maar",
-      "url": "https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS"
     },
     {
       "added_at": "2023-01-10 09:27:27",
@@ -415,6 +395,26 @@
       "duration_ms": 225034,
       "name": "Jinthaak Chithaka (From \"Dhamaka\")",
       "url": "https://open.spotify.com/track/2u9LdS454v6gjzDOhCQrmJ"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Rita Thyagarajan",
+          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Seeti Maar",
+      "url": "https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
     },
     {
-      "added_at": "2023-02-10 09:20:04",
-      "album": {
-        "name": "Dhamaka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1pnE27pVlikgLeu4Lr8B0B"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        }
-      ],
-      "duration_ms": 130287,
-      "name": "Pulsar Bike",
-      "url": "https://open.spotify.com/track/3abjYvIGlKZGrNaM3Hw0op"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Idharammayilatho",
@@ -555,6 +539,22 @@
       "duration_ms": 248133,
       "name": "Hey Pillagaada",
       "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
+    },
+    {
+      "added_at": "2023-02-10 09:20:04",
+      "album": {
+        "name": "Dhamaka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1pnE27pVlikgLeu4Lr8B0B"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        }
+      ],
+      "duration_ms": 130287,
+      "name": "Pulsar Bike",
+      "url": "https://open.spotify.com/track/3abjYvIGlKZGrNaM3Hw0op"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
     },
     {
-      "added_at": "2023-01-11 20:52:12",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
-          "url": "https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Manasu Maree",
-      "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Arjun Reddy",
@@ -743,6 +727,22 @@
       "duration_ms": 200772,
       "name": "Choosa Choosa",
       "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
+    },
+    {
+      "added_at": "2023-01-11 20:52:12",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
+          "url": "https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Manasu Maree",
+      "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Mirchi",
-        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
-      },
-      "artists": [
-        {
-          "name": "Chinna Ponnu",
-          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
-        }
-      ],
-      "duration_ms": 83448,
-      "name": "Mirchi",
-      "url": "https://open.spotify.com/track/4cjoZb33Fk1dZYrIRMg8Q6"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Care Of Kancharapalem",
@@ -811,6 +795,22 @@
       "duration_ms": 260000,
       "name": "Asha Pasham",
       "url": "https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Mirchi",
+        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+      },
+      "artists": [
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        }
+      ],
+      "duration_ms": 83448,
+      "name": "Mirchi",
+      "url": "https://open.spotify.com/track/4cjoZb33Fk1dZYrIRMg8Q6"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Uppena",
+        "url": "https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 312374,
+      "name": "Nee Kannu Neeli Samudram",
+      "url": "https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI"
+    },
+    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Srimanthudu",
@@ -1375,22 +1391,6 @@
       "duration_ms": 224194,
       "name": "Jatha Kalise",
       "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Uppena",
-        "url": "https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 312374,
-      "name": "Nee Kannu Neeli Samudram",
-      "url": "https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI"
     },
     {
       "added_at": "2023-08-07 09:11:28",

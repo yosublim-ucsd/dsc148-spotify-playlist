@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-547 songs - 21 hr 36 min
+549 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [KNIGHT CRAWLER \(feat\. Juice WRLD\)](https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:57 | 2023-01-20 | 2023-10-22 |
 | [KNOCK! KNOCK!](https://open.spotify.com/track/685d2HcmDJc4DfAUrOuD1A) | [DeadBeatVillain](https://open.spotify.com/artist/3eX60TRDUfjgEIWi07J1nf) | [KNOCK! KNOCK!](https://open.spotify.com/album/1viX7NbOM6Sjep1l8Vyyub) | 1:52 | 2023-03-08 | 2023-03-18 |
 | [KOTA](https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [KOTA](https://open.spotify.com/album/2LgEcNjbm8JC8fL986lpBP) | 3:15 | 2022-07-15 | 2022-11-26 |
+| [KOTA](https://open.spotify.com/track/6eYNLf71cggJ1OKIgu8gnW) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [SOUTH STRIP](https://open.spotify.com/album/6erVSzriWHdz8wEYpM0iU2) | 3:15 | 2023-12-05 |  |
 | [kuinke](https://open.spotify.com/track/0bXi4r2mRKFw9BQnSVd9It) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [kuinke](https://open.spotify.com/album/4RJ39GTV8D0ZPSqoBn8FzE) | 1:32 | 2022-11-18 | 2023-03-25 |
 | [KUMBAYA](https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KUMBAYA](https://open.spotify.com/album/6Yds3Wxk3HxQY4WgJJHya7) | 3:30 | 2021-09-17 | 2022-06-29 |
 | [leave](https://open.spotify.com/track/3IzDLcpjorimZZFuQfXGIo) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [leave](https://open.spotify.com/album/6WlIv26Tw98iYgZuabsqxE) | 1:38 | 2022-10-28 | 2022-11-19 |
@@ -414,6 +415,7 @@
 | [Remote Viewing](https://open.spotify.com/track/1eI8HkKNt9li7iU4CYcPS7) | [Reptilian God Mana](https://open.spotify.com/artist/160Gy6ij0e6apiTHlAnZOd) | [Remote Viewing](https://open.spotify.com/album/18bDk9vXpDfQdUQCm20mqp) | 1:31 | 2023-10-16 |  |
 | [rickys](https://open.spotify.com/track/5mn8rFWBcUN5T6eQ6uYyOI) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [rickys](https://open.spotify.com/album/1HSFAnANvpf7T2hjolO0yc) | 2:08 | 2023-05-05 | 2023-05-27 |
 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 | 2023-03-03 |  |
+| [RIGHT BETWEEN THE EYES](https://open.spotify.com/track/6MduUVifnAw1mft3JR41Z9) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [RIGHT BETWEEN THE EYES](https://open.spotify.com/album/3T5Ja60ghxC0pCsDb2G3T6) | 3:36 | 2023-12-05 |  |
 | [RIOT](https://open.spotify.com/track/0H2fnXVXeTzl6H5ginSfRG) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [RIOT](https://open.spotify.com/album/7L705LjLyc5QApMUSkBisK) | 2:46 | 2022-10-28 | 2022-11-26 |
 | [RIOT \(feat\. chlothegod\)](https://open.spotify.com/track/6VusBTuNTqDabs4P60FHvO) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [RIOT \(feat\. chlothegod\)](https://open.spotify.com/album/6KlBRG3rt0hHxArsQJfH79) | 2:56 | 2023-06-23 |  |
 | [RITZ CARLTON](https://open.spotify.com/track/0f15W2rrueW4URXoQGaqFC) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:48 | 2023-06-23 |  |

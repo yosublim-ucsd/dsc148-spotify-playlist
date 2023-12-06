@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-225 songs - 12 hr 18 min
+226 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-26 | 2023-12-02 |
 | [Christmas Eve / Sarajevo 12/24 \- Instrumental](https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [Christmas Eve and Other Stories](https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT) | 3:25 | 2022-11-09 |  |
 | [Christmas Girl](https://open.spotify.com/track/2JTP56o813IhXsAK8RtrOc) | [Last Youth](https://open.spotify.com/artist/7A8id9cqUSbYSyB1RjBK55) | [Christmas Girl](https://open.spotify.com/album/6fYRfUx9xB6dCeHpSsY1uV) | 3:35 | 2021-11-26 | 2022-11-09 |
+| [Christmas Isn’t Christmas](https://open.spotify.com/track/4gt4FB6ECU3LPKCwdGupiW) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Christmas Isn’t Christmas](https://open.spotify.com/album/1bSjH8cgr3IIYCbNInKqt6) | 3:38 | 2023-12-05 |  |
 | [Christmas Karaoke](https://open.spotify.com/track/2Z4xG23HEwZhFqgerJtYnE) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Christmas Karaoke](https://open.spotify.com/album/1MrJmDS4JcacrgZPuO0NIO) | 2:33 | 2022-11-09 |  |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-11-26 |  |
 | [Christmas Lights](https://open.spotify.com/track/1vkmat7yxLXjWvssEq6NvY) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [XMAS 2022](https://open.spotify.com/album/68rQyZVxb5kye5eKhYTQnj) | 4:01 | 2022-11-09 | 2022-11-13 |

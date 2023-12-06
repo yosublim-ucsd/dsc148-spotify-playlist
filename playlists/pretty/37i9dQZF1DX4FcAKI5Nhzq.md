@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: DINO
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,220 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,525 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [You're Beautiful](https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [You're Beautiful](https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF) | 3:55 |
 | 50 | [SUPERPOWERS](https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l) | 2:55 |
 
-Snapshot ID: `MCxmODkzNzk5MDc4YzFmZDEwNTM3NDUyZTE4YWI5YTViODQ1NGU5N2Vh`
+Snapshot ID: `MCw1N2U1Yjg3MDY4MzE5MTY1YzU2NzMxMmIzMmNhMjYxNzkzM2YzNTRl`

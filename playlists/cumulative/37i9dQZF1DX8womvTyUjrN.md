@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Leo Rizzi & DannyLux
 
-516 songs - 1 day 2 hr 0 min
+517 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Energia](https://open.spotify.com/track/3oot6YbOkial5BIJAvEra8) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Energia](https://open.spotify.com/album/5OBkkS1adIEouu18tESdW3) | 2:35 | 2022-03-21 | 2022-05-21 |
 | [ENERO](https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [ENERO](https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx) | 3:09 | 2023-01-20 | 2023-02-18 |
 | [Enredado](https://open.spotify.com/track/0OB8T9rkWtd8AkUKOwNiuJ) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Enredado](https://open.spotify.com/album/5PNzzawGM6qicExQSakMxb) | 2:56 | 2022-03-21 | 2022-07-09 |
-| [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-11-10 |  |
+| [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-11-10 | 2023-12-06 |
 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 | 2022-09-23 | 2022-12-10 |
 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-09-09 | 2023-03-11 |
 | [Eso Que Tenés](https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eso Que Tenés](https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ) | 2:44 | 2022-04-01 | 2022-12-10 |
@@ -195,6 +195,7 @@
 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 | 2022-10-04 | 2023-01-14 |
 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-11-25 | 2023-04-22 |
 | [Fuckin' Cupido </3](https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db) | [Jean Kala](https://open.spotify.com/artist/4fHIspqJ3qTfWvK3UAbOl9), [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Ndrey Botto](https://open.spotify.com/artist/5iOU7GvWyx3JiaxjJxesd9) | [Fuckin' Cupido </3](https://open.spotify.com/album/7kybS1WpOJk8MBniNTzjVK) | 3:46 | 2022-07-01 | 2022-10-29 |
+| [fuimos amigos](https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [fuimos amigos](https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr) | 2:48 | 2023-12-01 |  |
 | [fuiste](https://open.spotify.com/track/6eS0nYJ6XDrdZfkvUotzp3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [fuiste](https://open.spotify.com/album/1rrMseTyOHnWnU6dbqZC2A) | 2:58 | 2022-12-02 | 2023-02-19 |
 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 | 2022-07-25 | 2022-10-29 |
 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 | 2022-06-28 | 2022-10-29 |

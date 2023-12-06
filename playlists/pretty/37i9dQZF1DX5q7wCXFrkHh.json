@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 81081,
+  "num_followers": 81190,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjk1OTM2MTM1NThmZjI3ZDQwMDcyNmU0ZDRhYTAzMDQ1MmE1NmQx",
+  "snapshot_id": "MCxkM2JmNjVjZDJiZDRiNTlkYTU2YTEzMDY3NzYyZTQ2YzkzOGQyOGZl",
   "tracks": [
     {
       "added_at": "2023-11-16 12:44:43",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "Solo Monk (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 157026,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Solo Monk (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 148933,
-      "name": "Dinah (Take 2)",
-      "url": "https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "Contra La Indecisi\u00f3n",
         "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 252773,
       "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
       "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "Solo Monk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 148933,
+      "name": "Dinah (Take 2)",
+      "url": "https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "If You Got To Ask, You Ain't Got It!",
-        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
-      },
-      "artists": [
-        {
-          "name": "Fats Waller",
-          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/0EYRLGRgsgnKetAVziaaLT"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "Jazz Impressions Of New York",
         "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 147333,
       "name": "Theme From \"Mr. Broadway\"",
       "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "If You Got To Ask, You Ain't Got It!",
+        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
+      },
+      "artists": [
+        {
+          "name": "Fats Waller",
+          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/0EYRLGRgsgnKetAVziaaLT"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "The Shearing Piano",
-        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "Duke's Dream",
         "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "The Now",
-        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
+        "name": "The Shearing Piano",
+        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
       },
       "artists": [
         {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 317439,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
+      "duration_ms": 172600,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1187,6 +1171,22 @@
       "duration_ms": 114693,
       "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
       "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "duration_ms": 317439,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
     },
     {
       "added_at": "2023-11-16 12:44:43",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-16 12:44:43",
       "album": {
-        "name": "Great Britain's",
-        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
-      },
-      "artists": [
-        {
-          "name": "Marian McPartland",
-          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
-    },
-    {
-      "added_at": "2023-11-16 12:44:43",
-      "album": {
         "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 552493,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
+    },
+    {
+      "added_at": "2023-11-16 12:44:43",
+      "album": {
+        "name": "Great Britain's",
+        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
+      },
+      "artists": [
+        {
+          "name": "Marian McPartland",
+          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
     },
     {
       "added_at": "2023-11-16 12:44:43",

@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Ruined",
+        "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "Ruined",
+      "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
+    },
+    {
+      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },

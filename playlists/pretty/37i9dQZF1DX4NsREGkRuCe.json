@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 57007,
+  "num_followers": 57114,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmE0ODM2NWU2OTg2OGEwMzU0ZTQ4NzhlODY0ZWNkYmU3ZDA4OTA0",
+  "snapshot_id": "MCwyODg2ZWVkOWFiY2FlMGM0OTcyNTBlMjAxZGQ4ODUzMTkyNjM1NGFk",
   "tracks": [
     {
       "added_at": "2023-12-01 06:48:58",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
+    },
+    {
+      "added_at": "2023-12-01 06:48:58",
+      "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2023-12-01 06:48:58",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
+      "added_at": "2023-12-01 06:48:58",
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": "2023-12-01 06:48:58",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "NO COMPETITION (feat. Asake)",
+      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "added_at": "2023-12-01 06:48:58",
+      "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 264179,
       "name": "All My Life (Burna Boy Remix)",
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
-    },
-    {
-      "added_at": "2023-12-01 06:48:58",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "NO COMPETITION (feat. Asake)",
-      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -867,26 +867,22 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         },
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 240000,
-      "name": "DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda)",
-      "url": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
+      "duration_ms": 192826,
+      "name": "LIKE THAT (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -907,38 +903,46 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "Oscroh (Pepperline)",
-        "url": "https://open.spotify.com/album/3t6Awr5SrYlepeBSzC83sg"
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
       },
       "artists": [
         {
           "name": "Shallipopi",
           "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 164675,
-      "name": "Oscroh (Pepperline)",
-      "url": "https://open.spotify.com/track/5Trqt6aqWnhqAcWS4Zto7v"
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
     },
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 192826,
-      "name": "LIKE THAT (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
+      "duration_ms": 240000,
+      "name": "DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda)",
+      "url": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -995,22 +999,22 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "Mumu",
-        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+        "name": "Forever (Remix)",
+        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
       },
       "artists": [
         {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Mumu",
-      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
+      "duration_ms": 201600,
+      "name": "Forever (Remix)",
+      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -1031,22 +1035,22 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "Forever (Remix)",
-        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Forever (Remix)",
-      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
+      "duration_ms": 173571,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "Cast",
-        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+        "name": "Oscroh (Pepperline)",
+        "url": "https://open.spotify.com/album/3t6Awr5SrYlepeBSzC83sg"
       },
       "artists": [
         {
           "name": "Shallipopi",
           "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
+      "duration_ms": 164675,
+      "name": "Oscroh (Pepperline)",
+      "url": "https://open.spotify.com/track/5Trqt6aqWnhqAcWS4Zto7v"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "Panadol",
-      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
-    },
-    {
-      "added_at": "2023-12-01 06:48:58",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2023-12-01 06:48:58",
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 203889,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -1243,34 +1243,18 @@
     {
       "added_at": "2023-12-01 06:48:58",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
-    },
-    {
-      "added_at": "2023-12-01 06:48:58",
-      "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+      "duration_ms": 203889,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
     },
     {
       "added_at": "2023-12-01 06:48:58",
@@ -1287,6 +1271,22 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2023-12-01 06:48:58",
+      "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
       "added_at": "2023-12-01 06:48:58",

@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 788909,
+  "num_followers": 789010,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGRmZjM4ZDQ5YjI4NjAzNDgyM2QxZDEwMjQ1M2Y3Yzc5OTkyY2M3",
+  "snapshot_id": "MCxlYTVhYzUyNTdhYWM3ZmIyYzBkY2JlMTM0ZTJiOGE5MWMwYjYwYmRh",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
-        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "N\u00e3o Olha Assim Pra Mim",
+      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Pra Me Refazer",
         "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "N\u00e3o Olha Assim Pra Mim",
-      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
     },
     {
       "added_at": "2023-11-24 15:08:43",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 332921,
+  "num_followers": 333028,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmE1ZDc5YWM3OTdmMzYyZGM1OGJkZDRjMWMzNjZhNTM5OWQ3YWZj",
+  "snapshot_id": "MCxhMDdjZmJlNGUzNWRmYTdhYjA5M2VjMTFmNGQ4MjQwMDdmMDlkMjQ3",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
         "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 196920,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
         "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 145133,
       "name": "Mr. Blue",
       "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
         "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 148493,
       "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2022-05-30 12:59:00",

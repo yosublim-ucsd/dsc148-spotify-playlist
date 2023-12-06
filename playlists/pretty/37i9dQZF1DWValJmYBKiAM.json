@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 134527,
+  "num_followers": 134685,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzc2MGI4ZTVhMWIxYTAwMjEyZmQ3YmM4YjA3ODA4MzJiZDBkYWMz",
+  "snapshot_id": "MCxhMjE0MTJmZWY2MDUwNDc0YzM3OWVmYWEwM2QwMzkxMDg0YTE0Yzdj",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -799,22 +799,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "Paraiso Express",
+        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
-      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+      "duration_ms": 235906,
+      "name": "Desde cuando",
+      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Paraiso Express",
-        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Desde cuando",
-      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
+      "duration_ms": 213133,
+      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
+      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Discotecagem Pop Variada",
-        "url": "https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "S\u00f3 Hoje",
-      "url": "https://open.spotify.com/track/1sClAsuPNqEaza29NcaJKP"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "M\u00e1s De Mi Alma",
         "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 287626,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Discotecagem Pop Variada",
+        "url": "https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "S\u00f3 Hoje",
+      "url": "https://open.spotify.com/track/1sClAsuPNqEaza29NcaJKP"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Sin Mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "M\u00e1s De Mi Alma",
-        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Donde Estar\u00e1 Mi Primavera",
-      "url": "https://open.spotify.com/track/35eHQOoJKDcubkh3A5quLc"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "El Sexto Sentido (Re+Loaded)",
         "url": "https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r"
       },
@@ -1063,6 +1031,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Aerosoul",
         "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Donde Estar\u00e1 Mi Primavera",
+      "url": "https://open.spotify.com/track/35eHQOoJKDcubkh3A5quLc"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Mi Otro Yo",
-        "url": "https://open.spotify.com/album/1KqtDyZKciHgtDI0jD5sDa"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/0HpOft5SON0qXcoicEug2m"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Galeria Caribe",
         "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 274000,
       "name": "Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Mi Otro Yo",
+        "url": "https://open.spotify.com/album/1KqtDyZKciHgtDI0jD5sDa"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/0HpOft5SON0qXcoicEug2m"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Negroklaro",
+        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Duele (Crazy)",
+      "url": "https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Pet Shop Mundo C\u00e3o",
         "url": "https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 272693,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Duele (Crazy)",
-      "url": "https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Inercia",
         "url": "https://open.spotify.com/album/1FYPgqEEVzC50FVkU0DhpS"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 306840,
       "name": "El Tiempo de Ti",
       "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 259399,
-      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Abrazar La Vida",
         "url": "https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 266040,
       "name": "Algo M\u00e1s",
       "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 259399,
+      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
     },
     {
       "added_at": "2022-12-30 17:16:00",

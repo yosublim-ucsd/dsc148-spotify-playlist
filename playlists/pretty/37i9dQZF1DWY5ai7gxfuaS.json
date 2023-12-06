@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 272026,
+  "num_followers": 272163,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmIyMjg2ZjQ3YjUxNzc4MTAzNWNiZDA5MmM2OWY3ZGMyYjIyODA1",
+  "snapshot_id": "MCw0ZmE5OTc1NjYzODEzYWFhMWQ0ZGUwNmQ5NTdlMWRhM2U2Y2ZhY2Zj",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 153931,
-      "name": "Diazepam",
-      "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "FLATLINE",
@@ -419,6 +403,22 @@
       "duration_ms": 172067,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 153931,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "ANTAGONIST RETURNS",
@@ -547,22 +563,6 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/1su4sMJNmHerXssClObphO"
-      },
-      "artists": [
-        {
-          "name": "Hollow",
-          "url": "https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Stuck In My Ways",
@@ -627,6 +611,22 @@
       "duration_ms": 174758,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/1su4sMJNmHerXssClObphO"
+      },
+      "artists": [
+        {
+          "name": "Hollow",
+          "url": "https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Heads Off",
-        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 271943,
-      "name": "Heads Off",
-      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "RedZone / Dead or Alive",
         "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 227706,
       "name": "RedZone",
       "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Heads Off",
+        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 271943,
+      "name": "Heads Off",
+      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -855,22 +855,6 @@
       "duration_ms": 393026,
       "name": "Arluck",
       "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "They Fear Us",
-        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "They Fear Us",
+        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
+      },
+      "artists": [
+        {
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+        }
+      ],
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Plantgazer",
         "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 576912,
       "name": "Red River",
       "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
-      },
-      "artists": [
-        {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 193281,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "WHATS UP?",
-        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
-      },
-      "artists": [
-        {
-          "name": "BVDLVD",
-          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "WHATS UP?",
-      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Satellites (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 210927,
       "name": "Into The Void - Single Edit",
       "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "WHATS UP?",
+        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "WHATS UP?",
+      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 202105,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "On Circles",
         "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 413400,
       "name": "Wildblood",
       "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
     }
   ],
   "unique_name": "Alternative Metal",

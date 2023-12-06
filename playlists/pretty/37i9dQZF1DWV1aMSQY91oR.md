@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: FRVRFRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,104 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,115 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 27 | [Strictly](https://open.spotify.com/track/5ynWLIQkVwBsoBJrvYLUYH) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Strictly](https://open.spotify.com/album/0IQQFjjQ8dF8hEdOr3osJf) | 2:51 |
 | 28 | [In The Trunk \(feat\. GloRilla\)](https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [In The Trunk \(feat\. GloRilla\)](https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg) | 2:45 |
 | 29 | [We Made It](https://open.spotify.com/track/5vuMXy5DUyOY5kOvaiOrN1) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [We Made It](https://open.spotify.com/album/73ssqyLwb9cht2Y4GaOY11) | 3:06 |
-| 30 | [Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
+| 30 | [The Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [The Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 |
 | 31 | [Like Father, Like Son](https://open.spotify.com/track/5vhHpVxlMNTpowLMvHg4Es) | [Peter Jackson](https://open.spotify.com/artist/3lF1gW0El7u8ChPBgl7v8r), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Like Father, Like Son](https://open.spotify.com/album/0iPxzLdomUGGkdZDabrdt5) | 2:38 |
 | 32 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
 | 33 | [Hatin on Me](https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Real Rap B\*\*\*\*](https://open.spotify.com/album/24BlqiVfMDly6VLwxA6OA1) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Mom's Gonna Be Alright](https://open.spotify.com/track/3V5a5Uz6YMuKI04iA9uqFw) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK) | [Mom's Gonna Be Alright](https://open.spotify.com/album/5wSytMiPVv643U8Z0YWtql) | 2:16 |
 | 50 | [Gun for Gun](https://open.spotify.com/track/6HD02KC4uZSGDOlzbUXfbx) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Gun for Gun](https://open.spotify.com/album/65xUGIszcBbbpBRpoAEiLu) | 1:48 |
 
-Snapshot ID: `MCxlZjNmYTE3YzgwYTcyMWMzN2VhYTljZGQxNTY2MzAzZmIwNjM5NDIz`
+Snapshot ID: `MCwyMGE2NzA0NjEyMDBlNjRmZTRhZDZlOTFmZjkzMWMyOGNjYTAwMDJh`

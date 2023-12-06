@@ -4,10 +4,11 @@
 
 > The biggest Dancehall playlist in the world\. Cover: Buju Banton
 
-417 songs - 20 hr 45 min
+417 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0j4a867TmkRY8j9bVIrwmv) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/00g7a3g3mO3uKEdYmRHUS1) | 0:00 | 2023-11-17 |  |
 | [100 Grand](https://open.spotify.com/track/0JU1OY5mpOJOJa4B8WgT3E) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Dj Crown Prince](https://open.spotify.com/artist/63r2ySCZiTpWUem62loolj), [1takennandos](https://open.spotify.com/artist/7E2zbb0Qm6rkU00JfU4emU) | [100 Grand](https://open.spotify.com/album/3j97TkyvnE7BkqwGHoDJ9g) | 2:39 | 2023-08-07 | 2023-09-25 |
 | [11th Commandment](https://open.spotify.com/track/73TAnIxNydMTFZ07myAlFZ) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 3:38 | 2023-08-07 | 2023-09-25 |
 | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk) | 3:27 | 2023-07-10 | 2023-11-18 |
@@ -91,7 +92,6 @@
 | [Curves](https://open.spotify.com/track/1dcxmYQkU2Lo7RzG9YAO5R) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Curves](https://open.spotify.com/album/6ULZu7eB7o4jChsNxlwF0v) | 2:07 | 2022-07-29 | 2022-09-10 |
 | [Cyaa Bruk Back](https://open.spotify.com/track/5dHtwQYbiFDDDxXb5wB0vb) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Cyaa Bruk Back](https://open.spotify.com/album/5elsvRpIQ8z1vECKT3a65c) | 2:16 | 2021-12-20 | 2022-03-22 |
 | [Dawkniss](https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d) | [1Skimask](https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo), [Falconn](https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5) | [Dawkniss](https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg) | 2:41 | 2023-05-14 | 2023-07-11 |
-| [Dear Dancehall](https://open.spotify.com/track/0j4a867TmkRY8j9bVIrwmv) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Dear Dancehall](https://open.spotify.com/album/00g7a3g3mO3uKEdYmRHUS1) | 3:02 | 2023-11-17 |  |
 | [Deja Vu](https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [I'll Never Die](https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu) | 2:26 | 2023-01-31 | 2023-07-11 |
 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 | 2022-03-21 | 2023-07-11 |
 | [Different Type](https://open.spotify.com/track/6h9EChcvpiIIcvJLHNPDMu) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type](https://open.spotify.com/album/6HKFR4WRYb1CjLbjB0wPJH) | 3:34 | 2021-12-20 | 2022-03-03 |
