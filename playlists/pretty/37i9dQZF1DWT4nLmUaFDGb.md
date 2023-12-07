@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,730 likes - 140 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,074 likes - 140 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 139 | [When Wind Fades](https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Blues and Bells](https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y) | 5:07 |
 | 140 | [Lean in \(feat\. Mark Guiliana\)](https://open.spotify.com/track/4g5f4u4PZGSFYbzStVmmBZ) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Lean in \(feat\. Mark Guiliana\)](https://open.spotify.com/album/2pgv9J0OJgHvEsoDJVtbuQ) | 4:49 |
 
-Snapshot ID: `MCwzODVkNjA0YmRiM2I3MmUyNWMwMTM3ZTE1Mzc2NTBjZTRiOGE0MTc2`
+Snapshot ID: `MCxkNzkzZDQxOTkwOWU4OTMzZGQ3ZmI5N2RkNWJkM2VmYTM4MTVmZmNm`

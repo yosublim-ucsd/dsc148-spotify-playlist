@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133531,
+  "num_followers": 1133557,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWJiODAyYzMxZGMwZWJhZTBiYzcyZWY0NTE4ZTM1ODYxYTcwYzEx",
+  "snapshot_id": "MCw2OGZkMWU0MDM1NzE3ZWU3MzM1ZDA0MTE0YTQxYmRiMDIwOGM2YzIx",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 155188,
       "name": "Lonely (with benny blanco) - Acoustic",
       "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 172454,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Let Me Get Close To You",
-        "url": "https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC"
-      },
-      "artists": [
-        {
-          "name": "Roberta Loki",
-          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "Let Me Get Close To You",
-      "url": "https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Here I Go Again - Acoustic EP",
         "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 252307,
       "name": "Here I Go Again - Acoustic",
       "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Let Me Get Close To You",
+        "url": "https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC"
+      },
+      "artists": [
+        {
+          "name": "Roberta Loki",
+          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "Let Me Get Close To You",
+      "url": "https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Ghost - acoustic",
-        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 151374,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Kissing Other People (Acoustic)",
         "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
@@ -1011,6 +995,54 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Ghost - acoustic",
+        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 151374,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 132789,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
@@ -1043,34 +1075,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+        "name": "All of me - Acoustic",
+        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
       },
       "artists": [
         {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
         }
       ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "duration_ms": 132789,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+      "duration_ms": 268551,
+      "name": "All of me - Acoustic",
+      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "All of me - Acoustic",
-        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
       },
       "artists": [
         {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
         }
       ],
-      "duration_ms": 268551,
-      "name": "All of me - Acoustic",
-      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
+      "duration_ms": 170884,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Kiss An Angel Good Mornin'",
         "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 164785,
       "name": "Kiss An Angel Good Mornin'",
       "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 190561,
       "name": "Out Of My Head And Back In My Bed",
       "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
-      },
-      "artists": [
-        {
-          "name": "Tobey Rosen",
-          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
-        }
-      ],
-      "duration_ms": 170884,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Cupid",
-        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
-      },
-      "artists": [
-        {
-          "name": "seaiiana",
-          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
-        }
-      ],
-      "duration_ms": 181111,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Make You Feel My Love",
         "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 189680,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
+      },
+      "artists": [
+        {
+          "name": "seaiiana",
+          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
+        }
+      ],
+      "duration_ms": 181111,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
       },
       "artists": [
         {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+      "duration_ms": 179000,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
     },
     {
       "added_at": "2023-11-24 00:01:00",

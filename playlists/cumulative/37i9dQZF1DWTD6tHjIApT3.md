@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: chelmico
 
-1,991 songs - 5 day 8 hr 40 min
+1,993 songs - 5 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Circle](https://open.spotify.com/track/54cKGQsQZN5SYdK3C4Npxw) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Circle](https://open.spotify.com/album/6uaQc25boGfgpNK38CEZwN) | 4:32 | 2023-02-07 | 2023-04-02 |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-23 |
 | [CITY LIFE](https://open.spotify.com/track/1bfky1ySIKHaornviiF6mW) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [CITY LIFE](https://open.spotify.com/album/6ofDypKApQAyvLBPrIIrbc) | 3:55 | 2022-07-26 | 2022-08-03 |
+| [Clair de Lune](https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Clair de Lune](https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL) | 3:35 | 2023-12-05 |  |
 | [close to you](https://open.spotify.com/track/6vNB1Ifizvcv6d04fZKoiZ) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [close to you](https://open.spotify.com/album/3QLKhb3MrJ4xLrRHMR5ioy) | 3:56 | 2022-05-29 | 2022-07-29 |
 | [cloud](https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x) | [hyou](https://open.spotify.com/artist/5MKWIRBAlanbDXXUTGaCRT) | [cloud](https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA) | 3:52 | 2022-07-19 | 2022-07-27 |
 | [Cloudy's just right](https://open.spotify.com/track/14zuiKpK4DOr9Fkjf5FpQq) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [Cloudy's just right](https://open.spotify.com/album/0PjxFB0gTY9p7xqxAsOrhS) | 3:40 | 2023-08-15 | 2023-08-23 |
@@ -848,7 +849,8 @@
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-02 | 2022-10-26 |
 | [Sabishii no Iro](https://open.spotify.com/track/3ORQBi71IuctVeUf93l7le) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Sabishii no Iro](https://open.spotify.com/album/6OQMBijqwcgC2vBcDcuKUE) | 3:58 | 2023-07-25 | 2023-08-02 |
 | [Sailing](https://open.spotify.com/track/5bkb0z3NyoyOokKRrsIsua) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Sailing](https://open.spotify.com/album/1aiaI6bjMi0gOEBPzS9yCl) | 5:49 | 2022-06-02 | 2022-07-27 |
-| [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 | 2023-12-05 |  |
+| [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 | 2023-12-05 |  |
+| [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 | 2023-12-05 | 2023-12-07 |
 | [Saraba!](https://open.spotify.com/track/2cpOJenpWVZrF6ag98V9aU) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:59 | 2023-03-28 | 2023-04-05 |
 | [Satsuki](https://open.spotify.com/track/2tiex0oWYiAR9UWZ9SlFW3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [My First Love is Crying](https://open.spotify.com/album/5ojxoUisAMA5Mon0amRHCE) | 4:30 | 2022-07-14 | 2022-07-20 |
 | [save my heart](https://open.spotify.com/track/2MJpQd3qeTdeWpUh7fY3Z6) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [save my heart](https://open.spotify.com/album/6F2JycFERABpGqptt0vFfV) | 2:44 | 2023-09-12 | 2023-09-20 |
@@ -1780,7 +1782,7 @@
 | [月が涙を流す夜](https://open.spotify.com/track/68CMuQlO03vyQrGVNHTle2) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [月が涙を流す夜](https://open.spotify.com/album/7AyOi29A8SRAcDOojIJBCi) | 3:39 | 2022-10-04 | 2022-10-06 |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-18 | 2022-11-11 |
 | [月に吠える](https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月に吠える](https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV) | 4:25 | 2022-05-29 | 2022-09-07 |
-| [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 |  |
+| [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 | 2023-12-07 |
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 | 2023-06-21 |
 | [月は今でも明るいが](https://open.spotify.com/track/64iq9RkRASwf2W6UDZzUPS) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [月は今でも明るいが](https://open.spotify.com/album/5JKyex0alhL1zW3TyvW3Yj) | 3:53 | 2022-08-23 | 2022-08-31 |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-10-12 |  |

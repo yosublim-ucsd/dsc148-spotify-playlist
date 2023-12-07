@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,320 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,407 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 6 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 |
 | 7 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 |
 | 8 | [Monster \- Robin Schulz Remix](https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Monster \(Robin Schulz Remix\)](https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO) | 2:45 |
-| 9 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
-| 10 | [Ferrari \- Oliver Heldens Remix](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Ferrari \(Oliver Heldens Remix\)](https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY) | 3:08 |
+| 9 | [Ferrari \- Oliver Heldens Remix](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Ferrari \(Oliver Heldens Remix\)](https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY) | 3:08 |
+| 10 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
 | 11 | [Love Again \- Imanbek Remix](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Love Again \(Imanbek Remix\)](https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7) | 3:34 |
 | 12 | [greedy \- cassö remix](https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC) | 2:36 |
 | 13 | [Gimme Love \- Armin van Buuren Remix – Radio Edit](https://open.spotify.com/track/2cuVIu6c6BHJiUcOXoEivN) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Gimme Love \(Armin van Buuren Remix\)](https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [I Wanna Know \(feat\. Bea Miller\) \- Syn Cole Remix](https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Wanna Know \(feat\. Bea Miller\) \- Remixes](https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l) | 2:59 |
 | 50 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
 
-Snapshot ID: `MCwyM2UyZjU3MzhjNTk3ZWM0MzkxNzM2ZWI3ZjAxOTQ5NGVjNzRmOTNi`
+Snapshot ID: `MCxiMzEyNDI2MzlmODBmZTQ5ODZiMjI1ZWM5ZjAxNTVkMGYxYTI0YTFj`

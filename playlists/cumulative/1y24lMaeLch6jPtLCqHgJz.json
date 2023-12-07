@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ"
+      },
+      "artists": [
+        {
+          "name": "Liah",
+          "url": "https://open.spotify.com/artist/3iFO7dwzsgNbmsaW59HrAi"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76"
+    },
+    {
+      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj"
       },

@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-136 songs - 9 hr 33 min
+137 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Naogopa](https://open.spotify.com/track/3RZR4vq0AtTx1NZvfH85Bc) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Naogopa](https://open.spotify.com/album/1CUXqJ0kl6wgeZ3mih9DXP) | 3:43 | 2022-02-10 | 2022-11-14 |
 | [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 | 2022-02-10 |  |
 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 | 2022-02-10 | 2023-01-29 |
-| [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 | 2022-02-10 |  |
+| [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 | 2022-02-10 | 2023-12-07 |
+| [Ndilinde](https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 5:52 | 2023-11-28 |  |
 | [Ndizele Wena](https://open.spotify.com/track/15P4w866PR3iyQ4b3KlLbK) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 2:38 | 2022-02-10 |  |
 | [Nikikutazama](https://open.spotify.com/track/2QweIUK69pkW3dgnEEzPaI) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Nikikutazama](https://open.spotify.com/album/54LLZZzjgU0cDnKJVKMvgl) | 3:56 | 2022-02-10 |  |
 | [Njiwa](https://open.spotify.com/track/4vQv5HRVJs89gKdbRb7Uro) | [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH), [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Njiwa](https://open.spotify.com/album/2kE28W8yYhQob3RY9v7Iqj) | 4:18 | 2022-02-10 | 2022-08-21 |

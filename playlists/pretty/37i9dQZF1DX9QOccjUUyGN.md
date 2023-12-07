@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Penedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,671 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,669 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Sal e Pimenta](https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 3:26 |
 | 75 | [TEMPESTADE](https://open.spotify.com/track/3TZGXZR6KHM60DNopOEgLl) | [Sanza](https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m), [Dumas](https://open.spotify.com/artist/2tvSJaPwUVWy86RWnlZGs1), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt), [GAUD](https://open.spotify.com/artist/3FAOMbLcVdpwUZFkjErzBt) | [TEMPESTADE](https://open.spotify.com/album/5lUsHZqJN7vGd8AKohAgEu) | 3:07 |
 
-Snapshot ID: `MCw3M2Q3MGJmNTM1MDRlZWEzZmFlNGFlNmVkODMzYzEzMjUxMDRjNjhm`
+Snapshot ID: `MCxlMTIyZjA3YjJhODk4YmE3YmQyYWQzM2Y0NDY5MjQxM2MwMzkxM2Rj`

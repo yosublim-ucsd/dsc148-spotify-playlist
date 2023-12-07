@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Prinz
 
-202 songs - 9 hr 45 min
+203 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Take The Risk](https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv) | 3:20 | 2022-08-02 | 2023-04-27 |
 | [Take The Risk](https://open.spotify.com/track/6xikniI7OrvyxnRV5hBR9Y) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [bu hüseyin baybaşin için](https://open.spotify.com/album/0TZfpMHDVfFDRcdqHt4pQU) | 3:20 | 2022-08-02 | 2023-06-28 |
 | [Take The Risk](https://open.spotify.com/track/1MMXEAS4szGoA0LrgockiE) | [xcst](https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo) | [Take The Risk](https://open.spotify.com/album/32QhYt2qBS1LT52KdIbF7x) | 3:20 | 2022-08-02 | 2023-06-03 |
-| [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 | 2022-04-05 |  |
+| [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 | 2022-04-05 | 2023-12-07 |
+| [Talking Stage](https://open.spotify.com/track/2wqit987hOdo26WWk95BIK) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd) | 3:00 | 2023-08-01 |  |
 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 | 2022-04-05 | 2022-11-26 |
 | [The Talking Stage Game](https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o) | 3:15 | 2022-08-02 |  |
 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 | 2022-08-02 |  |

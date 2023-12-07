@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,750 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,167 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [The First Noel](https://open.spotify.com/track/4mRYgux6JVh8abioQmEN9t) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Christmas: Joy to the World](https://open.spotify.com/album/4ZXkMHjPFRyKGG3cXIBDHy) | 3:46 |
 | 100 | [Feelin' Like Christmas](https://open.spotify.com/track/5nB154PCWmkFvYchZkX0iG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:17 |
 
-Snapshot ID: `MCw0MTI0MjE0MzMzZjI0M2M2NjJiOTcwNzg3ZmQ2NmQyZmI2YjlmMTQz`
+Snapshot ID: `MCw2MjUzNmVhNTY3NDZiYTBkMGYwN2Q3ZTJmYWI2MzMzNzZlMWFiZGQ0`

@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 420727,
+  "num_followers": 420807,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDQ4NzNiNTc0NGY3MzliNDkzOTBmODVkNTY4NDVjNzA5YTNjZDA0",
+  "snapshot_id": "MCw3YThmMzk4NzhiMmM3MGFjN2Y1NzUyNmJhNzYwYWRlMTkyOTczOTY0",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 309786,
-      "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
-      "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "If You Say the Word",
         "url": "https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 260733,
       "name": "If You Say the Word",
       "url": "https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 309786,
+      "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
+      "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 241332,
-      "name": "Slowdance I",
-      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "The Waves Pt. 1",
         "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 262040,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 241332,
+      "name": "Slowdance I",
+      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Wicked Animal",
+        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
+      },
+      "artists": [
+        {
+          "name": "Amandla Stenberg",
+          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
+        },
+        {
+          "name": "Bobbi Salv\u00f6r Menuez",
+          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
+        }
+      ],
+      "duration_ms": 284745,
+      "name": "Wicked Animal",
+      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Fire Leap",
         "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 171098,
       "name": "Fire Leap",
       "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Wicked Animal",
-        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
-      },
-      "artists": [
-        {
-          "name": "Amandla Stenberg",
-          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
-        },
-        {
-          "name": "Bobbi Salv\u00f6r Menuez",
-          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
-        }
-      ],
-      "duration_ms": 284745,
-      "name": "Wicked Animal",
-      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+        "name": "Spinning Wheel",
+        "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
       },
       "artists": [
         {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Little Vampire",
-      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+      "duration_ms": 205703,
+      "name": "Spinning Wheel",
+      "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
     }
   ],
   "unique_name": "Spooky",

@@ -4620,6 +4620,24 @@
     {
       "album": {
         "name": "VENENO",
+        "url": "https://open.spotify.com/album/24tpJBhXjecNBqKHVpwp3E"
+      },
+      "artists": [
+        {
+          "name": "Plutonio de Alto Grado",
+          "url": "https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "VENENO",
+      "url": "https://open.spotify.com/track/1ijiOk6sEfDLLh1bWYLkk8"
+    },
+    {
+      "album": {
+        "name": "VENENO",
         "url": "https://open.spotify.com/album/5uyVBqMyaoVHy9M8PvOnJ7"
       },
       "artists": [
@@ -4630,7 +4648,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 218343,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/0DNoRxCysDLV6z4UgaLso2"

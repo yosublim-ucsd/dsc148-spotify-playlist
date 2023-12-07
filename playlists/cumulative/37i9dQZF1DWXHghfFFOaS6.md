@@ -4,7 +4,7 @@
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-172 songs - 13 hr 20 min
+173 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Lifesaver](https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Baybe](https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br) | [Jazzmatazz Volume II: The New Reality](https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz) | 4:13 | 2021-12-12 |  |
 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 | 2021-12-12 |  |
 | [Look Inside](https://open.spotify.com/track/4CGoEKup84yKbG9r6eYd4A) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Face](https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg) | [Play With The Changes](https://open.spotify.com/album/7o6XzFc6ZwdmqW8tDxlHyk) | 4:06 | 2021-12-12 | 2022-07-29 |
-| [Look Inside](https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Face](https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg) | [Play With the Changes](https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL) | 4:06 | 2022-07-14 |  |
+| [Look Inside](https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Face](https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg) | [Play With the Changes](https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL) | 4:06 | 2022-07-14 | 2023-12-07 |
 | [Looking up to You](https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P) | [Made in Sweden](https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y) | 3:54 | 2021-12-12 | 2022-03-11 |
 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 | 2021-12-12 |  |
 | [Loungin'](https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:39 | 2021-12-12 |  |
@@ -119,6 +119,7 @@
 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 | 2021-12-12 | 2022-07-29 |
 | [Pete's Sake](https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8) | [All Good Funk Alliance](https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s) | [On The One](https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk) | 5:32 | 2021-12-12 | 2022-07-29 |
 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 | 2021-12-12 |  |
+| [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 | 2022-07-18 |  |
 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 | 2021-12-12 |  |
 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 | 2021-12-12 | 2022-07-25 |
 | [Pushin' On](https://open.spotify.com/track/1rorokMVHb29HCm5b6yJWL) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/7bfklJKfFf9RvmaKsU7ARn) | 3:18 | 2022-07-14 | 2023-04-30 |

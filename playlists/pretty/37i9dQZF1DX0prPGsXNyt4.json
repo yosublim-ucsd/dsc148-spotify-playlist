@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 67768,
+  "num_followers": 67833,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmRiMjQ1MTJlMDZlZTdjYmM1ZWEyZDcwY2EyOGRlMDk3OWIzYjcz",
+  "snapshot_id": "MCxjNWY2ZmI5OTFhYjY3MzQ3NmE2NzQ4ZmU3ZWFjMzJlMTFkNmFlMTYz",
   "tracks": [
     {
       "added_at": "2023-11-13 15:26:06",
@@ -259,26 +259,30 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
-        "name": "Peda\u00e7o de Mim",
-        "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
       },
       "artists": [
         {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "Luchinha Jr",
+          "url": "https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX"
         },
         {
-          "name": "IssoQue\u00c9SomDeRap",
-          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "prod by baby",
+          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
         }
       ],
-      "duration_ms": 202318,
-      "name": "Peda\u00e7o de Mim",
-      "url": "https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW"
+      "duration_ms": 122177,
+      "name": "Mandraka",
+      "url": "https://open.spotify.com/track/29uxcZEFonwiErtNvn0VXA"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -335,6 +339,30 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
+        "name": "Peda\u00e7o de Mim",
+        "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
+      },
+      "artists": [
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        }
+      ],
+      "duration_ms": 202318,
+      "name": "Peda\u00e7o de Mim",
+      "url": "https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
         "name": "Google da Minha Vida",
         "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
       },
@@ -347,34 +375,6 @@
       "duration_ms": 137872,
       "name": "Google da Minha Vida",
       "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Luchinha Jr",
-          "url": "https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "prod by baby",
-          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
-        }
-      ],
-      "duration_ms": 122177,
-      "name": "Mandraka",
-      "url": "https://open.spotify.com/track/29uxcZEFonwiErtNvn0VXA"
     },
     {
       "added_at": "2023-11-13 15:26:06",

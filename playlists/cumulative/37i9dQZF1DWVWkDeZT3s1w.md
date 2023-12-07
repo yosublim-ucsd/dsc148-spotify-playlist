@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-92 songs - 6 hr 1 min
+93 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Los Zurdos Mueren Antes](https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Almanauta](https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV) | 7:36 | 2023-04-14 |  |
 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 | 2023-04-14 |  |
 | [Madurar](https://open.spotify.com/track/1NeVrrBxzzG9hlF7HYMqrl) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/6vrLra49PAThZU0jag7B7k) | 4:27 | 2023-04-14 |  |
-| [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 | 2023-04-14 |  |
+| [Magia](https://open.spotify.com/track/0HI9IBpdXp7wBgeEGjf0xa) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/5cofGaDskv7OnKP9VZThiB) | 3:40 | 2023-11-24 |  |
+| [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 | 2023-04-14 | 2023-12-07 |
 | [MALDITO](https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:08 | 2023-11-24 |  |
 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 | 2023-04-14 |  |
 | [Mañana Será Otro Día](https://open.spotify.com/track/7sHk2zV6klT9GukY4VKD4p) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/0IzR6HSsoGzrM0gL5dTlYz) | 3:17 | 2023-07-21 |  |

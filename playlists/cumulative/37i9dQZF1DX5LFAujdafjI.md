@@ -4,7 +4,7 @@
 
 > For your pre\-games, afters, spurts of manic cleaning, and everything in between\. Curated by the Portola Festival Department of Science and Research.
 
-91 songs - 6 hr 11 min
+92 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 | 2023-11-13 | 2023-11-27 |
 | [DREAMER](https://open.spotify.com/track/7aGcgv4G1upG0XK6nHC5rF) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [DREAMER / MY BODY](https://open.spotify.com/album/4T5287ugMNGz0F83VjcqSv) | 2:13 | 2023-11-13 |  |
 | [Dummy – Chris Lake Remix](https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Dummy – Chris Lake Remix](https://open.spotify.com/album/6XqbzujsQpFewramig6kUM) | 2:53 | 2023-09-25 |  |
-| [Everybody In The Place \- Fairground Remix Remastered](https://open.spotify.com/track/6AD52fIWx6p4T8D4nqL53e) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remixes & B\-sides\)](https://open.spotify.com/album/6ps0BkH76wpg48HoUfVbB6) | 5:09 | 2023-11-13 |  |
+| [Everybody In The Place \- Fairground Remix](https://open.spotify.com/track/5O0lJp1fbKe7a8Hksc6KL7) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p) | 5:08 | 2023-11-13 |  |
+| [Everybody In The Place \- Fairground Remix Remastered](https://open.spotify.com/track/6AD52fIWx6p4T8D4nqL53e) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remixes & B\-sides\)](https://open.spotify.com/album/6ps0BkH76wpg48HoUfVbB6) | 5:09 | 2023-11-13 | 2023-12-07 |
 | [Flutes](https://open.spotify.com/track/65NKfdLTAnL8ubOho5jCXA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7) | 7:04 | 2023-09-25 |  |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-09-25 |  |
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-09-25 |  |

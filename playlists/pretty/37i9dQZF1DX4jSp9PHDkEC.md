@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,402 likes - 300 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,434 likes - 300 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [Find Home](https://open.spotify.com/track/4banQY1CyLUSeq3xF6kiJd) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:13 |
 | 300 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 |
 
-Snapshot ID: `MCwzMGYwMTcwODNmZmQzMWY4YjdkZDc2YzA3NmFlODM0YjE1MDI1MDlh`
+Snapshot ID: `MCxmMDE1OTc3MzlhYmIzZWM5ZmRmYjE2MGFhYTZhMjBhOWQ2ZGFhNzNl`

@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665425,
+  "num_followers": 665486,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2EwY2M3NTdhZjMyN2M4YTliYTBkOWIxM2JiY2Y2OGY3ZjI3ZGU1",
+  "snapshot_id": "MCw5N2U5N2UzMzk1YTljZDAzZWY3OTUyNTUwNmI3ZGZjY2M1NDE0NTI1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 290767,
-      "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
-      "url": "https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 290767,
+      "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
+      "url": "https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "eMOTIVe",
         "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 288000,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Blow EP",
-        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 300698,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Age Of Ignorance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Blow EP",
+        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 300698,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "You're Living All Over Me",
         "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
       },
@@ -1631,22 +1631,6 @@
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 199386,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Live & Inspired",
         "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 226293,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Dirt Soundtrack",
-        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "WILLOW: Live At Electric Lady",
-        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 123733,
-      "name": "Bag Lady / Split - Live",
-      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 269946,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "WILLOW: Live At Electric Lady",
+        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "Bag Lady / Split - Live",
+      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
     },
     {
       "added_at": "2023-11-17 05:00:00",

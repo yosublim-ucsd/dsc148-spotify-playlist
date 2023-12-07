@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 169386,
       "name": "ABRE LAS PATOTAS",
       "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
@@ -6846,7 +6846,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 132539,
       "name": "Con To (feat. Flow Nasty)",
       "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
@@ -15009,6 +15009,24 @@
     },
     {
       "album": {
+        "name": "Is This The Life We Really Want?",
+        "url": "https://open.spotify.com/album/2XhQwji1ixgjca0XzkiTek"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355053,
+      "name": "Is This the Life We Really Want?",
+      "url": "https://open.spotify.com/track/5qaNm5YlJzVvavbwugBTcO"
+    },
+    {
+      "album": {
         "name": "IT GIRL",
         "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
       },
@@ -15468,7 +15486,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 250700,
       "name": "K.D.P. (feat. YOVNGCHIMI)",
       "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
@@ -25156,7 +25174,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 255239,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/1Jq6a9u1fZ69Vyb9PYtFge"
@@ -25174,7 +25192,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
@@ -30940,7 +30958,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 411695,
       "name": "The Bravery of Being Out of Range",
       "url": "https://open.spotify.com/track/5hzAjPC5xfTm5paNpKp5Db"
@@ -32652,7 +32670,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 269714,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,249 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,302 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 32 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
 | 33 | [I Gotta](https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 |
 | 34 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
-| 35 | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL) | 3:13 |
-| 36 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/2IHdMccpnU0PGHGltqM2Sq) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:50 |
+| 35 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/2IHdMccpnU0PGHGltqM2Sq) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:50 |
+| 36 | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL) | 3:13 |
 | 37 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
 | 38 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
 | 39 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Black Truck](https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Black Truck](https://open.spotify.com/album/4ZawUvODH9E2hA6UOLlUQy) | 2:35 |
 | 100 | [TyTy&NaeNae](https://open.spotify.com/track/28951XXObn5igteQcIdpJT) | [KP SKYWALKA](https://open.spotify.com/artist/0H20KZnm0XPqNYQ6EsIAyo) | [TyTy&NaeNae](https://open.spotify.com/album/4vFNfuTA7EwprFVV865zbA) | 2:19 |
 
-Snapshot ID: `MCwxZGE5N2Y5NmQxMzM0M2QwZDE3Y2Q2YjMyNjY4OTBkMDZmMDY5Mjgy`
+Snapshot ID: `MCw3MDNjY2YwODBmYWQ0MThkOTZlMDg0YWYzMDE1N2FiMjJkMDY4NDM0`

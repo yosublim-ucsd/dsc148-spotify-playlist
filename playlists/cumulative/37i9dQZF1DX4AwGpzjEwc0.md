@@ -4,7 +4,7 @@
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-425 songs - 18 hr 32 min
+427 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,8 @@
 | [Saga](https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Saga](https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC) | 2:01 | 2023-10-09 | 2023-11-07 |
 | [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2023-10-09 |  |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2023-10-09 |  |
-| [Sand Drawings](https://open.spotify.com/track/1oX6tIvd6rWyt7BnrhSEcu) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:00 | 2023-11-20 |  |
+| [Sand Drawings](https://open.spotify.com/track/1oX6tIvd6rWyt7BnrhSEcu) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:00 | 2023-11-20 | 2023-12-07 |
+| [Sand Drawings](https://open.spotify.com/track/2Dp9TIMXgkkJKIMDlMRVga) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:00 | 2023-11-20 |  |
 | [Sand Drawings](https://open.spotify.com/track/4tGCUIAYR0D1mgr26lf6ri) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:00 | 2023-10-23 | 2023-11-06 |
 | [Sand Drawings](https://open.spotify.com/track/6BRP3nHa4RmdbgfohRpMgn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:00 | 2023-11-06 | 2023-11-29 |
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-06 |  |
@@ -366,7 +367,8 @@
 | [The Beginning](https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [The Beginning](https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA) | 2:04 | 2023-10-23 |  |
 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2023-10-09 | 2023-11-07 |
 | [The Conversation](https://open.spotify.com/track/7w8BJ0wsGFDSJuovWwwtF6) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [The Conversation](https://open.spotify.com/album/6ydnZGAPtxZ2h4bk1OAhIy) | 2:04 | 2023-11-13 |  |
-| [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-20 |  |
+| [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-20 | 2023-12-07 |
+| [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-20 |  |
 | [The Eleventh Hour](https://open.spotify.com/track/3tW3lL5dCnjKIUfKf22qQN) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [The Eleventh Hour](https://open.spotify.com/album/5lLPdxavpWSer1FAC2hjKx) | 2:34 | 2023-10-09 | 2023-11-07 |
 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 | 2023-10-09 | 2023-11-07 |
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2023-10-09 | 2023-11-07 |

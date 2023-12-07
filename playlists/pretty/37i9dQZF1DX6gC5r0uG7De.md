@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g">Turnstile's'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,730 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,770 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 | 11 | [Do What You Want To](https://open.spotify.com/track/5JfsVEqCvEiJCGoFsqBlqt) | [Vexx](https://open.spotify.com/artist/1WLdnPjhj28UcETQSFW9Jg) | [The Wild Hunt EP](https://open.spotify.com/album/35rSyQKjL2b88lDYh1RiZD) | 2:56 |
 | 12 | [Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:48 |
 | 13 | [Pushing Me Away](https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:12 |
-| 14 | [On the Nature of Daylight](https://open.spotify.com/track/0tYuVSs2DqXhtXT4JzDWSt) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lorenz Dangel](https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:36 |
+| 14 | [On the Nature of Daylight \- Orchestral Version](https://open.spotify.com/track/0tYuVSs2DqXhtXT4JzDWSt) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lorenz Dangel](https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:36 |
 | 15 | [Southern Sky](https://open.spotify.com/track/022KnoVZaB3IJx21uW5tDH) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:12 |
 | 16 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/49zUdbESCRSGaknOJWqnTH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing The Piano](https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F) | 4:42 |
 | 17 | [Love My Way](https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Forever Now](https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV) | 3:33 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 | 33 | [Jesus Freak Lighter](https://open.spotify.com/track/69HzCwBpJw1oP53cJtKRUz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 2:32 |
 | 34 | [ENDLESS](https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:58 |
 
-Snapshot ID: `MCxjYjA2MzIyNDJhZThjYTYwMjRmNDg4NTMxZmM2MzIwYTdlNjQ2MzJj`
+Snapshot ID: `MCw0OTI4OTNhYTJjYmU3YWMwODA2YzkzN2YzMjBiYzg5M2NkNzM1NDEz`

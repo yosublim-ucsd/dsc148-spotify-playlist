@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-437 songs - 23 hr 41 min
+438 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 | 2023-10-27 |  |
 | [I Can't Sleep \- Acoustic Version](https://open.spotify.com/track/6laJcLUfg7c1fyt0oSDJGV) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [I Can't Sleep \(Acoustic Version\)](https://open.spotify.com/album/5w0lLWWDP7hvVz3a2KuLgb) | 3:03 | 2021-03-11 | 2022-11-26 |
 | [I Don't Care](https://open.spotify.com/track/68Vnmq4o96QQ0aVSZm43eK) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK), [Aikani](https://open.spotify.com/artist/5pl9gF3NwPauryVFUyrjka) | [I Don't Care \(Acoustic Reggae\)](https://open.spotify.com/album/0WhYJlr2RggdNvYQ8075oD) | 3:49 | 2021-03-11 | 2022-11-26 |
-| [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 | 2023-06-22 |  |
+| [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 | 2023-06-22 | 2023-12-07 |
 | [I Feel It In The Wind \- Acoustic Version](https://open.spotify.com/track/5ZP5JvgJCJfYAvELHhQIJV) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Feel It In The Wind \(Acoustic Version\)](https://open.spotify.com/album/2RTCy2LWLxVeAv7isUOh7D) | 3:48 | 2023-03-31 | 2023-08-24 |
 | [i get high \(feat\. Joy Oladokun\)](https://open.spotify.com/track/1wq96gZHLUWNRwlevS99ru) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [i get high \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0ajUz0nm6V1J4BLTX7h9Md) | 2:03 | 2023-01-20 | 2023-10-28 |
 | [I Just Came To Dance \- Acoustic](https://open.spotify.com/track/2uBKT2Q7vsWXTekfdOlTvx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance \(Acoustic\)](https://open.spotify.com/album/3cWFS2rpY7eZpy9l0ynQou) | 2:28 | 2022-11-25 | 2023-06-27 |
@@ -444,6 +444,7 @@
 | [You Found Me \- Acoustic Version](https://open.spotify.com/track/4CPl20KparXZVf8UZd410n) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [You Found Me \- Acoustic Version](https://open.spotify.com/album/6XW6nHMYq02FA5hRJpRUNN) | 4:19 | 2023-01-04 | 2023-03-10 |
 | [you were good to me](https://open.spotify.com/track/7sLC7SVbmunEgf9WSSNWA5) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [You Were Good To Me](https://open.spotify.com/album/705oyi8ElySBaCbuXQC8hy) | 3:49 | 2023-06-08 | 2023-06-10 |
 | [You'll Never Walk Alone](https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [You'll Never Walk Alone](https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg) | 2:41 | 2023-06-22 | 2023-11-01 |
+| [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 | 2023-11-24 |  |
 | [Your Song \- Acoustic](https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Acoustic\)](https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ) | 3:01 | 2022-09-30 | 2022-11-26 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

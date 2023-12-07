@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Lampu Merah",
+      "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
+    },
+    {
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 203264,
+  "num_followers": 203431,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWIyYzVkYzRiMzQxMmY2NmZiYmE1NmM0YjNjMGYxNGZkOTcxNjIy",
+  "snapshot_id": "MCxmNzQxYTMxZGIyMmE2YzdjYjU1M2Y0ZTc5NDFjZGQyMTMyMTVlNTc4",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1197,28 +1197,20 @@
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "I Remember (John Summit Remix)",
-        "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I Remember - John Summit Remix",
-      "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1261,40 +1253,28 @@
       "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+        "name": "I Remember (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 147180,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
+      "duration_ms": 240000,
+      "name": "I Remember - John Summit Remix",
+      "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1319,6 +1299,26 @@
       "duration_ms": 166285,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 147180,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1351,34 +1351,6 @@
       "duration_ms": 228620,
       "name": "Beyond the Fire",
       "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "The Veldt Cinema (BYNX Edit)",
-        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "Gary Go",
-          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 277298,
-      "name": "The Veldt Cinema - BYNX Edit",
-      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1447,6 +1419,34 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "The Veldt Cinema (BYNX Edit)",
+        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 277298,
+      "name": "The Veldt Cinema - BYNX Edit",
+      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
       },
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1503,22 +1503,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1593,28 +1593,44 @@
       "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "See You Again",
-        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
         }
       ],
-      "duration_ms": 163451,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
+      "duration_ms": 143117,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Shotgun (It Ain't Over)",
+        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "duration_ms": 155909,
+      "name": "Shotgun (It Ain't Over)",
+      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1643,6 +1659,30 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 163451,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4"
       },
@@ -1663,26 +1703,6 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Shotgun (It Ain't Over)",
-        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 155909,
-      "name": "Shotgun (It Ain't Over)",
-      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1727,26 +1747,6 @@
       "duration_ms": 180000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Jordan Rys",
-          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
-        }
-      ],
-      "duration_ms": 143117,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Shockwave (with Afrojack)",
+        "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 122578,
+      "name": "Shockwave (with Afrojack)",
+      "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Tsunami (Gabry Ponte Remix)",
         "url": "https://open.spotify.com/album/386j66irGFKDJCWC5KmWnR"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 144360,
       "name": "Tsunami (Gabry Ponte Remix)",
       "url": "https://open.spotify.com/track/3wgHsBRNmHDI94vJf5ivpC"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Shockwave (with Afrojack)",
-        "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 122578,
-      "name": "Shockwave (with Afrojack)",
-      "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2051,22 +2051,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX"
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
         }
       ],
-      "duration_ms": 166498,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr"
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2099,26 +2103,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Fool 4 U (feat. Enisa)",
-        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
         }
       ],
-      "duration_ms": 146076,
-      "name": "Fool 4 U (feat. Enisa)",
-      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
+      "duration_ms": 166498,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr"
     },
     {
       "added_at": "2023-11-03 04:00:00",

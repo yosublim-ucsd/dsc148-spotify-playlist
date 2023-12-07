@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,320,901 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,321,165 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 |
 | 150 | [Not Alone](https://open.spotify.com/track/2iMkjgaR9bg6lZrjIcrZj5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/2uA5dasceJzC7YegRSrG5L) | 2:40 |
 
-Snapshot ID: `MCw4MTc5ZGIyZTU0YWJjZGQ5OGM2NjVmYjRiZmQ0YjAwN2VhNmIwNmMz`
+Snapshot ID: `MCw5YjdmN2RkYWVkMTQxZDcwZDE2MzE1MGYzNzcwNjg1NjYwNWU1NDNk`

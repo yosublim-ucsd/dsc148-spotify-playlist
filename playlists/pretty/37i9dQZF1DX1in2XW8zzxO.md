@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,036 likes - 81 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,238 likes - 81 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 80 | [Ede Weri \(Srananpiano\)](https://open.spotify.com/track/51XMfEXGLn4kIuhcZ0xZYA) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [S!RENE](https://open.spotify.com/artist/5cZy9VxDFRxCj7tRu5sPpl), [Dotboi](https://open.spotify.com/artist/0MeavZmhmsmyyL3NVnoziM) | [Ede Weri \(Srananpiano\)](https://open.spotify.com/album/4SoctD06nQGh2KfwlXuBr6) | 4:57 |
 | 81 | [Location](https://open.spotify.com/track/7ogZ485BlYFPUymcrTC0Is) | [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp) | [Location](https://open.spotify.com/album/73w9zUGjkV9TqlzROMOclV) | 5:44 |
 
-Snapshot ID: `MCw4MTdjOGU2MjA1MDFlZDI2MWQwMDdiZWNmMzgwOTQ2OTk4YWU3MjZk`
+Snapshot ID: `MCw5Mzk0MWM0MjA5ODAzYThiNzY2NjllMmViZDYwZjdhM2JjMzQ1Njc4`

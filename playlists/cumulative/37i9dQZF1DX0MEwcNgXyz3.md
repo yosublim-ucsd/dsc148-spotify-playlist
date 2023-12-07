@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-69 songs - 3 hr 47 min
+70 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Blah Blah Blah](https://open.spotify.com/track/1PzPstFTSyOXHhCYoKZCcG) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Trance Top 1000 \(Mini Mix 009\) \- Armada Music](https://open.spotify.com/album/50VJh8k4sYPXl8zu5SDfF6) | 3:03 | 2022-11-01 | 2022-11-13 |
 | [Blah Blah Blah](https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:03 | 2022-11-01 |  |
 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 | 2022-11-01 |  |
-| [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 | 2022-11-01 |  |
+| [Champion](https://open.spotify.com/track/6vxtFvQWD6XurY9JHvPdn1) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Elisabeth](https://open.spotify.com/album/1ojZ56lN40DofYZtvz78vp) | 3:30 | 2022-11-01 |  |
+| [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 | 2022-11-01 | 2023-12-07 |
 | [Club Believer](https://open.spotify.com/track/16GcTUKAsORkkuSUm8AXeO) | [Jeak](https://open.spotify.com/artist/4JUettwlB4WVsbyV4nesPo), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Electronic Dance Music](https://open.spotify.com/album/0NQ6fkJ9IQp43f1Bw8SoXY) | 3:17 | 2022-11-01 |  |
 | [Come to Play](https://open.spotify.com/track/4JW0wko97pint9Q7mGmlVK) | [Ty Frankel](https://open.spotify.com/artist/4DBLbQhhkjakBkjLK6qKbL), [Andrey Tatarinov](https://open.spotify.com/artist/0H6dLr0u8ZG6XgtZzbeBUX), [Nathan Bodiker](https://open.spotify.com/artist/1w3hZYAkeJgtpR9jf5PFJw) | [Supernatural Electro](https://open.spotify.com/album/5onl1JGIiTItlMfu1uFr8R) | 2:16 | 2022-11-01 |  |
 | [Converter](https://open.spotify.com/track/7kbLgu3ZU8wdigWyxtqOAB) | [Mega Drive](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8) | [Mega Drive](https://open.spotify.com/album/1ElCD6TWjAh7XWXaOCc4o6) | 6:42 | 2022-11-01 |  |

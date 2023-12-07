@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-273 songs - 16 hr 55 min
+274 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2023-04-04 | 2023-06-22 |
 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2022-10-16 | 2022-11-25 |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2022-10-16 | 2023-01-11 |
+| [Clair de Lune](https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Clair de Lune](https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL) | 3:35 | 2023-12-05 |  |
 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 | 2022-10-16 | 2023-12-06 |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2022-10-16 | 2023-01-11 |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2023-08-15 | 2023-12-06 |
@@ -269,7 +270,7 @@
 | [天使みたい](https://open.spotify.com/track/6UR6pJ7pNumC81tmG5S4jb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 5:22 | 2023-02-03 | 2023-05-31 |
 | [感覚](https://open.spotify.com/track/6zKRAwj28L1AkbTagirASy) | [山本海](https://open.spotify.com/artist/7wZw3dzfhgxJctTcvoYGSi) | [感覚](https://open.spotify.com/album/1BVQRV3a5QFgvxkuhAZsdA) | 3:47 | 2023-09-19 | 2023-09-21 |
 | [星のクズ Ω](https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ Ω](https://open.spotify.com/album/3xCP9E5w3dx6s8fuzviH1b) | 5:27 | 2023-02-17 | 2023-06-30 |
-| [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 |  |
+| [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 | 2023-12-07 |
 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 | 2023-11-16 |
 | [涙は星屑のように](https://open.spotify.com/track/2nYHBQmM8Wp3d6UB4Bbe5l) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [星屑たち](https://open.spotify.com/album/5dGmv1ySk8MBfoYIBHciMH) | 5:33 | 2023-08-15 | 2023-09-08 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2023-01-10 | 2023-04-13 |

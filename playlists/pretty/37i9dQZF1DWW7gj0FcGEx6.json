@@ -1,12 +1,12 @@
 {
   "description": "The latest, greatest soundtracks from the big and small screen.",
-  "num_followers": 275537,
+  "num_followers": 275618,
   "original_name": "Soundtracked",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTUyMjQwNjE1MGM4YmI5YWZkMGVhZmMwMDc3NGVmMjE5OGNkM2Y4",
+  "snapshot_id": "MCwzOTdmZWYyYmZmNDYzOTEwMjI3NWYwZWRmZDA5ZDhhODYwNGY2MTE5",
   "tracks": [
     {
       "added_at": "2023-12-01 04:00:00",
@@ -278,6 +278,14 @@
         {
           "name": "Richard Reed Parry",
           "url": "https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY"
+        },
+        {
+          "name": "Adam Kinner",
+          "url": "https://open.spotify.com/artist/4vvaUYT7sXCWHVEaB5jmvx"
+        },
+        {
+          "name": "Pietro Amato",
+          "url": "https://open.spotify.com/artist/5wWlz5GR3MOimh3Sv6zA3E"
         }
       ],
       "duration_ms": 168116,

@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 44272,
+  "num_followers": 44293,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWQ0NjMwMzVmNzAxODFmMTQwMzk0MWIwMmVkZGU2YWQxNWI3NjVj",
+  "snapshot_id": "MCxhYzczYjM3MWE0ZDc1YTUwMTQ1YWU3YjZmNDVlNTBiNGE1NDU5OWVh",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Original Golden Hits - Volume 1 (Vol. 1)",
         "url": "https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 173158,
       "name": "Whole Lot Of Shakin' Going On - Single Version",
       "url": "https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Two-Fisted Mama",
-      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Essential Little Richard",
         "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 140564,
       "name": "Stompin' At the 'subway'",
       "url": "https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Two-Fisted Mama",
+      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Motel Swing",
-        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
-      },
-      "artists": [
-        {
-          "name": "Sue Palmer",
-          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
-        }
-      ],
-      "duration_ms": 123626,
-      "name": "Sue's Boogie",
-      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Motel Swing",
+        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+      },
+      "artists": [
+        {
+          "name": "Sue Palmer",
+          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+        }
+      ],
+      "duration_ms": 123626,
+      "name": "Sue's Boogie",
+      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie Kid",
         "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Return Of The Boogie Man",
         "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 177493,
       "name": "Jessie's Boogie Woogie",
       "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -755,26 +775,6 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Storm",
-        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
-      },
-      "artists": [
-        {
-          "name": "Martin Pyrker, Sabine Pyrker",
-          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Boogie Woogie Storm",
-      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "New Orleans Piano (Mono)",
         "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Keep It Coming",
-        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
+        "name": "Boogie Woogie Storm",
+        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
       },
       "artists": [
         {
-          "name": "Esben Just",
-          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
+          "name": "Martin Pyrker, Sabine Pyrker",
+          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
         }
       ],
-      "duration_ms": 146346,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+      "duration_ms": 174400,
+      "name": "Boogie Woogie Storm",
+      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -943,6 +927,22 @@
       "duration_ms": 238315,
       "name": "Mac's Boogie",
       "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Keep It Coming",
+        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
+      },
+      "artists": [
+        {
+          "name": "Esben Just",
+          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc"
-      },
-      "artists": [
-        {
-          "name": "Kjell S\u00f8nksen",
-          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Sun Records Originals: You Are My Sunshine",
         "url": "https://open.spotify.com/album/0P5c0KZez2nVq9G3kbw83m"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 143000,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/7bgCLSHEbtndUh7YHPS4fI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc"
+      },
+      "artists": [
+        {
+          "name": "Kjell S\u00f8nksen",
+          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
     },
     {
       "added_at": "2023-09-15 11:42:58",

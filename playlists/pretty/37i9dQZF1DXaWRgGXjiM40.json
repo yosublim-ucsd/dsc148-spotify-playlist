@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 955044,
+  "num_followers": 955147,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGJhNWY0MjQxYWFmMjI2NDg3MjVmZDg0MTQ2MTAyNzhlZjA0NDA0",
+  "snapshot_id": "MCxlODdhNzBkNWQ0NWJiZmViMDFkZTcwNTY0NTFmODdlNDZlZmRjNTY1",
   "tracks": [
     {
       "added_at": "2023-10-13 11:45:06",
@@ -135,22 +135,18 @@
     {
       "added_at": "2023-10-13 11:45:06",
       "album": {
-        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+        "name": "3 Batidas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4"
       },
       "artists": [
         {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 165360,
-      "name": "Anti Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
+      "duration_ms": 157186,
+      "name": "3 Batidas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k"
     },
     {
       "added_at": "2023-10-13 11:45:06",
@@ -171,18 +167,22 @@
     {
       "added_at": "2023-10-13 11:45:06",
       "album": {
-        "name": "3 Batidas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4"
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 157186,
-      "name": "3 Batidas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k"
+      "duration_ms": 165360,
+      "name": "Anti Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
     },
     {
       "added_at": "2023-10-13 11:45:06",

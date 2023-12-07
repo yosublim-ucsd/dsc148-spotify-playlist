@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,187,062 likes - 300 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,187,170 likes - 300 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Orange Kush](https://open.spotify.com/track/5w8RODdpCHBb2bQJDt39AN) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Orange Kush](https://open.spotify.com/album/23Mqgj9EeBBL7gVq0wVe0o) | 1:40 |
 | 300 | [Prism](https://open.spotify.com/track/6blNZXXHzVGD5yVFAsyk6E) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Prism](https://open.spotify.com/album/4zAA0CEKfqYNXpXRoLYcdZ) | 2:14 |
 
-Snapshot ID: `MCwwNmYxOTk3YjE5OTQxYTU0OTcwYTA2ZTQxODcyYjUwNjBhZDYyOWE3`
+Snapshot ID: `MCxhM2ZjOWU5YWUxNTA3ZmRhY2Q4YTY3ZTc4NTk1NDExOTZlYzRkOWVm`

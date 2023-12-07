@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea: Best of 2023](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 2023년EQUAL Korea를 빛낸 트랙들을 만나보세요! \(Highlights of 2023, listen to women at full volume.\) \(Cover: Jessi\)
+> 2023년EQUAL Korea를 빛낸 트랙들을 만나보세요! \(Highlights of 2023, listen to women at full volume.\) \(Cover: Red Velvet\)
 
-1,016 songs - 2 day 10 hr 37 min
+1,017 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 | 2022-05-04 | 2022-06-01 |
 | [Chico malo](https://open.spotify.com/track/4e5OwyRhNsoLqGQYzfuV5B) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 2:39 | 2023-04-04 | 2023-05-03 |
 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 | 2023-11-29 |  |
+| [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 | 2023-12-06 |  |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-07 | 2022-04-06 |
 | [choose you](https://open.spotify.com/track/40DTEahGrj7boDFcZcg1dW) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [choose you](https://open.spotify.com/album/51EfjSZ0NS59MTHVbKX07r) | 2:38 | 2023-05-02 | 2023-06-07 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-03 | 2023-02-01 |
@@ -841,7 +842,7 @@
 | [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 | 2023-08-03 | 2023-09-06 |
 | [The loved one](https://open.spotify.com/track/31t6jN64Fweo6BmYcMFbg2) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Pisces](https://open.spotify.com/album/2xX2M89Ep7wZGhExNjtMIK) | 3:54 | 2022-05-31 | 2022-08-03 |
 | [The Loverville](https://open.spotify.com/track/1wBPKz4QLsDRdt0ZNcFLoO) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [The Loverville](https://open.spotify.com/album/5Rog6lwhRXpD4rWfk2dvD9) | 3:59 | 2023-01-03 | 2023-02-01 |
-| [The Milky Way](https://open.spotify.com/track/0TJnjAxpHbOgmNHh0xAzOt) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [The Milky Way](https://open.spotify.com/album/3prV1vNupZqpSkHOm7d2Y5) | 3:33 | 2023-04-04 |  |
+| [The Milky Way](https://open.spotify.com/track/0TJnjAxpHbOgmNHh0xAzOt) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [The Milky Way](https://open.spotify.com/album/3prV1vNupZqpSkHOm7d2Y5) | 3:33 | 2023-04-04 | 2023-12-07 |
 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2022-01-04 | 2022-02-02 |
 | [The one who wins](https://open.spotify.com/track/0UJDW0t4KPTvCy5E4wG0Mf) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [True to Love, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/6qUcfejaax1iAV4XFux5NL) | 3:53 | 2023-06-06 | 2023-09-06 |
 | [The past is Just the past](https://open.spotify.com/track/0vgXKuJKvxk7G7axHLWA8l) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [Time+LOVE+Dream](https://open.spotify.com/album/0YjsD8RJgTOeykmtCyiBh5) | 4:16 | 2023-07-04 | 2023-08-04 |

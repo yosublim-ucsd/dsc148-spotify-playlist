@@ -144,6 +144,24 @@
     {
       "album": {
         "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/1qs7129KLTOZkPb28az8ku"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231427,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/5jozNdKPygoaSZhPJMP3eD"
+    },
+    {
+      "album": {
+        "name": "Atmosphere",
         "url": "https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ"
       },
       "artists": [
@@ -154,7 +172,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 231427,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/79BziE0cPQD2MZBJwXsB1P"
@@ -666,6 +684,28 @@
     {
       "album": {
         "name": "Electroman",
+        "url": "https://open.spotify.com/album/6NPb3Bb77dtZhnypL0W0fv"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307986,
+      "name": "Cinema (feat. Gary Go) - Skrillex Remix",
+      "url": "https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r"
+    },
+    {
+      "album": {
+        "name": "Electroman",
         "url": "https://open.spotify.com/album/5miSqsykQPBenTYVCx3uN5"
       },
       "artists": [
@@ -684,7 +724,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 307862,
       "name": "Cinema - Skrillex Remix",
       "url": "https://open.spotify.com/track/02FuO3zDHGFAz0yP7HHGvy"
@@ -3347,6 +3387,32 @@
     },
     {
       "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Show Me Love (feat. Robin S) - Radio Edit",
+      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX"
       },
@@ -3366,7 +3432,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 184846,
       "name": "Show Me Love - Radio Edit",
       "url": "https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N"

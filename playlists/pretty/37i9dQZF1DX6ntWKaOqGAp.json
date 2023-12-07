@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: BREIMEN",
-  "num_followers": 231066,
+  "num_followers": 231128,
   "original_name": "J-Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTgxNzBlODc3ZjYxNDIxYjdhMzVhMGY1NTQwZmJkNjE5N2M4Njc3",
+  "snapshot_id": "MCw2YzkyNWQ4YWYxMDNmZjEzOTE3ZWY0MWY1N2IxNjRhNzUzOGY2YTFk",
   "tracks": [
     {
       "added_at": "2023-12-05 15:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
+        "name": "Ashen",
+        "url": "https://open.spotify.com/album/4sI4AogOQTRzDa8zyuZyV0"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "Ashen",
+      "url": "https://open.spotify.com/track/2dbM1j1plZaxNeRGGvyy66"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
         "name": "Welcome to My Castle",
         "url": "https://open.spotify.com/album/6DSelDneeVFEluC97trMur"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 260278,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
-        "name": "Ashen",
-        "url": "https://open.spotify.com/album/4sI4AogOQTRzDa8zyuZyV0"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "Ashen",
-      "url": "https://open.spotify.com/track/2dbM1j1plZaxNeRGGvyy66"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -331,8 +331,8 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u6708\u3067\u8aad\u3080\u7d75\u672c",
-        "url": "https://open.spotify.com/album/1Q2qFAU6h1cp6YYHt1utxr"
+        "name": "I See the Moon Light",
+        "url": "https://open.spotify.com/album/3Z5OJclE5EwarKIqtK21yL"
       },
       "artists": [
         {
@@ -341,8 +341,8 @@
         }
       ],
       "duration_ms": 209882,
-      "name": "\u8f1d\u591c\u59eb",
-      "url": "https://open.spotify.com/track/4FctVxLuE6HZnwpxlUgIXk"
+      "name": "Moon Night Baby",
+      "url": "https://open.spotify.com/track/2tu3270ZBpG3SnAYicoihN"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -608,7 +608,7 @@
       "added_at": "2023-12-05 15:00:00",
       "album": {
         "name": "Loss(Angels)",
-        "url": "https://open.spotify.com/album/5RDd9nWHYnUtK8rWROA6Rc"
+        "url": "https://open.spotify.com/album/5qGkEHJOnzfmNCeDdlzvVA"
       },
       "artists": [
         {
@@ -618,7 +618,7 @@
       ],
       "duration_ms": 241503,
       "name": "Loss(Angels)",
-      "url": "https://open.spotify.com/track/2DZRkxGAsvcyPysbuOkUc3"
+      "url": "https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1376,7 +1376,7 @@
       "added_at": "2023-12-05 15:00:00",
       "album": {
         "name": "walk walk",
-        "url": "https://open.spotify.com/album/5xPIpUF3iT20iOfdUnaMpi"
+        "url": "https://open.spotify.com/album/5Ni4qXLrTqOgNLgs8UKB8s"
       },
       "artists": [
         {
@@ -1386,7 +1386,7 @@
       ],
       "duration_ms": 193166,
       "name": "walk walk",
-      "url": "https://open.spotify.com/track/6Ilmcx6we2Wz3dKXA7iQSb"
+      "url": "https://open.spotify.com/track/0fKl9hAYVMQIyb3SXPsg3C"
     },
     {
       "added_at": "2023-12-05 15:00:00",

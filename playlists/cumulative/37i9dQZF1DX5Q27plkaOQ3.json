@@ -107,7 +107,7 @@
     },
     {
       "album": {
-        "name": "Abracadabra",
+        "name": "ABRACADABRA",
         "url": "https://open.spotify.com/album/74Dy1dquFmryKSxtw8mlKY"
       },
       "artists": [
@@ -128,7 +128,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169663,
-      "name": "Abracadabra",
+      "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf"
     },
     {
@@ -447,7 +447,7 @@
     },
     {
       "album": {
-        "name": "Artificial Dubstep",
+        "name": "ARTIFICIAL DUBSTEP",
         "url": "https://open.spotify.com/album/2VRaD4Lr0lQKhinkSW2buX"
       },
       "artists": [
@@ -460,7 +460,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160551,
-      "name": "Artificial Dubstep",
+      "name": "ARTIFICIAL DUBSTEP",
       "url": "https://open.spotify.com/track/2iV6jpVuKh8PS3wWQ5xLIi"
     },
     {
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
@@ -6542,6 +6542,28 @@
       "duration_ms": 123415,
       "name": "Pleasure Seeker - Virtual Riot Remix",
       "url": "https://open.spotify.com/track/1VNUgCP4mm7EuOMP7jAmZZ"
+    },
+    {
+      "album": {
+        "name": "Phantasmagorical",
+        "url": "https://open.spotify.com/album/2AbgcHpEerxKoikL8ORpHX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123415,
+      "name": "Pleasure Seeker - Virtual Riot Remix",
+      "url": "https://open.spotify.com/track/3Jt8oGA1MOaoDNDOjobe8n"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18636,
+  "num_followers": 18635,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmY3MTI1ZDM2OGY0M2MxZWM2YmQ2MGVmYjQ5YWM5N2U4YWE4NzZj",
+  "snapshot_id": "MCw0ODhmOWVhYWEyNmYwODhiZDIyN2U1M2Q0ZDRhZGJmZmY4OTUyODA1",
   "tracks": [
     {
       "added_at": "2023-09-11 13:52:39",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "I Remember",
-        "url": "https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg"
+        "name": "Sail",
+        "url": "https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS"
       },
       "artists": [
         {
-          "name": "G\u00c5EL",
-          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+          "name": "Roman Jensen",
+          "url": "https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG"
         }
       ],
-      "duration_ms": 142457,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G"
+      "duration_ms": 128922,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Sail",
-        "url": "https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS"
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg"
       },
       "artists": [
         {
-          "name": "Roman Jensen",
-          "url": "https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG"
+          "name": "G\u00c5EL",
+          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
         }
       ],
-      "duration_ms": 128922,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly"
+      "duration_ms": 142457,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
-      },
-      "artists": [
-        {
-          "name": "Karen Kasper",
-          "url": "https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 254500,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
+      },
+      "artists": [
+        {
+          "name": "Karen Kasper",
+          "url": "https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Forgive Us",
-        "url": "https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5"
-      },
-      "artists": [
-        {
-          "name": "Signe Bratlie",
-          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Forgive Us",
-      "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Soudainement",
         "url": "https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 168000,
       "name": "Soudainement",
       "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Forgive Us",
+        "url": "https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5"
+      },
+      "artists": [
+        {
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Forgive Us",
+      "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Oh Endless Day",
-        "url": "https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb"
-      },
-      "artists": [
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        }
-      ],
-      "duration_ms": 287014,
-      "name": "Oh Endless Day",
-      "url": "https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "L'habit ne fait pas le moine",
         "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Stelle Scure",
-        "url": "https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT"
+        "name": "Oh Endless Day",
+        "url": "https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb"
       },
       "artists": [
         {
-          "name": "Enrico Parente",
-          "url": "https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f"
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
         }
       ],
-      "duration_ms": 137047,
-      "name": "Stelle Scure",
-      "url": "https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0"
+      "duration_ms": 287014,
+      "name": "Oh Endless Day",
+      "url": "https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1159,6 +1143,22 @@
       "duration_ms": 256000,
       "name": "Sentinel",
       "url": "https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Stelle Scure",
+        "url": "https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT"
+      },
+      "artists": [
+        {
+          "name": "Enrico Parente",
+          "url": "https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f"
+        }
+      ],
+      "duration_ms": 137047,
+      "name": "Stelle Scure",
+      "url": "https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1387,38 +1387,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Fylke",
-        "url": "https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H"
-      },
-      "artists": [
-        {
-          "name": "Signe Bratlie",
-          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Sp\u00f8rsm\u00e5l",
-      "url": "https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk"
-      },
-      "artists": [
-        {
-          "name": "Loris Murray",
-          "url": "https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk"
-        }
-      ],
-      "duration_ms": 135874,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Prends soin de toi",
         "url": "https://open.spotify.com/album/7jN0OUbMMlz5qsMif0uyYJ"
       },
@@ -1451,22 +1419,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Munich Session",
-        "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Arkata (Munich Session)",
-      "url": "https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Desalniettemin",
         "url": "https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA"
       },
@@ -1479,6 +1431,54 @@
       "duration_ms": 172374,
       "name": "Desalniettemin",
       "url": "https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Fylke",
+        "url": "https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H"
+      },
+      "artists": [
+        {
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Sp\u00f8rsm\u00e5l",
+      "url": "https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk"
+      },
+      "artists": [
+        {
+          "name": "Loris Murray",
+          "url": "https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk"
+        }
+      ],
+      "duration_ms": 135874,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Munich Session",
+        "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Arkata (Munich Session)",
+      "url": "https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Mursejler",
-        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
-      },
-      "artists": [
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Snefri",
-      "url": "https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/4EV4xaMY99ldNfGanMgaoe"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 132750,
       "name": "Apricity",
       "url": "https://open.spotify.com/track/0gqETOpvyX2eAbcbfjjqGz"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Mursejler",
+        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Snefri",
+      "url": "https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E"
     },
     {
       "added_at": "2023-09-11 13:52:39",

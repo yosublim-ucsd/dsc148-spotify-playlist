@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 板歯目
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,244 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,279 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 8 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 |
 | 9 | [SAYONARA HEAVEN](https://open.spotify.com/track/4TFoFLbXQwiOSNxSJNTh8h) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [印象万象有象無象](https://open.spotify.com/album/2p75dQpOGFwX2xKz4gglPo) | 3:52 |
 | 10 | [Beautiful Days](https://open.spotify.com/track/7iSGf8qaB5WI5RFBAi9LNP) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [9BIT](https://open.spotify.com/album/21iEZloCW9987uuN8n80Pi) | 3:37 |
-| 11 | [walk walk](https://open.spotify.com/track/6Ilmcx6we2Wz3dKXA7iQSb) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [walk walk](https://open.spotify.com/album/5xPIpUF3iT20iOfdUnaMpi) | 3:13 |
+| 11 | [walk walk](https://open.spotify.com/track/0fKl9hAYVMQIyb3SXPsg3C) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [walk walk](https://open.spotify.com/album/5Ni4qXLrTqOgNLgs8UKB8s) | 3:13 |
 | 12 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 |
 | 13 | [Not Queen](https://open.spotify.com/track/00Dtc5rQVt1ogVMZQJEQct) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Not Queen](https://open.spotify.com/album/2Q73xJxTrew6X3JZGPxgjA) | 2:58 |
 | 14 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 24 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 25 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 26 | [可愛いユナちゃん](https://open.spotify.com/track/51Wglv2PINrDBmgjFBZAet) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [可愛いユナちゃん](https://open.spotify.com/album/2Tq9r4PxlmsRHur9umG7Aw) | 3:59 |
-| 27 | [Anata No STORY \- Yaiko Band ver.](https://open.spotify.com/track/6aH0kKRYvKcdPsNCHPczZN) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [Anata No STORY \(Yaiko Band ver.\)](https://open.spotify.com/album/7y4ZNVPHBbp0wsTDfNKAO0) | 3:45 |
+| 27 | [Anata No STORY \- Yaiko Band ver.](https://open.spotify.com/track/09TCJw1wvUjWRrPBVizAgD) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [Anata No STORY \(Yaiko Band ver.\)](https://open.spotify.com/album/3yTcBlLUZ4u0LzQSxaYiGg) | 3:45 |
 | 28 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 |
 | 29 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
 | 30 | [アナーキー into the こたつ](https://open.spotify.com/track/6cZQJurDxeBLGK1z80CCmo) | [Kidder Friendly Club](https://open.spotify.com/artist/6weiyle8glz1DmsCMPNKlG) | [アナーキー into the こたつ](https://open.spotify.com/album/4J60VFqQhVtwnwN5XmdXIK) | 4:11 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 41 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/5Us9nHV0bOYJI7uh3wJQFf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/album/5zEchapHbkbcP85WGzHBwi) | 3:38 |
 | 42 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 |
 | 43 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
-| 44 | [花道](https://open.spotify.com/track/2tgAbQ9obqi3ZNCB4tmRK0) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [光華を見つけて](https://open.spotify.com/album/7IVJErMew6EfOEuPdjWEFr) | 4:03 |
+| 44 | [Hanamichi](https://open.spotify.com/track/4Y9HYfN3l6VvZActx7AG01) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [Kouka o Mitsukete](https://open.spotify.com/album/6709MYDOFdRSWNH482F9Qo) | 4:03 |
 | 45 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
 | 46 | [Scum solution](https://open.spotify.com/track/0CIoCj8IRFgYyKcC3atBRq) | [Palastleben](https://open.spotify.com/artist/013gpHYkD441u1fupn3vXF) | [Scum solution](https://open.spotify.com/album/6aBOawNmYcyJsU7H2XFlOu) | 3:07 |
 | 47 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 67 | [夏が来るたび](https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 3:59 |
 | 68 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 |
 | 69 | [人生オーバー](https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [人生オーバー](https://open.spotify.com/album/1RBao56wV7JfUNLPFQoVN5) | 3:34 |
-| 70 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 |
+| 70 | [ミッドナイトセブンス](https://open.spotify.com/track/51jRHjjy4d41dN85nQzxcF) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [ミッドナイトセブンス](https://open.spotify.com/album/5vDGaNbODrH1jBo4tBKV2q) | 4:20 |
 
-Snapshot ID: `MCwyNDAyMzQzOGE2NmQyN2YxZDBiYTYyZDFmNTYzZDc2MDllYTIzMDhh`
+Snapshot ID: `MCxmNDJmYjY4NWQxZTYwMjI5Yjg1YTk0NDU4OTcwMWE4MDEwZWY3ZWQ3`

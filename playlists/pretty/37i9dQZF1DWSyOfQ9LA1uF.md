@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,515 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,546 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 9 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 |
 | 10 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 |
 | 11 | [Let's Make Love And Listen To Death From Above \- Spank Rock Remix](https://open.spotify.com/track/1UDDeiefJTAYMMWFab9Rsh) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Let's Make Love And Listen To Death From Above](https://open.spotify.com/album/5iaa3h5dYAAZ4lmghf3syq) | 4:30 |
-| 12 | [Licky \(Work It Out\) \- Hervé Goes Low Remix](https://open.spotify.com/track/6nBva4Q0CflEKNI5mRqwmO) | [Larry Tee](https://open.spotify.com/artist/1snOzyP7WYWmbY8xjuWFeQ), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Club Badd](https://open.spotify.com/album/6uFgflNAr5jnYYMiLwvidR) | 5:59 |
+| 12 | [Licky \(Work It Out\) \- Hervé Goes Low Remix](https://open.spotify.com/track/36yVg2tFDqvCoX4CY2WGej) | [Larry Tee](https://open.spotify.com/artist/1snOzyP7WYWmbY8xjuWFeQ), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Club Badd](https://open.spotify.com/album/3XFhIRG45xe4mzklhZsItj) | 6:00 |
 | 13 | [Pop The Glock](https://open.spotify.com/track/0fotWs4R5dPWw7YnJEtRw0) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Sex Dreams And Denim Jeans](https://open.spotify.com/album/53mU2L8Ngi8zFAD9JoXNqx) | 3:30 |
 | 14 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 |
 | 15 | [Zombies!](https://open.spotify.com/track/3BxBeWuefRTDxzNy5qFG5H) | [Designer Drugs](https://open.spotify.com/artist/57cAxOmmlpgjNDQovRUuXA) | [Zombies! / Back Up in This](https://open.spotify.com/album/6L75qyadavEpgZJkNtxFJZ) | 4:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 | 75 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 
-Snapshot ID: `MCxiNzg3MmUwMWMxZTMzN2E2ODEwNzdmODVmOTYwOTUyYzgwNmI2YWE4`
+Snapshot ID: `MCxiMjQ1YzYxN2VhODE4NzE0OGZlMzUxZjAwYmNmNzQ4MDMyZGZkZWVh`

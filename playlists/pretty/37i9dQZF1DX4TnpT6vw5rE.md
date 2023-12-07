@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,431 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,480 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 |
 | 120 | [High Flyer](https://open.spotify.com/track/4ofswta82cpa2mJv6jrpyb) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [High Flyer](https://open.spotify.com/album/5PYv6xEDp6z2VsfuNlTXGT) | 3:07 |
 
-Snapshot ID: `MCxkYmJjYzUxZjc5ZWJjMzBjYmNlZGMyYmVhNzRmMTUyYTVlOGQ5MWMx`
+Snapshot ID: `MCw2YTBjYWQ5NGQ1YmZjODM3NjgwODhkZTM1ZmIyY2Q3YmM5NDEyNDg2`

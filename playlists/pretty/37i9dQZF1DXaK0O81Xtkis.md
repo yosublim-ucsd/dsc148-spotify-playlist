@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,602 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,643 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 65 | [Internet Boy](https://open.spotify.com/track/4CIWbTFSV1WX8WjnkgHBY2) | [Bradley Kim](https://open.spotify.com/artist/3nJiC4ijSQZ1HHJB0gqJWM) | [Internet Boy](https://open.spotify.com/album/4i9NHE0Z6lfnQMzuY4gOA4) | 2:59 |
 | 66 | [See You Later](https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:35 |
 | 67 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
-| 68 | [Sun Sick](https://open.spotify.com/track/1SJoB0RUX2X1oboDNzLTle) | [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY) | [Sun Sick](https://open.spotify.com/album/1EaEYIhVXXTyvtLcZfuK5Y) | 2:53 |
+| 68 | [Sun Sick](https://open.spotify.com/track/76uaECY7ORsG99hKBF2Wll) | [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY) | [2 in a Million](https://open.spotify.com/album/3tX2cHw8ZvXpIQ4CkgGALM) | 2:53 |
 | 69 | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q) | 3:18 |
 | 70 | [Limelight](https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Limelight](https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId) | 3:00 |
 | 71 | [VICIOUS](https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [VICIOUS](https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv) | 2:12 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 73 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 |
 | 74 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCxiMDg3OGM3NTA0NmMxZjhkNGQ5MDYzMzQwNDdmZGJhN2RhZWFhOGU0`
+Snapshot ID: `MCwxM2M5YTIwZDU3MDZjYjJiMDljYTA2YTZhZWU1NWU3YjYxY2QyYTAz`

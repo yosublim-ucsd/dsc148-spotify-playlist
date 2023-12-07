@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,163,997 likes - 750 songs - 1 day 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,164,801 likes - 750 songs - 1 day 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Chordingly](https://open.spotify.com/track/1GlyHT01SDQM9pdH7GvrE3) | [Loop](https://open.spotify.com/artist/1YnFRLLEjnqcJRcytKBZa5) | [Chordingly](https://open.spotify.com/album/0geobmnBANt7T42h3rFJJU) | 1:45 |
 | 750 | [Another Wednesday](https://open.spotify.com/track/4RkxM3lyTA12J8LfFNBZ3w) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Another Wednesday](https://open.spotify.com/album/2TYyQ6IEGBfVfqO0iRNekZ) | 2:09 |
 
-Snapshot ID: `MCxhZTlkZTNmNmIwNDY0ZDc4Yzk0ZTNhZmJkOWZkZThmMzg0N2FiNGY3`
+Snapshot ID: `MCxhODlhNTk3MmY5MDg4ZDMwY2M4YzRjMzlhMmYwZDk1ZWZjM2U5NjIy`

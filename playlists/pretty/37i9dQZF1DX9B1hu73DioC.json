@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 807684,
+  "num_followers": 807765,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQ1Y2I0NjIxOWZmMGM0MjE3YWM0ZWRjODJjNjVlOGVjYjg1Mjg1",
+  "snapshot_id": "MCw1MmRiYzk3NDM3ODBmOGUyN2QxNjY5MDRhOTllNjJmMjgzNzUxOGIy",
   "tracks": [
     {
       "added_at": "2023-10-25 18:45:06",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 206000,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
-      },
-      "artists": [
-        {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
-        }
-      ],
-      "duration_ms": 153697,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Built on Glass",
         "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 218067,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Now That The Light Is Fading",
         "url": "https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 277506,
       "name": "Dog Years",
       "url": "https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
         "name": "5K",
         "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 133493,
       "name": "Races",
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Summer's Over",
+      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Summer's Over",
-      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 203516,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1067,22 +1083,6 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
     },
     {
       "added_at": "2023-09-29 19:50:59",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-09-29 19:50:59",
       "album": {
-        "name": "Confirmation / I Turned Away",
-        "url": "https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4"
-      },
-      "artists": [
-        {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
-        }
-      ],
-      "duration_ms": 209309,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow"
-    },
-    {
-      "added_at": "2023-09-29 19:50:59",
-      "album": {
         "name": "Strange Disciple",
         "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 225901,
       "name": "Run To The Moon",
       "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
+    },
+    {
+      "added_at": "2023-09-29 19:50:59",
+      "album": {
+        "name": "Confirmation / I Turned Away",
+        "url": "https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 209309,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow"
     },
     {
       "added_at": "2023-09-29 19:50:59",

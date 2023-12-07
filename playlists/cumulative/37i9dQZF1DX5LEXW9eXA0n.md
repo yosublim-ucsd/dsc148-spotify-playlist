@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Kim Dong Ryul\(김동률\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,099 songs - 2 day 23 hr 12 min
+1,100 songs - 2 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-01-20 | 2023-02-15 |
 | [Hello](https://open.spotify.com/track/17eyo8NHyXHpqDbgsGw2bO) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Hello](https://open.spotify.com/album/5X8sHaSyZRM4tLeabgaH1L) | 3:44 | 2023-02-23 | 2023-04-27 |
 | [Hello It′s Me](https://open.spotify.com/track/4lZPSra8rhlTkwJHwsIrBw) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Hello It's Me \(Re:WIND 4MEN Vol.05\)](https://open.spotify.com/album/5nff7NmnWT5MRZNSzsKJLP) | 4:18 | 2023-02-08 | 2023-03-28 |
+| [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 |  |
 | [Here I Am Again](https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB) | 3:54 | 2021-12-20 | 2022-07-08 |
 | [Here We Are](https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3mTdCQaktzKJihC6TeI4fP) | 4:04 | 2021-12-20 | 2022-07-08 |
 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 | 2022-05-11 | 2022-07-27 |

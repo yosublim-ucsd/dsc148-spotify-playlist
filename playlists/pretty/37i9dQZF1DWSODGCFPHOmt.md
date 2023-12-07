@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,942 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,114 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 22 | [Ritmo Navideño](https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amante De Lo Bueno](https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo) | 3:04 |
 | 23 | [El Colesterol](https://open.spotify.com/track/0cMIrWqljfkcl99TIYTtqf) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 2:23 |
 | 24 | [Burrito Sabanero](https://open.spotify.com/track/40qtYtAtU9KU120akkoOw5) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 2:11 |
-| 25 | [Navidad Sin Ti \- en Vivo](https://open.spotify.com/track/0oIgtBMz4hFHBROA619JdS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Por Amor a Morelia Michoacán \(En Vivo\)](https://open.spotify.com/album/0lcKOe1eGODSaaxZVtDOOj) | 4:16 |
+| 25 | [Navidad Sin Ti \- En Vivo](https://open.spotify.com/track/0oIgtBMz4hFHBROA619JdS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Por Amor a Morelia Michoacán \(En Vivo\)](https://open.spotify.com/album/0lcKOe1eGODSaaxZVtDOOj) | 4:16 |
 | 26 | [Amarga Navidad](https://open.spotify.com/track/1kOWMdlpetd7L5O6AtxtO9) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:06 |
 | 27 | [Los Peces en el Río \- Edición Especial](https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela \(Edición Especial\)](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 2:56 |
 | 28 | [Navidad Rock](https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Navidad Rock](https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p) | 2:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:06 |
 | 80 | [Feliz Navidad](https://open.spotify.com/track/6CLg2TOhryzRqOm5VJfN8O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Feliz Navidad](https://open.spotify.com/album/4F6XsNJReXpLNHdpxfwLxv) | 3:10 |
 
-Snapshot ID: `MCwzMzg5MDA0ZTI3NTQ2NzZlZmEyYzQyNWIzMTIyOTgwMjQxYjQ1OTIy`
+Snapshot ID: `MCxhMjEyYjIxZjg5ZTc5YzM4YjRiYWM1Zjc5NDU4NWExY2VkNzI2MjZh`

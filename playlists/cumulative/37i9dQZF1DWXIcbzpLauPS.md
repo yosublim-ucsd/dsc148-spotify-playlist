@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: I SEE STARS
 
-786 songs - 2 day 1 hr 13 min
+787 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Breaking Point](https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA) | [Lockjaw](https://open.spotify.com/artist/1CFA76fcB5Ieqc0vUWWab4) | [Breaking Point](https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK) | 3:35 | 2022-05-13 | 2022-08-20 |
 | [Breaking Teeth](https://open.spotify.com/track/3HWyHrobRg5FYzGS0oP5FV) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Breaking Teeth](https://open.spotify.com/album/2KONHMjnO0RbxX997M2eEg) | 2:33 | 2023-09-29 | 2023-10-28 |
 | [Breaking Teeth](https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Fear Of Letting Go](https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy) | 2:33 | 2023-10-27 |  |
+| [Bring Back The Noise](https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Bring Back The Noise](https://open.spotify.com/album/7yaFrxjzkynJH2jQ45vJs4) | 2:10 | 2023-12-06 |  |
 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 | 2023-11-27 |  |
 | [Broken Homes](https://open.spotify.com/track/5jYBHfcAfmES6eVx695YEJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Afterglow](https://open.spotify.com/album/0Rzu3mifln0xaAZ2pAUnm5) | 3:16 | 2021-12-17 | 2022-07-23 |
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-07-13 | 2022-07-23 |

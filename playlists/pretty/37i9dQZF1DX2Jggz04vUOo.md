@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,050 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,076 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 34 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 |
 | 35 | [Punto Cero](https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi](https://open.spotify.com/artist/3y89DR1J1RB96pJUByabwi) | [Punto Cero](https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ) | 8:42 |
 | 36 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 |
-| 37 | [Etèreo](https://open.spotify.com/track/2zvaBjNVbQg6AK2aAIRhrN) | [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv), [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b) | [Etèreo](https://open.spotify.com/album/1smB9aYNSh87eIwHnWZjdo) | 7:36 |
+| 37 | [Etèreo](https://open.spotify.com/track/45CqvQq2htatUJ6Ujkfgt8) | [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv), [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b) | [Etèreo](https://open.spotify.com/album/5QELVH1LaeYI3PEtdlTxLk) | 7:36 |
 | 38 | [Afiafi \- Islandman Remix](https://open.spotify.com/track/38AhDHElViAYUjbP7x1byB) | [AmuAmu](https://open.spotify.com/artist/7GzNbtoPAo9kVJbBG2eSlz), [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Afiafi](https://open.spotify.com/album/4AR7PXF4hQE7uExigOkvw0) | 5:28 |
 | 39 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 |
 | 40 | [Shimshai](https://open.spotify.com/track/1UDOAT7TcqHBdzUYJ0GR41) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Leveldva Chillrave 001](https://open.spotify.com/album/3GXsWafBNGymgP4C9vkwKn) | 6:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 |
 | 70 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 |
 
-Snapshot ID: `MCwxM2QzMmNjODc5ZTY1MzFiOTFlNTY0ZjU5ZDEzYmNiZDlmYWJjNmY0`
+Snapshot ID: `MCwwYWU3NTQ0YjBlMGI2ODFjYWI2YWRiNTVlOGZmNTUyNDRhZDI2ZTI0`

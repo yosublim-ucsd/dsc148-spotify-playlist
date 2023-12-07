@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: テイラー・スウィフト\(Taylor Swift\)
 
-2,561 songs - 6 day 5 hr 32 min
+2,562 songs - 6 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-30 | 2023-05-08 |
 | [CHARM](https://open.spotify.com/track/75EFQbfTgsm0exvk6ZJl6Q) | [青山みつ紀](https://open.spotify.com/artist/5cEt7kS0IIWeiTow3vOtsV) | [CHARM](https://open.spotify.com/album/0XSNjTZuZhlcmaMkShTuka) | 3:28 | 2023-11-26 | 2023-12-04 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-15 | 2023-11-13 |
+| [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/track/25ZpVBEhPmKuMwJHVbUXIG) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/album/3Tk0EPZRaUwlNyRhrUFxOL) | 2:34 | 2023-12-06 |  |
 | [CheckMate](https://open.spotify.com/track/5CbBaIi8ATyn3fJ8PnfYgN) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [CheckMate](https://open.spotify.com/album/4P33EqCD2BlfS5d57VgGRw) | 2:26 | 2023-11-12 | 2023-11-20 |
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-29 | 2023-11-06 |
 | [Cheers!Cheers!](https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [BUTTERFLY EFFECT](https://open.spotify.com/album/3jMsXyruxQMw80CVCQPmas) | 3:11 | 2023-07-02 | 2023-07-10 |

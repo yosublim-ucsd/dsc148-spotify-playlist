@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 30363,
+  "num_followers": 30430,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTExYzk5OTVmM2UzNTIxMDVlOTU2MWFhMDY0MzdjNjQyNzViOGQ2",
+  "snapshot_id": "MCxmNjM5MDI3OTRiNDY4ODRiMjRiYzg5NWJjOGE2MjhhYmE0MmQyYTUz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Nywtf (feat. Mikhail Beltran)",
         "url": "https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 184761,
       "name": "NYWTF (feat. Mikhail Beltran) - Edit",
       "url": "https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Attention Deficit Track",
         "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Alley Rave",
         "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 190874,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Do One EP",
         "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 189473,
       "name": "0121 Do One",
       "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Picante EP",
-        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
-      },
-      "artists": [
-        {
-          "name": "Manda Moor",
-          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Lucky Bastard",
         "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
       },
@@ -1423,22 +1407,6 @@
       "duration_ms": 185759,
       "name": "Lucky Bastard",
       "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1459,6 +1427,38 @@
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Picante EP",
+        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
+      },
+      "artists": [
+        {
+          "name": "Manda Moor",
+          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1551,6 +1551,38 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
+      },
+      "artists": [
+        {
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+        }
+      ],
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1571,22 +1603,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
-      },
-      "artists": [
-        {
-          "name": "Zilka",
-          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
-        }
-      ],
-      "duration_ms": 158343,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "fall '23",
+        "url": "https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "put it to music.",
+      "url": "https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Azabache",
         "url": "https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 221818,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "winter '23",
-        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "buss it.",
-      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
     }
   ],
   "unique_name": "Minimal Tech",

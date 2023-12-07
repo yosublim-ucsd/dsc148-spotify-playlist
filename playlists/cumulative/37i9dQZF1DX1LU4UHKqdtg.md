@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NMIXX
 
-844 songs - 1 day 22 hr 5 min
+846 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-20 | 2023-01-18 |
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-11 | 2022-06-24 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-04-27 |
-| [Dilly Dally](https://open.spotify.com/track/624rJzJltnse63XfM1XlXn) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1) | 3:31 | 2023-12-05 |  |
+| [Dilly Dally](https://open.spotify.com/track/38dDP2uFYXr9fo4EkGQSbE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/5vLpVxSJdRGciJ1FTY4qiX) | 3:31 | 2023-12-05 |  |
+| [Dilly Dally](https://open.spotify.com/track/624rJzJltnse63XfM1XlXn) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1) | 3:31 | 2023-12-05 | 2023-12-07 |
 | [Dirty Dancing \(feat\. Joshua, DK & Dino of SEVENTEEN\) \- Dem Jointz Remix](https://open.spotify.com/track/6KfYVOicblNB8CaDZwbxiT) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Dirty Dancing \(Dem Jointz Remix\)](https://open.spotify.com/album/4MHZnwMTrnhgoSJKe1KSqP) | 3:36 | 2023-08-31 | 2023-10-28 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2023-09-06 |
 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-03 | 2022-10-12 |
@@ -849,6 +850,7 @@
 | [病](https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:24 | 2022-11-29 | 2023-02-22 |
 | [紫陽花のような恋 \(Hydrangea Love\)](https://open.spotify.com/track/31PF8eu76bgCLNzNm0ZmBX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [紫陽花のような恋 \(Hydrangea Love\)](https://open.spotify.com/album/5NS7oB7XrDg7xcx4p2595x) | 3:52 | 2023-07-04 | 2023-07-08 |
 | [花路](https://open.spotify.com/track/0B2xB2XuQlN7jMpbsDHYUb) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [花路](https://open.spotify.com/album/4G5aqy3YbX5zaVXP0LgzZ6) | 3:44 | 2023-03-14 | 2023-03-16 |
+| [蓝洋海龟 \(Marine Turtle\)](https://open.spotify.com/track/1saWG04lO7WpyO2DZriDeA) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Marine Turtle \- NCT LAB](https://open.spotify.com/album/2ueIiJ8NxNyCh9F8xEuDm6) | 3:39 | 2023-12-05 |  |
 | [酒 \(JIU\)](https://open.spotify.com/track/7iWEo1YPXrWELXh4pD9S6w) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [酒 \(JIU\)](https://open.spotify.com/album/78Yo8PKLNKJsVuqFQylA9l) | 3:06 | 2022-04-07 | 2022-06-11 |
 | [鱗\(うろこ\)](https://open.spotify.com/track/6mveYt3qyAnjLUxdhVd8gG) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [鱗\(うろこ\)](https://open.spotify.com/album/4fdFOYbuQJrQgUMLGLiqE0) | 5:17 | 2022-05-24 | 2022-07-21 |
 | [결국 \(Love is Pain\)](https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [결국 \(Love is Pain\)](https://open.spotify.com/album/09rm6D55oanJigmRYytant) | 3:05 | 2023-09-07 | 2023-10-07 |

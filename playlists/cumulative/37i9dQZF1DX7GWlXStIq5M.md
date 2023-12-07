@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: Jade Baraldo
 
-638 songs - 1 day 8 hr 24 min
+639 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,8 @@
 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 | 2023-02-14 | 2023-04-09 |
 | [Paralisou](https://open.spotify.com/track/5EsT3BhrGtI4u90k37IbnA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Paralisou](https://open.spotify.com/album/3i5ahqN1S1KW07SmrC6YQU) | 3:05 | 2020-10-20 | 2022-07-24 |
 | [Passarinho](https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Passarinho](https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa) | 2:37 | 2023-06-16 | 2023-08-26 |
-| [Patipapa](https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Patipapa](https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5) | 2:20 | 2023-11-24 |  |
+| [Patipapa](https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Patipapa](https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5) | 2:20 | 2023-11-24 | 2023-12-07 |
+| [PEGADA DE CRIA](https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt) | [Lellê](https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY) | [TRI ÂNGULOS](https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z) | 1:59 | 2023-12-01 |  |
 | [Pegada de Vilã](https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 2:38 | 2023-08-25 |  |
 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 | 2023-07-28 | 2023-09-16 |
 | [PENTADA++](https://open.spotify.com/track/6O2yF2Neo8I2L0cafiOLSH) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [LIA CLARK \- THE ALBUM](https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO) | 2:10 | 2023-10-27 | 2023-11-25 |

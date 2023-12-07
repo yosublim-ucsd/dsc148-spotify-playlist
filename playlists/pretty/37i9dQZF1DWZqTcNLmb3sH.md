@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
+> Check out the latest hits from Sandalwood!<br/>Cover : Kaatera
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,020 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,041 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Magalalla \(From "Hi Nanna"\)](https://open.spotify.com/track/7z58mpa9Tx6SdwHmn6olYB) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Magalalla \(From "Hi Nanna"\)](https://open.spotify.com/album/63fGaUgWVnzRlrmQkvYp64) | 4:26 |
 | 75 | [Samayave Saaladu](https://open.spotify.com/track/3XRMSg7cT5tgrzkRFYDDpE) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6) | [Samayave Saaladu](https://open.spotify.com/album/6MlNNbgEbayMwkaLyZygar) | 4:55 |
 
-Snapshot ID: `MCw1ZjY3OGJmMTI3MzJjMGZlYzM2NDI0NjdjMGU5MzYzODhhYTQyODJl`
+Snapshot ID: `MCwxOTJmYzdkN2JhNTM4ZWJkZWM0NjgxZTg3ZmQ5NDRmYjdlYTZjOGFm`

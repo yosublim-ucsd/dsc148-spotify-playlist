@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,053 songs - 23 hr 25 min
+1,054 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Jupiter](https://open.spotify.com/track/4WXX2myE1VrWpdAKEhDiIZ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:14 | 2022-01-12 |  |
 | [Kindness Flows](https://open.spotify.com/track/0lfmUhbwt48FppDxm22pVJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |
 | [La Tristesse Arr\. For Cello And Grand Piano](https://open.spotify.com/track/1t962fbBLINcGNhvMS5YHW) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [La Tristesse Arr\. For Cello And Grand Piano](https://open.spotify.com/album/1L4bQzka3uzRIyjnQiVoRr) | 1:01 | 2023-04-19 |  |
+| [Lake House](https://open.spotify.com/track/6iK93LMYzC6Y0eXcw2eDY6) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-06 |  |
 | [Lakeside Glow](https://open.spotify.com/track/22mC0rcLewDI58bO48x6VS) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Lakeside Glow](https://open.spotify.com/album/1TtRW8NpfHl3xBAXVwlcpC) | 1:02 | 2022-06-25 |  |
 | [Lakeside Memories](https://open.spotify.com/track/7fTj0UztNFyneHcUNEu7Ww) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Lakeside Memories](https://open.spotify.com/album/7KMx0WHptsg55aFuhamz5q) | 1:02 | 2022-06-26 |  |
 | [Largo Reimagined](https://open.spotify.com/track/6VVygTksotaGbvfyPxMKQ2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Largo Reimagined](https://open.spotify.com/album/6d40xo3GwfVbtUFLPTwxiT) | 1:36 | 2022-01-20 |  |

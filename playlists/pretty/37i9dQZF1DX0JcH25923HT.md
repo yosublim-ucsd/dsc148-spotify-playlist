@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,817 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,916 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 60 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 |
 | 61 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
 | 62 | [Ojala](https://open.spotify.com/track/6KhcjdFnuQ6g6QUDnGEKPF) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 5:04 |
-| 63 | [Mucha Data](https://open.spotify.com/track/57x0IGrEHEdoy5QMBlcitJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Error 93](https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O) | 2:34 |
-| 64 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 |
+| 63 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 |
+| 64 | [Mucha Data](https://open.spotify.com/track/57x0IGrEHEdoy5QMBlcitJ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Error 93](https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O) | 2:34 |
 | 65 | [Hoy \(feat\. Bad Bunny\)](https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Real G4 Life Vol\. 3](https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0) | 3:54 |
 | 66 | [Es Mejor](https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Flakk Daniel's Lp](https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX) | 2:59 |
 | 67 | [Condenado Para El Millón](https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Si Te Vas](https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Te Vas](https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b) | 4:00 |
 | 100 | [Jimmy Fallon \- Remix](https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Jimmy Fallon \(Remix\)](https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW) | 4:02 |
 
-Snapshot ID: `MCxlNTRhYzBkNmE0YTAyNDgwYTQ5NmYzMGVjZTNjMjNiNDU1M2MwYzhk`
+Snapshot ID: `MCwyYzlhMGU0NjVjM2U5YjUwNmI0NTFlZDMwZjRhNTBjMDU2NDc3NWVh`

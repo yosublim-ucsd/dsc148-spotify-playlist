@@ -4,13 +4,13 @@
 
 > So smooth, so classic\. Cover: George Benson
 
-72 songs - 5 hr 59 min
+73 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [101 Eastbound](https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Fourplay](https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy) | 5:56 | 2020-08-19 |  |
 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 | 2020-08-19 |  |
-| [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 | 2020-08-19 |  |
+| [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 | 2020-08-19 | 2023-12-07 |
 | [After Hours \(The Antidote\)](https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [The Antidote](https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx) | 5:51 | 2020-08-19 |  |
 | [After Midnight](https://open.spotify.com/track/37EuKZ0JQZAsjp2I4EOlTG) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/22E8gc2Uwz5raeIZb8L5cX) | 5:13 | 2020-08-19 | 2022-07-29 |
 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 | 2020-08-19 |  |
@@ -60,6 +60,7 @@
 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 | 2020-08-19 |  |
 | [Smiles And Smiles To Go](https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Alone / But Never Alone](https://open.spotify.com/album/5X5BHIsKnBpvIybs83eQ4j) | 5:47 | 2020-08-19 |  |
 | [Smooth](https://open.spotify.com/track/3ZDDCrqWqDDQT1M3TCI3dO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For the Love of You](https://open.spotify.com/album/0ZnVjuFuNGngUDzQrP2JH9) | 4:34 | 2020-08-19 | 2023-10-05 |
+| [Smooth](https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For The Love Of You](https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7) | 4:35 | 2020-08-19 |  |
 | [Smooth Sensation](https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:36 | 2020-08-19 |  |
 | [So Amazing](https://open.spotify.com/track/2A9sVZ6nXEwX8O3OfDnjnP) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Just Between Us](https://open.spotify.com/album/1zgDBDwWv5WWggAD1pwyWV) | 4:49 | 2020-08-19 | 2022-07-29 |
 | [So Amazing](https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Just Between Us](https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN) | 4:49 | 2020-08-19 |  |

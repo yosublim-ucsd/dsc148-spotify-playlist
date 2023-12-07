@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 4941,
+  "num_followers": 4978,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjYyMjY2YzY0ZjBiNThmOTMwOTY3M2QyZjE0YjYzM2EzNzkzZTNh",
+  "snapshot_id": "MCxhMDYxOWRmYjM4ZTQzM2I3NzAzMTg1ZGU3OGZmZDgxYjZhMWI4NzY1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -163,6 +163,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Pa los Haters",
+        "url": "https://open.spotify.com/album/4sI1VJtoGuDcNNEVp2t0Gg"
+      },
+      "artists": [
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Pa los Haters",
+      "url": "https://open.spotify.com/track/1FXlw0JZi26dwrNbarVlv1"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Invicto",
         "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
@@ -199,30 +219,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Pornosotros",
-        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        },
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Pornosotros",
-      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Dime Quien Es Ese",
         "url": "https://open.spotify.com/album/1GLVlsHoK05Sr8fgfMblJR"
       },
@@ -255,6 +251,30 @@
       "duration_ms": 202268,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Pornosotros",
+        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        },
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Pornosotros",
+      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -339,26 +359,6 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Pa los Haters",
-        "url": "https://open.spotify.com/album/4sI1VJtoGuDcNNEVp2t0Gg"
-      },
-      "artists": [
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Pa los Haters",
-      "url": "https://open.spotify.com/track/1FXlw0JZi26dwrNbarVlv1"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -615,22 +615,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Despu\u00e9s que Bailamos",
-        "url": "https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU"
+        "name": "La Que Quiero Yo",
+        "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
       },
       "artists": [
         {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         },
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
         }
       ],
-      "duration_ms": 225126,
-      "name": "Despu\u00e9s que Bailamos",
-      "url": "https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ"
+      "duration_ms": 189942,
+      "name": "La Que Quiero Yo",
+      "url": "https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -655,26 +659,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "La Que Quiero Yo",
-        "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
+        "name": "Despu\u00e9s que Bailamos",
+        "url": "https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU"
       },
       "artists": [
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
         },
         {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 189942,
-      "name": "La Que Quiero Yo",
-      "url": "https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e"
+      "duration_ms": 225126,
+      "name": "Despu\u00e9s que Bailamos",
+      "url": "https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -811,6 +811,34 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Un Palo Como Tu",
+        "url": "https://open.spotify.com/album/2fpQ5SJoudmJe0AP5fNdCY"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        },
+        {
+          "name": "El Kamel",
+          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
+        },
+        {
+          "name": "El Bacoco",
+          "url": "https://open.spotify.com/artist/62pQLqF1sUAdFCpEGcVDHM"
+        },
+        {
+          "name": "Titico",
+          "url": "https://open.spotify.com/artist/4URQuC2OfCP7ajydzMnQY7"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Un Palo Como Tu",
+      "url": "https://open.spotify.com/track/1FutDLeZnNdv36lpCq0Eb0"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Epicentro",
         "url": "https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf"
       },
@@ -855,34 +883,6 @@
       "duration_ms": 342932,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Un Palo Como Tu",
-        "url": "https://open.spotify.com/album/2fpQ5SJoudmJe0AP5fNdCY"
-      },
-      "artists": [
-        {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
-        },
-        {
-          "name": "El Kamel",
-          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
-        },
-        {
-          "name": "El Bacoco",
-          "url": "https://open.spotify.com/artist/62pQLqF1sUAdFCpEGcVDHM"
-        },
-        {
-          "name": "Titico",
-          "url": "https://open.spotify.com/artist/4URQuC2OfCP7ajydzMnQY7"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Un Palo Como Tu",
-      "url": "https://open.spotify.com/track/1FutDLeZnNdv36lpCq0Eb0"
     },
     {
       "added_at": "2023-12-01 05:00:00",

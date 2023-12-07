@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 123457,
+  "num_followers": 123502,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2FlN2ZmOGRlMjgzODBjYzJkNDRkMTgwZmVmZTg0ZGU3ZDQyM2Yx",
+  "snapshot_id": "MCw0M2Y4NTUwYzdkZGYxNzc2NzZiMDQwY2QwYjVjNDliMDZiYjI1NzQ3",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mis Borracheras",
-        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 167895,
-      "name": "Mis Borracheras",
-      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Lo Mejor de Luis Alberto Posada",
         "url": "https://open.spotify.com/album/1kcSXGjtHiIY7kcQ89H5Tf"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Ni Parientes Somos",
-      "url": "https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh"
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 259004,
       "name": "Pa' las Que Sea",
       "url": "https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Ni Parientes Somos",
+      "url": "https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh"
     },
     {
       "added_at": "2023-04-14 06:00:00",

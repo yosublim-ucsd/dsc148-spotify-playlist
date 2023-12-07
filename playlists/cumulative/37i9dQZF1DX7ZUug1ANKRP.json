@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Dream",
+        "url": "https://open.spotify.com/album/7G8OrtEr32WYzvP5AZS4Yz"
+      },
+      "artists": [
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126605,
+      "name": "Alles ist relativ",
+      "url": "https://open.spotify.com/track/4BtqQnlREUGnCYVASgwOkB"
+    },
+    {
+      "album": {
         "name": "Aloha Hey",
         "url": "https://open.spotify.com/album/7ELEr0qyuFuYvSgvf4lq8u"
       },
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 178593,
       "name": "Easy On My Heart",
       "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
@@ -3714,7 +3732,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 196224,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 162374,
       "name": "Jack (One More Round)",
       "url": "https://open.spotify.com/track/4rTA5hrkv233BWoASSKt3T"
@@ -5000,6 +5018,28 @@
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129412,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
     },
     {
       "album": {
@@ -5626,7 +5666,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 212716,
       "name": "Love All Night",
       "url": "https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby"
@@ -7795,6 +7835,28 @@
     },
     {
       "album": {
+        "name": "Rave & Shout",
+        "url": "https://open.spotify.com/album/0Cp4eKx2ejQcrB8smwb9gq"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180599,
+      "name": "Rave & Shout",
+      "url": "https://open.spotify.com/track/3c8cmDpIKg3d7EIuTjNAAp"
+    },
+    {
+      "album": {
         "name": "Rave All Night",
         "url": "https://open.spotify.com/album/2m2DL56EzrVle3Cqg5cA6d"
       },
@@ -7880,7 +7942,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 154124,
       "name": "Raveship",
       "url": "https://open.spotify.com/track/4WxXlPyF3VcfdkucISvrh0"
@@ -7976,6 +8038,32 @@
       "duration_ms": 127734,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp"
+    },
+    {
+      "album": {
+        "name": "River Flows In You",
+        "url": "https://open.spotify.com/album/4SZQlKGTvdDcf4lQXqgJfu"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Jasper Forks",
+          "url": "https://open.spotify.com/artist/5QCZ46GMAwu0DXQUC7n7DH"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153176,
+      "name": "River Flows In You",
+      "url": "https://open.spotify.com/track/3WHYi4RllFnCYGrMSJpuX3"
     },
     {
       "album": {
@@ -8490,7 +8578,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 137973,
       "name": "Sleepless (feat. GoldFord)",
       "url": "https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC"
@@ -8758,6 +8846,24 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+    },
+    {
+      "album": {
+        "name": "Still Fall",
+        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209102,
+      "name": "Still Fall",
+      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
     },
     {
       "album": {
@@ -9172,6 +9278,44 @@
       "duration_ms": 159617,
       "name": "Tension",
       "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
+    },
+    {
+      "album": {
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
       "album": {

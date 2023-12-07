@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ed Sheeran",
-  "num_followers": 68167,
+  "num_followers": 68252,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWMzMzNhNzA0ZGM1ZjViODUwOTY0N2U3NGJkMmUzNjM5Y2RiNTQ5",
+  "snapshot_id": "MCxiMTVjZWNiMzY1M2Q5OGE4NzkyNzIzMDlkMzA4ZGM3NmI2NjA0NzRj",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 266219,
       "name": "london",
       "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 151913,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
     },
     {
       "added_at": "2023-10-27 04:00:00",

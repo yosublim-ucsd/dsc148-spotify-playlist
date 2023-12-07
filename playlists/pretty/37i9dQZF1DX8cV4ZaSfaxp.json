@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 48999,
+  "num_followers": 49031,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWM0OWUwNmJiNWE5M2Q4MDU0NTg0YTNmM2U0MTQ5YWUwNmMwMTU2",
+  "snapshot_id": "MCxiZjQ4MDljZjUwMjE4YjljZDFkZjliODQxY2U4NmMxM2YxMTQ4Nzhh",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "A Long Dream",
-        "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 258420,
-      "name": "A Long Dream",
-      "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "MORE & MORE",
         "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 191986,
       "name": "SWEET SUMMER DAY",
       "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "A Long Dream",
+        "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 258420,
+      "name": "A Long Dream",
+      "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
-      },
-      "artists": [
-        {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
-        }
-      ],
-      "duration_ms": 198414,
-      "name": "Night Rather Than Day",
-      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "nokdu ep vol.1",
         "url": "https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ"
       },
@@ -563,18 +547,34 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Red Light - The 3rd Album",
-        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
       },
       "artists": [
         {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
         }
       ],
-      "duration_ms": 210042,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
+      "duration_ms": 198414,
+      "name": "Night Rather Than Day",
+      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "FREE`SM",
+        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 220526,
+      "name": "Where are you?",
+      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "FREE`SM",
-        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
+        "name": "Red Light - The 3rd Album",
+        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
       },
       "artists": [
         {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 220526,
-      "name": "Where are you?",
-      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
+      "duration_ms": 210042,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "East Shore",
         "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Onstage Digging Club Seoul THEME 01",
         "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
       },
@@ -767,6 +735,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 215940,
       "name": "\uc5b4\ub5a4 \uc624\ud6c4 One Afternoon",
       "url": "https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "BLOOM*IZ",
         "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+      "duration_ms": 257450,
+      "name": "Thanks to",
+      "url": "https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -863,22 +879,6 @@
       "duration_ms": 209156,
       "name": "Thinking About You (feat. SUMIN)",
       "url": "https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257450,
-      "name": "Thanks to",
-      "url": "https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 235227,
-      "name": "Landed",
-      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 187703,
       "name": "You and Me Together",
       "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 235227,
+      "name": "Landed",
+      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1036,13 +1036,13 @@
           "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
         },
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 226804,
-      "name": "Submarine (with Hoody)",
-      "url": "https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL"
+      "duration_ms": 270270,
+      "name": "Orange Road (with YUKIKA)",
+      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1204,29 +1204,13 @@
           "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
         },
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
         }
       ],
-      "duration_ms": 270270,
-      "name": "Orange Road (with YUKIKA)",
-      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+      "duration_ms": 226804,
+      "name": "Submarine (with Hoody)",
+      "url": "https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1243,6 +1227,22 @@
       "duration_ms": 200053,
       "name": "5min to heartbreak",
       "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Myspace",
-        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "THIS CITY",
-        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
       },
       "artists": [
         {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
         }
       ],
-      "duration_ms": 194400,
-      "name": "THIS CITY",
-      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+      "duration_ms": 216106,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1391,6 +1375,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "THIS CITY",
+        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "THIS CITY",
+      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "THE PARK IN THE NIGHT part three",
         "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 213150,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
     },
     {
       "added_at": "2023-11-02 08:20:42",

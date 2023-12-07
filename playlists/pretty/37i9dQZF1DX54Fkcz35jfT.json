@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: FZMZ",
-  "num_followers": 42212,
+  "num_followers": 42230,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmU0ZTY3MzNhYjVmMWNhYzlhYmZkZTY1YjVlYjFmMmJjMjYzYTk2",
+  "snapshot_id": "MCwzYmRkYWMzYjc2NDU4MDFkZmNkODM5MzFlN2Y4N2JhZDBmNzE1MmU4",
   "tracks": [
     {
       "added_at": "2023-12-05 15:00:00",
@@ -779,8 +779,8 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u30b7\u30cd\u30de",
-        "url": "https://open.spotify.com/album/4ZDYzzPwxrwf015qEeIPMO"
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/0GENh5wpCaj351vVUu4Pty"
       },
       "artists": [
         {
@@ -789,8 +789,8 @@
         }
       ],
       "duration_ms": 219810,
-      "name": "\u5f57\u661f",
-      "url": "https://open.spotify.com/track/1qEnnY6gKiBXxU4D6shBgH"
+      "name": "Suisei",
+      "url": "https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "SEEDS OF HOPE",
-        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "KiLLiNG ME",
-      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
         "name": "THE ETERNAL DOOM",
         "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 180666,
       "name": "\u5384\u707d",
       "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
+        "name": "SEEDS OF HOPE",
+        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "KiLLiNG ME",
+      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
+        "name": "GIANTSTAMP",
+        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
       },
       "artists": [
         {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
         }
       ],
-      "duration_ms": 160642,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
+      "duration_ms": 192506,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "GIANTSTAMP",
-        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
       },
       "artists": [
         {
-          "name": "Suspended 4th",
-          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
         }
       ],
-      "duration_ms": 192506,
-      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
+      "duration_ms": 160642,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "living dead!!",
-        "url": "https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI"
+        "name": "\u30e6\u30a8\u30cb",
+        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
       },
       "artists": [
         {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
         }
       ],
-      "duration_ms": 147157,
-      "name": "living dead!!",
-      "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
+      "duration_ms": 240550,
+      "name": "\u30e6\u30a8\u30cb",
+      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
     }
   ],
   "unique_name": "Loud Rock Japan",

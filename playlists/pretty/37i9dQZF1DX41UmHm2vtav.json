@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 453100,
+  "num_followers": 453192,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRhM2YwZTc0MjUyMDkxOGJmNmEyNTkyMWNmOTRjNWY4NWU2NzEw",
+  "snapshot_id": "MCw0ZjUwYTk1Nzk0NGI5MmYzZDZmNzQ1NjJiOTRlNmZkYzUxMGQxNTkx",
   "tracks": [
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Foreplay (Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
-      },
-      "artists": [
-        {
-          "name": "Flowavez",
-          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Foreplay - Radio Edit",
-      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "PQP A Vida \u00c9 Boa Demais",
         "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 194285,
       "name": "PQP A Vida \u00c9 Boa Demais",
       "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
+      },
+      "artists": [
+        {
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Certeza - Zabot Remix",
-        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Certeza - Zabot Remix",
-      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Certeza - Zabot Remix",
+        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Certeza - Zabot Remix",
+      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1507,22 +1507,26 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "O Amor \u00e9 o Segredo (Dre Guazelli Remix Radio Edit)",
-        "url": "https://open.spotify.com/album/4Ed15mSBTFC3isoPAijpcR"
+        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
+        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         },
         {
-          "name": "Dre Guazzelli",
-          "url": "https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl"
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
         }
       ],
-      "duration_ms": 168572,
-      "name": "O Amor \u00e9 o Segredo - Dre Guazelli Remix Radio Edit",
-      "url": "https://open.spotify.com/track/3AUwUpkVKa1gQ74gxxV49z"
+      "duration_ms": 215806,
+      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
+      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
     }
   ],
   "unique_name": "Festa na Praia",

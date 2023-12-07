@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Rap. Cover:  Channi Nattan, Inderpal Moga & AR Paisley",
+  "description": "Fresh Punjabi Rap. Cover:  Channi Nattan, Inderpal Moga ",
   "name": "Burrh Rap",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 174375,
       "name": "Bandook",
       "url": "https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 218666,
       "name": "Bar 4 Bar Champ 2023",
       "url": "https://open.spotify.com/track/1P2Un5t2ybxh43Wz5eSuF6"
@@ -402,6 +402,28 @@
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
+    },
+    {
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "Damh",
+      "url": "https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS"
     },
     {
       "album": {
@@ -764,6 +786,36 @@
       "duration_ms": 150133,
       "name": "Jatt Di Pasand",
       "url": "https://open.spotify.com/track/6Y3WQXMeooXhysUaOq7XH3"
+    },
+    {
+      "album": {
+        "name": "Kaka",
+        "url": "https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Sudesh Kumari",
+          "url": "https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Kaka",
+      "url": "https://open.spotify.com/track/31JDOPIVK99SMS9gGSi8LY"
     },
     {
       "album": {

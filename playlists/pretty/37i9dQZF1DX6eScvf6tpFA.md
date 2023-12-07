@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,948 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,945 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 10 | [Fall Back](https://open.spotify.com/track/1W4yNgrr2awqFAxye5I7s6) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Dominic Scott](https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:03 |
 | 11 | [Sweater](https://open.spotify.com/track/2XlrCwrZfckZoOZP99qcTD) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue](https://open.spotify.com/album/0pSBEr0IQtQn2wxKRI4rKY) | 2:44 |
 | 12 | [BUM BUM](https://open.spotify.com/track/3KpM5rYPaH7a0NGCHVlqfA) | [b1n0](https://open.spotify.com/artist/18UQ4ex95zIah1bPDQctL9), [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [BUM BUM](https://open.spotify.com/album/4NaFOnM4FgbU8Ce2O10TZn) | 3:19 |
-| 13 | [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/7N3mPmT65DB8gWhfsXIr9j) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class](https://open.spotify.com/album/4DLtkhvbsjCT4ww1tvn2Kd) | 3:44 |
+| 13 | [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/0951VbMnWv7NFXjUPjkSFm) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class \(Radio Edit\)](https://open.spotify.com/album/3LJn1grNGxGlaKtWf7LlSe) | 3:44 |
 | 14 | [Personal](https://open.spotify.com/track/0ysIMlVNmEuXU6qudDc0vm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Personal](https://open.spotify.com/album/1kLSUqwq5RtP16K0KgLCVr) | 2:32 |
 | 15 | [Horny](https://open.spotify.com/track/4OhccbByaFhTNXAzuPzMvS) | [Supahbadd](https://open.spotify.com/artist/1HaUkY7GweQxgdKQGJZS2O) | [Horny](https://open.spotify.com/album/1g7Pxc9ogZr5zYmmOAuEW8) | 2:59 |
 | 16 | [Spread That Puss](https://open.spotify.com/track/3snk3DKrjHBu2TMdYYXhah) | [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Spread That Puss](https://open.spotify.com/album/0gLzh0qmiZh928mKBzWLKN) | 2:27 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 2:57 |
 
-Snapshot ID: `MCw3OGRjZTIyNjAxMTdkZDlhOGQxNmM5MmVlZDk0NjMwZWZlZTg2Yzcx`
+Snapshot ID: `MCw1M2M3MTVhODMwMWUwNzVkMzRmMDRmYmU5NTkzMmE0NTQ4MDRlYmY3`

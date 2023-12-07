@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-122 songs - 7 hr 40 min
+123 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 | 2023-05-18 |  |
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-12-13 | 2023-10-20 |
 | [Buktikan](https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Buktikan](https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM) | 3:59 | 2023-03-30 |  |
+| [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2023-12-06 |  |
 | [Cintaku](https://open.spotify.com/track/41S84NxXxO4IkYRp4WHr1d) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Badai Pasti Berlalu](https://open.spotify.com/album/5xBOU4ZYI4GZ1QnRj3bUMp) | 4:38 | 2023-07-13 |  |
 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 | 2022-12-13 | 2023-09-09 |
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-06-07 |  |
@@ -106,7 +107,7 @@
 | [Samba Di Kota](https://open.spotify.com/track/1Sj8vwRdJRDgOws3XRmyCM) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Samba Di Kota](https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k) | 4:30 | 2022-12-13 | 2023-11-16 |
 | [Sampai Kapan](https://open.spotify.com/track/2yhr89m0E7V16xOB3fRdF1) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:58 | 2022-12-13 | 2023-06-08 |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-12-13 |  |
-| [Selalu Bersama](https://open.spotify.com/track/4E0Ib1Xfhr15mQU6BNShSp) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Selalu Bersama](https://open.spotify.com/album/0nZF3NgXbl8qj7exGx9AtP) | 3:25 | 2022-12-13 |  |
+| [Selalu Bersama](https://open.spotify.com/track/4E0Ib1Xfhr15mQU6BNShSp) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Selalu Bersama](https://open.spotify.com/album/0nZF3NgXbl8qj7exGx9AtP) | 3:25 | 2022-12-13 | 2023-12-07 |
 | [Selamat Pagi](https://open.spotify.com/track/493V5dhXECdFJ7SBqOsybH) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8) | 3:54 | 2022-12-13 |  |
 | [Semoga, Ya](https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Dadang Sh Pranoto](https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3), [Deny Surya](https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf) | [Ini Bukan Nosstress](https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy) | 3:33 | 2022-12-13 |  |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-01-09 |  |

@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-346 songs - 18 hr 53 min
+347 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 | 2023-11-23 |  |
 | [Beside Me](https://open.spotify.com/track/0CxBI3tA8ZOUYTS0pPX45g) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Beside Me](https://open.spotify.com/album/7muAHpfi1dzcITcDKnjdAc) | 2:20 | 2023-06-08 |  |
 | [Better Days](https://open.spotify.com/track/4GUC41StA7bwWyG3Ry3KAb) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [Better Days](https://open.spotify.com/album/47Tp9SOFl0hF6snQX8I0a2) | 1:47 | 2023-11-09 |  |
-| [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 | 2023-04-13 |  |
+| [Better When You're Here](https://open.spotify.com/track/0AZ6ZpE8iYo7jNgxzOkyeb) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/5NtdPmn8NXO9WyzsypleZd) | 3:20 | 2023-10-12 |  |
+| [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 | 2023-04-13 | 2023-12-07 |
 | [Blessyou](https://open.spotify.com/track/1NtxuDqsyMJfwk0K4wRpTN) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Blessyou](https://open.spotify.com/album/3YheYihN0ExFvL5atVNNtX) | 3:20 | 2023-11-30 |  |
 | [Bounce](https://open.spotify.com/track/1WFHGHJcGJuzvAybmU5oQ0) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Bounce](https://open.spotify.com/album/1JVRTwsb069wBbLoFF9WeZ) | 2:25 | 2023-04-13 |  |
 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-06-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Haviah Mighty, Eva Shaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,640 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,996 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 79 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 |
 | 80 | [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
 
-Snapshot ID: `MCxjYzQxOWYxMzA2NzYzNDAyMWEzOGQyNTc3MjQyOTRiNGY4MjE2YTY2`
+Snapshot ID: `MCwwYjNlNmQxYmE5OGNmMWRiYmM4ZmUwMWFmM2U2MGJiYmY1N2M3MTEz`

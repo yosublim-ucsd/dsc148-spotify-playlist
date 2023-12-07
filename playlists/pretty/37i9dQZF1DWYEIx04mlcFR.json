@@ -1,12 +1,12 @@
 {
   "description": "La nueva generaci\u00f3n del pop que defini\u00f3 el 2023 con RENEE en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 66566,
+  "num_followers": 66641,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmU5NDU3NmRiNWQwZDUwY2Q5M2JhNGNkYWQyMmE5Y2IwNDI2Y2Vm",
+  "snapshot_id": "MCwwMGFjMTM1YWVkZTQzZWU2MGE0ZjFiMDYzNjUxNWUyMWM2YzIwYTRi",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "A Sus \u00d3rdenes",
+        "url": "https://open.spotify.com/album/23cpCT5WYsJq7lr1C5JTOO"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/3eULD3gV9SBdt3yYsycDUd"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Retrofuturismo",
         "url": "https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 166813,
       "name": "Despejao",
       "url": "https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "A Sus \u00d3rdenes",
-        "url": "https://open.spotify.com/album/23cpCT5WYsJq7lr1C5JTOO"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Alta Joya",
-      "url": "https://open.spotify.com/track/3eULD3gV9SBdt3yYsycDUd"
     },
     {
       "added_at": "2023-11-29 12:16:00",

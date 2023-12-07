@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 11 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 |
 | 12 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
 | 13 | [Kitchen](https://open.spotify.com/track/0FFk2xCcqgmHdnjsWjJ6nK) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Kitchen](https://open.spotify.com/album/4wcbwQRJuQKt9bHoR7AlXt) | 2:13 |
-| 14 | [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 |
+| 14 | [Champion](https://open.spotify.com/track/6vxtFvQWD6XurY9JHvPdn1) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Elisabeth](https://open.spotify.com/album/1ojZ56lN40DofYZtvz78vp) | 3:30 |
 | 15 | [Främling](https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE) | 2:58 |
 | 16 | [Pressure](https://open.spotify.com/track/60ffplswUO9tKdI2zf0HpF) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Are We There Yet?](https://open.spotify.com/album/04mhm27pdnQIm9cfW5Vo6e) | 2:01 |
 | 17 | [Evergreen](https://open.spotify.com/track/1pNOXulETyPLOTKsvm0Jtk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:54 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 58 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MCw4NjM3YWRhMzJmODY0N2YyM2RjYWQxMGUzYWI4MTE4M2RlNjMxMTBk`
+Snapshot ID: `MCxlMGIyYzFhYTMxZjcwZGQ4NWY3MDdkYzM1OTRjMDBjMGRhNDE2YTNk`

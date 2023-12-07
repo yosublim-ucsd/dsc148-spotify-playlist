@@ -4,13 +4,14 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-104 songs - 4 hr 44 min
+105 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Game of Badminton \(feat\. Jack Liebeck\)](https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jack Liebeck](https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Jane Eyre \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX) | 0:58 | 2023-11-20 |  |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2023-11-20 |  |
 | [A New Era](https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq) | [Zoe Chambers](https://open.spotify.com/artist/08QwhHz0qhZmyySexOOLZd) | [Healing Waves](https://open.spotify.com/album/1qV9uz5AkWRaTe7F5j42vm) | 1:58 | 2023-11-20 |  |
+| [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2023-12-04 |  |
 | [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2023-11-20 |  |
 | [Adagietto](https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sebastian Knauer](https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh) | [Adagietto \(Matthew Herbert Mediterranean Dub\)](https://open.spotify.com/album/4EzUGS9EkHAxmAKhhErNkE) | 2:22 | 2023-11-20 |  |
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2023-11-20 |  |
@@ -46,7 +47,7 @@
 | [Happy Thoughts](https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [Happy Thoughts](https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq) | 1:48 | 2023-11-20 |  |
 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 | 2023-11-20 |  |
 | [Home](https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 1:47 | 2023-11-20 |  |
-| [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 |  |
+| [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 | 2023-12-07 |
 | [I See the Light \- From "Tangled"](https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [I See the Light \- From "Tangled"](https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0) | 3:20 | 2023-11-20 |  |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2023-11-20 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2023-11-20 |  |

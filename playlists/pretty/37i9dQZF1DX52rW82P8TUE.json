@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 63577,
+  "num_followers": 63608,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDAyZTQ3OGY1ZjQ2MDIxNWNiYWZlYjE3MmRjNzUyYmVhYWIyMTY1",
+  "snapshot_id": "MCxhODc4NDc1YTE0MDliZTZlMWVkYWVkMWI2MjQzM2I0MjkyMjcxNmIx",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -443,18 +443,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Festa das Cores",
-        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
+        "name": "Chevere (feat. Lito Atalaia)",
+        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 206767,
-      "name": "Festa das Cores",
-      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
+      "duration_ms": 213422,
+      "name": "Chevere (feat. Lito Atalaia)",
+      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Chevere (feat. Lito Atalaia)",
-        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
+        "name": "Festa das Cores",
+        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 213422,
-      "name": "Chevere (feat. Lito Atalaia)",
-      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
+      "duration_ms": 206767,
+      "name": "Festa das Cores",
+      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
     },
     {
       "added_at": "2023-10-20 03:00:00",

@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,570 songs - 3 day 17 hr 35 min
+1,572 songs - 3 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Again and Again](https://open.spotify.com/track/7uq4EUgarOT6CvBYDA9qFu) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Again and Again](https://open.spotify.com/album/7IconkuKNaOMoiaPzKQZBB) | 2:51 | 2023-05-05 | 2023-05-13 |
 | [Agape](https://open.spotify.com/track/0zkWmS5tEFgaHaXTSGQ2b1) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Agape](https://open.spotify.com/album/4qbAmVXPe2NQZ9EiHVwZcE) | 3:23 | 2022-11-18 | 2022-11-29 |
 | [Ain't Stoppin' Me](https://open.spotify.com/track/1aQu4IE3g3sl1fgmsBjcYH) | [Dujak](https://open.spotify.com/artist/5vNeqphZZDB8susU5xA8mP) | [Ain't Stoppin' Me](https://open.spotify.com/album/6hT4RGNPfWpRp2IM6hIyVJ) | 3:17 | 2023-09-01 | 2023-09-09 |
-| [Ain't U](https://open.spotify.com/track/1s6i4bzxzGLYqZkgEx8LmA) | [Feel Flow!](https://open.spotify.com/artist/0gRfH72TIS2RlzSlXCIxPa), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Ain't U](https://open.spotify.com/album/7m9OksImqI8nH4zOdetcHt) | 2:53 | 2023-11-03 | 2023-11-10 |
+| [Ain't U](https://open.spotify.com/track/1s6i4bzxzGLYqZkgEx8LmA) | [Feel Flow!](https://open.spotify.com/artist/0gRfH72TIS2RlzSlXCIxPa), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Ain't U](https://open.spotify.com/album/7m9OksImqI8nH4zOdetcHt) | 2:53 | 2023-11-03 |  |
 | [Aint Useless](https://open.spotify.com/track/2CBS9f6LiatmHtN7S8Lgrw) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Aint Useless](https://open.spotify.com/album/0e17PtQkL8c7pisTEKjMOw) | 4:06 | 2022-07-01 | 2022-07-10 |
 | [Alife](https://open.spotify.com/track/2klbSESm3QEMX6oWtXG1DH) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Alife](https://open.spotify.com/album/3AHVKvBY3qdl8BwGGUSxMb) | 4:13 | 2022-11-11 | 2022-11-19 |
 | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 | 2022-10-14 | 2022-10-29 |
@@ -327,6 +327,7 @@
 | [Dive In \(feat\. Notelle\)](https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Dive In \(feat\. Notelle\)](https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe) | 2:51 | 2023-09-29 | 2023-10-07 |
 | [DNA \- Edit](https://open.spotify.com/track/1gN4h4k7jraLSnWMaX5VUR) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [DNA / Fire](https://open.spotify.com/album/5dl70z79HnPBuZWeggQsAj) | 2:44 | 2023-12-01 |  |
 | [DO 2 U](https://open.spotify.com/track/5Y9MCecovfguPkYHw63jvJ) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [DO 2 U](https://open.spotify.com/album/1CBv0oYf70prTPOBSr7llx) | 3:12 | 2022-07-29 | 2022-08-06 |
+| [Do Força](https://open.spotify.com/track/6vvHVzlCx5Rc5Z1G6bBFbT) | [DYSLOYAL](https://open.spotify.com/artist/4Nd0iuDHi8BNYsdXQR6DrT) | [Do Força](https://open.spotify.com/album/1zljvPZiE2W7f2zCx5Qgm4) | 3:16 | 2023-12-06 |  |
 | [Do It](https://open.spotify.com/track/30RRuLFFXeW12R9nj5hDK5) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Maldades](https://open.spotify.com/album/5uAzH6sE61O90Sul8421QN) | 4:04 | 2023-02-17 | 2023-02-25 |
 | [Do It Like Me](https://open.spotify.com/track/3xgNqQJ6GCMb6kRZyLvnyz) | [Logan Camin](https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o) | [Do It Like Me](https://open.spotify.com/album/2nrliuY92znfzFnihbY20f) | 3:04 | 2023-11-27 |  |
 | [Do My Thing](https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Do My Thing](https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu) | 3:02 | 2023-06-09 | 2023-06-25 |
@@ -431,6 +432,7 @@
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-08-25 | 2023-09-02 |
 | [Faith](https://open.spotify.com/track/4dDbwr8GxD7gNYrbKfPe2r) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Justri](https://open.spotify.com/artist/5YmGBNnecIeG9pfzegLMEP) | [Faith](https://open.spotify.com/album/7fYASQOaHLLOrjkUavIlad) | 2:50 | 2023-02-17 | 2023-02-25 |
 | [Faith](https://open.spotify.com/track/57dugDhkdfcCCaNlXbrKz3) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Faith](https://open.spotify.com/album/2NClHY8Ch8vrBu0CrTDTfo) | 3:02 | 2022-10-07 | 2022-10-15 |
+| [Fake Friends \- Original Mix](https://open.spotify.com/track/0MWG5fcxHHAYYQ8TEXmkqL) | [MYMA](https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK) | [Fake Friends EP](https://open.spotify.com/album/4WoOY9sfnMLRGnkUrpuodZ) | 4:51 | 2023-12-06 |  |
 | [Fake ID](https://open.spotify.com/track/2gjTyHvloL1xDDA2vAMiqn) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Fake ID](https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A) | 2:20 | 2023-06-09 | 2023-06-25 |
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-22 | 2023-09-30 |
 | [Fall In](https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s) | [alltalk](https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE) | [Fall In](https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL) | 3:20 | 2022-10-07 | 2022-10-15 |

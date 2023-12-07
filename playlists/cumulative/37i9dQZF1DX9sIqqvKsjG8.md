@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-805 songs - 1 day 10 hr 28 min
+807 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,8 @@
 | [Salon musique](https://open.spotify.com/track/3Hv2XS0W9g4FAGzXCOYEnn) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island](https://open.spotify.com/album/1yF5Hz1HEBepidnXeqMZIW) | 2:00 | 2022-07-19 | 2023-09-23 |
 | [Salon musique](https://open.spotify.com/track/51xoSbJvMA83GVglthhPqL) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Cooling Down](https://open.spotify.com/album/7vuY4vwcjMQIDcG4OcgOmc) | 2:00 | 2022-10-24 | 2022-11-13 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-17 | 2023-05-04 |
-| [Sand Drawings](https://open.spotify.com/track/1oX6tIvd6rWyt7BnrhSEcu) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:00 | 2023-11-20 |  |
+| [Sand Drawings](https://open.spotify.com/track/1oX6tIvd6rWyt7BnrhSEcu) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:00 | 2023-11-20 | 2023-12-07 |
+| [Sand Drawings](https://open.spotify.com/track/2Dp9TIMXgkkJKIMDlMRVga) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:00 | 2023-11-20 |  |
 | [Sand Drawings](https://open.spotify.com/track/4tGCUIAYR0D1mgr26lf6ri) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:00 | 2023-10-23 | 2023-11-06 |
 | [Sand Drawings](https://open.spotify.com/track/6BRP3nHa4RmdbgfohRpMgn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:00 | 2023-10-23 | 2023-11-29 |
 | [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 |  |
@@ -674,7 +675,8 @@
 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2021-12-07 | 2022-10-14 |
 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 | 2022-09-12 | 2022-11-25 |
 | [The Conversation](https://open.spotify.com/track/7w8BJ0wsGFDSJuovWwwtF6) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [The Conversation](https://open.spotify.com/album/6ydnZGAPtxZ2h4bk1OAhIy) | 2:04 | 2023-11-13 |  |
-| [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-20 |  |
+| [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-20 | 2023-12-07 |
+| [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-20 |  |
 | [The Curtain Rises](https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [The Curtain Rises](https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo) | 2:05 | 2023-06-27 |  |
 | [The Deep End](https://open.spotify.com/track/5SqntbiG519DFOWmTd9B2K) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [The Deep End](https://open.spotify.com/album/18h0wyRhOJtwPd2lcGZpfU) | 2:09 | 2021-12-07 | 2022-07-29 |
 | [The Deep End](https://open.spotify.com/track/670UNEC9XyjOvq1HOic4jE) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [The Deep End](https://open.spotify.com/album/6AzacQuQXwJE3dC1ts5NII) | 2:09 | 2022-07-19 | 2022-10-05 |

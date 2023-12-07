@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: BREIMEN
 
-1,068 songs - 2 day 19 hr 8 min
+1,071 songs - 2 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Little Sparrow](https://open.spotify.com/track/3E8afOCrmBwpaWJa088oiK) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Little Sparrow](https://open.spotify.com/album/5GxWPcPEess2AWA8YswjHE) | 3:11 | 2023-07-25 | 2023-08-16 |
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 |  |
 | [Lively Christmas](https://open.spotify.com/track/6r3CoPret0z1iBjUEnnlB8) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/0W6Ot4XHxqDZbZGLGCjRrP) | 3:18 | 2023-11-21 | 2023-11-23 |
-| [Loss\(Angels\)](https://open.spotify.com/track/2DZRkxGAsvcyPysbuOkUc3) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5RDd9nWHYnUtK8rWROA6Rc) | 4:01 | 2023-12-05 |  |
+| [Loss\(Angels\)](https://open.spotify.com/track/2DZRkxGAsvcyPysbuOkUc3) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5RDd9nWHYnUtK8rWROA6Rc) | 4:01 | 2023-12-05 | 2023-12-07 |
+| [Loss\(Angels\)](https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5qGkEHJOnzfmNCeDdlzvVA) | 4:01 | 2023-12-05 |  |
 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 | 2023-11-07 |  |
 | [LOTUS](https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN) | 5:26 | 2023-08-22 | 2023-09-27 |
 | [LOTUS](https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39) | 5:26 | 2023-08-22 | 2023-08-24 |
@@ -348,6 +349,7 @@
 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 | 2023-11-06 | 2023-11-29 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-01-13 | 2023-01-18 |
 | [Monsters](https://open.spotify.com/track/30ymFrgpBX8yh1UI7Jnmby) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Monsters](https://open.spotify.com/album/4sP4Oykn1I3hUVNI4WDacz) | 5:20 | 2023-02-01 | 2023-03-10 |
+| [Moon Night Baby](https://open.spotify.com/track/2tu3270ZBpG3SnAYicoihN) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [I See the Moon Light](https://open.spotify.com/album/3Z5OJclE5EwarKIqtK21yL) | 3:29 | 2023-12-05 |  |
 | [Mooner](https://open.spotify.com/track/540AqCI7F7nr7rLuFHF99z) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [Mooner](https://open.spotify.com/album/43TSOsFkPqzEgkynkPev0D) | 3:17 | 2023-11-07 | 2023-11-16 |
 | [MOONRAKER](https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [MOONRAKER](https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN) | 3:05 | 2023-01-13 | 2023-01-25 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-08-31 | 2023-11-08 |
@@ -557,7 +559,8 @@
 | [VOX](https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1) | 4:10 | 2023-02-07 | 2023-03-08 |
 | [VOX](https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f) | 4:10 | 2023-02-07 | 2023-02-09 |
 | [Wait for the season](https://open.spotify.com/track/14jkKW5OiVsHMzHGEeRn8p) | [Kohun Sisiters](https://open.spotify.com/artist/6GbuCgaGRqaxXXCJQnQnrC) | [Canon](https://open.spotify.com/album/63U8BhcuJwGT1WHGOMTZT7) | 3:31 | 2023-06-13 | 2023-06-28 |
-| [walk walk](https://open.spotify.com/track/6Ilmcx6we2Wz3dKXA7iQSb) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [walk walk](https://open.spotify.com/album/5xPIpUF3iT20iOfdUnaMpi) | 3:13 | 2023-12-05 |  |
+| [walk walk](https://open.spotify.com/track/0fKl9hAYVMQIyb3SXPsg3C) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [walk walk](https://open.spotify.com/album/5Ni4qXLrTqOgNLgs8UKB8s) | 3:13 | 2023-12-05 |  |
+| [walk walk](https://open.spotify.com/track/6Ilmcx6we2Wz3dKXA7iQSb) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [walk walk](https://open.spotify.com/album/5xPIpUF3iT20iOfdUnaMpi) | 3:13 | 2023-12-05 | 2023-12-07 |
 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 | 2023-05-23 | 2023-06-14 |
 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 | 2023-10-10 | 2023-11-16 |
 | [Watashi Akinu Watashi](https://open.spotify.com/track/3DuZhfyQTHmityBjFugI6q) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/0SLWfFwN3psEdqNsS6qhIA) | 3:47 | 2023-01-17 | 2023-02-15 |
@@ -1041,7 +1044,7 @@
 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2023-01-13 | 2023-01-25 |
 | [踊ろう命ある限り](https://open.spotify.com/track/3iODGH9tZZ7vrjXzvoQ3aE) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [踊ろう命ある限り](https://open.spotify.com/album/4VUlJEGhVA4qa5vAuH625w) | 3:42 | 2023-01-13 | 2023-01-25 |
 | [輝き](https://open.spotify.com/track/2e6nZ02qETkZALnBGG1aTl) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [輝き](https://open.spotify.com/album/7JdKAy26iMnj4xxLm87cNB) | 3:09 | 2023-05-16 | 2023-05-18 |
-| [輝夜姫](https://open.spotify.com/track/4FctVxLuE6HZnwpxlUgIXk) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [月で読む絵本](https://open.spotify.com/album/1Q2qFAU6h1cp6YYHt1utxr) | 3:29 | 2023-12-05 |  |
+| [輝夜姫](https://open.spotify.com/track/4FctVxLuE6HZnwpxlUgIXk) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [月で読む絵本](https://open.spotify.com/album/1Q2qFAU6h1cp6YYHt1utxr) | 3:29 | 2023-12-05 | 2023-12-07 |
 | [追いかけて](https://open.spotify.com/track/4Ml4pnXCy1lUGIg8LjrujS) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [追いかけて / 花火が鳴って](https://open.spotify.com/album/4YmvCYPrtE1Bu6eVUWvGMZ) | 4:44 | 2023-09-12 | 2023-10-11 |
 | [逆光](https://open.spotify.com/track/2skO0TsEvWhvcyFZMecHiD) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [逆光](https://open.spotify.com/album/2xi1cPT3wVznO0XPivoLLa) | 4:05 | 2023-03-28 | 2023-04-25 |
 | [逆夢](https://open.spotify.com/track/2tymuyImEjfqVCearVpYCf) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 5:08 | 2023-11-28 | 2023-12-06 |

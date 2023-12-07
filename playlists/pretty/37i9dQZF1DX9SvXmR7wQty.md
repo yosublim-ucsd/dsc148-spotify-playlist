@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Etienne Dufresne
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,354 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,367 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deux visages](https://open.spotify.com/track/6K1Hq4PNJrVJ81xZjXFLIb) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Deux visages](https://open.spotify.com/album/066VZ3EJNpo9FLiIZLaiZK) | 2:28 |
-| 2 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 |
+| 2 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 |
 | 3 | [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 |
 | 4 | [TANNANCE](https://open.spotify.com/track/2p74T4FWsclCtwapawzKns) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/6fIKBMQsifEPji0NkpoLml) | [438](https://open.spotify.com/album/3r1jlLQDGr9fcc0VVC2NT2) | 4:00 |
 | 5 | [Liaison toxique](https://open.spotify.com/track/2ty8WQ2JfPRvZEfgi68ltm) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Liaison toxique](https://open.spotify.com/album/3udeCmESR4MZ4F3AxRZySv) | 2:56 |
-| 6 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 6 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 |
 | 7 | [lettre à maman](https://open.spotify.com/track/5dsvNYZiUOYoZWmmtWhOdw) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 2:36 |
-| 8 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 |
+| 8 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
 | 9 | [Akrapo 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Akrapo 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 |
-| 10 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
+| 10 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 |
 | 11 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 |
-| 12 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 |
+| 12 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
 | 13 | [Pas la peine](https://open.spotify.com/track/4rjS2xJ4ky6S9unMoNfujB) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Pas la peine](https://open.spotify.com/album/52iK7td3lEXJehzbQokb6t) | 2:47 |
-| 14 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
+| 14 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
 | 15 | [Ça Parait](https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Ça Parait](https://open.spotify.com/album/65WegECCKRFE8PaRLlTWzZ) | 2:21 |
 | 16 | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn) | 3:38 |
 | 17 | [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 |
 | 50 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 |
 
-Snapshot ID: `MCxmNjdiYTY4NzhkOWIyOTExOTgxMGMzZTVlYWYxYjI4MTk2NzJjNTM5`
+Snapshot ID: `MCxjNmM0ZWEzOTcwOTA2MDUzOTY1MThiM2FjZWJhY2I4OGRjMjI1MGVk`

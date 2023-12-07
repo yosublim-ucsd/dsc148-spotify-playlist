@@ -4,12 +4,13 @@
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-899 songs - 1 day 16 hr 47 min
+903 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(i hope you\) miss me](https://open.spotify.com/track/1Zv2jT7iZu98Feqpzhn0nd) | [Joseph Black](https://open.spotify.com/artist/7sPFCTilT1dZsqcDXzOiQf) | [\(i hope you\) miss me](https://open.spotify.com/album/2FSsUu3vgMkoffjHBSdk1r) | 2:39 | 2021-01-15 | 2021-04-24 |
 | [...And To Those I Love, Thanks For Sticking Around](https://open.spotify.com/track/23GLgk0r6rKVCic7cCFArg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [STOP STARING AT THE SHADOWS](https://open.spotify.com/album/2yopGJJSiA6ZDpw9IsGXTA) | 2:48 | 2021-01-15 | 2022-03-19 |
+| [0verd0se](https://open.spotify.com/track/5r4eesBDOsXbCKPYtDdTbX) | [Ders](https://open.spotify.com/artist/54JOWWtkyXlCZcpLiB9o5Y) | [0verd0se](https://open.spotify.com/album/2b1q67i2DVElGyIqBEZypg) | 1:52 | 2023-12-06 |  |
 | [1.28.19](https://open.spotify.com/track/0Wjczjn4UW1DBl0Hzt9bkx) | [Chynna](https://open.spotify.com/artist/41TSOINjztNAFtwuGenWVA) | [drug opera](https://open.spotify.com/album/7huwRfNMhKPpjIX6xyUZUk) | 3:44 | 2021-10-12 | 2021-10-13 |
 | [2 Late](https://open.spotify.com/track/0MeBjjKz6MeXZczG6yoQbO) | [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [2 Late](https://open.spotify.com/album/4LGEU7vdGCH8fDNmPz8R2W) | 2:54 | 2021-03-06 | 2021-03-17 |
 | [2 soon](https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [2 soon](https://open.spotify.com/album/5TfGMgtbj2pU60Hk7DT5Yb) | 3:26 | 2020-12-13\* | 2022-04-21 |
@@ -144,6 +145,7 @@
 | [Colorado](https://open.spotify.com/track/3DbBgbnDUOml329rAp2Tbr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Colorado](https://open.spotify.com/album/7DWz0zPWRlCDt5H4OoG5mN) | 3:26 | 2021-10-23 | 2021-10-30 |
 | [Colorado](https://open.spotify.com/track/4FGl5XDCrkbS4KcvpTIiKK) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Nosebleed](https://open.spotify.com/album/6HmLXytMJEDHb7lOBHdwpF) | 2:53 | 2020-12-13\* | 2021-01-15 |
 | [Comatose](https://open.spotify.com/track/1FIv5SzIBWmCF5Xmt8N6BD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Comatose](https://open.spotify.com/album/1BRmCZVJYcpgycNHMmTTAS) | 2:35 | 2021-02-22 | 2021-04-30 |
+| [COMATOSE](https://open.spotify.com/track/2wrtf6AnGp0ysv8w5vi2ei) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [COMATOSE](https://open.spotify.com/album/6BcAcmEItC72RQupMu6qgy) | 2:08 | 2023-12-06 |  |
 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/7y7w4tl4MaRC2UMEj1mPtr) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 3:25 | 2021-01-15 | 2021-06-19 |
 | [come back](https://open.spotify.com/track/6efdzU3R68skVEHDJONh8p) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [come back](https://open.spotify.com/album/1DTfxdZRDVNXgnQG5IfuLc) | 2:33 | 2021-04-01 | 2023-05-24 |
 | [Coming Off \(w/ Brevin Kim\)](https://open.spotify.com/track/5VVwf9cFRB54BwuRTTUzk5) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Coming Off \(w/ Brevin Kim\)](https://open.spotify.com/album/2nS3UeRJjodBMCufr2u3DX) | 2:09 | 2022-03-11 | 2022-07-20 |
@@ -713,6 +715,7 @@
 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-03-18 | 2022-10-29 |
 | [sore loser](https://open.spotify.com/track/33mbdEEA0qKlnxIqaFoA2E) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [sore loser](https://open.spotify.com/album/3MssafQpcExrcVczelFxys) | 2:53 | 2022-04-01 | 2022-04-11 |
 | [Sore Loser](https://open.spotify.com/track/79bRKSHvXihtxJGOf2zgf6) | [ripmattblack](https://open.spotify.com/artist/3ehhDHrrR3jtqSVJA52cRP) | [Sore Loser](https://open.spotify.com/album/664HuZ0473eWzAJL5peYm6) | 2:42 | 2021-01-15 | 2021-01-30 |
+| [Sorry](https://open.spotify.com/track/3RwPhgCYVi3qXQieYvO2V6) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Sorry](https://open.spotify.com/album/7iELbh8MEDcTvv7ukeQxFh) | 2:44 | 2023-12-06 |  |
 | [sorry! \(feat\. 24kGoldn\)](https://open.spotify.com/track/7LgNtm2LJiSWl2St8nhZNr) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [sorry! \(feat\. 24kGoldn\)](https://open.spotify.com/album/0ORQYAKYYNdY99jm5QqWNl) | 2:39 | 2020-12-18 | 2021-02-19 |
 | [sound off](https://open.spotify.com/track/5nCWUq99mmY6yMzcxSBU1o) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [sound off](https://open.spotify.com/album/78fvUggdmI7wpbma4KhqVo) | 1:39 | 2021-01-23 | 2022-04-23 |
 | [sour patch kids](https://open.spotify.com/track/6yh7MJqg3FsQo4F6yGQshq) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [marcus, why's your name toast??](https://open.spotify.com/album/47avJnjBFK4Ee9WSKLTrcI) | 2:30 | 2022-03-18 | 2022-04-14 |
@@ -888,6 +891,7 @@
 | [would you be my baby](https://open.spotify.com/track/0s1jF1PHS9oQ1rHSYg90XB) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/36s99vXNlumFqVrvqmidCl) | 1:13 | 2022-07-22 | 2022-10-20 |
 | [would you be my baby](https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki) | 1:13 | 2022-10-07 | 2023-07-21 |
 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 | 2023-04-07 |  |
+| [wtf im crying](https://open.spotify.com/track/3ZXBdyYdFR0bDi6PbiHr6c) | [fwsatoru](https://open.spotify.com/artist/2WE0ecRE2lFCe7fYlg5INP) | [wtf im crying](https://open.spotify.com/album/2tRdy4s544KL6e74kN0cYy) | 2:34 | 2023-12-06 |  |
 | [X's & O's](https://open.spotify.com/track/6gvkUTWdh9vmuqrwCb6gRr) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [X's & O's](https://open.spotify.com/album/5vHMAPEMBJhR4gphpKNvbC) | 2:03 | 2023-12-05 |  |
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2022-07-22 | 2023-01-28 |
 | [YELLOW NOISE](https://open.spotify.com/track/41oClmFa1qJUCON9DD4SBg) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:46 | 2023-10-13 |  |

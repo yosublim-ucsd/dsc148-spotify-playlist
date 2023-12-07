@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,335 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,411 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Au suivant](https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Au suivant](https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7) | 3:19 |
-| 2 | [Luva](https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Luva](https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN) | 2:56 |
+| 2 | [LUVA](https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Luva](https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN) | 2:56 |
 | 3 | [Chill \(feat\. Lisandro Cuxi\)](https://open.spotify.com/track/2iU2zIwf1swwLUTMLkb5NN) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [era 24](https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL) | 2:55 |
 | 4 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
 | 5 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Oublie ton ex](https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Oublie ton ex](https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl) | 2:32 |
 | 40 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 |
 
-Snapshot ID: `MCwyZWMxNThhMTA2ZTIzZTQ0YzI5MmY4N2FkMGRjNGZhZTdkNjgzNDUw`
+Snapshot ID: `MCw4YjA0NzQ0NmI3MjllMjdkMjI5NTQzMWVjZjNlM2MyMTI3MzIxNTBm`

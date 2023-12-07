@@ -2,7 +2,7 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
+> Check out the latest hits from Sandalwood!<br/>Cover : Kaatera
 
 972 songs - 2 day 11 hr 54 min
 

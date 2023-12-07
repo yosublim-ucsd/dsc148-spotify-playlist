@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 
 > Indian Indie songs we loved the most in 2023\. Cover \- Mitraz \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,693 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,782 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 49 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 |
 | 50 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 |
 
-Snapshot ID: `MCw3MzY5ZGQ2NjBkMmJmZWU5MWY5NGIxODM5OTI4YWRkMzMwOTQxYWM0`
+Snapshot ID: `MCxiYTRjZGViYjE5MGIwY2Y1ZWRiYmMwNTlkNzQ0YjU2NzMzOWQzMDlh`

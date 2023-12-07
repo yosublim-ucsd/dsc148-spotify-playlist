@@ -8941,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60930,
+      "name": "Lake House",
+      "url": "https://open.spotify.com/track/6iK93LMYzC6Y0eXcw2eDY6"
+    },
+    {
+      "album": {
         "name": "Lakeside Glow",
         "url": "https://open.spotify.com/album/1TtRW8NpfHl3xBAXVwlcpC"
       },

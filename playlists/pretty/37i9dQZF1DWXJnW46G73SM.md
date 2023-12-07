@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,051 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,160 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [مهيبرين](https://open.spotify.com/track/1QHglFYlFySKRrR04B9IJM) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [أولاد حريم كريم \(أغاني الفيلم\)](https://open.spotify.com/album/6Lnc9Yc3dWv0BKhCsb1xRN) | 2:45 |
 | 75 | [Akeed Rag3een](https://open.spotify.com/track/57rKoQpUb3WBqYLsrGv7Hq) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Akeed Rag3een](https://open.spotify.com/album/1aGnFCLksB3cDWpkd6c6Wp) | 2:27 |
 
-Snapshot ID: `MCxmZGUyODVjNDUzMzAxNzI5MzBmZjMwYzhhNzNiOWU0MjM4OTc1MWFm`
+Snapshot ID: `MCxiM2Q5YmQzOWIwZjhkYmEyY2M0OWE3YzEyMDY1YzI3YWU5NTIyMmYz`

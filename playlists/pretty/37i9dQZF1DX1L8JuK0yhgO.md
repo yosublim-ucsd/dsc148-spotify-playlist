@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,290 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,295 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [demigod chan](https://open.spotify.com/track/15c3MaKtAZ6NsYECSH0UrK) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [demigod chan](https://open.spotify.com/album/4oMTCCsF18RzDc9L5wgg7p) | 2:31 |
 | 60 | [Christmas Song \(Version II\)](https://open.spotify.com/track/5jGtK8nKWb7EZoWndPWUTz) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Christmas Song \(Version II\)](https://open.spotify.com/album/4TeEgeJ8h2Byt1IiG7sBxA) | 3:06 |
 
-Snapshot ID: `MCw0Yjk1ZDJkZDc0NTE5MmY0NjE3MWNmNzZmY2Y3NTk2MzBmMjk2OTQ5`
+Snapshot ID: `MCxiMzU0NjQ0Mjc2N2ExNzBjOWUzMmJmYThhNDg4NGQyNGQwYThhMTY5`

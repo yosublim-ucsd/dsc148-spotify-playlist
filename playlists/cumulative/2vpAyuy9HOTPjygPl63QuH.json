@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 173343,
       "name": "Ain't U",
       "url": "https://open.spotify.com/track/1s6i4bzxzGLYqZkgEx8LmA"
@@ -6451,6 +6451,24 @@
     },
     {
       "album": {
+        "name": "Do For\u00e7a",
+        "url": "https://open.spotify.com/album/1zljvPZiE2W7f2zCx5Qgm4"
+      },
+      "artists": [
+        {
+          "name": "DYSLOYAL",
+          "url": "https://open.spotify.com/artist/4Nd0iuDHi8BNYsdXQR6DrT"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196386,
+      "name": "Do For\u00e7a",
+      "url": "https://open.spotify.com/track/6vvHVzlCx5Rc5Z1G6bBFbT"
+    },
+    {
+      "album": {
         "name": "Maldades",
         "url": "https://open.spotify.com/album/5uAzH6sE61O90Sul8421QN"
       },
@@ -8528,6 +8546,24 @@
       "duration_ms": 182768,
       "name": "Faith",
       "url": "https://open.spotify.com/track/57dugDhkdfcCCaNlXbrKz3"
+    },
+    {
+      "album": {
+        "name": "Fake Friends EP",
+        "url": "https://open.spotify.com/album/4WoOY9sfnMLRGnkUrpuodZ"
+      },
+      "artists": [
+        {
+          "name": "MYMA",
+          "url": "https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291493,
+      "name": "Fake Friends - Original Mix",
+      "url": "https://open.spotify.com/track/0MWG5fcxHHAYYQ8TEXmkqL"
     },
     {
       "album": {

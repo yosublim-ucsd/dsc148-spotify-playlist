@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-742 songs - 1 day 7 hr 10 min
+743 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Haven](https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Haven](https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7) | 2:45 | 2022-05-27 |  |
 | [Heart in Hand](https://open.spotify.com/track/0huKJwIKDcpnZdlkYUYni9) | [Dakota Fields](https://open.spotify.com/artist/6CtFcUv9Kdu58sdYbCAt8g) | [Heart in Hand](https://open.spotify.com/album/5AvAyomaixNB3mRbdWyGti) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-05-27 | 2023-05-04 |
-| [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-05-27 |  |
+| [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-05-27 | 2023-12-07 |
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-05-27 | 2023-12-05 |
 | [Heather's Croft](https://open.spotify.com/track/1ZDPKU4OiLJoej4IFqOyHP) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Heather's Croft](https://open.spotify.com/album/74RBkn33VQFUsY4SDUqoE0) | 2:57 | 2022-05-27 | 2023-11-27 |
 | [Helgafell](https://open.spotify.com/track/1uLAimb1FsPL3K5n5f81SN) | [Agnes Ross](https://open.spotify.com/artist/6n0EoqtgCg1IHEMaU6J1ML) | [Hekla](https://open.spotify.com/album/7byhTf36ViyuDqCYmf4woy) | 2:23 | 2022-05-27 | 2022-09-24 |
@@ -419,6 +419,7 @@
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2022-05-27 | 2023-01-21 |
 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 | 2022-05-27 | 2023-05-10 |
 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 | 2022-05-27 | 2022-08-10 |
+| [Morning Light](https://open.spotify.com/track/4nvNKhhm7aQEY6CpuQR8RK) | [Javid Pradhan](https://open.spotify.com/artist/7FCmCqJLBtHbXZmqvp6bzx) | [Morning Light](https://open.spotify.com/album/7LebSSiEhtmusFr6U7oOwd) | 2:18 | 2023-11-28 |  |
 | [Motionless](https://open.spotify.com/track/0QhJamJALUpi2kj5twPHES) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Motionless](https://open.spotify.com/album/4hcfIDmt8TW14oy1MQpEyL) | 2:44 | 2022-05-27 | 2022-09-24 |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-05-27 | 2023-05-10 |
 | [Murasaki No Yume](https://open.spotify.com/track/5hiuOPmW0LBilvTFParX3V) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Murasaki No Yume](https://open.spotify.com/album/2JSfaNSxtVVplSGGNE6Dj4) | 2:12 | 2023-01-20 | 2023-03-28 |

@@ -912,7 +912,7 @@
     {
       "album": {
         "name": "ENDLESS UNIVERSE",
-        "url": "https://open.spotify.com/album/5qYUor2QBiTcRJJmDgivX9"
+        "url": "https://open.spotify.com/album/1CuiJwRwtWI9k67Xli2YJQ"
       },
       "artists": [
         {
@@ -927,6 +927,28 @@
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172455,
+      "name": "ENDLESS UNIVERSE",
+      "url": "https://open.spotify.com/track/2h7irVFGag3FMI1XU182bQ"
+    },
+    {
+      "album": {
+        "name": "ENDLESS UNIVERSE",
+        "url": "https://open.spotify.com/album/5qYUor2QBiTcRJJmDgivX9"
+      },
+      "artists": [
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "QUXNTUM",
+          "url": "https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-07",
       "duration_ms": 172455,
       "name": "ENDLESS UNIVERSE",
       "url": "https://open.spotify.com/track/547me0XjHDVwhmUyj4g1rL"
@@ -2228,6 +2250,24 @@
     {
       "album": {
         "name": "Next Day Was Yesterday",
+        "url": "https://open.spotify.com/album/33eCGntZUPDW5Sa7OK804R"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Next Day Was Yesterday",
+      "url": "https://open.spotify.com/track/1fsKkXFu9AKvKDQFKrzz6p"
+    },
+    {
+      "album": {
+        "name": "Next Day Was Yesterday",
         "url": "https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ"
       },
       "artists": [
@@ -2238,7 +2278,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 172800,
       "name": "Next Day Was Yesterday",
       "url": "https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl"

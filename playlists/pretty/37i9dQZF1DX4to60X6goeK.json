@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 52005,
+  "num_followers": 52051,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjVkZTlkNTZjZDU0OGUzODI3Y2RjNDkwZjBlOWNhNjYyYWZiOTU2",
+  "snapshot_id": "MCwzNmRiZDFkZWVkZDFlMTFlMGMyYWM2MzcwZDNjMGUzYmNhNzNhYzk2",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Back To Normal",
+        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 268939,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Step It Up / Lights",
         "url": "https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 270312,
       "name": "Step It Up",
       "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Back To Normal",
-        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 268939,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX"
     },
     {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "High Roller",
-        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "High Roller",
-      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Too Lazy",
@@ -1103,6 +1087,22 @@
       "duration_ms": 234482,
       "name": "Too Lazy",
       "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
     }
   ],
   "unique_name": "Jump Up!",

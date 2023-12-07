@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,418 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,493 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 32 | [Sacré français](https://open.spotify.com/track/4wjj2eNX7iELAhCh4X40Dj) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Yellow Productions: 20 Years of Music](https://open.spotify.com/album/1VOyqL5y9mvfiWh8Gk1Ty5) | 4:54 |
 | 33 | [Que Sera](https://open.spotify.com/track/6TSDRzJGwbK9cajVbtqlPV) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [Tales of the Forgotten Melodies](https://open.spotify.com/album/15fB97DqVW1K7Jy1vpkYRZ) | 2:44 |
 | 34 | [Fallin' in love](https://open.spotify.com/track/5yBiLaIDL1pwwNli16MGka) | [Shazz](https://open.spotify.com/artist/3WXF9fqBHmKBirvFxGDvCe), [Alec.C](https://open.spotify.com/artist/0gXUvA4KDtIsJBSA1MQWQM) | [In The Light](https://open.spotify.com/album/4qwOZy8ImMsBk8Z3MZ8Mja) | 5:12 |
-| 35 | [Smile \(Vocal Mix\)](https://open.spotify.com/track/7p72H4ZpKTjcMBRbdT6vYr) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(Vocal Mix\)](https://open.spotify.com/album/2O9bUYQmg5qFq3S92w3CNs) | 3:27 |
+| 35 | [Smile \- Vocal Mix](https://open.spotify.com/track/5YnZcAcJ4ES4qFOOmk1mbi) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [Smile \(Vocal Mix\)](https://open.spotify.com/album/1l6IawD5t3FmxKYwJiUC3D) | 3:27 |
 | 36 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
 | 37 | [Look](https://open.spotify.com/track/0GVQb2UqgxEUrXidPgklFj) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 4:34 |
 | 38 | [Adore](https://open.spotify.com/track/5z44PxNBSF4Bd50jE5K6Mb) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 7:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [The Sound of Violence](https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Au Rêve \(Deluxe Edition\)](https://open.spotify.com/album/5At8zb3djitRXkrKQ8Wo97) | 7:13 |
 | 50 | [Cut Dick](https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
 
-Snapshot ID: `MCwxNTUyZDljYWMyOTk2ZDE2NTk5YzkxMDE4OGZhMmY1OWRjMTRjY2U4`
+Snapshot ID: `MCw0ODg1NzhhODY0NGNmMjhlYTNiMjgwMjA5YTJkNzhlMDA2NDZkNjBm`

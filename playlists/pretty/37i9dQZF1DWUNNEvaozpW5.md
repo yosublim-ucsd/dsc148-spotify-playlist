@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,875 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,986 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 |
 | 100 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 
-Snapshot ID: `MCw3MWVjYWZlYjhhMDhhMWQyNmJkNDcyOWJlMjYzMGNkZjBiYjRiYmVm`
+Snapshot ID: `MCw0MGE0Mjc5OGU0ZDdmZmM0NGQ2NjY5MTI0MTQwN2YzYzExYTUyY2M0`

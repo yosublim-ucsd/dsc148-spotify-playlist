@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-227 songs - 13 hr 38 min
+228 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 | 2022-08-31 | 2023-09-09 |
 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 | 2022-09-29 | 2023-02-28 |
 | [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-09-21 | 2022-11-19 |
+| [Call Me](https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB) | [Sviral.](https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE) | [Call Me](https://open.spotify.com/album/5UpWqT6j0EeQW6kM4WlG4N) | 3:00 | 2023-11-29 |  |
 | [chirpy](https://open.spotify.com/track/5jfBd1oYuymK7up1MjGXO1) | [moiisen](https://open.spotify.com/artist/3hqnzcYaIVnVjWDsLZJSfg) | [chirpy](https://open.spotify.com/album/28ZnlCVeK3WZYa4jNLNQuM) | 1:39 | 2022-08-31 | 2022-10-09 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2019-12-16 | 2022-09-01 |
 | [Clarity](https://open.spotify.com/track/3sXg02TJKMIqftRD82EnS7) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Clarity](https://open.spotify.com/album/3zAjBfnsAyNM3bjA54Cqv7) | 6:23 | 2019-12-16 | 2022-07-29 |
@@ -185,7 +186,7 @@
 | [So Long, Lonesome](https://open.spotify.com/track/5veFQvY6ooJ0rzjxO9cAkW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/7LNOp3ZlUVM32K3bBczUux) | 3:40 | 2019-12-16 | 2022-07-29 |
 | [So Long, Lonesome](https://open.spotify.com/track/74wvfHTVIQaBQ1KWRQaLWx) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/2BkhGv48TtChjKBwkC67eo) | 3:40 | 2019-12-16 | 2022-09-01 |
 | [Solas](https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Solas](https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF) | 2:26 | 2023-09-08 |  |
-| [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 | 2023-09-08 |  |
+| [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 | 2023-09-08 | 2023-12-07 |
 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 | 2019-12-16 | 2022-09-01 |
 | [spirit lead me where my trust is without borders](https://open.spotify.com/track/4oWyUeTIwhPvnVBF3FKwuM) | [Raspo](https://open.spotify.com/artist/1UkHuDUhU5Ik4cNH6F4XUq) | [spirit lead me where my trust is without borders](https://open.spotify.com/album/4IQ1hX5LSdOG4rnjozzZ7v) | 2:08 | 2022-08-31 | 2022-09-03 |
 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 | 2022-09-02 | 2023-09-09 |

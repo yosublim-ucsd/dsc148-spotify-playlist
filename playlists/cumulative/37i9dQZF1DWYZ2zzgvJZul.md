@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Los Bunkers
 
-253 songs - 15 hr 31 min
+254 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Vamos a destruir](https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a destruir](https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV) | 3:41 | 2023-11-21 |  |
 | [Velur](https://open.spotify.com/track/605QBjMSUyvXD5DKgjm8dT) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Velur](https://open.spotify.com/album/1DpzoHSXLnTEXiUEeM5K0E) | 4:09 | 2021-12-07 | 2022-09-06 |
 | [Venados Que Empujan el Sol](https://open.spotify.com/track/2rQ8b8VHjtPQYkSGkef4cL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Venus](https://open.spotify.com/album/3a2JFR914ksbxF42fGzNs5) | 3:29 | 2022-09-05 |  |
-| [VENENO](https://open.spotify.com/track/0DNoRxCysDLV6z4UgaLso2) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [VENENO](https://open.spotify.com/album/5uyVBqMyaoVHy9M8PvOnJ7) | 3:38 | 2023-09-04 |  |
+| [VENENO](https://open.spotify.com/track/1ijiOk6sEfDLLh1bWYLkk8) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [VENENO](https://open.spotify.com/album/24tpJBhXjecNBqKHVpwp3E) | 3:32 | 2023-11-21 |  |
+| [VENENO](https://open.spotify.com/track/0DNoRxCysDLV6z4UgaLso2) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [VENENO](https://open.spotify.com/album/5uyVBqMyaoVHy9M8PvOnJ7) | 3:38 | 2023-09-04 | 2023-12-07 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2021-12-07 | 2022-09-06 |
 | [VENGO POR TI \- Bonus Track](https://open.spotify.com/track/7fY3hMKsiUSCAoCqdeL6N7) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [VENGO POR TI \(Bonus Track\)](https://open.spotify.com/album/0apH6KwCYJ1P2ep78TSBtM) | 2:45 | 2023-09-04 | 2023-09-30 |
 | [Viaje de Transformación](https://open.spotify.com/track/7djYOIhFHb53qGaYo3zHhS) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Viaje de Transformación](https://open.spotify.com/album/7cFb6mKSwuJgTRHvgBdi9f) | 5:03 | 2022-07-01 | 2022-09-06 |

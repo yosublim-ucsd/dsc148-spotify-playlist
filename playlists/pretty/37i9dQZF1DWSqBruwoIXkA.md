@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,671,491 likes - 150 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,672,225 likes - 150 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [At Your Worst](https://open.spotify.com/track/2k8qzTJTHY1m3osbMtayIy) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:58 |
 | 150 | [Change Your Mind](https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Change Your Mind](https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM) | 2:54 |
 
-Snapshot ID: `MCw4NzcwYTdmZmNkZmVlZTg0ZDc5YjQ4OWZlODQ4ZDA3MTRhYjliOTc1`
+Snapshot ID: `MCxjOGFhM2ExZWI0MTRkOWU3YzcyNmE5NWFkYjhiMjY0ZjEyN2M5NDli`

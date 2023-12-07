@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-292 songs - 16 hr 27 min
+293 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Beautiful](https://open.spotify.com/track/6ZfBdeyXWs5E3hpdL0WhzW) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:01 | 2022-05-11 | 2022-06-22 |
 | [Beginning](https://open.spotify.com/track/5jlv8wYYeoyh6tP1idp97O) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [THE LOVE OF AUTUMN](https://open.spotify.com/album/53yqKBW2t1Istf4yVxgxW5) | 3:47 | 2022-04-12 | 2022-04-21 |
 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-04-12 | 2023-02-27 |
-| [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2022-04-21 |  |
+| [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2022-04-21 | 2023-12-07 |
 | [BEST FRIEND](https://open.spotify.com/track/1j0BU9IWKxfWKX0ajT2jBe) | [DUNK](https://open.spotify.com/artist/2MAFUSScUrgDSBlR9TRrKq) | [BEST FRIEND](https://open.spotify.com/album/0ZJdSkSum5efhLKm8QUKZa) | 3:09 | 2022-05-03 | 2022-05-12 |
 | [Between \(Feat\. misonyeon\)](https://open.spotify.com/track/0CUk6oeqz3iz2k2EdalPAd) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [Lilkey](https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4), [misonyeon](https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan) | [Between \(Feat\. misonyeon\)](https://open.spotify.com/album/4ITlR45BD2Q40PrSYaQChm) | 3:24 | 2023-10-29 | 2023-11-05 |
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-05-02 |  |
@@ -100,6 +100,7 @@
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d) | 3:25 | 2022-04-12 | 2022-07-29 |
 | [HELLO](https://open.spotify.com/track/6RFFcuwXQwmxF1djh4xTuH) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Ending Again Part.2](https://open.spotify.com/album/5ROgA3EIdkr1Rauyuklkhm) | 3:25 | 2022-04-12 | 2022-07-25 |
 | [Hello Tutorial](https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X) | 3:22 | 2022-06-20 | 2022-06-28 |
+| [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 |  |
 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-09-05 | 2023-08-08 |
 | [Home \(away from home\)](https://open.spotify.com/track/3XEeAlrVUxxS23NOJaF6CC) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [Home \(away from home\)](https://open.spotify.com/album/1O7cZLq8I2Aq2M1n603g10) | 4:48 | 2022-07-04 | 2022-07-09 |
 | [honest \(feat\. 16\)](https://open.spotify.com/track/4Z6goHBB4GVpVkDwSQypMI) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [honest](https://open.spotify.com/album/33elE8VZ5oU1zYgA1Tkejs) | 2:53 | 2023-11-04 | 2023-11-16 |

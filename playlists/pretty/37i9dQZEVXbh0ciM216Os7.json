@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNTY3ODAsMDAwMDAwMDA2MTA0Njk1OWFlNzZkZWQ2ZmQ4YTZkYTkwNWQwYzRlMA==",
+  "snapshot_id": "MjgzNTY3ODAsMDAwMDAwMDAzMjFlNGFjZGI5N2U4NGI0Y2I5OWFiMmVmMDE3ZWFkZQ==",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -215,30 +215,6 @@
       "duration_ms": 224693,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/0YODkdtR9nLeKV9DiTceKr"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Ornella",
-        "url": "https://open.spotify.com/album/6EU09JlL1i3zUd9N575vDr"
-      },
-      "artists": [
-        {
-          "name": "Zibernq",
-          "url": "https://open.spotify.com/artist/0LYw6AyFsPP6RRZGqQreVu"
-        },
-        {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 237355,
-      "name": "Ornella",
-      "url": "https://open.spotify.com/track/6Zu8U03iUq6AiilvzoguQf"
     },
     {
       "added_at": "2023-12-01 05:00:00",

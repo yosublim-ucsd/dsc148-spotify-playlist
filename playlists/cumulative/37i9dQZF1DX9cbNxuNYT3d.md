@@ -4,7 +4,7 @@
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-94 songs - 7 hr 45 min
+95 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 | 2022-07-10 |  |
 | [Smile \(feat\. Alex Gopher & Asher Roth\) \- Vocal Mix](https://open.spotify.com/track/4SpXkrjuPnyErjE504cnFE) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(feat\. Alex Gopher & Asher Roth\) \[Vocal Mix\]](https://open.spotify.com/album/2cjuifDt6OjHxPj3NINWje) | 3:26 | 2022-01-11 | 2022-07-29 |
 | [Smile \(Vocal Mix\)](https://open.spotify.com/track/4D8d9UJPgCI3Qgliratgt7) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile](https://open.spotify.com/album/5sFTXfQecW8nbnsaEKrc6e) | 3:27 | 2022-09-02 | 2022-11-13 |
-| [Smile \(Vocal Mix\)](https://open.spotify.com/track/7p72H4ZpKTjcMBRbdT6vYr) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(Vocal Mix\)](https://open.spotify.com/album/2O9bUYQmg5qFq3S92w3CNs) | 3:27 | 2022-07-10 |  |
+| [Smile \(Vocal Mix\)](https://open.spotify.com/track/7p72H4ZpKTjcMBRbdT6vYr) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(Vocal Mix\)](https://open.spotify.com/album/2O9bUYQmg5qFq3S92w3CNs) | 3:27 | 2022-07-10 | 2023-12-07 |
+| [Smile \- Vocal Mix](https://open.spotify.com/track/5YnZcAcJ4ES4qFOOmk1mbi) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [Smile \(Vocal Mix\)](https://open.spotify.com/album/1l6IawD5t3FmxKYwJiUC3D) | 3:27 | 2023-10-16 |  |
 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 | 2022-01-11 |  |
 | [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2023-05-11 | 2023-08-26 |
 | [The Child \- Radio Edit](https://open.spotify.com/track/137Ve8N4t05BGoL1JiObsi) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [The Child](https://open.spotify.com/album/5xSSe8xbmsaTbcTbVul1Mq) | 3:40 | 2022-01-11 |  |

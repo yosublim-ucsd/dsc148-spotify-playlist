@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,508 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,505 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 62 | [It Must Be Love](https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Complete Bill Evans On Verve](https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU) | 3:57 |
 | 63 | [I Believe In You](https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 2:58 |
 | 64 | [Cadência](https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs) | [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Caio Marcio Santos](https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184) | [Cadência Verde e Amarela](https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av) | 3:57 |
-| 65 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 |
-| 66 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
+| 65 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
+| 66 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 |
 | 67 | [Take a Giant Step](https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:47 |
 | 68 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
 | 69 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 72 | [April Come She Will](https://open.spotify.com/track/3onycGcXENXzRke49yNQvI) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 3:14 |
 | 73 | [You're The Top](https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:39 |
 | 74 | [My Shining Hour](https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:13 |
-| 75 | [Avril au Portugal](https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:54 |
-| 76 | [Bye Bye Blackbird](https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 5:10 |
+| 75 | [Bye Bye Blackbird](https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 5:10 |
+| 76 | [Avril au Portugal](https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:54 |
 | 77 | [Only Love Can Break Your Heart \- Live](https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:04 |
 | 78 | [Holland](https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 8:46 |
 | 79 | [I Can't Be Bothered Now](https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Comes Love](https://open.spotify.com/track/6KPzkbirCRJJdgRHFM9ozt) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [We've Just Begun](https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh) | 6:41 |
 | 100 | [Westinghouse](https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:36 |
 
-Snapshot ID: `MCw0ZTM0YjVkN2IzYzkzOTFlZjkyYTkwM2Q3YmE1M2ZhMmZiZmMzMmQ0`
+Snapshot ID: `MCxkZjMwNDIzN2IxNjA2YjI0NTY1OTA1Yzg4YzExN2ZlYjFjYWRlODVm`

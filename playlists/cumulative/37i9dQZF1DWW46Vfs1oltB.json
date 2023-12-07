@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: kitsyoji(\ud0a4\uce20\uc694\uc9c0))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: hyeminsong)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -1684,6 +1684,36 @@
       "duration_ms": 242407,
       "name": "Back In The Day (HipHop Version) Feat. Don Malik, Paloalto",
       "url": "https://open.spotify.com/track/5MEVEzmCN567LPdQSl6KM0"
+    },
+    {
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/3VhweYBjsf9InPl29h78qf"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "\ub2e4\ubbfc\uc774",
+          "url": "https://open.spotify.com/artist/6ZFZyav5aVSrkeDXF5h5is"
+        },
+        {
+          "name": "\ucd5c\uc5d8\ube44 (CHOILB)",
+          "url": "https://open.spotify.com/artist/7MuXzcJDAcJS2S6iUMYTrv"
+        },
+        {
+          "name": "DJ Redef",
+          "url": "https://open.spotify.com/artist/5MS2TWs3zzwrdpE3WNDC4v"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Backcasting (ft. DAMINI, CHOILB, DJ Redef)",
+      "url": "https://open.spotify.com/track/2OV51RConNIt55sFEr274c"
     },
     {
       "album": {
@@ -7883,6 +7913,32 @@
     },
     {
       "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/3VhweYBjsf9InPl29h78qf"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        },
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "Gold (ft. DUT2, DON MALIK)",
+      "url": "https://open.spotify.com/track/08Z8hKRmQHJjDYt1wk0z0t"
+    },
+    {
+      "album": {
         "name": "Re: Tired.",
         "url": "https://open.spotify.com/album/0qR9lMfsaunrGQNaIm6l2K"
       },
@@ -8114,6 +8170,36 @@
       "duration_ms": 188484,
       "name": "Goodbyes & Hellos (Feat. NO:EL)",
       "url": "https://open.spotify.com/track/68uYaZ15mIRQqA0nUAEoKq"
+    },
+    {
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/3VhweYBjsf9InPl29h78qf"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "\uadf8\ub0e5\ub178\ucc3d",
+          "url": "https://open.spotify.com/artist/7hRgLHQarkYdhYexNcnsRy"
+        },
+        {
+          "name": "\ub109\uc0b4",
+          "url": "https://open.spotify.com/artist/3YA0myiDNVqejcqCKsifqB"
+        },
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "Goodnight Goodnight (ft. Nochang, Nucksal, Khundi Panda)",
+      "url": "https://open.spotify.com/track/3famPhKrbyf9n3y8rjtAJN"
     },
     {
       "album": {
@@ -15785,6 +15871,28 @@
     },
     {
       "album": {
+        "name": "23'F/W",
+        "url": "https://open.spotify.com/album/6UtcxHBH0FxoDpQvLTjb0B"
+      },
+      "artists": [
+        {
+          "name": "NO:EL",
+          "url": "https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV"
+        },
+        {
+          "name": "Yescoba",
+          "url": "https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Pain Killer (Feat. Yescoba)",
+      "url": "https://open.spotify.com/track/06mCZ4MzkeYvCSr1ZOhIJb"
+    },
+    {
+      "album": {
         "name": "ch :P aradise",
         "url": "https://open.spotify.com/album/6OaGjU88ks32JtMomuQkcO"
       },
@@ -22288,6 +22396,28 @@
       "duration_ms": 293693,
       "name": "WE REMIX (Feat. Paloalto, Nucksal, CRUCiAL STAR, Khundi Panda, SUPERBEE, Juvie Train, KAMBO, FANA, QM)",
       "url": "https://open.spotify.com/track/4WH7S3vy5HYy0Pif8XAu0C"
+    },
+    {
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/3VhweYBjsf9InPl29h78qf"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270120,
+      "name": "Wedding Dress (ft. JUSTHIS)",
+      "url": "https://open.spotify.com/track/48SGKQvAKgHGFUsyeYKvX8"
     },
     {
       "album": {

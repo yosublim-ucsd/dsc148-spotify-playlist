@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abracadabra](https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Abracadabra](https://open.spotify.com/album/74Dy1dquFmryKSxtw8mlKY) | 2:49 | 2023-11-17 |  |
+| [ABRACADABRA](https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [ABRACADABRA](https://open.spotify.com/album/74Dy1dquFmryKSxtw8mlKY) | 2:49 | 2023-11-17 |  |
 | [Act Like You Know](https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Act Like You Know](https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj) | 3:48 | 2022-12-02 | 2023-08-14 |
 | [Active](https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Active](https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi) | 2:30 | 2021-11-19 |  |
 | [All of Me \(feat\. Logic, ROZES\)](https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Brighter Future](https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA) | 3:48 | 2022-02-01 |  |

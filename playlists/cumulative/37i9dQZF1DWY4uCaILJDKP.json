@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Oshikura Manju",
+        "url": "https://open.spotify.com/album/7qcG7I5047rIYsaYW7b9Zw"
+      },
+      "artists": [
+        {
+          "name": "\u592a\u967d\u3068\u8e0a\u308c",
+          "url": "https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "Oshikura Manju",
+      "url": "https://open.spotify.com/track/4SnWLOSgeNDy6ezQ5E8Msi"
+    },
+    {
+      "album": {
         "name": "Towa",
         "url": "https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J"
       },
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 233080,
       "name": "\u63a8\u3057\u30af\u30e9\u307e\u3093\u3058\u3085\u3046",
       "url": "https://open.spotify.com/track/6QOEgrgWl0KCPl7Fx0B0S4"

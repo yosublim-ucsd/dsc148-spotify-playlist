@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from Africa this year\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,619 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,644 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 56 | [Sotra](https://open.spotify.com/track/4klj4BGqrBns8hN2FuE4Je) | [Soweto Tshepiso](https://open.spotify.com/artist/4qV6nvT5Qluy5eCoolLKFa), [Zhsian Versar](https://open.spotify.com/artist/5GwD0ydkPu7ksXHVneYNfW), [Naviflesh The President](https://open.spotify.com/artist/64O6cdevuP6I4REULph0IT) | [Bad DeeDs, gOOd iNTENTIONs.](https://open.spotify.com/album/5uKfucjZrfx0Nwx0CgmJNj) | 3:48 |
 | 57 | [IDLOZI LAMI](https://open.spotify.com/track/3jRpIs5Fz5N7H3QH43Vrs8) | [Uncle Vinny](https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Kailey Botman](https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey) | [YOUTH LEAGUE](https://open.spotify.com/album/3NzCJZKG2q5iB4r3cIMgAn) | 6:57 |
 | 58 | [Saati Ramoni](https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc) | [MUIS](https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy) | [Saati Ramoni](https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV) | 3:09 |
-| 59 | [Soja Man](https://open.spotify.com/track/4uPdyEbMNX0cUXEzKQdUAA) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/036ajUJZh0Rs1pG1qed1Tc) | 3:21 |
+| 59 | [Soja Man](https://open.spotify.com/track/7GIO22V1L4wUq23NUQyhQE) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/3beW8OdVYWIke4rpJiPTcH) | 3:21 |
 | 60 | [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 |
 
-Snapshot ID: `MCxiYjJiNGExYWJkZGVlZTM2N2MzMGFhODAzMWFkNjEzODZkY2YwMWY3`
+Snapshot ID: `MCxjY2M1NGQwMzhhZGEwYjk2OGI5MzcwNGY0MTBhMjM3MTA3YThmOWE4`

@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 234130,
       "name": "Fuck Em All",
       "url": "https://open.spotify.com/track/0Z2SFlnXH9yMN36djUeqyE"
@@ -2777,6 +2777,36 @@
     },
     {
       "album": {
+        "name": "Kaka",
+        "url": "https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Sudesh Kumari",
+          "url": "https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Kaka",
+      "url": "https://open.spotify.com/track/31JDOPIVK99SMS9gGSi8LY"
+    },
+    {
+      "album": {
         "name": "Kalakaar",
         "url": "https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx"
       },
@@ -3034,7 +3064,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 185454,
       "name": "LIFE GOES ON",
       "url": "https://open.spotify.com/track/7GQ8Q1FoqxM2kmPaJzLEmV"
@@ -4548,6 +4578,24 @@
       "duration_ms": 181333,
       "name": "Sher Jatt",
       "url": "https://open.spotify.com/track/5rhKSzzT9Y7yBGcdmU0j82"
+    },
+    {
+      "album": {
+        "name": "Shkeeni",
+        "url": "https://open.spotify.com/album/4BEpixmSWX6KvC1t0MZnG2"
+      },
+      "artists": [
+        {
+          "name": "Babbal Rai",
+          "url": "https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Shkeeni",
+      "url": "https://open.spotify.com/track/5gdC8ta2mYqeIKlhEJ7P4r"
     },
     {
       "album": {

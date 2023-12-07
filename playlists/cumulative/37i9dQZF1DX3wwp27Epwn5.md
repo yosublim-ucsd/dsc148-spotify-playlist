@@ -4,10 +4,11 @@
 
 > Bollywood tracks that helped you pump up in 2023 \#SpotifyWrapped Cover \- Sultan
 
-70 songs - 4 hr 19 min
+71 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aag Udi \(Victory Anthem\)](https://open.spotify.com/track/3Oakpz2AMbCok3MzYetBHB) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 2:01 | 2023-12-06 |  |
 | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN) | 3:32 | 2023-07-11 |  |
 | [Ainvayi Ainvayi](https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:27 | 2023-07-11 |  |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-22 | 2023-11-30 |
@@ -77,6 +78,6 @@
 | [Urvashi](https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Urvashi](https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso) | 3:35 | 2023-07-11 | 2023-11-30 |
 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 | 2023-07-11 |  |
 | [Zinda](https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 3:31 | 2023-07-11 |  |
-| [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE) | 4:24 | 2023-07-31 |  |
+| [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE) | 4:24 | 2023-07-31 | 2023-12-07 |
 
 \*This playlist was first scraped on 2023-07-25. Prior content cannot be recovered.

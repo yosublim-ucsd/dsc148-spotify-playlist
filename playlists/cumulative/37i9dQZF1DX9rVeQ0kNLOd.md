@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-242 songs - 14 hr 51 min
+243 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [celeste feat\. Haruno](https://open.spotify.com/track/4d7hOpie7ibdErat30AMuv) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [round trip](https://open.spotify.com/album/0FtqmB9RvzPiBApNH4MPrt) | 2:48 | 2022-12-15 | 2023-01-13 |
 | [celeste feat\. 春野](https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. 春野](https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct) | 2:47 | 2022-10-25 | 2022-10-27 |
 | [CHILL CHILL MICHELLE feat\. SUDA MASAKI](https://open.spotify.com/track/2JVOI4H7atEqOUVdmPZ4RA) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [CHILL CHILL MICHELLE feat\. SUDA MASAKI](https://open.spotify.com/album/4JOhow7VJUDmmdYWbjVvvC) | 4:23 | 2023-04-11 | 2023-06-07 |
+| [Clair de Lune](https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Clair de Lune](https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL) | 3:35 | 2023-12-05 |  |
 | [cloud](https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x) | [hyou](https://open.spotify.com/artist/5MKWIRBAlanbDXXUTGaCRT) | [cloud](https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA) | 3:52 | 2022-10-20 | 2023-02-01 |
 | [Conflict](https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Conflict](https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4) | 2:47 | 2023-01-12 |  |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2023-03-25 |  |
@@ -219,7 +220,7 @@
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-03-25 | 2023-04-19 |
 | [春泥棒](https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2023-03-25 | 2023-06-23 |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-25 | 2022-11-17 |
-| [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 |  |
+| [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 | 2023-12-05 | 2023-12-07 |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-10-12 |  |
 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 | 2023-11-28 |  |
 | [楽園](https://open.spotify.com/track/2MCYwlrzVgOF3mmhk9tZW8) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [楽園](https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP) | 3:54 | 2022-10-20 | 2022-10-26 |

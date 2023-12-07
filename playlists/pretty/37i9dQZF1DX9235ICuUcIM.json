@@ -1,12 +1,12 @@
 {
   "description": "A llorar a la llorer\u00eda.",
-  "num_followers": 307218,
+  "num_followers": 307332,
   "original_name": "Hora de la Lloraci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OThjY2QwNDliNjhlNDc0YTI2YTJlYzdiOGJiOGI3YzQxZTYyODE1",
+  "snapshot_id": "MCxjMDQ2M2M5NTFhMTUzM2E0ZDUwM2NjMjMyZjY5OTU1M2E4NTc0N2Y4",
   "tracks": [
     {
       "added_at": "2023-11-16 22:52:18",
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-11-16 22:52:18",
       "album": {
-        "name": "Confieso",
-        "url": "https://open.spotify.com/album/3py5UQNoZMecvronNEQp41"
+        "name": "Ropa De Bazar",
+        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 178320,
-      "name": "Confieso",
-      "url": "https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc"
+      "duration_ms": 197906,
+      "name": "Ropa De Bazar",
+      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
     },
     {
       "added_at": "2023-11-16 22:52:18",
@@ -851,18 +855,18 @@
     {
       "added_at": "2023-11-16 22:52:18",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/3py5UQNoZMecvronNEQp41"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+      "duration_ms": 178320,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc"
     },
     {
       "added_at": "2023-11-16 22:52:18",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-11-16 22:52:18",
       "album": {
-        "name": "Ropa De Bazar",
-        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
       "artists": [
         {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 197906,
-      "name": "Ropa De Bazar",
-      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2023-11-16 22:52:18",

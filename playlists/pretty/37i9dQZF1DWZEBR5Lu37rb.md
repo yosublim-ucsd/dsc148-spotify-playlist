@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,121 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,245 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 80 | [Vaileti](https://open.spotify.com/track/3C9HNfpYE8IbTuwN8WtIBy) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Best of Tanzania Bongo Classics 2](https://open.spotify.com/album/3ZWfP82qw9qk6iCaaeiMir) | 4:49 |
 | 81 | [Good Morning](https://open.spotify.com/track/3T3XVQvaJ09MckNdDE8hA8) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [\#TheSonOfaKapenta](https://open.spotify.com/album/6IQebSMfM7Hnm7hgoJf8mU) | 4:19 |
 | 82 | [Naogopa](https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 3:43 |
-| 83 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 |
+| 83 | [Ndilinde](https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 5:52 |
 | 84 | [Talk to You](https://open.spotify.com/track/5teMc06640wYbmiZrLRyZ9) | [Big Pin](https://open.spotify.com/artist/0OG8e95fwdrVuShmIKW8ME) | [This Is for You](https://open.spotify.com/album/6NxGXoyG4j8LA792eAbu0T) | 3:22 |
 | 85 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
 | 86 | [Njiwa](https://open.spotify.com/track/2EaPDgAYxbEkw33GX5AESW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Njiwa](https://open.spotify.com/album/6B9hBHl7Judrz0Yh32oO90) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Fanti Love Song](https://open.spotify.com/track/3JjDrDXNBaBK3uheLzc10d) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [No\. 1 Mango Street](https://open.spotify.com/album/6UxffPZr6Ca4nBtz3GObFM) | 3:41 |
 
-Snapshot ID: `MCwyMzUyMWQ2ZmNmOTk4OTYxZTBiZTQxODAwN2I3MGEwYjFhODc1MjM5`
+Snapshot ID: `MCw4NGJkODAxMDdkNWVlZDVlMGYxZTg3ZWRkZThlNGYxYmVlMzk5MDhi`

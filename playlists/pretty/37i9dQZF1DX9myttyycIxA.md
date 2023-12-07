@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: carpetgarden
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,482 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,514 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Heaven Is Your Company](https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 3:09 |
 | 100 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 
-Snapshot ID: `MCw2OTA5YzdhNzQxOWZkN2MxZDFiMjRjYTQyYzA5OGYzZWQ1NmJiZmRj`
+Snapshot ID: `MCw0MjIxYTcxMjZhNTQ1NDQwZjQ2ZWFiNWFjMTNlZWU0MjczY2Q0YTZh`

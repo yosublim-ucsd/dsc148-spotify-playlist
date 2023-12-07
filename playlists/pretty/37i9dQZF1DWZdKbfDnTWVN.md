@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=OGTgUyZZTVmdTLzHMoNOHw"> Wakadinali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,041 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,066 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 19 | [CLUTCH](https://open.spotify.com/track/2jBJUNFXk3O6jVhQPyAJmd) | [Ryan SamueŁ](https://open.spotify.com/artist/1clkGCTObExRa9dvSq07vn), [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup) | [CLUTCH](https://open.spotify.com/album/3p9WP8XdsVawilcDfYJJg2) | 2:38 |
 | 20 | [Commercial](https://open.spotify.com/track/7qScVhjvF1FyIBJFFrXaqP) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0) | [Commercial](https://open.spotify.com/album/6bLVLGXuoUDLXCVQhK0JWv) | 2:25 |
 | 21 | [Big Makamasi](https://open.spotify.com/track/1vIsMO3ZjadxOWvo93UyKS) | [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [Big Makamasi & Co.](https://open.spotify.com/album/4HljX1IzyMREWoPJSCAALZ) | 2:03 |
-| 22 | [Out The Way](https://open.spotify.com/track/3jMtpykjhURVfAHXmIpV7a) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [Ta Eish](https://open.spotify.com/artist/00EGROjlVSXEnfiH1oHFCe) | [Out The Way](https://open.spotify.com/album/2NBcrGOeKAh0Pfo17Fw9ld) | 2:58 |
+| 22 | [OUT THE WAY](https://open.spotify.com/track/3jMtpykjhURVfAHXmIpV7a) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [Ta Eish](https://open.spotify.com/artist/00EGROjlVSXEnfiH1oHFCe) | [OUT THE WAY](https://open.spotify.com/album/2NBcrGOeKAh0Pfo17Fw9ld) | 2:58 |
 | 23 | [F Tz Rappers 1](https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [F Tz Rappers 1](https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF) | 2:55 |
 | 24 | [Minimal Pressure](https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Minimal Pressure](https://open.spotify.com/album/2TfvT358xh2LsMPHZHbqeI) | 4:27 |
 | 25 | [PTSD](https://open.spotify.com/track/3KmUE0imli6gdoHQneEGDf) | [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB), [Jovie Jovv](https://open.spotify.com/artist/7tBvsYNwdwlbWIsF2VR5lR) | [FREEDOM II](https://open.spotify.com/album/3DKOQ3jh0VzNwUnz6kKBF9) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Made For This](https://open.spotify.com/track/5Gr47d1ThvLMeJR8ueVd2W) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/64r1hRUVXSdoMT30u3pUbS) | [Made For This](https://open.spotify.com/album/77xVkwwWp6O3xX0lpWprzH) | 1:10 |
 | 60 | [Gloom](https://open.spotify.com/track/6rjLmkmMl0yBmJdUWdvleg) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh) | [Gloom](https://open.spotify.com/album/0JWUu4GXllJVhGMcG72SQi) | 2:55 |
 
-Snapshot ID: `MCxiYWNiN2FkZmNlM2YwNzU3MjQ2ZDZjZTBhZGVkODI5NjNmYjRkZmE5`
+Snapshot ID: `MCxiYjYxZTdhNTdhNmExOTIzMjkyOGRmN2RhYWE3MjFiMDgzMDZhMDVk`

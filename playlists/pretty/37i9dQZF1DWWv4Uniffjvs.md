@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,602 likes - 61 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,618 likes - 61 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 60 | [Hollywood, Florida](https://open.spotify.com/track/5GUFEfUy81x7fJkwxih86x) | [JUANNY DEPP](https://open.spotify.com/artist/0D5NX4FQVLKNFnho6j06WQ) | [Suchitoto](https://open.spotify.com/album/1X9J6KYOPeIth67WHDX8i4) | 3:54 |
 | 61 | [Requiem \- Etapp Kyle Remix](https://open.spotify.com/track/17WtNzKqni8aMdjDTWYNoM) | [David Castellani](https://open.spotify.com/artist/3aFbg2q1WyikPS4PKxZhZZ), [Etapp Kyle](https://open.spotify.com/artist/4F4nGwhfwU7cI26FXK9ZlE) | [Requiem EP](https://open.spotify.com/album/2pUlUYtrVJaWqYJpciHgHp) | 6:06 |
 
-Snapshot ID: `MCxjZDFlMjcyMWZhMTBkMTUwMjAxZDk2OGY5YzdhZjEzYzg4Nzc1MDg3`
+Snapshot ID: `MCw0NzQ4ZThkZmUzYjE0OGQ0OTliMGZiMjMyMTZlYjI5NjA3YzM3ZWQ3`

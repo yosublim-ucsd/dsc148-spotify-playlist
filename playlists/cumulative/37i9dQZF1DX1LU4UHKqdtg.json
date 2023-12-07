@@ -3776,7 +3776,7 @@
     {
       "album": {
         "name": "Dilly Dally",
-        "url": "https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1"
+        "url": "https://open.spotify.com/album/5vLpVxSJdRGciJ1FTY4qiX"
       },
       "artists": [
         {
@@ -3787,6 +3787,24 @@
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211733,
+      "name": "Dilly Dally",
+      "url": "https://open.spotify.com/track/38dDP2uFYXr9fo4EkGQSbE"
+    },
+    {
+      "album": {
+        "name": "Dilly Dally",
+        "url": "https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-07",
       "duration_ms": 211733,
       "name": "Dilly Dally",
       "url": "https://open.spotify.com/track/624rJzJltnse63XfM1XlXn"
@@ -15824,6 +15842,24 @@
       "duration_ms": 224533,
       "name": "\u82b1\u8def",
       "url": "https://open.spotify.com/track/0B2xB2XuQlN7jMpbsDHYUb"
+    },
+    {
+      "album": {
+        "name": "Marine Turtle - NCT LAB",
+        "url": "https://open.spotify.com/album/2ueIiJ8NxNyCh9F8xEuDm6"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "\u84dd\u6d0b\u6d77\u9f9f (Marine Turtle)",
+      "url": "https://open.spotify.com/track/1saWG04lO7WpyO2DZriDeA"
     },
     {
       "album": {

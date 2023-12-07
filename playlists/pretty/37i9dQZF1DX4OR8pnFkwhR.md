@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,039 likes - 79 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,087 likes - 79 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 3 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 |
 | 4 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 |
 | 5 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 |
-| 6 | [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 |
+| 6 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
 | 7 | [Kind of](https://open.spotify.com/track/40HlZlt8wxkIhd9sMFJ68I) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Kind of](https://open.spotify.com/album/27tShaiDUhC6KeszVy0PSZ) | 3:04 |
 | 8 | [utatane](https://open.spotify.com/track/2gIyLzwAB0kagC7WwQaGWy) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/7i4NY6tlCB2YvAJnmIyuod) | 3:01 |
 | 9 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 60 | [By Your Side \- Cover](https://open.spotify.com/track/0hswmH3iV076HDK4dbRQVd) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [RNB ERA](https://open.spotify.com/album/2DqBNpTXiMKwLuIjNzEq8B) | 4:49 |
 | 61 | [The translator sings](https://open.spotify.com/track/2DUjwpK2MEWL745k5vEOzM) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [The translator sings](https://open.spotify.com/album/1J0uPRxwn9MqJBX1DU30Qt) | 2:49 |
 | 62 | [Gum i](https://open.spotify.com/track/2egaM78FRM3obOCvcljpzC) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Gum i](https://open.spotify.com/album/3oGz6MSBe8qiyazYxpaGd2) | 3:56 |
-| 63 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 |
+| 63 | [Super Fresh](https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:52 |
 | 64 | [18の息吹](https://open.spotify.com/track/7jCXSLeKRdlndNLBoGIOZR) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [∞](https://open.spotify.com/album/3gcRCzE40Pnraab0ZXcQjR) | 4:33 |
 | 65 | [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 |
 | 66 | [森](https://open.spotify.com/track/0h8XHGuOZOQSPoKJpWWmNf) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [森](https://open.spotify.com/album/28Ui8kKVp4lchmH3nQ2NAN) | 3:27 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 72 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 |
 | 73 | [CHARM](https://open.spotify.com/track/75EFQbfTgsm0exvk6ZJl6Q) | [青山みつ紀](https://open.spotify.com/artist/5cEt7kS0IIWeiTow3vOtsV) | [CHARM](https://open.spotify.com/album/0XSNjTZuZhlcmaMkShTuka) | 3:28 |
 | 74 | [panzamasuto](https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Singer's High](https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky) | 2:52 |
-| 75 | [月のひかり](https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [月のひかり](https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt) | 3:35 |
+| 75 | [Clair de Lune](https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Clair de Lune](https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL) | 3:35 |
 | 76 | [夕凪、黄昏](https://open.spotify.com/track/7dJLW9J6zJZ1sXhRa5MQTR) | [岡山健二](https://open.spotify.com/artist/6sDaLBf6pQLQoL26A4ZjAB) | [34](https://open.spotify.com/album/1RTiZ95LChcMSdKED1pyEo) | 4:15 |
 | 77 | [宇宙\(苦痛\)](https://open.spotify.com/track/3kgOuTuuRMyt23wiejeBrH) | [GRASAM ANIMAL](https://open.spotify.com/artist/6emi8SzZeJ2JmKnaPnDkbA) | [宇宙\(苦痛\)](https://open.spotify.com/album/6lqvl7ZhUQ5tOuu4j90khR) | 3:55 |
 | 78 | [Helter Skelter](https://open.spotify.com/track/75gtSkZ8ko4aiNysNRaWLc) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [Helter Skelter](https://open.spotify.com/album/03jk8TVKp0zhwochd99y6t) | 3:05 |
-| 79 | [夜明けの列車に飛び乗って](https://open.spotify.com/track/36NMEAgUzTe3IEPEZ9WQPF) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [夜明けの列車に飛び乗って](https://open.spotify.com/album/7G0kYNukvmNFy1cPsCxEjX) | 4:40 |
+| 79 | [Ride on a Dawn Train](https://open.spotify.com/track/38beTpJ8H27fvJTYO4SVHr) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Ride on a Dawn Train](https://open.spotify.com/album/5epXRUHUcADonSmQZBRewU) | 4:40 |
 
-Snapshot ID: `MCwyZWI5ODJlOGFiMWVkN2FkY2Q3OTA2MmIzZTQ2MDE3NjM5NGUyMGQx`
+Snapshot ID: `MCw5ZTAzYjcxMDg2MTdkMGY3NGQ5NGNjNzVmZjFjNTI5ZjA4Y2VjNzA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,582 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,637 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Bluffin](https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Bluffin](https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F) | 3:41 |
 | 150 | [Tunup \(feat\. Konshens & Bokoesam\)](https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Highest Grade Vol\. 2.0 \- Caribbean Kush](https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5) | 2:29 |
 
-Snapshot ID: `MCwwNjg4MDFhOWNmMzc3MTg5ZjhiZGRhODZkYTM5N2U4MzcxYjFjNjgw`
+Snapshot ID: `MCw3NGJlMDM3YjMzYzQ1ZWYzYzQxMmJiNjJmMWI3Y2I2MGI1ZTU4ODAw`

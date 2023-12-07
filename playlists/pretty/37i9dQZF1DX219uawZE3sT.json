@@ -1,29 +1,13 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 136996,
+  "num_followers": 137117,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzhmNTBmMDAxNmE1OGE2NmNiYzE0NTc1MzZmZTFhMjQ4YmQzYTE4",
+  "snapshot_id": "MCxhNDNiN2FlM2UzNjNjOTZiMmMwZGJjYzJkNzBiYjY5NDY0YjVlNWEw",
   "tracks": [
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 286973,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -295,18 +295,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Lo Mejor De OV7",
-        "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
-      },
-      "artists": [
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        }
-      ],
-      "duration_ms": 249400,
-      "name": "Enloqu\u00e9ceme",
-      "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 204533,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Lo Mejor De OV7",
+        "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "duration_ms": 249400,
+      "name": "Enloqu\u00e9ceme",
+      "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "El Amor Manda",
-        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Porque El Amor Manda",
-      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Mar\u00eda Jos\u00e9... De Noche",
         "url": "https://open.spotify.com/album/0yAXAYtFvoAV3j5FsL1eg4"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 228133,
       "name": "El Amor Manda",
       "url": "https://open.spotify.com/track/2pJYqi7AXzGfw6Tl3G8rZq"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "El Amor Manda",
+        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Porque El Amor Manda",
+      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Demasiado Corazon",
-        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Demasiado Corazon",
-      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Luis Miguel (Edici\u00f3n De Lujo)",
         "url": "https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 175013,
       "name": "Tres palabras",
       "url": "https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Demasiado Corazon",
+        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Demasiado Corazon",
+      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Sue\u00f1os de Juventud",
-        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
+        "name": "De D\u00edas y de Noches (En Vivo) (Centro Cultural Roberto Cantoral)",
+        "url": "https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw"
       },
       "artists": [
         {
-          "name": "DKDA",
-          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 335751,
-      "name": "\u00c1mame Como Soy (En Vivo)",
-      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
+      "duration_ms": 211160,
+      "name": "A D\u00f3nde Va Nuestro Amor - Versi\u00f3n Telenovela",
+      "url": "https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "De D\u00edas y de Noches (En Vivo) (Centro Cultural Roberto Cantoral)",
-        "url": "https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw"
+        "name": "Sue\u00f1os de Juventud",
+        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
       },
       "artists": [
         {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+          "name": "DKDA",
+          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
         }
       ],
-      "duration_ms": 211160,
-      "name": "A D\u00f3nde Va Nuestro Amor - Versi\u00f3n Telenovela",
-      "url": "https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS"
+      "duration_ms": 335751,
+      "name": "\u00c1mame Como Soy (En Vivo)",
+      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "1985-1998",
         "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
     },
     {
       "added_at": "2022-05-06 18:32:26",

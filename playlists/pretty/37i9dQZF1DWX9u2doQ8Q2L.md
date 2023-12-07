@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,402 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,637 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 8 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 |
 | 9 | [Kind of](https://open.spotify.com/track/40HlZlt8wxkIhd9sMFJ68I) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Kind of](https://open.spotify.com/album/27tShaiDUhC6KeszVy0PSZ) | 3:04 |
 | 10 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 |
-| 11 | [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 |
+| 11 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 |
 | 12 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 |
 | 13 | [A Christmas Flavor](https://open.spotify.com/track/3DM7pOb7e4cDTwuAyyU7Yy) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [A Christmas Flavor](https://open.spotify.com/album/7iX6zW9utoLntsFSMYKu83) | 4:38 |
 | 14 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 53 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 |
 | 54 | [Fallen Leaves](https://open.spotify.com/track/6aFTyi7xo5vfaFS4yhxFFn) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Fallen Leaves](https://open.spotify.com/album/61G4vsx8txHO4ZcNVkt7hx) | 4:01 |
 | 55 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 |
-| 56 | [180](https://open.spotify.com/track/5xP7qZWK23N78R1ssYKdZ7) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/63BT3kAHpgwL3BEgCAMNyb) | 3:05 |
+| 56 | [180](https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C) | 3:05 |
 | 57 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
-| 58 | [人人](https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [人人](https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh) | 4:21 |
+| 58 | [Hitohito](https://open.spotify.com/track/5uN7lWGF2nL6AbgMW6UZad) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Hitohito](https://open.spotify.com/album/4azrBZDRfk6pT59gYODhv6) | 4:21 |
 | 59 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 |
 | 60 | [宇宙\(苦痛\)](https://open.spotify.com/track/3kgOuTuuRMyt23wiejeBrH) | [GRASAM ANIMAL](https://open.spotify.com/artist/6emi8SzZeJ2JmKnaPnDkbA) | [宇宙\(苦痛\)](https://open.spotify.com/album/6lqvl7ZhUQ5tOuu4j90khR) | 3:55 |
 | 61 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 98 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 |
 | 99 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 |
 
-Snapshot ID: `MCxmZWYzYzQ1ZDNkZTQ3ZmExMjIyMGRiMTJmMjM0MDI5ODkyMWU1ZTQ1`
+Snapshot ID: `MCw5MDFjNTkwYzIzZGNjNDE4ZGE2ZDA5Y2I3YjAyNGRhNzgwYTU5ZGY0`

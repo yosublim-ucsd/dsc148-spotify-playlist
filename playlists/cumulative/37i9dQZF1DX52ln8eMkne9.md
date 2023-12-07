@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-313 songs - 23 hr 23 min
+314 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 | 2021-12-17 |  |
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5Ihx6oOsUBYF0Zp6zUC7fk) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 5:04 | 2022-11-15 | 2023-05-19 |
 | [I'm Glad There Is You](https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe) | 4:09 | 2021-12-17 | 2022-07-29 |
-| [I'm Glad There Is You](https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/2m7zerGZkKVyB192vMpvLr) | 4:09 | 2023-05-30 |  |
+| [I'm Glad There Is You](https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/2m7zerGZkKVyB192vMpvLr) | 4:09 | 2023-05-30 | 2023-12-07 |
 | [I'm Glad There Is You](https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:27 | 2021-12-17 | 2022-11-16 |
 | [I'm Glad There Is You](https://open.spotify.com/track/4hzhqGOEoAjcFekGHmouO0) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan with Clifford Brown \(Expanded, Hd Remastered\)](https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT) | 5:09 | 2021-12-17 | 2022-07-29 |
 | [I'm Glad There Is You](https://open.spotify.com/track/1T2RFm1FitFjFIsU2A4OFY) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:11 | 2023-05-30 | 2023-09-14 |
@@ -225,6 +225,7 @@
 | [Sketchbook of Dreams \- Radio Edit](https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt) | [Tom van der Zaal](https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au) | [Sketchbook of Dreams](https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k) | 3:45 | 2023-05-30 |  |
 | [Skylark](https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Skylark](https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF) | 4:34 | 2023-02-16 |  |
 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 | 2022-02-18 | 2023-11-17 |
+| [Some Other Time](https://open.spotify.com/track/6OCapkDSgkM1Nv2gOz9E29) | [Johanna Linnea Jakobsson](https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP) | [Some Other Time](https://open.spotify.com/album/2ZUrlorLVAPZVxEv06G3fD) | 5:23 | 2023-12-06 |  |
 | [Some Other Time](https://open.spotify.com/track/04rPaVjf38UJDdOiFA40e0) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/0WKKT12LLXpCZkOR4H9euq) | 5:36 | 2021-12-17 | 2022-07-29 |
 | [Some Other Time](https://open.spotify.com/track/4HH32eyROgSGiay7IGiGSJ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 5:36 | 2022-07-28 | 2023-09-14 |
 | [Someone To Watch Over Me](https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od) | [Donatella Montinaro](https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G), [Danilo Tarso](https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY) | [Still We Dream](https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l) | 6:11 | 2023-02-01 |  |

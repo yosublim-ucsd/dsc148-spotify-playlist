@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: i\u00f1igo quintero",
-  "num_followers": 991270,
+  "num_followers": 991441,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGUzMTU3ZmNhMzQ2MzFmODIxYmUwM2MxYmRiNjMwOGU2MmJiOGJj",
+  "snapshot_id": "MCxjN2Y3OTIxYWY2Y2EzMmU2MjZjOWI5MDlmZGNjODMzNDg0NmMyZDkz",
   "tracks": [
     {
       "added_at": "2023-11-30 23:01:00",
@@ -355,22 +355,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Santorini",
-        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+        "name": "No te enamores de \u00e9l",
+        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 160893,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "No te enamores de \u00e9l",
-        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "Algo Sencillito",
+        "url": "https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177338,
+      "name": "Algo Sencillito",
+      "url": "https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "XQ Sigues Pasando :(",
         "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Algo Sencillito",
-        "url": "https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177338,
-      "name": "Algo Sencillito",
-      "url": "https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
+        "name": "RED FLAGS",
+        "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "RED FLAGS",
+      "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
         "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
         "url": "https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 163401,
       "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "RED FLAGS",
-        "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "RED FLAGS",
-      "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -791,22 +791,18 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "GOOD DAY (feat. Camidoh)",
-        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+        "name": "Toxic Christmas",
+        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 164765,
-      "name": "GOOD DAY (feat. Camidoh)",
-      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+      "duration_ms": 199546,
+      "name": "Toxic Christmas",
+      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -823,6 +819,26 @@
       "duration_ms": 146763,
       "name": "Derecho a No Declarar",
       "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -855,22 +871,6 @@
       "duration_ms": 157293,
       "name": "Como Ayer",
       "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Toxic Christmas",
-        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Toxic Christmas",
-      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2023-11-30 23:01:00",

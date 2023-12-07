@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 63848,
+  "num_followers": 63916,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTJmMzhjZjliZTkwOTI3YjAwYzZmYTlkOGEzNGE4NTA0MjE2MzBk",
+  "snapshot_id": "MCw4MmI1ZDFhNTk5NmJkMmJjNDZiNzAxNDhlOGI0MjJlMDlhZGIyOGM4",
   "tracks": [
     {
       "added_at": "2023-06-22 20:49:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "ULYSE",
         "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": "2023-06-22 20:49:18",

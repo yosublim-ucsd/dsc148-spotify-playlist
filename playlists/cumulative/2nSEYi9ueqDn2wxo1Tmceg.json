@@ -3095,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Field Crow",
+        "url": "https://open.spotify.com/album/1S3YB5j6iiGfkZdYwEiHEw"
+      },
+      "artists": [
+        {
+          "name": "wych elm",
+          "url": "https://open.spotify.com/artist/60t8P09ao7dumEFbu7MkHR"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101730,
+      "name": "Disgust",
+      "url": "https://open.spotify.com/track/2QpA6MWJNEE4PIVUwZomBk"
+    },
+    {
+      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/3bahlgCR0bNGq1pZX1GipN"
       },
@@ -4430,7 +4448,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 277085,
       "name": "It's You - Alan Braxe Remix",
       "url": "https://open.spotify.com/track/48tAxJPKyxs3KeIrKIzmuY"
@@ -6430,6 +6448,10 @@
         {
           "name": "LA Priest",
           "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        },
+        {
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
         }
       ],
       "date_added": "2023-12-04",
@@ -6560,7 +6582,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 157651,
       "name": "Jewellery",
       "url": "https://open.spotify.com/track/42ezIrJQsV4OQ939bEQCzH"
@@ -7072,7 +7094,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 396515,
       "name": "Like A Rolling Stone - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/3rZIBBP3s8F4DiHxenSOjC"
@@ -9329,6 +9351,24 @@
     },
     {
       "album": {
+        "name": "i/o",
+        "url": "https://open.spotify.com/album/2Rr46ynx6lOJnkbF2s9VXB"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378769,
+      "name": "Playing For Time - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/79J5LLJpMg1Vqov3ilRb7m"
+    },
+    {
+      "album": {
         "name": "Please Don't Die",
         "url": "https://open.spotify.com/album/4Tm166tOLlMl3SQdIdQhRF"
       },
@@ -10548,7 +10588,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 313426,
       "name": "Sky Hook",
       "url": "https://open.spotify.com/track/5nZTYnKo1ugzmtP7EHfOWr"
@@ -11877,6 +11917,24 @@
     },
     {
       "album": {
+        "name": "Club Hits",
+        "url": "https://open.spotify.com/album/6WBt5QDZsTnbbogvm1wqkq"
+      },
+      "artists": [
+        {
+          "name": "R.M.F.C.",
+          "url": "https://open.spotify.com/artist/7bpsiElrldRZYB3CbwFZlx"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "The Trap",
+      "url": "https://open.spotify.com/track/3RlWJoYy6PLwfSpvwYRDFy"
+    },
+    {
+      "album": {
         "name": "The Turning Ground",
         "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
       },
@@ -11924,7 +11982,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 328000,
       "name": "The Wife Of Michael Cleary",
       "url": "https://open.spotify.com/track/1bH7OihYp7sdnij7zZGIoe"
@@ -12744,7 +12802,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 250338,
       "name": "Vajkoczy",
       "url": "https://open.spotify.com/track/1pK6RicHm4ZNku9wFq7T5I"
@@ -13123,6 +13181,24 @@
     },
     {
       "album": {
+        "name": "Iron Day",
+        "url": "https://open.spotify.com/album/0ximxbiTbves6DZYwB4zmy"
+      },
+      "artists": [
+        {
+          "name": "Genghis Cohn",
+          "url": "https://open.spotify.com/artist/3li0KHMshZJvjlRPRcs1j0"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169111,
+      "name": "Well of Roses",
+      "url": "https://open.spotify.com/track/1h6yRZr7I5pQY0j5PNKmXg"
+    },
+    {
+      "album": {
         "name": "Wet Stuff",
         "url": "https://open.spotify.com/album/5MyRGoCM4u5dynIEtxD8ei"
       },
@@ -13392,6 +13468,24 @@
       "duration_ms": 224040,
       "name": "Willow, Pine and Oak",
       "url": "https://open.spotify.com/track/7KFN7Y3LkVbHoGL4g4meeA"
+    },
+    {
+      "album": {
+        "name": "Statues II",
+        "url": "https://open.spotify.com/album/3kFHbtO7sXrjVlsfDhi8Ah"
+      },
+      "artists": [
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209837,
+      "name": "Wind Unsung",
+      "url": "https://open.spotify.com/track/35ytROTewbDuevp1mNmUxM"
     },
     {
       "album": {

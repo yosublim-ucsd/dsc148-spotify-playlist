@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-426 songs - 1 day 15 hr 14 min
+427 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Grandmother's Dream](https://open.spotify.com/track/1q9lbtvwfAekaD6ScD7h2t) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Fredrik Lindborg](https://open.spotify.com/artist/24j6pokEgGNNoSAgic8E40), [Kjell Öhman](https://open.spotify.com/artist/6zu51Bz8hwBfYzvqu8FUlK), [Kenji Rabson](https://open.spotify.com/artist/1r0bXRQ6z2ggJzKJgENUkD), [Moussa Fadera](https://open.spotify.com/artist/1WVCN6X1myUXbLPWuVqW78) | [Happening](https://open.spotify.com/album/6tdrLGWgElgj8ZCrtqIZeh) | 4:18 | 2020-05-07 |  |
 | [GUILT](https://open.spotify.com/track/2qteg5TQZlkMpNZ46DQ99w) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Parable Of The Poet](https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD) | 9:22 | 2022-04-14 | 2022-04-29 |
 | [Hard to say Goodbye](https://open.spotify.com/track/3whSnQldx9s3CCiggyvVxk) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [In the Spirit of Toots](https://open.spotify.com/album/3Yy4WuCa8UYTRNmTrcMoR0) | 4:01 | 2023-08-03 |  |
-| [Heaven on My Mind](https://open.spotify.com/track/1pCpyJSU5n26EeuZUzKJUf) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Heaven on My Mind](https://open.spotify.com/album/749mv1VJ07QqUf2CwKTOSO) | 6:19 | 2023-11-21 |  |
+| [Heaven on My Mind](https://open.spotify.com/track/1pCpyJSU5n26EeuZUzKJUf) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Heaven on My Mind](https://open.spotify.com/album/749mv1VJ07QqUf2CwKTOSO) | 6:19 | 2023-11-21 | 2023-12-07 |
 | [Hermetic Boogey](https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Hermetic Boogey](https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5) | 6:13 | 2023-08-25 |  |
 | [Heroes](https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x) | [The Lights Are Always On](https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB) | 4:15 | 2022-04-07 |  |
 | [Hier Encore](https://open.spotify.com/track/3npSFzWx09RGGNfccLEUY1) | [Elina Duni](https://open.spotify.com/artist/2uuSFOLMgwxUEuzMFCNehL), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Fred Thomas](https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r) | [Lost Ships](https://open.spotify.com/album/6g0LxTi0WdqCDfcte6TvJg) | 3:45 | 2020-12-04 | 2022-04-15 |
@@ -257,6 +257,7 @@
 | [Nocturnal](https://open.spotify.com/track/3ocm43si0Ee0nyd9EAxs7T) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 5:26 | 2023-08-03 |  |
 | [Nocturno](https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:27 | 2020-09-12 |  |
 | [Oblique Two\-Step](https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB) | [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Oblique Two\-Step](https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6) | 3:40 | 2023-08-03 |  |
+| [Of Our Children](https://open.spotify.com/track/0Er3yzZ0wnpToUIuYc9Rzi) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Monkey Mind](https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO) | 6:00 | 2023-12-06 |  |
 | [Old Ballad For Hawk](https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79) | [Andrew Rathbun](https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx) | [Semantics](https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ) | 8:21 | 2022-09-15 |  |
 | [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 | 2023-08-18 | 2023-10-04 |
 | [Old Folks](https://open.spotify.com/track/42Xv2whNPhZtJv9z0DvyVA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 5:50 | 2023-10-06 | 2023-10-23 |

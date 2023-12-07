@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Can't Believe We're Here",
+        "url": "https://open.spotify.com/album/21kuC8CVlZkz9UoquPEOXJ"
+      },
+      "artists": [
+        {
+          "name": "J Mascis",
+          "url": "https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238213,
+      "name": "Can\u2019t Believe We're Here",
+      "url": "https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG"
+    },
+    {
+      "album": {
         "name": "Can't Make Any Promises",
         "url": "https://open.spotify.com/album/1cVSZHrrqpdDrBwXn7jxRI"
       },
@@ -1686,6 +1704,24 @@
       "duration_ms": 210491,
       "name": "Cool It Kid",
       "url": "https://open.spotify.com/track/76BWUDhCL1ebKLnrvbKuVJ"
+    },
+    {
+      "album": {
+        "name": "Under The Tin Sky",
+        "url": "https://open.spotify.com/album/21hTKaDybZTrIiC48zDsZA"
+      },
+      "artists": [
+        {
+          "name": "Eva Haze",
+          "url": "https://open.spotify.com/artist/0L0GAoyR21K6Kf5cKVdh8g"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "Cool Logic",
+      "url": "https://open.spotify.com/track/2dactM3Uk7aF8RrofihF6J"
     },
     {
       "album": {
@@ -3390,7 +3426,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 87349,
       "name": "Fuck Love, I Just Bought a New Truck",
       "url": "https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7"

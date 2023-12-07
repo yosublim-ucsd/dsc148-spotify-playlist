@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697,453 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697,462 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 |
 | 100 | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/album/4b0zKPaz51p8EgPHksKoAn) | 3:28 |
 
-Snapshot ID: `MCwyOTE1YzU4ZjRjNTJiZjAwOTg0MzI4M2E4OGIyZDMzOTE5YjQzYmZk`
+Snapshot ID: `MCxjMzZlZGM4MGE1MTkzYWU5Y2QyNGMxZGQyMGU4NWFiZTVkODBhNzE5`

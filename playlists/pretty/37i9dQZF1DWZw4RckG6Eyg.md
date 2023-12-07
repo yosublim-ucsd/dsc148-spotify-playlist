@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,777 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,963 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 54 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
 | 55 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
 | 56 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 |
-| 57 | [npc](https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [I LOVE THE INTERNET](https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG) | 2:30 |
-| 58 | [Bath County](https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 3:10 |
-| 59 | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05) | 2:06 |
-| 60 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
-| 61 | [Letter To Myself](https://open.spotify.com/track/2spGThcYUc2QWuv3lThLx0) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 4:11 |
-| 62 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
+| 57 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
+| 58 | [npc](https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [I LOVE THE INTERNET](https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG) | 2:30 |
+| 59 | [Bath County](https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 3:10 |
+| 60 | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05) | 2:06 |
+| 61 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
+| 62 | [Letter To Myself](https://open.spotify.com/track/2spGThcYUc2QWuv3lThLx0) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 4:11 |
 | 63 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 |
 | 64 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
 | 65 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 83 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 |
 | 84 | [Thin Air](https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 3:34 |
 | 85 | [Census Designated](https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI) | 6:00 |
-| 86 | [IKWYDLS](https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [baby, I do / IKWYDLS](https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX) | 2:31 |
-| 87 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
+| 86 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
+| 87 | [IKWYDLS](https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [baby, I do / IKWYDLS](https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX) | 2:31 |
 | 88 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 |
 | 89 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
 | 90 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 |
 | 91 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 |
 | 92 | [Feet Up](https://open.spotify.com/track/0Zyt2jTbyRv1QNb3Yahk1m) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR) | 2:59 |
 | 93 | [The Great American Picnic](https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [When Horses Would Run](https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf) | 2:16 |
-| 94 | [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 |
-| 95 | [Show You Off](https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Show You Off](https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg) | 2:54 |
+| 94 | [Show You Off](https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Show You Off](https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg) | 2:54 |
+| 95 | [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 |
 | 96 | [Corner Of My Eye](https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Corner Of My Eye](https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs) | 3:19 |
-| 97 | [Sour](https://open.spotify.com/track/0D7DZCT5CuzzwcVY2Dkuxk) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Sour](https://open.spotify.com/album/5P6X6QiReluxDWc7Xp0dKp) | 2:33 |
-| 98 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 |
+| 97 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 |
+| 98 | [Sour](https://open.spotify.com/track/0D7DZCT5CuzzwcVY2Dkuxk) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Sour](https://open.spotify.com/album/5P6X6QiReluxDWc7Xp0dKp) | 2:33 |
 | 99 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 |
 | 100 | [blame](https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 2:40 |
 
-Snapshot ID: `MCw5NThmMjE5ZGM2NWEwMDY0MjNkYTBkYTBhZmFlMjhkZTRiOTdiOGZk`
+Snapshot ID: `MCxjNzQ0ODhhZDJmY2E5NWYwZmQ2ODQwZjY1ZTA1MWVjZWY3ZGI1ZTAx`

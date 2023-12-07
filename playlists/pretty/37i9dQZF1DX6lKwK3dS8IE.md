@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,117 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 49 | [Out of Egypt](https://open.spotify.com/track/4dzi9ff1Zm5PqLtn0gyM9a) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Still Dreaming, I Never See the Stars](https://open.spotify.com/album/69qLqOSmFzaKoLdH9I4V5x) | 2:19 |
 | 50 | [Strong Hearts Bleed Out First](https://open.spotify.com/track/6w3E4mrMqc8Z1sYIU03IUv) | [Chatterbox and the Latter Day Satanists](https://open.spotify.com/artist/1rD5mDlNz6NuvcIq1rYMlt) | [The D.I.Y\. Fecta](https://open.spotify.com/album/2LlDP4y2j8cS3RZRoDEeyb) | 4:30 |
 
-Snapshot ID: `MCw3ZjNkOGZlZTUxMTY1ODQyMmFiNjljZDAxMDMzOTU1OTdiOTU2ZWY1`
+Snapshot ID: `MCxmYjE2ZDkyOTg0MWU2ZmMyNGJhMWRmM2NkZjIxNWI5MmJjMjU2NzZm`

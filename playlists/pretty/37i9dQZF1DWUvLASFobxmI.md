@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Recluta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,120 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,258 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 |
 | 125 | [Papá Mundo](https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Papá Mundo](https://open.spotify.com/album/2cVrh5er4TOD47uUn6bRLA) | 3:05 |
 
-Snapshot ID: `MCw5N2U2M2Y4ZjQxMTAxNmMyNzE4ZjZhOGFiMjM0YTAyOTMzMmJlZmUw`
+Snapshot ID: `MCw1ZjYxZGIzZDgxNjE4YzNjOTI2ZmMyNzA5ZmM5ODU1OTdmMWQ3ZDYx`

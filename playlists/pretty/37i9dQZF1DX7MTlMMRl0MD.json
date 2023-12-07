@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sof\u00eda Reyes & Be\u00e9le",
-  "num_followers": 1906121,
+  "num_followers": 1906213,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2I0YmVlZjQ4ODJkMDU5ZmQ3NDkxY2Y4MmM1YjNlN2JmMTM2ZDRj",
+  "snapshot_id": "MCw5ODQ5ZjUwMmYyMWFlOWYwZTgwZGY4MGJiNzAxOWEyMzE0MzI5M2Nj",
   "tracks": [
     {
       "added_at": "2023-11-30 00:51:04",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
+        "name": "Estrellita",
+        "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 225640,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
-        "name": "Estrellita",
-        "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
-      },
-      "artists": [
-        {
-          "name": "Zhamira Zambrano",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Que Sera de Mi",
-        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
-      },
-      "artists": [
-        {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
-        }
-      ],
-      "duration_ms": 271066,
-      "name": "Que Sera de Mi",
-      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 185333,
       "name": "Ad\u00f3nde Se Fue ?",
       "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "Que Sera de Mi",
+        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
+      },
+      "artists": [
+        {
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "Que Sera de Mi",
+      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
       },
       "artists": [
         {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
         }
       ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+      "duration_ms": 208008,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
       },
       "artists": [
         {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
         }
       ],
-      "duration_ms": 208008,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Love Is Back",
-        "url": "https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "Llorar Lloviendo",
-      "url": "https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "Love Is Back",
+        "url": "https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 225386,
+      "name": "Llorar Lloviendo",
+      "url": "https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Episodes",
-        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
-      },
-      "artists": [
-        {
-          "name": "Kewin Cosmos",
-          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
-        }
-      ],
-      "duration_ms": 217222,
-      "name": "Solo Quise Quererte",
-      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 184746,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
+      },
+      "artists": [
+        {
+          "name": "Kewin Cosmos",
+          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Solo Quise Quererte",
+      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "La Voz de La Juventud",
-        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Te Parece Poco",
-      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 181603,
       "name": "Un Mill\u00f3n de Lunas",
       "url": "https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "La Voz de La Juventud",
+        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Te Parece Poco",
+      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Perdon",
-        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
-      },
-      "artists": [
-        {
-          "name": "Ronny Dae",
-          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Perdon",
-      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "7 Pecados",
         "url": "https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 204375,
       "name": "7 Pecados",
       "url": "https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "Perdon",
+        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
+      },
+      "artists": [
+        {
+          "name": "Ronny Dae",
+          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Perdon",
+      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
     },
     {
       "added_at": "2023-11-30 00:51:04",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-11-30 00:51:04",
       "album": {
-        "name": "Un Cigarro",
-        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Un Cigarro",
-      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
-    },
-    {
-      "added_at": "2023-11-30 00:51:04",
-      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 220645,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
+    },
+    {
+      "added_at": "2023-11-30 00:51:04",
+      "album": {
+        "name": "Un Cigarro",
+        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Un Cigarro",
+      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
     },
     {
       "added_at": "2023-11-30 00:51:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,403 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,450 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 149 | [En Nota](https://open.spotify.com/track/20Q3Oyu7B8C5CQklLSKha3) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [En Nota](https://open.spotify.com/album/5ptlZw4xjZ0P5c7EAs72jM) | 2:51 |
 | 150 | [Pa' Mangá Mi Visa](https://open.spotify.com/track/6qx6qftiB9xoTF7GrPpvQb) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:17 |
 
-Snapshot ID: `MCwzNTc1OWQwYzg0MTRiMDg0ZDVjMDFmOTg1NGU3MDcxYjA2ZGZhODUz`
+Snapshot ID: `MCw4OTU3YjE3NTA5ZDUxYTM1ZjExNWY1ZmVmMzU5YjIwMTAxNTdkMTU3`

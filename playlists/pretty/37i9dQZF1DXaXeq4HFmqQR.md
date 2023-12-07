@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,175 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,185 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 21 | [Tiempo al tiempo](https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ese Té](https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE) | [Tiempo al tiempo](https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz) | 2:22 |
 | 22 | [REGINA](https://open.spotify.com/track/4f3jEQxoxh9mkffm3wOMUS) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [REGINA](https://open.spotify.com/album/0pvKUrFFlArbUjCq7oHzKl) | 2:31 |
 | 23 | [Alerta](https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Alerta](https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl) | 3:09 |
-| 24 | [Baddie](https://open.spotify.com/track/3f4F947OK390ug1C4igSLp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Baddie](https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel) | 2:26 |
-| 25 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 |
+| 24 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 |
+| 25 | [Baddie](https://open.spotify.com/track/3f4F947OK390ug1C4igSLp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Baddie](https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel) | 2:26 |
 | 26 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 |
-| 27 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
-| 28 | [No Verán](https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 3:25 |
+| 27 | [No Verán](https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 3:25 |
+| 28 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
 | 29 | [Solteras](https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Sicario En los controles](https://open.spotify.com/artist/301UYYFYUIRMyNbMmCwTyd) | [Solteras](https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl) | 2:46 |
 | 30 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
 | 31 | [Quién me va a Cuidar](https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Quién me va a Cuidar](https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Dicen](https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Dicen](https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK) | 3:22 |
 | 50 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 
-Snapshot ID: `MCwwNDc4ODlhZmFlMWJjYzI0ODU1ZWU0MTUwMzExNjc1MzczYzE3YzJj`
+Snapshot ID: `MCxmMmZjNGY0NDMxN2UxYjViYWFlNWRkZmVmOTE2OGI5MmI1N2Y2M2Jj`

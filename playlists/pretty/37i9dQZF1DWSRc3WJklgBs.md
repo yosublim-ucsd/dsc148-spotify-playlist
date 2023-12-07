@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,339 likes - 230 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,403 likes - 230 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Chasing Daydreams](https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Chasing Daydreams](https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw) | 2:45 |
 | 230 | [Lullaby](https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Lullaby](https://open.spotify.com/album/5O2uZU8F0jiMbUvWnXap9Q) | 4:56 |
 
-Snapshot ID: `MCxiMjZjNDlmMjhlNDY0YzgxOTNmYzI3NDljZTU4YjJkZDExMTgyZDkx`
+Snapshot ID: `MCwyOTExN2Q2ZTgzZmYwNTUxNjhiYjdhMTY4MDczZmYxZjJlNGQ4MDI3`

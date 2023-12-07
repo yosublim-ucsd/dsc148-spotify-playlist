@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,852 likes - 150 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,147 likes - 150 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 |
 | 150 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 |
 
-Snapshot ID: `MCxjZjAzMGYyNjY5YmQ2ZGEwZTE2ZDRiZWY4NjQzY2E4NWVhMTk2Zjc1`
+Snapshot ID: `MCxlMDlhZTJkYTkwOWYyYTIwY2E5MWQzMjI0YjRjOWFiNzk1Y2RkNmJi`

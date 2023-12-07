@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 59817,
+  "num_followers": 59905,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDRmZTM3YzI2NzNlYjNhZjEyNTBjMGMwNWFjMWI4ZWUyNGNmMGI1",
+  "snapshot_id": "MCw4YTEyMzQ4MGE2NDUzZmIzOGUwZmE2MWViYjA4NzFkMTQwNTQ2MGIy",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
     },
     {
-      "added_at": "2022-01-10 21:04:09",
+      "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "White Crosses",
-        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
       },
       "artists": [
         {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
         }
       ],
-      "duration_ms": 195160,
-      "name": "I Was a Teenage Anarchist",
-      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -617,20 +617,20 @@
       "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
     },
     {
-      "added_at": "2021-04-20 17:48:20",
+      "added_at": "2022-01-10 21:04:09",
       "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+        "name": "White Crosses",
+        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
       },
       "artists": [
         {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
         }
       ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+      "duration_ms": 195160,
+      "name": "I Was a Teenage Anarchist",
+      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
     },
     {
       "added_at": "2021-04-20 17:48:20",

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 128973,
+  "num_followers": 129018,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Zjc2OTFlMTQzNDg5ZmZlZDUyMzk4YTViYmFiZTFiZTQwMzVhMTM0",
+  "snapshot_id": "MCxiM2Y4YzNiYTcxZDVkMjBhYjVkMDdlOWRkYjAzNTZhMzhkNDMzYzcx",
   "tracks": [
     {
       "added_at": "2023-08-04 20:15:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "New Mythology",
-        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Mona",
-      "url": "https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Drop Cherries",
         "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "New Mythology",
+        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Mona",
+      "url": "https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "0151",
-        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
-      },
-      "artists": [
-        {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
-        }
-      ],
-      "duration_ms": 281594,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Mountain",
         "url": "https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV"
       },
@@ -839,22 +823,18 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Where Are Your Kids Tonight? (feat. John Grant)",
-        "url": "https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE"
+        "name": "0151",
+        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        },
-        {
-          "name": "John Grant",
-          "url": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
         }
       ],
-      "duration_ms": 326093,
-      "name": "Where Are Your Kids Tonight? (feat. John Grant)",
-      "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
+      "duration_ms": 281594,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -875,6 +855,26 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Where Are Your Kids Tonight? (feat. John Grant)",
+        "url": "https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        },
+        {
+          "name": "John Grant",
+          "url": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+        }
+      ],
+      "duration_ms": 326093,
+      "name": "Where Are Your Kids Tonight? (feat. John Grant)",
+      "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
     },
     {
       "added_at": "2023-08-04 20:15:09",

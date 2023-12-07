@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,666 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,759 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 131 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/3BcgUbNS733rOBHMM5GiYu) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/7jedHzG94U9F5SFw9Q2XG1) | 2:10 |
 | 132 | [Music Sounds Better with You](https://open.spotify.com/track/1djIwYoEhJj8xvcFeq2mWz) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Music Sounds Better with You](https://open.spotify.com/album/035YWVXzYCTD4ImhwCynSk) | 2:10 |
 | 133 | [Tom's Diner](https://open.spotify.com/track/4Bt0fSAXUzDUAVy4MSjlnD) | [SMYLES](https://open.spotify.com/artist/7bCRnTi1yDFfLbDFkMqvaS) | [Tom's Diner](https://open.spotify.com/album/0yo7vZCRuFxmNdOnpkjVx0) | 2:48 |
-| 134 | [Whenever, Wherever \- Radio Edit](https://open.spotify.com/track/7KbJ0wCI7Wp5nxJOOGTcrV) | [Stockanotti](https://open.spotify.com/artist/1qFwV0tV0kiowdZQPy10Ol), [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Whenever, Wherever](https://open.spotify.com/album/0qgmftoXfwIZIxc6ADtcgY) | 2:16 |
+| 134 | [Whenever, Wherever](https://open.spotify.com/track/7KbJ0wCI7Wp5nxJOOGTcrV) | [Stockanotti](https://open.spotify.com/artist/1qFwV0tV0kiowdZQPy10Ol), [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Whenever, Wherever](https://open.spotify.com/album/0qgmftoXfwIZIxc6ADtcgY) | 2:16 |
 | 135 | [Work from Home](https://open.spotify.com/track/5YNgMxuBxtFsUzPZQACHzy) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [HUX](https://open.spotify.com/artist/6L4AbBcjPNpjBo3Y4h4kTO), [Rosewill](https://open.spotify.com/artist/4pfAvcaMcbm3m4Szgg1s3M) | [Work from Home](https://open.spotify.com/album/1Lyw2etBovz3H1rv4BgRRq) | 2:31 |
 | 136 | [So Good To Me](https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [So Good To Me](https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38) | 3:36 |
 | 137 | [Higher Power](https://open.spotify.com/track/536Tq3buR3TeymyfLBTxWq) | [Nerds At Raves](https://open.spotify.com/artist/7yYgvkLYx4c2N50oltKonj), [Just Mike](https://open.spotify.com/artist/0qnthlpNbMVdAjnb9NiObB), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Ramori](https://open.spotify.com/artist/7sm76akhJ3Z0Za1iNZtqpo) | [Higher Power](https://open.spotify.com/album/6KWVIYdPUbBSkv443d41Qb) | 2:24 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCxiZjAxNGM1NDNkYzA3ZDE1OTRmZjQ1MzQxOWFjZjI3Mjk4ZjU1NjM3`
+Snapshot ID: `MCw2MDBiMmEyYWQ0YzMzNzhiMjEzMzVhODA5MzY4NmFkMGNkZjk4YWQ3`

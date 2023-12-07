@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,094 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,160 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 48 | [Wakuseitsushin feat\. Mel](https://open.spotify.com/track/5sPyRxOdmBXoONmkIXAUkK) | [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [Wakuseitsushin feat\. Mel](https://open.spotify.com/album/1WqErc2gluGCawMMWoaGtf) | 4:16 |
 | 49 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 |
 
-Snapshot ID: `MCxkZGQ3NGNhN2ViZTQwZmY4M2Y1MjM3NzAwZmZjNjk2ODhhZDAzMDhi`
+Snapshot ID: `MCxmNjZmNDg3YjY0ZTlhN2JkMzEzYTA3OTUyYzZiN2YxZTIxYjgzMGVi`

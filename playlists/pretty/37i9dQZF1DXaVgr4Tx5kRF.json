@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 639458,
+  "num_followers": 639565,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTUzMzc4M2Y2NTNjZjU1NjgwNTExMjZiNzU1YzEwOWM2MDYyNzQ5",
+  "snapshot_id": "MCwxZGY5YjI3YWU4ZWEzYjBhYTkzZjUyNDJhNmUwZTQzYmI0ZDM4NjI4",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
-      },
-      "artists": [
-        {
-          "name": "Happy Mondays",
-          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Kinky Afro - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 422600,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
+      },
+      "artists": [
+        {
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Kinky Afro - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 199773,
       "name": "Slight Return",
       "url": "https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
     },
     {
       "added_at": "2022-05-04 17:11:49",

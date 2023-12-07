@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,856 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,872 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 46 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
 | 47 | [FUGITIVOS](https://open.spotify.com/track/3cAErsfyoQZyvfpWHOnmSd) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [FUGITIVOS](https://open.spotify.com/album/0mzw7WShOLxzZFOOJbKv8p) | 2:54 |
 | 48 | [Mi Negro](https://open.spotify.com/track/0bnUwH9AV8bapbQVO4lxeQ) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Atómica](https://open.spotify.com/album/7oj2qCLRzyE9VTI4T7eime) | 3:59 |
-| 49 | [Pelicula De Adolescentes](https://open.spotify.com/track/3bCJWrkcmgjcvyXvjHxTlK) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Película De Adolescentes](https://open.spotify.com/album/7DjwtIgVbzZztvayuTWmhF) | 2:48 |
+| 49 | [Película De Adolescentes](https://open.spotify.com/track/3bCJWrkcmgjcvyXvjHxTlK) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Película De Adolescentes](https://open.spotify.com/album/7DjwtIgVbzZztvayuTWmhF) | 2:48 |
 | 50 | [Gira](https://open.spotify.com/track/7hDpEwR09FbmMtp5cYyeoN) | [Alvarezmejia](https://open.spotify.com/artist/5EwgF5JefyGGnsUn6cKuo7), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Elefante](https://open.spotify.com/album/3xIKLVK61GlkdHojlOxzK3) | 2:58 |
 | 51 | [Dangerous](https://open.spotify.com/track/2S98gd8hjcg5gtNDgsnyx3) | [Kleinevlam](https://open.spotify.com/artist/0UyOphy0eyixk0EmaDqBLx), [Cm2](https://open.spotify.com/artist/0CzeXlUTm8wTk43s6QB9XF), [YUNGSTEALY](https://open.spotify.com/artist/1PL5muiJjjGEed6vpzRA5A) | [Dangerous](https://open.spotify.com/album/5Jyih0CqOl9I85X6XKRjxM) | 2:21 |
 | 52 | [Matadinha De Saudade \- Ao Vivo](https://open.spotify.com/track/5G2BT0ajtZQNy6FMDA5u8P) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Matadinha De Saudade \(Ao Vivo\)](https://open.spotify.com/album/1pxeauQMDEzXSu0xgzFMFR) | 2:56 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 56 | [Voltei Pra Cachorrada](https://open.spotify.com/track/2gF0DUT64JEFjqb0PJXj1M) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4PIUg2M3yEkQQFEK0zY0uz) | 2:23 |
 | 57 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 |
 
-Snapshot ID: `MCw1ZWIwNTBmMjJmMWNiYTE0MjBhMWFmZmE2ZWMyYjQ4ZTFlNjk3ZWIx`
+Snapshot ID: `MCwxY2Y0NzU5ODk0OTU1MWZmYTc3Zjg3YzhjNWY1MzU3NzA0OWZjMmE0`

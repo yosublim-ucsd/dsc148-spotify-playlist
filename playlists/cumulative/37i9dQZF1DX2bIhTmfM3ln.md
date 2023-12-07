@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-378 songs - 18 hr 49 min
+379 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Peace of Mind](https://open.spotify.com/track/3iSPa1byIatby865yq5GwD) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Peace of Mind](https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc) | 2:53 | 2023-03-18 | 2023-04-15 |
 | [Peace of Mind \- Remix](https://open.spotify.com/track/08raobDIp9txgKq6u9RbCV) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Peace of Mind \(Remix\)](https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk) | 2:41 | 2023-05-26 | 2023-06-10 |
 | [Peppermint](https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peppermint](https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C) | 2:22 | 2023-08-10 | 2023-11-24 |
+| [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 | 2023-12-01 |  |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-11-24 |
 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 | 2022-02-14 | 2023-02-24 |
 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 | 2023-02-10 |  |
@@ -318,7 +319,7 @@
 | [Sofri](https://open.spotify.com/track/6S5XNauc7v8FLJWEIk0z2c) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:59 | 2022-08-05 | 2023-10-13 |
 | [Soja Man](https://open.spotify.com/track/5aIoeJtgsMlpyuSsa6s0k8) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/00jKow5FJLfnD2FW57m77E) | 3:21 | 2023-03-30 | 2023-04-29 |
 | [Somebody](https://open.spotify.com/track/13sENmd5vkGo9pRW2a2lh0) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Somebody](https://open.spotify.com/album/2jBAGBR9vEW6VX2Rk4eh0F) | 3:30 | 2023-11-13 |  |
-| [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-02-11 |  |
+| [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-02-11 | 2023-12-07 |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 | 2023-09-29 |
 | [Soundgasm](https://open.spotify.com/track/2psl5iNJCrmmm2XtS7LZqb) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:24 | 2022-02-11 | 2023-02-24 |

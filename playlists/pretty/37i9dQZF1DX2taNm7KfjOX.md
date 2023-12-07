@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,905 likes - 150 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,951 likes - 150 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Words](https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Waking Up](https://open.spotify.com/album/5740DSdBXecq02r5WpIigM) | 5:25 |
 | 150 | [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 |
 
-Snapshot ID: `MCwwMjVhMzczZjdkMmQxMWFlMDA2MjMwYjA4YjJlYjg0NzYwZmJkNTE5`
+Snapshot ID: `MCwxZDRlZWRkMmY3NjE1N2EyNjA4NDg2MmQ1NWQ1Njk0M2UwMzBmOTgx`

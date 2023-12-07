@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=b58foJ64RBKLJKWWf8O7qQ"> M.anifest</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,577 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,606 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 5 | [Suffer II](https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Suffer II](https://open.spotify.com/album/0cb6nLa4YuOkG1dlG95zC8) | 4:59 |
 | 6 | [Balenciaga](https://open.spotify.com/track/3mHz3yqx958dVb2BlLoePR) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Balenciaga](https://open.spotify.com/album/5kcBkleDp2ajk9SknSxZo9) | 3:10 |
 | 7 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 |
-| 8 | [Botom Pawa](https://open.spotify.com/track/1cXFR1izIWjxMb03iVBWyp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E) | [Botom Pawa](https://open.spotify.com/album/3dWZ8BpwHV9BLcwIXZBHnD) | 3:32 |
+| 8 | [Botom Pawa](https://open.spotify.com/track/1cXFR1izIWjxMb03iVBWyp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E) | [Botom Pawa](https://open.spotify.com/album/3dWZ8BpwHV9BLcwIXZBHnD) | 3:32 |
 | 9 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
 | 10 | [Run](https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:32 |
 | 11 | [Live From 233](https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 84 | [LUV THY BROTHER AS THY SELF](https://open.spotify.com/track/42HJiaqkS0jPlljIEcmWWK) | [Kwelit](https://open.spotify.com/artist/3H0hY5Y8gwHixRK5QoQ0wZ) | [PA!N](https://open.spotify.com/album/3YDUPN44CCjxug4rNQop9b) | 1:58 |
 | 85 | [Muntashi](https://open.spotify.com/track/23qrtEsnizy2O5v6Tr8MJQ) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Muntashi](https://open.spotify.com/album/6U0FDsijUBOM1IrraXxBeK) | 2:38 |
 
-Snapshot ID: `MCw4OTFlOGE3MDg0OGI2ODQxZDQ0YTE2YjBiZGU1Yzk3NjQ5ZTU3YWE4`
+Snapshot ID: `MCwxY2NhYmQwZmU3ZGRjNDY1ZjAzYzM5NjNmZjk5MzI5NmE0NWNkYTk3`

@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 291150,
+  "num_followers": 291277,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2QxODg5ZmQ5YjgzOGI5N2U3YzE1ZDY0NTQ3ZTkxYzJkNDE5M2Uy",
+  "snapshot_id": "MCxhOGRiNTliMTJjOWM4ZGU4ODY4NzVlZTBlYzYzODlhYWQ5ODc0YzQy",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/5DNdyrCHb0OIhNHI0vu9vf"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 232473,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/7b1E7EB2odr3au4goaDxn2"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Cosmic Palace",
         "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 254080,
       "name": "Cosmic Palace",
       "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/5DNdyrCHb0OIhNHI0vu9vf"
-      },
-      "artists": [
-        {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
-        }
-      ],
-      "duration_ms": 232473,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/7b1E7EB2odr3au4goaDxn2"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dawn Rest",
-        "url": "https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn"
-      },
-      "artists": [
-        {
-          "name": "Zai Kowen",
-          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
-        }
-      ],
-      "duration_ms": 221888,
-      "name": "Dawn Rest",
-      "url": "https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Left to Our Own Devices",
         "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 416000,
       "name": "Arms of Mine",
       "url": "https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dawn Rest",
+        "url": "https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn"
+      },
+      "artists": [
+        {
+          "name": "Zai Kowen",
+          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
+        }
+      ],
+      "duration_ms": 221888,
+      "name": "Dawn Rest",
+      "url": "https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
-      },
-      "artists": [
-        {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "\u8a69 Desktop",
-      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "The 33rd Split",
         "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 115802,
       "name": "King Quartz - 4:14 in 313",
       "url": "https://open.spotify.com/track/6ia8lBBSgF2P6xk1WEj2mn"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Network Entities",
+        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
+      },
+      "artists": [
+        {
+          "name": "Incorporeal Visions Deluxe",
+          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "\u8a69 Desktop",
+      "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u30aa\u30aa\u30cf\u30b7",
-        "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
       "artists": [
         {
-          "name": "Frez Wave",
-          "url": "https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 85090,
-      "name": "Golden Glass",
-      "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "\u30aa\u30aa\u30cf\u30b7",
+        "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
+      },
+      "artists": [
+        {
+          "name": "Frez Wave",
+          "url": "https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox"
+        }
+      ],
+      "duration_ms": 85090,
+      "name": "Golden Glass",
+      "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Network Entities",
         "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 78947,
       "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
       "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 52937,
+      "name": "Diffusion '89",
+      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 484471,
       "name": "Downpour",
       "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 52937,
-      "name": "Diffusion '89",
-      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Open Tournament 27XX",
         "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+      },
+      "artists": [
+        {
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+        }
+      ],
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 234013,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "No Sugar Added",
-        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
-      },
-      "artists": [
-        {
-          "name": "Runners Club 95",
-          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
-        }
-      ],
-      "duration_ms": 162228,
-      "name": "Carrie Bradshaw",
-      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1579,6 +1563,38 @@
       "duration_ms": 196956,
       "name": "On the Promenade (George Clanton Remix)",
       "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1611,22 +1627,6 @@
       "duration_ms": 232000,
       "name": "Fever Dream - slowed + reverb",
       "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 106802,
-      "name": "I Used To Make Vaporwave",
-      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "24Hrs.",
         "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 145240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 106802,
+      "name": "I Used To Make Vaporwave",
+      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
     },
     {
       "added_at": "2023-07-18 02:19:19",

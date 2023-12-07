@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,386 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,430 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 49 | [Cuando Salga La Luna](https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Cuando Salga La Luna](https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL) | 2:26 |
 | 50 | [CRIMINAL](https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [CRIMINAL](https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB) | 3:00 |
 
-Snapshot ID: `MCwxMWJmM2E5OTdhMzdiOTg0M2ZhNTU0ZTEwMWJiNmU3NTE2OTE3MTk3`
+Snapshot ID: `MCxlMDIyM2U4MzUyOTIwMWJiMTdkZjY5ODgwZTU5ZTQwMjIxOWQ0MTVk`

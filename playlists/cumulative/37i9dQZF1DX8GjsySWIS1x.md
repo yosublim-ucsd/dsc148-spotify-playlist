@@ -2,9 +2,9 @@
 
 ### [Now Loading](https://open.spotify.com/playlist/37i9dQZF1DX8GjsySWIS1x)
 
-> The latest in gamer music.
+> The latest promotional gaming tracks, gaming synchs, and more.
 
-800 songs - 1 day 20 hr 21 min
+801 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 | 2021-04-21 | 2021-12-11 |
 | [Lost It All](https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Lost It All](https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC) | 4:02 | 2022-05-11 |  |
 | [Love Ain't Enough](https://open.spotify.com/track/2al1fEgjLT67Un7rKxfqcg) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Ain't Enough](https://open.spotify.com/album/4V28m9PfX2Owc47STGxcCu) | 2:55 | 2021-05-23 | 2021-12-11 |
+| [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:07 | 2023-12-06 |  |
 | [Love Is Religion \(The Blessed Madonna Remix\) \[Mixed\]](https://open.spotify.com/track/3q4cfRBOyj4WqQYV9HrsUh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:29 | 2021-05-22 | 2021-05-28 |
 | [Love Love Love](https://open.spotify.com/track/4wdW9m2fsc8nR7RBNqLkX0) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Love Love Love](https://open.spotify.com/album/3FSqrYSDtxEfxbpTf1XJoF) | 3:42 | 2021-10-16 | 2021-10-22 |
 | [Love Natural](https://open.spotify.com/track/6wpx4u1PeQlXEvZMPQ49sU) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Cave Rave](https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP) | 3:19 | 2021-05-22 | 2021-05-23 |

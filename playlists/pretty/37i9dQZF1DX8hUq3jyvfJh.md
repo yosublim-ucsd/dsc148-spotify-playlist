@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,636 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,936 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,23 +25,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 15 | [Campo De Morango](https://open.spotify.com/track/2exu569k07hUulN9CoPnMH) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 1:16 |
 | 16 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/0P0k5KoLcxi0kf1jik4v8X) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Mari Fernandez Ao Vivo Em São Paulo](https://open.spotify.com/album/4GBXBjWiyAfZiKph3ThZTZ) | 3:21 |
 | 17 | [Dano Sarrada](https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:25 |
-| 18 | [Tengo](https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:09 |
+| 18 | [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 |
 | 19 | [Whisky Vagabund0 \- Ao Vivo](https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:33 |
 | 20 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
 | 21 | [Admirável Chip Novo](https://open.spotify.com/track/7o7MExeF7niW4VFiie5Zxh) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:11 |
 | 22 | [Ponto Final \- Ao Vivo](https://open.spotify.com/track/78UZagNegqHZAKv3491xB2) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:27 |
 | 23 | [e se for pra ser sincera:](https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [e se for pra ser sincera:](https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet) | 3:14 |
-| 24 | [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 |
+| 24 | [Tengo](https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:09 |
 | 25 | [Meu Paraíso Sou Eu](https://open.spotify.com/track/0vzum63gEJ458xzIiaXCZY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 1:57 |
 | 26 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
-| 27 | [Fã Incubado](https://open.spotify.com/track/2VqYfuxIvdfxvz6gzYyten) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Quer Dançar](https://open.spotify.com/album/6P6steMdU7Kg08bGmDYL2d) | 2:19 |
+| 27 | [FÃ INCUBADO](https://open.spotify.com/track/2VqYfuxIvdfxvz6gzYyten) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [QUER DANÇAR](https://open.spotify.com/album/6P6steMdU7Kg08bGmDYL2d) | 2:19 |
 | 28 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
 | 29 | [PLAYLIST DE SEXO](https://open.spotify.com/track/4lxDwxNxvod11PZzYMPcmw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:38 |
 | 30 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
-| 31 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
+| 31 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
 | 32 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
 | 33 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 |
-| 34 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
+| 34 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
 | 35 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
 | 36 | [Gostosa com Intensidade](https://open.spotify.com/track/4BtCOkKOmlwWPjqpHM4iRw) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:18 |
 | 37 | [Faz Parte Do Meu Show](https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Faz Parte Do Meu Show](https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Tem Dendê/ Figa de Guiné \- Ao Vivo](https://open.spotify.com/track/6JZMrxEDFKNQouzJwpwaoN) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0) | 3:32 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCwwMTRhYTU1Mzk1Y2MwOTkwZTZmNDBiNjgzMDM0MzZlYzU3OTkwZGRi`
+Snapshot ID: `MCw3YTA2ZmYxNTYzZTQwNjZiZjk2ZjQ3Yjg5MjRmNmQ5OThlMGMzZTBk`

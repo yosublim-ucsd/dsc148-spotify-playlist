@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,972 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,053 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 10 | [Forever](https://open.spotify.com/track/0gKtM9aX5GGo1Kg0Zrwb8b) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Forever](https://open.spotify.com/album/6r4rwrTK0YafCqrtlk2tyl) | 2:38 |
 | 11 | [Darkest Hour](https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Darkest Hour \[UKF10\]](https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh) | 4:45 |
 | 12 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
-| 13 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
-| 14 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
+| 13 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
+| 14 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
 | 15 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 |
 | 16 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 |
 | 17 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Earthquake](https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Sounds Of The Street II](https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG) | 2:26 |
 | 50 | [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 |
 
-Snapshot ID: `MCxjMjcwOGE0Y2E5MmUyMzI3MmQ0YWQ2MDE0MThhOGFlMDliMDY0YWY4`
+Snapshot ID: `MCwyNzU0OTg1NmQxN2ViMGRiOTY0YzYyZTgzYzhhMmJhNDAyZjZiMjk2`

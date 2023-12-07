@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-190 songs - 8 hr 30 min
+192 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [EMPHASIS](https://open.spotify.com/track/33wy9ENUVmxzSVUuMFCKD3) | [Lxght ライト](https://open.spotify.com/artist/1jRut00RsTU5L8nJ7imTr9), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [EMPHASIS](https://open.spotify.com/album/5uc8aObzf0BH3nkv9wbSy1) | 3:14 | 2022-12-16 | 2022-12-24 |
 | [End of the World](https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World](https://open.spotify.com/album/4EBa1AFntytE0kwgUes6n6) | 2:44 | 2022-10-10 |  |
 | [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 | 2022-10-10 | 2022-12-31 |
-| [ENDLESS UNIVERSE](https://open.spotify.com/track/547me0XjHDVwhmUyj4g1rL) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/5qYUor2QBiTcRJJmDgivX9) | 2:52 | 2023-08-11 |  |
+| [ENDLESS UNIVERSE](https://open.spotify.com/track/2h7irVFGag3FMI1XU182bQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/1CuiJwRwtWI9k67Xli2YJQ) | 2:52 | 2023-08-11 |  |
+| [ENDLESS UNIVERSE](https://open.spotify.com/track/547me0XjHDVwhmUyj4g1rL) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/5qYUor2QBiTcRJJmDgivX9) | 2:52 | 2023-08-11 | 2023-12-07 |
 | [ENDLESS VOID](https://open.spotify.com/track/1ZzxutGot8uQzdvtwZnqhz) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [ENDLESS VOID](https://open.spotify.com/album/5PsqDyjDE9FPUkQgWNwv56) | 2:22 | 2022-10-10 |  |
 | [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 |  |
 | [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 | 2022-10-10 |  |
@@ -121,7 +122,8 @@
 | [MY LIFE](https://open.spotify.com/track/053gZ2j8c8cVK9ec5nPJbZ) | [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh), [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A) | [MY LIFE](https://open.spotify.com/album/5G2cyv4KGkZ1z033AbZjOV) | 1:52 | 2023-09-29 |  |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-10-10 | 2023-01-21 |
 | [MY WORLD](https://open.spotify.com/track/3VDGdOujH6PrDEPzbydrM9) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27), [PHONK.EXE](https://open.spotify.com/artist/3LTVq8jMbES1jTJaghsw5C) | [MY WORLD](https://open.spotify.com/album/09AkyzOHO3ymWmm9CYz6BF) | 2:03 | 2023-06-09 |  |
-| [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2022-10-10 |  |
+| [Next Day Was Yesterday](https://open.spotify.com/track/1fsKkXFu9AKvKDQFKrzz6p) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/33eCGntZUPDW5Sa7OK804R) | 2:52 | 2023-03-10 |  |
+| [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2022-10-10 | 2023-12-07 |
 | [night drive](https://open.spotify.com/track/483zAX1Wr9Eguhl28c1FUv) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [night drive](https://open.spotify.com/album/5CYYo6qi5CiYSZHrZdadfg) | 2:26 | 2023-06-09 |  |
 | [Night Drive](https://open.spotify.com/track/0zUaZGWTnuU9eAvYIAOCet) | [Digma](https://open.spotify.com/artist/4yoc4oFXtddeMUM0IPPr4a), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Night Drive](https://open.spotify.com/album/4KfiISrF4UYPIhPLvJsIjI) | 2:47 | 2023-02-24 |  |
 | [Night Drive](https://open.spotify.com/track/4TixrVMeVgwh6VuIc7WjMr) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/1WAQ6fdYFjJuSjs0rKDx31) | 2:51 | 2022-10-10 | 2023-05-10 |

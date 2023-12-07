@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Afterglow of Ragnarok",
+        "url": "https://open.spotify.com/album/2E57avEBH8Ft3A8W7c7Rlk"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345391,
+      "name": "Afterglow of Ragnarok",
+      "url": "https://open.spotify.com/track/0sk0mL3I4X7h6iPt9eJrwQ"
+    },
+    {
+      "album": {
         "name": "The Ghost Inside",
         "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
       },
@@ -1156,6 +1174,36 @@
       "duration_ms": 675653,
       "name": "Black No. 1 (Little Miss Scare -All)",
       "url": "https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p"
+    },
+    {
+      "album": {
+        "name": "Rumble of Thunder (Deluxe)",
+        "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
     },
     {
       "album": {
@@ -2562,7 +2610,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 212720,
       "name": "Damnation Flame",
       "url": "https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE"
@@ -3537,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Embers Fire",
+        "url": "https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291373,
+      "name": "Embers Fire",
+      "url": "https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x"
+    },
+    {
+      "album": {
         "name": "Winterbane (Japan Edition)",
         "url": "https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3"
       },
@@ -3924,6 +3990,28 @@
       "duration_ms": 258837,
       "name": "Feast Of Fire",
       "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "album": {
+        "name": "Feeding Demons",
+        "url": "https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        },
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Feeding Demons",
+      "url": "https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq"
     },
     {
       "album": {
@@ -4954,7 +5042,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 295373,
       "name": "Headbangers Ballroom",
       "url": "https://open.spotify.com/track/6saan07rgxLNm9DYBYdHxd"
@@ -5228,7 +5316,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 203560,
       "name": "Hip To Be Scared [Feat. Jacoby Shaddix]",
       "url": "https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy"
@@ -5358,7 +5446,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 198665,
       "name": "Hunting Season",
       "url": "https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP"
@@ -5376,7 +5464,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 307652,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y"
@@ -5502,7 +5590,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 263560,
       "name": "I Don't Believe In Love - Remastered 2003",
       "url": "https://open.spotify.com/track/3p9GbXMy1f9Efhdfj0QNBG"
@@ -5542,6 +5630,24 @@
       "duration_ms": 242773,
       "name": "I Gotta Rock (again)",
       "url": "https://open.spotify.com/track/6usbiVjaHuYUlt1HbCmgCT"
+    },
+    {
+      "album": {
+        "name": "I Left My License in the Future",
+        "url": "https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212635,
+      "name": "I Left My License in the Future",
+      "url": "https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4"
     },
     {
       "album": {
@@ -5592,7 +5698,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 223533,
       "name": "I Wanna Be Somebody",
       "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
@@ -8176,7 +8282,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 238760,
       "name": "Of Course I Still Love You",
       "url": "https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu"
@@ -8385,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "Outer Dimensions",
+        "url": "https://open.spotify.com/album/1g2CRYugkE60cBxB2WSOLi"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Outer Dimensions",
+      "url": "https://open.spotify.com/track/13E52tvYVKOyd7COIs1cba"
+    },
+    {
+      "album": {
         "name": "Over the Horizon Radar",
         "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
       },
@@ -8400,6 +8524,24 @@
       "duration_ms": 323990,
       "name": "Over the Horizon Radar",
       "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
+    },
+    {
+      "album": {
+        "name": "Shrine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Overthrone",
+      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
     },
     {
       "album": {
@@ -9874,7 +10016,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 180173,
       "name": "Seven Headed Whore",
       "url": "https://open.spotify.com/track/1hMe8GvsGxd2Z442FDVg5Y"
@@ -9958,6 +10100,24 @@
       "duration_ms": 270479,
       "name": "Shed My Skin (feat. Annisokay)",
       "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
+    },
+    {
+      "album": {
+        "name": "Shock To The System",
+        "url": "https://open.spotify.com/album/2qalC4ZP1pdpXyBeM5NYlw"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220107,
+      "name": "Shock To The System",
+      "url": "https://open.spotify.com/track/3WABwzdfznRv90Tai7P1in"
     },
     {
       "album": {
@@ -10608,6 +10768,24 @@
       "duration_ms": 263266,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
+    },
+    {
+      "album": {
+        "name": "Songs Of The Dusk - EP",
+        "url": "https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410746,
+      "name": "Stained in Red",
+      "url": "https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC"
     },
     {
       "album": {
@@ -12828,7 +13006,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
@@ -13546,6 +13724,24 @@
       "duration_ms": 255595,
       "name": "Where Ravens Fly",
       "url": "https://open.spotify.com/track/7qCKEovFm1LavsV0BeN8Ty"
+    },
+    {
+      "album": {
+        "name": "The Forgotten",
+        "url": "https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362500,
+      "name": "While We Serve",
+      "url": "https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0"
     },
     {
       "album": {

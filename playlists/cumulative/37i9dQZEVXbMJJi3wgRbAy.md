@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-677 songs - 1 day 12 hr 8 min
+678 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,7 +648,8 @@
 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 | 2023-03-03 | 2023-03-19 |
 | [UOH OH OH](https://open.spotify.com/track/2LhnFINENqZgFnLIlChHzw) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 1:25 | 2022-11-12 | 2022-11-26 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-24 | 2023-06-10 |
-| [Ven Mami](https://open.spotify.com/track/7mMmRGHCrxF8T3opGtrpHh) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7vc0kLosxs4uXJlnxuaN4D) | 2:51 | 2023-04-23 |  |
+| [Ven Mami](https://open.spotify.com/track/6pildotJolQfz6sS66RG6y) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7DUmakEvCrPVq013IrGiHD) | 2:51 | 2023-12-06 |  |
+| [Ven Mami](https://open.spotify.com/track/7mMmRGHCrxF8T3opGtrpHh) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7vc0kLosxs4uXJlnxuaN4D) | 2:51 | 2023-04-23 | 2023-12-07 |
 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-05 | 2023-08-07 |
 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2021-03-27\* | 2021-05-16 |
 | [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 | 2021-03-27\* | 2021-05-05 |

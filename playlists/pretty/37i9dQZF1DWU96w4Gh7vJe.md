@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,569 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,628 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Especially For You](https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Versions & Beyond](https://open.spotify.com/album/1cThuysJDdNOhR6dvgI1fx) | 3:43 |
 | 50 | [Kahit Di Mo Alam](https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Kahit Di Mo Alam](https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN) | 4:42 |
 
-Snapshot ID: `MCxkOTNhZWU3OWUxNGUxZmI3MTUwNTg4NDkzNzhhZWJiMGNhMWJhNjVm`
+Snapshot ID: `MCw2ZGUyYmZlZDY5ODA1YWQwZWI2YTg0ZTg2Y2IyZjMwNjYwNTEyNWUw`

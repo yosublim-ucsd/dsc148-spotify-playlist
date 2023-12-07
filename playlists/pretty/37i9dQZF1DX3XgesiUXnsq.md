@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Masta Ace, Marco Polo
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,653 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,737 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Father Time \- 2018 Version](https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Father Time \(2018 Version\)](https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW) | 4:43 |
 | 100 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
 
-Snapshot ID: `MCw5YWUzOTQ4MGU1NjY5ZmNmOWJkOTA0ZjZiM2EyZTQ2Y2FiMGVlNzg3`
+Snapshot ID: `MCwxZjdkZmFiYjVjNmEyZmJlZmE5ODcxZDhjNjI1NjJmNjM1NGNmYmI4`

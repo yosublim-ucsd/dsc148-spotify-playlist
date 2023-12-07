@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: Sean Leon & Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,104 likes - 150 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,075 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
 | 150 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 |
 
-Snapshot ID: `MCwwODY1MDc5MWRmYWU1OTgxNzdjMGUzY2FiYWU3NTFkYTMxMzc5ZGQ3`
+Snapshot ID: `MCw3NWU0Y2UyNGM3NTYwNGM3ODA5ZTQ2NjQ4OTgxMjA0NTkyOWYwMzcx`

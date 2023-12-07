@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family\. Curated by John Legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,681 likes - 33 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,305 likes - 33 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 32 | [I'll Be Home For Christmas \(If Only In My Dreams\)](https://open.spotify.com/track/6U3qWV8btMu6cv9mSpFQen) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:13 |
 | 33 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/1x0NszvaftnHtijIId3ivk) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:30 |
 
-Snapshot ID: `MCw5ODJkMjc3MmVjMjk1MzBkYzJhN2I2ZmE0ZWJlY2JmOGVkNmQ2OTA0`
+Snapshot ID: `MCxiZTIwMTBkZTc3MDcxMTUyZjQyMDk1NTc2NDFiOTI3ODBjNGZhYjJi`

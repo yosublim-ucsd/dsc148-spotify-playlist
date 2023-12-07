@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: Said The Sky, Terry Zhong, CVBZ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,384 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,407 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Odd Ones Out](https://open.spotify.com/track/1zJCUEHGrb6fDlkbw98CXB) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Odd Ones Out](https://open.spotify.com/album/1bGpF4kIfgBtjVATf6YROu) | 3:45 |
 | 150 | [Just Like You](https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Just Like You](https://open.spotify.com/album/4PPUdNjkbbVWrdby0AamEx) | 4:28 |
 
-Snapshot ID: `MCw1MDk0NDBlODdjNDVkM2VlMzc5OTMxZGFiNjUwMWJhMDc1MWRmN2M0`
+Snapshot ID: `MCxkNWJmNDM3YTFkOTU4ZDBkMDMwYTkzY2U0YThlZjYyMzQ3YjlhYjBm`

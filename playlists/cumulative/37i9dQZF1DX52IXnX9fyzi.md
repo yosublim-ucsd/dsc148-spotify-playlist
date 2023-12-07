@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-406 songs - 17 hr 27 min
+408 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [Tefu](https://open.spotify.com/track/6Kvyy9j56qtmwfo0O2J2TN) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Tefu](https://open.spotify.com/album/5O0e8gm3TFLdoJrAdADIEo) | 2:24 | 2022-10-26 |  |
 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-06-07 |  |
 | [Textures](https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Textures](https://open.spotify.com/album/2lID0uhvL3FyrwaYxRZWiw) | 2:09 | 2022-04-14 |  |
-| [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-21 |  |
+| [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-21 | 2023-12-07 |
+| [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-21 |  |
 | [The Half Light](https://open.spotify.com/track/71yLhDpyToB7Z0e7COEd6a) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Half Light](https://open.spotify.com/album/6xOrmL9RVWh61RdOGZ7f6n) | 3:04 | 2022-04-14 | 2022-04-28 |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2022-04-14 | 2022-07-16 |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2022-04-14 | 2022-12-24 |
@@ -387,9 +388,10 @@
 | [Vesper](https://open.spotify.com/track/0Xo93N3lMP488UozSVcWqw) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Beyond The Gloom](https://open.spotify.com/album/59FiFCeY0eKjQpTMvLgb7E) | 2:12 | 2023-09-05 | 2023-10-26 |
 | [Vesper](https://open.spotify.com/track/3XzxDSOqktjzO5G87ncBf7) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [When The Little Man Speaks](https://open.spotify.com/album/2R4egikVsWjpn0GhfqeeS7) | 2:12 | 2023-08-22 | 2023-09-13 |
 | [Vesper](https://open.spotify.com/track/3eC3m3kEenLAxXF18oFG4G) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:12 | 2023-10-24 | 2023-11-29 |
+| [Vesper](https://open.spotify.com/track/3mKxLeFjVFng9H7fTyR8ho) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:12 | 2023-11-21 |  |
 | [Vesper](https://open.spotify.com/track/533dgu3YC7KwKDHgBPvpxm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:12 | 2023-10-24 | 2023-11-06 |
 | [Vesper](https://open.spotify.com/track/5aHJ4dAzn8fBudSSFqoATm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Afternoon Ending](https://open.spotify.com/album/4FUs9Lg2ZQFrnBHxxcnRAq) | 2:12 | 2023-08-22 | 2023-08-28 |
-| [Vesper](https://open.spotify.com/track/6sQaJc5eWnczHKIHiDfesG) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:12 | 2023-11-21 |  |
+| [Vesper](https://open.spotify.com/track/6sQaJc5eWnczHKIHiDfesG) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:12 | 2023-11-21 | 2023-12-07 |
 | [Vesper](https://open.spotify.com/track/7zYqURwLi01h7Mmel4fefz) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Vesper](https://open.spotify.com/album/7edDr2rApL4jzZ7gusqSjX) | 2:12 | 2023-08-01 | 2023-08-23 |
 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 | 2023-06-20 |  |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2022-04-14 | 2022-05-27 |

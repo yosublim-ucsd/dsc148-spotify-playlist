@@ -4,14 +4,15 @@
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-56 songs - 2 hr 47 min
+57 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/5ZvaHksc9o4AuZVrtOOU0r) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 | 2023-09-22 |  |
 | [Adieu mon pays](https://open.spotify.com/track/3yfXhVUqaITS8azqXyzPWQ) | [Enrico Macias](https://open.spotify.com/artist/1n1k5yFQxYhohOmSWVmTo6) | [Ses Plus Belles Chansons](https://open.spotify.com/album/4sEwk02QPn9VSVGCRX6mUh) | 2:46 | 2023-09-22 |  |
 | [Aline](https://open.spotify.com/track/1N4ixxhbBH1ClnPdTTsRzz) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/0R5sCENJleZp9oxN9JcXgR) | 2:49 | 2023-09-22 | 2023-11-04 |
-| [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 | 2023-09-22 |  |
+| [Aline](https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA) | 2:49 | 2023-09-22 |  |
+| [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 | 2023-09-22 | 2023-12-07 |
 | [Armstrong](https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:17 | 2023-09-22 |  |
 | [Bonnie And Clyde](https://open.spotify.com/track/1bQEtxhbN45ZIiwcJiU1Lw) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 4:16 | 2023-09-22 |  |
 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 | 2023-09-22 |  |

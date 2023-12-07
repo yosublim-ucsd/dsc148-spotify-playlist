@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 115091,
+  "num_followers": 115102,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWEwZjk5YzJjMmRkNGIwOWMxNWQ4Mjk4OGFkZWMyMzYzZDYzZDIw",
+  "snapshot_id": "MCxiMjY3NDI4ODZjODIyN2RhZGYzNDJmZjIwYzRmYjc1ODY1MWQwNmNm",
   "tracks": [
     {
       "added_at": "2023-11-24 07:57:26",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
+        "name": "Waremu",
+        "url": "https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm"
+      },
+      "artists": [
+        {
+          "name": "SAID",
+          "url": "https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Like A Queen - 2023 Remasterizado",
+      "url": "https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 230967,
       "name": "YA LLORARE(MOS)",
       "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
-        "name": "Waremu",
-        "url": "https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm"
-      },
-      "artists": [
-        {
-          "name": "SAID",
-          "url": "https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf"
-        },
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Like A Queen - 2023 Remasterizado",
-      "url": "https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u"
     },
     {
       "added_at": "2023-11-24 07:57:26",

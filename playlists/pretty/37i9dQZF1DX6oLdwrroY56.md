@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > The leaders in the lively Pinoy indie scene\. Cover: SOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,030 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,062 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 24 | [Panahon](https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Daisy](https://open.spotify.com/album/7hGfFOoXeTlesayHsQv97C) | 4:16 |
 | 25 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 |
 | 26 | [Dance Like You](https://open.spotify.com/track/6i3YUrKwblwZ2lmeJSzJj6) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa) | [Dance Like You](https://open.spotify.com/album/4sm3BFmwbB0TvmD3HiQHJp) | 3:53 |
-| 27 | [ANXIOUS HEART](https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ) | 3:26 |
+| 27 | [ANXIOUS HEART](https://open.spotify.com/track/49Izqy2bYpnFKnlGNQlRbE) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/6g5Y5wbjT5tyTEPicGAL5O) | 3:26 |
 | 28 | [Superhuman](https://open.spotify.com/track/6M99IQOuFJ5cVdROxsBfRW) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Superhuman](https://open.spotify.com/album/0asDwjulJNbXs4j0dt3dVX) | 4:15 |
 | 29 | [North Star](https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [North Star](https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv) | 3:45 |
 | 30 | [Bukas](https://open.spotify.com/track/3VW912q9u9F72sjW2sEc6S) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Bukas](https://open.spotify.com/album/7BAbxSZhRVVF6TRCFQ1JO5) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 49 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
 | 50 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 
-Snapshot ID: `MCw0MzdiMjg2YWViOWJhZThkZmM1MzA4OTViNjljODMzMjE0NjA3NGFm`
+Snapshot ID: `MCxmYWIzYzc5NzQxYmEwMzc2YWJkNjQzNmNkNmEwZmU3ZGVmMGFmYTVi`

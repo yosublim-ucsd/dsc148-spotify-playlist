@@ -4,7 +4,7 @@
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-85 songs - 5 hr 18 min
+86 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Dafne](https://open.spotify.com/track/6X5D4PowFB3IkPlp6NSkga) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Antidoto EP](https://open.spotify.com/album/0F36XdZb3xoUXdgMWz1z60) | 5:00 | 2022-10-14 |  |
 | [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2022-10-14 |  |
 | [Despertar](https://open.spotify.com/track/5zVRJaJBPPtOuc6ku1tln2) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Sketches, Vol\. 1 \(2004\-2007\)](https://open.spotify.com/album/2hCHId2M6SQ48hFEfIOtfh) | 3:37 | 2022-10-14 |  |
-| [Doing My Best](https://open.spotify.com/track/6DRshObi5mpKgQKq8gVhbq) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Doing My Best](https://open.spotify.com/album/5KfeRe8ppMlSWBqvMKkjZd) | 3:20 | 2022-10-14 |  |
+| [Doing My Best](https://open.spotify.com/track/6jDPcT1a1m7iKdaO6SQzGp) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Doing My Best](https://open.spotify.com/album/5HQ7qpPBg8USQoHE66O9C5) | 3:18 | 2022-10-14 |  |
+| [Doing My Best](https://open.spotify.com/track/6DRshObi5mpKgQKq8gVhbq) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Doing My Best](https://open.spotify.com/album/5KfeRe8ppMlSWBqvMKkjZd) | 3:20 | 2022-10-14 | 2023-12-07 |
 | [Don't](https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Don't](https://open.spotify.com/album/4ABrMCSWWbXuInDdNocuY8) | 2:05 | 2022-10-14 |  |
 | [Don't Be Fooled](https://open.spotify.com/track/1zTOwceUJRBG7pNpm2l0Qo) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Netto](https://open.spotify.com/artist/37ZMG1QoWfV5N9Y86gOESb) | [Don't Be Fooled](https://open.spotify.com/album/08EFxXn7PiBPuPggWyCHc6) | 2:31 | 2022-10-14 |  |
 | [DONDE SEA \(feat\. César Pinzón\)](https://open.spotify.com/track/61YWfGz2h2GKLz7MikpxC9) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60), [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [DONDE SEA \(feat\. César Pinzón\)](https://open.spotify.com/album/41Dok3DBiPOcmBrRkoQieq) | 2:55 | 2022-10-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 85077,
+  "num_followers": 85217,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDgxMmQxNjAwZWJiY2YzNzU1YzdhYTZjZGMyNDA0NjM3MGQ1NjYw",
+  "snapshot_id": "MCxmY2Q1MWQxOTI2ZTJhMDQ3OTJmZjU3ZmQ5NWNkMzQxMDY0NjZkNGM5",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Mi Guitarra y Yo Vol. 3",
-        "url": "https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 330696,
-      "name": "Manuel Juarez",
-      "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
+      "duration_ms": 165000,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -755,6 +739,22 @@
       "duration_ms": 224107,
       "name": "Buena Amiga",
       "url": "https://open.spotify.com/track/2QvxxH2qKdMdXGBr0blz1s"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Mi Guitarra y Yo Vol. 3",
+        "url": "https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 330696,
+      "name": "Manuel Juarez",
+      "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
-        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
         }
       ],
-      "duration_ms": 176237,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
+      "duration_ms": 163186,
+      "name": "Melodia Para Dos",
+      "url": "https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
+        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
+        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
       },
       "artists": [
         {
-          "name": "Sonora Tropicana",
-          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Melodia Para Dos",
-      "url": "https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI"
+      "duration_ms": 176237,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 161216,
+      "name": "En Un Jaripeo",
+      "url": "https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Para Siempre Los Nietos De Ter\u00e1n",
         "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Nuestras Favoritas De Joan Sebastian",
-        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+        "name": "Homenaje A Joan Sebastian",
+        "url": "https://open.spotify.com/album/5i8ZaKNJm6gJWQ7ejnzEqH"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
         }
       ],
-      "duration_ms": 161216,
-      "name": "En Un Jaripeo",
-      "url": "https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2"
+      "duration_ms": 226733,
+      "name": "Homenaje A Joan Sebastian",
+      "url": "https://open.spotify.com/track/0jMLgmeFwWmxLn1pzj4JuG"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Nada De Ti",
-      "url": "https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Grandes De Joan Sebasti\u00e1n",
         "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Homenaje A Joan Sebastian",
-        "url": "https://open.spotify.com/album/5i8ZaKNJm6gJWQ7ejnzEqH"
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
       "artists": [
         {
-          "name": "Sonora Tropicana",
-          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 226733,
-      "name": "Homenaje A Joan Sebastian",
-      "url": "https://open.spotify.com/track/0jMLgmeFwWmxLn1pzj4JuG"
+      "duration_ms": 186040,
+      "name": "Nada De Ti",
+      "url": "https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1023,6 +1023,42 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Para Siempre Los Nietos De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/2qnjcjo3vFxZpb62jMKGgW"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Dos Mares M\u00e1s Que Tu",
+      "url": "https://open.spotify.com/track/5VVqX1TUzmuM0neTJNPOWh"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Homenaje al Poeta Gracias Joan Sebastian",
         "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
       },
@@ -1055,26 +1091,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Para Siempre Los Nietos De Ter\u00e1n",
-        "url": "https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        },
-        {
-          "name": "La Abuela Irma Silva",
-          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/2qnjcjo3vFxZpb62jMKGgW"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 205880,
       "name": "La Historia Que No",
       "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Dos Mares M\u00e1s Que Tu",
-      "url": "https://open.spotify.com/track/5VVqX1TUzmuM0neTJNPOWh"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Nuestras Favoritas De Joan Sebastian",
-        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
         }
       ],
-      "duration_ms": 162818,
-      "name": "Nube Gris",
-      "url": "https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4"
+      "duration_ms": 182099,
+      "name": "Aunque Me Duela El Alma",
+      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1167,22 +1167,6 @@
       "duration_ms": 158476,
       "name": "Ahora Si Va En Serio",
       "url": "https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "Aunque Me Duela El Alma",
-      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1215,6 +1199,22 @@
       "duration_ms": 161146,
       "name": "Mi Propio Final",
       "url": "https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 162818,
+      "name": "Nube Gris",
+      "url": "https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Adorado Tormento",
-      "url": "https://open.spotify.com/track/2ytaRTBFbnd3o9AXRC6I0h"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Norte\u00f1o",
         "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 171978,
       "name": "Verdad Que Duele",
       "url": "https://open.spotify.com/track/6HzwkpPOXBCRrkCMd99BRS"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Adorado Tormento",
+      "url": "https://open.spotify.com/track/2ytaRTBFbnd3o9AXRC6I0h"
     },
     {
       "added_at": "2023-04-10 22:49:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,299 likes - 110 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,694 likes - 110 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 109 | [Lazarus](https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Deadwing](https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN) | 4:18 |
 | 110 | [When The Smoke Is Going Down](https://open.spotify.com/track/1Cc1kD0xeMXZpdUinsH1mP) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:50 |
 
-Snapshot ID: `MCxiZGZmYTkxOWY0N2RhZGYwMDZhMGViMTFlZGJhYTQ5OTI4NWJhNDRl`
+Snapshot ID: `MCwyNmY0YTU3YTcwMDE5ODc2Mjc0NzkwODI2MTFmMjgxZTVhYjQ5N2Qw`

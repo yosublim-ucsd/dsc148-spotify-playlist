@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,154 likes - 150 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,170 likes - 150 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 |
 | 150 | [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 |
 
-Snapshot ID: `MCw0OGMzYTdhZGY1NDk5NDRlYTdiMGFlYTIzMzc2MDc4NDA2MmI3YzNm`
+Snapshot ID: `MCw5ZTkyZGE0YmVmODhlMzUwOThiZmU2ZDFmYzhiMzI2ODNmYWM2NDU2`

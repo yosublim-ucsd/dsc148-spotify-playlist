@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 445496,
+  "num_followers": 445546,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTRhMDMxNGY3ZGE5ZWZhNmEwY2IxNzE2MGNjYjhiZTQxNmM2NjVj",
+  "snapshot_id": "MCw5NWJkNmZhNjZjMThlZWJiNmZlODFlOTY4MzY3MmU3YzZiNWM2YWIy",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 163342,
       "name": "Lover",
       "url": "https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Say You'll Be There",
-        "url": "https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 274185,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Say You'll Be There",
+        "url": "https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15"
     }
   ],
   "unique_name": "Chill Covers",

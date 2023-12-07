@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,677,384 likes - 200 songs - 15 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,677,894 likes - 200 songs - 15 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Horns in the Sun](https://open.spotify.com/track/6a6D34Zl60ClugkltmryYp) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Horns In the Sun](https://open.spotify.com/album/0c6GQc9Q3h5MiDco7V8z0I) | 3:19 |
 | 200 | [Simply Put](https://open.spotify.com/track/5F8ZtPUBSVjNygbxNfp4vR) | [Bakai](https://open.spotify.com/artist/5O7M8SLNNzWp0TJWufgUxA), [Orah](https://open.spotify.com/artist/4t0cROlLdti1op48QSOHmn) | [Kiwi Daze](https://open.spotify.com/album/2Knyl8PMxuUU2vHI0h9lgx) | 3:24 |
 
-Snapshot ID: `MCw5ZDI3Njg5ZmNlNDJmYTFmYjg5ODdhM2EzZThmNDUzYzU3YThjZjRk`
+Snapshot ID: `MCw1YWUxNjJkYWJkY2U3YTRlNWViZWY2NzA3ZjM1ZjU2ZTA4N2QxOWI2`

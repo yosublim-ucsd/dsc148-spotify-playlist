@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 147157,
       "name": "living dead!!",
       "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/0GENh5wpCaj351vVUu4Pty"
+      },
+      "artists": [
+        {
+          "name": "TYOSiN",
+          "url": "https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219810,
+      "name": "Suisei",
+      "url": "https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK"
+    },
+    {
+      "album": {
         "name": "SUPER YABAI",
         "url": "https://open.spotify.com/album/3Qi48Pfzq8FldO2nv4KlVw"
       },
@@ -3562,7 +3580,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 219810,
       "name": "\u5f57\u661f",
       "url": "https://open.spotify.com/track/1qEnnY6gKiBXxU4D6shBgH"

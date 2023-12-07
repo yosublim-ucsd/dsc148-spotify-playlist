@@ -72,7 +72,7 @@
     {
       "album": {
         "name": "180",
-        "url": "https://open.spotify.com/album/63BT3kAHpgwL3BEgCAMNyb"
+        "url": "https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C"
       },
       "artists": [
         {
@@ -83,6 +83,24 @@
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185093,
+      "name": "180",
+      "url": "https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx"
+    },
+    {
+      "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/63BT3kAHpgwL3BEgCAMNyb"
+      },
+      "artists": [
+        {
+          "name": "CreativeDrugStore",
+          "url": "https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-07",
       "duration_ms": 185093,
       "name": "180",
       "url": "https://open.spotify.com/track/5xP7qZWK23N78R1ssYKdZ7"
@@ -2332,7 +2350,7 @@
     {
       "album": {
         "name": "GET RIGHT BACK",
-        "url": "https://open.spotify.com/album/7rPMTLwC6z7hTah5wht3JB"
+        "url": "https://open.spotify.com/album/2GRECGqkujuAC6uRvOauPA"
       },
       "artists": [
         {
@@ -2343,6 +2361,24 @@
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 139322,
+      "name": "GET RIGHT BACK",
+      "url": "https://open.spotify.com/track/2ki1pOrszqqEVBjEO2TFsL"
+    },
+    {
+      "album": {
+        "name": "GET RIGHT BACK",
+        "url": "https://open.spotify.com/album/7rPMTLwC6z7hTah5wht3JB"
+      },
+      "artists": [
+        {
+          "name": "CFN MALIK",
+          "url": "https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-07",
       "duration_ms": 139322,
       "name": "GET RIGHT BACK",
       "url": "https://open.spotify.com/track/6Y5MOe2lGdwyfx9IErGONy"
@@ -3427,6 +3463,32 @@
     },
     {
       "album": {
+        "name": "Soul Quake",
+        "url": "https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09"
+      },
+      "artists": [
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Lil Rich",
+      "url": "https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr"
+    },
+    {
+      "album": {
         "name": "REMIXIES",
         "url": "https://open.spotify.com/album/7wV0gaA4KtH6s0PJVcKcyN"
       },
@@ -3971,6 +4033,32 @@
     },
     {
       "album": {
+        "name": "Mune Ni Loyalty",
+        "url": "https://open.spotify.com/album/4jZr44xKS1cDjJOo4w5PG9"
+      },
+      "artists": [
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        },
+        {
+          "name": "ineedmorebux",
+          "url": "https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW"
+        },
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196463,
+      "name": "Mune Ni Loyalty",
+      "url": "https://open.spotify.com/track/1SKUPtggLzRAGkoN4PmDhJ"
+    },
+    {
+      "album": {
         "name": "No.00",
         "url": "https://open.spotify.com/album/5VSSjZsuExEyP8KvO7Tqw3"
       },
@@ -4312,10 +4400,36 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 248682,
       "name": "Nicety",
       "url": "https://open.spotify.com/track/4CtOxFKTVcxHuTRX4NjU4i"
+    },
+    {
+      "album": {
+        "name": "Nicety",
+        "url": "https://open.spotify.com/album/1HMykbwGQ3eFmqpjp98Jl8"
+      },
+      "artists": [
+        {
+          "name": "MuKuRo",
+          "url": "https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc"
+        },
+        {
+          "name": "Kojoe",
+          "url": "https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu"
+        },
+        {
+          "name": "LazyWii",
+          "url": "https://open.spotify.com/artist/7uHOum5FsgkGwkc2UfdkSL"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248682,
+      "name": "Nicety",
+      "url": "https://open.spotify.com/track/4JNaiaqrepEWZDINHsoC01"
     },
     {
       "album": {
@@ -5347,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "SHINUHODO",
+        "url": "https://open.spotify.com/album/1oCxkPibqcgXKPBXqrvNyn"
+      },
+      "artists": [
+        {
+          "name": "Masato Hayashi",
+          "url": "https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "SHINUHODO",
+      "url": "https://open.spotify.com/track/69IMWw9QRc46zDz9GhGBoW"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/25dVUApnE4VByJbfCZBhkh"
       },
@@ -5550,6 +5682,42 @@
       "duration_ms": 158644,
       "name": "STREET PAIN",
       "url": "https://open.spotify.com/track/1wUiccguJBdBWQOsf98ZK1"
+    },
+    {
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/0GENh5wpCaj351vVUu4Pty"
+      },
+      "artists": [
+        {
+          "name": "TYOSiN",
+          "url": "https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219810,
+      "name": "Suisei",
+      "url": "https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK"
+    },
+    {
+      "album": {
+        "name": "Noodle",
+        "url": "https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172355,
+      "name": "Super Fresh",
+      "url": "https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0"
     },
     {
       "album": {
@@ -6710,7 +6878,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 201200,
       "name": "\u5c0f\u30ea\u30c3\u30c1",
       "url": "https://open.spotify.com/track/3JxgkAyvvwDtTZ4NsA0rpU"
@@ -6746,7 +6914,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 219810,
       "name": "\u5f57\u661f",
       "url": "https://open.spotify.com/track/1qEnnY6gKiBXxU4D6shBgH"
@@ -6786,7 +6954,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 162500,
       "name": "\u6b7b\u306c\u307b\u3069",
       "url": "https://open.spotify.com/track/4o5ajzULThejxskHoEzuUS"
@@ -6856,7 +7024,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 196463,
       "name": "\u80f8\u306bLoyalty",
       "url": "https://open.spotify.com/track/1x1WfzopVW4fFV1L0McPu1"
@@ -6896,7 +7064,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 172355,
       "name": "\u8d85Fresh",
       "url": "https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,286 likes - 140 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,344 likes - 140 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 139 | [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 |
 | 140 | [Same Way Home](https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Mike Goldstein](https://open.spotify.com/artist/6qfMf8A1BZZsPeQdVkewVA) | [Same Way Home](https://open.spotify.com/album/4tzpMQQJ5JPI6n7xEsxs7e) | 2:58 |
 
-Snapshot ID: `MCxkMzM5MzJiY2U2ZTRiMzVjNTM4NzU1ZGYyOTczNjVmOWEyYmFjYzIw`
+Snapshot ID: `MCw2MmZlOWM1Y2VmNzhmYWQ0YWYwM2JkMDE5ZjhmYzdhYzUzOWZhNDFm`

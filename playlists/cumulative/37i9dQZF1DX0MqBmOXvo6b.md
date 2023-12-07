@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-597 songs - 1 day 1 hr 23 min
+598 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [An Ocean Of Memories](https://open.spotify.com/track/1AlgXoj042cGzdQ2SybcSk) | [Maddison Howells](https://open.spotify.com/artist/2IC6rSlT5Gmdqf3yiMIzzl) | [An Ocean Of Memories](https://open.spotify.com/album/0d07WU02I7aOlBnviJkeFe) | 2:53 | 2022-06-07 | 2022-11-17 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-06-07 |  |
 | [Anoesis](https://open.spotify.com/track/7wDdRiqwaF3CqDIOmO0nhQ) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Anoesis](https://open.spotify.com/album/1ohZ2YMU7a0qrDtTWrRKLj) | 2:11 | 2022-06-07 | 2022-07-20 |
-| [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-28 |  |
+| [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-28 | 2023-12-07 |
 | [Anwyll](https://open.spotify.com/track/3b2dTXXFKvij1wUU5JQJqb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Anwyll](https://open.spotify.com/album/5tNbFT3QknGiXWZA528HpI) | 2:28 | 2022-06-07 | 2022-09-15 |
 | [Apart](https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:15 | 2022-07-19 | 2022-09-15 |
 | [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2022-06-07 | 2022-07-29 |
@@ -415,6 +415,7 @@
 | [Salvador](https://open.spotify.com/track/0k1PA8kqHD51C49Owjcx5S) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Bagatelles](https://open.spotify.com/album/5NtMEqU7lDZX8d7ODiP4LE) | 2:20 | 2022-06-07 | 2022-09-15 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-06-07 |  |
 | [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2022-06-07 | 2023-09-09 |
+| [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 | 2023-11-28 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2022-06-07 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2022-06-07 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2022-06-07 | 2023-08-16 |
@@ -460,7 +461,7 @@
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-06-07 | 2022-09-15 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-06-07 |  |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2022-06-07 | 2023-11-10 |
-| [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2022-06-07 |  |
+| [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2022-06-07 | 2023-12-07 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2022-06-07 |  |
@@ -578,7 +579,7 @@
 | [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2022-06-07 | 2023-12-02 |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2022-06-07 | 2022-11-24 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2022-06-07 |  |
-| [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2022-06-07 | 2023-12-02 |
+| [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2022-06-07 |  |
 | [When She Flows](https://open.spotify.com/track/0kI6c7wGZ5h3njJ5wF4nMw) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When She Flows](https://open.spotify.com/album/3zCCxRh7AAooxeYJRD7fSM) | 2:10 | 2022-06-07 | 2022-09-15 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2022-06-07 | 2022-07-20 |
 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-07-19 | 2022-09-15 |

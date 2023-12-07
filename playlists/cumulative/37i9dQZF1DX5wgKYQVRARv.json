@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh and recent tracks from the world of Prog Metal. Cover: TesseracT",
+  "description": "New and recent favorites of Prog Metal. Cover: TesseracT",
   "name": "Progressive Metal",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Numen",
+        "url": "https://open.spotify.com/album/7xu3rOpBJaBWsiQVPwxu5T"
+      },
+      "artists": [
+        {
+          "name": "Alkaloid",
+          "url": "https://open.spotify.com/artist/4KMQDFaAsPEKcqKzdvkYKc"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490000,
+      "name": "A Fool's Desire",
+      "url": "https://open.spotify.com/track/3iqeydjiG4T08jMJjttLKw"
+    },
+    {
+      "album": {
         "name": "A Million Suns",
         "url": "https://open.spotify.com/album/6DGxhypGqMPOVksggevoYo"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 250040,
       "name": "Abomination",
       "url": "https://open.spotify.com/track/41qbzmASxiYV8zgpkt2O9g"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 181506,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/5FiRXKrXSDYyhXbPeimIPL"
@@ -944,6 +962,24 @@
       "duration_ms": 222643,
       "name": "Ball of Hatred",
       "url": "https://open.spotify.com/track/5v7Am1S5c93UDqYZGlVPdO"
+    },
+    {
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/7HhZ4OMQ4ZSGifamWSeJ9k"
+      },
+      "artists": [
+        {
+          "name": "Stoned Statues",
+          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227186,
+      "name": "Be My Guest",
+      "url": "https://open.spotify.com/track/7LH01CRu66ymwEol1s71yr"
     },
     {
       "album": {
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 214760,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij"
@@ -1982,6 +2018,24 @@
       "duration_ms": 648691,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/4FNm34TBz67yIRB4vhclPF"
+    },
+    {
+      "album": {
+        "name": "Dante",
+        "url": "https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346294,
+      "name": "Dante",
+      "url": "https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY"
     },
     {
       "album": {
@@ -2220,6 +2274,32 @@
       "duration_ms": 296386,
       "name": "Diabolical Majesty",
       "url": "https://open.spotify.com/track/7LpG7xh1lmyS2hfE10JlKN"
+    },
+    {
+      "album": {
+        "name": "...And Everything In Between",
+        "url": "https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        },
+        {
+          "name": "Scott LePage",
+          "url": "https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270546,
+      "name": "Die On The Cross Of The Martyr",
+      "url": "https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W"
     },
     {
       "album": {
@@ -2927,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359333,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
+    },
+    {
+      "album": {
         "name": "Collapse by Design",
         "url": "https://open.spotify.com/album/52Y0UXCuYODCbm18Zh8QYE"
       },
@@ -3212,7 +3310,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 207176,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/1tamD4SIIH3yyiRihgd24a"
@@ -3566,7 +3664,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 182752,
       "name": "Flooded Ruins",
       "url": "https://open.spotify.com/track/1YBJlczQBTidHtijtqppv1"
@@ -3700,7 +3798,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 255743,
       "name": "Fragile Space",
       "url": "https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18"
@@ -3953,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG"
+    },
+    {
+      "album": {
         "name": "Go With Your Ghost",
         "url": "https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3"
       },
@@ -4030,6 +4146,24 @@
       "duration_ms": 312493,
       "name": "Golden Age Of Music",
       "url": "https://open.spotify.com/track/6V3piBg988IoOyqxyAQ3yF"
+    },
+    {
+      "album": {
+        "name": "Golem",
+        "url": "https://open.spotify.com/album/55QbMraEFIP8GtGig4TxsV"
+      },
+      "artists": [
+        {
+          "name": "Caligula's Horse",
+          "url": "https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320293,
+      "name": "Golem",
+      "url": "https://open.spotify.com/track/6IDBU2KSr7SD1RaJ2dsCOy"
     },
     {
       "album": {
@@ -4847,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl"
+      },
+      "artists": [
+        {
+          "name": "Shylmagoghnar",
+          "url": "https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421919,
+      "name": "Infinion",
+      "url": "https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT"
+    },
+    {
+      "album": {
         "name": "Innocent",
         "url": "https://open.spotify.com/album/2bleSQYUwyI2O785GsosnE"
       },
@@ -5381,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "Legion",
+        "url": "https://open.spotify.com/album/0HqM65LT46hyFSk18D4UgW"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Legion",
+      "url": "https://open.spotify.com/track/4gHIRlbHfLKLMThA0beE5h"
+    },
+    {
+      "album": {
         "name": "Let The Truth Speak",
         "url": "https://open.spotify.com/album/4VDOK5SlUOZUvncenGt6JR"
       },
@@ -5610,7 +5780,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 268973,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/0pvwcb7Uu6lVVW6Mq2jfnk"
@@ -5837,6 +6007,28 @@
     },
     {
       "album": {
+        "name": "Martyr",
+        "url": "https://open.spotify.com/album/5GOEsQsOCKxSCmoszlAHyD"
+      },
+      "artists": [
+        {
+          "name": "REFORMED",
+          "url": "https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF"
+        },
+        {
+          "name": "Victor Borba",
+          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293382,
+      "name": "Martyr",
+      "url": "https://open.spotify.com/track/3sRWzDsE5oZ0IKpJwpzpqn"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/16v3Ule2sTTWT37VKUsH6F"
       },
@@ -5974,7 +6166,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 397165,
       "name": "Mind Lapse",
       "url": "https://open.spotify.com/track/0gudrHLVRdzxW83ebBAUAh"
@@ -6014,6 +6206,24 @@
       "duration_ms": 513586,
       "name": "Misguided",
       "url": "https://open.spotify.com/track/7a0lsYzYQVJFrYXyJwEugp"
+    },
+    {
+      "album": {
+        "name": "mnemonic",
+        "url": "https://open.spotify.com/album/2QiKnj6bf2La7Jow51PYJG"
+      },
+      "artists": [
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289308,
+      "name": "mnemonic",
+      "url": "https://open.spotify.com/track/5Y6WHnoBdimQ9Gm3P1jxig"
     },
     {
       "album": {
@@ -6504,6 +6714,24 @@
       "duration_ms": 219428,
       "name": "Neil",
       "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
+    },
+    {
+      "album": {
+        "name": "Chaosphere (25th Anniversary 2023 Remastered Edition)",
+        "url": "https://open.spotify.com/album/3v6NkW2wIIFP0PDSyIY9S4"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335560,
+      "name": "New Millennium Cyanide Christ",
+      "url": "https://open.spotify.com/track/0PiPRzKn2U2qskZZxHox2f"
     },
     {
       "album": {
@@ -7084,7 +7312,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 232594,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
@@ -7102,7 +7330,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 189138,
       "name": "penny royal poison",
       "url": "https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ"
@@ -7289,6 +7517,24 @@
     },
     {
       "album": {
+        "name": "Poison for the Lost",
+        "url": "https://open.spotify.com/album/6yV6pWGyElpB3UvTZ2aspM"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "Poison for the Lost",
+      "url": "https://open.spotify.com/track/2bdvS1A5vGy90aOpjCHFux"
+    },
+    {
+      "album": {
         "name": "Jackpot Juicer",
         "url": "https://open.spotify.com/album/07sIEDGzhGsfM8QZQll0FO"
       },
@@ -7300,7 +7546,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 188823,
       "name": "Pop Off!",
       "url": "https://open.spotify.com/track/4REZIin9q6UtIgir3TVuD3"
@@ -7340,6 +7586,24 @@
       "duration_ms": 299560,
       "name": "Postmortem Pt. 1",
       "url": "https://open.spotify.com/track/30zHuivvgXVmj7TbyUG0zI"
+    },
+    {
+      "album": {
+        "name": "Holocene",
+        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304440,
+      "name": "Preboreal",
+      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
     },
     {
       "album": {
@@ -7488,7 +7752,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 238641,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/2xgevvLhVHskqiKTd2dnGr"
@@ -7694,7 +7958,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 196320,
       "name": "Reclaim",
       "url": "https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4"
@@ -7730,10 +7994,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 364895,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/6suhC134iU9dsegUGIngx6"
+    },
+    {
+      "album": {
+        "name": "Retrospective: Live From Atlanta (Box Set)",
+        "url": "https://open.spotify.com/album/3uzkgSIJnLReaw1R3zLXSC"
+      },
+      "artists": [
+        {
+          "name": "The Contortionist",
+          "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270273,
+      "name": "Reimagined - Set 1 - Live From Atlanta",
+      "url": "https://open.spotify.com/track/46m4ysq3XUa8qf9nZO2kmS"
     },
     {
       "album": {
@@ -8030,7 +8312,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 269074,
       "name": "Sardonyx",
       "url": "https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk"
@@ -8312,6 +8594,28 @@
       "duration_ms": 366075,
       "name": "Siege",
       "url": "https://open.spotify.com/track/3EVEAywFGiKZj1D0XXD5HZ"
+    },
+    {
+      "album": {
+        "name": "Silence In a Room of Lies",
+        "url": "https://open.spotify.com/album/6m6dLM7QETJrvypCfGlH98"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        },
+        {
+          "name": "Jared Dines",
+          "url": "https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194909,
+      "name": "Silence In a Room of Lies",
+      "url": "https://open.spotify.com/track/7zNDwzq2oLj35hN3LqIYud"
     },
     {
       "album": {
@@ -8661,6 +8965,28 @@
     },
     {
       "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG"
+      },
+      "artists": [
+        {
+          "name": "Einar Solberg",
+          "url": "https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv"
+        },
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382426,
+      "name": "Splitting the Soul (feat. Ihsahn)",
+      "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"
+    },
+    {
+      "album": {
         "name": "The Optimist",
         "url": "https://open.spotify.com/album/2pmuzXGYLCNysBat1Txe3W"
       },
@@ -8892,7 +9218,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 415666,
       "name": "Subatlantic",
       "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
@@ -9216,7 +9542,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 264325,
       "name": "The Anticosmic Overload - Live",
       "url": "https://open.spotify.com/track/4i1wHwnRsA0ZK1cSZ9LLaY"
@@ -10450,7 +10776,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 349192,
       "name": "Thousand-Arms Fortress",
       "url": "https://open.spotify.com/track/36WfOjorByjWNJXJ96Op8u"
@@ -10490,6 +10816,24 @@
       "duration_ms": 295720,
       "name": "Through the Depths (Single Edit)",
       "url": "https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk"
+    },
+    {
+      "album": {
+        "name": "Terror Management Theory",
+        "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
+      },
+      "artists": [
+        {
+          "name": "TEMIC",
+          "url": "https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421601,
+      "name": "Through the Sands of Time",
+      "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
     },
     {
       "album": {

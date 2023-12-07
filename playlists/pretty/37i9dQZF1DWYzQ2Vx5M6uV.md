@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Feid & Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,091 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,102 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 57 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 |
 | 58 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 |
 | 59 | [Yoyo](https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ) | [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P) | [Yoyo](https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR) | 2:36 |
-| 60 | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Obrinn](https://open.spotify.com/artist/50jpd7AIFmv5ki7QBv2WgY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V) | 3:51 |
-| 61 | [YA LLORARE\(MOS\)](https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [YA LLORARE\(MOS\)](https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk) | 3:50 |
-| 62 | [Like A Queen \- 2023 Remasterizado](https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u) | [SAID](https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Waremu](https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm) | 2:39 |
+| 60 | [Like A Queen \- 2023 Remasterizado](https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u) | [SAID](https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Waremu](https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm) | 2:39 |
+| 61 | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Obrinn](https://open.spotify.com/artist/50jpd7AIFmv5ki7QBv2WgY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V) | 3:51 |
+| 62 | [YA LLORARE\(MOS\)](https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [YA LLORARE\(MOS\)](https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk) | 3:50 |
 | 63 | [lo siento](https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:25 |
 | 64 | [Se Fue](https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Se Fue](https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj) | 3:35 |
 | 65 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 | 70 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
 
-Snapshot ID: `MCxkZWEwZjk5YzJjMmRkNGIwOWMxNWQ4Mjk4OGFkZWMyMzYzZDYzZDIw`
+Snapshot ID: `MCxiMjY3NDI4ODZjODIyN2RhZGYzNDJmZjIwYzRmYjc1ODY1MWQwNmNm`

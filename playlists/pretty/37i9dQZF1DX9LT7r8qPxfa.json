@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 261814,
+  "num_followers": 261874,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGZhODEyMzRkMDYzNTNmNjA0ZDI1OTg4MGY0YWNkY2E4NDQxMjM4",
+  "snapshot_id": "MCw3N2FjNTM0MjA5NTNlMWYxOWFhZDllNmJiZWY3ODQ5Y2FhMDU3YTA5",
   "tracks": [
     {
       "added_at": "2023-10-13 19:48:40",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 237328,
       "name": "To Me",
       "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
-      },
-      "artists": [
-        {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 230744,
       "name": "You At The Table (with Manchester Orchestra)",
       "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -983,38 +983,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -1031,18 +999,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 269466,
-      "name": "Henry St.",
-      "url": "https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh"
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1063,6 +1031,38 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Henry St.",
+      "url": "https://open.spotify.com/track/0Yl3Jh6DYFcAbT9HlnIAmh"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Party Dress",
         "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1123,22 +1139,6 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 260519,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "L. A. Flame",
+        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Ash",
+          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Infinite Worlds",
         "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "L. A. Flame",
-        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
-      },
-      "artists": [
-        {
-          "name": "Anna Ash",
-          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Walking Proof",
         "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Kitchen Table",
-        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Planet (i)",
         "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 236610,
       "name": "I\u2019ll Go Running",
       "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Thumbs",
-        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Montibello Memories",
         "url": "https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 231413,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
     },
     {
       "added_at": "2023-10-13 19:48:40",

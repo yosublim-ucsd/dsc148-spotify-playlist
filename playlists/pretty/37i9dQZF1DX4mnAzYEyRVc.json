@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Out Of Control Army",
-  "num_followers": 43371,
+  "num_followers": 43406,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGY0MGYyODFjODM1MjMwNjZlZmY4MzRiYWFhYWU3ODFmNWNlMTdm",
+  "snapshot_id": "MCw3ODE0YTE0NjA5ZjAwOGQ2MGVkODRhZTJkNzBmNGNhNGZjMGFhNzVi",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Chupasangre",
-        "url": "https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU"
-      },
-      "artists": [
-        {
-          "name": "Tomo Como Rey",
-          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
-        }
-      ],
-      "duration_ms": 196070,
-      "name": "Chupasangre",
-      "url": "https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Conscience is Heavy",
         "url": "https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 190866,
       "name": "Conscience is Heavy",
       "url": "https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Chupasangre",
+        "url": "https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        }
+      ],
+      "duration_ms": 196070,
+      "name": "Chupasangre",
+      "url": "https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/7tmLCVy3YeRzByi0rwhREV"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "30 A\u00f1os",
-      "url": "https://open.spotify.com/track/3MROCu02TzR1Ovu1Xq1S7r"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Step Forward",
         "url": "https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Dolce far niente",
-        "url": "https://open.spotify.com/album/3eijO45zq05msPm09WUErh"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/7tmLCVy3YeRzByi0rwhREV"
       },
       "artists": [
         {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
         }
       ],
-      "duration_ms": 175632,
-      "name": "Dolce far niente",
-      "url": "https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4"
+      "duration_ms": 214040,
+      "name": "30 A\u00f1os",
+      "url": "https://open.spotify.com/track/3MROCu02TzR1Ovu1Xq1S7r"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Dolce far niente",
+        "url": "https://open.spotify.com/album/3eijO45zq05msPm09WUErh"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Dolce far niente",
+      "url": "https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Gotta Keep It Going",
-        "url": "https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX"
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
       },
       "artists": [
         {
-          "name": "The Gramophone Allstars",
-          "url": "https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN"
-        },
-        {
-          "name": "Rodrigo Lavi\u00f1a",
-          "url": "https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5"
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
         }
       ],
-      "duration_ms": 225397,
-      "name": "Gotta Keep It Going",
-      "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     }
   ],
   "unique_name": "Ska Around The Globe",

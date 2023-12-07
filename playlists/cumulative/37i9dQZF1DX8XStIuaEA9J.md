@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: imase
 
-85 songs - 5 hr 9 min
+86 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2023-11-23 |  |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-11-23 |  |
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-11-23 |  |
+| [hot lemon \- Remix](https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [hot lemon \(Remix\)](https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB) | 2:33 | 2023-12-05 |  |
 | [KANPAI FUNK](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 | 2023-11-23 |  |
 | [kimiwaunmeinohito](https://open.spotify.com/track/0FXPwxpbU9jZRndH7buJGW) | [Manato Funatsu](https://open.spotify.com/artist/4L7zIJ9LjO6oSTRjzBlrva) | [kimiwaunmeinohito](https://open.spotify.com/album/4spgC6mFvPofhyFBhHWUVU) | 3:36 | 2023-11-23 |  |
 | [Koiwoshite](https://open.spotify.com/track/3hvEYruyX0x0zZXoTZ5RgE) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Koiwoshite](https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91) | 3:59 | 2023-11-23 |  |
@@ -71,7 +72,7 @@
 | [ダブル・プッシュ・オフ。](https://open.spotify.com/track/5TiirG23LRTNq0hRuML8iq) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq), [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [ダブル・プッシュ・オフ。](https://open.spotify.com/album/5TrVfUhS0GLtkJ8uapOmGF) | 2:54 | 2023-11-29 |  |
 | [ビリミリオン \-オーケストラアレンジver.\-](https://open.spotify.com/track/6UdoLzijnlc38s8OeHUYx2) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [響](https://open.spotify.com/album/4ttLt1ZktC5gPJ0v4lzlm3) | 3:58 | 2023-11-29 |  |
 | [ブリキノダンス](https://open.spotify.com/track/2yVBhde18jnhFGgA52eDt2) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ブリキノダンス](https://open.spotify.com/album/0Rqk9EbfcSQRVS8cDEmyWz) | 3:19 | 2023-11-29 | 2023-11-30 |
-| [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(Remix\)](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 | 2023-12-05 |  |
+| [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(Remix\)](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 | 2023-12-05 | 2023-12-07 |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-11-23 | 2023-12-01 |
 | [ラブドランカー](https://open.spotify.com/track/5HCCjLQ7RLQHjHPBNljQ5l) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD) | [ラブドランカー](https://open.spotify.com/album/03Q6Xk1M9x1rHCXZRRp2gF) | 3:52 | 2023-11-29 |  |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 |  |

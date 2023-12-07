@@ -1,12 +1,12 @@
 {
   "description": "Versos y barras de alto poder, con un takeover por Faruz Feet.",
-  "num_followers": 95734,
+  "num_followers": 95802,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDM4MDU3MTNlZjI5NmNkZjdlOTMwYTU0MDA0OGI2YTE3YzQ0MTIz",
+  "snapshot_id": "MCwxNjIzNzdjNjA3NzZjODY5MGE2ZmE1ZDk1YzIzNjdiNTkzZDBjYWUz",
   "tracks": [
     {
       "added_at": "2023-09-08 15:37:10",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-08 15:37:10",
       "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
+    },
+    {
+      "added_at": "2023-09-08 15:37:10",
+      "album": {
         "name": "The Rising Tied",
         "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 230493,
       "name": "Remember the Name (feat. Styles of Beyond)",
       "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
-    },
-    {
-      "added_at": "2023-09-08 15:37:10",
-      "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
     },
     {
       "added_at": "2023-09-08 15:37:10",

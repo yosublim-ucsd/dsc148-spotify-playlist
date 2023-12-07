@@ -5807,6 +5807,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
+    },
+    {
+      "album": {
         "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
         "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },

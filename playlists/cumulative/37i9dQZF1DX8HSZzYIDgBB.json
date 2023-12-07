@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 174266,
       "name": "Acuario - Solo San Remix",
       "url": "https://open.spotify.com/track/0jrvvsqJsh4ynhqqoanibZ"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 191150,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 339611,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 181134,
       "name": "Ca\u00f1a Brava",
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 201230,
       "name": "Cerquita del Mar",
       "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 263096,
       "name": "Contra La Corriente",
       "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "album": {
         "name": "Se Ve Desde Aqu\u00ed",
         "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
       },
@@ -1279,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204790,
+      "name": "Destroy The Empire",
+      "url": "https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk"
+    },
+    {
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
@@ -1410,6 +1446,24 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "album": {
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269292,
+      "name": "El Benson",
+      "url": "https://open.spotify.com/track/0W16rC9z9YGHFe9ZULahO7"
     },
     {
       "album": {
@@ -1574,10 +1628,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "album": {
+        "name": "El Tonto",
+        "url": "https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "El Tonto",
+      "url": "https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR"
     },
     {
       "album": {
@@ -1654,7 +1726,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
@@ -1860,7 +1932,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 150000,
       "name": "Fuleamelo",
       "url": "https://open.spotify.com/track/7cGW3OvX5ERF8KUwrAEDP2"
@@ -2346,7 +2418,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 238221,
       "name": "Kristina",
       "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
@@ -2618,7 +2690,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 240000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
@@ -2987,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Isla Disco",
+        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214363,
+      "name": "Mayag\u00fcez",
+      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/3tp5Dkyp89uBT3BUvCLTI3"
       },
@@ -3312,7 +3402,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
@@ -3476,6 +3566,24 @@
       "duration_ms": 123900,
       "name": "Mutilado",
       "url": "https://open.spotify.com/track/2nnDYImuOuOoh0OSbAvDlH"
+    },
+    {
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248371,
+      "name": "M\u00e9tele",
+      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "album": {
@@ -3737,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
+    },
+    {
+      "album": {
         "name": "Nubecita",
         "url": "https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt"
       },
@@ -3756,6 +3882,24 @@
       "duration_ms": 197933,
       "name": "Nubecita",
       "url": "https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz"
+    },
+    {
+      "album": {
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184391,
+      "name": "Nunca Paran",
+      "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
     },
     {
       "album": {
@@ -4312,7 +4456,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 236135,
       "name": "Que He Sacado Con Quererte",
       "url": "https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ"
@@ -4374,7 +4518,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 216379,
       "name": "Rainfalls",
       "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
@@ -4400,6 +4544,28 @@
       "duration_ms": 307882,
       "name": "Rama",
       "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
+    },
+    {
+      "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145062,
+      "name": "Real Luv",
+      "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
     },
     {
       "album": {
@@ -4450,7 +4616,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 228793,
       "name": "Sabe a Tu Nombre",
       "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
@@ -4814,7 +4980,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
@@ -5014,10 +5180,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 168755,
       "name": "Ta Que Tiembla",
       "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
+    },
+    {
+      "album": {
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "album": {
@@ -5054,6 +5242,24 @@
       "duration_ms": 182470,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
+    },
+    {
+      "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249853,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "album": {
@@ -5304,7 +5510,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 223482,
       "name": "T\u00e1rtaro",
       "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
@@ -5406,7 +5612,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 203265,
       "name": "Ven Vamos",
       "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
@@ -5442,7 +5648,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 216540,
       "name": "Voy Por Ella",
       "url": "https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX"
@@ -5496,7 +5702,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 202066,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
@@ -5652,6 +5858,24 @@
       "duration_ms": 342699,
       "name": "\u00c9bano",
       "url": "https://open.spotify.com/track/2mLjF46Pkt5V0oxVc5WKUE"
+    },
+    {
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:عبدالعزيز المعنى
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,431 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,468 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Ahla Khabar](https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Ahla Khabar](https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL) | 3:24 |
 | 50 | [Araftouh](https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Araftouh](https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj) | 3:57 |
 
-Snapshot ID: `MCw1NjdmZDk4MTBjMmNhNWNkYWRmNzljN2EyODQzNTgyZTA1NTVjMzIz`
+Snapshot ID: `MCw1YjM4M2ZiY2ZhZjFlNDA0NGJmYmZhODQ1ODEzMzZiN2YxOTVhN2Fl`

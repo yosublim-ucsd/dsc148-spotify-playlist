@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=Iwj7OVDPSUy4l2S6VPNDHg">Demi Lee Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,175 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,227 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Vat Nog 'n Kans](https://open.spotify.com/track/3BWRuM2CoeTaSreGkn85EX) | [Deon Human](https://open.spotify.com/artist/4YqDKz5lbqNI4NR8RYkGx3) | [Vat Nog 'n Kans](https://open.spotify.com/album/3ODDpZ2GqUKcmT3Lwsal1b) | 3:19 |
 | 60 | [Man Vat](https://open.spotify.com/track/5LROJ2OfKdkIs2eowFZ1RY) | [Amore Barnard](https://open.spotify.com/artist/3WNuZdnThwkMxGrZtqH0lH) | [Man Vat](https://open.spotify.com/album/6VVFnCFu5fmsCRmcNbnZ57) | 3:37 |
 
-Snapshot ID: `MCxkZjkxNzAxNmYzZjVkYzU1MjljYTFkZjYwNWZiYWIyYzMwYmQ0OWQz`
+Snapshot ID: `MCwyOTNiZmIwZDU3ZWE1MmJiN2M3MDJlYTVmODdhMmJhNGUyNzIzOTU4`

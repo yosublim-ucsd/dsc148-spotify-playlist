@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Zach Bryan and Kacey Musgraves
+> Hot Country is proud to support St\. Jude this holiday season! Learn more at MusicGives.org\. Cover: Jordan Davis
 
 711 songs - 1 day 14 hr 23 min
 

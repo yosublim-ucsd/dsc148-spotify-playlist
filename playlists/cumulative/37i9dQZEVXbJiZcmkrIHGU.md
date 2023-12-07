@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,208 songs - 4 day 12 hr 5 min
+2,209 songs - 4 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 | 2022-12-25 | 2022-12-27 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-07 | 2023-12-06 |
 | [Christmas Time](https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Christmas EP](https://open.spotify.com/album/5SoYlyWC6QYTJgZ4FR3OV0) | 4:03 | 2021-11-28 |  |
-| [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2021-12-07 |  |
+| [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2021-12-07 | 2023-12-07 |
 | [Chromosom](https://open.spotify.com/track/1pxWHJuBJNCJPhj7biFzbN) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:03 | 2021-07-18 | 2021-07-23 |
 | [Church](https://open.spotify.com/track/5r9PgwN9hQkjvoKhwmw2mM) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M) | [halb:vier](https://open.spotify.com/album/3beSnPwM3lhebM9yMOkDWO) | 3:28 | 2021-06-20 | 2021-06-21 |
 | [Cider](https://open.spotify.com/track/49y9ulK2kgYvVw3yBSdDao) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Cider](https://open.spotify.com/album/0NOmnhMUuHzHKbto1lL4if) | 2:55 | 2022-10-01 | 2022-10-09 |
@@ -1096,6 +1096,7 @@
 | [Lass mich gehen](https://open.spotify.com/track/1VxlVMCopT232hOcBVybyj) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:37 | 2023-08-26 | 2023-11-26 |
 | [Lass mich los \(feat\. KAYEF\)](https://open.spotify.com/track/1rTqjqRR0tT7JlD8FrQEpA) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Lass mich los](https://open.spotify.com/album/2EGknb5mDTrwwFjy0J6oBE) | 2:28 | 2022-01-08 | 2022-01-10 |
 | [LASS SIE REDEN \- 2022 Edition](https://open.spotify.com/track/0GSikQTopTwItda8VyreXC) | [Fard](https://open.spotify.com/artist/7iZ5x5fwRwROoX3iRWpVgN), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [LASS SIE REDEN \(2022 Edition\)](https://open.spotify.com/album/28URmgnIK0CbBcMVoIZj5H) | 3:00 | 2022-07-09 | 2022-07-11 |
+| [Lasst uns froh und munter sein](https://open.spotify.com/track/6GbPziAWs8oJQdzPTddrBS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Weihnachts\- Und Winterlieder](https://open.spotify.com/album/3qXBiuZFGf8BGHf55YeFbq) | 1:41 | 2023-12-06 |  |
 | [Last Bitch Standing](https://open.spotify.com/track/6UW29eoqpZkUUIC5ASpv8r) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 3:05 | 2021-11-21 | 2021-11-26 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-16 | 2022-12-30 |
 | [Last Christmas \- Single Version](https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven](https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6) | 4:25 | 2023-11-06 |  |

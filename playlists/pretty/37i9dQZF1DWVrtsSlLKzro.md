@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,084 likes - 168 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,156 likes - 168 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 47 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 |
 | 48 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 |
 | 49 | [Superhero](https://open.spotify.com/track/2vm52EstTRxGsvQ44gEFRL) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Superhero](https://open.spotify.com/album/1UnWKwF6vpxiBxa8ZBslTs) | 3:27 |
-| 50 | [I'm My Only Friend \(feat\. Arden Jones\)](https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [I'm My Only Friend](https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz) | 3:12 |
-| 51 | [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3) | 2:50 |
+| 50 | [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3) | 2:50 |
+| 51 | [I'm My Only Friend \(feat\. Arden Jones\)](https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [I'm My Only Friend](https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz) | 3:12 |
 | 52 | [Back To Me](https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Back To Me](https://open.spotify.com/album/3dM5PL2xuR0xnRdkxFk0Sj) | 4:15 |
 | 53 | [Starbright](https://open.spotify.com/track/6huKKoWv2Xy4KM2rwUNa7X) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/3SWONDSeoQ0UTsRyXSlL5g) | 4:03 |
 | 54 | [Broken](https://open.spotify.com/track/2yg53XBaQDtIk6hYT2VFSD) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Broken](https://open.spotify.com/album/7ghIKFtH1hzdB3dLXgRcOf) | 3:48 |
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 155 | [Right For You](https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Digital Dreamscape \(Deluxe\)](https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ) | 3:19 |
 | 156 | [I Miss U](https://open.spotify.com/track/1ZK7PV7r9is98UD4zqSy9h) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Miss U](https://open.spotify.com/album/3Q7mwi4OMpK0pN1QhM7zn4) | 3:10 |
 | 157 | [Super Human](https://open.spotify.com/track/1ZMUZYIlsTnQbOrgbpgalr) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Super Human](https://open.spotify.com/album/5yjMa5thOg0X7tieV3rhTf) | 4:06 |
-| 158 | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/track/7IsAYozq9Cm2v1hU6vutm1) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/album/3kQQ4qFE9I4HP5OQQTRuj4) | 3:01 |
-| 159 | [Goodbye](https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja) | [SAINT](https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n) | [Goodbye](https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI) | 4:30 |
+| 158 | [Goodbye](https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja) | [SAINT](https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n) | [Goodbye](https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI) | 4:30 |
+| 159 | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/track/7IsAYozq9Cm2v1hU6vutm1) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/album/3kQQ4qFE9I4HP5OQQTRuj4) | 3:01 |
 | 160 | [Avoiding Pain](https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Avoiding Pain](https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD) | 4:07 |
 | 161 | [SRY](https://open.spotify.com/track/0liqgDxxKqACG9kponhjfn) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [SRY](https://open.spotify.com/album/1n0DHsZ1cJbiAwlqHnmz5Q) | 3:43 |
 | 162 | [Never Easy](https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Never Easy](https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo) | 3:44 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 167 | [Sleepless](https://open.spotify.com/track/68wmnF8Q5rC6EMnBJ9Qp5a) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [ALEV](https://open.spotify.com/artist/6aJbn3lXAQsFM3tl742XaD), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Sleepless](https://open.spotify.com/album/4wBlr3iqVkGBoNaKU7l4qA) | 3:05 |
 | 168 | [You're Not Mine](https://open.spotify.com/track/3oLZENFs5WLPgM653AZ5H9) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [TEN](https://open.spotify.com/album/0xw6c2oynMTUnYYmEzPOsp) | 2:55 |
 
-Snapshot ID: `MCw4OTJiMDc3MjdlOWQ2OTVkMTZkYjg0M2MxOWJkMjU4YjM2NmU1MjNl`
+Snapshot ID: `MCwyNGE5NzVjMjJjMGRmNGI5OTEyYjQ1NzM2ZTJhYjZhMmM3MDI0NDcy`

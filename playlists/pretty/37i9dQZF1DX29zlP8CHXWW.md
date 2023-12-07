@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 > Check out some of the songs from the <a href="https://www.passion2024.com/"> Passion 2024 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,334 likes - 52 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,424 likes - 52 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 | 51 | [Just Too Good](https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf) | 3:23 |
 | 52 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
 
-Snapshot ID: `MCxjOWE5Yzg4ZjYzNjQ5Njg3YjdkMjg4OWIwNmQ5N2IyNDNmNTQ1ZDA4`
+Snapshot ID: `MCw3ZDMwMGUyZDgxMmUwZjJlZmVlZjgyNzhkNjllZTkzNjI2MTVhNWI3`

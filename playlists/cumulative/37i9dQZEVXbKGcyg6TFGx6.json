@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 227480,
       "name": "24/34",
       "url": "https://open.spotify.com/track/6UWT2WWl2vU9SWkvkXk9Ax"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 170666,
       "name": "Boston's Finest",
       "url": "https://open.spotify.com/track/5qK97K0jC2J7D7mZkBjyzP"
@@ -7148,7 +7148,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -10803,6 +10803,24 @@
     },
     {
       "album": {
+        "name": "Free Palestine",
+        "url": "https://open.spotify.com/album/2K0eayBYJBA0dfVRezYoVF"
+      },
+      "artists": [
+        {
+          "name": "Ambassador",
+          "url": "https://open.spotify.com/artist/0pyPxVLj16a6W6Ovv1tJtI"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243227,
+      "name": "Free Palestine",
+      "url": "https://open.spotify.com/track/2Wt1MVnNRPLKkFyjdWrqct"
+    },
+    {
+      "album": {
         "name": "Free Your Love",
         "url": "https://open.spotify.com/album/1N33v1m8lZtP4R0JODMCKG"
       },
@@ -11076,6 +11094,46 @@
       "duration_ms": 208282,
       "name": "Frozen Tears",
       "url": "https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ"
+    },
+    {
+      "album": {
+        "name": "FUCK - ISRAEL - Viva Palastina",
+        "url": "https://open.spotify.com/album/0GMGitRrTv3Cd2KxHtQlQd"
+      },
+      "artists": [
+        {
+          "name": "S.B.F the Great",
+          "url": "https://open.spotify.com/artist/5emACrWg0izaJYlfvBx1wZ"
+        },
+        {
+          "name": "Voices Of Palastine",
+          "url": "https://open.spotify.com/artist/5o12W4o619oe7p3LN0Hs4C"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297999,
+      "name": "FUCK - ISRAEL - Viva Palastina",
+      "url": "https://open.spotify.com/track/1qKfjchhCPx21MlZqehZV7"
+    },
+    {
+      "album": {
+        "name": "Fuck Israel",
+        "url": "https://open.spotify.com/album/69I7XlFksQitIdDw5YsRzX"
+      },
+      "artists": [
+        {
+          "name": "Peste",
+          "url": "https://open.spotify.com/artist/44KFCxpmpxn2nVshueDUf2"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124948,
+      "name": "Fuck Israel",
+      "url": "https://open.spotify.com/track/0JhruGUb8qipUytuV0n6n4"
     },
     {
       "album": {
@@ -13648,7 +13706,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -15634,7 +15692,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 168620,
       "name": "LAISSE MOI",
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
@@ -16110,7 +16168,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -29004,7 +29062,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 160320,
       "name": "Twerk",
       "url": "https://open.spotify.com/track/4f3UQj2zK7NQOIRbem2lsY"
@@ -30746,7 +30804,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

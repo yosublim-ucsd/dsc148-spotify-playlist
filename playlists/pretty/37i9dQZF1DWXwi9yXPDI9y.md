@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,068 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,217 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 53 | [I Walk A Little Faster](https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 4:18 |
 | 54 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
 | 55 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 |
-| 56 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
-| 57 | [Diane](https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 7:47 |
+| 56 | [Diane](https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 7:47 |
+| 57 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
 | 58 | [Oh Look At Me Now \- Studio](https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq), [Joe Bushkin](https://open.spotify.com/artist/22vG2wpYZKQvNG7dIajDdK) | [The Total \- Vol\. 1](https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH) | 3:12 |
 | 59 | [Little Girl Blue](https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Ballads](https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR) | 7:14 |
 | 60 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 69 | [These Foolish Things](https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:24 |
 | 70 | [You Better Go Now](https://open.spotify.com/track/1Qi67EpJAbVzUefw4UGyFq) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Presenting Red Garland](https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3) | 5:11 |
 
-Snapshot ID: `MCwxMmRhMDAzMWI4OGMyNjcwM2ZhZmY2MmU3Y2I3OWFmM2I3ZTRjODZl`
+Snapshot ID: `MCxjNzg0MjFkOGY3OTdmZDdiMmI2N2Q0MmZlZTE1MDY0Nzk2ZDkwYThm`

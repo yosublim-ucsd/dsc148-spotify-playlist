@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Binz
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,366 likes - 56 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,456 likes - 56 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Có đau thì đau một mình](https://open.spotify.com/track/37od1g713ZvI32VA2diR9L) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Có đau thì đau một mình](https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ) | 3:30 |
 | 56 | [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 |
 
-Snapshot ID: `MCxjN2M1YzM2ZTA1Y2RkN2VlYzg5Y2FmNzYzNmY3OGYxZDcyZGRiMGRj`
+Snapshot ID: `MCw0YThjMzRlNDZkNGYxODA2YWY4NWJiZWE2MmEwYWI4OWNmN2UzMDg0`

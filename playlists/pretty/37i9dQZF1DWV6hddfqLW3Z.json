@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 789010,
+  "num_followers": 789084,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTVhYzUyNTdhYWM3ZmIyYzBkY2JlMTM0ZTJiOGE5MWMwYjYwYmRh",
+  "snapshot_id": "MCw3ZGRmZjM4ZDQ5YjI4NjAzNDgyM2QxZDEwMjQ1M2Y3Yzc5OTkyY2M3",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 263106,
-      "name": "Andei S\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
+      "duration_ms": 263106,
+      "name": "Andei S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Mariana Nolasco",
         "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 184554,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/1m8qkyl5sHDEvZQslKOwJC"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
-        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
-      },
-      "artists": [
-        {
-          "name": "Paula Sergio",
-          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Eu sei que vou te amar",
-      "url": "https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 179933,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
+        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
+      },
+      "artists": [
+        {
+          "name": "Paula Sergio",
+          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Eu sei que vou te amar",
+      "url": "https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5"
     },
     {
       "added_at": "2023-11-24 15:08:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,544 likes - 116 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,567 likes - 116 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 115 | [đã từng](https://open.spotify.com/track/4HFtL01dqao5pZ3ka6Ys3f) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Paylist](https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3) | 4:21 |
 | 116 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 |
 
-Snapshot ID: `MCxlNTBiZWYwMDVhOGY3MzRiMDI3MWEzM2E0NGQ4MmNhZmMwNDk0MDU3`
+Snapshot ID: `MCw3Nzk2ZTFkMmY3ZmM1Zjk5NjVkYTUxY2MzMjBjMTE2ZjdiODg0OTIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,373 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,454 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,12 +136,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 126 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
 | 127 | [Sweetie Pie](https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked) | [Tommy Blake](https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS) | [I Dig You Baby / Sweetie Pie](https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf) | 2:04 |
 | 128 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 |
-| 129 | [Ain't Got No Home \- Sansu Version](https://open.spotify.com/track/3K8hILRVf2QkLmqUSLVhw9) | [Clarence](https://open.spotify.com/artist/6I4diCvovqUStwaQTftTth) | [The Incredible \#1 Hits Of The 50s](https://open.spotify.com/album/2Frdy9ZNcLRtRU9LZeIFlR) | 2:21 |
-| 130 | [Bye Bye Love](https://open.spotify.com/track/3To4AGsFPnDlP7oYj8nyuh) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Everly Brothers](https://open.spotify.com/album/2mD3cUWmcoehgpTCsNCSyV) | 2:24 |
+| 129 | [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 |
+| 130 | [Ain't Got No Home \- Sansu Version](https://open.spotify.com/track/3K8hILRVf2QkLmqUSLVhw9) | [Clarence](https://open.spotify.com/artist/6I4diCvovqUStwaQTftTth) | [The Incredible \#1 Hits Of The 50s](https://open.spotify.com/album/2Frdy9ZNcLRtRU9LZeIFlR) | 2:21 |
 | 131 | [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 |
 | 132 | [Baby I Don't Care](https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO) | [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 1:52 |
 | 133 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 1:59 |
 | 134 | [That's All Right](https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 1:59 |
 | 135 | [Keep A\-Knockin'](https://open.spotify.com/track/7jkPCXETejn3V1wkvu03AC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:16 |
 
-Snapshot ID: `MCxiMmIyZjZhZDQxODdkZTE2ODdlZDNmNTM1OWQ5ZWJjMjg5YWRlOWIx`
+Snapshot ID: `MCxkZjQ1YzJlNzc4MGZkMzdmZmY3YzlmNmE2Y2RkZWJkMjAxMWIzMTUz`

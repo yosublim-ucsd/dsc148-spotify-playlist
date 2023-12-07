@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,979 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,064 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 | 100 | [Tin Roof Blues](https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [Presenting Muggsy Spanier](https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih) | 2:56 |
 
-Snapshot ID: `MCxjMGJkZThhOTVjYzcxNzk2NzEwY2I5YTkwZWQ1MjVkMTk2ZGQzMTRj`
+Snapshot ID: `MCxlYmNkOTZkOTQ4NGQ0YmQwZDBiYzNkOWY0MDNjMTVkNTM4NWE0ZDMz`

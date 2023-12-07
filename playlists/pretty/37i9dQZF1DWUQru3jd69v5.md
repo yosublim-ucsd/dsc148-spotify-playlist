@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: 18K
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,388 likes - 54 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,386 likes - 54 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 53 | [EVIL TWINS \(feat\. Faneto, Melons el pejor\)](https://open.spotify.com/track/4Ojlf4ztVp8AsIS2SJV6H0) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Melons el pejor](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 2:39 |
 | 54 | [Top Boy](https://open.spotify.com/track/1ulJFkCkrNued2jimxc8PL) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Top Boy](https://open.spotify.com/album/6bsDeN3YlLDok3kefnmSZF) | 2:47 |
 
-Snapshot ID: `MCwzOTk3YWYzMDg3NGRhM2EzN2Y0OTExYThhODU2NGQxODI1MWVlNjlh`
+Snapshot ID: `MCxiNDhjMDYyYjk5YjBjMDllYjU1MDIyODAyNDE3Mzk5MjJhM2JjNzk4`

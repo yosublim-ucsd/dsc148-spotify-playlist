@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 432,
+  "num_followers": 0,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWMxNmMwNWMzYjgzYTg2OWNmZWFjOGU5ZDlkMDViZjRmZTZmNGRj",
+  "snapshot_id": "MCw2ZDUwODUyZDlkYzgwYTZjMmY5YTg1Njk0NmRhNTgwY2QyM2VjZmQz",
   "tracks": [
     {
       "added_at": "2023-10-13 15:25:21",
@@ -577,20 +577,24 @@
       "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
     },
     {
-      "added_at": "2023-10-13 15:25:21",
+      "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+        "name": "El Juidero",
+        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
       },
       "artists": [
         {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        },
+        {
+          "name": "Los Misterios",
+          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
         }
       ],
-      "duration_ms": 242961,
-      "name": "Boca Chica",
-      "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
+      "duration_ms": 299533,
+      "name": "Bajito a selva",
+      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -625,24 +629,20 @@
       "url": "https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB"
     },
     {
-      "added_at": "2022-08-13 03:00:56",
+      "added_at": "2023-10-13 15:25:21",
       "album": {
-        "name": "El Juidero",
-        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
       },
       "artists": [
         {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        },
-        {
-          "name": "Los Misterios",
-          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
         }
       ],
-      "duration_ms": 299533,
-      "name": "Bajito a selva",
-      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
+      "duration_ms": 242961,
+      "name": "Boca Chica",
+      "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
     },
     {
       "added_at": "2022-08-13 03:00:56",

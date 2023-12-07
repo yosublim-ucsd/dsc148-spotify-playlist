@@ -4,13 +4,13 @@
 
 > From India to MENA, these hits will make you dance.
 
-52 songs - 3 hr 16 min
+53 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 0:00 | 2023-01-24 | 2023-11-28 |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2023-01-24 | 2023-11-21 |
-| [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 |  |
+| [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 | 2023-12-07 |
 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 | 2023-01-24 |  |
 | [Bikhtissar](https://open.spotify.com/track/2YG9XwTOEWUj0BhiU5XgpL) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Bikhtissar](https://open.spotify.com/album/0xw0IgIfc7CVIRy6Ktlqyg) | 3:32 | 2023-01-24 |  |
 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 | 2023-01-24 |  |
@@ -26,6 +26,7 @@
 | [Duniyaa \(From "Luka Chuppi"\)](https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Duniyaa \(From "Luka Chuppi"\)](https://open.spotify.com/album/5hzAIEMlQpsEGIQFvnFOQx) | 3:42 | 2023-01-24 |  |
 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 | 2023-01-24 |  |
 | [Enta Habibi](https://open.spotify.com/track/2EDlJWafWH5q8EKrlzfkrF) | [Rahim Pardesi](https://open.spotify.com/artist/1KapWiZY2dgci5Ual0ELOr) | [Enta Habibi](https://open.spotify.com/album/5ALjw6UamqxHFKCnhhVab6) | 3:01 | 2023-01-24 |  |
+| [First Class \(Kalank\)](https://open.spotify.com/track/2EvGNKagKtvFeZMLjOfgDP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit) | 4:36 | 2023-11-27 |  |
 | [Habibi](https://open.spotify.com/track/1oqb2byqglKfTr4TEvLtGZ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 4:51 | 2023-01-24 |  |
 | [Hermosa](https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [D Soldierz](https://open.spotify.com/artist/2iMLFmSsfgkQjyIg8Y6QVj) | [Hermosa](https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge) | 3:23 | 2023-01-24 |  |
 | [Ishq](https://open.spotify.com/track/0AKWRh7wMW7Pzz2xo7SXlV) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [shipra goyal](https://open.spotify.com/artist/2RYQVpBwHLxuqpDZtlM5BP), [Myles Castello](https://open.spotify.com/artist/7o91XC7guOffmKcTtc5UvS) | [Ishq](https://open.spotify.com/album/2eYD0f2Tp1n8GQbmDoVft3) | 3:41 | 2023-01-24 |  |

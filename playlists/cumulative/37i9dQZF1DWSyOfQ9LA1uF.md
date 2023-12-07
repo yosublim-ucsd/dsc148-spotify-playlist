@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-160 songs - 12 hr 21 min
+161 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 | 2022-02-03 |  |
 | [Let's Make Love And Listen To Death From Above \- Spank Rock Remix](https://open.spotify.com/track/0r0dEfb6seSEb9oiTNX6wQ) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Let's Make Love And Listen To Death From Above](https://open.spotify.com/album/1j4KLwPKKa7KGER2rRT2SP) | 4:30 | 2021-01-12 | 2022-07-29 |
 | [Let's Make Love And Listen To Death From Above \- Spank Rock Remix](https://open.spotify.com/track/1UDDeiefJTAYMMWFab9Rsh) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Let's Make Love And Listen To Death From Above](https://open.spotify.com/album/5iaa3h5dYAAZ4lmghf3syq) | 4:30 | 2021-01-12 |  |
-| [Licky \(Work It Out\) \- Hervé Goes Low Remix](https://open.spotify.com/track/6nBva4Q0CflEKNI5mRqwmO) | [Larry Tee](https://open.spotify.com/artist/1snOzyP7WYWmbY8xjuWFeQ), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Club Badd](https://open.spotify.com/album/6uFgflNAr5jnYYMiLwvidR) | 5:59 | 2021-01-12 |  |
+| [Licky \(Work It Out\) \- Hervé Goes Low Remix](https://open.spotify.com/track/6nBva4Q0CflEKNI5mRqwmO) | [Larry Tee](https://open.spotify.com/artist/1snOzyP7WYWmbY8xjuWFeQ), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Club Badd](https://open.spotify.com/album/6uFgflNAr5jnYYMiLwvidR) | 5:59 | 2021-01-12 | 2023-12-07 |
+| [Licky \(Work It Out\) \- Hervé Goes Low Remix](https://open.spotify.com/track/36yVg2tFDqvCoX4CY2WGej) | [Larry Tee](https://open.spotify.com/artist/1snOzyP7WYWmbY8xjuWFeQ), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Club Badd](https://open.spotify.com/album/3XFhIRG45xe4mzklhZsItj) | 6:00 | 2022-08-24 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2022-02-03 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/5rv4eHaluaLvw9yUSQP9sR) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania Remixes \- EP](https://open.spotify.com/album/1nSxkq2wInNszSPz0gyKEE) | 5:04 | 2022-02-03 | 2022-07-29 |
 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 | 2022-02-03 |  |

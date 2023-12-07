@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l gaming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,622 likes - 150 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,686 likes - 150 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 45 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 |
 | 46 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 |
 | 47 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 |
-| 48 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 |
-| 49 | [sheesh bloke](https://open.spotify.com/track/2DvtuX7pLLwe5RWuqecuCX) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [sheesh bloke](https://open.spotify.com/album/6iBc6QL56hYwyauR1PSReg) | 1:47 |
-| 50 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
+| 48 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
+| 49 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 |
+| 50 | [sheesh bloke](https://open.spotify.com/track/2DvtuX7pLLwe5RWuqecuCX) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [sheesh bloke](https://open.spotify.com/album/6iBc6QL56hYwyauR1PSReg) | 1:47 |
 | 51 | [Symmetry](https://open.spotify.com/track/0H9ubICGjFmr51rKC58VVU) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Yacha Berdah](https://open.spotify.com/artist/1EH2RJM9qK5BaRf99G3o3A) | [Symmetry](https://open.spotify.com/album/2yjasqGEpOVDvJQTFepaay) | 2:16 |
 | 52 | [be glossy](https://open.spotify.com/track/2D2dkAz0unaWMCgSadf7Yp) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [double espresso](https://open.spotify.com/album/1PxI6cttkIIoRuwqgWS6GU) | 1:34 |
 | 53 | [Weightless](https://open.spotify.com/track/1X6Y4v1seN9P8uUj2VAwMr) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Weightless](https://open.spotify.com/album/4cnTvUTgOTDIbiLh4eBwxK) | 2:34 |
 | 54 | [Winding Heart Strings](https://open.spotify.com/track/4gEpB17YYmSOiSzqlkrMRW) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Winding Heart Strings](https://open.spotify.com/album/2axNdMLjeB0xgTxu6WAOaS) | 3:44 |
 | 55 | [Sleepy Eve](https://open.spotify.com/track/0YDdPrCpkjP9QywA44ronl) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Sleepy Eve](https://open.spotify.com/album/4tRCwpYFLMOtDB0RCZaC3u) | 1:32 |
-| 56 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 |
-| 57 | [Drifting](https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Drifting](https://open.spotify.com/album/5f5B4R0ddtk11JjCNpWPeY) | 2:02 |
+| 56 | [Drifting](https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Drifting](https://open.spotify.com/album/5f5B4R0ddtk11JjCNpWPeY) | 2:02 |
+| 57 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 |
 | 58 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 |
 | 59 | [la donna e la chitarra](https://open.spotify.com/track/2e94pHYImdJE6wgMLHaA9l) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/3stfQyN1Aq78m0W42lG2xS) | 1:45 |
 | 60 | [barred](https://open.spotify.com/track/5G8twxy897fzWrjYgrt6Mi) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [barred](https://open.spotify.com/album/7p996F0pe2XTafw6uyQoD1) | 1:56 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 86 | [why it can't be](https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [why it can't be](https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW) | 3:04 |
 | 87 | [Lofi on the Bass](https://open.spotify.com/track/2IhrewZbhBLNdTgxNKrIdE) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Lofi on the Bass](https://open.spotify.com/album/2ADzOtvCNQFQ2IQCrucOZP) | 3:37 |
 | 88 | [Thunder Hug](https://open.spotify.com/track/6KBnGr2g6uOLkZVlgEbiuV) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Thunder Hug](https://open.spotify.com/album/1CLuSyb4VMc7B1E7aQWksJ) | 2:34 |
-| 89 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 |
-| 90 | [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 |
+| 89 | [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 |
+| 90 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 |
 | 91 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 |
 | 92 | [Peep](https://open.spotify.com/track/79S0qKFlhMvRgV2gTgyrUi) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Peep](https://open.spotify.com/album/1H1BSktT6OnfBx8Alr3CKR) | 1:37 |
 | 93 | [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 149 | [Like You](https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Like You / Meant To Be](https://open.spotify.com/album/6itlc8l0JwpO0z4wvShTTt) | 3:00 |
 | 150 | [Mythical Beasts Do Yoga](https://open.spotify.com/track/6a22xSTZ90vf0wqcYpaeSP) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Mythical Beasts Do Yoga](https://open.spotify.com/album/3eQVZdtlOxKOYiwFGSJCDX) | 3:42 |
 
-Snapshot ID: `MCxjYjc2ZDM4N2MyOGM4Zjc2ZDhlYjM5OTM1NGIxZGI2NTBiZWQ0YWFl`
+Snapshot ID: `MCw5MGZjNDhiMThjNTAxODhiNjk1YzVlNWIzOTRkZTlhNTdiNmQxYWJh`

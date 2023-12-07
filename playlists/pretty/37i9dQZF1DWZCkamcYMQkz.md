@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,313 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,393 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 78 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 |
 | 79 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
 | 80 | [Central Park Swing](https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Not So Dukish](https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv) | 3:25 |
-| 81 | [Dakar](https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Michael Edlund](https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Buen Sabor](https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0) | 8:02 |
-| 82 | [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 |
-| 83 | [Singin' a Melody](https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq) | [Paul Callander Quintet](https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5) | [Singin' a Melody](https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG) | 3:44 |
+| 81 | [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 |
+| 82 | [Singin' a Melody](https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq) | [Paul Callander Quintet](https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5) | [Singin' a Melody](https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG) | 3:44 |
+| 83 | [Dakar](https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Michael Edlund](https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Buen Sabor](https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0) | 8:02 |
 | 84 | [A Dab Of This And That](https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Far Away Lands](https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi) | 5:12 |
 | 85 | [In the Cool, Cool, Cool of the Evening \(with Harry James & Harry James' Orchestra\)](https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Harry James & Harry James' Orchestra](https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:59 |
 | 86 | [I've Told Ev'ry Little Star](https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
 | 100 | [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 |
 
-Snapshot ID: `MCxhMjYyZGEyMTM0MTBjZjRkYmZkN2U2NmNiMDA0OTlmYWQ5OTM3MjNk`
+Snapshot ID: `MCxhMzA1ZTU5MjliMTY0Zjk3OTMyOTYyOTRkYTQwYmM5ZjU1YmNlZGJi`

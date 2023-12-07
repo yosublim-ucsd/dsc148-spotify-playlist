@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف :ياسر عبدالوهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,672 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,706 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 47 | [Tejbrni](https://open.spotify.com/track/6GtORpXVbiyLiUBFkRkH4P) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Tejbrni](https://open.spotify.com/album/3QU4bV2dxK3F4lyIINpWDy) | 3:55 |
 | 48 | [Halak Wain](https://open.spotify.com/track/2m4A4sEjBLpo4CFx8MisWJ) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Halak Wain](https://open.spotify.com/album/0EwUPfMmH97t5bteqLpIQf) | 2:16 |
 
-Snapshot ID: `MCwzMmZkMzA1Yjc5ZWVhZmY4OWEzNTIxMDg1OWY4YzlkN2IwMWJjZGU5`
+Snapshot ID: `MCw0MGMzOTExNjBiNDRiZjg5NWI4NTRhOGM4ZjVlYjYxNGMyMTUxY2Qy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Tyla \(pictured\), D\-Block Europe, Taylor Swift and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,081 likes - 124 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,145 likes - 124 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [jamcod](https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [jamcod](https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM) | 3:59 |
 | 124 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 |
 
-Snapshot ID: `MCw0N2JjZTFkNzViZjBmYjY2MWNhMTBjNTY3OGVjZWVlNGViZDY5YzQz`
+Snapshot ID: `MCwxNDRkOThmZDllMmM0M2U3OTk3NGU3ODA1MzM3ZWQ0YjU0ZmY4Y2Rj`

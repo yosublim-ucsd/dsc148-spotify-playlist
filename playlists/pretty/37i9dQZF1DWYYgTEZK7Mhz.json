@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 25059,
+  "num_followers": 25087,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTA5MTBhMzhkMzBkYzVjYjA2MWM1ZGNiN2MwN2UwMjRjYTkyZTg0",
+  "snapshot_id": "MCw3NTZmNTFmYmNjMmZlNWE3YjVjYzk4MjhjNjcxYmUzOTM3ZjE3OTNk",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Figli Delle Stelle (2005 - Remaster)",
-        "url": "https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB"
-      },
-      "artists": [
-        {
-          "name": "Alan Sorrenti",
-          "url": "https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "Figli Delle Stelle",
-      "url": "https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Traslocando",
         "url": "https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 209466,
       "name": "Non sono una signora",
       "url": "https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Figli Delle Stelle (2005 - Remaster)",
+        "url": "https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB"
+      },
+      "artists": [
+        {
+          "name": "Alan Sorrenti",
+          "url": "https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "Figli Delle Stelle",
+      "url": "https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Casco D'oro",
         "url": "https://open.spotify.com/album/2I9R3yTQGD7Qi3vftn7Q6b"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 161383,
       "name": "Nessuno Mi Pu\u00f2 Giudicare",
       "url": "https://open.spotify.com/track/7zrkOMlUmpdS6COxQykfVU"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Anni '60",
+        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 137665,
+      "name": "24.000 Baci",
+      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Le Sue Piu' Belle Canzoni",
         "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 245822,
       "name": "Legata a un granello di sabbia - Remastered",
       "url": "https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Anni '60",
-        "url": "https://open.spotify.com/album/09oVFxD8GT8LJGXwkN4IcU"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 137665,
-      "name": "24.000 Baci",
-      "url": "https://open.spotify.com/track/3XJmcsXl48gtkjx33EuPWK"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
-        "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
-      },
-      "artists": [
-        {
-          "name": "Nico Fidenco",
-          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Con Te Sulla Spiaggia",
-      "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 180453,
       "name": "Il mare nel cassetto",
       "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
+        "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
+      },
+      "artists": [
+        {
+          "name": "Nico Fidenco",
+          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "Con Te Sulla Spiaggia",
+      "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
     }
   ],
   "unique_name": "Sapore di Sale",

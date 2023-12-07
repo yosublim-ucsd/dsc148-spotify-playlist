@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume! Cover: <a href="spotify:artist:6WYC0ES42uaiJPtdBKDkIz">Amber Broos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,819 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,847 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 49 | [Ghosts Of Past Lovers](https://open.spotify.com/track/0w7t9ygL6qYfFf1jP87pMk) | [Echo Beatty](https://open.spotify.com/artist/7wqL6jZst2AuowlBZAejXD) | [Vision Glitch](https://open.spotify.com/album/1G9MgVltSKog3A9yMb91I7) | 5:38 |
 | 50 | [When Doves Cry](https://open.spotify.com/track/5OUSjYzir9lPobwHTqkWZZ) | [Naima Joris](https://open.spotify.com/artist/3eSHHprsyLcEwQUYwAAWmw) | [When Doves Cry](https://open.spotify.com/album/0oKtJOGoC7hBjBLkuLRsmt) | 3:42 |
 
-Snapshot ID: `MCxkZmY1NzBlYjU4YjM2YTY2ZWJkYjc0MTg4YzEyYTU1NTlmZWFjNTk4`
+Snapshot ID: `MCxiYmRmMzg3ZTI0MTY1YTNkYWE1NTI5YjU5NGQ4Yzk3MGM5ODVjNjRm`

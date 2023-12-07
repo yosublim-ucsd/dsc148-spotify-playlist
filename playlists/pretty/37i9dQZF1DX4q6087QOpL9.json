@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 85898,
+  "num_followers": 85973,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzViYTBiODcwNWY3NGNmZDYxNTFmODE1NTc3NjQ5YTgyMjNlYjYz",
+  "snapshot_id": "MCw2MWJlOTI0NDk4OGE2MDY0MGMzOWNjZWNhNGMzNzM3NTMxYzI1ZGI1",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -263,42 +263,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Introducing Tortured Soul",
-        "url": "https://open.spotify.com/album/5OLYjAbHuNKDcKKz1ELQAF"
-      },
-      "artists": [
-        {
-          "name": "Tortured Soul",
-          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
-        }
-      ],
-      "duration_ms": 396106,
-      "name": "Don't Hold Me Down",
-      "url": "https://open.spotify.com/track/0nvLZZN4UZFpV1nOHIeLpn"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "The World As I See It",
-        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Mia Tuttavilla",
-          "url": "https://open.spotify.com/artist/37h5VxkyYkfCMqzept4XcK"
-        }
-      ],
-      "duration_ms": 456732,
-      "name": "Touched The Sky",
-      "url": "https://open.spotify.com/track/6m8sKsDYNuNEBeuDUrQhDF"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Yoruba Soul Mixes - Rock Wit U",
         "url": "https://open.spotify.com/album/3qZpsTAOl6b0S5OahuXqsd"
       },
@@ -323,18 +287,38 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "The Way You Love Me - Deluxe Re-Issue",
-        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
+        "name": "The World As I See It",
+        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
       },
       "artists": [
         {
-          "name": "Marc Evans",
-          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Mia Tuttavilla",
+          "url": "https://open.spotify.com/artist/37h5VxkyYkfCMqzept4XcK"
         }
       ],
-      "duration_ms": 399653,
-      "name": "The Way U Love Me",
-      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
+      "duration_ms": 456732,
+      "name": "Touched The Sky",
+      "url": "https://open.spotify.com/track/6m8sKsDYNuNEBeuDUrQhDF"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Introducing Tortured Soul",
+        "url": "https://open.spotify.com/album/5OLYjAbHuNKDcKKz1ELQAF"
+      },
+      "artists": [
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "Don't Hold Me Down",
+      "url": "https://open.spotify.com/track/0nvLZZN4UZFpV1nOHIeLpn"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 256016,
       "name": "Dionne",
       "url": "https://open.spotify.com/track/544LVQh9D4e15YPq1rlJg6"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "The Way You Love Me - Deluxe Re-Issue",
+        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
+      },
+      "artists": [
+        {
+          "name": "Marc Evans",
+          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
+        }
+      ],
+      "duration_ms": 399653,
+      "name": "The Way U Love Me",
+      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Hayze",
-          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Changes (feat. Haze)",
-      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
       },
@@ -731,18 +711,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Black Mahogani",
-        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
       },
       "artists": [
         {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Hayze",
+          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
         }
       ],
-      "duration_ms": 415933,
-      "name": "Shades of Jae",
-      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
+      "duration_ms": 235066,
+      "name": "Changes (feat. Haze)",
+      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 538613,
       "name": "The Word Is Love - Silks Orginal Anthem Mix",
       "url": "https://open.spotify.com/track/1HrA0bW2Gv09RLqgdq6SWu"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Black Mahogani",
+        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 415933,
+      "name": "Shades of Jae",
+      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Love & Happiness (feat. India)",
+        "url": "https://open.spotify.com/album/5SeyhiafZ5HRUtNWI8GM5Z"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) (feat. India) (Dream Sequence)",
+      "url": "https://open.spotify.com/track/3CbDRuzh7MBjT4GiM8DFUM"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
       },
@@ -843,22 +863,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "I Believe In Miracles",
-        "url": "https://open.spotify.com/album/7skJgHIK6fM8oBz6REK82U"
-      },
-      "artists": [
-        {
-          "name": "Sunlightsquare",
-          "url": "https://open.spotify.com/artist/04Yb1Hoq1XbQHmjjLhs4Et"
-        }
-      ],
-      "duration_ms": 289849,
-      "name": "I Believe In Miracles - Broken Party Animal Mix",
-      "url": "https://open.spotify.com/track/7GHHZJ0tQu4SVSzvAKus6R"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Backfired",
         "url": "https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz"
       },
@@ -879,6 +883,22 @@
       "duration_ms": 519039,
       "name": "Backfired - Dave Lee Club Mix",
       "url": "https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "I Believe In Miracles",
+        "url": "https://open.spotify.com/album/7skJgHIK6fM8oBz6REK82U"
+      },
+      "artists": [
+        {
+          "name": "Sunlightsquare",
+          "url": "https://open.spotify.com/artist/04Yb1Hoq1XbQHmjjLhs4Et"
+        }
+      ],
+      "duration_ms": 289849,
+      "name": "I Believe In Miracles - Broken Party Animal Mix",
+      "url": "https://open.spotify.com/track/7GHHZJ0tQu4SVSzvAKus6R"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -939,26 +959,6 @@
       "duration_ms": 504933,
       "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
       "url": "https://open.spotify.com/track/29Obf0yYT5cppVWJLx9iu0"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Love & Happiness (feat. India)",
-        "url": "https://open.spotify.com/album/5SeyhiafZ5HRUtNWI8GM5Z"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) (feat. India) (Dream Sequence)",
-      "url": "https://open.spotify.com/track/3CbDRuzh7MBjT4GiM8DFUM"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Black Mahogani",
-        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 508693,
-      "name": "Black Mahogani",
-      "url": "https://open.spotify.com/track/495oT3dvrhlsppXTlXHpQx"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "History Repeating",
         "url": "https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 451200,
       "name": "History Repeating",
       "url": "https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Black Mahogani",
+        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 508693,
+      "name": "Black Mahogani",
+      "url": "https://open.spotify.com/track/495oT3dvrhlsppXTlXHpQx"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "(un)Reliable Recordings Presents: New Things Remixes",
+        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
+      },
+      "artists": [
+        {
+          "name": "Michal Martyniuk",
+          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
+        },
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        },
+        {
+          "name": "YaniKa",
+          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
+        }
+      ],
+      "duration_ms": 377069,
+      "name": "New Things (Eric Kupper Remix)",
+      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Free Pt. I",
         "url": "https://open.spotify.com/album/5mWpWGOgxSZ1obP7ZrXi5h"
       },
@@ -1363,30 +1387,6 @@
       "duration_ms": 361653,
       "name": "Free - Andr\u00e9s Remix",
       "url": "https://open.spotify.com/track/4OS4TRXB2bBVDGO2hEqBgS"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "(un)Reliable Recordings Presents: New Things Remixes",
-        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
-      },
-      "artists": [
-        {
-          "name": "Michal Martyniuk",
-          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
-        },
-        {
-          "name": "Eric Kupper",
-          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
-        },
-        {
-          "name": "YaniKa",
-          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
-        }
-      ],
-      "duration_ms": 377069,
-      "name": "New Things (Eric Kupper Remix)",
-      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Here to There",
-        "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
-      },
-      "artists": [
-        {
-          "name": "Dj Spinna",
-          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
-        },
-        {
-          "name": "Shaun Escoffery",
-          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
-        }
-      ],
-      "duration_ms": 325773,
-      "name": "Music in Me (Come Alive)",
-      "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "House Classics V (Presented by Harley & Muscle)",
         "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 372908,
       "name": "Inspiration",
       "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Here to There",
+        "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
+      },
+      "artists": [
+        {
+          "name": "Dj Spinna",
+          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
+        },
+        {
+          "name": "Shaun Escoffery",
+          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
+        }
+      ],
+      "duration_ms": 325773,
+      "name": "Music in Me (Come Alive)",
+      "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Nadirah Shakoor",
+          "url": "https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy"
+        }
+      ],
+      "duration_ms": 388777,
+      "name": "Pride (Main Mix)",
+      "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Basic Blaze",
         "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
       },
@@ -1719,26 +1739,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Nadirah Shakoor",
-          "url": "https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy"
-        }
-      ],
-      "duration_ms": 388777,
-      "name": "Pride (Main Mix)",
-      "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Lost & Found EP Vol. 1",
         "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
       },
@@ -1751,6 +1751,26 @@
       "duration_ms": 440854,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Best of the Last",
+        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
+      },
+      "artists": [
+        {
+          "name": "Studio Apartment",
+          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
+        },
+        {
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
+        }
+      ],
+      "duration_ms": 452439,
+      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
+      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1791,26 +1811,6 @@
       "duration_ms": 205167,
       "name": "Dangerous Vibes - Emmaculate Remix Edit",
       "url": "https://open.spotify.com/track/1zdXjvO3NQkz0fljwj3i5W"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Best of the Last",
-        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
-      },
-      "artists": [
-        {
-          "name": "Studio Apartment",
-          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
-        },
-        {
-          "name": "Monique Bingham",
-          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
-        }
-      ],
-      "duration_ms": 452439,
-      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
-      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Find A Friend",
+        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+      },
+      "artists": [
+        {
+          "name": "DJ John \u201cJulius\u201d Knight",
+          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+        }
+      ],
+      "duration_ms": 409238,
+      "name": "Find A Friend",
+      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Warning (Radio Edit)",
         "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 232258,
       "name": "Warning - Radio Edit",
       "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Find A Friend",
-        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
-      },
-      "artists": [
-        {
-          "name": "DJ John \u201cJulius\u201d Knight",
-          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
-        }
-      ],
-      "duration_ms": 409238,
-      "name": "Find A Friend",
-      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2299,22 +2299,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Timeless Vol. 1",
-        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
       "artists": [
         {
-          "name": "Elements Of Life",
-          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
         },
         {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
         }
       ],
-      "duration_ms": 501320,
-      "name": "Elements of Life - Album Mix",
-      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
+      "duration_ms": 198666,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2339,22 +2339,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+        "name": "Timeless Vol. 1",
+        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
       },
       "artists": [
         {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+          "name": "Elements Of Life",
+          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
         },
         {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
         }
       ],
-      "duration_ms": 198666,
-      "name": "It's Alright, I Feel It",
-      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
+      "duration_ms": 501320,
+      "name": "Elements of Life - Album Mix",
+      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2427,6 +2427,30 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "More Than a Remix",
+        "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "E-Man",
+          "url": "https://open.spotify.com/artist/7pJ2OuS57Yaj77slBPquK8"
+        },
+        {
+          "name": "Rainy Payne",
+          "url": "https://open.spotify.com/artist/3ir0UwJPYaz4OWSvf0F5pc"
+        }
+      ],
+      "duration_ms": 455346,
+      "name": "For Real - Atjazz Remix",
+      "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Don't Look Away",
         "url": "https://open.spotify.com/album/79WElr9JfXWakohGz8Ufex"
       },
@@ -2451,30 +2475,6 @@
       "duration_ms": 336388,
       "name": "Don't Look Away - David Morales Mix",
       "url": "https://open.spotify.com/track/4GwWyNp4vwMf17w1gS4S4e"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "More Than a Remix",
-        "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "E-Man",
-          "url": "https://open.spotify.com/artist/7pJ2OuS57Yaj77slBPquK8"
-        },
-        {
-          "name": "Rainy Payne",
-          "url": "https://open.spotify.com/artist/3ir0UwJPYaz4OWSvf0F5pc"
-        }
-      ],
-      "duration_ms": 455346,
-      "name": "For Real - Atjazz Remix",
-      "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2655,22 +2655,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
+        "name": "Mercyless (Atjazz Unreleased Astro Remixes)",
+        "url": "https://open.spotify.com/album/1as93MXHLXN6Vhrpt2ABQO"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Fred Everything",
+          "url": "https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS"
         },
         {
-          "name": "Charlotte Small",
-          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
+          "name": "Wayne Tennant",
+          "url": "https://open.spotify.com/artist/3fCXkoZo2oEfNSgJZqUihI"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         }
       ],
-      "duration_ms": 497280,
-      "name": "Rain - Terry Hunter Rainy Daze Remix",
-      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
+      "duration_ms": 416509,
+      "name": "Mercyless - Atjazz Unreleased Astro Remix",
+      "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2695,26 +2699,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Mercyless (Atjazz Unreleased Astro Remixes)",
-        "url": "https://open.spotify.com/album/1as93MXHLXN6Vhrpt2ABQO"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
       },
       "artists": [
         {
-          "name": "Fred Everything",
-          "url": "https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         },
         {
-          "name": "Wayne Tennant",
-          "url": "https://open.spotify.com/artist/3fCXkoZo2oEfNSgJZqUihI"
-        },
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+          "name": "Charlotte Small",
+          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
         }
       ],
-      "duration_ms": 416509,
-      "name": "Mercyless - Atjazz Unreleased Astro Remix",
-      "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
+      "duration_ms": 497280,
+      "name": "Rain - Terry Hunter Rainy Daze Remix",
+      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2743,8 +2743,8 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+        "name": "Momma's Groove",
+        "url": "https://open.spotify.com/album/0nhS8liVSY8PBQQ1Arc9sQ"
       },
       "artists": [
         {
@@ -2752,9 +2752,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+      "duration_ms": 384012,
+      "name": "Momma's Groove",
+      "url": "https://open.spotify.com/track/2O5UhR6BHFlDuGSBPiK0Wi"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3yuKDNV15fE0ttSmT2riCj"
       },
@@ -2863,6 +2847,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Essential Beats, Vol.9",
         "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
       },
@@ -2883,8 +2883,8 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Momma's Groove",
-        "url": "https://open.spotify.com/album/0nhS8liVSY8PBQQ1Arc9sQ"
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
       },
       "artists": [
         {
@@ -2892,9 +2892,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 384012,
-      "name": "Momma's Groove",
-      "url": "https://open.spotify.com/track/2O5UhR6BHFlDuGSBPiK0Wi"
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -3043,22 +3043,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Act Like You Know",
-        "url": "https://open.spotify.com/album/0Vz5zwWx4yxpkIzBv9ayst"
-      },
-      "artists": [
-        {
-          "name": "DJ Pope",
-          "url": "https://open.spotify.com/artist/0pcXybmnJaiSm2QDhGylq8"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Act Like You Know",
-      "url": "https://open.spotify.com/track/5aJolgnSFg45tZ9kIIBMB5"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/6SHj0DB4f7ogcpKKqmBZDM"
       },
@@ -3075,6 +3059,22 @@
       "duration_ms": 410348,
       "name": "I (Sean McCabe Remix)",
       "url": "https://open.spotify.com/track/3aMCxBSFfMWrhfT0IhsU1b"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/0Vz5zwWx4yxpkIzBv9ayst"
+      },
+      "artists": [
+        {
+          "name": "DJ Pope",
+          "url": "https://open.spotify.com/artist/0pcXybmnJaiSm2QDhGylq8"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/5aJolgnSFg45tZ9kIIBMB5"
     }
   ],
   "unique_name": "Soulful House",

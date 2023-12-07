@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 380786,
+  "num_followers": 380957,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmI3NGYzZGU3YzU1MjQyNTZiZWFjNDdiMzQ5ODc5OWZkM2E4OGI3",
+  "snapshot_id": "MCw4MTgzZDA2Yjk2ZTNlNDg1NTk0MGJmZjI0OGQ4YWUwN2MyMGY4ZDcw",
   "tracks": [
     {
       "added_at": "2023-11-14 09:11:41",
@@ -23,6 +23,22 @@
       "duration_ms": 196120,
       "name": "Monsta",
       "url": "https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO"
+      },
+      "artists": [
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -47,22 +63,6 @@
       "duration_ms": 150857,
       "name": "Bumsbar",
       "url": "https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO"
-      },
-      "artists": [
-        {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Auf dem Besen an den Tresen",
-        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
-      },
-      "artists": [
-        {
-          "name": "Milla Pink",
-          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Auf dem Besen an den Tresen",
-      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Auf dem Besen an den Tresen",
+        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
+      },
+      "artists": [
+        {
+          "name": "Milla Pink",
+          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Auf dem Besen an den Tresen",
+      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Ich schwanke noch",
-        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        }
-      ],
-      "duration_ms": 209358,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Das Beste von Geier Sturzflug",
         "url": "https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182333,
       "name": "Bruttosozialprodukt",
       "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
         "name": "Igel",
         "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 134826,
       "name": "Igel",
       "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Kabinenparty (feat. MAKZ 38) [Kreisliga Mix]",
         "url": "https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2023-11-14 09:11:41",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2023-11-14 09:11:41",
       "album": {
-        "name": "Hoch die H\u00e4nde Wochenende",
-        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 174719,
-      "name": "Hoch die H\u00e4nde Wochenende",
-      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
-    },
-    {
-      "added_at": "2023-11-14 09:11:41",
-      "album": {
         "name": "Mannschaftsfahrt",
         "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 168895,
       "name": "Mannschaftsfahrt",
       "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+    },
+    {
+      "added_at": "2023-11-14 09:11:41",
+      "album": {
+        "name": "Hoch die H\u00e4nde Wochenende",
+        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 174719,
+      "name": "Hoch die H\u00e4nde Wochenende",
+      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
     },
     {
       "added_at": "2023-11-14 09:11:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Los Bunkers
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,319 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,343 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 29 | [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
 | 30 | [Solo tú](https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Solo tú](https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65) | 4:07 |
 | 31 | [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 |
-| 32 | [VENENO](https://open.spotify.com/track/0DNoRxCysDLV6z4UgaLso2) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [VENENO](https://open.spotify.com/album/5uyVBqMyaoVHy9M8PvOnJ7) | 3:38 |
+| 32 | [VENENO](https://open.spotify.com/track/1ijiOk6sEfDLLh1bWYLkk8) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [VENENO](https://open.spotify.com/album/24tpJBhXjecNBqKHVpwp3E) | 3:32 |
 | 33 | [Luces](https://open.spotify.com/track/1iwoIyo9Q96VMkhRW8aQse) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Tiempo Futuro](https://open.spotify.com/album/6issZ4zaNQJCWTs07BXnsL) | 3:08 |
 | 34 | [Pulso](https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:26 |
 | 35 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 79 | [Diosito](https://open.spotify.com/track/17BSIxhmwh5He7UzguwJPs) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Diosito](https://open.spotify.com/album/4ell8Y3YqPm4xtFKBAzSwV) | 2:42 |
 | 80 | [Airplane](https://open.spotify.com/track/6BVcHhEzkuVDU97bbNlJDF) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Airplane](https://open.spotify.com/album/7CgZMHYBN6cuHilMgnaFur) | 7:24 |
 
-Snapshot ID: `MCwyZmRlNzNjNzFlMGZjZGE1ZjE3NGEyNDFiYTg5Nzk2YTc5NzZmYTE4`
+Snapshot ID: `MCwyZjM2ZmIwZDE0ZjU0NzFmOTQ2NzVlYjE0YzliZmRiMWJlYWU0YWQy`

@@ -1,13 +1,69 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 15366,
+  "num_followers": 15371,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjA3Miw3NjhiZDVjZTc2ZDgxNjNjNGIzNjg3ZDFmOWQzMzNmYmZkYWI2OTMw",
+  "snapshot_id": "NjA3OSxlZjBlNTExNWMyYjNhNWY2NWUzN2EzMzY4M2U1ZThiMGVkZDQyOWJl",
   "tracks": [
+    {
+      "added_at": "2023-12-06 15:25:33",
+      "album": {
+        "name": "I Care",
+        "url": "https://open.spotify.com/album/7kP2k3n4sb0iYbRVE918tY"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
+        },
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 258499,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/558xYpvwBcoM9JmJEuYXfT"
+    },
+    {
+      "added_at": "2023-12-06 15:24:47",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/440GQ9ihDk0JBKq944vsvw"
+      },
+      "artists": [
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "The Window",
+      "url": "https://open.spotify.com/track/5sf9YLJBGMTrCBEpUZOwrc"
+    },
+    {
+      "added_at": "2023-12-06 15:25:01",
+      "album": {
+        "name": "I Believe In Love Again",
+        "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 176524,
+      "name": "I Believe In Love Again",
+      "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
     {
       "added_at": "2023-11-17 12:34:38",
       "album": {
@@ -23,6 +79,26 @@
       "duration_ms": 199880,
       "name": "easy breezy",
       "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
+    },
+    {
+      "added_at": "2023-12-06 15:30:39",
+      "album": {
+        "name": "where\u2019s my head at _",
+        "url": "https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 152822,
+      "name": "where\u2019s my head at _",
+      "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
     },
     {
       "added_at": "2023-10-18 13:02:25",

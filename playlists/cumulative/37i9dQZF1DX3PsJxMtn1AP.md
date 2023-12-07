@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-225 songs - 14 hr 39 min
+226 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [500 ascended](https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:32 | 2023-06-27 | 2023-08-18 |
 | [A Time To Blossom](https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW) | [Modern Cosmology](https://open.spotify.com/artist/0yxsIy3WjwZlMNjBdvvHXF), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [A Time To Blossom](https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g) | 7:18 | 2023-03-24 | 2023-05-27 |
 | [Afternoon X](https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Afternoon X](https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl) | 4:06 | 2023-10-13 |  |
-| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-24 |  |
+| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-24 | 2023-12-07 |
 | [Aloha Baby](https://open.spotify.com/track/3PdE82quKvFzUdBTd9NWyG) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 6:05 | 2023-05-24 |  |
 | [Amanecer \(Remix\)](https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Nereidas](https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94) | [Amanecer \(Remix\)](https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9) | 4:18 | 2023-03-15 | 2023-10-25 |
 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-03-31 | 2023-06-02 |
@@ -70,6 +70,7 @@
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-25 | 2023-10-11 |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-03 | 2023-04-15 |
 | [El Peso](https://open.spotify.com/track/5VbRwZScBAxgrLoQ84ss8I) | [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [UNO](https://open.spotify.com/album/1UwrDtLXLepWw9VRpfTlNE) | 3:35 | 2023-03-16 | 2023-04-14 |
+| [El Tonto](https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [El Tonto](https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE) | 3:14 | 2023-12-07 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 | 2023-01-25 | 2023-04-01 |
 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 | 2023-05-09 | 2023-06-15 |
 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 | 2023-03-16 | 2023-05-24 |

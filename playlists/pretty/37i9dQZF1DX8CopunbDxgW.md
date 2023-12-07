@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Empress Of
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,345 likes - 152 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,394 likes - 152 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 151 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 152 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 |
 
-Snapshot ID: `MCwyMjU1MzMzZGNiODQ2YmE1OTJjMDQwMTAwZmE3YWIzMTU2M2NkOGY1`
+Snapshot ID: `MCwyMDQ5Mzc2MWJhZTE2MzM3ZGRmZmFiNzM3NTFlZjdhN2U3MGMwZGE2`

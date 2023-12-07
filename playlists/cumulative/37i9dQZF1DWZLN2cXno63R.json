@@ -270,10 +270,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 247933,
       "name": "Ay, Mi Vidita",
       "url": "https://open.spotify.com/track/0VKzuR2qYhwgpAGGITZohX"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/3AJXxWN1efAYEw0rezPq6C"
+      },
+      "artists": [
+        {
+          "name": "Pedro Luis Ferrer",
+          "url": "https://open.spotify.com/artist/67rqEUFkr7S787s9ywsDws"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Ay, Mi Vidita",
+      "url": "https://open.spotify.com/track/6e9DORo9z00sHJkElvC90Z"
     },
     {
       "album": {
@@ -1128,10 +1146,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 243666,
       "name": "Fundamento",
       "url": "https://open.spotify.com/track/1ZnNb0y9cGIGJ9KqfGHZ7H"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/3AJXxWN1efAYEw0rezPq6C"
+      },
+      "artists": [
+        {
+          "name": "Pedro Luis Ferrer",
+          "url": "https://open.spotify.com/artist/67rqEUFkr7S787s9ywsDws"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "Fundamento",
+      "url": "https://open.spotify.com/track/4fZnC9wZMEWZGQ6YI9E12g"
     },
     {
       "album": {
@@ -2194,6 +2230,24 @@
     {
       "album": {
         "name": "Tangible",
+        "url": "https://open.spotify.com/album/0swFRdlzHLxQ6Ff2PO0X4A"
+      },
+      "artists": [
+        {
+          "name": "Pedro Luis Ferrer",
+          "url": "https://open.spotify.com/artist/67rqEUFkr7S787s9ywsDws"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Tangible",
+      "url": "https://open.spotify.com/track/10X7wZDTMcjWuI7CVAAvTQ"
+    },
+    {
+      "album": {
+        "name": "Tangible",
         "url": "https://open.spotify.com/album/5y7kGCvhMMKjWvTECSxDkf"
       },
       "artists": [
@@ -2204,7 +2258,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 281746,
       "name": "Tangible",
       "url": "https://open.spotify.com/track/4Bhi9G7AGiwvysNwQkqt8A"

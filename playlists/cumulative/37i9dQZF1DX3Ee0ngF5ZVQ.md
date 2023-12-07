@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-570 songs - 1 day 9 hr 57 min
+571 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Daylight](https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG) | [Cheating On A Memory Chapter 2](https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr) | 3:34 | 2022-08-19 | 2022-09-15 |
 | [Deconstruction of a Heartache](https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Amanda Kate](https://open.spotify.com/album/5gyxMSvCLHNeS8IPLBAXQ1) | 3:34 | 2021-12-17 | 2022-08-14 |
 | [Desert Rose](https://open.spotify.com/track/6EmGsOMMtMTri9jgFRefQl) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Fair Weather Cowboy](https://open.spotify.com/album/54FwkC0pz1pFU9IfFajgqI) | 3:23 | 2022-11-18 | 2023-01-17 |
-| [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 | 2023-09-15 |  |
+| [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 | 2023-09-15 | 2023-12-07 |
 | [Devil's Den](https://open.spotify.com/track/3lBvbmPoXdmlDZrHYxxnu0) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Devil's Den](https://open.spotify.com/album/5y65PMxRxf3VIgrC0BBViv) | 3:52 | 2022-02-04 | 2022-03-19 |
 | [Diamondhead](https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Diamondhead](https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc) | 3:07 | 2023-09-08 |  |
 | [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 | 2022-09-16 | 2023-10-25 |
@@ -406,6 +406,7 @@
 | [See You Again](https://open.spotify.com/track/4Rr95j82AomVqqbAOewgex) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [See You Again](https://open.spotify.com/album/7MmU8U3Vkjrl2ZAHZ5qvni) | 3:35 | 2023-07-28 | 2023-08-26 |
 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 | 2021-12-17 |  |
 | [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/3y2zTwvJpEJ0pYi6JdbkQU) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 3:21 | 2023-09-01 | 2023-10-21 |
+| [Seven Year Ache \(feat\. Jenna Paulette\)](https://open.spotify.com/track/63Z6AAHPSbNm0S6f5XuXe5) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:21 | 2023-11-24 |  |
 | [She Can't Be Found](https://open.spotify.com/track/0S7JGv7sbJlrr6BBMfRKye) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 4:27 | 2023-08-11 | 2023-09-11 |
 | [She Can't Be Found](https://open.spotify.com/track/6T02bf5qIAVf8AndP9x2Ud) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [She Can't Be Found](https://open.spotify.com/album/6Ldm3L4Aa6YD5IiJfTc79l) | 4:27 | 2023-07-07 | 2023-08-14 |
 | [She Don't](https://open.spotify.com/track/1fgNH6vN7i4Ofp6uxuVHzH) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [She Don't](https://open.spotify.com/album/4zQKvIO2kVpQFZhFBuXc7k) | 3:11 | 2023-02-24 | 2023-05-27 |

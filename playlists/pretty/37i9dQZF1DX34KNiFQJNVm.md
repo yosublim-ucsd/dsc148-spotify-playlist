@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Felipe e MC Ryan SP, João Gomes, MC Cabelinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,304 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,737 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 6 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 |
 | 7 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 | 8 | [Matadinha De Saudade \- Ao Vivo](https://open.spotify.com/track/5G2BT0ajtZQNy6FMDA5u8P) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Matadinha De Saudade \(Ao Vivo\)](https://open.spotify.com/album/1pxeauQMDEzXSu0xgzFMFR) | 2:56 |
-| 9 | [Você Vai Ser Fiel \- Ao Vivo](https://open.spotify.com/track/4TVPiACLzxgDjmkwaabMxs) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP3\)](https://open.spotify.com/album/0o2dcSIEUJlFNFjRk4VPwV) | 2:44 |
+| 9 | [Você Vai Ser Fiel \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4TVPiACLzxgDjmkwaabMxs) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP3\)](https://open.spotify.com/album/0o2dcSIEUJlFNFjRk4VPwV) | 2:44 |
 | 10 | [Não Recomendo \- Ao Vivo](https://open.spotify.com/track/4ssTFuVeNJG8py5dr2P2pV) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Não Recomendo \(Ao Vivo\)](https://open.spotify.com/album/38P68ZCxri4SUQXSK15CxW) | 2:21 |
 | 11 | [Boca do Sapo \(Ao Vivo em São Paulo\)](https://open.spotify.com/track/4Ww7XSAIYyVRaYSaeeK7re) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Boca do Sapo \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/1ZofNCYPEg7mqYAke4KmIL) | 2:42 |
 | 12 | [Não Se Apega](https://open.spotify.com/track/4UZc5wPQhiLKeZG11LLO9j) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Não Se Apega](https://open.spotify.com/album/2uMaA66KF4EnCCMedUQ2UT) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Só lamento](https://open.spotify.com/track/27b6If422K7cuNezwYN55c) | [Thomas Vaqueiro](https://open.spotify.com/artist/5Fc2BzVQzypkuOBhvYdrvJ), [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv) | [Só lamento](https://open.spotify.com/album/1igCfqzOqI1Gmr4vl6NE6e) | 3:11 |
 | 100 | [Toda Vez \- Ao Vivo](https://open.spotify.com/track/2MDPZG8NsDIVeFoazvS3il) | [Grupo Façanha](https://open.spotify.com/artist/7rVqW5hEuqyZHkgGtuHuLe), [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q) | [Toda Vez \(Ao Vivo\)](https://open.spotify.com/album/0OVb0E8JkEOt9mvZmEFbrF) | 2:46 |
 
-Snapshot ID: `MCxjMWQ2NzJkOTZkYjcwZDk0ZDMwNzU5MWVkYTc4YmYwYjE0Mzk1M2Y2`
+Snapshot ID: `MCxhODA4MzNmODZhYjQ3MDNiZmYyYzg0ZmMxYmNkMDA1M2FjNjNhY2Rk`

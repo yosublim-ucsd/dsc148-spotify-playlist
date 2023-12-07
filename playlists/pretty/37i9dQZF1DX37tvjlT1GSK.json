@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Julian Mercado en portada. ",
-  "num_followers": 742172,
+  "num_followers": 742271,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTYyMjkyZDI4ODkwMjhjNTc3NTU2Y2MzZThjY2ZiNzdhOTE1MTIx",
+  "snapshot_id": "MCxlMWU1OWRkNWEzZDlkNmQ2NjY2Yzk1OGI1ZjFhOGJlYjYxM2FlZWQ1",
   "tracks": [
     {
       "added_at": "2023-12-04 23:47:36",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "The Life in Your Eyes",
-        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "Amor Fugaz",
-      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "The Life in Your Eyes",
+        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Corridos Tumbados",
         "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "Gente Corriente - En Vivo",
+      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Gente Corriente - En Vivo",
-      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Trece Cielos (Con Cerveza Victoria)",
-        "url": "https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Coronel",
-          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Trece Cielos (Con Cerveza Victoria)",
-      "url": "https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
         "name": "Amor y Dolor (En Vivo)",
         "url": "https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 194626,
       "name": "Te Encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
+        "name": "Trece Cielos (Con Cerveza Victoria)",
+        "url": "https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Trece Cielos (Con Cerveza Victoria)",
+      "url": "https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+    },
+    {
+      "added_at": "2023-12-04 23:47:36",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
       },
@@ -2083,18 +2099,22 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+        "name": "Oye Bebe",
+        "url": "https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ"
       },
       "artists": [
         {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        },
+        {
+          "name": "El Gilbert",
+          "url": "https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA"
         }
       ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+      "duration_ms": 203863,
+      "name": "Oye Bebe",
+      "url": "https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2135,22 +2155,18 @@
     {
       "added_at": "2023-12-04 23:47:36",
       "album": {
-        "name": "Oye Bebe",
-        "url": "https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ"
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        },
-        {
-          "name": "El Gilbert",
-          "url": "https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA"
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
         }
       ],
-      "duration_ms": 203863,
-      "name": "Oye Bebe",
-      "url": "https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg"
+      "duration_ms": 241493,
+      "name": "Sal\u00ed Perdiendo - En Vivo",
+      "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
     },
     {
       "added_at": "2023-12-04 23:47:36",
@@ -2167,22 +2183,6 @@
       "duration_ms": 211033,
       "name": "Ping\u00fcinos En La Cama",
       "url": "https://open.spotify.com/track/1VtTXzI7Do7rzM8umR1bnq"
-    },
-    {
-      "added_at": "2023-12-04 23:47:36",
-      "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Sal\u00ed Perdiendo - En Vivo",
-      "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
     },
     {
       "added_at": "2023-12-04 23:47:36",

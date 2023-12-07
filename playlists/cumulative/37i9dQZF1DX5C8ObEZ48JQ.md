@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from Africa this year\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
 
-620 songs - 1 day 7 hr 21 min
+621 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,8 +504,9 @@
 | [Sober](https://open.spotify.com/track/5WWCPyBdotlvmFJKPUYLHj) | [Mista Myles](https://open.spotify.com/artist/7uAAmJ1aG1pf41H00sFpec) | [Sober](https://open.spotify.com/album/130bB4Dvs8u7rfjJsMrPYi) | 3:10 | 2023-02-22 | 2023-03-30 |
 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 | 2022-10-28 |  |
 | [Sogea Sogea](https://open.spotify.com/track/6hy9BHXqJZiHL7L3D0k7kX) | [Seghito](https://open.spotify.com/artist/4gmKpERsfkwaooEhIz1bMy) | [Sogea Sogea](https://open.spotify.com/album/52WJypEokawEHrJXXXlakY) | 4:53 | 2023-01-25 | 2023-02-23 |
-| [Soja Man](https://open.spotify.com/track/4uPdyEbMNX0cUXEzKQdUAA) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/036ajUJZh0Rs1pG1qed1Tc) | 3:21 | 2023-11-29 |  |
+| [Soja Man](https://open.spotify.com/track/4uPdyEbMNX0cUXEzKQdUAA) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/036ajUJZh0Rs1pG1qed1Tc) | 3:21 | 2023-11-29 | 2023-12-07 |
 | [Soja Man](https://open.spotify.com/track/5aIoeJtgsMlpyuSsa6s0k8) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/00jKow5FJLfnD2FW57m77E) | 3:21 | 2023-03-29 | 2023-06-06 |
+| [Soja Man](https://open.spotify.com/track/7GIO22V1L4wUq23NUQyhQE) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/3beW8OdVYWIke4rpJiPTcH) | 3:21 | 2023-11-29 |  |
 | [Solitude](https://open.spotify.com/track/5wvRt7OEz5fR9RDpEjZ1B0) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk), [Shado Vybz](https://open.spotify.com/artist/6JLbRjUiT4wU7zTYNpsIVM) | [Minds Of Men](https://open.spotify.com/album/6ZXvSHlMsKU0D3YIE0eMOM) | 3:08 | 2023-11-29 |  |
 | [Solo](https://open.spotify.com/track/30ZIgtp39QxqS4bdnCwQ0I) | [AbFad](https://open.spotify.com/artist/2Ca5oaHoJvbsxKun4mlyZw), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Solo](https://open.spotify.com/album/2Mz5SKy2CwLk7HLH0xNRU3) | 3:07 | 2023-02-22 | 2023-03-30 |
 | [Solomon](https://open.spotify.com/track/1MG83nR4e3NoZsUF2rbL0X) | [Dela](https://open.spotify.com/artist/3gDoJr5okdzazUujoggUo3) | [Dela](https://open.spotify.com/album/1yVdY7cJU7T69mRNVaMwHF) | 2:23 | 2023-10-25 | 2023-11-30 |

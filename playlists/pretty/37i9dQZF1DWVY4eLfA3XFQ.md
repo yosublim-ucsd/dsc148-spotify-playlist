@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Max Styler
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,698 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,750 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Easy Tiger](https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Easy Tiger](https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn) | 3:26 |
 | 125 | [Blisters on My Feet](https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF) | 2:56 |
 
-Snapshot ID: `MCw0YjYwNWE0OWU2ZDRjZDFkOTI0OWU0OTkyMzE3ZDQyNjIwN2U2YjFj`
+Snapshot ID: `MCw4N2E3ZmMyYzQwYmVhMzFhZTlkM2I0MDhlNmI4NDM3MWE5ZDNhYmRh`

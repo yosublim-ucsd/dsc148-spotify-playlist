@@ -5566,10 +5566,28 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 241503,
       "name": "Loss(Angels)",
       "url": "https://open.spotify.com/track/2DZRkxGAsvcyPysbuOkUc3"
+    },
+    {
+      "album": {
+        "name": "Loss(Angels)",
+        "url": "https://open.spotify.com/album/5qGkEHJOnzfmNCeDdlzvVA"
+      },
+      "artists": [
+        {
+          "name": "GRAPEVINE",
+          "url": "https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241503,
+      "name": "Loss(Angels)",
+      "url": "https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG"
     },
     {
       "album": {
@@ -6234,6 +6252,24 @@
       "duration_ms": 320040,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/30ymFrgpBX8yh1UI7Jnmby"
+    },
+    {
+      "album": {
+        "name": "I See the Moon Light",
+        "url": "https://open.spotify.com/album/3Z5OJclE5EwarKIqtK21yL"
+      },
+      "artists": [
+        {
+          "name": "Qujila Yoluno Machi",
+          "url": "https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209882,
+      "name": "Moon Night Baby",
+      "url": "https://open.spotify.com/track/2tu3270ZBpG3SnAYicoihN"
     },
     {
       "album": {
@@ -10064,7 +10100,7 @@
     {
       "album": {
         "name": "walk walk",
-        "url": "https://open.spotify.com/album/5xPIpUF3iT20iOfdUnaMpi"
+        "url": "https://open.spotify.com/album/5Ni4qXLrTqOgNLgs8UKB8s"
       },
       "artists": [
         {
@@ -10075,6 +10111,24 @@
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193166,
+      "name": "walk walk",
+      "url": "https://open.spotify.com/track/0fKl9hAYVMQIyb3SXPsg3C"
+    },
+    {
+      "album": {
+        "name": "walk walk",
+        "url": "https://open.spotify.com/album/5xPIpUF3iT20iOfdUnaMpi"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-07",
       "duration_ms": 193166,
       "name": "walk walk",
       "url": "https://open.spotify.com/track/6Ilmcx6we2Wz3dKXA7iQSb"
@@ -18894,7 +18948,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 209882,
       "name": "\u8f1d\u591c\u59eb",
       "url": "https://open.spotify.com/track/4FctVxLuE6HZnwpxlUgIXk"

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-372 songs - 1 day 7 hr 18 min
+373 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 | 2022-03-25 |  |
 | [Antikythera Rddl](https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX), [Distant Fires Burning](https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z) | [R Abacus Lndr](https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf) | 7:12 | 2023-09-22 | 2023-11-18 |
 | [Apex](https://open.spotify.com/track/50NjjRZnsN4RPr24gTytvQ) | [Casually Here](https://open.spotify.com/artist/6Uzy6y5KKy3F4G5NdKeiUd) | [Apex](https://open.spotify.com/album/2Z0EWPd2f9orQ2RQ5kfEel) | 7:36 | 2022-02-11 | 2023-07-29 |
-| [Apparences](https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1) | [Eskadet](https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG) | [L'attente](https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi) | 5:26 | 2022-11-22 |  |
+| [Apparences](https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1) | [Eskadet](https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG) | [L'attente](https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi) | 5:26 | 2022-11-22 | 2023-12-07 |
 | [Apparences](https://open.spotify.com/track/2x70m39lWNsjwgG2bmx2aT) | [Eskadet](https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG) | [Apparences](https://open.spotify.com/album/4DYOGwqjqOBxw1HuC6zjyk) | 5:26 | 2022-03-25 | 2022-07-20 |
 | [Apples from Peru](https://open.spotify.com/track/1UJXZ1V8ppaZigQ31bbqGo) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [Due Matte](https://open.spotify.com/album/0CTOpkupMxXETN6N3XOIwZ) | 4:31 | 2021-12-26 | 2022-07-28 |
 | [Apples from Peru](https://open.spotify.com/track/4Bl5rpXJbPQu24zz37qLas) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [Due Matte](https://open.spotify.com/album/0ynsr7iDZ6bjhRGeVRfRVH) | 4:31 | 2022-11-22 | 2023-08-12 |
@@ -113,6 +113,7 @@
 | [Disuelta](https://open.spotify.com/track/5hVYVwbP1a5VPbclGeRcm3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u) | 2:57 | 2022-07-15 | 2023-08-12 |
 | [Disuelta](https://open.spotify.com/track/7qAd8DblDg1luQ8qnRJOmh) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/4geSagGdLzudTyR6SW2mTo) | 2:57 | 2021-12-26 | 2022-07-27 |
 | [Dogtooth](https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Dogtooth](https://open.spotify.com/album/1VqyDNavZFGg51K7hgpQHf) | 2:00 | 2023-09-22 | 2023-11-25 |
+| [Dogtooth](https://open.spotify.com/track/5ShV0OkZyUdKI2c3giDipi) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [KEYS & LOCKS](https://open.spotify.com/album/3XTRz14kTisUNAsgkRFqQE) | 2:00 | 2023-12-01 |  |
 | [Don't Worry \- Child Mix](https://open.spotify.com/track/0j9Waqd2mmYCStV7YiLgxQ) | [DJ Lostboi](https://open.spotify.com/artist/4hM2xGRI8JsgyLX9OBfeli) | [The Flash](https://open.spotify.com/album/6ZMQKff7TtJQraOaXwVI9h) | 5:37 | 2021-12-26 | 2023-08-12 |
 | [Dream World](https://open.spotify.com/track/4HwvMpiBQtLdmPDEskAp2P) | [Mayk'l](https://open.spotify.com/artist/3zIB464sWOBFwqHeppzfkt) | [Ambitsound](https://open.spotify.com/album/7nXqROD0bpRtgbeewrfj8D) | 3:07 | 2022-03-04 | 2022-07-29 |
 | [Dreamers \(Part I\)](https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx) | [Interstellar Funk](https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf) | [Into The Echo](https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f) | 7:01 | 2022-04-01 | 2023-05-12 |

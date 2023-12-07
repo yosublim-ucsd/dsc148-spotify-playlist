@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43186,
+  "num_followers": 43185,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTc1ZmJlZGY3NTRhMTMyZGYzMTJjYjgyOWM5ZjYzMmJjMTRkMzdk",
+  "snapshot_id": "MCxiNTllMzE1MzVmMGFjZTVjMjc2MmU0ODU3ODkxNzI4N2I3NWFhOGM4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1115,6 +1099,22 @@
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1187,26 +1187,6 @@
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Scars II",
-        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1289,6 +1269,26 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Sadboy, Vol. 1",
@@ -1321,42 +1321,6 @@
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "No Rules (Slut Me Out) (Single)",
-        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
-      },
-      "artists": [
-        {
-          "name": "Sy Ari Da Kid",
-          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
-        },
-        {
-          "name": "Paxquiao",
-          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "No Rules (Slut Me Out)",
-      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 154473,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "On Mine",
@@ -1377,24 +1341,40 @@
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
       },
       "artists": [
         {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
         }
       ],
-      "duration_ms": 203136,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+      "duration_ms": 154473,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
+    },
+    {
+      "added_at": "2023-09-08 05:11:32",
+      "album": {
+        "name": "No Rules (Slut Me Out) (Single)",
+        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
+      },
+      "artists": [
+        {
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+        },
+        {
+          "name": "Paxquiao",
+          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "No Rules (Slut Me Out)",
+      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1417,6 +1397,26 @@
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 203136,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
-      "added_at": "2022-11-04 06:34:53",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 138157,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Somebody",
@@ -1463,6 +1447,22 @@
       "duration_ms": 218000,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7"
+    },
+    {
+      "added_at": "2022-11-04 06:34:53",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 138157,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1511,22 +1511,6 @@
       "duration_ms": 146799,
       "name": "212",
       "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1621,6 +1605,22 @@
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
+    },
+    {
       "added_at": "2023-09-01 04:55:52",
       "album": {
         "name": "Blame Yourself",
@@ -1637,22 +1637,6 @@
       "url": "https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Riptide",
@@ -1667,6 +1651,22 @@
       "duration_ms": 194400,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 175151,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1733,36 +1733,36 @@
       "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     },
     {
-      "added_at": "2023-09-01 04:55:52",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "five more",
-        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+        "name": "From Me, To Me",
+        "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
         }
       ],
-      "duration_ms": 165428,
-      "name": "five more",
-      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+      "duration_ms": 196487,
+      "name": "Opps",
+      "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
       },
       "artists": [
         {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
+      "duration_ms": 140474,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No"
     }
   ],
   "unique_name": "Some Kinda Way",

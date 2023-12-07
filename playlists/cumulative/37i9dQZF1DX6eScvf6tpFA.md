@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-140 songs - 7 hr 39 min
+141 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [MANIFESTO \(feat\. Domo Genesis\)](https://open.spotify.com/track/6qouBO0wJtYc3k7DfKRUBx) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:55 | 2021-11-16 |  |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2022-01-28 | 2022-03-23 |
 | [Messy](https://open.spotify.com/track/5pq9KxaT7igtDLKQqY7Zf1) | [CeeFineAss](https://open.spotify.com/artist/4YktUKrSYzQFSFKAAHMiuh), [CodeBrat](https://open.spotify.com/artist/6s4t5xxW3JTHB8XjEPnVTe) | [Messy](https://open.spotify.com/album/6yxgPeosTcpo8AhTTeNRyU) | 2:04 | 2022-01-21 |  |
-| [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/7N3mPmT65DB8gWhfsXIr9j) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class](https://open.spotify.com/album/4DLtkhvbsjCT4ww1tvn2Kd) | 3:44 | 2022-01-28 |  |
+| [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/0951VbMnWv7NFXjUPjkSFm) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class \(Radio Edit\)](https://open.spotify.com/album/3LJn1grNGxGlaKtWf7LlSe) | 3:44 | 2022-06-09 |  |
+| [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/7N3mPmT65DB8gWhfsXIr9j) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class](https://open.spotify.com/album/4DLtkhvbsjCT4ww1tvn2Kd) | 3:44 | 2022-01-28 | 2023-12-07 |
 | [Must Have Been Good](https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7) | 3:30 | 2022-06-09 |  |
 | [Must Have Been Good](https://open.spotify.com/track/1tSp478eOOnV76JpnaETag) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 3:30 | 2022-04-22 | 2023-05-01 |
 | [Nice Guy](https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Muthaland](https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m) | 2:14 | 2021-11-16 |  |

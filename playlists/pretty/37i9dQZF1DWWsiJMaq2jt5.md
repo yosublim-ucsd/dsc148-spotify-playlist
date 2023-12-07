@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>, <a href="spotify:artist:0iBTVnJ1Sff92zCDujfvyJ">Young Leosia</a> \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,517 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,599 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 91 | [SHADOWBAN](https://open.spotify.com/track/2tVaka4Ev4YRK7HgIcxLow) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t), [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH) | [SHADOWBAN](https://open.spotify.com/album/1jYvNSXDHiD5UIFCu9AFdT) | 2:30 |
 | 92 | [SHOOT](https://open.spotify.com/track/1Lp9BcZSEMjQPYs4j2liyT) | [Meggie](https://open.spotify.com/artist/7t3XoLpmZ9eA9etClJALWL), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Newlight$](https://open.spotify.com/artist/27pJHguCyUUPoR9YzNx6I1) | [SHOOT](https://open.spotify.com/album/5JZbCZPliF1ib38SmLjrCF) | 2:43 |
 | 93 | [Jutro może nie być niczego](https://open.spotify.com/track/3IJW89o8NsR7UxWTX2RcBu) | [Weronika Borowiec](https://open.spotify.com/artist/3H7MczsYp9tx6jskw9kodx), [AronBeats](https://open.spotify.com/artist/5v455njudD1baLI5cX1YqJ) | [Jutro może nie być niczego](https://open.spotify.com/album/3vwONl1MxWhWrFg5Vae9z2) | 3:17 |
-| 94 | [Brak](https://open.spotify.com/track/6GLCRd41vzfEE4DDqN7s1Y) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Brak](https://open.spotify.com/album/2FzwEYBvzFwF8BvNtjqgWg) | 3:57 |
+| 94 | [Brak](https://open.spotify.com/track/6GLCRd41vzfEE4DDqN7s1Y) | [Iga Posta](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Brak](https://open.spotify.com/album/2FzwEYBvzFwF8BvNtjqgWg) | 3:57 |
 | 95 | [Lato](https://open.spotify.com/track/3TvPYEXqiuhwS69cc9wMuM) | [Sonia pisze piosenki](https://open.spotify.com/artist/6y1MB6WVNOQWn5WczkpxA6) | [Lato](https://open.spotify.com/album/7CV5QF5P8XQ2MIUsRhAxXT) | 3:54 |
 | 96 | [cherofobia](https://open.spotify.com/track/2SIynJr0ySfJBW8Vx0UZgw) | [anto9](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [cherofobia](https://open.spotify.com/album/1JOJHQWuJlXlpkkTbKq4na) | 2:56 |
 | 97 | [tylko w snach dostrzegasz mnie...](https://open.spotify.com/track/3sTJDMeuYABL979XgAfm6Z) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [tylko w snach dostrzegasz mnie...](https://open.spotify.com/album/1XQ5K02hPkoHcz2P6LxitE) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 99 | [Sweet & Sour](https://open.spotify.com/track/5Pcb28m4IUwK55fd5fA5lx) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t) | [Sweet & Sour](https://open.spotify.com/album/0mKhqNGzl8naeXBQmuRAwT) | 2:36 |
 | 100 | [Lustro](https://open.spotify.com/track/0uey2hAeaWXW6yZWTvlNaw) | [Mei Bee](https://open.spotify.com/artist/6MYxeBePETj6Ojx2O5BQhY) | [Lustro](https://open.spotify.com/album/0cNRbEQ0a7irtEvB9oExXS) | 2:57 |
 
-Snapshot ID: `MCxmOThkYmFhZTdlYjc2NmM5ZDZlZGE5ZmJiYzBkNDRlYjMyMDQzMjlm`
+Snapshot ID: `MCwyMTQyNzI4YzVkMDRiNTFiNTIwMTA5NTI0N2RmMzU5ZWIwYTE4OWJm`

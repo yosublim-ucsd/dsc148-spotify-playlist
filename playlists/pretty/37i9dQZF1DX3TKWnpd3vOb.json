@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Kuervos del Sur",
-  "num_followers": 199495,
+  "num_followers": 199503,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzI3NmY3MDIwOWM4ZDE4NTMwZGJlOGRjZDQ0ZDZjNjQ1OTNjZWQ4",
+  "snapshot_id": "MCw3MGRlNDUxY2Y5YTAxNTA4OGRiYjE1OGYxZGUzNTRjNTVlMDUzZjM2",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Cahu\u00edn",
-        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Cahu\u00edn",
-      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Pol\u00edticamente Incorrectos (Soeces y Anacr\u00f3nicos)",
         "url": "https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 161101,
       "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
       "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Cahu\u00edn",
+        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Cahu\u00edn",
+      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+        "name": "Lo Que Dicen",
+        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
         }
       ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+      "duration_ms": 243566,
+      "name": "Lo Que Dicen",
+      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Lo Que Dicen",
-        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
       "artists": [
         {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 243566,
-      "name": "Lo Que Dicen",
-      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+        "name": "Vueltas y Vueltas",
+        "url": "https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl"
       },
       "artists": [
         {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+          "name": "Noiz",
+          "url": "https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW"
         }
       ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+      "duration_ms": 195600,
+      "name": "Vueltas y Vueltas",
+      "url": "https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Vueltas y Vueltas",
-        "url": "https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl"
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
       },
       "artists": [
         {
-          "name": "Noiz",
-          "url": "https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW"
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Vueltas y Vueltas",
-      "url": "https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty"
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Reversiones, Vol. 1",
-        "url": "https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 315241,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "R\u00e1pida Comida",
         "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
+        "name": "Reversiones, Vol. 1",
+        "url": "https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof"
       },
       "artists": [
         {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
+      "duration_ms": 315241,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 205434,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
+      },
+      "artists": [
+        {
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Autoda\u00f1o",
-        "url": "https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1al Natural",
-          "url": "https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Autoda\u00f1o",
-      "url": "https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Baladas del Fin del Mundo",
         "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 248593,
       "name": "Revelando, Develando",
       "url": "https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Autoda\u00f1o",
+        "url": "https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1al Natural",
+          "url": "https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Autoda\u00f1o",
+      "url": "https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY"
     },
     {
       "added_at": "2023-12-01 03:00:00",

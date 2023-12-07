@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-469 songs - 1 day 4 hr 46 min
+470 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Hi Lo](https://open.spotify.com/track/2PsZC2AKstvrAVa3VMWzWX) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Hi Lo](https://open.spotify.com/album/0MNs4f1YYFWLHJn47GYqUQ) | 2:50 | 2022-10-20 | 2022-12-07 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 | 2023-03-19 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-03-01 |
+| [Hitohito](https://open.spotify.com/track/5uN7lWGF2nL6AbgMW6UZad) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Hitohito](https://open.spotify.com/album/4azrBZDRfk6pT59gYODhv6) | 4:21 | 2023-12-05 |  |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-10-20 |  |
 | [Hollywood Bowl](https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9) | 4:13 | 2023-06-08 | 2023-08-04 |
 | [Hollywood Bowl](https://open.spotify.com/track/1DAIGVQoOruWmlVYmpC0B7) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hollywood Bowl](https://open.spotify.com/album/7plBFX9EbmkHZnBbRtzKkA) | 4:13 | 2023-06-08 | 2023-06-10 |
@@ -438,7 +439,7 @@
 | [ブルーグラス](https://open.spotify.com/track/7Lp7f1LepstiBcED0WZHXb) | [the hollows](https://open.spotify.com/artist/4WfM6bTmKWlemJydz5SHTA), [田中カズ](https://open.spotify.com/artist/57Gil4buf0JDxk8h29FGUw) | [ブルーグラス](https://open.spotify.com/album/2vkRImsgwYenvjNrw0c2Jw) | 4:28 | 2023-02-14 | 2023-03-01 |
 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 | 2022-10-20 | 2022-11-09 |
 | [マリーアン](https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [マリーアン](https://open.spotify.com/album/2KOYRhDdqcjpzL6c80EUHS) | 2:37 | 2023-10-10 | 2023-11-01 |
-| [人人](https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [人人](https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh) | 4:21 | 2023-12-05 |  |
+| [人人](https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [人人](https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh) | 4:21 | 2023-12-05 | 2023-12-07 |
 | [傘](https://open.spotify.com/track/20vsE9x63o1JUlMbU2qZ3O) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [傘](https://open.spotify.com/album/100ElNipKedqL4iTrDFMrx) | 3:03 | 2022-11-29 | 2022-12-07 |
 | [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-10-20 | 2022-11-09 |
 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 | 2022-10-20 | 2022-11-02 |

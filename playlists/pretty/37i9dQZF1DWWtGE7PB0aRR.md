@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,581 likes - 65 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,633 likes - 65 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [House of Cards](https://open.spotify.com/track/5fR8uILBBYK0hojLRjJrjo) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [Telegram](https://open.spotify.com/album/3Rb0WoIosAvat8zyJkiIzP) | 3:30 |
 | 65 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 
-Snapshot ID: `MCwyNDhmZWJhYzA4MThkYzBkOTBhY2M0ZTJjMDcxZjliNmZlNDVhOGY3`
+Snapshot ID: `MCw2MWFiNzdhMWEzNGRmNTczMDBiOGVkMjNmYjIwYjQxNDRkMGJiMGVl`

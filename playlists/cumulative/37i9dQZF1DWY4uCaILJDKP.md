@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-137 songs - 9 hr 21 min
+138 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Monster Disco](https://open.spotify.com/track/1zcLKA7aKfjeGq6dQZk9Wi) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [INNOCENT](https://open.spotify.com/album/39JkWHpnRuDFRAW11829PZ) | 3:15 | 2022-08-04 |  |
 | [NICE！RICE！SMILE！](https://open.spotify.com/track/5PHuST5U2NTTxmGTrcTiEh) | [本気でお米作り隊](https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy) | [NICE！RICE！SMILE！](https://open.spotify.com/album/4t2cwRgMIbyAVv5omOwAJx) | 3:25 | 2023-10-31 |  |
 | [OKITATTAー](https://open.spotify.com/track/3PLUM7RPDgEZ0E8e8M4XQN) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCTV OHAYOUASAHIDESU OKITARAND OKITATTA](https://open.spotify.com/album/2M5uSQandeQMIhCgpkjkHN) | 1:48 | 2022-07-12 |  |
+| [Oshikura Manju](https://open.spotify.com/track/4SnWLOSgeNDy6ezQ5E8Msi) | [太陽と踊れ](https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya) | [Oshikura Manju](https://open.spotify.com/album/7qcG7I5047rIYsaYW7b9Zw) | 3:53 | 2023-12-05 |  |
 | [Owaranai Uta](https://open.spotify.com/track/2OxXrvNPvi5Re4BIazEuqV) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:41 | 2022-07-12 |  |
 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 | 2022-03-08 |  |
 | [PizzzzzzzA！！！！！！！](https://open.spotify.com/track/7F77MUUU6ZktlkcpYYDWg6) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [FRAGMENTS](https://open.spotify.com/album/2V6BmKPiNL4nBHpJXzydJw) | 3:47 | 2022-03-08 |  |
@@ -126,7 +127,7 @@
 | [好きなこと無制限](https://open.spotify.com/track/2NctvSURMBRYKdHTjJTXGi) | [Fischer’s](https://open.spotify.com/artist/6jzUFgPUi6cl92JOaM6gbF) | [Last Restart](https://open.spotify.com/album/0CembaiBBmxs0Ab9FFJFoB) | 4:04 | 2023-08-17 |  |
 | [岐阜ミーチャンス](https://open.spotify.com/track/4EnC0yfdFpUR3mEuZ6YeUH) | [Nagareboshi](https://open.spotify.com/artist/7w9QTvKp59PCHa4fkL3NZ6) | [岐阜ミーチャンス](https://open.spotify.com/album/1mPqKy4DgoE2dmgeNLoA6y) | 4:29 | 2022-03-08 | 2022-07-29 |
 | [帆を上げろ！](https://open.spotify.com/track/2cj8h4l2Mkc8a19gctQJ7I) | [BOYS AND MEN](https://open.spotify.com/artist/3VZOHWaJbouQwpHvfP47Lo) | [友ありて・・](https://open.spotify.com/album/3scNiDBwNDv6J6xp9ThUfE) | 4:25 | 2022-03-08 |  |
-| [推しクラまんじゅう](https://open.spotify.com/track/6QOEgrgWl0KCPl7Fx0B0S4) | [太陽と踊れ](https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya) | [推しクラまんじゅう](https://open.spotify.com/album/2h6fq90puoUhBfglXqebne) | 3:53 | 2023-12-05 |  |
+| [推しクラまんじゅう](https://open.spotify.com/track/6QOEgrgWl0KCPl7Fx0B0S4) | [太陽と踊れ](https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya) | [推しクラまんじゅう](https://open.spotify.com/album/2h6fq90puoUhBfglXqebne) | 3:53 | 2023-12-05 | 2023-12-07 |
 | [星より先に見つけてあげる](https://open.spotify.com/track/4JfFC0KteCysB94ooYSbli) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [蒼い生命](https://open.spotify.com/album/3NHgyxIWN5N5xA42fxTG2F) | 3:52 | 2022-03-08 |  |
 | [最後の恋](https://open.spotify.com/track/3ppA5RIUkVK29mPa5T9erB) | [Keiko Masuda](https://open.spotify.com/artist/7Er8Al0qkSET67raBdRo9Y) | [最後の恋 / 富士山だ](https://open.spotify.com/album/29pgOADoOPzU5Mj52M3JkI) | 3:37 | 2022-03-08 |  |
 | [桜、いってきます](https://open.spotify.com/track/4BslKjuniF0z1kvOndUmxw) | [あいかビンギラ](https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI), [小西陸斗](https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T), [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [桜、いってきます](https://open.spotify.com/album/7711qxWqOaSqsx95MBjouI) | 4:34 | 2023-03-09 | 2023-03-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Loving
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,571 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,647 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [For Shaughnessy](https://open.spotify.com/track/1pg1StMQXpjTKFDtlQJnBP) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Sleeping on the Ceiling](https://open.spotify.com/album/3dgdk00OOR4nqem58vAV33) | 4:24 |
 | 100 | [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 |
 
-Snapshot ID: `MCwzYTIyYmIyNGQyNGMzMmQ3ZDYxNWZiZWVhYTRiYjYwMzJjNDA2ZThl`
+Snapshot ID: `MCxhYTdkNWI1MTM4MDZjZjI4MTljNzgwNmNhOGQ5NTI4ZTBiOWZiMzFl`

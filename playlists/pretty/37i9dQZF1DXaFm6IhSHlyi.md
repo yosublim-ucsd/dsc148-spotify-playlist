@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,678 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,680 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 54 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 |
 | 55 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 |
 | 56 | [Your Song \(My One and Only You\)](https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Breakthrough](https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi) | 3:43 |
-| 57 | [The Way I Love You](https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [The Way I Love You](https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH) | 2:42 |
+| 57 | [Malay Mo](https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj) | 4:34 |
 | 58 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
-| 59 | [Malay Mo](https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj) | 4:34 |
+| 59 | [The Way I Love You](https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [The Way I Love You](https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH) | 2:42 |
 | 60 | [別勉強](https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI), [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:22 |
 | 61 | [Maula](https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4) | 3:58 |
 | 62 | [Tutto questo sei tu](https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Tutto questo sei tu](https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB) | 4:04 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 106 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 |
 | 107 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
 | 108 | [Pindirai](https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy) | [Garry Mapanzure](https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm) | [Sushi Season \(The First\)](https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst) | 4:03 |
-| 109 | [Benar Cinta](https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Aldy Maldini](https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh) | [Benar Cinta](https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv) | 3:59 |
-| 110 | [Te Quiero \- Versión 2019](https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Te quiero \(Versión 2019\)](https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ) | 3:50 |
+| 109 | [Te Quiero \- Versión 2019](https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Te quiero \(Versión 2019\)](https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ) | 3:50 |
+| 110 | [Benar Cinta](https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Aldy Maldini](https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh) | [Benar Cinta](https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv) | 3:59 |
 | 111 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
 | 112 | [Media Tinta](https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t) | [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Media Tinta](https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2) | 3:54 |
 | 113 | [Bloom](https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [0](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61) | 3:58 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [Patience](https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10) | 2:50 |
 | 150 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 
-Snapshot ID: `MCw3NGE5MmQzNjY5NDZkMDU0ZWEyNTBjY2I3ZjRiYjQ5MTUyZmIyZDg0`
+Snapshot ID: `MCxlZmIxZTg4ZTExMjhmY2E5Y2Q3NmZmYzAzOWE1MTk2MDBmMzUwNzc5`

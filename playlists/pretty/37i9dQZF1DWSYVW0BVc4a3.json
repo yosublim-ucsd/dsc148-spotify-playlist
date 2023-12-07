@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. ",
-  "num_followers": 106477,
+  "num_followers": 106665,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWM0MzE1YTI4YmYyZDdhZDNhMjQwOTk5NDQ1ZDlkOTA3YzgwN2My",
+  "snapshot_id": "MCw4NDc4MjlkOWNkZjg0YWI3Y2M5MWVlZTlkMGI1YWU4N2Y1YWExNDI0",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "KILL DEM",
+        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 223536,
+      "name": "KILL DEM",
+      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "KILL DEM",
-        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 223536,
-      "name": "KILL DEM",
-      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -847,22 +847,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         },
         {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         }
       ],
-      "duration_ms": 230645,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
+      "duration_ms": 302740,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -891,22 +891,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
         }
       ],
-      "duration_ms": 302740,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
+      "duration_ms": 230645,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Youth Is Wasted on the Young",
-        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
-      },
-      "artists": [
-        {
-          "name": "Anden",
-          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 193623,
-      "name": "Grouplove",
-      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Point Of No Return",
         "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
+      },
+      "artists": [
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
     },
     {
       "added_at": "2023-11-30 23:00:00",

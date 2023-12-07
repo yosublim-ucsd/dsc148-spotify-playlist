@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:09LCTrVGnMsGbxexUFJoap">Lacey Sturm</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,305 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,359 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 99 | [Blood of the Son](https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU) | [Brother Hamm](https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd) | [Blood of the Son](https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt) | 5:40 |
 | 100 | [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 |
 
-Snapshot ID: `MCw2NDM5NjBhZDkzODQ3YzIxZmE5MjZjMTczZGZmODU2NGM1ZGNiZWI4`
+Snapshot ID: `MCwxNDlhNDRhOTFhY2M0NGEzOWU0ZjQ3OGQ4YjM1MWE5ZDNiMWQzMTZh`

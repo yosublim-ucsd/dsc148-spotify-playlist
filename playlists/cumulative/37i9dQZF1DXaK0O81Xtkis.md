@@ -4,7 +4,7 @@
 
 > make it pop! cover: Knox
 
-816 songs - 1 day 16 hr 39 min
+817 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,8 @@
 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 | 2023-09-16 |
 | [Summertime](https://open.spotify.com/track/6uSU3s6JZOZDxowW4Fragc) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Summertime](https://open.spotify.com/album/2NnIGE6mh0IlHhcCJ8zFPu) | 3:07 | 2022-08-26 | 2022-10-01 |
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-08-26 | 2022-12-24 |
-| [Sun Sick](https://open.spotify.com/track/1SJoB0RUX2X1oboDNzLTle) | [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY) | [Sun Sick](https://open.spotify.com/album/1EaEYIhVXXTyvtLcZfuK5Y) | 2:53 | 2023-08-11 |  |
+| [Sun Sick](https://open.spotify.com/track/1SJoB0RUX2X1oboDNzLTle) | [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY) | [Sun Sick](https://open.spotify.com/album/1EaEYIhVXXTyvtLcZfuK5Y) | 2:53 | 2023-08-11 | 2023-12-07 |
+| [Sun Sick](https://open.spotify.com/track/76uaECY7ORsG99hKBF2Wll) | [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY) | [2 in a Million](https://open.spotify.com/album/3tX2cHw8ZvXpIQ4CkgGALM) | 2:53 | 2023-11-10 |  |
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-04-29 | 2022-07-23 |
 | [Sunburn](https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Banish The Banshee](https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk) | 2:50 | 2022-05-27 | 2022-08-13 |
 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 | 2023-07-07 | 2023-07-29 |

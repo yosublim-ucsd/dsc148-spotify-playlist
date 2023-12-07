@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,165 likes - 154 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,209 likes - 154 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 39 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 |
 | 40 | [You](https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [You](https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO) | 2:25 |
 | 41 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 |
-| 42 | [Vesper](https://open.spotify.com/track/6sQaJc5eWnczHKIHiDfesG) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:12 |
+| 42 | [Vesper](https://open.spotify.com/track/3mKxLeFjVFng9H7fTyR8ho) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:12 |
 | 43 | [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 |
 | 44 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 |
 | 45 | [Fragile Beauty](https://open.spotify.com/track/1hroEYeXHwndmO03pfIu9u) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Fragile Beauty](https://open.spotify.com/album/63UFtAXFba8wSrPEouv010) | 2:30 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 153 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 | 154 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 |
 
-Snapshot ID: `MCwxYzBkYTcxY2Q3OTU5ZmZhZDhmN2NiYWEzMTg2YzNjNGNhY2M2Nzk1`
+Snapshot ID: `MCxhM2IzMzExODIyNTExODQ5MGE2NTIyYjQzOTY4NTI5YjY5N2Q2MjI3`

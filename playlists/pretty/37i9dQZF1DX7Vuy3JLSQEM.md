@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,130 likes - 84 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,133 likes - 84 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 54 | [Macumba](https://open.spotify.com/track/3mpbA45uAm58q474rkDozm) | [Sinego B Side](https://open.spotify.com/artist/6fSnFHMWjuVd8DGG7UleMA), [Rodrigo De La Cadena](https://open.spotify.com/artist/0A4YYqmzUFdOFcTRsdKCvK) | [Macumba](https://open.spotify.com/album/0hqMTAUVDvL9trKwlTMgc7) | 2:57 |
 | 55 | [Stay](https://open.spotify.com/track/3BiAtP4bR65aPWtr9YV6ME) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Stay](https://open.spotify.com/album/0y8xXX19Rb2naestMkHGHT) | 3:22 |
 | 56 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 |
-| 57 | [Doing My Best](https://open.spotify.com/track/6DRshObi5mpKgQKq8gVhbq) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Doing My Best](https://open.spotify.com/album/5KfeRe8ppMlSWBqvMKkjZd) | 3:20 |
+| 57 | [Doing My Best](https://open.spotify.com/track/6jDPcT1a1m7iKdaO6SQzGp) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Doing My Best](https://open.spotify.com/album/5HQ7qpPBg8USQoHE66O9C5) | 3:18 |
 | 58 | [Love The Moment](https://open.spotify.com/track/4NFzP5VxmATynb0TmcZGgv) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Scarlett Quinn](https://open.spotify.com/artist/76gUhHYidD1iQF2TrvFULv) | [Love The Moment](https://open.spotify.com/album/2zxF3LhOUmsNtZzdMCG7Ya) | 2:53 |
 | 59 | [Techo](https://open.spotify.com/track/7KDA1ckRC3Nw5OVxdvd5mk) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Techo](https://open.spotify.com/album/0zXdwUTSMUjd6mS2O7HFZ1) | 4:10 |
 | 60 | [Saviours](https://open.spotify.com/track/5tAlsl4G3LoIU5Dzo44JV0) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Saviours](https://open.spotify.com/album/1plr1caOwmIHriazUNB9S4) | 3:36 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 83 | [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 |
 | 84 | [Despertar](https://open.spotify.com/track/5zVRJaJBPPtOuc6ku1tln2) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Sketches, Vol\. 1 \(2004\-2007\)](https://open.spotify.com/album/2hCHId2M6SQ48hFEfIOtfh) | 3:37 |
 
-Snapshot ID: `MCw3MDM4ZDQ4N2Y5Zjg4YzNlMDc4MWVjOGU5ZTYxNTBmNzBkMzg2NmU5`
+Snapshot ID: `MCxjZjdmNTBiYmFmMzY5NjdlOWE0OTQ4ZTYyOTRjZmZjZDM0YjNiN2Q4`

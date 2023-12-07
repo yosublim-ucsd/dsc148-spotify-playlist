@@ -3356,10 +3356,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 177464,
       "name": "Talking Stage",
       "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
+    },
+    {
+      "album": {
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "Talking Stage",
+      "url": "https://open.spotify.com/track/2wqit987hOdo26WWk95BIK"
     },
     {
       "album": {

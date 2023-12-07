@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty\(서동현\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Crackshot\(크랙샷\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-551 songs - 1 day 9 hr 51 min
+552 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Around You](https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 3:42 | 2022-06-03 | 2022-06-14 |
 | [Ask Me](https://open.spotify.com/track/4QQYy2Z4yeOGQCWHWuoGh9) | [Team Pathfinder](https://open.spotify.com/artist/0Ovm1YUz5fUuMcSRXQJMYn) | [Ask Me](https://open.spotify.com/album/14DqNNH26yfE0nFUUJrW1Y) | 3:39 | 2022-06-23 | 2022-07-26 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-12 | 2022-12-27 |
+| [At the end of season](https://open.spotify.com/track/4oGwBJ0qiiRem6XzKoAgUe) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [At the end of season](https://open.spotify.com/album/6iZsMVpUgsbhyc2IejVaYo) | 4:59 | 2023-12-06 |  |
 | [At the end of time](https://open.spotify.com/track/09AS6Z0JHRO3Fspgw13jc2) | [Flower](https://open.spotify.com/artist/73AuOhZRFWIxUQlyTUrrVz) | [At the end of time](https://open.spotify.com/album/4IxbiL2QhOEJx4vZDc2yCW) | 3:45 | 2022-05-02 | 2022-05-12 |
 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 | 2022-04-22 | 2022-04-28 |
 | [Awake](https://open.spotify.com/track/0UDCfleTgwihlnOUxbzokR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) | 3:46 | 2022-05-11 | 2022-07-29 |
@@ -506,7 +507,7 @@
 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 | 2022-05-11 | 2022-05-23 |
 | [Where Am I](https://open.spotify.com/track/0ZsgX7WDC1jnwFbHUdwTky) | [Tomiyo](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [Where Am I](https://open.spotify.com/album/6nvrZGRQVezq6C8VDHENfr) | 4:12 | 2022-04-22 | 2022-07-27 |
 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 | 2022-04-12 | 2023-06-07 |
-| [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 | 2023-07-07 |  |
+| [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 | 2023-07-07 | 2023-12-07 |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-13 |
 | [Why You Worry About Me ?](https://open.spotify.com/track/0eFluhjGKP9fuHievmNyHw) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Urb Fisher](https://open.spotify.com/artist/0voTqkcuTrpIN2tZDzYccH) | [Why You Worry About Me ?](https://open.spotify.com/album/2m4lmQ1qIZSspi9kfqjAhH) | 2:32 | 2022-04-12 | 2022-05-08 |
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-06-09 | 2022-06-14 |

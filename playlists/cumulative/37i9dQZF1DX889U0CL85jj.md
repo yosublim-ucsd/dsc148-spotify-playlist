@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-578 songs - 1 day 9 hr 31 min
+579 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,8 @@
 | [Like a Bird](https://open.spotify.com/track/1tIpbQ5fXklxNJAVO5lv5p) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [New Daze](https://open.spotify.com/album/7uBehObICbzbtZtKzd9aAl) | 3:09 | 2022-08-19 | 2022-11-13 |
 | [Like a Bird](https://open.spotify.com/track/3FUfo6bZ81aI5rBRfid4ge) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [New Daze](https://open.spotify.com/album/14BnLlh0vzQMHGFgtidto8) | 3:09 | 2020-10-02 | 2022-07-29 |
 | [Like a Bird](https://open.spotify.com/track/43l9LF9XUXvsSucTp7NOfm) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Ritual](https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w) | 3:09 | 2022-06-10 | 2023-02-04 |
-| [Like I Do](https://open.spotify.com/track/6J4yoT7dIza5gkFIfPLs4O) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Like I Do](https://open.spotify.com/album/0f3UqP119TeUhAZ8ezmLuE) | 3:33 | 2023-04-21 |  |
+| [Like I Do](https://open.spotify.com/track/46NaLAq7lnx7W9GlAjXCSp) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Like I Do](https://open.spotify.com/album/1bkArQ3icZmt3KJ6dQ2BzA) | 3:33 | 2023-09-29 |  |
+| [Like I Do](https://open.spotify.com/track/6J4yoT7dIza5gkFIfPLs4O) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Like I Do](https://open.spotify.com/album/0f3UqP119TeUhAZ8ezmLuE) | 3:33 | 2023-04-21 | 2023-12-07 |
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-05-29 | 2022-01-22 |
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-05-08 | 2022-08-12 |
 | [Lonely Shade of Blue](https://open.spotify.com/track/3Xy4XTx8YUspuzOAP1VteX) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Lonely Shade of Blue](https://open.spotify.com/album/3yaYIRcHa4fwXW9TROD7ew) | 4:22 | 2019-12-06 | 2022-01-22 |

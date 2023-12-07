@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KO8WBGf7uc.md) - [plain]
 
 > Lo que suena en la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,222 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,245 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KO8WBGf7uc.md) - [plain]
 | 68 | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU) | 4:28 |
 | 69 | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/track/4o1DxRjMCHDwBiOKv88rOl) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/album/3dwf8z3LfHFTlAHiyrcGzb) | 4:11 |
 | 70 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
-| 71 | [Infiel \- Remix](https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Infiel \(Remix\)](https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf) | 4:57 |
-| 72 | [Detective](https://open.spotify.com/track/5lFl0Aksww4t4CGiYYtpZz) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Detective](https://open.spotify.com/album/7fZ5cqL7bbmkABHhgbWZDB) | 3:24 |
+| 71 | [Detective](https://open.spotify.com/track/5lFl0Aksww4t4CGiYYtpZz) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Detective](https://open.spotify.com/album/7fZ5cqL7bbmkABHhgbWZDB) | 3:24 |
+| 72 | [Infiel \- Remix](https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Infiel \(Remix\)](https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf) | 4:57 |
 | 73 | [Ella](https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:41 |
 | 74 | [Tacos Altos](https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Gargola](https://open.spotify.com/artist/5eJtlvB9Qga52zsu4GzDNA) | [Tacos Altos](https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN) | 5:06 |
 | 75 | [Falsas Promesas](https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:26 |
 
-Snapshot ID: `MCwxODQ3M2I3Mjc5ZTMyZmRlNTI0ZjFmMzBlNGYyZTUzMTM2NDNlZTQ3`
+Snapshot ID: `MCwwOGI5YzBhZjk5ZjU2MjYzM2MwYWY3YmEzYjQ2ZDdkYjMyMmU2NWZi`

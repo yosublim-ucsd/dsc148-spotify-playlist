@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Instructions: volume up\. Cover: Palaye Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,103 likes - 110 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,150 likes - 110 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 109 | [Agua](https://open.spotify.com/track/1FVPHZcQQGiEO7XUmqsxCh) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Agua](https://open.spotify.com/album/36WjrK0Tv7WhAX0BZim8sG) | 3:49 |
 | 110 | [Dynamite \- 2023 Version](https://open.spotify.com/track/2ldT3qdqwNsnKAji6AarfD) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Dynamite \(2023 Version\)](https://open.spotify.com/album/4pY0MgV6z1PBAX4e8YYK2L) | 3:18 |
 
-Snapshot ID: `MCwwMjY1NDkyYmNjYjUyZjAwYzNlOGUwNjYyYzExYmU0NTg2NzAyOTI1`
+Snapshot ID: `MCxhZGU4ZDdjMmI2MDEyNmJmYWIyODUyNGVmNDJhNzhhM2QwNzgwZmM0`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 79611,
+  "num_followers": 79661,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWNkNDRlOWM2ODQwMjQ1MjE3ZjczNGIxYWM3Njc5OTAwOGE1ZTdm",
+  "snapshot_id": "MCw2OTAyNWIwODBlZjdhYWQwYWQyMmE2NTE2N2Q1ZmQxYmI0ZjcyOWMy",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Emociones Sin L\u00edmite Volumen 1",
-        "url": "https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL"
-      },
-      "artists": [
-        {
-          "name": "Oscar Madrigal",
-          "url": "https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t"
-        }
-      ],
-      "duration_ms": 142466,
-      "name": "Cosas",
-      "url": "https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 155533,
       "name": "Corina, Corina",
       "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Emociones Sin L\u00edmite Volumen 1",
+        "url": "https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL"
+      },
+      "artists": [
+        {
+          "name": "Oscar Madrigal",
+          "url": "https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t"
+        }
+      ],
+      "duration_ms": 142466,
+      "name": "Cosas",
+      "url": "https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "\u00c9xitos Del Rock",
-        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
-      },
-      "artists": [
-        {
-          "name": "Los Gliders",
-          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "La Llorona Loca",
-      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Historia Musical de Mis Exitos",
         "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 148546,
       "name": "Siempre Te Amar\u00e9",
       "url": "https://open.spotify.com/track/3i4wiURtk5Sy6DRdVuL3pG"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "\u00c9xitos Del Rock",
+        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
+      },
+      "artists": [
+        {
+          "name": "Los Gliders",
+          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "La Llorona Loca",
+      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -827,18 +827,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
       },
       "artists": [
         {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 150204,
-      "name": "La Novia De Mi Mejor Amigo",
-      "url": "https://open.spotify.com/track/2Sy45DT2A5xkhWzAbAlVIK"
+      "duration_ms": 151745,
+      "name": "Eddy Eddy",
+      "url": "https://open.spotify.com/track/5zFjvUEEQEU1H5oZWeuA9C"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 151745,
-      "name": "Eddy Eddy",
-      "url": "https://open.spotify.com/track/5zFjvUEEQEU1H5oZWeuA9C"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Atras de la Raya",
         "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 149629,
       "name": "Cuando Era Jovencito",
       "url": "https://open.spotify.com/track/5uvi6UhmUFn8jiSPxPOeIo"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 150204,
+      "name": "La Novia De Mi Mejor Amigo",
+      "url": "https://open.spotify.com/track/2Sy45DT2A5xkhWzAbAlVIK"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -955,6 +955,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "Leroy",
+      "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "15 Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 140199,
       "name": "Speedy Gonz\u00e1lez",
       "url": "https://open.spotify.com/track/1DhtNyT3rs89OSgcAgmeSZ"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Leroy",
-      "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Mexican Garage Rock '66",
-        "url": "https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY"
-      },
-      "artists": [
-        {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Satisfacci\u00f3n",
-      "url": "https://open.spotify.com/track/6TfxcRdNwHzQYTdAj18YAL"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "20 Exitos Colleccion de Oro",
         "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 142306,
       "name": "Creo Estar Son\u0303ando",
       "url": "https://open.spotify.com/track/2Rte0v50YrZVasNMoU9Wxv"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Mexican Garage Rock '66",
+        "url": "https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Satisfacci\u00f3n",
+      "url": "https://open.spotify.com/track/6TfxcRdNwHzQYTdAj18YAL"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "20 Exitos Colleccion de Oro",
+        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Lanza a tus Penas al Viento",
+      "url": "https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "20 Exitos Colleccion de Oro",
-        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Lanza a tus Penas al Viento",
-      "url": "https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "La Onda Juvenil 25 Aniversario",
         "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
+        "name": "20 Exitos Colleccion de Oro",
+        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 190693,
-      "name": "Yo No Que No Vivo Sin Ti",
-      "url": "https://open.spotify.com/track/5qeBMOzLqMHdy3qN1KBlyC"
+      "duration_ms": 169266,
+      "name": "Lagrimas de Cristal",
+      "url": "https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "20 Exitos Colleccion de Oro",
-        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Lagrimas de Cristal",
-      "url": "https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Idolos del Rock",
         "url": "https://open.spotify.com/album/796rbHwswuXttLOFmj8IJy"
       },
@@ -1351,22 +1335,6 @@
       "duration_ms": 153338,
       "name": "El Bikini Amarillo",
       "url": "https://open.spotify.com/track/0zk9626vnVuwb3eEFKB69k"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Atras de la Raya",
-        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
-      },
-      "artists": [
-        {
-          "name": "Los Apson Boys",
-          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
-        }
-      ],
-      "duration_ms": 283689,
-      "name": "Se\u00f1or Apache",
-      "url": "https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1396,9 +1364,41 @@
           "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 137769,
-      "name": "Dile Adios",
-      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
+      "duration_ms": 190693,
+      "name": "Yo No Que No Vivo Sin Ti",
+      "url": "https://open.spotify.com/track/5qeBMOzLqMHdy3qN1KBlyC"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
+      },
+      "artists": [
+        {
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
+        }
+      ],
+      "duration_ms": 283689,
+      "name": "Se\u00f1or Apache",
+      "url": "https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Los Grandes \u00c9xitos del Rock & Roll (En Espa\u00f1ol), Vol. 1",
+        "url": "https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "duration_ms": 175686,
+      "name": "Las Cerezas",
+      "url": "https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
-        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 132440,
-      "name": "El Tigre",
-      "url": "https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1487,18 +1471,34 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Los Grandes \u00c9xitos del Rock & Roll (En Espa\u00f1ol), Vol. 1",
-        "url": "https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV"
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
       },
       "artists": [
         {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 175686,
-      "name": "Las Cerezas",
-      "url": "https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u"
+      "duration_ms": 137769,
+      "name": "Dile Adios",
+      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
+        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 132440,
+      "name": "El Tigre",
+      "url": "https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
-        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Los Rogers",
+          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
         }
       ],
-      "duration_ms": 183875,
-      "name": "Ay Preciosa",
-      "url": "https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q"
+      "duration_ms": 139702,
+      "name": "Twist del Perro",
+      "url": "https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0"
     }
   ],
   "unique_name": "Rock & Roll en Espa\u00f1ol",

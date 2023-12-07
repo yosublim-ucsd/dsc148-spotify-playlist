@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with NGHTMRE, Rezz & DeathbyRomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,009 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,016 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [Summer Of Saigon](https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr) | [Elephant Heart](https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD) | [Summer Of Saigon](https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO) | 3:53 |
 | 100 | [Falling Over You](https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Falling Over You](https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL) | 3:14 |
 
-Snapshot ID: `MCwwNzdhYjQ2MTE3OTg1ZTNhNjY4MzdlY2IzZjU3MzAzM2MyMjRkZDM1`
+Snapshot ID: `MCw4MjUyNWFmNWFlYzI3MjQwZTMzNzQxNTZjZGFiNGVjYjM0NTM4YTQ1`

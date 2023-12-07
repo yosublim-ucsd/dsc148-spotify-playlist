@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 22835,
+  "num_followers": 22893,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjhjZGUyYjJjZDc3MmQwMWRkYmIxYTVmZGE0ZDQxOTI2ZDc5Y2Nm",
+  "snapshot_id": "MCw5Y2NiNjlmMzZjNjU0NjI2Mzc4MTZkZjM5YjM5YzlmNTQ1ODA2OGYx",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Intemperie",
+        "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
+      },
+      "artists": [
+        {
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 232252,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Intemperie",
-        "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Mujer & Ego",
-        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 214006,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
         "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
       },
@@ -1131,18 +1115,34 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Aqua di Emma",
-        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 162327,
-      "name": "Te Dar\u00eda",
-      "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"
+      "duration_ms": 213127,
+      "name": "Tarde o Temprano",
+      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Mujer & Ego",
+        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
+        }
+      ],
+      "duration_ms": 214006,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Aqua di Emma",
+        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 162327,
+      "name": "Te Dar\u00eda",
+      "url": "https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Tarde (feat. Malena Villa)",
         "url": "https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 153058,
       "name": "Tarde (feat. Malena Villa)",
       "url": "https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Tarde o Temprano",
-        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Tarde o Temprano",
-      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
-      },
-      "artists": [
-        {
-          "name": "Bandana",
-          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Maldita Noche",
-      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Aqua di Emma",
-        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
         }
       ],
-      "duration_ms": 214575,
-      "name": "Abrazarnos",
-      "url": "https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc"
+      "duration_ms": 205053,
+      "name": "Maldita Noche",
+      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Bandana La Vuelta",
-        "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
+        "name": "Aqua di Emma",
+        "url": "https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU"
       },
       "artists": [
         {
-          "name": "Bandana",
-          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Llega la Noche",
-      "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
+      "duration_ms": 214575,
+      "name": "Abrazarnos",
+      "url": "https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1467,18 +1451,34 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Popular",
-        "url": "https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/3gWVb2bUlxVyKWJxaxVgnZ"
       },
       "artists": [
         {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
         }
       ],
-      "duration_ms": 181399,
-      "name": "Figurita",
-      "url": "https://open.spotify.com/track/2u6ZHI2hEGwnXhUbzlQmOc"
+      "duration_ms": 186380,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/3BzanHA52wCdFTkfB0ZYDJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Bandana La Vuelta",
+        "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
+      },
+      "artists": [
+        {
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Llega la Noche",
+      "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
     }
   ],
   "unique_name": "Esto es Pop",

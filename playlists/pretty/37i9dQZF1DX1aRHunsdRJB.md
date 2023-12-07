@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,239 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,244 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 36 | [Nasty Up](https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 3:34 |
 | 37 | [Man with Ride \(Big Ride\)](https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Blackboy](https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu), [Ezra](https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB) | [Big Ride Riddim](https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN) | 2:06 |
 | 38 | [Rate Who Rate You](https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Rate Who Rate You](https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU) | 3:36 |
-| 39 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 |
-| 40 | [Yuh Bad \(No Stressing\)](https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Yuh Bad \(No Stressing\)](https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V) | 3:14 |
+| 39 | [Yuh Bad \(No Stressing\)](https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Yuh Bad \(No Stressing\)](https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V) | 3:14 |
+| 40 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 |
 | 41 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [LR](https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
 | 42 | [Captain](https://open.spotify.com/track/2uoIP6BmQxHIXWT2CFAUFO) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Saga Boy](https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM) | 3:50 |
 | 43 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 
-Snapshot ID: `MCwzYzQ5Njc4ZGE3OGZhMzJhMjU5ODdhZjMxMmJmODY5MGQ4NzM1ZDdk`
+Snapshot ID: `MCw1M2Q3NGEwYWI4NzFmMTJkZTFlMTBlNzE0MWFmZmUzMDY3YzNhMzE4`

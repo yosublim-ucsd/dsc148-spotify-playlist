@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\. アイドルマスター シンデレラガールズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,181 likes - 75 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,184 likes - 75 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [こいかぜ \- GAME VERSION](https://open.spotify.com/track/1OKD6sAgsoVBrwoVCdPKEq) | [高垣楓 \(CV: 早見沙織\)](https://open.spotify.com/artist/16bNDXT2aIOTYinZqLpamZ) | [THE IDOLM@STER CINDERELLA MASTER 001〜010 GAME VERSION](https://open.spotify.com/album/4nqWv60rNUESdTsS55ahwE) | 2:09 |
 | 75 | [∀NSWER \- GAME VERSION](https://open.spotify.com/track/41URYzrg1ASI9S2QaqlUsG) | [早坂美玲 \(CV: 朝井彩加\)](https://open.spotify.com/artist/4ulvfsakLVphiJQjoEEvIT), [森久保乃々 \(CV: 高橋花林\)](https://open.spotify.com/artist/5TTZmc0O8RU5Fh2i4tAE18), [星輝子 \(CV: 松田颯水\)](https://open.spotify.com/artist/6WWxRPmLbyqwTWtyJ2Yxaj) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 11〜20 GAME VERSION](https://open.spotify.com/album/5XQBMoTcyUNP6m5BDUg4dj) | 2:01 |
 
-Snapshot ID: `MCwzZDJlMmExMzJhYzAyZGMyMjhmNGNiZDBjNmExMWEyYzBhMDNjNzFi`
+Snapshot ID: `MCw1YjhmMzllYTZmNTk1ZTBhNjk0MmY0ZGFjYWM4MWE1YjRlMGI5YTU1`

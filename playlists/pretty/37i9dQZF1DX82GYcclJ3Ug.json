@@ -1,12 +1,12 @@
 {
   "description": "No rules or boundaries. The very best new alternative tracks. Cover: Mother Mother",
-  "num_followers": 1120792,
+  "num_followers": 1120822,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTIxMzJkMGM2N2Q3MTIwYzgwNTc0Mjg3YTIzMzI0YmQ0OTQxNGE4",
+  "snapshot_id": "MCxjZGE4OWE3MGJiZjQxY2FlNDI1YTllN2ViOGY1ZGVlZjlmYzYyMDAw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -443,6 +443,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        }
+      ],
+      "duration_ms": 202736,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Elevator Hum",
         "url": "https://open.spotify.com/album/6fenEkY5qHSMxWKRpObBrb"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 223225,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/6SIKqz0nWVP5OoYDHb7Jwx"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
-      },
-      "artists": [
-        {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        }
-      ],
-      "duration_ms": 202736,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "The Liftaway",
         "url": "https://open.spotify.com/album/3DZpknxLN2A2aEJGm617nu"
       },
@@ -635,6 +619,38 @@
       "duration_ms": 292920,
       "name": "Mono No Aware",
       "url": "https://open.spotify.com/track/0uXiUM49olUGEwgfFQpv1y"
+    },
+    {
+      "added_at": "2023-12-06 21:15:43",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
     },
     {
       "added_at": "2023-12-01 05:00:00",

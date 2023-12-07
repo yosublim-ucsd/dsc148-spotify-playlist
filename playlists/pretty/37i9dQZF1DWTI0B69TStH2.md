@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów w 2023 roku\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a> \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,305 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,318 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 14 | [Drogowskazy](https://open.spotify.com/track/7J5PTOZCip4HiWap2LlpiO) | [Michał Madajczyk](https://open.spotify.com/artist/4Spwq9te7qI9GvQhHXWfLX) | [Drogowskazy](https://open.spotify.com/album/5qkxooeuMY3oZWxQGcBekE) | 4:00 |
 | 15 | [tryb księżyc](https://open.spotify.com/track/1xMP39aoJEGgPOyPKxjkQr) | [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [święty spokój](https://open.spotify.com/album/7wCOvfXAKaP4OlsYLmKh95) | 4:55 |
 | 16 | [No Sugar](https://open.spotify.com/track/2wMGvaCq8SpbylXRyhRYrw) | [Helaine Vis](https://open.spotify.com/artist/27VCxxlWcJSunJhd5Vmhnh) | [No Sugar](https://open.spotify.com/album/3hi01OzDxg8yIN23JCeJl8) | 3:28 |
-| 17 | [Brak](https://open.spotify.com/track/6GLCRd41vzfEE4DDqN7s1Y) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Brak](https://open.spotify.com/album/2FzwEYBvzFwF8BvNtjqgWg) | 3:57 |
+| 17 | [Brak](https://open.spotify.com/track/6GLCRd41vzfEE4DDqN7s1Y) | [Iga Posta](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Brak](https://open.spotify.com/album/2FzwEYBvzFwF8BvNtjqgWg) | 3:57 |
 | 18 | [Jutro może nie być niczego](https://open.spotify.com/track/3IJW89o8NsR7UxWTX2RcBu) | [Weronika Borowiec](https://open.spotify.com/artist/3H7MczsYp9tx6jskw9kodx), [AronBeats](https://open.spotify.com/artist/5v455njudD1baLI5cX1YqJ) | [Jutro może nie być niczego](https://open.spotify.com/album/3vwONl1MxWhWrFg5Vae9z2) | 3:17 |
 | 19 | [Best I've Never Had](https://open.spotify.com/track/4EM5YsgPykhOMzUX4x9IbW) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Best I've Never Had](https://open.spotify.com/album/3abqaFudKx4m7apEOveAtL) | 2:34 |
 | 20 | [spaliło mi dom](https://open.spotify.com/track/3pBCG2ShIjS7QPUVKSrXYj) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [spaliło mi dom](https://open.spotify.com/album/0S1o6I95uXZlllQqXBsPHi) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Trauma](https://open.spotify.com/track/6jl8DV7cegEqY6pWYFRbHw) | [LIT](https://open.spotify.com/artist/0axhGJWYkI9LuFVKorPwT8) | [Trauma](https://open.spotify.com/album/0NGvqd9ltrz1HBp9B1OQyu) | 3:46 |
 | 100 | [Prosecco](https://open.spotify.com/track/2r0YYsBrX73AEtFUYjxfZh) | [12 kamieni](https://open.spotify.com/artist/4X5vA3EzcDxZQxAcECzGqH), [Szymon Szczot](https://open.spotify.com/artist/3SYXkGixE2adr3Cm8ctN2E) | [Prosecco](https://open.spotify.com/album/0ErGxuvwWHteWwbJSTJlLB) | 2:45 |
 
-Snapshot ID: `MCwwYjRjNjNiYjY2ODIyYTA2OTY4OTFlMTM0Zjg3MGEwNDIzNDA2NzJh`
+Snapshot ID: `MCxkNGQyYjVkOTJiNTczNmE2YTYyMjY0NzYwNmMzODYxNWQ4MDIyZjZm`

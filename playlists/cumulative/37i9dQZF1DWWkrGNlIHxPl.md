@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Majid Jordan
+> Global crossovers by/with Arab artists\. Cover: Mishaal Tamer
 
-315 songs - 17 hr 39 min
+316 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 | 2022-03-18 | 2022-07-31 |
 | [Ah Ya Alby](https://open.spotify.com/track/7HT0g6P2sr8kypPzAFrg0n) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Tamni Aleek](https://open.spotify.com/album/0yvqd8VJNcQqT1z6OAQhDk) | 3:57 | 2022-06-06 | 2022-06-24 |
 | [Alaoui \- live](https://open.spotify.com/track/1LyIdcBndNywjCzOAPKWaO) | [Orchestre National De Barbes](https://open.spotify.com/artist/5N3sPtDHs7cuLS1CUwc5Cw) | [en concert](https://open.spotify.com/album/3YE9FR1smbDWlubFqkHc49) | 7:02 | 2022-06-06 | 2022-06-24 |
+| [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:33 | 2023-12-06 |  |
 | [All Of Me](https://open.spotify.com/track/2RYCv0sOwldPBw3G4hrrU4) | [Alina K](https://open.spotify.com/artist/4cNCIzhz2bXKGk9aNPtxUq) | [All Of Me](https://open.spotify.com/album/53c2TfoYsS6pTGsaWaHJD1) | 2:29 | 2022-09-28 | 2022-12-08 |
 | [Allaoui](https://open.spotify.com/track/7AMdQRt35oIv44tXLMEH4l) | [Hanini](https://open.spotify.com/artist/3ZWO3AKohnk7e25w2kXTpn) | [Africains du Nord](https://open.spotify.com/album/0MyVuPEM6RaKtGXrPv8tC2) | 4:09 | 2022-06-06 | 2022-06-24 |
 | [Allaoui & N'hari \(Version 1\)](https://open.spotify.com/track/0sfRMPvT6MlYhWmpKMxi0G) | [Baghdad Mimouni & Troupe](https://open.spotify.com/artist/73M1PTYMuiJ047ImFliZS4) | [Allaoui & N'hari](https://open.spotify.com/album/6iPgIXJR9hD1zFpx7ebD4B) | 6:10 | 2022-06-06 | 2022-06-24 |
@@ -213,7 +214,7 @@
 | [Ouine rak tergoud](https://open.spotify.com/track/7r9pAgEZLdFMKcFTWWmybq) | [Cheba Zahouania](https://open.spotify.com/artist/4Wgtd686yIVzteHHXryywZ), [Cheba Djenet](https://open.spotify.com/artist/1ASWRVuWAg6nNhGvaWVKeH) | [Best Of Cheba Zahouania](https://open.spotify.com/album/6ykxFvTrQty19bzBVQ5H6j) | 3:39 | 2022-06-06 | 2022-06-24 |
 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 | 2023-05-26 |  |
 | [Over](https://open.spotify.com/track/5dl66CllFRkUQbQ6YfuwjA) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Over](https://open.spotify.com/album/2HC2roNcCmTEVSQM43XjCw) | 3:06 | 2021-12-16 | 2021-12-31 |
-| [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:55 | 2023-09-29 |  |
+| [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:55 | 2023-09-29 | 2023-12-07 |
 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 | 2021-12-16 | 2022-02-23 |
 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 | 2022-03-29 | 2023-06-25 |
 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 | 2023-07-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,807 likes - 249 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,895 likes - 249 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 42 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
 | 43 | [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 |
 | 44 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 |
-| 45 | [Sand Drawings](https://open.spotify.com/track/1oX6tIvd6rWyt7BnrhSEcu) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:00 |
+| 45 | [Sand Drawings](https://open.spotify.com/track/2Dp9TIMXgkkJKIMDlMRVga) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:00 |
 | 46 | [Faded](https://open.spotify.com/track/4C9kR80niObXQuXV2xb430) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [Faded](https://open.spotify.com/album/5pgeHYd16IazzjwyxLLpEg) | 2:07 |
 | 47 | [Amalgam](https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Amalgam](https://open.spotify.com/album/4fK4kG2XPZkaP9p0zrEV9k) | 2:12 |
 | 48 | [Flourish](https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Flourish](https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp) | 2:31 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 50 | [The Curtain Rises](https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [The Curtain Rises](https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo) | 2:05 |
 | 51 | [Harsa](https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Harsa](https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6) | 2:04 |
 | 52 | [The Portrait](https://open.spotify.com/track/6gzx7vC8xDp7jawrF0OIIJ) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [The Portrait](https://open.spotify.com/album/3Gf8cw74M2kiaAhc4Y9iVx) | 2:02 |
-| 53 | [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 |
+| 53 | [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 |
 | 54 | [Faded Portrait](https://open.spotify.com/track/3z4hK6i9TGy2s7kmP6h2qO) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Faded Portrait](https://open.spotify.com/album/3yOB2diMaxo8A1mrKa198M) | 2:05 |
 | 55 | [Danse tout la nuit](https://open.spotify.com/track/3ja48XMPsI7C2TxHxS0UZQ) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Danse tout la nuit](https://open.spotify.com/album/1rmNlzudVpC7TrS89E6m5a) | 2:56 |
 | 56 | [Passion and Fire](https://open.spotify.com/track/5tTv0eBtH62dVailpRZ46C) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Passion and Fire](https://open.spotify.com/album/55AHv4KY3jolnloSltgAou) | 2:24 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 248 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 |
 | 249 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 |
 
-Snapshot ID: `MCw0ODhhMWMzZjkwYzgyZWZjNjMyODA3ZGRmMTMwNThjN2VmNjBmYjc3`
+Snapshot ID: `MCxiMDUyNDY3ODg2NzU0Y2E4MGVjYjkwZGIyYTgzOTU4NWIzYjY2ZmQ3`

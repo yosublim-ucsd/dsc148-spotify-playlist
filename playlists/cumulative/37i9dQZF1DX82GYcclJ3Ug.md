@@ -4,7 +4,7 @@
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Mother Mother
 
-1,500 songs - 3 day 8 hr 26 min
+1,501 songs - 3 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2022-04-29 |
 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-22 | 2022-09-24 |
 | [Deep Diving](https://open.spotify.com/track/7mZqRLdsQ9zircq53qyW0z) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Deep Diving](https://open.spotify.com/album/6jtHcOL3d6JKURexonnmRX) | 2:59 | 2023-12-01 |  |
+| [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 | 2023-12-06 |  |
 | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv) | 3:01 | 2023-11-17 |  |
 | [Demise](https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Demise](https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42) | 3:12 | 2023-07-28 | 2023-09-16 |
 | [Demons](https://open.spotify.com/track/1svBusMnaBYZBvab7smEPv) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Demons](https://open.spotify.com/album/32IzWnzWKFtYeQXhnqApVo) | 3:01 | 2021-11-26 | 2022-01-15 |

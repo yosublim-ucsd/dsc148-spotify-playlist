@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Clair de Lune",
+        "url": "https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215808,
+      "name": "Clair de Lune",
+      "url": "https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw"
+    },
+    {
+      "album": {
         "name": "Cloud Watching",
         "url": "https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu"
       },
@@ -10035,6 +10053,24 @@
     },
     {
       "album": {
+        "name": "Ride on a Dawn Train",
+        "url": "https://open.spotify.com/album/5epXRUHUcADonSmQZBRewU"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280629,
+      "name": "Ride on a Dawn Train",
+      "url": "https://open.spotify.com/track/38beTpJ8H27fvJTYO4SVHr"
+    },
+    {
+      "album": {
         "name": "Right or Wrong",
         "url": "https://open.spotify.com/album/6PobaffeeUAAjz4KJUxsnt"
       },
@@ -10381,6 +10417,24 @@
     },
     {
       "album": {
+        "name": "Steal Your Heart",
+        "url": "https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as"
+      },
+      "artists": [
+        {
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A"
+    },
+    {
+      "album": {
         "name": "Steal your heart",
         "url": "https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq"
       },
@@ -10392,7 +10446,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 205413,
       "name": "samurai",
       "url": "https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC"
@@ -11808,6 +11862,24 @@
       "duration_ms": 203700,
       "name": "Super Ball",
       "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
+    },
+    {
+      "album": {
+        "name": "Noodle",
+        "url": "https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172355,
+      "name": "Super Fresh",
+      "url": "https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0"
     },
     {
       "album": {
@@ -19552,7 +19624,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 280629,
       "name": "\u591c\u660e\u3051\u306e\u5217\u8eca\u306b\u98db\u3073\u4e57\u3063\u3066",
       "url": "https://open.spotify.com/track/36NMEAgUzTe3IEPEZ9WQPF"
@@ -21112,7 +21184,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 215808,
       "name": "\u6708\u306e\u3072\u304b\u308a",
       "url": "https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747"
@@ -23138,7 +23210,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 172355,
       "name": "\u8d85Fresh",
       "url": "https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8"

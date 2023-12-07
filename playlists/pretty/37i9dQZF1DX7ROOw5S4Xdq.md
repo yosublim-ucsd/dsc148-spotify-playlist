@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,491 likes - 95 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,572 likes - 95 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 40 | [Não Há Outro Igual a Ti](https://open.spotify.com/track/6UXhVj3uh25tTP5GlRAEEd) | [Henrique Machado](https://open.spotify.com/artist/3pPt6QI4gN7WNJbdAcfZ9T), [ONE\-Sounds](https://open.spotify.com/artist/71awyf4ddRgZM3UXc9s7ki) | [Antinomia](https://open.spotify.com/album/16Imh2b7GPG3hU85R8OqVZ) | 6:01 |
 | 41 | [Nome Mais Doce \- Ao Vivo](https://open.spotify.com/track/4hDC0ca4oi1nknDQy7jZCl) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Elizeu Rodrigues](https://open.spotify.com/artist/3rRH6aABQSCI1AhLHXnlZe) | [Nome Mais Doce \(Ao Vivo\)](https://open.spotify.com/album/3qT2Kp1VW7ofYfzlpl4A6R) | 4:23 |
 | 42 | [Clamo Jesus \(I Speak Jesus\)](https://open.spotify.com/track/2h9OiBMV9LwqwjF6l6lDAr) | [Aproxime\-Se](https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT), [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Clamo Jesus \(I Speak Jesus\)](https://open.spotify.com/album/7FiiPEBJlNqrFz0AJKLg3g) | 6:52 |
-| 43 | [Faz Mais uma Vez](https://open.spotify.com/track/22duximytOf8mof5y4M3BR) | [Junior Silva](https://open.spotify.com/artist/0kVOSZlvhDKFu0uZvr0O8Q), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Faz Mais uma Vez](https://open.spotify.com/album/3ATSVjlBdJJOAqyTvaXXfb) | 4:04 |
+| 43 | [Faz Mais uma Vez](https://open.spotify.com/track/22duximytOf8mof5y4M3BR) | [Junior Silva](https://open.spotify.com/artist/58e8P5EO5YIsk549UnTeTO), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Faz Mais uma Vez](https://open.spotify.com/album/3ATSVjlBdJJOAqyTvaXXfb) | 4:04 |
 | 44 | [Cantai ao Senhor \- Salmo 96](https://open.spotify.com/track/7wxyWNKkSyduWUnmUtJc9G) | [Tanlan](https://open.spotify.com/artist/1tVNmuJHlGbAP5y5Wl2Vdj) | [Salmos](https://open.spotify.com/album/0Kvm6UzImRGUcVmRqJL9Ud) | 4:13 |
 | 45 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
 | 46 | [Caneta e Papel](https://open.spotify.com/track/364egBI3cjDsWSGvhKIrFY) | [Bepê](https://open.spotify.com/artist/7pzwAbIUsONhvIMtwz9o66), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Caneta e Papel](https://open.spotify.com/album/5rFLIptU3S95esJLrHuNB0) | 2:27 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 94 | [Naquela Cruz](https://open.spotify.com/track/0RcDWdgqUlN1es8XePSr0T) | [Cintia Alves](https://open.spotify.com/artist/44QKgWEOgO8Au3u2fzrTAo) | [Naquela Cruz](https://open.spotify.com/album/0OqgbG8RKtch1zUglONrlk) | 3:16 |
 | 95 | [Deus Sem Rival](https://open.spotify.com/track/6omyfzYqN1rRkWad7gTlZU) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Deus Sem Rival](https://open.spotify.com/album/1c0ufX8C017iO7T31UWE1N) | 6:14 |
 
-Snapshot ID: `MCwxN2MwY2UxODU4MWM1YzRhYTIxN2VjYTI4ZjRmMDcxNTNhNzFjOWU0`
+Snapshot ID: `MCxjYzEwMWEwODYxNjA1OWJkNDhkOWM5MThmNDU1ZTNlMDA0NDU5MGEw`

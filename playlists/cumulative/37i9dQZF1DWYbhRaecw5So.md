@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-138 songs - 13 hr 47 min
+139 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Births \- Emanuel Satie Remix](https://open.spotify.com/track/7I6IaOy8i8Te2tPfXtKNL7) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Births](https://open.spotify.com/album/2sW4b13tb2YXrzyuTrSDuR) | 6:08 | 2022-07-23 | 2023-10-07 |
 | [Black Crocanti](https://open.spotify.com/track/6DbKyDluM6mT9U49GAMEOu) | [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Raskayu](https://open.spotify.com/album/4XO7TqzeCoSOf5xyos9xcM) | 6:15 | 2023-03-27 |  |
 | [Blue Eye](https://open.spotify.com/track/3y3ZgxHItQsTlHrggsLi0F) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Blue Eye](https://open.spotify.com/album/71jrK5PG69TUF04heTPuVW) | 5:26 | 2022-07-23 | 2023-10-07 |
-| [Bosque Verde \- Radio Edit](https://open.spotify.com/track/03rLGvMkzl9qtHJ6ceYGe4) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/0LlBZ4D5LFzC22FfiDHwWJ) | 3:23 | 2023-10-06 |  |
+| [Bosque Verde \- Radio Edit](https://open.spotify.com/track/03rLGvMkzl9qtHJ6ceYGe4) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/0LlBZ4D5LFzC22FfiDHwWJ) | 3:23 | 2023-10-06 | 2023-12-07 |
+| [Bosque Verde \- Radio Edit](https://open.spotify.com/track/7o8GY5XYAHCaBSb8yRVr3S) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/71m3f0lXBHQd7oa6fqCAGZ) | 3:23 | 2023-10-06 |  |
 | [Brainwasher \- Extended Mix](https://open.spotify.com/track/2sbaU8WucfyXrrWn21DzLp) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Brainwasher / Walking With Giants](https://open.spotify.com/album/2BkPTgBfn5CiMpf5D0BYkX) | 5:49 | 2023-03-27 |  |
 | [Breezer](https://open.spotify.com/track/3vkffcDGQ9hld2CwHCP1ba) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 3:58 | 2023-10-06 |  |
 | [Breezer](https://open.spotify.com/track/5Mh2lyQV9ei1tMwh2dtgo2) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 3:58 | 2023-03-27 | 2023-10-13 |

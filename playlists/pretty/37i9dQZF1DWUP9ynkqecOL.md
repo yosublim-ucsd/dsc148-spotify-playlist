@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,869 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,890 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 79 | [La Fuerza](https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j) | [Ensamble Folklórico Digital](https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI), [Villa Diamante](https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD), [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Bienvenidos a la Computadora](https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Cehache Respira](https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l) | [La Fuerza](https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R) | 4:27 |
 | 80 | [Los Pajaros](https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK) | [Asimetrico](https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit) | 4:20 |
 
-Snapshot ID: `MCwxZDg3MTA1YmNmNGJmZjBmM2NjNDdiOGRkN2VjNTJkOTJjNWY3NWNh`
+Snapshot ID: `MCw1YzVjMWRiYWNmMzMxNDkxNjlkM2E5NjFkMDA0NzMxYjAzZWJjZDhm`

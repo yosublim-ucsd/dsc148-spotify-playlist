@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Cole Swindell
+> Hot Country is proud to support St\. Jude this holiday season! Learn more at MusicGives.org\. Cover: Megan Moroney
 
 1,891 songs - 4 day 6 hr 20 min
 

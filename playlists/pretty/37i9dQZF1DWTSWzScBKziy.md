@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,554 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,599 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 39 | [Heart of God](https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Heart of God](https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS) | 3:53 |
 | 40 | [Jesus at a Distance](https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:49 |
 | 41 | [No Matter What](https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:08 |
-| 42 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 |
-| 43 | [But the Cross](https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:19 |
-| 44 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
-| 45 | [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 |
+| 42 | [But the Cross](https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:19 |
+| 43 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 |
+| 44 | [If The Lord Builds The House](https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9) | 3:55 |
+| 45 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
 | 46 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 |
 | 47 | [Fight On My Knees](https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Fight On My Knees](https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ) | 3:08 |
 | 48 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 75 | [Clear The Air](https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9), [McKenna Johns](https://open.spotify.com/artist/6zflBJE0PSTfK8BzFpRWNB) | [Though None Go](https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo) | 3:32 |
 | 76 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 |
 | 77 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
-| 78 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 |
-| 79 | [a thousand shores](https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [a thousand shores](https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT) | 4:15 |
+| 78 | [a thousand shores](https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [a thousand shores](https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT) | 4:15 |
+| 79 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 |
 | 80 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 |
 | 81 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 |
 | 82 | [Never Too Far](https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Never Too Far](https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8) | 3:04 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 92 | [In Good Hands](https://open.spotify.com/track/2nzJmPNJj4Wki8xmdAOWhK) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [In Good Hands](https://open.spotify.com/album/78YcAcIlPislZ3egxPnPOt) | 4:10 |
 | 93 | [JOY](https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [JOY](https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K) | 4:16 |
 | 94 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 |
-| 95 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 |
-| 96 | [What He Didn't Do](https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:56 |
+| 95 | [What He Didn't Do](https://open.spotify.com/track/6gBhJLa1VAhQCxIflUZH8R) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:56 |
+| 96 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 |
 | 97 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:38 |
-| 98 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 |
-| 99 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 |
+| 98 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 |
+| 99 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 |
 | 100 | [I Came Home](https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:50 |
 
-Snapshot ID: `MCxkZGY5OGU1YmY0NmM2NTE1M2I4NjJiN2UzYjA5NjdkNDM0MTU2NzIy`
+Snapshot ID: `MCw0NTNlZDNmNTlhZjQ0MTJmNjE0YmNkYzk1YTQ5NDg1NzcxMmUyMjMy`

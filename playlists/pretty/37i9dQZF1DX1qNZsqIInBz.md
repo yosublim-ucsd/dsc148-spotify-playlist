@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,354 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,188 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 15 | [Dream Space](https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Dream Space](https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X) | 2:51 |
 | 16 | [Teardrops](https://open.spotify.com/track/439JiYk1AGzECwkEiJm6WX) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [2Hounds](https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9) | [Teardrops](https://open.spotify.com/album/3PVnEPRSacSJZ4plVjLm7S) | 3:00 |
 | 17 | [BLESSED BY THE FALLEN](https://open.spotify.com/track/2B1Xx9NLZQUhU27Ssh3caZ) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [BLESSED BY THE FALLEN](https://open.spotify.com/album/1fbidNqwgNIePyy9u88z5u) | 3:05 |
-| 18 | [ENDLESS UNIVERSE](https://open.spotify.com/track/547me0XjHDVwhmUyj4g1rL) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/5qYUor2QBiTcRJJmDgivX9) | 2:52 |
+| 18 | [ENDLESS UNIVERSE](https://open.spotify.com/track/2h7irVFGag3FMI1XU182bQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/1CuiJwRwtWI9k67Xli2YJQ) | 2:52 |
 | 19 | [The Perfect Phonk](https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB) | [The Perfect Phonk](https://open.spotify.com/album/0F1Ayes06VaRJjmfrmu56q) | 3:06 |
 | 20 | [ODIUM](https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UNIVERSE OF THE PAST](https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz) | 2:46 |
 | 21 | [The Lost Soul Down](https://open.spotify.com/track/4B2OhzDDnKexq5Ky8kucP9) | [Monkid](https://open.spotify.com/artist/3f0bHKPZVSGGOmQATBescb), [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR), [leah julia](https://open.spotify.com/artist/2anFRwD3jRc3N8iTNaz41D) | [The Lost Soul Down](https://open.spotify.com/album/22XtbKf7SpRxRy3dSr9PgB) | 2:04 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 79 | [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 |
 | 80 | [Rainy Night Drive](https://open.spotify.com/track/5gbzQN044AiB69UiVuc6qZ) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [Rainy Night Drive](https://open.spotify.com/album/2VTQ3wglK5i3Lm6TK0ns6J) | 2:39 |
 | 81 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 |
-| 82 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 |
+| 82 | [Next Day Was Yesterday](https://open.spotify.com/track/1fsKkXFu9AKvKDQFKrzz6p) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/33eCGntZUPDW5Sa7OK804R) | 2:52 |
 | 83 | [Lost Orion](https://open.spotify.com/track/3arscwcDkbfPtFUBXVVmt6) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/1D7xOjPYBLdkSnJzkQQSGf) | 3:06 |
 | 84 | [Shiver](https://open.spotify.com/track/3fZfQWOg4xv8YUPAvnPaty) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [Shiver](https://open.spotify.com/album/3dT2NMs4X8OUay4JJ2weY7) | 2:25 |
 | 85 | [DREAM ABOUT YOU](https://open.spotify.com/track/69Jde9lxc16qGyG5iYncuW) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [DREAM ABOUT YOU](https://open.spotify.com/album/7sYf0ltOhxs3Zy9uMn7cb5) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCw5NGZlNGUyYjcwMTg2OWJjZmM5NmUwNTZiYWI0ZjU5ODZhMzgzMGFj`
+Snapshot ID: `MCwwMDFiYzE1ZTJiNDBhNTM5MWUyOTU1NGE5ZmUyNjU3YWNmMTQ5NzQ2`

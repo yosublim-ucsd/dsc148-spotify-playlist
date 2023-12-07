@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 235637,
+  "num_followers": 235693,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yzg3ZjUwY2Y1ZTE3YWEyN2NiODliNjI4ZjQyN2E4YzYxNTU0MTM1",
+  "snapshot_id": "MCw4ODFlYThjMzgyMWU3NTRiZmMxNzJkODdlYWU2YjU2MTcxODRlNzYx",
   "tracks": [
     {
       "added_at": "2023-12-01 09:27:19",
@@ -343,26 +343,6 @@
     {
       "added_at": "2023-12-01 09:27:19",
       "album": {
-        "name": "Zinda Banda (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Zinda Banda (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
-    },
-    {
-      "added_at": "2023-12-01 09:27:19",
-      "album": {
         "name": "Kuch Kuch Hota Hai",
         "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 437693,
       "name": "Koi Mil Gaya",
       "url": "https://open.spotify.com/track/5L9fLNHSj5SuGvJRljdWJb"
+    },
+    {
+      "added_at": "2023-12-01 09:27:19",
+      "album": {
+        "name": "Zinda Banda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Zinda Banda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
     },
     {
       "added_at": "2023-12-01 09:27:19",
@@ -960,26 +960,6 @@
       },
       "artists": [
         {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 453653,
-      "name": "Ae Mere Humsafar",
-      "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
-    },
-    {
-      "added_at": "2023-12-01 09:27:19",
-      "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
           "name": "Kumar Sanu",
           "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
@@ -991,6 +971,26 @@
       "duration_ms": 459266,
       "name": "Baazigar O Baazigar",
       "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
+    },
+    {
+      "added_at": "2023-12-01 09:27:19",
+      "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 453653,
+      "name": "Ae Mere Humsafar",
+      "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
     },
     {
       "added_at": "2023-12-01 09:27:19",

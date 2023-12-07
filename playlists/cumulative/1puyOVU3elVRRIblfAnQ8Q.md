@@ -4,7 +4,7 @@
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-90 songs - 5 hr 16 min
+94 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 | 2023-11-09 |
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-06-30 | 2023-11-09 |
 | [Deathwish](https://open.spotify.com/track/2Z85COMAN65p26N55yd32P) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Deathwish](https://open.spotify.com/album/288QGoQc8PJsoexl5pFm2T) | 3:06 | 2023-03-07 | 2023-11-09 |
+| [Disappear](https://open.spotify.com/track/3hy3b5Oei3UySsinfLQJ44) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:02 | 2023-12-06 |  |
 | [Dragon](https://open.spotify.com/track/46CuP5nsnv4orl5uuRsccY) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Interloper EP](https://open.spotify.com/album/6OPl9EARlmdnDLMKzrCcYc) | 4:16 | 2023-09-06 | 2023-11-09 |
 | [Dream Sequence](https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Dream Sequence](https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM) | 3:35 | 2023-08-04 |  |
 | [Drift](https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Drift](https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN) | 4:08 | 2023-07-14 |  |
@@ -51,6 +52,7 @@
 | [Insecure](https://open.spotify.com/track/3jH5vP83ODBV3BLeBp9Iy5) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Insecure / Stockholm](https://open.spotify.com/album/77B124rmMuj5uXvdvtYI6A) | 4:54 | 2023-04-19 | 2023-11-09 |
 | [Inside My Head](https://open.spotify.com/track/22O59H8yBMPc2oreueMX0B) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Inside My Head](https://open.spotify.com/album/42t36a3IshvxsaTmWcnMk0) | 4:38 | 2023-01-18 | 2023-11-09 |
 | [Interference](https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Interference](https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd) | 3:48 | 2023-11-10 |  |
+| [Intergalactic](https://open.spotify.com/track/6lHfCZ4xezNUIIFCOn18Te) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:46 | 2023-12-06 |  |
 | [Interloper](https://open.spotify.com/track/2OJgO1bNxRcSeqhdgJ6zxE) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Interloper EP](https://open.spotify.com/album/6OPl9EARlmdnDLMKzrCcYc) | 3:20 | 2023-09-06 |  |
 | [Into the Ether](https://open.spotify.com/track/4x9rBzNRtl5I3e16gKnAwK) | [Soki](https://open.spotify.com/artist/3VpJFT2qTuLFZ6PEviUlhr) | [Into the Ether](https://open.spotify.com/album/2IkKuUcfRwDFvzU7wLelfT) | 3:51 | 2023-02-23 | 2023-11-09 |
 | [keep jumpin](https://open.spotify.com/track/4qjJrkk54dWtoPb1z7uBXQ) | [not yes](https://open.spotify.com/artist/3sAig7Ir86KX0ZdcxSR1ax) | [keep jumpin](https://open.spotify.com/album/1h5AyAcn7njmqouVzsiJ40) | 3:17 | 2023-08-28 | 2023-11-09 |
@@ -64,6 +66,7 @@
 | [Nokia Dub](https://open.spotify.com/track/4Gfo4tm09wqUCERinIl4dn) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [Nokia Dub EP](https://open.spotify.com/album/456FguaL7QJEVGc3VOwHWW) | 2:52 | 2023-10-06 |  |
 | [Oblivion](https://open.spotify.com/track/0jsel4Sd5rrRfDaPK0Djnl) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 2:41 | 2023-12-04 |  |
 | [Of Two Minds](https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Rhode](https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi) | [Of Two Minds](https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy) | 4:39 | 2023-07-14 | 2023-11-09 |
+| [Oh No](https://open.spotify.com/track/0aQZINxg2Guxiyxjy4pdtt) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:57 | 2023-12-06 |  |
 | [One Strobe](https://open.spotify.com/track/2hqJXTvK0uU4VeUhxVg6Sp) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Counting EP](https://open.spotify.com/album/5dcBbK62PiNQNKoY9Tl3Jd) | 4:12 | 2023-10-06 |  |
 | [One Three Nine](https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi) | 2:48 | 2023-02-17 |  |
 | [Overfreezing](https://open.spotify.com/track/6V50LRtrB622VFSaDIcDdR) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Overfreezing](https://open.spotify.com/album/5RBhpmkBc68kBS284I5PW4) | 3:48 | 2023-03-24 | 2023-11-09 |
@@ -88,6 +91,7 @@
 | [Space Gear](https://open.spotify.com/track/0yyMs8sbdFeu3KjpUYnX0g) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Survivors EP](https://open.spotify.com/album/6uLt2izQ3oo51xlIN7LGR5) | 2:17 | 2023-08-11 | 2023-11-09 |
 | [Stockholm](https://open.spotify.com/track/4Z1vVfxlDqjd9VrzTkZeFf) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Insecure / Stockholm](https://open.spotify.com/album/77B124rmMuj5uXvdvtYI6A) | 5:15 | 2023-04-19 | 2023-11-09 |
 | [Stomper](https://open.spotify.com/track/3noczVtrj34BqPp4wp00Nc) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Stomper](https://open.spotify.com/album/1QJCAgDV6nWOjn3TxFIQ6b) | 3:00 | 2023-03-31 | 2023-11-09 |
+| [Talavara](https://open.spotify.com/track/0sMreITajXmgjIQq4O1HBu) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:47 | 2023-12-06 |  |
 | [The Blade](https://open.spotify.com/track/2ZeV6RMdHIdNIqermL9IcU) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Paradise](https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX) | 3:36 | 2023-11-08 |  |
 | [The Cycle](https://open.spotify.com/track/768m6Ckgon2o15cceVVuuV) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [The Cycle](https://open.spotify.com/album/5OVbv5PBbJ97x5sWqcg3eF) | 3:44 | 2023-11-08 |  |
 | [The Deep](https://open.spotify.com/track/688MRabbIVRJRtZxef04Um) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [The Deep](https://open.spotify.com/album/7nIu62blO0Bq2jmFBMhiKp) | 3:02 | 2023-08-18 |  |

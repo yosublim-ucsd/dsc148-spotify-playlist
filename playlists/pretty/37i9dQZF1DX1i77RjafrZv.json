@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 318019,
+  "num_followers": 318064,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQyYWM0MGFiOWFhM2Q2NWRjNWE2NjVlMTAyN2E2MGE4YTBlNzg4",
+  "snapshot_id": "MCw1YzljMTExNTFiZjJkYmJkOTA1MjUxODUzZWRjYWQwY2JiNDlhZGM1",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Fais comme l'oiseau",
         "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Marc Lavoine",
+        "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Elle a les yeux revolver",
+      "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Marc Lavoine",
-        "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Elle a les yeux revolver",
-      "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Quelqu'un m'a dit",
         "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
@@ -291,38 +275,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "\u00c9toile flippante (Version deluxe)",
-        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
-      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Les mots bleus",
-      "url": "https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Addictions (Ultimate Version)",
         "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
       },
@@ -335,6 +287,22 @@
       "duration_ms": 219000,
       "name": "Longtemps",
       "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "\u00c9toile flippante (Version deluxe)",
+        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
+      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -407,6 +375,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Ressources (Nouvelle Edition)",
+        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 210138,
+      "name": "R\u00e9tine",
+      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "S'il Suffisait D'aimer",
         "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
       },
@@ -435,22 +419,6 @@
       "duration_ms": 176160,
       "name": "Aimer \u00e0 mort",
       "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Ressources (Nouvelle Edition)",
-        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 210138,
-      "name": "R\u00e9tine",
-      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -491,22 +459,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Solune",
         "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
       },
@@ -519,6 +471,22 @@
       "duration_ms": 201106,
       "name": "Viens on s\u2019aime",
       "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -655,6 +623,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Le lac",
+      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -671,22 +655,6 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Le lac",
-      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -915,6 +883,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "La chanson des vieux amants",
+      "url": "https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -931,22 +915,6 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "La chanson des vieux amants",
-      "url": "https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1139,6 +1107,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Hymne \u00e0 l'amour",
+      "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "PS : Je t'aime",
         "url": "https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy"
       },
@@ -1155,18 +1139,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Triple Best Of",
-        "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
+        "name": "Best Of - Morceaux d\u2019amour",
+        "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
       },
       "artists": [
         {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Hymne \u00e0 l'amour",
-      "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
+      "duration_ms": 220386,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1219,26 +1207,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Best Of - Morceaux d\u2019amour",
-        "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        },
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "Toi mon amour",
-      "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Capri C'Est Fini",
         "url": "https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7"
       },
@@ -1251,6 +1219,42 @@
       "duration_ms": 217333,
       "name": "Capri c'est fini",
       "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Zen",
+        "url": "https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Un point c'est toi",
+      "url": "https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
+        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists": [
+        {
+          "name": "Damien Sargue",
+          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        {
+          "name": "Joy Esther",
+          "url": "https://open.spotify.com/artist/5yIbkMHQyrQ5eNWaFtlXpX"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Aimer - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
+      "url": "https://open.spotify.com/track/12x3erRdPdMLrCY4vPMLq1"
     }
   ],
   "unique_name": "French Kiss",

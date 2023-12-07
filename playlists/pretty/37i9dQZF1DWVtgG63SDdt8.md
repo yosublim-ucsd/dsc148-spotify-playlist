@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:2Q1d40J0u4IWGg4oZNPBZ7">Jonathan Ogden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,323 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,404 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Counting My Blessings \- Acoustic](https://open.spotify.com/track/5GVWorVAP2wKRNfpWHpmOu) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings \(Acoustic\)](https://open.spotify.com/album/4UzqPZ6WHVypd25yzRlQS6) | 3:28 |
 | 100 | [Dancing](https://open.spotify.com/track/04QFC6On6l4CIEIILWy0uW) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Dancing](https://open.spotify.com/album/1OVe71XaeBgdEOMqeQY1EL) | 4:31 |
 
-Snapshot ID: `MCw1MDRiNDU1MWM5YmU5MTMxYTJiMWVkZWY5ZDk5OTZhZGU5MTU1YjYx`
+Snapshot ID: `MCw2MjkzMGRjMDlkMTc2MWU4MGIzYmY2M2FmYjcyMWNlYjNiZTM5NWFl`

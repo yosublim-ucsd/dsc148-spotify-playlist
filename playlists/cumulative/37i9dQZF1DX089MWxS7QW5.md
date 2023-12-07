@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Moon Sujin\(문수진\)\)
 
-276 songs - 15 hr 26 min
+277 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 | 2023-05-24 | 2023-10-17 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-28 | 2022-08-13 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2023-01-11 |
+| [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 |  |
 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 | 2022-05-28 | 2022-08-13 |
 | [HEY](https://open.spotify.com/track/0DRqPbwXeljwRUK1VF6lta) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [HEY](https://open.spotify.com/album/3deaJiF50MG6IWqj2t3qjZ) | 2:57 | 2023-08-22 | 2023-11-29 |
 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 | 2022-07-27 | 2022-12-14 |

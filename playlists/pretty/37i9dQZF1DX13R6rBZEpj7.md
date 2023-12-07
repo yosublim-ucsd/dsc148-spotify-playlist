@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Y U QT
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,347 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,392 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
 | 70 | [Get Right](https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Get Right](https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J) | 3:15 |
 
-Snapshot ID: `MCw5OWJhYjdkZTUwMTFmNTQ1N2Y3MjAwNjZhZGUxYzA3Zjg4ZmQyYzlk`
+Snapshot ID: `MCxkZDVmOGM5ZjMzYWVkNzQ0ZDcwYjE0NjQxYmU3MWQ4YTY2MmZmYTk1`

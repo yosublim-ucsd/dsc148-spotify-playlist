@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,545 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,564 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 80 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
 | 81 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 
-Snapshot ID: `MCxiZWYyYmRkMmJhNWY1NTVlZWI0MDgxNmEzNzQxM2MxNTQ4ODY5NmVi`
+Snapshot ID: `MCwxNWYwYzczMmY5ZWM0MzBlOGVjYzYyNTY4OWQ1NTZlOWJiMjk2YTA3`

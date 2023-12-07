@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,014 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,037 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 54 | [Felices los 4](https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Version Cumbia la Plata 2017](https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2) | 3:00 |
 | 55 | [Una Lady Como Tú](https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T) | 2:20 |
 | 56 | [Jurabas Tu](https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Jurabas Tu](https://open.spotify.com/album/6dhWNg8zugr2KLiqwcMwn1) | 3:11 |
-| 57 | [Escapate Conmigo](https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV) | [Cumbia Para Bailar](https://open.spotify.com/artist/5HJpp04iycnIUsoBcH59Oh) | [Escapate Conmigo](https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ) | 2:19 |
-| 58 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 |
+| 57 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 |
+| 58 | [Escapate Conmigo](https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV) | [Cumbia Para Bailar](https://open.spotify.com/artist/5HJpp04iycnIUsoBcH59Oh) | [Escapate Conmigo](https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ) | 2:19 |
 | 59 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
 | 60 | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9) | 3:13 |
 | 61 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 69 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 |
 | 70 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
 | 71 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
-| 72 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
-| 73 | [¿Por Qué Te Vas?](https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y) | [Elidian](https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4) | [¿Por qué Te Vas?](https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o) | 3:35 |
+| 72 | [¿Por Qué Te Vas?](https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y) | [Elidian](https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4) | [¿Por qué Te Vas?](https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o) | 3:35 |
+| 73 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxhNDRmNTFlNTU4YmE1MjVjYWEyNzFiYWY5NTVmN2M3OWQ3NjdlYzFi`
+Snapshot ID: `MCw4NmQ0Yzk2MzNmYWViNTEwYTZjY2I2ZWYyMjgwODVjODJiOWY1Yzg4`

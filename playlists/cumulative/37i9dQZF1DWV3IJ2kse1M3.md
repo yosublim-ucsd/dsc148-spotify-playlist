@@ -2,14 +2,14 @@
 
 ### [悲傷釋放](https://open.spotify.com/playlist/37i9dQZF1DWV3IJ2kse1M3)
 
-> 在音樂的懷抱裡，你想哭就哭。<br/>生命太短促 痛太清楚 才讓你讓我 愛到無退路。
+> 在音樂的懷抱裡，你想哭就哭。<br/>別假裝 在絕望的盡頭就是希望。
 
-149 songs - 11 hr 14 min
+150 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2QVgTr1m0cOoPftywjlWVc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2tfxmmPQvYM9X3lwhIelV4) | 0:00 | 2022-06-01 | 2022-07-29 |
-| [Cliff](https://open.spotify.com/track/68jBtLn1za9zfDq7kRNy6d) | [Chyi Chin](https://open.spotify.com/artist/4VhiuMC32Qj7pVW3e6Nlms) | [Night of Sorrow](https://open.spotify.com/album/5MddSNemZ2Y9yFTQXR12LK) | 4:53 | 2023-03-31 |  |
+| [Cliff](https://open.spotify.com/track/68jBtLn1za9zfDq7kRNy6d) | [Chyi Chin](https://open.spotify.com/artist/4VhiuMC32Qj7pVW3e6Nlms) | [Night of Sorrow](https://open.spotify.com/album/5MddSNemZ2Y9yFTQXR12LK) | 4:53 | 2023-03-31 | 2023-12-07 |
 | [Complete](https://open.spotify.com/track/64M3PN41vi6HgitUJvSzrx) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Complete](https://open.spotify.com/album/6Wo1NcIVH1i6Is4yjgQU5E) | 4:16 | 2022-06-01 | 2022-07-16 |
 | [Hao Jiu Bu Jian](https://open.spotify.com/track/1nILhdgfPIaFUlvTNUtn9P) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [THE 1ST ELEVEN YEARS 然後呢?](https://open.spotify.com/album/530QqxnkY2e7HUo2XIDamA) | 4:10 | 2022-06-01 | 2022-07-29 |
 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 | 2022-06-01 |  |
@@ -119,6 +119,7 @@
 | [獨家記憶](https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [獨家記憶](https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J) | 5:07 | 2022-06-01 |  |
 | [男二號](https://open.spotify.com/track/1YTr9bx7g2JMwjApb72tes) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [男二號](https://open.spotify.com/album/1XhaXOXcCJIprINnCyMgxP) | 4:47 | 2022-06-01 | 2022-07-29 |
 | [當你離開的時候](https://open.spotify.com/track/1P43VyM78qYm10rlcQ9R5d) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [Goodbye & Hello](https://open.spotify.com/album/7jyiXKzJYgJ24IqlGMKcjN) | 3:57 | 2022-06-01 | 2022-07-28 |
+| [白夜](https://open.spotify.com/track/77ypIknTAFZbRDVWCggH0l) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [白夜](https://open.spotify.com/album/3p5oW50p6I2bYsfuOhTFVF) | 4:26 | 2023-12-06 |  |
 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 | 2022-06-01 | 2023-02-12 |
 | [短髮](https://open.spotify.com/track/5IRrr5Dqp1dUU1ftUSchMO) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [最愛梁詠琪新歌+精選](https://open.spotify.com/album/6LjnjLi8J3HtfKzYEpfTbg) | 4:40 | 2022-06-01 | 2023-10-25 |
 | [祝我生日快樂](https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [溫式效應](https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7) | 4:18 | 2022-06-01 | 2022-06-22 |

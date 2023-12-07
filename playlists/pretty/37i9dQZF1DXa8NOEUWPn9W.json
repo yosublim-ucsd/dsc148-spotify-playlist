@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Diplo & HUGEL.",
-  "num_followers": 1909732,
+  "num_followers": 1909843,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTFiMDc0YzlhZGRhMjUzZTBiODRmNjFhOTc4YzAzZGRkNTlhMTkw",
+  "snapshot_id": "MCxmMGY0NDk0YTFmMGVlNTczOTkzMDE1OWNmNzBmZDJhNzk3NDMxM2I1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Number 1",
-        "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Life Lesson",
         "url": "https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ"
       },
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Groove Thang",
-        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+        "name": "Number 1",
+        "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 220360,
-      "name": "Groove Thang",
-      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
+      "duration_ms": 145200,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 371897,
       "name": "More Love - Rampa &ME Remix",
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Groove Thang",
+        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 221202,
       "name": "Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix",
       "url": "https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        }
-      ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Better Recognize",
         "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Downstream",
         "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 175179,
       "name": "Downstream",
       "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 225488,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 225488,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1943,22 +1943,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Whisper (feat. Raphi)",
-        "url": "https://open.spotify.com/album/4hd1MvwsU8hAyNcB5MoQSb"
+        "name": "Gas Pedal (Kyle Watson Remix)",
+        "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
       },
       "artists": [
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
         },
         {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
         }
       ],
-      "duration_ms": 184160,
-      "name": "Whisper (feat. Raphi)",
-      "url": "https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW"
+      "duration_ms": 183318,
+      "name": "Gas Pedal - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1999,26 +2003,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Gas Pedal (Kyle Watson Remix)",
-        "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
+        "name": "Whisper (feat. Raphi)",
+        "url": "https://open.spotify.com/album/4hd1MvwsU8hAyNcB5MoQSb"
       },
       "artists": [
         {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
         },
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
         }
       ],
-      "duration_ms": 183318,
-      "name": "Gas Pedal - Kyle Watson Remix",
-      "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
+      "duration_ms": 184160,
+      "name": "Whisper (feat. Raphi)",
+      "url": "https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2171,30 +2171,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Where You Are (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 282375,
-      "name": "Where You Are - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Love On You (feat. Griff Clawson)",
         "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
       },
@@ -2215,6 +2191,30 @@
       "duration_ms": 170196,
       "name": "Love On You (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Where You Are (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 282375,
+      "name": "Where You Are - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2243,26 +2243,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 170668,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Dummy \u2013 Chris Lake Remix",
         "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
       },
@@ -2283,22 +2263,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Fell In Luv",
-        "url": "https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Fell In Luv",
-      "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
+      "duration_ms": 170668,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2319,6 +2299,26 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Fell In Luv",
+        "url": "https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Fell In Luv",
+      "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2383,22 +2383,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "I Don't Wanna Work",
-        "url": "https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ"
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/49U4muHd77m24ZC0h09385"
       },
       "artists": [
         {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
         },
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
         }
       ],
-      "duration_ms": 155544,
-      "name": "I Don't Wanna Work",
-      "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
+      "duration_ms": 129242,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2419,22 +2423,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+        "name": "I Don't Wanna Work",
+        "url": "https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
         },
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 217708,
-      "name": "If Love Is A Skill",
-      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
+      "duration_ms": 155544,
+      "name": "I Don't Wanna Work",
+      "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
     }
   ],
   "unique_name": "Housewerk",

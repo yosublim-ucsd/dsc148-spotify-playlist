@@ -13173,6 +13173,24 @@
     },
     {
       "album": {
+        "name": "Pa Encima",
+        "url": "https://open.spotify.com/album/1h4M4gaYoP1P6zxRNgUEOj"
+      },
+      "artists": [
+        {
+          "name": "Ninjaa CH",
+          "url": "https://open.spotify.com/artist/2vL3sN3yOvGX1mCpUXbCgz"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158372,
+      "name": "Pa Encima",
+      "url": "https://open.spotify.com/track/6PgAQL2A6Xa7bLRSSlbQi6"
+    },
+    {
+      "album": {
         "name": "Pa Ti",
         "url": "https://open.spotify.com/album/7FybUtQEqck51Rd6o02Oui"
       },
@@ -19440,7 +19458,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 182500,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"

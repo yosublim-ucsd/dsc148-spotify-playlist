@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-445 songs - 1 day 1 hr 48 min
+449 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,8 @@
 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 | 2023-01-18 | 2023-04-14 |
 | [HRT](https://open.spotify.com/track/4PEaz7zSFaQcRoYByKOSyn) | [Dualitè](https://open.spotify.com/artist/3yXr4W6KeCPGMpQKeeJFRP), [Og Nickelo](https://open.spotify.com/artist/5XPxV2cd4OnlyL0peqIsrR) | [Femqueen Tendencies](https://open.spotify.com/album/6d23I3OOQ1IBDhCCt64ClJ) | 2:33 | 2023-02-10 | 2023-05-24 |
 | [Hypnotize](https://open.spotify.com/track/3K6KPwVBpyzje1UaHh5N1i) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypnotize](https://open.spotify.com/album/1Z9hk46EgdH1mBIXxcqEC5) | 3:26 | 2022-10-10 | 2023-01-19 |
+| [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-12-06 |  |
+| [I Care](https://open.spotify.com/track/558xYpvwBcoM9JmJEuYXfT) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P), [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [I Care](https://open.spotify.com/album/7kP2k3n4sb0iYbRVE918tY) | 4:18 | 2023-12-06 |  |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2023-05-23 | 2023-08-04 |
 | [I LOVE YOUR GIRLFRIEND](https://open.spotify.com/track/5sznoNcvh1XXm6Y7jpA6Uo) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [John FM](https://open.spotify.com/artist/0vscEUhV9isTMclPcVz7zr) | [Pain](https://open.spotify.com/album/7a26UkuIsXfdezL4HgEant) | 1:54 | 2023-04-13 | 2023-08-04 |
 | [I Need You](https://open.spotify.com/track/6KCxvdFi6fnEwH6ZKV1kp2) | [M1RZA](https://open.spotify.com/artist/526jdghvPpgH9YINmobF0u), [Miles Freedom](https://open.spotify.com/artist/5yeHFthju8hgmolCw7Xo0H) | [M1S0](https://open.spotify.com/album/2GaDRIfWlNiqNSgOPGC2Dq) | 2:26 | 2023-10-18 |  |
@@ -420,6 +422,7 @@
 | [The Fours](https://open.spotify.com/track/3LO8asIHiNPUD17PsvUOyJ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [The Fours](https://open.spotify.com/album/2wn2Fc9avQvpji3zBhBF6d) | 3:26 | 2022-09-16 | 2022-10-11 |
 | [The One](https://open.spotify.com/track/4UShCEJZnpywR6Y9M86Nu4) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 2:25 | 2022-11-08 | 2023-01-19 |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-08-03 |  |
+| [The Window](https://open.spotify.com/track/5sf9YLJBGMTrCBEpUZOwrc) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [The Window](https://open.spotify.com/album/440GQ9ihDk0JBKq944vsvw) | 4:17 | 2023-12-06 |  |
 | [Time](https://open.spotify.com/track/4Afv06s7yEEG5LuznVh8aN) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl) | 3:02 | 2022-09-16 | 2022-12-20 |
 | [Time Waster](https://open.spotify.com/track/46sN6Wj7ec9bqMqTPycYXr) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Time Waster](https://open.spotify.com/album/2GyeWj8LWVtvRMsQdlHe8l) | 3:31 | 2022-10-10 | 2022-12-20 |
 | [Tojo](https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 3:59 | 2023-01-18 | 2023-03-16 |
@@ -443,6 +446,7 @@
 | [We Fold \- edit](https://open.spotify.com/track/7H3cXRCEbb60pKcLyP7kcD) | [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX) | [We Fold \(edit\)](https://open.spotify.com/album/3sY1uejHOMFILpsv3E1YVC) | 4:08 | 2023-07-03 |  |
 | [When You Look At Me](https://open.spotify.com/track/2zNHQEO4JIhnqdbOJmbdUy) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [When You Look At Me](https://open.spotify.com/album/4k91SjR92GNXohghq4f2kc) | 5:40 | 2022-11-08 | 2022-12-20 |
 | [Whenever I Want](https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Whenever I Want](https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA) | 4:29 | 2023-04-13 | 2023-08-04 |
+| [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-12-06 |  |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-07-03 |  |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2023-01-18 | 2023-03-16 |
 | [wishuwerehere](https://open.spotify.com/track/6ouflVakFDbhMaRKfv2jvF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [wishuwerehere](https://open.spotify.com/album/1cWmMEtvycWbC65ncuL2zs) | 2:14 | 2023-04-13 | 2023-08-04 |

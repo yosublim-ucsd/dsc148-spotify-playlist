@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,941 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,943 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [maybe i won't get high](https://open.spotify.com/track/0JR0sxHccA1Arbq5lc65ak) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T), [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6) | [maybe i won't get high](https://open.spotify.com/album/05DzxjpzuuxTBDUO3DR3OR) | 2:22 |
 | 100 | [Heaven Can Wait](https://open.spotify.com/track/1J7r9L2lPIGTesKqK8c9jG) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Heaven Can Wait](https://open.spotify.com/album/6lCrhnYr0iCR1a9l8Tf49W) | 3:04 |
 
-Snapshot ID: `MCwzOWEzNzRkMDYyODQyYmFkMDYwZDI4ZDliYjAyMThmOTE0MjM0MTQx`
+Snapshot ID: `MCxlNTA2OWQ1MTkwZTdiOGM5YzIzM2EyMTE5M2M4NjgzYWU2MDAxZTk3`

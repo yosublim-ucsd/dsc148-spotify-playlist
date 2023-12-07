@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-154 songs - 8 hr 22 min
+155 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,8 +119,9 @@
 | [Les copains d'abord](https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 4:01 | 2021-03-21 |  |
 | [Les mots bleus](https://open.spotify.com/track/2VQz34Np2ThgYCSrxuDbim) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Motors](https://open.spotify.com/album/0HC26Yf2KwkHEheov2DodC) | 4:00 | 2021-03-21 | 2022-11-13 |
 | [Les Mots Bleus](https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh) | 4:10 | 2021-03-21 | 2022-07-29 |
+| [Les mots bleus](https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/07pa1E8vPhXBbKE0PJuLWb) | 4:10 | 2023-10-19 |  |
 | [Les mots bleus](https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf) | 4:10 | 2021-03-21 | 2023-11-04 |
-| [Les mots bleus](https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 4:10 | 2023-10-19 |  |
+| [Les mots bleus](https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 4:10 | 2023-10-19 | 2023-12-07 |
 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 | 2021-03-21 |  |
 | [Mamy Blue](https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Les Plus Grands Succes](https://open.spotify.com/album/0R9eQ7VFLVuTgm8L7v2aoA) | 3:51 | 2021-03-21 | 2022-07-29 |
 | [Mamy Blue](https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [30 Ans De Passion](https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy) | 3:51 | 2021-03-21 |  |

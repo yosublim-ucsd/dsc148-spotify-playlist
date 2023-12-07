@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain](/playlists/plain/098hVwvAVYKJZd5kTwm9Ra) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/098hVwvAVYKJZd5kTwm9Ra)
 
-### [BBQ 2023: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
+### [BBQ 2024: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
 > Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 87,765 likes - 196 songs - 12 hr 56 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 87,766 likes - 196 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 | 195 | [Marvel](https://open.spotify.com/track/2Ab4ye9JlhPyZNoY3sdPUe) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Marvel](https://open.spotify.com/album/15qoZOwHNrLOePJdeVB4Jv) | 3:35 |
 | 196 | [I Know A Guy](https://open.spotify.com/track/2wAavjh84cV0tH4Pbcz0EF) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [I Know A Guy](https://open.spotify.com/album/1TUlbemKM7UOS7gpi3gWdA) | 2:41 |
 
-Snapshot ID: `ODg1LDA2YzBhZDdiNzIzOWVjNzE1NmMwMmYwZTU0MzdlZDhhYzk2ZjY3NTU=`
+Snapshot ID: `ODg2LDMwZDM2NTAyYmY2N2ZmNjNlYjlhNzY1OWI4MmNhN2Y1NDAzNDU2Njc=`

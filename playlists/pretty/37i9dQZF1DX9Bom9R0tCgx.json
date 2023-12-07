@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 349739,
+  "num_followers": 350022,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzkwMTlkNjJhZDFhNTFkOGFmOWIzNDlmZDE3NjA3ZDhjN2M3NjFk",
+  "snapshot_id": "MCxkZmUyMWQxMmI2YjY0ZGZmMzBiYjVkNWZhN2FhZWJmYWJlNjgxN2Nl",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Fantasy (Tricky Disco)",
         "url": "https://open.spotify.com/album/4HRfZCdUzjykr5kYddLy6m"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 156000,
       "name": "Fantasy (Tricky Disco)",
       "url": "https://open.spotify.com/track/7KxiqXmrEikGonyuxz50Qk"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 130700,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -991,30 +991,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "dropitlikeitshot!",
-        "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
-      },
-      "artists": [
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        },
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
-        }
-      ],
-      "duration_ms": 105486,
-      "name": "dropitlikeitshot!",
-      "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Blow It Up",
         "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
       },
@@ -1035,6 +1011,30 @@
       "duration_ms": 181374,
       "name": "Blow It Up",
       "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "dropitlikeitshot!",
+        "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "duration_ms": 105486,
+      "name": "dropitlikeitshot!",
+      "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
-        "url": "https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        },
-        {
-          "name": "Sian Evans",
-          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
-        }
-      ],
-      "duration_ms": 289548,
-      "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
-      "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "When We Come Alive",
         "url": "https://open.spotify.com/album/3SLVzlIVvgjPdRqkc58WA1"
       },
@@ -1143,26 +1119,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Dance Tonight",
-        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
+        "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+        "url": "https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
         },
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
         },
         {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
+      "duration_ms": 289548,
+      "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+      "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1203,6 +1179,30 @@
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Dance Tonight",
+        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Vivaldi",
-        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 160222,
-      "name": "Vivaldi",
-      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Love Is Free",
         "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Vivaldi",
+        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 160222,
+      "name": "Vivaldi",
+      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 254545,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Better Than Gold",
         "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 320000,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 254545,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Kriss Kross",
-        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         }
       ],
-      "duration_ms": 156705,
-      "name": "Kriss Kross",
-      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1731,6 +1727,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Kriss Kross",
+        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 156705,
+      "name": "Kriss Kross",
+      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Hardcore Vibes",
         "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Popcorn (Rework)",
         "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 141679,
       "name": "Popcorn - Rework",
       "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1883,30 +1883,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Waking Life (A New Dawn) [feat. Michael Ekow]",
-        "url": "https://open.spotify.com/album/7wYR9YnoRuKOsrveDwkzcG"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 193594,
-      "name": "Waking Life (A New Dawn) [feat. Michael Ekow]",
-      "url": "https://open.spotify.com/track/3dZgjwk1krwcKzb5CFPmov"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
       },
@@ -1947,22 +1923,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Down Low",
-        "url": "https://open.spotify.com/album/6GDJIxBWbymdumQGeSZ6Dn"
+        "name": "Waking Life (A New Dawn) [feat. Michael Ekow]",
+        "url": "https://open.spotify.com/album/7wYR9YnoRuKOsrveDwkzcG"
       },
       "artists": [
         {
-          "name": "Hr. Troels",
-          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "Felix Schorn",
-          "url": "https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4"
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 132510,
-      "name": "Down Low",
-      "url": "https://open.spotify.com/track/7D7ovL2nk7JuSxT0K9jvkm"
+      "duration_ms": 193594,
+      "name": "Waking Life (A New Dawn) [feat. Michael Ekow]",
+      "url": "https://open.spotify.com/track/3dZgjwk1krwcKzb5CFPmov"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -1987,6 +1967,26 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/6GDJIxBWbymdumQGeSZ6Dn"
+      },
+      "artists": [
+        {
+          "name": "Hr. Troels",
+          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
+        },
+        {
+          "name": "Felix Schorn",
+          "url": "https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4"
+        }
+      ],
+      "duration_ms": 132510,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/7D7ovL2nk7JuSxT0K9jvkm"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Sensual, on Ecstasy (Sped Up Version)",
         "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
       },
@@ -1999,22 +1999,6 @@
       "duration_ms": 324718,
       "name": "Sensual, on Ecstasy - Sped Up Version",
       "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -2039,6 +2023,22 @@
       "duration_ms": 204250,
       "name": "Superman",
       "url": "https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2023-11-30 23:00:00",

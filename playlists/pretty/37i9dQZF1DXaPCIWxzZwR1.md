@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,741 likes - 102 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,867 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 101 | [Do or Die](https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Do or Die](https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2) | 2:30 |
 | 102 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 |
 
-Snapshot ID: `MCw2YTFmZDdmNzVkZmJlMDA0NWQ1MjJhMjQxZTMxMzU3ZWI2ZDlkZGQy`
+Snapshot ID: `MCxlZjJmZjJmNGNiYjUwMTc4MmJjZDEzNjJlMzgyN2JhMTA4ZWMzOWQ1`

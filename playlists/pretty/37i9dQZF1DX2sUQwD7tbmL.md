@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,996,458 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996,748 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 |
 | 150 | [Stockholm](https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stockholm](https://open.spotify.com/album/4vYParxuIGyTZvjAGT5Gt0) | 3:17 |
 
-Snapshot ID: `MCwzMGNmYWIzMWVlNjEwNzQwZDZmNWNmMWQ1MmEyOTgwMDM0OGVhZWUw`
+Snapshot ID: `MCxiM2FkMGI2MDA4MGRmZTRjZjg0MWU2MWRiYWZiYzc3NTc5OGJkMTZl`

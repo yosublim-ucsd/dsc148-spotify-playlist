@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 851842,
+  "num_followers": 853286,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDJmZjFmMWNmNDJmYTUwZjgyYmQ0NjBlMzk1MDhkYjQ4ZWMwZTJl",
+  "snapshot_id": "MCw3ZDE5YzU4OGNhZmZkZWRhNzhmOGYzNDI5YTQ1MmUyOWVlODhhNDYz",
   "tracks": [
     {
       "added_at": "2023-11-30 21:49:16",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 139440,
       "name": "HDMI",
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "- TRAGEDY +",
-        "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE"
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4"
       },
       "artists": [
         {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         }
       ],
-      "duration_ms": 120000,
-      "name": "GOSHA",
-      "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -239,18 +239,34 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4"
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
       },
       "artists": [
         {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
         }
       ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous"
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "- TRAGEDY +",
+        "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "GOSHA",
+      "url": "https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -319,22 +335,6 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -649,20 +649,24 @@
       "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
+        "name": "Death Lotto",
+        "url": "https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE"
       },
       "artists": [
         {
-          "name": "Bravo 1-2",
-          "url": "https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX"
+          "name": "ovg!",
+          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
+        },
+        {
+          "name": "Grioten",
+          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+      "duration_ms": 133896,
+      "name": "Death Lotto",
+      "url": "https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -689,24 +693,20 @@
       "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
-      "added_at": "2023-09-26 20:58:57",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Death Lotto",
-        "url": "https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
       },
       "artists": [
         {
-          "name": "ovg!",
-          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
-        },
-        {
-          "name": "Grioten",
-          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
+          "name": "Bravo 1-2",
+          "url": "https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX"
         }
       ],
-      "duration_ms": 133896,
-      "name": "Death Lotto",
-      "url": "https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch"
+      "duration_ms": 90000,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "Kujo Freestyle",
-        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
-      },
-      "artists": [
-        {
-          "name": "Sinoda",
-          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
-        }
-      ],
-      "duration_ms": 115099,
-      "name": "Kujo Freestyle",
-      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
         "name": "2077",
         "url": "https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 135074,
       "name": "2077",
       "url": "https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "Kujo Freestyle",
+        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
+      },
+      "artists": [
+        {
+          "name": "Sinoda",
+          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
+        }
+      ],
+      "duration_ms": 115099,
+      "name": "Kujo Freestyle",
+      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
     },
     {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "JoJo Pose",
-        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo Fresh",
-          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
-        }
-      ],
-      "duration_ms": 105333,
-      "name": "JoJo Pose",
-      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Dalai Lama",
@@ -1123,6 +1107,22 @@
       "duration_ms": 135433,
       "name": "Dalai Lama",
       "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "JoJo Pose",
+        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo Fresh",
+          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
+        }
+      ],
+      "duration_ms": 105333,
+      "name": "JoJo Pose",
+      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
       "added_at": "2023-09-26 20:58:57",

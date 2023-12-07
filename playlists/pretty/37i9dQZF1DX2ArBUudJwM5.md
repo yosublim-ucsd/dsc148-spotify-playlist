@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompieron en 2023\. Foto: Ivonne Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,854 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,861 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,20 +20,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 10 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 | 11 | [El Dolor De Tu Presencia / Hasta El Fin Del Mundo \- En Vivo](https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [El Dolor De Tu Presencia / Hasta El Fin Del Mundo \(En Vivo\)](https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s) | 4:34 |
 | 12 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 |
-| 13 | [Anochecemos](https://open.spotify.com/track/2ka5Ij6Nasvr5krBY93TgM) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MAL APRENDIDA](https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ) | 3:24 |
-| 14 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
+| 13 | [Tengo](https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:21 |
+| 14 | [Anochecemos](https://open.spotify.com/track/2ka5Ij6Nasvr5krBY93TgM) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MAL APRENDIDA](https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ) | 3:24 |
 | 15 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 |
-| 16 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
-| 17 | [Si Me Duele Que Duela](https://open.spotify.com/track/5iDW3YN3foLkUzdK9mAAvk) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Me Duele Que Duela](https://open.spotify.com/album/6gnumXyZdCKbpx7fmkBXuo) | 2:39 |
+| 16 | [Si Me Duele Que Duela](https://open.spotify.com/track/5iDW3YN3foLkUzdK9mAAvk) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Me Duele Que Duela](https://open.spotify.com/album/6gnumXyZdCKbpx7fmkBXuo) | 2:39 |
+| 17 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 18 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 | 19 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 20 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 |
 | 21 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 |
-| 22 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
-| 23 | [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 |
+| 22 | [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 |
+| 23 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 24 | [Desaniversario](https://open.spotify.com/track/41XoV9JteU1gs49l71pr4o) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Desaniversario](https://open.spotify.com/album/222BIV6PsPK1iliAOnXqdx) | 2:38 |
-| 25 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
-| 26 | [NACE UNA MADRE](https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [NACE UNA MADRE](https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7) | 2:24 |
+| 25 | [NACE UNA MADRE](https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [NACE UNA MADRE](https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7) | 2:24 |
+| 26 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 | 27 | [INFINITO](https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:05 |
 | 28 | [Que poco saben de mí](https://open.spotify.com/track/7DJnS2omEQOjU1hbLCPUH7) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Que poco saben de mí](https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM) | 3:44 |
 | 29 | [La Historia Sin Final](https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [La Historia Sin Final](https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv) | 2:52 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
 | 41 | [Olvidarte nunca](https://open.spotify.com/track/4wuS8BrAW1zMCoquH1brDq) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [PATA DE PERRA](https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO) | 2:53 |
 | 42 | [Pedazo de Cielo](https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:29 |
-| 43 | [No va a pasar](https://open.spotify.com/track/5X6u72qVyFS6O5tsnBIlnO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Ultra](https://open.spotify.com/album/2WQ0t4lLQINzhFzD74bODS) | 3:31 |
-| 44 | [La Segunda de Nadie](https://open.spotify.com/track/6FjkffGC2bgqvWYAKtYYuY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Segunda de Nadie](https://open.spotify.com/album/0abOnKTYQrA5blXmG0Z6nU) | 2:26 |
+| 43 | [La Segunda de Nadie](https://open.spotify.com/track/6FjkffGC2bgqvWYAKtYYuY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Segunda de Nadie](https://open.spotify.com/album/0abOnKTYQrA5blXmG0Z6nU) | 2:26 |
+| 44 | [No va a pasar](https://open.spotify.com/track/5X6u72qVyFS6O5tsnBIlnO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Ultra](https://open.spotify.com/album/2WQ0t4lLQINzhFzD74bODS) | 3:31 |
 | 45 | [me canse de las canciones de amor](https://open.spotify.com/track/1bAqJhVVywzcbt1keh5m6m) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [ROMANCE MIXTAPE 2](https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk) | 1:31 |
 | 46 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 |
 | 47 | [Vivir Así es Morir de Amor](https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Vivir Así es Morir de Amor](https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Cream Hot](https://open.spotify.com/track/54n8e8ov3mn1WnuNlKUYiV) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Beivip](https://open.spotify.com/album/1pxnHWYPK67qato4SYjNut) | 2:55 |
 | 50 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
 
-Snapshot ID: `MCw3NmNkZWNlZTRlYWVkOWNlMWJhNzMxMWYwOGFkOTdjNzFiNjM3OWEz`
+Snapshot ID: `MCw5ODNiMmFiOTBlODU3MmEzY2ZkZGY2MDMyMjhlZmIxNzQyNWE0YzQ4`

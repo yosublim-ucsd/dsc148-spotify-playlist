@@ -1,12 +1,12 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: LANA",
-  "num_followers": 64039,
+  "num_followers": 64087,
   "original_name": "RADAR: Early Noise ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWI5ODJlOGFiMWVkN2FkY2Q3OTA2MmIzZTQ2MDE3NjM5NGUyMGQx",
+  "snapshot_id": "MCw5ZTAzYjcxMDg2MTdkMGY3NGQ5NGNjNzVmZjFjNTI5ZjA4Y2VjNzA1",
   "tracks": [
     {
       "added_at": "2023-12-05 15:00:00",
@@ -95,18 +95,18 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "Steal your heart",
-        "url": "https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq"
+        "name": "Steal Your Heart",
+        "url": "https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as"
       },
       "artists": [
         {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
         }
       ],
       "duration_ms": 205413,
-      "name": "samurai",
-      "url": "https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC"
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1028,7 +1028,7 @@
       "added_at": "2023-12-05 15:00:00",
       "album": {
         "name": "Noodle",
-        "url": "https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS"
+        "url": "https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz"
       },
       "artists": [
         {
@@ -1037,8 +1037,8 @@
         }
       ],
       "duration_ms": 172355,
-      "name": "\u8d85Fresh",
-      "url": "https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8"
+      "name": "Super Fresh",
+      "url": "https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u6708\u306e\u3072\u304b\u308a",
-        "url": "https://open.spotify.com/album/3m8diEBZAOLYelWCcL9Pzt"
+        "name": "Clair de Lune",
+        "url": "https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL"
       },
       "artists": [
         {
@@ -1229,8 +1229,8 @@
         }
       ],
       "duration_ms": 215808,
-      "name": "\u6708\u306e\u3072\u304b\u308a",
-      "url": "https://open.spotify.com/track/7uWYmLnJMjyEqBuyDdT747"
+      "name": "Clair de Lune",
+      "url": "https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1283,8 +1283,8 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u591c\u660e\u3051\u306e\u5217\u8eca\u306b\u98db\u3073\u4e57\u3063\u3066",
-        "url": "https://open.spotify.com/album/7G0kYNukvmNFy1cPsCxEjX"
+        "name": "Ride on a Dawn Train",
+        "url": "https://open.spotify.com/album/5epXRUHUcADonSmQZBRewU"
       },
       "artists": [
         {
@@ -1293,8 +1293,8 @@
         }
       ],
       "duration_ms": 280629,
-      "name": "\u591c\u660e\u3051\u306e\u5217\u8eca\u306b\u98db\u3073\u4e57\u3063\u3066",
-      "url": "https://open.spotify.com/track/36NMEAgUzTe3IEPEZ9WQPF"
+      "name": "Ride on a Dawn Train",
+      "url": "https://open.spotify.com/track/38beTpJ8H27fvJTYO4SVHr"
     }
   ],
   "unique_name": "RADAR: Early Noise ",

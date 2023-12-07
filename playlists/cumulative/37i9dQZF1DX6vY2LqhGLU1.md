@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-187 songs - 12 hr 58 min
+188 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Christmas Day](https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:23 | 2020-12-21 |  |
 | [Christmas Hallelujah](https://open.spotify.com/track/6uFEobKlJuKOMjPl4m9pWe) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Christ Is Born](https://open.spotify.com/album/3oOgSv4nf72OEPyLdehYbB) | 4:21 | 2022-11-26 |  |
 | [Christmas Is Here \- Radio Edit](https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christmas at Home](https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF) | 3:01 | 2022-11-26 |  |
-| [Christmas Is Love](https://open.spotify.com/track/7rkwhWKsDxbW3k1p2rMHaS) | [Jonathan Cain](https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i) | [Christmas Is Love](https://open.spotify.com/album/2LDOgikaliBkpRgRxg3Gu4) | 4:35 | 2022-11-26 |  |
+| [Christmas Is Love](https://open.spotify.com/track/7rkwhWKsDxbW3k1p2rMHaS) | [Jonathan Cain](https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i) | [Christmas Is Love](https://open.spotify.com/album/2LDOgikaliBkpRgRxg3Gu4) | 4:35 | 2022-11-26 | 2023-12-07 |
 | [Come Adore The Humble King](https://open.spotify.com/track/5JOINq9OjzQuJLHfVC6eJx) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa](https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3) | 5:41 | 2022-11-26 |  |
 | [Come Thou Long Expected Jesus](https://open.spotify.com/track/177jEwUqgmdmw6uccm6SfJ) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:08 | 2022-11-26 |  |
 | [Come, O Light](https://open.spotify.com/track/41hCkEii9XvrZ08oT4LkR8) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn), [The Geneva School of Manhattan](https://open.spotify.com/artist/3d2V0lZIm9oLyC4sweyTJd) | [Come, O Light](https://open.spotify.com/album/4KLOqygI1thIY5LHdEmKY0) | 4:14 | 2022-11-26 |  |
@@ -190,6 +190,7 @@
 | [We Crown You](https://open.spotify.com/track/27vkWX0fybgj0OGaC6uwv8) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [We Crown You](https://open.spotify.com/album/6z94hlGrwTqCxtq7MdPz2w) | 7:01 | 2023-11-03 |  |
 | [What A Beautiful Night](https://open.spotify.com/track/3lKMHxxIEdm9VNwvB5HlYs) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [What A Beautiful Night](https://open.spotify.com/album/1iW04mNVEJMygZilDU8M3p) | 3:53 | 2022-11-26 |  |
 | [What Child Is This](https://open.spotify.com/track/4vMeO6jafDMycnkrBvizrF) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:52 | 2020-12-21 | 2022-11-27 |
+| [What Child Is This \(Acoustic\)](https://open.spotify.com/track/6lsMpGJYH0fqR2ynyRHvrt) | [Kingsway Worship](https://open.spotify.com/artist/7bvf3Nrg0ugfVTLRgWw3OD), [Sharon Byrd](https://open.spotify.com/artist/5rw1sWjXsii84q3bnOk29A) | [What Child Is This \(Acoustic\)](https://open.spotify.com/album/0Rf93G74wcEdR8sYe8zEyg) | 4:12 | 2023-12-02 |  |
 | [What Christmas Is All About](https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [What Christmas Is All About](https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY) | 3:15 | 2022-11-26 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-11-26 |  |
 | [Where Is Our King?](https://open.spotify.com/track/5JGMcK2svgA4INnAeZmKuw) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj) | [Where Is Our King?](https://open.spotify.com/album/1alJrcDZy8WrYfWI4My8hJ) | 4:49 | 2022-11-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: FRVRFRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,115 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,122 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Mom's Gonna Be Alright](https://open.spotify.com/track/3V5a5Uz6YMuKI04iA9uqFw) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK) | [Mom's Gonna Be Alright](https://open.spotify.com/album/5wSytMiPVv643U8Z0YWtql) | 2:16 |
 | 50 | [Gun for Gun](https://open.spotify.com/track/6HD02KC4uZSGDOlzbUXfbx) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Gun for Gun](https://open.spotify.com/album/65xUGIszcBbbpBRpoAEiLu) | 1:48 |
 
-Snapshot ID: `MCwyMGE2NzA0NjEyMDBlNjRmZTRhZDZlOTFmZjkzMWMyOGNjYTAwMDJh`
+Snapshot ID: `MCxlZjNmYTE3YzgwYTcyMWMzN2VhYTljZGQxNTY2MzAzZmIwNjM5NDIz`

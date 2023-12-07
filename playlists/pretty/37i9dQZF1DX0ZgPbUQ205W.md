@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,109 likes - 200 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,160 likes - 200 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [The Clearing](https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Blikan](https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew) | 4:19 |
 | 200 | [Liten Jazzballong Revisited](https://open.spotify.com/track/4r5PvENy5EBuslP0KIlsO9) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Revisited](https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh) | 6:11 |
 
-Snapshot ID: `MCxhOWNkYzdiNmE4OWI2MGJhZjE5N2VlOTUxYjZkNTFhNTY2OWU0YzA2`
+Snapshot ID: `MCw3N2VlNDcwMzU2YWJiMzc1MGQ5NjM2YTBhMGFlZTAzNzc0ZGZmZDRj`

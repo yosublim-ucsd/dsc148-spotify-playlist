@@ -1,18 +1,18 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30af\u30b8\u30e9\u591c\u306e\u8857",
-  "num_followers": 10819,
+  "num_followers": 10873,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWQ3OTBhOTZmZGEyOTljYjBkNjk0N2YxZGJlZjM5ZTdjMzA5MmY1",
+  "snapshot_id": "MCxkNGM2NTYxOTg5MWNiMTAwMzM3ZDAzNzA2YWRiM2M0MWIxNWExNWEw",
   "tracks": [
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u6708\u3067\u8aad\u3080\u7d75\u672c",
-        "url": "https://open.spotify.com/album/1Q2qFAU6h1cp6YYHt1utxr"
+        "name": "I See the Moon Light",
+        "url": "https://open.spotify.com/album/3Z5OJclE5EwarKIqtK21yL"
       },
       "artists": [
         {
@@ -21,8 +21,8 @@
         }
       ],
       "duration_ms": 209882,
-      "name": "\u8f1d\u591c\u59eb",
-      "url": "https://open.spotify.com/track/4FctVxLuE6HZnwpxlUgIXk"
+      "name": "Moon Night Baby",
+      "url": "https://open.spotify.com/track/2tu3270ZBpG3SnAYicoihN"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+        "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
+        "url": "https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
         }
       ],
-      "duration_ms": 203011,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+      "duration_ms": 181570,
+      "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
+      "url": "https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
-        "url": "https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1"
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
       },
       "artists": [
         {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 181570,
-      "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
-      "url": "https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1"
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -699,8 +699,8 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u5149\u83ef\u3092\u898b\u3064\u3051\u3066",
-        "url": "https://open.spotify.com/album/7IVJErMew6EfOEuPdjWEFr"
+        "name": "Kouka o Mitsukete",
+        "url": "https://open.spotify.com/album/6709MYDOFdRSWNH482F9Qo"
       },
       "artists": [
         {
@@ -709,8 +709,8 @@
         }
       ],
       "duration_ms": 243866,
-      "name": "\u82b1\u9053",
-      "url": "https://open.spotify.com/track/2tgAbQ9obqi3ZNCB4tmRK0"
+      "name": "Hanamichi",
+      "url": "https://open.spotify.com/track/4Y9HYfN3l6VvZActx7AG01"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "Now is the best!!!",
-        "url": "https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
-        }
-      ],
-      "duration_ms": 146896,
-      "name": "Now is the best!!!",
-      "url": "https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
         "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
+        "name": "Now is the best!!!",
+        "url": "https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 146896,
+      "name": "Now is the best!!!",
+      "url": "https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
-        "url": "https://open.spotify.com/album/3T3gQxuV6JwbF7aBfyjnIv"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 227633,
-      "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
-      "url": "https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
         "name": "midori",
         "url": "https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 209120,
       "name": "\u611b\u3059\u308b\u4eba",
       "url": "https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
+        "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
+        "url": "https://open.spotify.com/album/3T3gQxuV6JwbF7aBfyjnIv"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 227633,
+      "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
+      "url": "https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "closer",
-        "url": "https://open.spotify.com/album/0e9G7JCQHMSv7g2BHCGxVZ"
-      },
-      "artists": [
-        {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
-        }
-      ],
-      "duration_ms": 216911,
-      "name": "closer",
-      "url": "https://open.spotify.com/track/6WrU3YrEmcTestJKyhPBKt"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
         "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
         "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 268235,
       "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
       "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/0e9G7JCQHMSv7g2BHCGxVZ"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "duration_ms": 216911,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/6WrU3YrEmcTestJKyhPBKt"
     },
     {
       "added_at": "2023-12-05 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-05 15:00:00",
       "album": {
-        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 322100,
-      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
-    },
-    {
-      "added_at": "2023-12-05 15:00:00",
-      "album": {
         "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
         "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 212013,
       "name": "FIVE",
       "url": "https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7"
+    },
+    {
+      "added_at": "2023-12-05 15:00:00",
+      "album": {
+        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 322100,
+      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
     },
     {
       "added_at": "2023-12-05 15:00:00",

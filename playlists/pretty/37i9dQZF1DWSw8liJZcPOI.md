@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,479 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,606 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 |
 | 100 | [Like Glass](https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN) | [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Like Glass](https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR) | 2:30 |
 
-Snapshot ID: `MCwxMjIxNWFiMDNjODQ1OTcwOGRiYTI3OWNlZDEyYzdlYjI1ZjVmNWM4`
+Snapshot ID: `MCwwMzZiZTZjYWY4ZTQ4YmE5YTNhMWRjOGRhZWQ1OTc3MzUwOGIzYzE1`

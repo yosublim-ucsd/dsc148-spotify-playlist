@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,685 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,863 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
 | 75 | [Inner Space](https://open.spotify.com/track/0hA5KmRgeZfIuwJ6ZhLlqc) | [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU), [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX) | [Inner Space](https://open.spotify.com/album/6aRjR6kAyz9W8xg6UMKOz9) | 5:43 |
 
-Snapshot ID: `MCw2MGMzMGExYTNhZjY4ZDNhODI4OGVhNGNkOWIxNmE1YjE5YjIwNzA1`
+Snapshot ID: `MCw5OTY3NGY4ZWExMmUyNTUzNzE4MTNkMjYzNTlmZGUwOWU0ZjY1NDgx`

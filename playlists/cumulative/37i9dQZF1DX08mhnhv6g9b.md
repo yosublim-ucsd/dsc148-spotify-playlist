@@ -4,7 +4,7 @@
 
 > What are your <a href="https://spotify.com/top5">Top 5: BTS Songs</a>? Share your favorite member and tracks with the universe\. \(spotify.com/top5\)
 
-485 songs - 1 day 4 hr 53 min
+486 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,8 @@
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-04-27 |  |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-02-02 | 2023-05-01 |
 | [War of Hormone](https://open.spotify.com/track/29SjtKzBoJDgyIBusHylIS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:25 | 2022-05-27 |  |
-| [Waste It On Me](https://open.spotify.com/track/2FWyJIT0gL2G3xWVQ9Id5f) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/album/1LZujBS60tTTtnHk0MAvcE) | 3:12 | 2022-06-23 |  |
+| [Waste It On Me](https://open.spotify.com/track/2FWyJIT0gL2G3xWVQ9Id5f) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/album/1LZujBS60tTTtnHk0MAvcE) | 3:12 | 2022-06-23 | 2023-12-07 |
+| [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/track/2J0X46UkpfLlWbuCXFgDLr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Neon Future III](https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV) | 3:12 | 2023-12-01 |  |
 | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/track/2r1T6xGTVaNAqBoPH4lZEE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/album/2zGbALuLN1QjFgddq9kIz1) | 3:12 | 2022-06-10 | 2022-06-18 |
 | [We are Bulletproof : the Eternal](https://open.spotify.com/track/133ocfbXXG4HTk76qgSeUb) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:21 | 2022-06-03 |  |
 | [We are Bulletproof : the Eternal](https://open.spotify.com/track/3bHKTyjnhkhCOpTDYTMZmN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/7HXqq0fokRpOKG0bQW4xnB) | 4:21 | 2022-06-10 | 2022-06-18 |

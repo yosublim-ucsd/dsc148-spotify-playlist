@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-214 songs - 13 hr 9 min
+215 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Coin Operated Woman \(feat\. Johnny Burgin\)](https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 4:23 | 2023-08-25 | 2023-11-05 |
 | [Colt 45](https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Colt 45](https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK) | 2:45 | 2023-08-18 |  |
 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 | 2022-05-27 |  |
-| [Dallas Blues \- Remastered](https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh) | [Wizz Jones](https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG) | [Huldenberg Blues \(Remastered\)](https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM) | 3:54 | 2023-09-15 |  |
+| [Dallas Blues \- Remastered](https://open.spotify.com/track/2pZ4WkQXQBWv2iqwGhx4Rh) | [Wizz Jones](https://open.spotify.com/artist/4mW0YaaFLIMy521Hg3kjmG) | [Huldenberg Blues \(Remastered\)](https://open.spotify.com/album/0Ll8Lu48jUVoUdZPheLVdM) | 3:54 | 2023-09-15 | 2023-12-07 |
 | [Death Valley Blues](https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:43 | 2023-04-28 |  |
 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 | 2022-09-20 | 2023-04-30 |
 | [Dengue Woman Blues](https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/0hlyemXrKRyStIVw2O8S7f) | 6:23 | 2022-05-27 | 2022-07-15 |
@@ -60,6 +60,7 @@
 | [Devil Is Watching You](https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes](https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV) | 4:00 | 2022-05-25 | 2023-08-25 |
 | [Devil On My Shoulder \(feat\. Shawn Pittman, Kim Wilson, & Anson Funderburgh\)](https://open.spotify.com/track/2rm47sxzItdW3DD9EReIjf) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7), [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3), [Anson Funderburgh](https://open.spotify.com/artist/4MeJdAj02pfiiAYXdQLlBW), [Shawn Pittman](https://open.spotify.com/artist/67FiYlTZy0XontJPWjsows) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 4:30 | 2023-08-25 |  |
 | [Didn't Know What I'm Gonna Do](https://open.spotify.com/track/3IzpmJtlrpaYQeQqCRKQZg) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Smokey Wilson](https://open.spotify.com/artist/3E97jAjfJGnYdY2ZNQxMsy) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 4:00 | 2023-01-27 | 2023-03-05 |
+| [Didn't Know What I'm Gonna Do](https://open.spotify.com/track/5qIhzwHivnBAM1rYzY4yhU) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Smokey Wilson](https://open.spotify.com/artist/3E97jAjfJGnYdY2ZNQxMsy) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4LC0AgcyA9IIghbrwQYVPH) | 4:00 | 2023-09-15 |  |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2022-05-25 |  |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 | 2022-10-14 | 2023-08-25 |
 | [Don't Sell Your Sunshine for a Knife](https://open.spotify.com/track/6ENR44qE2Z0JIyAM2IhtBu) | [The Curse of K.K\. Hammond](https://open.spotify.com/artist/4TQUTH8e8BgMZDvrdmmGxf) | [Death Roll Blues](https://open.spotify.com/album/5MQYrhVP3cg17NXmPgAq9y) | 5:26 | 2023-08-18 |  |

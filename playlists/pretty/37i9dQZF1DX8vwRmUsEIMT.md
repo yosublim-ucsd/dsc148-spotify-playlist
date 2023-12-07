@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Kenya Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,272 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,285 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 | 80 | [How Did I Get So Calm](https://open.spotify.com/track/7EsqDuH87TRXg3UZGjM8Ys) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [How Did I Get So Calm](https://open.spotify.com/album/2RGLug1B05NvtoRZZEF1EX) | 3:05 |
 
-Snapshot ID: `MCwxODMwZDA1MTQwNmE3NTE0MmUxNjljY2U4MmY4ZmVhMTFlNWFiZTRh`
+Snapshot ID: `MCw2OTNmYzM0NzMzN2Q3ZTc1ZTliYTQyOGUwOTA2YTJlMzYwM2I3OTRm`

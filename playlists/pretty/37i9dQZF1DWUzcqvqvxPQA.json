@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25905,
+  "num_followers": 25904,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjNkNmQ0ODU3YjBkYTJmNzg5NmI4NjA1M2Y2M2JmYTMwNzVjOGNk",
+  "snapshot_id": "MCxhMzRhM2YyNDE5ZjgyNjJiNzcwYjUwNmI4MTVlZTQzZmMzMzAyMjkz",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "WaveWalker",
         "url": "https://open.spotify.com/album/6CViRKQjb2VqUGnNCWo9X1"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 193293,
       "name": "WaveWalker",
       "url": "https://open.spotify.com/track/1y0Fq8z3sVmQ9bHbT3r5Zy"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Sonshine",
+        "url": "https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        }
+      ],
+      "duration_ms": 311091,
+      "name": "Shining Down",
+      "url": "https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Love (Remix)",
         "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 210084,
       "name": "Love (Remix)",
       "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Sonshine",
-        "url": "https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7"
-      },
-      "artists": [
-        {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
-        }
-      ],
-      "duration_ms": 311091,
-      "name": "Shining Down",
-      "url": "https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "What Freedom Feels Like",
-        "url": "https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 185692,
-      "name": "What Freedom Feels Like",
-      "url": "https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "\u00a1hola!",
         "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 195944,
       "name": "\u00a1hola!",
       "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "What Freedom Feels Like",
+        "url": "https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 185692,
+      "name": "What Freedom Feels Like",
+      "url": "https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Stand Firm",
+      "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Snapshot",
         "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 208941,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Stand Firm",
-      "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
     },
     {
       "added_at": "2020-08-13 14:39:00",

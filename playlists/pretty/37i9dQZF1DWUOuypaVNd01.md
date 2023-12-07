@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Grone, Orochi, SD9, Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,053 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,076 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 42 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
 | 43 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 44 | [Papo De Ópera 2](https://open.spotify.com/track/3mYNDYsHiLxxOSJkSLHmO7) | [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [A Matilha](https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm) | [Maior Que O Amor, Só O Ódio](https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X) | 2:17 |
-| 45 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
-| 46 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
+| 45 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
+| 46 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
 | 47 | [Diretamente do Rio](https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw) | [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Diretamente do Rio](https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8) | 3:03 |
 | 48 | [Chavão](https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok) | [Ney Rodrí](https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf), [DANDARO$](https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR) | [Chavão](https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN) | 1:58 |
 | 49 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 50 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
 
-Snapshot ID: `MCwyMzFmMjVhN2RiMDVjZGQ0MDIzZWMyZjFmMGViMTdmZDQ1ZGJkNmZh`
+Snapshot ID: `MCwyYTQxN2U2NzA4NjYzN2UwYTUwYzU1ODNmNDkzOWY2NzJjMGMwNDA1`

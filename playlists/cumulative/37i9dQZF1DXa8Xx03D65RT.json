@@ -4464,7 +4464,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 208500,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA"
@@ -7436,6 +7436,24 @@
       "duration_ms": 182288,
       "name": "Morgentau",
       "url": "https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8"
+    },
+    {
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/7LebSSiEhtmusFr6U7oOwd"
+      },
+      "artists": [
+        {
+          "name": "Javid Pradhan",
+          "url": "https://open.spotify.com/artist/7FCmCqJLBtHbXZmqvp6bzx"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/4nvNKhhm7aQEY6CpuQR8RK"
     },
     {
       "album": {

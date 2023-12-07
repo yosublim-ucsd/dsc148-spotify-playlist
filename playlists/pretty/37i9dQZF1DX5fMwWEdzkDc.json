@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13906,
+  "num_followers": 13938,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDMzYjBjNmRhZTlkY2Y2YTNmNTg3NWJjNmQ0MTIwMWUxZDg1NGQx",
+  "snapshot_id": "MCw2NjhhNTllYWQwOTI4ODI1ZGM4M2Y0NTg1MGUwZDY1ZmI2YjdiZjI4",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "A bicycle Ride",
         "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Ballads",
-        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
       },
       "artists": [
         {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
         }
       ],
-      "duration_ms": 279266,
-      "name": "\uac70\ub9ac\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -447,6 +431,22 @@
       "duration_ms": 211811,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/5GCixDdpW0HcfR8ewmOOcI"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Ballads",
+        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "\uac70\ub9ac\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "BLAQ Style",
-        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
-      },
-      "artists": [
-        {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
-        }
-      ],
-      "duration_ms": 200556,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "F.Scott Fitzgerald's Way Of Love",
         "url": "https://open.spotify.com/album/1CZPjxxCPflMkO5c1brcPb"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 228453,
       "name": "I Wonder If You Hurt Like Me",
       "url": "https://open.spotify.com/track/4F8uRvGWed562OyAB2tBja"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "BLAQ Style",
+        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
+      },
+      "artists": [
+        {
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+        }
+      ],
+      "duration_ms": 200556,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+        "name": "SS501 (Single) 2\uc9d1",
+        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
       },
       "artists": [
         {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+      "duration_ms": 204973,
+      "name": "Snow Prince",
+      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SS501 (Single) 2\uc9d1",
-        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Snow Prince",
-      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "\uc678\uc6cc \ub450\uc138\uc694",
-      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "\uc678\uc6cc \ub450\uc138\uc694",
+      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
     },
     {
       "added_at": "2021-03-11 16:26:11",

@@ -377,6 +377,32 @@
     },
     {
       "album": {
+        "name": "hot lemon (Remix)",
+        "url": "https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB"
+      },
+      "artists": [
+        {
+          "name": "noa",
+          "url": "https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "SKRYU",
+          "url": "https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "hot lemon - Remix",
+      "url": "https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt"
+    },
+    {
+      "album": {
         "name": "KANPAI FUNK",
         "url": "https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG"
       },
@@ -1214,7 +1240,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 153461,
       "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 - Remix",
       "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"

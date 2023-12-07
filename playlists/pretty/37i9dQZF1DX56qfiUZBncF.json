@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380363,
+  "num_followers": 380385,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjlhY2IzMDVkM2M1ZjRiYTM2NTNkYmFjZDZhNDY4NzdhZWE1ZjA0",
+  "snapshot_id": "MCxjMmI2YTA3ZTExNjA5ZjQ1ZGI1NmZiODZlMjMyMDlkYTZiOGQ1OTJi",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -335,6 +335,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Summer's Over",
+      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 259173,
       "name": "Time",
       "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Summer's Over",
-      "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Chewing Cotton Wool",
         "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 284578,
       "name": "Dionne (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Giving In To The Love",
+      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -623,6 +623,30 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb"
       },
@@ -647,30 +671,6 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Subconsciously",
-        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 199768,
-      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 202247,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 184015,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "duration_ms": 202247,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 167636,
       "name": "Jeanie",
       "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
       },
       "artists": [
         {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
         }
       ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
       },
       "artists": [
         {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
         }
       ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2023-01-11 21:01:15",

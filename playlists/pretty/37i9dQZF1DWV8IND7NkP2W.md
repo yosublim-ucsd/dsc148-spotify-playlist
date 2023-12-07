@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,127 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,125 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Lost in Thought](https://open.spotify.com/track/3vfSOpKk9Hu3bRPuFScjI6) | [Lofi Milk](https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT), [Maho Fukami](https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP) | [Lost in Thought](https://open.spotify.com/album/6AluH8s9TOlpl78dzO2CRz) | 3:02 |
 | 100 | [Lucid Dream](https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Lucid Dream](https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui) | 2:42 |
 
-Snapshot ID: `MCw2ODg5MWM4N2M4OTgzNWU1ZmNiODMyMmJlNDJiNDdjN2UyNmEyZDli`
+Snapshot ID: `MCwwZWYxOTA3YTJmYTk1NTZjNDE2NmE4ZGMwMDA1NDAxYTRlZmI2OTc2`

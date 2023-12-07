@@ -6,7 +6,7 @@
     "name": "briannabalen",
     "url": "https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6"
   },
-  "snapshot_id": "ODE1LDdkY2Q4OTk5MGJkMzM1ZmU2MjBiZjNiM2NhNmM2ZGE0OWRmZjYxMjA=",
+  "snapshot_id": "ODE2LDE0ZjIzYWFiMTc2ZTk4MjY5ZmYzYzJiZDVjMzFmMDM4ODUxNTVjNTY=",
   "tracks": [
     {
       "added_at": "2021-10-01 04:28:43",
@@ -5067,6 +5067,26 @@
       "duration_ms": 226586,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/7wLtyMDljwAziOVC9d3FOh"
+    },
+    {
+      "added_at": "2023-12-06 01:37:35",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
     }
   ],
   "unique_name": "driving",

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 140810,
+  "num_followers": 140820,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWQ2MzY4ZmQ4YTY5YjhiYzJkM2FiYmI5N2YyMjQxOTg5MTA0MzA4",
+  "snapshot_id": "MCw3NjU2NDg4ZjY4NmU4ZTliY2I1ZTFjMWIxYjIwY2QyOTAxMDhiYWM2",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -67,26 +67,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 206000,
       "name": "Miss You - Bonus Track",
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "SICKO MODE (Skrillex Remix)",
+        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 304512,
+      "name": "SICKO MODE - Skrillex Remix",
+      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Seven Nation Army (feat. KOYSINA)",
         "url": "https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 133000,
       "name": "Seven Nation Army (feat. KOYSINA)",
       "url": "https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "SICKO MODE (Skrillex Remix)",
-        "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 304512,
-      "name": "SICKO MODE - Skrillex Remix",
-      "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "Exotica (Deluxe)",
+        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Do It!",
         "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Exotica (Deluxe)",
-        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2023-09-11 15:59:41",

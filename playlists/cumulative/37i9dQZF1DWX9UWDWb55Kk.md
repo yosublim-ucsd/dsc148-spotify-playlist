@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-438 songs - 1 day 3 hr 43 min
+439 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [Take My Pain Away](https://open.spotify.com/track/0lj1lAjn71qciAw57mEfje) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [Flora](https://open.spotify.com/album/25nHYMN19qwn9Vd6bAcMs0) | 4:38 | 2022-11-24 |  |
 | [Take My Time](https://open.spotify.com/track/5ooWGAzXs3fU7eKHCrwZyd) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Life & Love](https://open.spotify.com/album/4XUQIBFGgxMSlkMZzjNWpj) | 3:03 | 2021-09-01 |  |
 | [Talking Dirty](https://open.spotify.com/track/1bCdntYo52BzYMP7s38dQp) | [Bonkers Beat Club](https://open.spotify.com/artist/2NT86Nm7sNQwakG7N0Url3) | [Drippin](https://open.spotify.com/album/4g8T9QR3asXXB9RLTNyMP9) | 3:34 | 2022-11-24 |  |
-| [Tchiki Tchiki Tchiki](https://open.spotify.com/track/3p1Wlg24nb78QO3TTFThIy) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4), [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 3:09 | 2022-11-24 |  |
+| [Tchiki Tchiki Tchiki](https://open.spotify.com/track/3p1Wlg24nb78QO3TTFThIy) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4), [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 3:09 | 2022-11-24 | 2023-12-07 |
+| [Tchiki Tchiki Tchiki \(feat\. Little Barrie\)](https://open.spotify.com/track/5gn2TZaYvGDuPx1rtBqOMT) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4), [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E) | [Everything is Gonna Be OK in the End](https://open.spotify.com/album/38zGd8XBZyJRxdmxnrGgbQ) | 3:09 | 2022-11-24 |  |
 | [Te Miro](https://open.spotify.com/track/08kbt5GdIBfx76MkMdzHIg) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc), [Zazo & Gxurmet](https://open.spotify.com/artist/2Nqj0SeShPGwB7O88EOvTM), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Amor](https://open.spotify.com/album/4JMllsIVKsbX9qGExapqRN) | 3:51 | 2021-09-01 |  |
 | [Te Quiero](https://open.spotify.com/track/2dArQmvREm53P3X4MzJGiT) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Brujería](https://open.spotify.com/album/7lsIBGwmYtUkZStvVHrmOo) | 3:55 | 2022-04-08 |  |
 | [Tell You: L.I.B.I.D.O.](https://open.spotify.com/track/3xYrWouHB1dghki81NNXi6) | [Erotic Market](https://open.spotify.com/artist/0fwf9ayovhI8FRMonApSZQ) | [Queendoms](https://open.spotify.com/album/1rskeFVyu53aCMlbfPJK63) | 4:09 | 2021-09-01 |  |

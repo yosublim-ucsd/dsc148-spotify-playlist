@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,345 likes - 68 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,371 likes - 68 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 | 67 | [Puccini: Madama Butterfly, Act 1: "Quale smania vi prende?" \(Sharpless, Pinkerton\)](https://open.spotify.com/track/7kCu9dBUKmR1GPwYXbj3UZ) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Sir John Barbirolli](https://open.spotify.com/artist/5X3hmAle6klG0VvstAnvyD), [Carlo Bergonzi](https://open.spotify.com/artist/3ALYsjti5tptGpfAgEYweV), [Rolando Panerai](https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY), [Orchestra Del Teatro Dell'Opera Di Roma](https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8) | [Puccini: Madama Butterfly](https://open.spotify.com/album/4liHyYb59hbDPeCjEVxuPc) | 3:41 |
 | 68 | [Ecce Sacerdos Magnus](https://open.spotify.com/track/7yDB9eFm7dsqNyC8i0hikI) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Coro Sinfonico di Milano Giuseppe Verdi](https://open.spotify.com/artist/3Ls9FqEYODRC5mIOVXgZG2), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Puccini Discoveries](https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F) | 0:25 |
 
-Snapshot ID: `MCwyMGNhZjhkN2ZlYmI4YTgyZWZhNDQ1ZDFjMGFkMmVmMzRiYzZjZjVi`
+Snapshot ID: `MCw5NjRlMzZmZGY4MGY4NjIzMjFlNTljMjQ3ODIwNWUzYzBiNmFiZjUz`

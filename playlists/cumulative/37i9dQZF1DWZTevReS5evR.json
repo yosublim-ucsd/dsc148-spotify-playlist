@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 239758,
       "name": "Antara",
       "url": "https://open.spotify.com/track/7egqnqmJvsOLqMWMcxnfKv"
@@ -392,10 +392,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 351660,
       "name": "Badut",
       "url": "https://open.spotify.com/track/5oDymvDdBB5vHpgHHo9CRY"
+    },
+    {
+      "album": {
+        "name": "Badut, Pt. 2",
+        "url": "https://open.spotify.com/album/4YGjzOfIQyZ0cMmPNz6juQ"
+      },
+      "artists": [
+        {
+          "name": "Raavfy",
+          "url": "https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439849,
+      "name": "Badut",
+      "url": "https://open.spotify.com/track/1f9g3LPKeaxNje4eCSxgap"
     },
     {
       "album": {
@@ -490,7 +508,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 248700,
       "name": "Bodoh",
       "url": "https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D"
@@ -570,6 +588,24 @@
       "duration_ms": 254378,
       "name": "Bunga Di Telinga",
       "url": "https://open.spotify.com/track/6Cix7Q879hgbquQhnoqoSY"
+    },
+    {
+      "album": {
+        "name": "Bunga Hati",
+        "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173720,
+      "name": "Bunga Hati",
+      "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
     },
     {
       "album": {
@@ -996,7 +1032,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 152000,
       "name": "Four Summers",
       "url": "https://open.spotify.com/track/4uqeKoMtmbl1FTlRMdXKx5"
@@ -1367,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/6kJBXVKxcFB92VUdn50llC"
+      },
+      "artists": [
+        {
+          "name": "Anoraga",
+          "url": "https://open.spotify.com/artist/6VhsSg02qZJatqX5Mn91Qa"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/21KTIFgocZeDapOi59FK6W"
+    },
+    {
+      "album": {
         "name": "Jalan Tengah",
         "url": "https://open.spotify.com/album/6WqoW3CKWU3lPyBDhcDzgn"
       },
@@ -1724,7 +1778,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 216410,
       "name": "Needy",
       "url": "https://open.spotify.com/track/6KkryukVg2oVEkT5Cbwsv7"
@@ -1800,6 +1854,24 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
       "album": {
@@ -1880,6 +1952,24 @@
       "duration_ms": 239613,
       "name": "Open Arms (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
+    },
+    {
+      "album": {
+        "name": "pages",
+        "url": "https://open.spotify.com/album/6kJJ5c2JWMvNPyLQ0SMegd"
+      },
+      "artists": [
+        {
+          "name": "WIMY",
+          "url": "https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "pages",
+      "url": "https://open.spotify.com/track/4hNVgNMncBxoYrb5D7dikN"
     },
     {
       "album": {
@@ -2710,6 +2800,24 @@
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "album": {
+        "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/6CT1mfBRIKFU0mjn8YN7vS"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
     },
     {
       "album": {

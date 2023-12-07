@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,877 songs - 4 day 0 hr 52 min
+1,878 songs - 4 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-08-16 | 2022-08-31 |
 | [Domingo](https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Domingo](https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli) | 2:38 | 2023-01-15 | 2023-01-18 |
 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-06-02 | 2023-06-08 |
+| [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-12-06 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 | 2022-09-20 | 2022-10-15 |
 | [Dona Chica \- Ao Vivo](https://open.spotify.com/track/0sD07uktXbICUL36lzfBxf) | [Augusto e Rafael](https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3) | [Dona Chica \(Ao Vivo\)](https://open.spotify.com/album/1hQvhvilbkg3yQI55eigsd) | 3:03 | 2023-02-24 | 2023-03-31 |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2022-01-17 | 2022-01-21 |
@@ -1670,7 +1671,7 @@
 | [The Batman](https://open.spotify.com/track/4j4rlgZJTod9nzA3eFmZEP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Q44I0u2ktOayQLYUnOGNI) | 6:47 | 2022-03-08 | 2022-03-10 |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-25 | 2023-06-03 |
 | [THE BOX MEDLEY 5](https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [THE BOX MEDLEY 5](https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u) | 3:09 | 2023-11-15 | 2023-11-29 |
-| [The Hanging Tree \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [The Hanging Tree \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn) | 2:23 | 2023-11-22 |  |
+| [The Hanging Tree \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [The Hanging Tree \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn) | 2:23 | 2023-11-22 | 2023-12-07 |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:34 | 2022-11-08 | 2022-11-12 |
 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-05-30 | 2023-06-21 |
 | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/track/5aKcJDDiDTzrmVi6putOnq) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/album/6dr49Z0zo5oA4mUbgkyYWm) | 1:52 | 2022-11-25 | 2022-12-11 |

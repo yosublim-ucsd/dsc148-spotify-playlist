@@ -2,7 +2,7 @@
 
 ### [Soirée](https://open.spotify.com/playlist/37i9dQZF1DX4Vd1jJ7X9H8)
 
-> Groovy, dancy, funky stuff.
+> Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
 458 songs - 1 day 3 hr 11 min
 

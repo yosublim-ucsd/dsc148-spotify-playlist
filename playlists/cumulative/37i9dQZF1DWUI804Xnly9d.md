@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-221 songs - 12 hr 23 min
+222 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 |  |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |
+| [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 |  |
 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 | 2023-10-07 |
 | [Jaani Pehchani Si](https://open.spotify.com/track/7zjTFjPj5s5n83YLfDfJVB) | [Sanjay Das](https://open.spotify.com/artist/4qexwHVCNoPsxn0LvwWoSE), [Karshni Nair](https://open.spotify.com/artist/3gh2nrv0WJZLZBMtAtF6V1), [Sankalp Kapur](https://open.spotify.com/artist/40qP0qbcQABkLZnOZD5PYq) | [Rainbow Rishta \(Original Series Soundtrack\)](https://open.spotify.com/album/3IXFgyqzSSkwWZAlX03WW1) | 2:02 | 2023-11-15 |  |
 | [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 | 2023-11-18 |
@@ -226,7 +227,7 @@
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-21 |
 | [Yahi Sach Hai](https://open.spotify.com/track/3dpvuS1Kow72xFcThRX3X9) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [Yahi Sach Hai](https://open.spotify.com/album/0dQUjoVuziFkNaoeDMR1RA) | 6:14 | 2023-06-19 | 2023-07-07 |
 | [Ye Sama](https://open.spotify.com/track/6YdMuBCmTZUypKNZuFvIuv) | [Muzaffer](https://open.spotify.com/artist/6lKmfBnq8JWmPpUHJWpyzm) | [Ye Sama](https://open.spotify.com/album/57VlJwy79d6s3pkCcqsvvn) | 3:23 | 2023-05-17 | 2023-06-24 |
-| [Yeh Mera Dil](https://open.spotify.com/track/459wvXRbstNfUVyQoJ8PB2) | [Hammad Ehsan](https://open.spotify.com/artist/7FvUkx4OEVD7hvYirKrZKD) | [Yeh Mera Dil](https://open.spotify.com/album/7sNjCGtlVEKsRVHCGEISKv) | 3:01 | 2023-10-03 |  |
+| [Yeh Mera Dil](https://open.spotify.com/track/459wvXRbstNfUVyQoJ8PB2) | [Hammad Ehsan](https://open.spotify.com/artist/7FvUkx4OEVD7hvYirKrZKD) | [Yeh Mera Dil](https://open.spotify.com/album/7sNjCGtlVEKsRVHCGEISKv) | 3:01 | 2023-10-03 | 2023-12-07 |
 | [Yeh Sama](https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Yeh Sama](https://open.spotify.com/album/4aU88UQdV5chDfZ3WWcGdp) | 2:09 | 2023-12-01 |  |
 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind \- Single](https://open.spotify.com/album/26VsSu066lK8UdTTiz7JVe) | 3:28 | 2023-05-17 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,108 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,137 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [When I Quit Drinking](https://open.spotify.com/track/4DivPM8ekqwrivgS5c5eej) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/6G9LWAp4G716jXXJA5ESyD) | 3:56 |
 | 100 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
 
-Snapshot ID: `MCw3NzQ3MzFjYmFmYTIyNDc4MDIxOTUwN2QyZTc2M2U4OWFiMWE1ZmZk`
+Snapshot ID: `MCwzZmM0MTQyMTQ0YjhjNTk3NGUxZTBjM2M5ZGE4ZDRhOTIyNDhjODUw`

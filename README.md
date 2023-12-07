@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7097\)
+## Playlists <a name="playlists"></a> \(7098\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -219,7 +219,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [432 Hz Meditation](/playlists/pretty/37i9dQZF1DX3DRt77Ekehy.md)
 - [4:00 AM GROOVE](/playlists/pretty/37i9dQZF1DXbShqaetC9Tw.md)
 - [4AM Chillout](/playlists/pretty/37i9dQZF1DXdbizRAR17Ui.md)
-- [4AM Perreo](/playlists/pretty/37i9dQZF1DX0J2sZQ1dV6f.md)
 - [4th of July Family Fun](/playlists/pretty/37i9dQZF1DWUs5ZfyIp6hP.md)
 - [4th of July Party](/playlists/pretty/37i9dQZF1DX4nYqGKSH0ld.md)
 - [50 Cuentos](/playlists/pretty/37i9dQZF1DWVho4mm2ryVZ.md)
@@ -632,7 +631,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [B.A.E.](/playlists/pretty/37i9dQZF1DWX3387IZmjNa.md)
 - [BAMBII's track IDs](/playlists/pretty/37i9dQZF1DWTnL47EH7ThG.md)
 - [BBE](/playlists/pretty/37i9dQZF1DX66m4icL86Ru.md)
-- [BBQ 2023: Summer Party Classics](/playlists/pretty/098hVwvAVYKJZd5kTwm9Ra.md)
+- [BBQ 2024: Summer Party Classics](/playlists/pretty/098hVwvAVYKJZd5kTwm9Ra.md)
 - [BEASTARS \-ビースターズ\-](/playlists/pretty/37i9dQZF1DWTIFbsBStcyg.md)
 - [BESKRES' track IDs](/playlists/pretty/37i9dQZF1DWYbhRaecw5So.md)
 - [BFF Girls](/playlists/pretty/37i9dQZF1DXamcyl84FTpQ.md)
@@ -1808,6 +1807,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Electric Blues Classics](/playlists/pretty/37i9dQZF1DX9GnjlK17CLK.md)
 - [Electro Bélico](/playlists/pretty/37i9dQZF1DWW5agXJE7NOO.md)
 - [Electro Chill](/playlists/pretty/37i9dQZF1DX9ND1QF5hZNF.md)
+- [Electro Corridos y Perreo](/playlists/pretty/37i9dQZF1DX0J2sZQ1dV6f.md)
 - [Electro Folklore](/playlists/pretty/37i9dQZF1DWUP9ynkqecOL.md)
 - [Electro Funk](/playlists/pretty/37i9dQZF1DWSkwtKvzMAAN.md)
 - [Electro Heat](/playlists/pretty/37i9dQZF1DX2R0a3scWaq6.md)
@@ -2895,6 +2895,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [K\-Trot Stars](/playlists/pretty/37i9dQZF1DX6i7txhF59QA.md)
 - [K\-Webtoon OSTs \(웹툰 OSTs\)](/playlists/pretty/37i9dQZF1DWZgZGWDUJK7v.md)
 - [KAGUYA\-SAMA: LOVE IS WAR かぐや様は告らせたい](/playlists/pretty/37i9dQZF1DX9GwUIoGGDbm.md)
+- [KARENTセレクション Midnight Club](/playlists/pretty/1eDsWM8fPDE511CDVJhD5p.md)
 - [KARENTセレクション Rainy Songs](/playlists/pretty/4WSL1lc9u02zxatXjk17yi.md)
 - [KARENTセレクション Spring Songs](/playlists/pretty/1HFN4qLzCcfnJSEJltBYkB.md)
 - [KARENTセレクション バレンタインSongs](/playlists/pretty/56Osl8AYAMx8SXObtYVu0K.md)

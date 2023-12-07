@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,407 likes - 274 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,529 likes - 274 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 50 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 |
 | 51 | [wolkenlos](https://open.spotify.com/track/6bBI9q6jMKZPt5Bth1pxnV) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [wolkenlos](https://open.spotify.com/album/2wgLJwE2XaxOQ6ROrm8lIk) | 2:24 |
 | 52 | [Paseo](https://open.spotify.com/track/3z34o6Tz0nEHd6rPjIcyTN) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Paseo](https://open.spotify.com/album/11v1XsFDWHyGfF8FKizm6P) | 2:22 |
-| 53 | [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 |
+| 53 | [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 |
 | 54 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 |
 | 55 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 |
 | 56 | [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 65 | [CHANGES](https://open.spotify.com/track/6JdbCoaNkc1Ur5PGK2JsqQ) | [Rangel Silaev](https://open.spotify.com/artist/5CeLTVTT72ZGWHK3q5Bmze) | [CHANGES](https://open.spotify.com/album/1unrTgi2EVB68rZXjXHaHE) | 2:00 |
 | 66 | [Sorgløs](https://open.spotify.com/track/5ehX9txsKfW0npyLGMHkcn) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Sorgløs](https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw) | 2:07 |
 | 67 | [Give and Take](https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM) | [Otto Mitch](https://open.spotify.com/artist/1z83SKsSScydhd9ImLkUCP) | [Give and Take](https://open.spotify.com/album/3jYUbXJT616rFP3Nm3oO68) | 2:14 |
-| 68 | [Vesper](https://open.spotify.com/track/6sQaJc5eWnczHKIHiDfesG) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:12 |
+| 68 | [Vesper](https://open.spotify.com/track/3mKxLeFjVFng9H7fTyR8ho) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:12 |
 | 69 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
 | 70 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 |
 | 71 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/4TfmUcDnkEVw8DhEx98x8p) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Third Psalm](https://open.spotify.com/album/7kwVqoDo8TdA9o060qthLa) | 1:48 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 273 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 274 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCw2MGQwZDA2OTNmNWYzYzUwNGY1OTU0ZmFjYmZlZDZiNzcxY2M5OGRk`
+Snapshot ID: `MCwyMjEzODNlOWM0MzE3NjQ3MGE3MTY3Zjk3OTJmMGI3NTA5MWFiMGVl`

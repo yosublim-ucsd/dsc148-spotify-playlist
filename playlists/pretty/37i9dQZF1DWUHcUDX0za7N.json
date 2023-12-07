@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=U8w7_PIuTm6h7wIv43Ji2g\"> ODUMODUBLVCK</a>",
-  "num_followers": 36726,
+  "num_followers": 36913,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWIxMTI2YmY4OWUwNTllYjFkODc2YWEyNDhlNmU1MmE5ZGJhNWFi",
+  "snapshot_id": "MCxjYWVlOTU3YzQ0ZmE1ZmM5ZjY0YTg1Y2QwNzQ5MGM3YmYyOTUzMzNi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:51:24",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
+        "name": "PAPILO / ABENA",
+        "url": "https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup"
+      },
+      "artists": [
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "PAPILO (Smadumodu)",
+      "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
-        "name": "PAPILO / ABENA",
-        "url": "https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup"
-      },
-      "artists": [
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 132173,
-      "name": "PAPILO (Smadumodu)",
-      "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
-        "name": "Letter From Overseas (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 138243,
-      "name": "Letter From Overseas (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
+        "name": "Letter From Overseas (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 138243,
+      "name": "Letter From Overseas (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
-        "name": "My Own (feat. Blaqbonez)",
-        "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
-      },
-      "artists": [
-        {
-          "name": "Major AJ",
-          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 180765,
-      "name": "My Own (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
         "name": "Sere (feat. Tega boi dc)",
         "url": "https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 130873,
       "name": "Sere (feat. Tega boi dc)",
       "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
+        "name": "My Own (feat. Blaqbonez)",
+        "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
+      },
+      "artists": [
+        {
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 180765,
+      "name": "My Own (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
-        "name": "Offer",
-        "url": "https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ"
-      },
-      "artists": [
-        {
-          "name": "PDSTRN",
-          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
-        },
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        }
-      ],
-      "duration_ms": 124983,
-      "name": "Offer",
-      "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
-    },
-    {
-      "added_at": "2023-12-01 05:51:24",
-      "album": {
         "name": "Where Dem Dey (Remix)",
         "url": "https://open.spotify.com/album/2xh0FtjHY2TH41Wo5j4Dhj"
       },
@@ -1327,26 +1307,22 @@
     {
       "added_at": "2023-12-01 05:51:24",
       "album": {
-        "name": "2 Pac",
-        "url": "https://open.spotify.com/album/7nVSprHJxzWVvVdlD4YP4D"
+        "name": "Offer",
+        "url": "https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ"
       },
       "artists": [
         {
-          "name": "EESKAY",
-          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+          "name": "PDSTRN",
+          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
         }
       ],
-      "duration_ms": 300463,
-      "name": "Bad Character - Remix",
-      "url": "https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf"
+      "duration_ms": 124983,
+      "name": "Offer",
+      "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
     },
     {
       "added_at": "2023-12-01 05:51:24",
@@ -1367,6 +1343,30 @@
       "duration_ms": 178775,
       "name": "PARA",
       "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
+    },
+    {
+      "added_at": "2023-12-01 05:51:24",
+      "album": {
+        "name": "2 Pac",
+        "url": "https://open.spotify.com/album/7nVSprHJxzWVvVdlD4YP4D"
+      },
+      "artists": [
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 300463,
+      "name": "Bad Character - Remix",
+      "url": "https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf"
     },
     {
       "added_at": "2023-12-01 05:51:24",

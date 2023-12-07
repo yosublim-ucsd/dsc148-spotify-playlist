@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,956 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,989 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 47 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 |
 | 48 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
 | 49 | [Something More \(Edit\)](https://open.spotify.com/track/4Gyar4tKonu5h1nBlczq7z) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Something More](https://open.spotify.com/album/2ySEmEE4ZIXGt6xiRIObIx) | 4:00 |
-| 50 | [Pithy](https://open.spotify.com/track/6v0QB50cfT7UuBMsrXHcXI) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Plunge](https://open.spotify.com/album/0WCy3Og33VGPDUh6R7ZpIY) | 4:12 |
+| 50 | [Rainchecks In Montreal](https://open.spotify.com/track/4eKwLXECCFNv4A8LzghcbP) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Rainchecks in Montreal](https://open.spotify.com/album/14kYR10NE4OWEt7paPnH6h) | 6:30 |
 
-Snapshot ID: `MCxmZmU2ZDAyZmE0NGYxN2VkMTVlNGQwM2E3YzdiYzJiYTVmOTZkZTRi`
+Snapshot ID: `MCxlOGVlZWNhYzBkMGM2NjFmMWM1ZGFmMTllZDM0YTIzM2VjZGQwYWNh`

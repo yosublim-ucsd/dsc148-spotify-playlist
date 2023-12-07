@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable songs from Iconic Arab women. Cover: Umm Kulthum.",
-  "num_followers": 23271,
+  "num_followers": 23273,
   "original_name": "Iconic Arab Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2RmNjcxMDBjOTQ1NTdlNWFlYjlmNzRkYjk1MzA3ODZjNTZhZGZh",
+  "snapshot_id": "MCw4MGViM2JlOGNiNGUwOTg0ZTVkYzM0OWMwODA2Yzc0MmVlY2Q0NTBj",
   "tracks": [
     {
       "added_at": "2022-12-18 22:40:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Ala Baly",
-        "url": "https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55"
-      },
-      "artists": [
-        {
-          "name": "Aida el Ayoubi",
-          "url": "https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Asfour",
-      "url": "https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn"
-    },
-    {
-      "added_at": "2022-12-18 22:40:11",
-      "album": {
         "name": "Asmar",
         "url": "https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 333374,
       "name": "Asmar",
       "url": "https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm"
+    },
+    {
+      "added_at": "2022-12-18 22:40:11",
+      "album": {
+        "name": "Ala Baly",
+        "url": "https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55"
+      },
+      "artists": [
+        {
+          "name": "Aida el Ayoubi",
+          "url": "https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Asfour",
+      "url": "https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Dawrouli An Habib",
-        "url": "https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv"
+        "name": "Best of Salwa El Katrib, Vol. 2",
+        "url": "https://open.spotify.com/album/5nnYvn7XMn614uDt3IaaSR"
       },
       "artists": [
         {
-          "name": "Samira Tawfik",
-          "url": "https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3"
+          "name": "Salwa El Katrib",
+          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
         }
       ],
-      "duration_ms": 325120,
-      "name": "Ah Yalali",
-      "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
+      "duration_ms": 183480,
+      "name": "Ya Meet Hala",
+      "url": "https://open.spotify.com/track/0LLQskrgpuR6FWTkAF7J2B"
     },
     {
       "added_at": "2022-12-18 22:40:11",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-12-18 22:40:11",
       "album": {
-        "name": "Best of Salwa El Katrib, Vol. 2",
-        "url": "https://open.spotify.com/album/5nnYvn7XMn614uDt3IaaSR"
+        "name": "Dawrouli An Habib",
+        "url": "https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv"
       },
       "artists": [
         {
-          "name": "Salwa El Katrib",
-          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
+          "name": "Samira Tawfik",
+          "url": "https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3"
         }
       ],
-      "duration_ms": 183480,
-      "name": "Ya Meet Hala",
-      "url": "https://open.spotify.com/track/0LLQskrgpuR6FWTkAF7J2B"
+      "duration_ms": 325120,
+      "name": "Ah Yalali",
+      "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
     },
     {
       "added_at": "2022-12-18 22:40:11",

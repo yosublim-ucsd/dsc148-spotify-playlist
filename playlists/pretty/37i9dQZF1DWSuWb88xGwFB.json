@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31694,
+  "num_followers": 31721,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRjYWFiNmMxNGM2ZGYxYzczMzMyMzJjNmY1ODY4NzJhYjEzZTk1",
+  "snapshot_id": "MCxlMGEwZjEyMThhZWRjZDRmZmNlNTdlMWI4NjNlZWFjMmVhMzAwYjgx",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Warning (Remixes)",
-        "url": "https://open.spotify.com/album/6MgegMKyBL5NjEkD9ITHVz"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        },
-        {
-          "name": "Claude Monnet",
-          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "The Warning (2 Copy Mix)",
-      "url": "https://open.spotify.com/track/2AHVEBAfnayE9WI0JMxZ0t"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 374946,
       "name": "Carnival 93 (The Mardi Gras Mix)",
       "url": "https://open.spotify.com/track/1Ztq9a8Nk4XlbEJSPseygX"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Warning (Remixes)",
+        "url": "https://open.spotify.com/album/6MgegMKyBL5NjEkD9ITHVz"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        },
+        {
+          "name": "Claude Monnet",
+          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "The Warning (2 Copy Mix)",
+      "url": "https://open.spotify.com/track/2AHVEBAfnayE9WI0JMxZ0t"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 472984,
-      "name": "Choices (Choices Vocal Mix)",
-      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Boom / I Need Your Love",
         "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
       },
       "artists": [
         {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
         }
       ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+      "duration_ms": 472984,
+      "name": "Choices (Choices Vocal Mix)",
+      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1039,6 +1023,22 @@
       "duration_ms": 337901,
       "name": "Just an Organ (Just An Organ Mix)",
       "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
@@ -1147,6 +1147,26 @@
       "duration_ms": 605294,
       "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
       "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1179,26 +1199,6 @@
       "duration_ms": 364347,
       "name": "Carnival '95 (Pride Vocal Mix)",
       "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
-      },
-      "artists": [
-        {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Equinox (Henrik Schwarz Remix)",
-      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
     },
     {
       "added_at": "2022-03-03 13:59:16",

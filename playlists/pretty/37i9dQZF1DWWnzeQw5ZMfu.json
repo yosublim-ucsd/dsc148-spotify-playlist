@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 66225,
+  "num_followers": 66273,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWVjMzUxNDRhMTQwZGI3MDhkMmE0ZWY5MzlkMTYzNzUwOWU1MDIy",
+  "snapshot_id": "MCwzZjRjZmU3YWJhNzZlNTdjYmZkZTU2OWU5ZWI3YWRhZjEyNDBmNjQx",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
+      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "The Feeling of Falling Upwards (Live from The Royal Albert Hall)",
         "url": "https://open.spotify.com/album/35LYgkNRuy9zsyyuWBlJwr"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 198760,
       "name": "Goodbye Yellow Brick Road - Live",
       "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
-      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 225047,
-      "name": "Before You Go - Live from Brixton Academy, London, 2019",
-      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225047,
+      "name": "Before You Go - Live from Brixton Academy, London, 2019",
+      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Elton 60 - Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Your Song - Live At Madison Square Garden",
-      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 334813,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
       "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Elton 60 - Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Your Song - Live At Madison Square Garden",
+      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "101",
-        "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
-      "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 267066,
       "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
       "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
+      "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "7 Years (Later) [Live]",
         "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 256896,
       "name": "7 Years - (Later) [Live]",
       "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2023-11-03 04:00:00",

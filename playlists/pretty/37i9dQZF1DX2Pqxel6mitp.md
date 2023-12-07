@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,031 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,061 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Empire State Express](https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Empire State Express](https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh) | 4:30 |
 | 120 | [Rattlesnake](https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS), [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 3:08 |
 
-Snapshot ID: `MCw4NWY2NTkxYTk3MjAyY2FiNjcwOTlhYzE0NWNiMGViZDZjOGFmM2Q5`
+Snapshot ID: `MCw4M2QxY2RiNmY2NjFiMzQxNTY5YjQ1NDIwODQzZmRjMTZmMTg2NGQ2`

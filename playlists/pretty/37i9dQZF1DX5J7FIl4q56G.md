@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: P.O.D\. & Tatiana Shmayluk of Jinjer
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,251 likes - 61 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,265 likes - 61 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 60 | [Become](https://open.spotify.com/track/1c4oMHCWauxx7lxfLcxXIc) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/4D1cBnDimRXADjROlMhP5A) | 5:02 |
 | 61 | [PATIENCE](https://open.spotify.com/track/5DXNdJt1Ros4XQKbgICDpH) | [Eiga](https://open.spotify.com/artist/2WAmN5MiGL8XYhlXODKB0d) | [PATIENCE](https://open.spotify.com/album/6nm5vWTUE25yt7Z4UYSqKz) | 3:48 |
 
-Snapshot ID: `MCwyMGMxZWRjMmQ2MDAwOWU3ODlmODU2NGQwZmVlOTQ3MTM3M2M4NzI3`
+Snapshot ID: `MCw2NDg4OGI3NzY2NDY2NzAzNDBiZDk3MGQ4NTU3NzliZmI2OTc5MzY4`

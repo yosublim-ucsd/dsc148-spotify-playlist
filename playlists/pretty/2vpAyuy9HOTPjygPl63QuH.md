@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,979 likes - 56 songs - 3 hr 16 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,986 likes - 59 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 54 | [HAUS \- Extended Mix](https://open.spotify.com/track/0KvXwiEKb9N2QnVF0e54OX) | [Errio Indra](https://open.spotify.com/artist/0bXqfO3O0OxPqMAvPmStAJ), [YOHEVA](https://open.spotify.com/artist/3PmyjLR2jhK4z84HmzxDCU), [Nykoluke](https://open.spotify.com/artist/1WamZ8Z9XcPHleF1r7UqE1) | [HAUS](https://open.spotify.com/album/2FOyzyqGABxnq59CjzPVz5) | 4:51 |
 | 55 | [Make Me Wanna \- Radio Edit](https://open.spotify.com/track/7ARtnK0a9kziGOHLi3AFNV) | [Moulin](https://open.spotify.com/artist/3s4gJptonxLUF26xIr8sU1) | [Make Me Wanna \(Radio Edit\)](https://open.spotify.com/album/4D0dAOcWEDZMebqOenRn09) | 3:12 |
 | 56 | [Social Live Jazz](https://open.spotify.com/track/2v9AxFTN4vj8MnR7IVEkx2) | [Boom Bap Ballade](https://open.spotify.com/artist/3girHv89eo3Qzcw4onpDxA), [Kozlevchar](https://open.spotify.com/artist/6WEiBxOneEOer2ll7uQ1Eu) | [Social Live Jazz](https://open.spotify.com/album/4l7xKX20m3KJ53yWVXJ9Rn) | 6:17 |
+| 57 | [Fake Friends \- Original Mix](https://open.spotify.com/track/0MWG5fcxHHAYYQ8TEXmkqL) | [MYMA](https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK) | [Fake Friends EP](https://open.spotify.com/album/4WoOY9sfnMLRGnkUrpuodZ) | 4:51 |
+| 58 | [Ain't U](https://open.spotify.com/track/1s6i4bzxzGLYqZkgEx8LmA) | [Feel Flow!](https://open.spotify.com/artist/0gRfH72TIS2RlzSlXCIxPa), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Ain't U](https://open.spotify.com/album/7m9OksImqI8nH4zOdetcHt) | 2:53 |
+| 59 | [Do Força](https://open.spotify.com/track/6vvHVzlCx5Rc5Z1G6bBFbT) | [DYSLOYAL](https://open.spotify.com/artist/4Nd0iuDHi8BNYsdXQR6DrT) | [Do Força](https://open.spotify.com/album/1zljvPZiE2W7f2zCx5Qgm4) | 3:16 |
 
-Snapshot ID: `ODA2MixjMDM0YzNhYjA2ZGQ5ODZmMGI2ZTk3YjEzMjczNzRmMzhmNGFkNjU5`
+Snapshot ID: `ODA2NSxkYzViMjg1YjExNDRmOTAzMTg2NDhlODVkYzcyMzdiMzJiZjA1NWRl`

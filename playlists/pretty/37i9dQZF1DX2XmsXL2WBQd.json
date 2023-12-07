@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 378257,
+  "num_followers": 378322,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjVkMGQ3MTBmN2Y0MTg1OWU2ZmMwN2JkMzk0NTYyZjFiZmEzZjc1",
+  "snapshot_id": "MCxjZmU3NTVlNGU4YzBhMjNmYzdiNWU5MGY4ZDFhN2U4MjhlNzAzYTJj",
   "tracks": [
     {
       "added_at": "2023-10-11 12:50:31",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "Rhyme Pays",
         "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 224866,
       "name": "6 'N the Mornin'",
       "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 232306,
       "name": "Rapper's Delight",
       "url": "https://open.spotify.com/track/3aSZe61cG5tU7BzdJxKBvz"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
+        "name": "Planet Rock: The Album",
+        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+        }
+      ],
+      "duration_ms": 422493,
+      "name": "Looking for the Perfect Beat - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 221986,
       "name": "I Got It Made",
       "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
-        "name": "Planet Rock: The Album",
-        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
-      },
-      "artists": [
-        {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
-        }
-      ],
-      "duration_ms": 422493,
-      "name": "Looking for the Perfect Beat - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 269666,
       "name": "White Lines (Don't Do It)",
       "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
     },
     {
       "added_at": "2023-10-11 12:50:31",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-11 12:50:31",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 308373,
-      "name": "I'll Take Your Man",
-      "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
-    },
-    {
-      "added_at": "2023-10-11 12:50:31",
-      "album": {
         "name": "Hip Hop Be Bop",
         "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 336173,
       "name": "Hip Hop Be Bop (Original Version)",
       "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
+    },
+    {
+      "added_at": "2023-10-11 12:50:31",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 308373,
+      "name": "I'll Take Your Man",
+      "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
     },
     {
       "added_at": "2023-10-11 12:50:31",

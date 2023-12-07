@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-891 songs - 1 day 12 hr 37 min
+892 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Demons](https://open.spotify.com/track/2j0KrN359zKbaL2NIcoEmA) | [Llainwire](https://open.spotify.com/artist/3IWfwGQsiQr1ywqC5w85vA) | [Demons](https://open.spotify.com/album/7cwaBUDG4UFCE1bLZbHjj7) | 1:47 | 2023-05-19 | 2023-06-17 |
 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2023-01-30 | 2023-07-22 |
 | [Diamonds Cry](https://open.spotify.com/track/3lq7nObJRC3GXoPDe8zZIW) | [Tevomxntana](https://open.spotify.com/artist/4R1Ph1IPb4wG0XWzzOcvQa) | [Diamonds Cry](https://open.spotify.com/album/7EW3I0378mL1kzW8x9ddp2) | 2:01 | 2023-10-20 |  |
+| [Diamondz n Roses \(Back It Up!\)](https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Back It Up! \(Diamondz n Roses\)](https://open.spotify.com/album/5LIRiZrStdRIY3xGL4qQUL) | 1:33 | 2023-12-06 |  |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 | 2022-10-08 |
 | [Different Goals](https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Different Goals](https://open.spotify.com/album/0fWDgzqcJIOy5bcsBgyCIt) | 2:29 | 2023-08-25 | 2023-10-21 |
 | [Dipset](https://open.spotify.com/track/35ql06xhVmimjFBGYdUVIB) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Dipset](https://open.spotify.com/album/2PlaKZHxuVxAQI5AdD57sC) | 1:41 | 2022-08-07 | 2022-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,512 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,633 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 61 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
 | 62 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 63 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
-| 64 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 |
-| 65 | [We Found Love \(Hardstyle\)](https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [JONIX](https://open.spotify.com/artist/5gukB99FaNZB2VGdDCo9aO), [RAMSES](https://open.spotify.com/artist/5MI90MK6ELzMhVjNVxr60U) | [We Found Love \(Hardstyle\)](https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY) | 2:35 |
+| 64 | [We Found Love \(Hardstyle\)](https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [JONIX](https://open.spotify.com/artist/5gukB99FaNZB2VGdDCo9aO), [RAMSES](https://open.spotify.com/artist/5MI90MK6ELzMhVjNVxr60U) | [We Found Love \(Hardstyle\)](https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY) | 2:35 |
+| 65 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 |
 | 66 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 |
 | 67 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
 | 68 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
 | 69 | [I'm Sorry](https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY) | [I'm Sorry](https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc) | 3:24 |
 | 70 | [Kids](https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Kids](https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq) | 4:08 |
 
-Snapshot ID: `MCwxYjExZGY3MDBjZGU2M2JjZGY5NDQwYjg1NGIzY2JkYmYyMDhkNGNk`
+Snapshot ID: `MCw5Yzc4MTdiMTI4OTMyOTU5ZWE1MjZmOGM1OGRkNWIyYmFkMDE3ZTgy`

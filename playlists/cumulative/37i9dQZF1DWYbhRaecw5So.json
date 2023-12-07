@@ -308,10 +308,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 203920,
       "name": "Bosque Verde - Radio Edit",
       "url": "https://open.spotify.com/track/03rLGvMkzl9qtHJ6ceYGe4"
+    },
+    {
+      "album": {
+        "name": "Bosque Verde (Radio Edit)",
+        "url": "https://open.spotify.com/album/71m3f0lXBHQd7oa6fqCAGZ"
+      },
+      "artists": [
+        {
+          "name": "DiMO (BG)",
+          "url": "https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw"
+        },
+        {
+          "name": "Dan Tanev",
+          "url": "https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "Bosque Verde - Radio Edit",
+      "url": "https://open.spotify.com/track/7o8GY5XYAHCaBSb8yRVr3S"
     },
     {
       "album": {

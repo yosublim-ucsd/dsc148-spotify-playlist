@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,242 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,325 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [A Shade Of Jade \- Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 7:08 |
 | 65 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 
-Snapshot ID: `MCxhY2I4YWVlYWJmZjc5OGJmYTFiYjM2NjM2MjlkNjQxZDIzNTliYjYy`
+Snapshot ID: `MCxhYTM4OWQ4NjBhMThlYWFjNjJlNGY4ZTUxNDIyZGQwMTUzMGQxYmM1`

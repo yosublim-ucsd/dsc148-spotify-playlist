@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : TIF
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Yamê
 
 131 songs - 6 hr 52 min
 

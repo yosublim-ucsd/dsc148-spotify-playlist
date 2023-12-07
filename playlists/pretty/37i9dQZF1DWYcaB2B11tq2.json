@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 396894,
+  "num_followers": 397015,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzBiMWE5OWY3YmE2Y2UzMDExYWY0OTFiMGM5ZDFjMmZhODYzYzM5",
+  "snapshot_id": "MCw0OGQ2NzAyZDNhMzFjNDkzYmU1YzU3ZjdiOTkxODNjZjQ0YmE5N2Y2",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No M\u00e1s",
-        "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
       "artists": [
         {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         }
       ],
-      "duration_ms": 206865,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4"
+      "duration_ms": 308253,
+      "name": "Abre hoy los cielos",
+      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
     }
   ],
   "unique_name": "Creo En Ti",

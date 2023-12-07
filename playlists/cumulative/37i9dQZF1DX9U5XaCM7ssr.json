@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 300512,
       "name": "Kangen",
       "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
@@ -1382,6 +1382,24 @@
       "duration_ms": 302666,
       "name": "Puisi",
       "url": "https://open.spotify.com/track/4XmNQ2LLbVq8MDn8MG8HUS"
+    },
+    {
+      "album": {
+        "name": "Rakit",
+        "url": "https://open.spotify.com/album/1Gca5YKBZFnKnhcaZYvzMM"
+      },
+      "artists": [
+        {
+          "name": "Nadzira Shafa",
+          "url": "https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Rakit",
+      "url": "https://open.spotify.com/track/3fpqUsMNqKg6sLPEkOPW2w"
     },
     {
       "album": {

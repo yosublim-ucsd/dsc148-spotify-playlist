@@ -2267,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Bring Back The Noise",
+        "url": "https://open.spotify.com/album/7yaFrxjzkynJH2jQ45vJs4"
+      },
+      "artists": [
+        {
+          "name": "Alpha Wolf",
+          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130716,
+      "name": "Bring Back The Noise",
+      "url": "https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd"
+    },
+    {
+      "album": {
         "name": "Broken Bloodlines",
         "url": "https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 31 | [Veneno](https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno](https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp) | 2:32 |
 | 32 | [Babylon Will Fall](https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [At 333 House](https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh) | 3:06 |
 | 33 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
-| 34 | [Boca Chica](https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 4:02 |
+| 34 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
 | 35 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 36 | [No Es Importante](https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [No Es Importante](https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe) | 3:29 |
-| 37 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
+| 37 | [Boca Chica](https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 4:02 |
 | 38 | [Dos amores](https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Dos amores](https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM) | 3:22 |
 | 39 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
 | 40 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 49 | [No le de tó](https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [No le de tó](https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r) | 4:24 |
 | 50 | [Nice & Easy](https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE), [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c) | [Nice & Easy](https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk) | 3:36 |
 
-Snapshot ID: `MCxkOWMxNmMwNWMzYjgzYTg2OWNmZWFjOGU5ZDlkMDViZjRmZTZmNGRj`
+Snapshot ID: `MCw2ZDUwODUyZDlkYzgwYTZjMmY5YTg1Njk0NmRhNTgwY2QyM2VjZmQz`

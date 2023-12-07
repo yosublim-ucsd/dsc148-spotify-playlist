@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWY77P1fdhS.md) - [plain]
 
 > It’s early 2010s, you’ve got sillybandz on your wrist, a mustache tattoo on your finger, and angry birds on your iphone\. Cover: LMFAO & Lil Jon
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,820 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,048 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWY77P1fdhS.md) - [plain]
 | 64 | [Wobble](https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5) | [V.I.C.](https://open.spotify.com/artist/49mHZzhcsoQB1JXWv8Q9gU) | [Beast](https://open.spotify.com/album/2xaFAO5ejxbxjL5gund9Dk) | 5:21 |
 | 65 | [No Hands \(feat\. Roscoe Dash & Wale\)](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Flockaveli](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) | 4:23 |
 | 66 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 |
-| 67 | [Mr\. Saxobeat](https://open.spotify.com/track/2ZAx6NDhX2yE5aL5ueEQgY) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/25hD73WRfQAPuFMRibSjby) | 3:15 |
+| 67 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/6HTprulGfeFVrLLvfi3t8a) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/35AULnJ3cnpu6VUEfJlypd) | 3:15 |
 | 68 | [Take over Control \(feat\. Eva Simons\)](https://open.spotify.com/track/4iD3msRl5hJUBEtrQwnR4k) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Take over Control \(feat\. Eva Simons\)](https://open.spotify.com/album/68TnHmMjGBt4u4HpX4EmbS) | 3:40 |
 | 69 | [Hello \(feat\. Dragonette\)](https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Hello](https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8) | 3:11 |
 | 70 | [Shake It](https://open.spotify.com/track/6pfhyFIP10boLwr4mcSE0g) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/7t1KO1XCs1mYeiJTiiVhJW) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWY77P1fdhS.md) - [plain]
 | 79 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/1yX1ZzW6TBvQ1qeNpbiONH) | 3:52 |
 | 80 | [Eenie Meenie](https://open.spotify.com/track/45O0tUN9Bh6LH4eNxQ07AT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Eenie Meenie EP](https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu) | 3:21 |
 
-Snapshot ID: `MCxiYmMxZGYwN2RkNWZkYWJhNDZmMzhiZTY2ZjQyNTYyNTg0MGQ4YTAz`
+Snapshot ID: `MCxmMjgxNGM4NGMxMTBkYjAwNDE4ZTQ2YTdmZGMzODQ4Yzk4ZWJjYmFm`

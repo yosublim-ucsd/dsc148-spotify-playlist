@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1777171,
+  "num_followers": 1777239,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmI2NTI0NzAwMjg3NGMyOTA1NTE3M2RmMTBlMDgyZDI1ZmYzZDVm",
+  "snapshot_id": "MCw4NjIwZmZjNWQ5ZTNjOGVkOTc3ZWU5OWQ2N2NmMTY5NTM4NTQxNDA5",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Boy Who Never",
-        "url": "https://open.spotify.com/album/1fFFfcxhKi0kSPhm8kdOuf"
-      },
-      "artists": [
-        {
-          "name": "Landon Pigg",
-          "url": "https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "Falling in Love at a Coffee Shop",
-      "url": "https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Feathers & Fishhooks",
         "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 233693,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "The Boy Who Never",
+        "url": "https://open.spotify.com/album/1fFFfcxhKi0kSPhm8kdOuf"
+      },
+      "artists": [
+        {
+          "name": "Landon Pigg",
+          "url": "https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "Falling in Love at a Coffee Shop",
+      "url": "https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Olly Olly",
-        "url": "https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Olly Olly",
+        "url": "https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Before the Bridge",
-        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Untamed",
-      "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "1000 Years",
         "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 218502,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Before the Bridge",
+        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Untamed",
+      "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243012,
-      "name": "Hate The Way You Love Me",
-      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Be Slow",
         "url": "https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 216596,
       "name": "With You",
       "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 243012,
+      "name": "Hate The Way You Love Me",
+      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
     },
     {
       "added_at": "2023-09-22 04:00:00",

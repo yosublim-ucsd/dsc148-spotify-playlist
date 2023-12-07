@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-589 songs - 1 day 8 hr 6 min
+591 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Call Me on the Way Home](https://open.spotify.com/track/7jYqFflmnsOI04fp3gS6fL) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Call Me on the Way Home](https://open.spotify.com/album/6h9bhhUqBxAttjoGngMDZR) | 2:52 | 2022-08-05 | 2022-09-20 |
 | [can we combine](https://open.spotify.com/track/7L9WzCKxuaZEGXqN6eRjQV) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [can we combine](https://open.spotify.com/album/6axyJYIF2IlAzRykjnp980) | 2:34 | 2021-10-07 | 2022-04-29 |
 | [Can't Blame Me](https://open.spotify.com/track/3jd4G5UwEHzxYPbgva0fCN) | [TOUTS](https://open.spotify.com/artist/778lQqI29eUT3DyF1AYtLS) | [Can't Blame Me](https://open.spotify.com/album/6cA6Fj5bZoQyhgCUY1wVwm) | 2:38 | 2021-10-07 | 2022-04-29 |
+| [Can’t Believe We're Here](https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG) | [J Mascis](https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx) | [Can't Believe We're Here](https://open.spotify.com/album/21kuC8CVlZkz9UoquPEOXJ) | 3:58 | 2023-12-06 |  |
 | [Cartoon Logic](https://open.spotify.com/track/73txftYr3QBFnFdirYnvE1) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Can't Make Any Promises](https://open.spotify.com/album/1cVSZHrrqpdDrBwXn7jxRI) | 2:16 | 2023-06-02 |  |
 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 | 2023-02-17 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-07 | 2022-06-11 |
@@ -100,6 +101,7 @@
 | [Concrete](https://open.spotify.com/track/6v5R9Q0aEgaSialrL8rFnt) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Concrete](https://open.spotify.com/album/2IDNFLLiJwfHXugavpn8jL) | 3:34 | 2021-10-07 | 2022-01-08 |
 | [Cool It Kid](https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE) | 3:30 | 2022-06-17 | 2022-07-29 |
 | [Cool It Kid](https://open.spotify.com/track/76BWUDhCL1ebKLnrvbKuVJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/7qFFfbfWeCxuSJ21nAI64K) | 3:30 | 2022-07-08 | 2022-08-06 |
+| [Cool Logic](https://open.spotify.com/track/2dactM3Uk7aF8RrofihF6J) | [Eva Haze](https://open.spotify.com/artist/0L0GAoyR21K6Kf5cKVdh8g) | [Under The Tin Sky](https://open.spotify.com/album/21hTKaDybZTrIiC48zDsZA) | 4:31 | 2023-12-06 |  |
 | [Cool, Nice.](https://open.spotify.com/track/77amPvUIO231fwujMSAVXb) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Cool, Nice.](https://open.spotify.com/album/3A53U7KZ3BDrE861A7tEQk) | 2:55 | 2022-08-05 | 2023-04-15 |
 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 | 2023-05-22 |  |
 | [Cowboy](https://open.spotify.com/track/7vhd7HIEQ3Kv7RJnajhJyl) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Cowboy](https://open.spotify.com/album/1RtKHpS30vtJn5MrWx3LuB) | 2:24 | 2023-02-10 | 2023-03-11 |
@@ -193,7 +195,7 @@
 | [From The Hill](https://open.spotify.com/track/1k92uboBqSFq7mjUYhxbjl) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [From The Hill](https://open.spotify.com/album/1zSOkxK3AgqU2ldlfWLKYL) | 3:21 | 2022-10-07 | 2023-05-23 |
 | [FSU](https://open.spotify.com/track/53HwLBMjXoJxxUO4QkjBta) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FSU](https://open.spotify.com/album/0XO3RJGqJwWmAfP1X7gxhr) | 2:12 | 2022-08-26 | 2022-11-22 |
 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-24 |  |
-| [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 | 2023-10-20 |  |
+| [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 | 2023-10-20 | 2023-12-07 |
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 | 2022-09-20 |
 | [Garbage People](https://open.spotify.com/track/3l0K7EhHhTRTCaaZoBzM43) | [Wimps](https://open.spotify.com/artist/6eNVMKPPp3KDkErLErP98E) | [Garbage People](https://open.spotify.com/album/58WgYLrPjz02XrWj4JXLEf) | 2:17 | 2021-10-07 | 2022-01-26 |
 | [Gettin' In The Way](https://open.spotify.com/track/1roUIc6mekrsZXcTveHhBe) | [Cooper T](https://open.spotify.com/artist/7t6usUnb0OZ2r0pi3nvdmB) | [Gettin' In The Way](https://open.spotify.com/album/3DOtxFD10eo8rhwGyvKjDC) | 3:38 | 2023-02-10 | 2023-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mark Battles
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,651 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,642 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 |
 | 50 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
 
-Snapshot ID: `MCwzOThjYzFiZjIwYzhjODVkYzllZjAyMmQxZmYzZGY1ZjU4MmJiNGNj`
+Snapshot ID: `MCw1YWE2MjAyYjk1YTg2MDA4ZTVhN2E4ZWNiMDMxMzMzMjg3NzJkM2Vj`

@@ -2,7 +2,7 @@
 
 ### [theremin](https://open.spotify.com/playlist/37i9dQZF1DX9FavclD4O50)
 
-> Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Cover: Clara Rockmore
+> Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
 110 songs - 7 hr 17 min
 

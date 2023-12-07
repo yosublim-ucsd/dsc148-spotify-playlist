@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,511 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,520 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 70 | [O Poder Dessa Garota](https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/443D9lOS7CSKSgR0RxaxdV) | 2:16 |
 | 71 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 |
 | 72 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
-| 73 | [Alma Nua](https://open.spotify.com/track/6qqCZliorzZbHI6HWM02g1) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Alma Nua](https://open.spotify.com/album/4c3RFBaJWDJqwTJ5gLUz8p) | 3:23 |
-| 74 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 |
+| 73 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 |
+| 74 | [Alma Nua](https://open.spotify.com/track/6qqCZliorzZbHI6HWM02g1) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Alma Nua](https://open.spotify.com/album/4c3RFBaJWDJqwTJ5gLUz8p) | 3:23 |
 | 75 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
 | 76 | [Vontade De Morder](https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Vontade De Morder](https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1) | 2:34 |
 | 77 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 97 | [Bebé](https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Bebé](https://open.spotify.com/album/4e7N0a611cO24FwRxD0Rdp) | 2:32 |
 | 98 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
 | 99 | [Onde Anda](https://open.spotify.com/track/6pjwF61Itkaucau73UsfhK) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Onde Anda](https://open.spotify.com/album/2BLhHO8nvFd0rzzCEiJxd0) | 2:57 |
-| 100 | [Cê Não Tem Noção](https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Cê Não Tem Noção](https://open.spotify.com/album/6E8YCf91O1AaKIh0B1MlL0) | 2:39 |
+| 100 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 
-Snapshot ID: `MCxjYzJkMDA4MDM2ZmYyYmY0MGQzMzVjMDAwMDg4ZWQyNmE5YjczMDMx`
+Snapshot ID: `MCw3NTBjOTYwODhhNjIyMWJmYmM5NzM2MGVjMWMwNTVjMWMxMzE0ODZh`

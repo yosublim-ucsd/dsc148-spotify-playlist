@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,296 songs - 2 day 9 hr 7 min
+1,297 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,7 +988,7 @@
 | [SAFARI](https://open.spotify.com/track/3TJm53n5DqltPYnn8UYquo) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [SAFARI](https://open.spotify.com/album/7wcI75BwXH6Qw8xSsqOymb) | 2:22 | 2023-07-06 | 2023-11-03 |
 | [Sagrada Familia](https://open.spotify.com/track/3ocHxXV8fDZ1R6iMoEIYan) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:49 | 2021-12-16 | 2022-02-11 |
 | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-06-01 | 2023-09-08 |
-| [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-18 |  |
+| [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-18 | 2023-12-07 |
 | [SALT TILL SOCKER](https://open.spotify.com/track/77rmhU3V7x6SxMnxpYt9Gh) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29) | [SALT TILL SOCKER](https://open.spotify.com/album/4jWEG47HF6fhWpY5sNwNqv) | 2:25 | 2021-12-16 | 2022-01-20 |
 | [Sand I Skorna \(feat\. Niklas von Arnold\)](https://open.spotify.com/track/00g7bDWZe0xxFpiLIjp1MC) | [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [Sum Comfort](https://open.spotify.com/artist/5bGZv8x0se674jzkn0rnfP), [Niklas von Arnold](https://open.spotify.com/artist/4qxxOhWbUE0N7Nn6yfIjbQ) | [Backspeglar II / Sand I Skorna](https://open.spotify.com/album/2P4QQrDxGeeQ1nQcyz6WrX) | 2:56 | 2022-12-15 | 2023-01-20 |
 | [SANDEN](https://open.spotify.com/track/0AYy1Pbcqp1PTnlDdHrmHt) | [GIDDE](https://open.spotify.com/artist/52wHLsSLdkVMLYo2ZXP8y6) | [SANDEN](https://open.spotify.com/album/4Wr7MPl8uUVtUhId9xqWVx) | 2:30 | 2022-11-17 | 2022-12-02 |
@@ -1186,6 +1186,7 @@
 | [Tvärtom](https://open.spotify.com/track/1Q6ty9DMFaALbaQaKuvnLN) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 3:00 | 2021-12-16 | 2022-01-14 |
 | [Tvåsexti](https://open.spotify.com/track/6Zbmr1KlfVx5CfHDdrT512) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Tvåsexti](https://open.spotify.com/album/6jul84m1q6Ck5MTJIlY34w) | 2:20 | 2022-01-27 | 2022-02-18 |
 | [TWIX](https://open.spotify.com/track/3leGqOSDoiJqhuhHlV7Un1) | [E22an](https://open.spotify.com/artist/5aLczxuSoCqE1UiszdV1Bl) | [TWIX](https://open.spotify.com/album/3ESwT1g0UBBGlzmS1UU3j2) | 2:33 | 2023-03-30 | 2023-05-12 |
+| [Twogunkid](https://open.spotify.com/track/0kxi8BDubqlXhRqTkuIZe7) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [En paus från internet \- Del 1](https://open.spotify.com/album/3kda21yqjtpYe0WRwgOk00) | 2:16 | 2023-12-06 |  |
 | [Tysta leken](https://open.spotify.com/track/32BFjf1Uhyz54qAx9scBim) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Tysta leken](https://open.spotify.com/album/0uaftvwxlm9zFohzHIylME) | 2:41 | 2023-04-06 | 2023-04-28 |
 | [Tänk lite](https://open.spotify.com/track/0lbKDnUwHjdaHJy1pEVubl) | [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM) | [Tänk lite](https://open.spotify.com/album/3NCqRiZBi1309PIMH8l1cC) | 2:24 | 2022-06-17 | 2022-08-26 |
 | [Umbrella](https://open.spotify.com/track/2NxGqx9mDpTzXQJtbYguwi) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Umbrella](https://open.spotify.com/album/3tVqsIxWjX7ZzahPgEAQeE) | 2:17 | 2022-06-22 | 2022-09-09 |

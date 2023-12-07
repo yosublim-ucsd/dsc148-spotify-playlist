@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-255 songs - 13 hr 10 min
+256 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-11-21 |  |
 | [At Night](https://open.spotify.com/track/2D9XsitJsf4ZpzLAeLDFVd) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [At Night](https://open.spotify.com/album/6kImPQjtwRJAuPzZWu3mNT) | 3:09 | 2023-11-02 |  |
 | [Back To You](https://open.spotify.com/track/4j94DHbP7qELZIltB7VI8K) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD) | [Back To You](https://open.spotify.com/album/1QJO7W9Wm3GHqL5hNU5fFT) | 3:14 | 2022-09-19 | 2023-01-28 |
+| [Bad](https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76) | [Liah](https://open.spotify.com/artist/3iFO7dwzsgNbmsaW59HrAi) | [Bad](https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ) | 2:44 | 2023-12-06 |  |
 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 | 2022-07-29 | 2023-09-09 |
 | [Be Better](https://open.spotify.com/track/0uVBiWEyBsnMvdpkU8LgkM) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Be Better](https://open.spotify.com/album/6UTSEM42sSiteieJFcb896) | 2:40 | 2022-07-29 | 2023-03-18 |
 | [Be Free](https://open.spotify.com/track/74qL4Hr4I8papcKrpTVAw5) | [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Be Free](https://open.spotify.com/album/24flI70Ab8EV3KEOAfYFHT) | 3:49 | 2023-07-10 |  |

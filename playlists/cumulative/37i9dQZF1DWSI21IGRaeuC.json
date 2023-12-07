@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 370000,
       "name": "buss it.",
       "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
@@ -3034,6 +3034,24 @@
       "duration_ms": 516643,
       "name": "Purple Edge",
       "url": "https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ"
+    },
+    {
+      "album": {
+        "name": "fall '23",
+        "url": "https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "put it to music.",
+      "url": "https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo"
     },
     {
       "album": {

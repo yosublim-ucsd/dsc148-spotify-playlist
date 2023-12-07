@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,029 likes - 150 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,269 likes - 150 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [DEAD OR ALIVE](https://open.spotify.com/track/6uMOXc2gcS8ARTNhfAaCf3) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [DEAD OR ALIVE](https://open.spotify.com/album/17F4eTY0xjfaJPXgjlxEQx) | 2:40 |
 | 150 | [Echo](https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid) | 3:18 |
 
-Snapshot ID: `MCwyZTY4MzNmMWMyZGRjOWUwY2Q0YzFjMWZiNmRjNTkzMjZjMGFiZTU5`
+Snapshot ID: `MCw3MTdiNGNhNWNkNjdlNmJiN2JkYmU0OGQ1MTUyMWJlNjViNmU4M2M4`

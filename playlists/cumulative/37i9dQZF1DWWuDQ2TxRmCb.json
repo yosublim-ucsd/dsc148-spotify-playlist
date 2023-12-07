@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Ram Setu",
+        "url": "https://open.spotify.com/album/6ujIVNd7bGsjw8M9zR9u1O"
+      },
+      "artists": [
+        {
+          "name": "Narci",
+          "url": "https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309347,
+      "name": "Ram Darshan",
+      "url": "https://open.spotify.com/track/4m1svY251GrG58AlTujyLy"
+    },
+    {
+      "album": {
         "name": "Rangi Saari",
         "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
       },
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 265124,
       "name": "Saawariyo",
       "url": "https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV"

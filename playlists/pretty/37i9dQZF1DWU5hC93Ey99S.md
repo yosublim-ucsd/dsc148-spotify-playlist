@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,232 likes - 307 songs - 16 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,448 likes - 307 songs - 16 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 184 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(with Lyrah\)](https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck) | 2:26 |
 | 185 | [up all night](https://open.spotify.com/track/1McYEltUcrkVnR6G547NDT) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [up all night](https://open.spotify.com/album/700Q6CYdEBvPoT9Q2gIEdi) | 3:21 |
 | 186 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
-| 187 | [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 |
+| 187 | [Better When You're Here](https://open.spotify.com/track/0AZ6ZpE8iYo7jNgxzOkyeb) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/5NtdPmn8NXO9WyzsypleZd) | 3:20 |
 | 188 | [Right Back](https://open.spotify.com/track/2tCTOwYL6cCTfUVrs7R1rk) | [CHEEKS](https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9) | [Right Back](https://open.spotify.com/album/3y2TSW4nIQBT810itSLXSY) | 2:03 |
 | 189 | [Wasted On You](https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:23 |
 | 190 | [RWEOK?](https://open.spotify.com/track/2YhEJoYccyE5wpdAkZWbPk) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [RWEOK?](https://open.spotify.com/album/1ohdPPIK0Gl5F3oJafcwgQ) | 2:27 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 306 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 307 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCxhM2QwYjI1YjI4MGYyZjkwMzVmZjZmMWMzNjQyOGYzZTliZWE3NmRi`
+Snapshot ID: `MCxmY2M0ODUwMThlOTZiYTQzOWE5YmE5MDlmNzAzYThjNWU0YjQyMjEy`

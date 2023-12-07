@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,458 likes - 75 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,479 likes - 75 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 33 | [All One Word \- Trilucid Midnight Mix](https://open.spotify.com/track/0yaAmDB0ujSdrtyXBfOXK8) | [Nick Muir](https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp), [Trilucid](https://open.spotify.com/artist/2T6mOFQ2RGAypMuKtIg9ic) | [All One Word \(Trilucid Remixes\)](https://open.spotify.com/album/5bxL4LfDCaMF3BNvMRW7os) | 3:32 |
 | 34 | [Before Dawn](https://open.spotify.com/track/2xQlxIUPoTRhTtFF8pNMex) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Before Dawn](https://open.spotify.com/album/6BtnWBnM7RwpOQbRJayni3) | 3:18 |
 | 35 | [Never Alone \- Patrice Bäumel Remix](https://open.spotify.com/track/5ZgaPxJRrPyIhbpeytTFYO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Never Alone \(Patrice Bäumel Remix\)](https://open.spotify.com/album/188eX1q8qweT4oRiFBZqSd) | 8:56 |
-| 36 | [Bosque Verde \- Radio Edit](https://open.spotify.com/track/03rLGvMkzl9qtHJ6ceYGe4) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/0LlBZ4D5LFzC22FfiDHwWJ) | 3:23 |
+| 36 | [Bosque Verde \- Radio Edit](https://open.spotify.com/track/7o8GY5XYAHCaBSb8yRVr3S) | [DiMO \(BG\)](https://open.spotify.com/artist/0gp2EoMHGiVIho7ba9nPmw), [Dan Tanev](https://open.spotify.com/artist/2nfwsX5i1HNXkoJjRiGMpi) | [Bosque Verde \(Radio Edit\)](https://open.spotify.com/album/71m3f0lXBHQd7oa6fqCAGZ) | 3:23 |
 | 37 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 38 | [Wastelands](https://open.spotify.com/track/5YtSWp5JNIavIxYJAt6DPx) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Wastelands](https://open.spotify.com/album/2rZP17BCBNBEn2JE5y4XMJ) | 7:21 |
 | 39 | [Become Better](https://open.spotify.com/track/0MBNKhRmKXHoDLjlN0FAtL) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Become Better \- EP](https://open.spotify.com/album/4O48eSWVxpjHjxQ8rJDf0z) | 5:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 74 | [Pollinator \- Gary Beck Remix](https://open.spotify.com/track/5uwHkb5Ong0kxJBYQK0EX6) | [Miki Litvak](https://open.spotify.com/artist/6QRdqy21TUEV3fh1DKa8Jw), [Gary Beck](https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC) | [Pollinator](https://open.spotify.com/album/235uXSHoXGzwhsKMcTngsK) | 7:07 |
 | 75 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 |
 
-Snapshot ID: `MCxiMjU3NWU5MzgzOTVkOWYyYWRlOGY3ZDc4MjA3ZDY3MmI3YTg2NWMy`
+Snapshot ID: `MCxmMTM4NjRiODNlNzg5ODVlMDhiMmJjMGYxYmNiYTgwM2RkN2ZhNTJl`

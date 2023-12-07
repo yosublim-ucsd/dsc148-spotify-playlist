@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
-  "num_followers": 134046,
+  "num_followers": 134045,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGY4NDY0ZTYxNGIzMzUyZmVlZDViNjhmN2NmOGVmZjY4MGI1MDIx",
+  "snapshot_id": "MCw1OWJiNjVjMzhmZjA5MjJkOGI1NzBiNzA5MzQyZDA3Mzk4MjRlNWVh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 225879,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "DESBARATA",
-        "url": "https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 166809,
-      "name": "Desbarata",
-      "url": "https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "De Brujas, Peteneras y Chachalacas",
         "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 203265,
       "name": "Ven Vamos",
       "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "DESBARATA",
+        "url": "https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 166809,
+      "name": "Desbarata",
+      "url": "https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt"
     },
     {
       "added_at": "2023-12-01 05:01:00",

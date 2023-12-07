@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: SleepyThePrince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,049 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,047 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Piquete](https://open.spotify.com/track/0wWmVsEX8dZXyj6B3XClMg) | [DJ Elly Chuva](https://open.spotify.com/artist/2adJx6rZZSnspvzNpnTBPS), [Séketxe](https://open.spotify.com/artist/1llbEdnZfbxmlXqrF6A2rW) | [Piquete](https://open.spotify.com/album/7gdt8zM2uVJoRj5jIIXUZ1) | 3:08 |
 | 100 | [Pecado](https://open.spotify.com/track/4X4GElslGhtmrFWcGyp0a4) | [Pilitchi](https://open.spotify.com/artist/4nDlpuHI1FcvN8RVEiixY4) | [Pecado](https://open.spotify.com/album/7dl9Z3heNAdJEJayrLALOU) | 3:22 |
 
-Snapshot ID: `MCwwNGQ5MzUxZWQ0ZDQ5ZGYxZDViZGRhYmYwYzE1OTYwNThhOWI3MmE2`
+Snapshot ID: `MCw4MmI4OGM2MDhmZDc0ZDRjZmJjNzIzYjZiMDg0MjliNzdiNWVhYjNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Corine
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,596 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,602 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 15 | [Hard to be a girl](https://open.spotify.com/track/6YSU1sOKhpGYtWL8m90Wwo) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Moping in style : A tribute to Adam Green](https://open.spotify.com/album/4jGsgNYVVLiWCoavpK5ye4) | 2:39 |
 | 16 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 |
 | 17 | [Palmiers rivières](https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Palmiers rivières](https://open.spotify.com/album/77MDV4dCwp4U5ctsl6K5gL) | 2:53 |
-| 18 | [Oddy](https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Oddy](https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA) | 3:33 |
+| 18 | [Oddy](https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Oddy](https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA) | 3:32 |
 | 19 | [L'imbécile](https://open.spotify.com/track/0RcaTIQtHiyJjlllYoCLAz) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Carambolages](https://open.spotify.com/album/5UF124cCkyEHbPzvlPFJMp) | 2:40 |
 | 20 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 |
 | 21 | [The Secret \(The Promise Version\)](https://open.spotify.com/track/5QjzQ7asp6pyZ3vA5hdJdH) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Secret \(The Promise Version\)](https://open.spotify.com/album/5WljcXBf72wU7zEVumjKiT) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [C'est OK](https://open.spotify.com/track/1YRLb0tT7RyTkicGKsUnfY) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [C'est OK](https://open.spotify.com/album/5KknyKEbHqlAEfkB64HGHe) | 3:04 |
 | 50 | [Qu'est\-ce que j'y peux](https://open.spotify.com/track/7ovsYgRg8uaBuhIeONj1Jm) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Qu'est\-ce que j'y peux](https://open.spotify.com/album/2lXxEzMqi73YHiFywsxz3k) | 3:08 |
 
-Snapshot ID: `MCw0NWIxZGFiOThlMjFkNDk4OGMxNDAzMWJlOTViMWQyMjI0ZmUwYTg2`
+Snapshot ID: `MCwwMDc5NTRlZmRiMmU5NjFkNzUxZTMzYTA3ODI2ZjU1OTcxYmYxNzYz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: ATBO) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: DKZ) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 178080,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/6tIIC3K58Sk6Et8KYmynez"
@@ -1228,6 +1228,24 @@
       "duration_ms": 188226,
       "name": "BOBBIN",
       "url": "https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif"
+    },
+    {
+      "album": {
+        "name": "Boogie Man",
+        "url": "https://open.spotify.com/album/31nJ079frWEmOsFtYepjdw"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Boogie Man",
+      "url": "https://open.spotify.com/track/0aAXKcYMXMfWXwWoRgcIma"
     },
     {
       "album": {
@@ -2017,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "THE WORLD EP.FIN : WILL",
+        "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198365,
+      "name": "Crazy Form",
+      "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
+    },
+    {
+      "album": {
         "name": "5cean : V",
         "url": "https://open.spotify.com/album/1NgdPUNmHXBpDaRN3jrQLS"
       },
@@ -2230,6 +2266,24 @@
       "duration_ms": 221533,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ"
+    },
+    {
+      "album": {
+        "name": "CLEF X CREW, 5th Story",
+        "url": "https://open.spotify.com/album/2gRhh3CUUiVgGABJvKYTNx"
+      },
+      "artists": [
+        {
+          "name": "DKZ",
+          "url": "https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217194,
+      "name": "Daymoon [CLEF X DKZ]",
+      "url": "https://open.spotify.com/track/3dBCJvCE1QKqOE64nNPlEN"
     },
     {
       "album": {
@@ -2738,7 +2792,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 172720,
       "name": "Fadeaway",
       "url": "https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv"
@@ -2918,7 +2972,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 211933,
       "name": "Feel me",
       "url": "https://open.spotify.com/track/3hUmntqwqsjG9PJjih9OIT"
@@ -3546,7 +3600,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 191038,
       "name": "Good Boy Gone Bad",
       "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
@@ -6256,7 +6310,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 191680,
       "name": "On And On",
       "url": "https://open.spotify.com/track/2xeVbsz4Ab2cFX9TgOoZA0"

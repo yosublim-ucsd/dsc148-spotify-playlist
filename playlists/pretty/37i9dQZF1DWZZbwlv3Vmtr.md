@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,905 likes - 300 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,057 likes - 300 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 299 | [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 |
 | 300 | [Fly with me to the moon](https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Fly with me to the moon](https://open.spotify.com/album/3om1Wcwqb7qMFegOjcRPog) | 2:09 |
 
-Snapshot ID: `MCwyMmZiOTFmMjRkNzU4ODJlMGFmYmNjOGYwMDg4NDAzMjI3MGY0YzE3`
+Snapshot ID: `MCw0NWEzODYxZmExNzRmMjJhMDFjYjY3Y2MzMGUyMWM2Mjg0ODQ3NzI3`

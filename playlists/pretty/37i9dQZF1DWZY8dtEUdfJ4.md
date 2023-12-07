@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,661 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,711 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 7 | [Nathalie \- Remasterisé en 2011](https://open.spotify.com/track/1ul9ZfkWWeAjA3HiRwK4Op) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Gilbert Becaud \(1964\-1966\) \[2011 Remastered\] \[Deluxe version\]](https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF) | 4:05 |
 | 8 | [Comme un garçon](https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/0K0bH9JWURyXFrSK4ZYmUM) | 3:16 |
 | 9 | [Elle était si jolie](https://open.spotify.com/track/6m0s4XFYpE1h63NaP6hBA9) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Ma vie](https://open.spotify.com/album/31gjzol0KDwj04HxJ4mXqN) | 2:55 |
-| 10 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 |
+| 10 | [Aline](https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA) | 2:49 |
 | 11 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 12 | [L'amour l'amour l'amour](https://open.spotify.com/track/7jVHD6NiChZGX887WrNBrH) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour \- Le meilleur de Mouloudji](https://open.spotify.com/album/1B1HpA7dQsnlhub9eiFIgo) | 3:01 |
 | 13 | [Le métèque](https://open.spotify.com/track/2s87dcsw2KjuhDnVqJ98Cu) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [Le métèque](https://open.spotify.com/album/3VONguYy652EV7N4KFH4LF) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 49 | [D'aventures en aventures](https://open.spotify.com/track/5Dy32R8nCKyoPcLlfkwbNW) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 3:30 |
 | 50 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 |
 
-Snapshot ID: `MCwxN2UzZjMyMTMwN2Q3MmQ4NWFlNDgzYTQzMzE0ZjhiYzExNDE2MmFl`
+Snapshot ID: `MCxjM2E2ODAxMTk1NDdhNzg1OTM4MDhhYjFmOWZkZDFlOTA5NWMzYzIz`

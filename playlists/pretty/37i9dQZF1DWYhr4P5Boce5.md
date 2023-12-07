@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,686 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,693 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 33 | [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 |
 | 34 | [Thank God I Got Her](https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Let It Fly](https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9) | 3:15 |
 | 35 | [God Gave Me You](https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [What We Want, What We Get](https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6) | 3:48 |
-| 36 | [Gave You My Heart](https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Gave You My Heart](https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D) | 3:07 |
-| 37 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 |
+| 36 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 |
+| 37 | [Gave You My Heart](https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Gave You My Heart](https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D) | 3:07 |
 | 38 | [Girl of My Dreams](https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [No Turning Back](https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh) | 3:29 |
 | 39 | [It's Our Time](https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [It's Our Time](https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ) | 3:41 |
 | 40 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 65 | [Going Together](https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
 | 66 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 67 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
-| 68 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 |
-| 69 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg) | 2:48 |
-| 70 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
+| 68 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg) | 2:48 |
+| 69 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
+| 70 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 |
 | 71 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 |
 | 72 | [Pretty Beautiful](https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:07 |
 | 73 | [Easy](https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:31 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 82 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
 | 83 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 | 84 | [Loving You Is Easy](https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away](https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA) | 3:08 |
-| 85 | [Perfect Love](https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Perfect Love](https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd) | 3:21 |
+| 85 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
 | 86 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 |
-| 87 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
+| 87 | [Perfect Love](https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Perfect Love](https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd) | 3:21 |
 | 88 | [Love Will Never Fail \(I Corinthians 13\)](https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY) | [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Love Will Never Fail](https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h) | 3:19 |
 | 89 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
 | 90 | [Fallin In Love](https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 4:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 96 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 | 97 | [SHE](https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [SHE](https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH) | 3:44 |
 | 98 | [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 |
-| 99 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 |
-| 100 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
+| 99 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
+| 100 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 |
 
-Snapshot ID: `MCwzMGI0NjhlMDA2ZTg2ZGY1ZmFmMzZhODIyN2Q2OGU3OWEwODkzM2E4`
+Snapshot ID: `MCw3OGQzY2MxZmU4YjRkMTRjZjgwMDA5MzY3MWQwYWQwODc5Y2VlZmFh`

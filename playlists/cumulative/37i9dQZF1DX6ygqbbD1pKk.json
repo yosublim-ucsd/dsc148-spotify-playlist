@@ -82,6 +82,28 @@
     {
       "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Michael Cruz",
+          "url": "https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Bajo el mar",
+      "url": "https://open.spotify.com/track/1CK7FnJxNSZrQhEPLVVa2N"
+    },
+    {
+      "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2fRrKgbvod0kb4eRDknk3M"
       },
       "artists": [
@@ -208,7 +230,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 171706,
       "name": "Cenicienta",
       "url": "https://open.spotify.com/track/3SV96ua0nZtnKYtE5tT8Ai"
@@ -374,6 +396,24 @@
       "duration_ms": 214613,
       "name": "Dos Oruguitas",
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
+          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121670,
+      "name": "El Latido de mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2qZ9pgLM4mJ1hy4lfe8Zi9"
     },
     {
       "album": {
@@ -649,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Tarzan (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Hijo de Hombre",
+      "url": "https://open.spotify.com/track/52lhNRar6eRdHwcO4u5KkY"
+    },
+    {
+      "album": {
         "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
       },
@@ -891,6 +949,28 @@
     },
     {
       "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Alanna Ubach",
+          "url": "https://open.spotify.com/artist/2QIv0RotNtHfzzp1jzJsJ4"
+        },
+        {
+          "name": "Antonio Sol",
+          "url": "https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5fBcRH4CnYTaFMQtM0JtSl"
+    },
+    {
+      "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
       },
@@ -1083,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Wish (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Mi deseo",
+      "url": "https://open.spotify.com/track/709XWSlEWADDCM5ulzix4i"
+    },
+    {
+      "album": {
         "name": "Mi deseo (De \"Wish: El Poder de los Deseos\")",
         "url": "https://open.spotify.com/album/4x7IYIGk0Py8WgMDA54wtU"
       },
@@ -1094,7 +1192,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 205480,
       "name": "Mi deseo - De \"Wish: El Poder de los Deseos\"",
       "url": "https://open.spotify.com/track/3719i1h2B5k5AS5jlCCgST"
@@ -1287,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Teen Beach 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145413,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/51xUartdwQzXmtrwHyXRVp"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
       },
@@ -1316,7 +1432,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 157106,
       "name": "Part of Your World (Reprise)",
       "url": "https://open.spotify.com/track/1aYdJNJT480JVCPYayogh6"
@@ -1646,7 +1762,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 205480,
       "name": "This Wish - From \"Wish\"",
       "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
@@ -1852,7 +1968,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 63586,
       "name": "Vanessa's Trick",
       "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
@@ -1910,7 +2026,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 205053,
       "name": "Vive tu historia",
       "url": "https://open.spotify.com/track/6wDIVxNFMKCeSNgV8A3S8z"
@@ -1950,7 +2066,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 242160,
       "name": "What Dreams Are Made Of",
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
@@ -2120,10 +2236,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 288333,
       "name": "\u00bfD\u00f3nde Lo Habr\u00e9 Puesto?/B\u00edbbidi-B\u00e1bbidi-Bu",
       "url": "https://open.spotify.com/track/16zRwu3cbIqGtSJY249y3J"
+    },
+    {
+      "album": {
+        "name": "Wish (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Vilchis",
+          "url": "https://open.spotify.com/artist/78lQS3nl34iuoGN8zs7KMi"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "\u00bfY as\u00ed van a agradecer?",
+      "url": "https://open.spotify.com/track/5Jk0nculuFLEoYICvby4zD"
     },
     {
       "album": {
@@ -2138,7 +2272,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-07",
       "duration_ms": 194160,
       "name": "\u00bfY as\u00ed van a agradecer? - De \"Wish: El Poder de los Deseos\"",
       "url": "https://open.spotify.com/track/5M9zwd58rRXEHOeUxJMEKY"

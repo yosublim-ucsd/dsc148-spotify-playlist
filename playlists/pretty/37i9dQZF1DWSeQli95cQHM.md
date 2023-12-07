@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,541 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,555 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Dance n' Casa](https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP), [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 5:57 |
 | 50 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
 
-Snapshot ID: `MCwwZWJmZjRhZTMxMjFmMTNiOTUzNTAxOTZjZjU1M2NjNWY3MjYzZDYw`
+Snapshot ID: `MCxjMDViY2I0MmYwNzcxMGRkMzM1NTA5M2RkY2UzNTViMGNlYjg1NzFk`

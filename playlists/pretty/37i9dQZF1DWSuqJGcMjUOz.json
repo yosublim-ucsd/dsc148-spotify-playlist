@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3892,
+  "num_followers": 3891,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTA5YjNkNWU4ODBlOWEyZTc5ZDA2OTYxN2YwNWYwYjIwMjY3OGJk",
+  "snapshot_id": "MCwwNTU5MWY1ZGQ1YmM3YzQ4NDQ4ZGU5NWNjN2FmNjVhNWFkZjkyMDVh",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pour la vie enti\u00e8re",
-        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
-      },
-      "artists": [
-        {
-          "name": "blond",
-          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Pour la vie enti\u00e8re",
-      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
         "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 162206,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pour la vie enti\u00e8re",
+        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Pour la vie enti\u00e8re",
+      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT"
-      },
-      "artists": [
-        {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Je Suis Canicule",
         "url": "https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 224415,
       "name": "3.5",
       "url": "https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 173843,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "L'\u00e9norme chien tr\u00e8s gentil",
         "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 179384,
       "name": "L'\u00e9norme chien tr\u00e8s gentil",
       "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 173843,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "D\u00e9bloquer",
+        "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
+      },
+      "artists": [
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        },
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "D\u00e9bloquer",
+      "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Emmanuelle",
         "url": "https://open.spotify.com/album/6cCZfRWhDASJ01M6s1ZrQ4"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 192653,
       "name": "Quoi-ce tu fais \u00e7a pour?",
       "url": "https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "D\u00e9bloquer",
-        "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
-      },
-      "artists": [
-        {
-          "name": "Ya Cetidon",
-          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
-        },
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "D\u00e9bloquer",
-      "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Nous aurons toujours le ciel",
         "url": "https://open.spotify.com/album/359QSNmwW8lrYF98xYH7CE"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 272490,
       "name": "Pauvre & malheureux",
       "url": "https://open.spotify.com/track/1ti7F59demudfrzZebTins"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Grand Bleu",
-        "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
-      },
-      "artists": [
-        {
-          "name": "Baie",
-          "url": "https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW"
-        }
-      ],
-      "duration_ms": 175388,
-      "name": "Grand Bleu",
-      "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 165973,
       "name": "Diff\u00e9rent de toi",
       "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Grand Bleu",
+        "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
+      },
+      "artists": [
+        {
+          "name": "Baie",
+          "url": "https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW"
+        }
+      ],
+      "duration_ms": 175388,
+      "name": "Grand Bleu",
+      "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Exposition individuelle",
-        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
+        "name": "La fable de la grenouille dor\u00e9e",
+        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
       },
       "artists": [
         {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+          "name": "Vend\u00f4me",
+          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Le temps des morts",
-      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
+      "duration_ms": 224000,
+      "name": "03.04.19",
+      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La fable de la grenouille dor\u00e9e",
-        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
+        "name": "Exposition individuelle",
+        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
       },
       "artists": [
         {
-          "name": "Vend\u00f4me",
-          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 224000,
-      "name": "03.04.19",
-      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
+      "duration_ms": 206306,
+      "name": "Le temps des morts",
+      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Fr\u00e9quence violence",
-        "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
-      },
-      "artists": [
-        {
-          "name": "Pogo Car Crash Control",
-          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Cristaux liquides",
-      "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "\u00c0 pr\u00e9sent",
         "url": "https://open.spotify.com/album/4yCghmiyhqVae5mRq402br"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 291220,
       "name": "\u00c0 pr\u00e9sent",
       "url": "https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Fr\u00e9quence violence",
+        "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
+      },
+      "artists": [
+        {
+          "name": "Pogo Car Crash Control",
+          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Cristaux liquides",
+      "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2079,6 +2079,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Elle \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "OneNessa",
+          "url": "https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "Or",
+      "url": "https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2123,26 +2143,6 @@
       "duration_ms": 181286,
       "name": "Lance-Flamme Lance-Glace",
       "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Elle \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
-      },
-      "artists": [
-        {
-          "name": "Parazar",
-          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
-        },
-        {
-          "name": "OneNessa",
-          "url": "https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "Or",
-      "url": "https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI"
     },
     {
       "added_at": "2023-05-25 23:46:15",

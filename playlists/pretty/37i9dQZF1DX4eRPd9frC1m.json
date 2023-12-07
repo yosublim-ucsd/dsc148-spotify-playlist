@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2591447,
+  "num_followers": 2591566,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTgxMzBlNmM0MTJiODU2MDlmZDY1NzhkOGU3NmQzMmRmMDU0NTcy",
+  "snapshot_id": "MCxlMTFlZmFlOTQ2NTIxMmYxOGY5YTM1YmIyYjNjZDQ5YjRmMmRkNmU2",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "WRATH OF THE WICKED",
-        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Medyk",
-          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "SAVE U NOW",
-      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Rainbow Brain",
         "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 127900,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "WRATH OF THE WICKED",
+        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "SAVE U NOW",
+      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Cheatcode",
-        "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Cheatcode",
-      "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
         "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 178285,
       "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
       "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Cheatcode",
+        "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Cheatcode",
+      "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
     },
     {
       "added_at": "2023-12-01 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 36566,
+  "num_followers": 36709,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjUyYTFlMzFmNGY1M2JjMTYwOGYwNWZjM2Y3MmEzMWMzY2ZlOTMx",
+  "snapshot_id": "MCxmNTNhOTA0NzkwMTQ5NTMwMmU2MWNkYjgxMDI0NjgxMWFkYzI4ZTk0",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "NEO",
         "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 436551,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
-      },
-      "artists": [
-        {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Ivar the Boneless",
         "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Sentimental Affair",
+        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+      },
+      "artists": [
+        {
+          "name": "Supreme Rhythm",
+          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Myself & The Dark",
+      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "I Rise Again",
         "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 556673,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -787,46 +803,6 @@
       "duration_ms": 413910,
       "name": "Nelisiwe",
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        }
-      ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Dark Snow",
-        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
-      },
-      "artists": [
-        {
-          "name": "The Rudeman",
-          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
-        },
-        {
-          "name": "Keegs Bantom",
-          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
-        },
-        {
-          "name": "Bones",
-          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
-        }
-      ],
-      "duration_ms": 367124,
-      "name": "Dark Snow - Bones Remix",
-      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -863,6 +839,30 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Dark Snow",
+        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
+      },
+      "artists": [
+        {
+          "name": "The Rudeman",
+          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
+        },
+        {
+          "name": "Keegs Bantom",
+          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
+        },
+        {
+          "name": "Bones",
+          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+        }
+      ],
+      "duration_ms": 367124,
+      "name": "Dark Snow - Bones Remix",
+      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
     },
     {
       "added_at": "2023-11-23 23:00:00",

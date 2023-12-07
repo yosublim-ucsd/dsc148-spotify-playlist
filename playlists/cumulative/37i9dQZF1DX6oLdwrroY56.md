@@ -4,13 +4,14 @@
 
 > The leaders in the lively Pinoy indie scene\. Cover: SOS
 
-71 songs - 4 hr 45 min
+72 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2023-10-13 |  |
 | [A Way Out](https://open.spotify.com/track/7Cey4kxrNuZfFz07mFsPPE) | [Eliza Marie](https://open.spotify.com/artist/2J15J7lLY74L3uG6mvPVnc) | [A Way Out](https://open.spotify.com/album/7JRPFxQUKZGQJAmwq5FT0w) | 3:00 | 2023-10-13 | 2023-10-28 |
-| [ANXIOUS HEART](https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ) | 3:26 | 2023-10-13 |  |
+| [ANXIOUS HEART](https://open.spotify.com/track/49Izqy2bYpnFKnlGNQlRbE) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/6g5Y5wbjT5tyTEPicGAL5O) | 3:26 | 2023-11-18 |  |
+| [ANXIOUS HEART](https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ) | 3:26 | 2023-10-13 | 2023-12-07 |
 | [around in the](https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [around in the](https://open.spotify.com/album/6aSAHI9k9BZMy7ApRQyLQv) | 3:24 | 2023-10-27 |  |
 | [Asan Ang Gana Ko](https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:05 | 2023-11-10 |  |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-13 |  |

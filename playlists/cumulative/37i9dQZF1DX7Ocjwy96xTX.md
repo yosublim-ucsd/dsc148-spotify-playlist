@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-257 songs - 15 hr 32 min
+260 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Forgotten, Fossilized, Archaic](https://open.spotify.com/track/61YVCATCLSWCAh7xDNN7Kw) | [Autumn's Grey Solace](https://open.spotify.com/artist/0f00mZvxmxeuhmxEot8LlP) | [Within The Depths Of A Darkened Forest](https://open.spotify.com/album/5Gk1Trdz04ixib0LV4LIdy) | 4:43 | 2023-10-31 |  |
 | [gardenside](https://open.spotify.com/track/4poUtXSEEq14Nl00q9Yr0P) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [gardenside](https://open.spotify.com/album/5gVEAhuFA0zVlAtn4eYxPV) | 2:36 | 2023-11-24 |  |
 | [gave you my all](https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l) | [juggler](https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik) | [gave you my all](https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp) | 3:13 | 2023-07-13 | 2023-09-30 |
+| [Gemini \- Edit](https://open.spotify.com/track/5TLez0HNjgJw4s9JiLG3Fc) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Gemini \(Edit\)](https://open.spotify.com/album/44JPjtUuLNNK5bVXAEo0P6) | 3:58 | 2023-12-06 |  |
 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/7wmtiUjDliyuM6dA2OSAnZ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 3:51 | 2022-09-02 | 2023-07-14 |
 | [Ghost](https://open.spotify.com/track/4yiCdDyDuTCDpvy3ppYIP1) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2) | 4:12 | 2023-10-31 |  |
 | [Ghostbuster](https://open.spotify.com/track/0D9CLVWQHoMcaghl8baO8A) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Ghostbuster](https://open.spotify.com/album/6nNmaGy7205WBLsoVcW1xa) | 2:42 | 2022-09-02 | 2023-05-25 |
@@ -204,7 +205,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-02 |  |
 | [Rose In A Glass](https://open.spotify.com/track/0oACcecqRIuP0vi2wvBq5o) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 2:58 | 2022-09-16 | 2023-09-30 |
 | [Rummage \(feat\. Orbiting Human Circus\)](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 | 2023-11-10 |  |
-| [Sanningsspegel](https://open.spotify.com/track/7ka22HCGENiIbGqdJCrvB5) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:23 | 2023-11-27 |  |
+| [Sanningsspegel](https://open.spotify.com/track/7ka22HCGENiIbGqdJCrvB5) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:23 | 2023-11-27 | 2023-12-07 |
 | [Schwarzschild Drainhole](https://open.spotify.com/track/4UApIN6oyiQoGbl1j7TGmN) | [缺省](https://open.spotify.com/artist/32g75UA59s48aBhDpSEtdO) | [California Nebula](https://open.spotify.com/album/4GrpuTC5tCnxVmgfu9ZISQ) | 7:27 | 2023-10-31 |  |
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-06-02 | 2023-08-19 |
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-09 | 2023-09-30 |
@@ -225,9 +226,10 @@
 | [spiral](https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [spiral](https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry) | 2:15 | 2023-08-25 |  |
 | [Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Capsule Losing Contact](https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq) | 1:58 | 2023-07-21 |  |
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2022-09-02 |  |
+| [Steal The Air](https://open.spotify.com/track/3uIdz7rkBAvKVQY1WC4R1U) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Slide Back](https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV) | 3:34 | 2023-12-06 |  |
 | [Still Dark](https://open.spotify.com/track/6onAMsBb1Peu1Tlyw8Qpjx) | [Pure Hex](https://open.spotify.com/artist/3QWUxLJqRsyGpjdKo4xeJN) | [Still Dark](https://open.spotify.com/album/6U18oWqglloxQUzhAbj79Y) | 3:19 | 2023-07-13 | 2023-08-26 |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2022-10-24 | 2022-10-29 |
-| [STRESS TEST](https://open.spotify.com/track/7FcI2IZQ0iNgFfitw69FQe) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [STRESS TEST](https://open.spotify.com/album/08Fm8W3qXewhwX8H0o68o4) | 2:33 | 2023-09-29 |  |
+| [STRESS TEST](https://open.spotify.com/track/7FcI2IZQ0iNgFfitw69FQe) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [STRESS TEST](https://open.spotify.com/album/08Fm8W3qXewhwX8H0o68o4) | 2:33 | 2023-09-29 | 2023-12-07 |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-12 | 2023-07-14 |
 | [Sunlife](https://open.spotify.com/track/0O4HZnB8i1dKevyXWboItC) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Nothing](https://open.spotify.com/album/4r2zLy7AW0JfTKiBjWQGMy) | 4:13 | 2023-10-13 |  |
 | [Tag](https://open.spotify.com/track/0LrVtzdvd2ojEuFMUURlA1) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Tag](https://open.spotify.com/album/66ULdjZjnE8Dbq6XBLzPt0) | 3:10 | 2022-09-02 | 2023-05-25 |
@@ -257,6 +259,7 @@
 | [Wildflower](https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 3:39 | 2022-09-02 | 2022-12-13 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-04-14 | 2023-05-06 |
 | [wonder if u care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if u care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 | 2023-06-02 |  |
+| [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-12-06 |  |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-10-07 | 2022-10-29 |
 | [Would It Kill You At All](https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Would It Kill You At All](https://open.spotify.com/album/169zbd4B9wyNVMcknh3zcC) | 2:47 | 2022-09-30 | 2022-10-13 |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-16 | 2022-10-01 |

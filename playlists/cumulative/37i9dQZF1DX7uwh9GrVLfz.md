@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-671 songs - 1 day 11 hr 57 min
+672 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Go For It](https://open.spotify.com/track/6WEC4dCGAuMfrUMoF55BD4) | [ANGER FLARES](https://open.spotify.com/artist/1KT2rYCKxq9UQ6tqnXLhSP) | [Punk Rock Compilation, Vol​​.1](https://open.spotify.com/album/5L0WzRvc31A7qaHd3yDdHK) | 1:53 | 2023-01-24 | 2023-04-19 |
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
+| [Goodbye Tears](https://open.spotify.com/track/3V27KAsj2RJ9b3SqXlI6JX) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [Gift from God E.P.](https://open.spotify.com/album/1MQCFv8QcQI6p8A68KA7tp) | 2:31 | 2023-12-05 |  |
 | [Go自愛](https://open.spotify.com/track/0aHUgBSLIN8xVMY08qbHEk) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 1:48 | 2023-03-21 | 2023-05-05 |
 | [grasp](https://open.spotify.com/track/3yJ0cJV9vuck34ZVrmxr84) | [tact](https://open.spotify.com/artist/6UB1bq3uHbizha44REbJDL) | [dawning](https://open.spotify.com/album/6YGlPSQbU1z1VlTOSnCHxN) | 2:29 | 2023-11-07 |  |
 | [Hang a Combat master Detonics](https://open.spotify.com/track/7ijeLjKSfusg4355Z5NFJG) | [HARD CORE DUDE](https://open.spotify.com/artist/5sxrRJgTakYBRhfmOij0Cs) | [Highstandard Custom Derringer](https://open.spotify.com/album/6PgABLhd0BV5VXM0eeFYES) | 1:44 | 2023-11-07 | 2023-11-22 |
@@ -511,7 +512,7 @@
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
 | [こいのうた](https://open.spotify.com/track/2KPBIjQLE3tOGYQi6dyJEk) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 5:56 | 2022-05-19 | 2023-11-07 |
 | [これでいいのだ](https://open.spotify.com/track/5YEUcZpNQH5OujYr2vTdgE) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [これでいいのだ](https://open.spotify.com/album/6wwcWh2rUlOKDdjxtai1hF) | 3:29 | 2022-05-12 | 2022-07-29 |
-| [さよなら涙](https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [神様からの贈物 e.p.](https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY) | 2:31 | 2023-12-05 |  |
+| [さよなら涙](https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [神様からの贈物 e.p.](https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY) | 2:31 | 2023-12-05 | 2023-12-07 |
 | [さよなら絶望](https://open.spotify.com/track/0dWL3BuWTwwLiyrnUUcVER) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 1:57 | 2022-05-12 | 2023-03-22 |
 | [しあわせになる](https://open.spotify.com/track/0LeFkyQOiMMyeiUpuhL2HF) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [しあわせになる](https://open.spotify.com/album/5d6jAVVrGPqrXOHeDZTeyJ) | 1:29 | 2022-05-24 | 2022-07-15 |
 | [その羅針盤](https://open.spotify.com/track/6cPCs9eghvxx4hMKvLT7U0) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [その羅針盤](https://open.spotify.com/album/3p7JjQ91l4lG4Xtcc5dDb2) | 3:46 | 2022-05-17 | 2022-07-23 |

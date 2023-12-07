@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,886 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,888 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sondela](https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Sondelani](https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j) | 5:30 |
 | 2 | [Emlanjeni](https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA) | 4:02 |
-| 3 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 |
+| 3 | [Ndilinde](https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 5:52 |
 | 4 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
 | 5 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
 | 6 | [Hamba](https://open.spotify.com/track/5M0J5ZOt7LPeZrHs9G7c7R) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Soul In Mind](https://open.spotify.com/album/5ceGC90YEocJP4lXy5ifzV) | 5:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 74 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 |
 | 75 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 |
 
-Snapshot ID: `MCwwMjBjNjEzYWJjMjhmZDdiZjg0OWUxYmQ3NDI4ZTVmMmM3YzNmNmYx`
+Snapshot ID: `MCwyNjhkYmFkYmJkNjE4ZDBmMmI1ZmZkMmU3ZGIyMGM5Y2I5MTM3MmUy`

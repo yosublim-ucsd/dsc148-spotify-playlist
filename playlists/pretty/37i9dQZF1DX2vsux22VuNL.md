@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Thiaguinho, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,223 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,226 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [AINDA TÔ NO PROCESSO](https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ) | [AINDA TÔ NO PROCESSO](https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN) | 3:31 |
 | 80 | [Madrugada](https://open.spotify.com/track/7C5w2OYf3yJKulOiRnTCNR) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL) | [Madrugada](https://open.spotify.com/album/0r5mDYKIYX2ES3EZf3TGKM) | 2:48 |
 
-Snapshot ID: `MCw5MzAyYzUwNzI2MTEzMGU2NDU2ZmMyMTZiOGQ0MjI3NDY5MTc3ZGY1`
+Snapshot ID: `MCxkNGVmMDA5M2Q4OTEwMzdjNWE2NDcwNzQ5MWU4Yjk1MDQ4MzI0MTBh`

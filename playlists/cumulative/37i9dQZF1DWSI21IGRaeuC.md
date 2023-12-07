@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-255 songs - 20 hr 47 min
+256 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-10-27 |  |
 | [Bouncer](https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Bouncer](https://open.spotify.com/album/6JPQh64ynH13iEoRDdSMqK) | 4:01 | 2022-06-03 | 2022-07-31 |
 | [Bring It Back](https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bring It Back](https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k) | 5:41 | 2023-06-09 |  |
-| [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 | 2023-03-17 |  |
+| [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 | 2023-03-17 | 2023-12-07 |
 | [C'mon](https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [C'mon](https://open.spotify.com/album/1JFfBxteXBD0yGNbfENRdA) | 4:00 | 2023-08-04 | 2023-09-17 |
 | [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 | 2023-05-26 | 2023-11-07 |
 | [CDWU](https://open.spotify.com/track/7BAx0TzD2eE7amrzEZH1Hg) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [CDWU EP](https://open.spotify.com/album/04CqfNadncHwswivDrT9xM) | 3:02 | 2022-07-22 | 2022-07-29 |
@@ -164,6 +164,7 @@
 | [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 | 2023-09-08 | 2023-11-18 |
 | [Provenance](https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Provenance](https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk) | 6:41 | 2023-02-17 |  |
 | [Purple Edge](https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ) | [Helmet](https://open.spotify.com/artist/1ed0tZqOmgMtPwfCeTy8fz) | [Purple Edge EP](https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW) | 8:36 | 2022-11-11 | 2022-11-24 |
+| [put it to music.](https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '23](https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7) | 6:46 | 2023-12-01 |  |
 | [Rain](https://open.spotify.com/track/42EMEx5UEHL7NTeTx4IG8b) | [Tone Troy](https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31) | [Rain](https://open.spotify.com/album/6AouW9IqWg1GscmYMbrB2a) | 3:07 | 2023-08-25 | 2023-09-24 |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2022-06-03 | 2022-09-11 |
 | [Ramona](https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 7:03 | 2023-03-17 | 2023-05-23 |

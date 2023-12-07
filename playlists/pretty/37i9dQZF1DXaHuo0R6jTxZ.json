@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 99146,
+  "num_followers": 99236,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzhhYmE5NjM5YWY1YzBhM2IyNTJhMWFiMGJlNThiZjJmNGM5M2U5",
+  "snapshot_id": "MCw4MTNkZGQ2YjBiNTIxMTA0MzcxZTc2ZjE0Yjk3YjNhMjJjZjg5MWEx",
   "tracks": [
     {
       "added_at": "2023-09-15 13:43:10",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Ba'Ad Al Hob",
-        "url": "https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A"
-      },
-      "artists": [
-        {
-          "name": "Kadim Al Sahir",
-          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
-        }
-      ],
-      "duration_ms": 349333,
-      "name": "Kolak Ala Badhak - Remastered 2000",
-      "url": "https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "let me rai",
         "url": "https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 257066,
       "name": "Douha alia",
       "url": "https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Ba'Ad Al Hob",
+        "url": "https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        }
+      ],
+      "duration_ms": 349333,
+      "name": "Kolak Ala Badhak - Remastered 2000",
+      "url": "https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Je Suis Malade",
-        "url": "https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN"
+        "name": "Oriental Party",
+        "url": "https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX"
       },
       "artists": [
         {
-          "name": "Alaa Zalzali",
-          "url": "https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11"
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
         }
       ],
-      "duration_ms": 248006,
-      "name": "Akli Tar",
-      "url": "https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5"
+      "duration_ms": 214573,
+      "name": "Lola El Saher",
+      "url": "https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe"
     }
   ],
   "unique_name": "90s Arabic Hits",

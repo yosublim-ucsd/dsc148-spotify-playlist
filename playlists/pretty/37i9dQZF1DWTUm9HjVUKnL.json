@@ -1,13 +1,89 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 218841,
+  "num_followers": 218852,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjQ5MTk3MmVhMTI0NjRhOTZjMWJlMmZhMjdjZDIzMzZkNTFhNzBh",
+  "snapshot_id": "MCxjNjhhNjZkY2EyNTA3NzE0ZTMxMTAyMDVkYjU4YzMzMjVmMzk1N2I1",
   "tracks": [
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "Astronaut - Spotify Singles",
+        "url": "https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 139054,
+      "name": "Astronaut - Spotify Singles",
+      "url": "https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "Losing You - Spotify Singles",
+        "url": "https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "bshp",
+          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
+        },
+        {
+          "name": "Joe Cleere",
+          "url": "https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA"
+        }
+      ],
+      "duration_ms": 180127,
+      "name": "Losing You - Spotify Singles",
+      "url": "https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "Itu Aku",
+        "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 254337,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
+    },
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {

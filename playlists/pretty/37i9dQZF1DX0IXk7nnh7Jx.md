@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:5Q8asiEUYLobc6DvKIsqOP">Claudia Isaki</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,596 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,652 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 139 | [Valuable](https://open.spotify.com/track/1u5XKMWtmxG297TuKOAARj) | [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Zach Paradis](https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy) | [Valuable](https://open.spotify.com/album/7cbZJmbtvmYM6xaphUhsq9) | 2:59 |
 | 140 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 |
 | 141 | [Holy Ghost \(Fill this Room\)](https://open.spotify.com/track/46PXwYrUp1N4tD4wHpc6Z9) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw) | [Holy Ghost \(Fill This Room\)](https://open.spotify.com/album/3NUMws3RWvLkimq7rXTOZQ) | 3:10 |
-| 142 | [Holy Spirit](https://open.spotify.com/track/6Od7lmGKfLnNC9hSPUjgyK) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E), [Hanna Watson](https://open.spotify.com/artist/5Yfwc4KCsD8D5VUaLIsdHq) | [Holy Spirit](https://open.spotify.com/album/20iz4kRVmenkUmcbfnAOog) | 3:27 |
+| 142 | [Holy Spirit](https://open.spotify.com/track/6Od7lmGKfLnNC9hSPUjgyK) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E), [Hanna Watson](https://open.spotify.com/artist/7MCyWyNMoU55UA8C6elcap) | [Holy Spirit](https://open.spotify.com/album/20iz4kRVmenkUmcbfnAOog) | 3:27 |
 | 143 | [Mansion](https://open.spotify.com/track/4hGS6gPDtD3mdlxtJ0CDSw) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Mansion](https://open.spotify.com/album/2X1JUJkZbB7up0IanA7uDm) | 3:51 |
 | 144 | [Boomerang](https://open.spotify.com/track/1D6A1gOwZaf5rZmV3XtmUL) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Boomerang](https://open.spotify.com/album/2dvR8zKSsYhmlzIFEIavqp) | 3:01 |
 | 145 | [Time and a Place](https://open.spotify.com/track/6bcyPKKFnZV9slZh9XnFEv) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [The Harvest](https://open.spotify.com/album/60YVj0sHClGPNLYs3dXMei) | 3:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Give Me Strength](https://open.spotify.com/track/5TbZjlHGBMKlMGrsO5B3Oj) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Give Me Strength](https://open.spotify.com/album/0GBym7dLcOeW7GKmS2fMDZ) | 2:59 |
 | 150 | [Broken](https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Broken](https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof) | 3:15 |
 
-Snapshot ID: `MCw3MmIwOGM2MWExNWU1NjI3ODlkYzE5MDkyN2Y1ODM5YjgxMDJjMTY4`
+Snapshot ID: `MCxjODFiZjUzZWI2MDQxNzNjYzVlZjFkOTRlM2QwNjMwZjJmNGE4ODAx`

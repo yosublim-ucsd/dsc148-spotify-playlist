@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,770 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,814 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 | 34 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
 | 35 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 |
 
-Snapshot ID: `MCwwMjFlNTBiZGNmZTc1MGUzYjE5NDVhZDFhNzFhMGRhYzlmOWFlMzM4`
+Snapshot ID: `MCxlMDdiMjJmYjQwYzQwNTdjZDBmMTY4NWM5NmNlZjUxM2I1NjE2ZTMy`

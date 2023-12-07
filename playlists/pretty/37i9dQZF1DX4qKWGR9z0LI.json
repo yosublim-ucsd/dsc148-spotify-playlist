@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gian Marco & Daniela Darcourt",
-  "num_followers": 1837302,
+  "num_followers": 1837324,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTExZjM3MmYwNGY3ZDYxZjlhMTFkYzA4OTVmYzUyYTY1NWQwN2Qw",
+  "snapshot_id": "MCwwM2U0YmNlYzEyMDZjMTY4NzM2OGI4ZWZiNDQzYTY4MDlkOWNiYjFh",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 228239,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Pare Cochero",
         "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 217773,
       "name": "Con la Punta del Pie",
       "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "El Arrollador",
-        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 294440,
-      "name": "Salsa Con Coco",
-      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
+        "name": "El Arrollador",
+        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
         }
       ],
-      "duration_ms": 228239,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"
+      "duration_ms": 294440,
+      "name": "Salsa Con Coco",
+      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Por Culpa de Alguien",
-        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        }
-      ],
-      "duration_ms": 327563,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Esta Vida (Salsa Version)",
         "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 223439,
       "name": "Esta Vida (Salsa Version)",
       "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Por Culpa de Alguien",
+        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
+      },
+      "artists": [
+        {
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        }
+      ],
+      "duration_ms": 327563,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Por Tu Placer",
         "url": "https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         }
       ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     }
   ],
   "unique_name": "Salsa Nation",
