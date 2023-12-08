@@ -4,7 +4,7 @@
 
 > El junte entre las estrellas del dance global y del urbano latino\. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo
 
-69 songs - 3 hr 38 min
+70 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Loko](https://open.spotify.com/track/0RxPc5LlsiQ0TP5q2n1f6e) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loko](https://open.spotify.com/album/2oS5FXOAiDN6e6vEwkDLLZ) | 2:43 | 2021-12-31 | 2023-11-28 |
 | [Make It Hot](https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Make It Hot](https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC) | 2:48 | 2021-12-31 |  |
 | [Mala Intención \- Remix](https://open.spotify.com/track/2n2H23tlvMNjjgmGUH0hA9) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Mala Intención \(Remix\)](https://open.spotify.com/album/1LbfCCYjPCVjbph8ZHhbmc) | 3:04 | 2021-12-31 | 2022-07-29 |
-| [Maldad \(with Maluma\)](https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Maldad \(with Maluma\)](https://open.spotify.com/album/5HpsxOzKIW482MRcfK4K7Z) | 2:48 | 2021-12-31 |  |
+| [Maldad](https://open.spotify.com/track/33R8NSJ3eRCwWsnKDxxTrl) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Neon Future IV](https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4) | 2:48 | 2021-12-31 |  |
+| [Maldad \(with Maluma\)](https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Maldad \(with Maluma\)](https://open.spotify.com/album/5HpsxOzKIW482MRcfK4K7Z) | 2:48 | 2021-12-31 | 2023-12-08 |
 | [Me Siento Bien \(feat\. Alex Rose\)](https://open.spotify.com/track/2ibv5jEtgPySM3bk5V6Vt8) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Me Siento Bien \(feat\. Alex Rose\)](https://open.spotify.com/album/0WlWIPNRkXrw5xN6rFmIeB) | 3:13 | 2021-12-31 | 2023-08-04 |
 | [Mi Gente \- Alesso Remix](https://open.spotify.com/track/4uLObuemgRYF5b96UpqjH3) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Mi Gente \(with Willy William\) \[Alesso Remix\]](https://open.spotify.com/album/52AwG4XGwdtoQmjuDX0Pdh) | 3:33 | 2021-12-31 | 2022-07-29 |
 | [Mi Gente \- Alesso Remix](https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Mi Gente \(Alesso Remix\)](https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g) | 3:33 | 2021-12-31 |  |

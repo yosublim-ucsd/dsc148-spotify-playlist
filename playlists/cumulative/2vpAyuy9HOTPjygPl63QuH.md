@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,572 songs - 3 day 17 hr 43 min
+1,573 songs - 3 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1501,6 +1501,7 @@
 | [We Drop Beats](https://open.spotify.com/track/47HQ8T7jHpb14FS1Env1BD) | [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [We Drop Beats](https://open.spotify.com/album/3eOjavq637siaUO4TpPy5r) | 3:04 | 2022-05-01 | 2022-05-14 |
 | [We Go Deep](https://open.spotify.com/track/1GStadmmc2p5hHylPWtwFq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [We Go Deep](https://open.spotify.com/album/7tL2LdDFK4AtYcqlS5cRP4) | 3:07 | 2023-09-08 | 2023-09-16 |
 | [We Got The Fire](https://open.spotify.com/track/4KGBFbXNCKNC6ZPwdhx0eq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/2YvvywJmJkenbmYQAAkkzy) | 3:21 | 2022-09-21 | 2022-09-24 |
+| [Weapon](https://open.spotify.com/track/2chLUwM4ofzZxhXIUcVl1P) | [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [Matheo Velez](https://open.spotify.com/artist/6MxFlTSSCQgopzNmiEsaxU) | [Weapon](https://open.spotify.com/album/41WivKU0HKTRVQt59MfTzq) | 2:30 | 2023-12-07 |  |
 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 | 2023-11-03 | 2023-11-10 |
 | [Welcome](https://open.spotify.com/track/0iGWGCq5IcGjhyoY16FfRH) | [RAFA MOON](https://open.spotify.com/artist/4KNx3tce4EeLLjuYbNi9LD) | [Welcome](https://open.spotify.com/album/13elfZOEM1WNulyWofALHI) | 5:56 | 2023-12-04 |  |
 | [Welcome To Reality](https://open.spotify.com/track/5oWPQpv9x811gPEDaX74Jd) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Welcome To Reality](https://open.spotify.com/album/01iIi34TpDqaxY64cjfzsB) | 2:59 | 2023-05-19 | 2023-06-10 |

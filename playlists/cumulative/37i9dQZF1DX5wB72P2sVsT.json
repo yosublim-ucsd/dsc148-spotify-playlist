@@ -637,6 +637,32 @@
     },
     {
       "album": {
+        "name": "I Can Feel",
+        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "I Can Feel",
+      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
+    },
+    {
+      "album": {
         "name": "in my room",
         "url": "https://open.spotify.com/album/3GecyACQiSEuh9khIQd4V7"
       },
@@ -670,6 +696,24 @@
       "duration_ms": 192619,
       "name": "It Burns",
       "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
+    },
+    {
+      "album": {
+        "name": "It's a Fine Day",
+        "url": "https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152608,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp"
     },
     {
       "album": {
@@ -1058,7 +1102,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 210000,
       "name": "On My Love - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o"
@@ -1440,7 +1484,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 121000,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
@@ -1524,7 +1568,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 171211,
       "name": "The Magic Key",
       "url": "https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa"
@@ -1630,6 +1674,28 @@
       "duration_ms": 176693,
       "name": "Weak - Nicolas Julian Remix",
       "url": "https://open.spotify.com/track/77rxRq4cs2HsaFiozPPt8d"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {

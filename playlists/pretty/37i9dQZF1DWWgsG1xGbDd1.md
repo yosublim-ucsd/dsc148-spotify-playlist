@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,378 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,436 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 26 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 |
 | 27 | [Simmer Down](https://open.spotify.com/track/2qUkkHORN5objY895DYs55) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:52 |
 | 28 | [Happy Feelings](https://open.spotify.com/track/5cERnwvQmaeAFNaJavhw1X) | [Dub Specialist](https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:42 |
-| 29 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
-| 30 | [Drum Song](https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU) | [Devon "Soul" Russell](https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:53 |
-| 31 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
-| 32 | [I'm The Ruler](https://open.spotify.com/track/0naH4jtOlEiZYuuIrBdyIj) | [Anthony Rocky Ellis](https://open.spotify.com/artist/3UPeHT1ujrnMl7mOto6xTA) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:19 |
+| 29 | [Drum Song](https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU) | [Devon "Soul" Russell](https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:53 |
+| 30 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
+| 31 | [I'm The Ruler](https://open.spotify.com/track/0naH4jtOlEiZYuuIrBdyIj) | [Anthony Rocky Ellis](https://open.spotify.com/artist/3UPeHT1ujrnMl7mOto6xTA) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:19 |
+| 32 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 | 33 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
 | 34 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
 | 35 | [Bad Treatment](https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV) | [Cannon & The Soul Vendors](https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Things a Come Up to Bump](https://open.spotify.com/track/1V8TACzzOdmBYczCBBoKwt) | [The Bassies](https://open.spotify.com/artist/0iRfV89CEYWMpwoYb1SUIZ) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 2:34 |
 | 60 | [How Could I Live](https://open.spotify.com/track/4dY12uO1KLfh79TUyZVSEN) | [The Sharks](https://open.spotify.com/artist/5YUnGJyBSdPLoJExvs7qHF) | [Studio One Lovers](https://open.spotify.com/album/0RAY8NtmtYwIEh6G5avSyi) | 3:11 |
 
-Snapshot ID: `MCxkMTA3NzE4NWYxNzNjOWNjNjJhMjY3ODkxM2Y2N2QwZWMzODk0NGNm`
+Snapshot ID: `MCxiZDdiYjljMThlYjliOTAwOTEwMmU2NDIzZTJlODhkMjEwYmY3NDEw`

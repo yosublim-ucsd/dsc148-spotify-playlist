@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,022 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,074 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 41 | [Call You Back](https://open.spotify.com/track/2l6j9yYZnYOQebfdTM2Rl9) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Heroes Of House, Vol\. 3](https://open.spotify.com/album/0ZbBYY4VDk6m7Kb8Bk4KYx) | 7:09 |
 | 42 | [Life Is Back](https://open.spotify.com/track/2HA6ZAwH7g6fy0ebKozdgi) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:24 |
 | 43 | [Bad Days](https://open.spotify.com/track/6xGmqj6RSKnK3of7pkllWY) | [Lee Wells](https://open.spotify.com/artist/0Q9UEU4EuF5eSWSMeIxCtX), [Monoky](https://open.spotify.com/artist/35fqprYtwqebSkrjHVXfxw) | [Bad Days](https://open.spotify.com/album/7JzhxIjvSsacGn7ereB4WO) | 6:15 |
-| 44 | [Best Friend](https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:04 |
+| 44 | [Best Friend \(feat\. NERVO, The Knocks & ALISA UENO\)](https://open.spotify.com/track/6twQJ2KMwNzODCY0HzXP2E) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:04 |
 | 45 | [Youthful Kids](https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Youthful Kids](https://open.spotify.com/album/6PcXHDSWeTupdzdabiuYZj) | 2:59 |
 | 46 | [Dream Of You](https://open.spotify.com/track/4Xicxvhcw2yx5wEDjeS1CE) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG) | [Dream Of You](https://open.spotify.com/album/0nd6FSymivA5n9UCbWK8fO) | 2:50 |
 | 47 | [Ego Death](https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Ego Death](https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO) | 4:03 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 51 | [Do U Wanna?](https://open.spotify.com/track/3JVyi1g3zaAHL9k0CRwghg) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Love\. Death\. Funk?](https://open.spotify.com/album/2BeUzAPjKS5r0NMbmezusM) | 2:51 |
 | 52 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 |
 
-Snapshot ID: `MCxhMTVlZWEyMTJkNmJjOGYzZjdkZmZkYmIwMmM5ZWJkMzA4Mjg0NWE3`
+Snapshot ID: `MCw2ZjRlZTg5Y2U5MmIwMDcxOGNkMDQzY2M4YzBhNzg1YmE1ZDVhOTM5`

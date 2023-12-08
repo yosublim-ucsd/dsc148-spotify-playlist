@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-501 songs - 1 day 8 hr 29 min
+502 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [Of Fury](https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Of Fury](https://open.spotify.com/album/5NcU0oTUBbLjgBGI5aVYKP) | 4:47 | 2021-12-17 |  |
 | [Of the Abyss](https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [...And I Return To Nothingness \- EP](https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk) | 5:43 | 2021-12-17 |  |
 | [Omega](https://open.spotify.com/track/3YxSM482jeTSrlnSjdFFeW) | [Abyss Above](https://open.spotify.com/artist/0scPLkLLKJ1iEr4cnCVQ9m) | [Doombound](https://open.spotify.com/album/5YugQGshaYkmmqFpSF7IdL) | 3:53 | 2021-12-31 | 2022-07-27 |
-| [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 |  |
+| [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 | 2023-12-08 |
 | [Order of the Black Worm](https://open.spotify.com/track/3i31Z6cHzFGew8GcQ0TNMi) | [Let It Rot](https://open.spotify.com/artist/5p9HWdsMLHKU8PCj5UWeiU) | [Order of the Black Worm](https://open.spotify.com/album/0PGkBzdVl5w2fFvmLZXaZn) | 3:16 | 2021-12-17 | 2022-05-26 |
 | [Orphan Of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan Of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 |  |
 | [Outrun](https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN) | 3:45 | 2022-10-27 |  |
@@ -403,6 +403,7 @@
 | [Smoldered](https://open.spotify.com/track/6WvDSdmAlcO9h2FWtsSYjN) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe), [Chaney Crabb](https://open.spotify.com/artist/5XyQ4rRjIxhVpaOrXlZ1jJ) | [Smoldered](https://open.spotify.com/album/3nzyvzWv4ePq1gsxUUAWF0) | 5:12 | 2021-12-31 | 2022-07-29 |
 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 | 2022-01-14 | 2022-06-25 |
 | [Solace and Serenity](https://open.spotify.com/track/54a1FNgetgOdZEsD6PlO6s) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [E](https://open.spotify.com/album/7FXcpxnTHupS7uwEc8S5uC) | 4:37 | 2021-12-17 | 2022-07-03 |
+| [Solace and Serenity](https://open.spotify.com/track/6wvQHYHz8bqkIDSSE23eyM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [Slow Decay](https://open.spotify.com/album/1kHaQkPY41hT6N6espwLdn) | 4:37 | 2023-08-16 |  |
 | [Song of Courage](https://open.spotify.com/track/08MoIG52suSMunVtYB4rs8) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Song of Courage](https://open.spotify.com/album/4NsOIiejj3z08OrDKnjl4o) | 4:51 | 2022-01-28 | 2022-04-09 |
 | [Spirit Side Dreaming](https://open.spotify.com/track/2tSD44vMbqFgVpsUFJgtCl) | [Solution .45](https://open.spotify.com/artist/4g9Ml8899yUDi8YLnfZxmi) | [Spirit Side Dreaming](https://open.spotify.com/album/4OMhHRFQis9LzRmqxtHRjx) | 3:46 | 2021-12-17 | 2022-07-25 |
 | [Spiteful Nature](https://open.spotify.com/track/6bLT2cXYDuDuaHcgQcXjep) | [I Shall Devour](https://open.spotify.com/artist/0FucnPgykhKoPTybQL5Qkm) | [The Misanthropist](https://open.spotify.com/album/3OlDPRhqOBpxp9JNxLFj3w) | 3:37 | 2021-12-17 | 2022-02-02 |

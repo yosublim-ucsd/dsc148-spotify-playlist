@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-168 songs - 13 hr 4 min
+171 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [En Sång](https://open.spotify.com/track/0fyB1ggn91AFAvKRgXcwnT) | [Ulla Fluur](https://open.spotify.com/artist/3jLzatCzHIGYop5o0pTbTr), [Leo Lindberg](https://open.spotify.com/artist/77OBGeL75ilbMCJRKxskvI), [Mikael Augustsson](https://open.spotify.com/artist/7AvWzDJSurr6NnKK0YKi8W), [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc), [Chris Montgomery](https://open.spotify.com/artist/7B6FpoS1Dk7vKXz3S60HTW) | [En Sång](https://open.spotify.com/album/6WEPyeBKl5XrbXvB7K1Q7s) | 4:15 | 2023-03-02 |  |
 | [Farao](https://open.spotify.com/track/6yy8adiVaB2FPkV97Wv94E) | [Oddjob](https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n) | [25](https://open.spotify.com/album/0nsOpCL7HP8NMxvYBi3nsz) | 6:00 | 2022-04-21 |  |
 | [Farliga Drömmar](https://open.spotify.com/track/23i74kwXZMUUsxIP3wvOmA) | [Anna Kruse](https://open.spotify.com/artist/7os9mry8s8wK2Kj5rgbv21), [Edith Södergran](https://open.spotify.com/artist/7zouZ1FLIrGjXS6JJoq3QT) | [Champagne Fötter](https://open.spotify.com/album/3gIB3lRXCnWHk0V3lOTVnQ) | 3:44 | 2021-11-08 | 2023-01-20 |
+| [Fem](https://open.spotify.com/track/5QbTP5pMrdjkxbRDxbnqkC) | [Christopher Cantillo Miljonprojektet](https://open.spotify.com/artist/6gBxnwxD3tt6HHdECgkjRR) | [Fem](https://open.spotify.com/album/5d5O3x26xphGr8brDm28xf) | 6:06 | 2023-12-08 |  |
 | [Figures and Movement](https://open.spotify.com/track/28nXpyO1xCeMmy3T06x7sS) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [Figures and Movement](https://open.spotify.com/album/4X7gbUVbwFh3C9hjayeY89) | 4:03 | 2022-12-01 |  |
 | [Figures and Movement](https://open.spotify.com/track/42VN1BbimFSSSVXx7s7hkH) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [Figures and Movement](https://open.spotify.com/album/2dPa0t0VcGGikfDexOunqy) | 4:03 | 2021-11-08 | 2022-12-24 |
 | [Fly Me to the Moon](https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Fly Me to the Moon](https://open.spotify.com/album/7nnqCmDX4RMB54ANQFXfu1) | 3:32 | 2021-11-08 |  |
@@ -92,6 +93,7 @@
 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 | 2021-11-08 |  |
 | [Lochiel's warning](https://open.spotify.com/track/5cJPtbO8KZ8T9E8QNztPto) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO) | 5:48 | 2021-11-08 |  |
 | [Love in Its Splendor](https://open.spotify.com/track/41qmKHMIrsew65y5uhzg6O) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Love in Its Splendor](https://open.spotify.com/album/5ENQwG6uYyKw183C0G0PDW) | 6:34 | 2023-09-22 |  |
+| [Lugn i Stormen](https://open.spotify.com/track/0eZBiX6xeNcOnP7T2DXnIp) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg) | [La La Lars IV](https://open.spotify.com/album/4gJWzcTebAoSDjdirNSXxv) | 3:04 | 2023-12-08 |  |
 | [Lullaby in Green](https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Layers of Life](https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh) | 4:46 | 2023-03-02 |  |
 | [L’Est](https://open.spotify.com/track/1Ptjlatj2888WP6e2xkb4B) | [Oddjob](https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n) | [Kong](https://open.spotify.com/album/2hVca2VwJ2mauheWFaQs0v) | 4:44 | 2021-11-08 | 2022-07-29 |
 | [Ma](https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:47 | 2021-11-08 |  |
@@ -100,6 +102,7 @@
 | [Midsommar](https://open.spotify.com/track/3nsjwwbVLOjjBt5G2TOH3Y) | [Karl Wallmyr](https://open.spotify.com/artist/08OHaqFpoHPuOWMpn1ubRh) | [Midsommar](https://open.spotify.com/album/6t8KXvuAilzxYXm2q3j5h1) | 5:10 | 2023-09-22 |  |
 | [Min bild](https://open.spotify.com/track/0Mj8pe6EAvO6tm73gLfcCI) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [I det lilla händer det mesta](https://open.spotify.com/album/6vWDQSUaFJg9T3LDoE1YMd) | 4:54 | 2021-11-08 |  |
 | [Mjuk grupp](https://open.spotify.com/track/1tDApryJcHjivjt5oLQgKm) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Mjuk grupp](https://open.spotify.com/album/0v5eDxQGFJ9qRFRmyQxYnB) | 6:56 | 2022-10-13 |  |
+| [Monicas Vals](https://open.spotify.com/track/60avwAxyPG8ppHoLt8GQTZ) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc), [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Monicas vals](https://open.spotify.com/album/35kVDEb4E8FjjOmtP8zlom) | 2:58 | 2023-12-08 |  |
 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 | 2021-11-08 |  |
 | [Måste inte](https://open.spotify.com/track/534jGZVFl1BZ3fSL2Vvs4O) | [Liselotte Boustedt](https://open.spotify.com/artist/2j85nUcVoaN1OBEGpRtyZt) | [GRÖN TRÅD](https://open.spotify.com/album/5CD60z4soxLQmorJPeXFHQ) | 2:50 | 2023-11-24 |  |
 | [Nadar com tartarugas](https://open.spotify.com/track/4KQ6hCtH5pKk2czUyHOfpN) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Nadar Com Tartarugas](https://open.spotify.com/album/7rpJ3E7TPoVEB9e03imLRo) | 6:28 | 2023-03-16 |  |

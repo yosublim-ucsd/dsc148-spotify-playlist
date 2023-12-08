@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "3am",
+        "url": "https://open.spotify.com/album/7mZK9wCykimMtEssDlhpZ7"
+      },
+      "artists": [
+        {
+          "name": "Bronnie",
+          "url": "https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182742,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/3xIux1ZElfdLkTEDUTnk2K"
+    },
+    {
+      "album": {
         "name": "5 minutes til dawn",
         "url": "https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI"
       },
@@ -298,6 +316,28 @@
       "duration_ms": 199666,
       "name": "A Session With My Therapist",
       "url": "https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU"
+    },
+    {
+      "album": {
+        "name": "A. Hole",
+        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
+      },
+      "artists": [
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        },
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152060,
+      "name": "A. Hole",
+      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
     },
     {
       "album": {
@@ -1678,7 +1718,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 190611,
       "name": "By The Time You're Reading This",
       "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
@@ -1804,7 +1844,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 226551,
       "name": "Candy Apple",
       "url": "https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh"
@@ -2966,7 +3006,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 196086,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/61Ty6v8l6KMOqHv9js55Xp"
@@ -4510,7 +4550,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 176670,
       "name": "God give me a car",
       "url": "https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm"
@@ -4836,7 +4876,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 183248,
       "name": "Hated You All Along",
       "url": "https://open.spotify.com/track/1MgnyE2M6l2dikyRoiqcTG"
@@ -6070,7 +6110,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 145896,
       "name": "ikea",
       "url": "https://open.spotify.com/track/61AeNwWBe9C9MpRM2uG2Zq"
@@ -6298,6 +6338,28 @@
       "duration_ms": 253357,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/2LS1YcppKeHGE2fASRXYZC"
+    },
+    {
+      "album": {
+        "name": "Jokeman",
+        "url": "https://open.spotify.com/album/3JbsEMs98HOKzYMmsX6Am4"
+      },
+      "artists": [
+        {
+          "name": "CHELJI",
+          "url": "https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO"
+        },
+        {
+          "name": "Jacob Sartorius",
+          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139055,
+      "name": "Jokeman",
+      "url": "https://open.spotify.com/track/55yxVpDoJv8HVM8yRRFuCO"
     },
     {
       "album": {
@@ -9265,6 +9327,24 @@
     },
     {
       "album": {
+        "name": "SHE LOVES ME, SHE LOVES ME NOT",
+        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182014,
+      "name": "SHE LOVES ME, SHE LOVES ME NOT",
+      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
+    },
+    {
+      "album": {
         "name": "SHE'S GOTTA GO!",
         "url": "https://open.spotify.com/album/4oRU4PoaDmKrcipSk7Yq2B"
       },
@@ -10617,6 +10697,24 @@
     },
     {
       "album": {
+        "name": "Tell Her I Said Hi",
+        "url": "https://open.spotify.com/album/7Ktntaw67JA1kcqC6XkwKl"
+      },
+      "artists": [
+        {
+          "name": "Caroline Romano",
+          "url": "https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211538,
+      "name": "Tell Her I Said Hi",
+      "url": "https://open.spotify.com/track/3ihsadGcabEZtqdyRShuKs"
+    },
+    {
+      "album": {
         "name": "TELL ME THAT YOU\u2019RE OKAY",
         "url": "https://open.spotify.com/album/41d02ZUTdg1D67AAFZ8UuI"
       },
@@ -11758,7 +11856,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 188903,
       "name": "Ur Ex Gf",
       "url": "https://open.spotify.com/track/26EOid1qUGg1uApT705Swf"
@@ -12191,6 +12289,24 @@
     },
     {
       "album": {
+        "name": "When The Devil Speaks\u2026",
+        "url": "https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182197,
+      "name": "When The Devil Speaks\u2026",
+      "url": "https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"
+    },
+    {
+      "album": {
         "name": "Wires Crossed",
         "url": "https://open.spotify.com/album/2xfITxrVpJ2huuzLOoGccV"
       },
@@ -12278,7 +12394,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 168018,
       "name": "wither away",
       "url": "https://open.spotify.com/track/5Wh3fHoeTzzUxXvhqVs6Kk"

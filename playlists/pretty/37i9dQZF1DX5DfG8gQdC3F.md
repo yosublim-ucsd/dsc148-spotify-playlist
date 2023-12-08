@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from KAYTRANADA & Rochelle Jordan, Beyoncé, Sean Leon & Jessie Reyez, Dove Cameron and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,042 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,064 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Spells and Power Thoughts](https://open.spotify.com/track/1ANBmw9cKZKaEptZpR1R2Y) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Spells and Power Thoughts](https://open.spotify.com/album/3vFjzXDMFfRnhxRUTBN0CY) | 2:47 |
 | 100 | [Cigarettes](https://open.spotify.com/track/7HAD0NBufBMMzWPnwoFc4y) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Cigarettes](https://open.spotify.com/album/0zFyYAPnhb9BZGAfAcyNTx) | 2:49 |
 
-Snapshot ID: `MCw5ZWFjZjRkMWFlNGY5OGFiYjU1MzYyMTQzOGJlZjY1NzgwYzYyNDM1`
+Snapshot ID: `MCw4OWVmNDE5ZGYwODEwMDg0NTQxMjYzNzcyZDdkYzhhMmMyODRlMjU0`

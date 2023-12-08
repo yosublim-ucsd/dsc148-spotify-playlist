@@ -4,14 +4,15 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-103 songs - 4 hr 36 min
+104 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Heure Du Mat](https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [The French Mademoiselle](https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW) | 2:18 | 2021-07-26 | 2022-10-18 |
 | [7 heures du matin](https://open.spotify.com/track/4CeHrAL1fGUi94RIk3Z2H2) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [Jacqueline Taïeb](https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG) | 2:16 | 2022-06-28 |  |
+| [Aline](https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA) | 2:49 | 2022-06-28 |  |
 | [Aline](https://open.spotify.com/track/3Sju0jbR35bTfajNgbkgFy) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best of \(Collector\)](https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe) | 2:50 | 2021-07-26 | 2023-11-05 |
-| [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 | 2022-06-28 |  |
+| [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 | 2022-06-28 | 2023-12-08 |
 | [Belles belles belles](https://open.spotify.com/track/1Q6j1dx7pXzuLZLAexFWuQ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 2:12 | 2022-06-28 |  |
 | [Belles belles belles](https://open.spotify.com/track/58A0ccFbVbjAoA07ENee7k) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Master Serie Vol 1](https://open.spotify.com/album/1NxQK1XBP8kUoIv990pCEw) | 2:14 | 2021-07-26 | 2022-07-29 |
 | [Belles Belles Belles](https://open.spotify.com/track/1TrzM2nhMXA2Y7sdqncXPE) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Belles, Belles, Belles](https://open.spotify.com/album/5AKROatvEzKMHX6p5KFvyB) | 2:14 | 2022-06-28 | 2022-11-13 |

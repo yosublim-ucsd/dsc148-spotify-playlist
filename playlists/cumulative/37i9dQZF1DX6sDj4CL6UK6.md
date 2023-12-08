@@ -2,15 +2,15 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Top English songs from Asia\. Cover: Mali
+> Top English songs from Asia\. Cover: Dot.
 
-263 songs - 15 hr 15 min
+264 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 words](https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 3:30 | 2022-03-25 |  |
 | [24 X 7](https://open.spotify.com/track/56coHZPjIURSxnHfEFDMXW) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [The Jeremiah Project](https://open.spotify.com/artist/0dqDdOL1AXyEXy70M2QAcm), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Krishna Kishor](https://open.spotify.com/artist/3prbdBU7w1NADsMOoSK3xZ), [Naveen Napier](https://open.spotify.com/artist/6cb5MRs9wImoyoZjnQ8vb1), [David Joseph](https://open.spotify.com/artist/4DtuDzNNMh0AyrL2tlIwJa) | [Flavors](https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe) | 4:56 | 2022-09-09 | 2023-01-19 |
-| [52](https://open.spotify.com/track/2UJR46ZpnWkMsO43n3wup7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [52](https://open.spotify.com/album/06eYyCAXsUb8lPce8m5Kch) | 2:52 | 2023-11-14 |  |
+| [52](https://open.spotify.com/track/2UJR46ZpnWkMsO43n3wup7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [52](https://open.spotify.com/album/06eYyCAXsUb8lPce8m5Kch) | 2:52 | 2023-11-14 | 2023-12-08 |
 | [A Dog Chasing Its Own Tail](https://open.spotify.com/track/4DfmnGTcqwD5C7VtNY9AtX) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [A Dog Chasing Its Own Tail](https://open.spotify.com/album/0WFwYv6lASwvE4GfM62UxP) | 2:40 | 2022-03-25 | 2022-06-21 |
 | [A Shot of Alcohol](https://open.spotify.com/track/5RjOdVrGkXEo1hEaAlHgq4) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Prateek Kuhad](https://open.spotify.com/album/2XgppkF85xmQ2zCUqpuCjb) | 2:48 | 2022-03-25 | 2023-01-13 |
 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 | 2023-08-25 |  |
@@ -23,6 +23,7 @@
 | [Around you](https://open.spotify.com/track/3yxInFvUf3YkNbqt4UTPNZ) | [Kaxi](https://open.spotify.com/artist/2Aaz4mQGMr0iuyBE2lcfxn) | [Around you](https://open.spotify.com/album/7dhNRW5oEv6WCdRcaA3XDm) | 3:33 | 2022-03-25 | 2022-04-06 |
 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 | 2022-03-25 | 2023-05-20 |
 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 | 2022-11-23 | 2023-10-30 |
+| [Asymmetrical](https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 2:33 | 2023-12-07 |  |
 | [away.](https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [away.](https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec) | 3:25 | 2023-05-19 | 2023-05-24 |
 | [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 | 2022-03-25 | 2023-08-07 |
 | [Banana Cake](https://open.spotify.com/track/364QRc0IPz7qXUuJkUElnQ) | [Anika](https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7) | [Banana Cake](https://open.spotify.com/album/4Rggj2ueRuVX3PiXry6xpY) | 1:57 | 2023-08-23 | 2023-10-28 |
@@ -98,7 +99,7 @@
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |
 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-19 |  |
 | [High Horse](https://open.spotify.com/track/57TCZJvvp9aR2gc6NTD4OB) | [Viv & Shaz](https://open.spotify.com/artist/0HcVwSFeNSlLHDaIbod2xf), [Vivienne Pocha](https://open.spotify.com/artist/2fUE5kssQWjZs704BulUUI), [Shazneen Arethna](https://open.spotify.com/artist/7sCO08Lf7f0FHy2KEEZ5lk) | [High Horse](https://open.spotify.com/album/1BuuweRpEy3kExoCcPhZzV) | 3:39 | 2022-05-25 | 2023-01-13 |
-| [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 | 2023-10-27 | 2023-12-06 |
+| [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 | 2023-10-27 |  |
 | [Hold Me](https://open.spotify.com/track/3EnsM1Y8cEb6OLDloYhss6) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Swing](https://open.spotify.com/album/08w80ZQxYfFGVrT5p7F8xU) | 2:43 | 2023-05-24 |  |
 | [Holding On To The Hope](https://open.spotify.com/track/24IgBHkgObOvSD4A2IgW0y) | [The Colour Compound](https://open.spotify.com/artist/4KtxCWu3CoqSSHtdmdiwpu) | [Holding On To The Hope](https://open.spotify.com/album/4J7eyBtkz33Em3qI5FD1g9) | 3:22 | 2022-04-28 | 2022-05-26 |
 | [Holding Onto History](https://open.spotify.com/track/5LJPsV27A8aIPAanwLgeAx) | [krishaa](https://open.spotify.com/artist/5rZ7vrAU9rGpRtgdlpjklV) | [Holding Onto History](https://open.spotify.com/album/0yyRIcVGq7BwnvP3CN2RpU) | 4:15 | 2022-03-25 | 2022-05-23 |
@@ -138,7 +139,7 @@
 | [L.O.M.L.](https://open.spotify.com/track/7MQelLtQ66g9YiR3fbbCT8) | [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [L.O.M.L.](https://open.spotify.com/album/1NvBy15OHNgf2z7RcF2PH0) | 3:24 | 2023-01-31 | 2023-05-20 |
 | [Lemonade](https://open.spotify.com/track/29YHCfHLkqLLWcf8GhPnA0) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Mood](https://open.spotify.com/album/1KKnwcyHAvHuNkQebSgkxN) | 2:49 | 2022-03-25 | 2022-06-21 |
 | [lethal](https://open.spotify.com/track/12qmluxUw80kMqzzhIDFyA) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [lethal](https://open.spotify.com/album/1W1tJsWC5eU7S7ll2BZF7x) | 2:38 | 2023-01-17 | 2023-03-30 |
-| [Little Fingers](https://open.spotify.com/track/34wxmkF4y0BEimKcFnr0Mb) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Dancing In The Dark](https://open.spotify.com/album/4ImMgCnB7WBWFdCvBKoB7v) | 2:37 | 2023-11-14 |  |
+| [Little Fingers](https://open.spotify.com/track/34wxmkF4y0BEimKcFnr0Mb) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Dancing In The Dark](https://open.spotify.com/album/4ImMgCnB7WBWFdCvBKoB7v) | 2:37 | 2023-11-14 | 2023-12-08 |
 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 | 2023-04-30 |  |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-03-25 | 2023-05-04 |
 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 | 2023-05-19 |  |

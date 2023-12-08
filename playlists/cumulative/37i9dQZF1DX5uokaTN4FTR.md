@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: David Guetta, Kim Petras
+> The UK's biggest dance playlist! Cover: Jax Jones, D.O.D, Ina Ina Wroldsen
 
-531 songs - 1 day 4 hr 5 min
+532 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/album/6IeRGYRqUbbfCnxN9Aw8Yg) | 3:58 | 2021-11-03\* | 2021-12-10 |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2021-11-03\* | 2022-03-18 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-06 | 2023-05-12 |
-| [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-06-22 |  |
+| [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-06-22 | 2023-12-08 |
+| [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-08 |  |
 | [Lennon](https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Lennon](https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI) | 3:25 | 2023-03-08 | 2023-03-09 |
 | [Let Me In](https://open.spotify.com/track/63TnIai4KFF6E2D2PNvyWo) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Shania](https://open.spotify.com/artist/23kMR41KbDiyLWUKrp8ZVG) | [Let Me In](https://open.spotify.com/album/5K9O0DctnDZLUuAexCpccK) | 3:01 | 2022-05-26 | 2022-08-23 |
 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 | 2022-03-08 | 2022-03-10 |

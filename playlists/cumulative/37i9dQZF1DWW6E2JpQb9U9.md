@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-299 songs - 22 hr 20 min
+300 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe) | 3:42 | 2022-06-24 |  |
 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/7h5HLYcfviLPgldQzM0MnA) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/4678H4zVhphgBOu0eWZt7S) | 3:42 | 2022-04-01 | 2022-07-27 |
 | [Abuso de Poder \- Live](https://open.spotify.com/track/0Mtjb39XqDqtUwd5VAiWwl) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Abuso de Poder \(Live\)](https://open.spotify.com/album/2j8PSe8LB7OP8HKz2dq7zY) | 3:12 | 2022-07-29 | 2022-08-20 |
+| [Adonde Están](https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Hasta La Luna \- Vivo en el Luna Park](https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4) | 4:35 | 2023-12-07 |  |
 | [Afuera Llueve \- En Vivo](https://open.spotify.com/track/0DSLhThjowAmDx6DFqujyq) | [Sponsors](https://open.spotify.com/artist/7DJFfmhhEYgHVtcjXmygUM), [Martín Moska Lorenzo](https://open.spotify.com/artist/6kEkOEOL6KKvLjRItAqY74) | [La Fiesta Inolvidable \(En Vivo\)](https://open.spotify.com/album/7DjVh2B6EkSoqwGkqHyiBS) | 4:32 | 2022-06-10 | 2022-07-29 |
 | [Aguaviva \- En Vivo](https://open.spotify.com/track/2utHJRJgW9nrtuwgnBiQJr) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [Brujotecnia \(En Vivo\)](https://open.spotify.com/album/3J2DAjot68DHpD2MXTu6iD) | 4:07 | 2022-04-01 | 2022-05-28 |
 | [Ahora Vengo \- Vivo Luna Park](https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Ahora Vengo \(Vivo Luna Park\)](https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz) | 2:51 | 2022-04-01 |  |
@@ -291,7 +292,7 @@
 | [Un Millón de Amor \- En Vivo](https://open.spotify.com/track/0Ak3bTXnMbnaqMu0s6wLdq) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Un Millón de Amor \(En Vivo\)](https://open.spotify.com/album/2ViEo8xClSubdAP5a59mzb) | 3:55 | 2022-06-10 | 2022-07-06 |
 | [Un Osito de Peluche de Taiwan \- En Vivo en el Foro Sol](https://open.spotify.com/track/2NpLEVMOC12Tw789HdYRVS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 4:30 | 2022-04-01 | 2022-07-28 |
 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 | 2022-04-01 |  |
-| [Una Persona Especial \(En Vivo\)](https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [En Vivo en Chile Volumen 2](https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv) | 2:25 | 2023-12-01 |  |
+| [Una Persona Especial \(En Vivo\)](https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [En Vivo en Chile Volumen 2](https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv) | 2:25 | 2023-12-01 | 2023-12-08 |
 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2) | 4:49 | 2023-10-26 |  |
 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn) | 4:49 | 2023-09-14 | 2023-10-22 |
 | [Vení Raquel \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:06 | 2022-04-01 | 2023-10-07 |

@@ -730,10 +730,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 243745,
       "name": "Baby Baby Baby",
       "url": "https://open.spotify.com/track/3OdBWz9Vw4hhwSQ8xFiZEO"
+    },
+    {
+      "album": {
+        "name": "Everything is Gonna Be OK in the End",
+        "url": "https://open.spotify.com/album/38zGd8XBZyJRxdmxnrGgbQ"
+      },
+      "artists": [
+        {
+          "name": "Make The Girl Dance",
+          "url": "https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243853,
+      "name": "Baby Baby Baby",
+      "url": "https://open.spotify.com/track/1VUmBgC3siyhNO0LaOx0fz"
     },
     {
       "album": {

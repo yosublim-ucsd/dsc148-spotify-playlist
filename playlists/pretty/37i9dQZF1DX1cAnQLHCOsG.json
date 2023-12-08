@@ -1,12 +1,12 @@
 {
   "description": "Pa' las posadas y las fiestas, canciones navide\u00f1as con saz\u00f3n mexa. Panter B\u00e9lico en portada. ",
-  "num_followers": 20019,
+  "num_followers": 20121,
   "original_name": "Navidad M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2E0YmI2YmQzNTg4MGYzZTE3MjBhNDEwOWNiZDhjMGRkNGMwYWJl",
+  "snapshot_id": "MCwyMDFiOTZkODZlYjBhMDg3NGIwZWNjMzhhOTQxZDk5ODhiMTZjYTQ1",
   "tracks": [
     {
       "added_at": "2023-11-21 19:44:51",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Se Acerca Navidad",
+        "url": "https://open.spotify.com/album/2QiB21MebHavoBRcGnGJeF"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 182598,
+      "name": "Se Acerca Navidad",
+      "url": "https://open.spotify.com/track/4oIOVr3cyCifzh2JjZz7ij"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
         "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
       },
@@ -315,34 +331,18 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Se Acerca Navidad",
-        "url": "https://open.spotify.com/album/2QiB21MebHavoBRcGnGJeF"
+        "name": "Rodolfo El Reno",
+        "url": "https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 182598,
-      "name": "Se Acerca Navidad",
-      "url": "https://open.spotify.com/track/4oIOVr3cyCifzh2JjZz7ij"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
+      "duration_ms": 207766,
+      "name": "Rodolfo El Reno",
+      "url": "https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Momentos Inolvidables",
-        "url": "https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO"
+        "name": "Navidad Desde El Meritito Norte",
+        "url": "https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 239699,
-      "name": "Navidad En Mi Rancho",
-      "url": "https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq"
+      "duration_ms": 203720,
+      "name": "Ven a Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Momentos Inolvidables",
+        "url": "https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 239699,
+      "name": "Navidad En Mi Rancho",
+      "url": "https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "Voy A Pedirle A Santa Claus",
         "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
       },
@@ -427,24 +443,24 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Navidad Desde El Meritito Norte",
-        "url": "https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia"
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Ven a Mi Casa Esta Navidad",
-      "url": "https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB"
+      "duration_ms": 178440,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
     },
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Rodolfo El Reno",
-        "url": "https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ"
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
       "artists": [
         {
@@ -452,9 +468,33 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 207766,
-      "name": "Rodolfo El Reno",
-      "url": "https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W"
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+        "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Kenia R\u00edos",
+          "url": "https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr"
+        },
+        {
+          "name": "Anahi R\u00edos",
+          "url": "https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l"
+        }
+      ],
+      "duration_ms": 120405,
+      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+      "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -499,26 +539,18 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-        "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
+        "name": "La Diva en Vivo",
+        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Kenia R\u00edos",
-          "url": "https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr"
-        },
-        {
-          "name": "Anahi R\u00edos",
-          "url": "https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 120405,
-      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-      "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
+      "duration_ms": 253746,
+      "name": "Navidad Sin Ti - Live",
+      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -539,86 +571,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Al Llegar La Navidad",
-        "url": "https://open.spotify.com/album/584YXvUefVtSBELCB7pDML"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 139722,
-      "name": "Al Llegar La Navidad",
-      "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Oye Santa Claus",
-      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "La Diva en Vivo",
-        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Navidad Sin Ti - Live",
-      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Dame Un Beso En Noche Buena",
-      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Navidad Con Mariachi",
         "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
       },
@@ -631,70 +583,6 @@
       "duration_ms": 128729,
       "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Un Diciembre Diferente",
-        "url": "https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 202970,
-      "name": "Un Diciembre Diferente",
-      "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Navidad Adictiva",
-        "url": "https://open.spotify.com/album/4OK1cq5KoIDnw2w8lcOsNA"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Todo Lo Que Quiero Es a Ti",
-      "url": "https://open.spotify.com/track/266VR3x043LPRwwuBaVIGS"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -723,6 +611,118 @@
       "duration_ms": 196166,
       "name": "Se Acerca Navidad",
       "url": "https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Al Llegar La Navidad",
+        "url": "https://open.spotify.com/album/584YXvUefVtSBELCB7pDML"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 139722,
+      "name": "Al Llegar La Navidad",
+      "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Dame Un Beso En Noche Buena",
+      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Navidad Adictiva",
+        "url": "https://open.spotify.com/album/4OK1cq5KoIDnw2w8lcOsNA"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Todo Lo Que Quiero Es a Ti",
+      "url": "https://open.spotify.com/track/266VR3x043LPRwwuBaVIGS"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Un Diciembre Diferente",
+        "url": "https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 202970,
+      "name": "Un Diciembre Diferente",
+      "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -791,66 +791,18 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Amor Navide\u00f1o",
-        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "Santa Quiero",
-      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "A\u00f1o Con A\u00f1o",
-        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 233864,
-      "name": "A\u00f1o Con A\u00f1o",
-      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
       "artists": [
         {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 258973,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
-        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 237869,
-      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
+      "duration_ms": 217693,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -871,6 +823,86 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Amor Navide\u00f1o",
+        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "Santa Quiero",
+      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "A\u00f1o Con A\u00f1o",
+        "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 233864,
+      "name": "A\u00f1o Con A\u00f1o",
+      "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Otra Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Otra Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Solo en Navidad",
+        "url": "https://open.spotify.com/album/2iL2vi5LhRDoGhELR0Wnzi"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Solo en Navidad",
+      "url": "https://open.spotify.com/track/3uLNsNrH9pdQhdDjDRSZ9z"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -883,22 +915,6 @@
       "duration_ms": 143160,
       "name": "Rodolfo El Reno",
       "url": "https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -919,6 +935,22 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
+        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 237869,
+      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "Navidad Fiesta Universal",
         "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
       },
@@ -931,38 +963,6 @@
       "duration_ms": 181026,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Sonidos de la Navidad",
-        "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 135120,
-      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
-      "url": "https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Otra Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Otra Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Navidad En Mi Pueblo",
-        "url": "https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Regalo De Navidad",
-      "url": "https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
         "name": "Navidad Para Ti",
         "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
       },
@@ -1051,18 +1035,50 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Eterna Navidad Celebremos",
-        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
+        "name": "Sonidos de la Navidad",
+        "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Los Peces En El R\u00edo",
-      "url": "https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5"
+      "duration_ms": 135120,
+      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
+      "url": "https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Navidad En Mi Pueblo",
+        "url": "https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Regalo De Navidad",
+      "url": "https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Navidad, Feel The Magic",
+        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Navidad, Feel The Magic",
+      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -1099,98 +1115,18 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Solo en Navidad",
-        "url": "https://open.spotify.com/album/2iL2vi5LhRDoGhELR0Wnzi"
+        "name": "Eterna Navidad Celebremos",
+        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 180952,
-      "name": "Solo en Navidad",
-      "url": "https://open.spotify.com/track/3uLNsNrH9pdQhdDjDRSZ9z"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Alma Navide\u00f1a",
-        "url": "https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 243290,
-      "name": "Alma Naviden\u0303a",
-      "url": "https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Navidad, Feel The Magic",
-        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "Navidad, Feel The Magic",
-      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Sonidos de la Navidad",
-        "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Hoy V\u00ed a Santa Claus Besar a Mi Mam\u00e1",
-      "url": "https://open.spotify.com/track/77eKxlW5fPhNIOmwn4bAPS"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
-        }
-      ],
-      "duration_ms": 215310,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "Jingle Bells (Vamos All The Way)",
-        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Jingle Bells (Vamos All The Way)",
-      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+      "duration_ms": 166933,
+      "name": "Los Peces En El R\u00edo",
+      "url": "https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -1211,6 +1147,54 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Alma Navide\u00f1a",
+        "url": "https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 243290,
+      "name": "Alma Naviden\u0303a",
+      "url": "https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Sonidos de la Navidad",
+        "url": "https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Hoy V\u00ed a Santa Claus Besar a Mi Mam\u00e1",
+      "url": "https://open.spotify.com/track/77eKxlW5fPhNIOmwn4bAPS"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Jingle Bells (Vamos All The Way)",
+        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Jingle Bells (Vamos All The Way)",
+      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "Popurr\u00ed Navide\u00f1o",
         "url": "https://open.spotify.com/album/4C7cLXEpnjBOXs6Ov40HjG"
       },
@@ -1227,8 +1211,24 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
-        "name": "Unidos En Navidad",
-        "url": "https://open.spotify.com/album/1ThpEAdltcrkn3V68mb1iU"
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+        }
+      ],
+      "duration_ms": 215310,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 225280,
-      "name": "Unidos En Navidad",
-      "url": "https://open.spotify.com/track/120fyL4fR64MjBNqGvj5hv"
+      "duration_ms": 207653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
     },
     {
       "added_at": "2023-11-21 19:44:51",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-11-21 19:44:51",
       "album": {
+        "name": "Navidad Fiesta Universal",
+        "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+      "url": "https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh"
+    },
+    {
+      "added_at": "2023-11-21 19:44:51",
+      "album": {
         "name": "Navidad Sin t\u00ed",
         "url": "https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0"
       },
@@ -1271,22 +1291,6 @@
       "duration_ms": 203062,
       "name": "Navidad Sin t\u00ed",
       "url": "https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1"
-    },
-    {
-      "added_at": "2023-11-21 19:44:51",
-      "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/1VScrppYvea0ZhVxKXiU6V"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 209688,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/0KjVUq0RUNrURYShpLtdwq"
     }
   ],
   "unique_name": "Navidad M\u00fasica Mexicana",

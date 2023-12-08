@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-126 songs - 11 hr 2 min
+127 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK) | 5:19 | 2020-10-06 |  |
 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm) | 5:19 | 2020-10-06 | 2022-10-22 |
 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 | 2020-10-06 |  |
+| [Out of Space](https://open.spotify.com/track/5D6mTwP8jlAaLPbuHSZadz) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p) | 5:02 | 2023-10-19 |  |
 | [Out of Space](https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:02 | 2020-10-06 | 2023-12-07 |
 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 | 2020-10-06 | 2022-07-29 |
 | [Pacific State](https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Blueprint \(The Best of\)](https://open.spotify.com/album/2WuGvmbLkF1HFHkVq33TuY) | 5:50 | 2020-10-06 | 2022-07-29 |
@@ -133,6 +134,6 @@
 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/5updfQssZ3S5hmPSyPhHdV) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/6WxzGPzFFbOh5KfbT7IvdC) | 4:58 | 2020-10-06 | 2022-07-29 |
 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH) | 4:58 | 2020-10-06 | 2022-11-12 |
 | [Your Love \(Remix\)](https://open.spotify.com/track/4axNug8UrlC0ndpSNhe5iF) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/3LYrQ4Pr2CMbQl3nWxXItR) | 5:31 | 2020-10-06 | 2022-07-29 |
-| [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 | 2020-10-06 |  |
+| [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 | 2020-10-06 | 2023-12-08 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

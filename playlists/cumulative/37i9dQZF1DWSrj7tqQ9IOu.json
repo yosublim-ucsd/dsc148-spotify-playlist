@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Corine",
+  "description": "The best French indie tracks right now. Cover : Jeanne Bonjour",
   "name": "Made in France",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 218370,
       "name": "Be me for a minute",
       "url": "https://open.spotify.com/track/1xfLzOnwmmUtKTcs5C3p8n"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 184986,
       "name": "C'est OK",
       "url": "https://open.spotify.com/track/1YRLb0tT7RyTkicGKsUnfY"
@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/0ySU41tw4sVCQVWnmb9XmL"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242746,
+      "name": "DARLING. N6.23",
+      "url": "https://open.spotify.com/track/2TeFJiZe6eFIM2aAjp8leW"
+    },
+    {
+      "album": {
         "name": "Opening Soon",
         "url": "https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb"
       },
@@ -1760,6 +1778,24 @@
       "duration_ms": 157986,
       "name": "Dr\u00f4le d'id\u00e9e",
       "url": "https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN"
+    },
+    {
+      "album": {
+        "name": "DUI",
+        "url": "https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1"
+      },
+      "artists": [
+        {
+          "name": "CLOUD",
+          "url": "https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247352,
+      "name": "DUI",
+      "url": "https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH"
     },
     {
       "album": {
@@ -2222,6 +2258,24 @@
       "duration_ms": 202000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2BY27TSBwYybHpRPp0tqyd"
+    },
+    {
+      "album": {
+        "name": "Free demain",
+        "url": "https://open.spotify.com/album/1FjiwzairQylfH6BcuL3Og"
+      },
+      "artists": [
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Free demain",
+      "url": "https://open.spotify.com/track/2LYU4dW1b5IljPsZQi5fCk"
     },
     {
       "album": {
@@ -4874,7 +4928,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 249920,
       "name": "Night Heights",
       "url": "https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU"
@@ -5860,7 +5914,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 188853,
       "name": "Qu'est-ce que j'y peux",
       "url": "https://open.spotify.com/track/7ovsYgRg8uaBuhIeONj1Jm"
@@ -7788,6 +7842,32 @@
       "duration_ms": 172235,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/5vBavF0DZKDeCEM1gZXTgW"
+    },
+    {
+      "album": {
+        "name": "We Want More",
+        "url": "https://open.spotify.com/album/41E71uI2sH0RKq5HsT6u2s"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "We Want More",
+      "url": "https://open.spotify.com/track/6VmeioPg4ky71dN3gwoIGB"
     },
     {
       "album": {

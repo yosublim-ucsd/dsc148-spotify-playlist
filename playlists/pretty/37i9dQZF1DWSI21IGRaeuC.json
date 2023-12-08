@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 30430,
+  "num_followers": 30478,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjM5MDI3OTRiNDY4ODRiMjRiYzg5NWJjOGE2MjhhYmE0MmQyYTUz",
+  "snapshot_id": "MCw3ZTExYzk5OTVmM2UzNTIxMDVlOTU2MWFhMDY0MzdjNjQyNzViOGQ2",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -355,6 +355,38 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 481920,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Okay Alright",
+        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
+      },
+      "artists": [
+        {
+          "name": "Alan Nieves",
+          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
+        }
+      ],
+      "duration_ms": 368034,
+      "name": "Okay Alright",
+      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -379,38 +411,6 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Okay Alright",
-        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
-      },
-      "artists": [
-        {
-          "name": "Alan Nieves",
-          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
-        }
-      ],
-      "duration_ms": 368034,
-      "name": "Okay Alright",
-      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 481920,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Midtown Playground",
-        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 222475,
-      "name": "Midtown Playground",
-      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 192656,
       "name": "Escaping It (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 336504,
       "name": "Warning",
       "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -795,6 +795,26 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        }
+      ],
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -899,22 +919,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Atomic Sun",
-      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Sublime Tech House, Vol. 20",
         "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
       },
@@ -927,26 +931,6 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Space Bump",
-        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        },
-        {
-          "name": "Deeft",
-          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
-        }
-      ],
-      "duration_ms": 167004,
-      "name": "Space Bump",
-      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Atomic Sun",
+      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "TAKE ME HIGH",
         "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
       },
@@ -983,38 +983,6 @@
       "duration_ms": 220531,
       "name": "TAKE ME HIGH",
       "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
-      },
-      "artists": [
-        {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
-        }
-      ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "What We Got",
-        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "What We Got",
-      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1035,6 +1003,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
+      },
+      "artists": [
+        {
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Ready For The Blues",
         "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 300041,
       "name": "Ready For The Blues",
       "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Alley Rave",
         "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 190874,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Club Vibes Part 01",
         "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "This Energy EP",
-        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+        "name": "Single Kiss",
+        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Salom\u00e9 Le Chat",
+          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
         }
       ],
-      "duration_ms": 198750,
-      "name": "This Energy",
-      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
+      "duration_ms": 232000,
+      "name": "Single Kiss",
+      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1215,6 +1215,22 @@
       "duration_ms": 444444,
       "name": "What's Your Name",
       "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "This Energy EP",
+        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "This Energy",
+      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Single Kiss",
-        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00e9 Le Chat",
-          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Single Kiss",
-      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "World Is Empty",
         "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Picante EP",
         "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Really Really Hot",
         "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Music4TheMasses (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 187652,
-      "name": "Music4TheMasses - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -1615,26 +1595,6 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Scout",
-        "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Posij",
-          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Scout",
-      "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1655,6 +1615,42 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Music4TheMasses (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 187652,
+      "name": "Music4TheMasses - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "fall '23",
+        "url": "https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "put it to music.",
+      "url": "https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Regulate",
         "url": "https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO"
       },
@@ -1671,6 +1667,26 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Scout",
+        "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Posij",
+          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Scout",
+      "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "fall '23",
-        "url": "https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "put it to music.",
-      "url": "https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Azabache",
         "url": "https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y"
       },
@@ -1735,22 +1735,6 @@
       "duration_ms": 217440,
       "name": "Azabache",
       "url": "https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Rok The House",
-        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
-      },
-      "artists": [
-        {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Rok The House",
-      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1783,6 +1767,22 @@
       "duration_ms": 310289,
       "name": "Galactica",
       "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Rok The House",
+        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Rok The House",
+      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",

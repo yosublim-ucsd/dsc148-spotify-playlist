@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-277 songs - 17 hr 55 min
+280 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/0t5LDxM86wbi5W7gwkGtPv) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Trios Live](https://open.spotify.com/album/4E4vQi6Vc8FTynRbeNcTGf) | 6:38 | 2021-12-14 | 2022-10-14 |
 | [Nightshift](https://open.spotify.com/track/7s7b3petWiTzsJE9oeVXKW) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nightshift](https://open.spotify.com/album/1I7aRHHNn8lmr5ECqMkQ4u) | 2:54 | 2022-12-23 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
+| [Noir De Noir](https://open.spotify.com/track/5FU6Qj9h9TYGW2v810ZYA5) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Noir De Noir](https://open.spotify.com/album/5EBzEgLhw2nVVUVL1gmnP5) | 3:18 | 2023-12-08 |  |
 | [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-29 |  |
 | [Nothing Like a Spring](https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:31 | 2023-03-23 |  |
@@ -222,6 +223,7 @@
 | [Sorrowful](https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Sorrowful](https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk) | 3:28 | 2022-10-27 |  |
 | [Spirited Away](https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Spirited Away](https://open.spotify.com/album/6hbNsW5mwt435LHpDk8GTa) | 3:11 | 2023-02-16 |  |
 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 | 2021-12-14 | 2022-09-09 |
+| [Starry Skies and Saxophones](https://open.spotify.com/track/3GvTDh5qbXRvpjcVE5r34w) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Starry Skies and Saxophones](https://open.spotify.com/album/5rkoaMS3FOnul78sYUGdB8) | 3:43 | 2023-12-08 |  |
 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 | 2021-12-14 |  |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2021-12-14 | 2023-03-03 |
@@ -268,6 +270,7 @@
 | [Whiplashed](https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Whiplashed](https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw) | 3:17 | 2023-04-13 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-05-25 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 9:58 | 2022-02-03 | 2022-11-25 |
+| [Wind Dancer](https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz) | [Dreamland](https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj) | [Wind Dancer](https://open.spotify.com/album/32FSarmIZSQXG34jvKX324) | 3:01 | 2023-12-08 |  |
 | [Windows](https://open.spotify.com/track/6ADfA2iC7wIIll0JC99ZH8) | [Chip Weasley](https://open.spotify.com/artist/37X0wybCupItXHrjK20Mdy) | [Windows](https://open.spotify.com/album/11WQszEkjI5k7Q15XkBvNP) | 3:54 | 2022-08-11 | 2022-11-18 |
 | [Withered Flowers](https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Withered Flowers](https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU) | 3:53 | 2022-11-24 |  |
 | [Wonder](https://open.spotify.com/track/2N0uJQtWTrPUs8EtNZxfkC) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Wonder](https://open.spotify.com/album/7GKxxoyMHw1iRgaO62o61o) | 3:46 | 2023-11-24 |  |

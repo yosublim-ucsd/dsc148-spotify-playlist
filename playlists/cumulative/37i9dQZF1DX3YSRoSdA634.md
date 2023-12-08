@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-514 songs - 1 day 7 hr 32 min
+515 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 | 2021-12-15 | 2022-07-29 |
 | [Prism of Love \(Piano Acoustic\)](https://open.spotify.com/track/6gPTlMJWFcjmY6FGjRWwYK) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Prism of Love \(Piano Acoustic\)](https://open.spotify.com/album/32wWoqEPH0K12DgMCVUfH2) | 3:05 | 2021-12-15 | 2022-07-06 |
 | [Privilege](https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 2:50 | 2022-08-05 |  |
+| [prom dress](https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:17 | 2023-02-17 |  |
 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2022-06-24 | 2023-11-30 |
 | [Purpose](https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:30 | 2021-12-15 |  |
 | [raindrops](https://open.spotify.com/track/0opAHADyfECeBJIjIHj429) | [gab • brie](https://open.spotify.com/artist/2R9d5jPXwo9Soa0LhWPhVk) | [raindrops](https://open.spotify.com/album/6NgXWw9WPijXal0q72Y0rA) | 2:59 | 2022-04-08 | 2022-07-29 |
@@ -476,7 +477,7 @@
 | [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/2L433J1zwGjK5w6SHwJAhp) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68pBVLvF14n0d3c6BYlOTk) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 3:24 | 2022-07-01 |  |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-07-08 |  |
-| [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2022-07-01 |  |
+| [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2022-07-01 | 2023-12-08 |
 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 | 2022-06-24 |  |
 | [What is love?](https://open.spotify.com/track/19uD100VO96sKlfjbLhZBB) | [Eimizah](https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM) | [A Rose From E](https://open.spotify.com/album/6oQJeflRWJJlH78fDqksFt) | 3:45 | 2022-06-03 | 2022-06-10 |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2021-12-15 |  |

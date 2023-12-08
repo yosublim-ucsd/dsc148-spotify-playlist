@@ -1,12 +1,12 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Lucky Brown & Nickoog Clk.",
-  "num_followers": 360894,
+  "num_followers": 361148,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWM5MzY2ZjgyOWY1NTJjZTFiZGM4Y2YzMmU5YWUyZWFiMDY4NmRk",
+  "snapshot_id": "MCxmNDExMzcyYzg5M2JmZTFiZjFjYzRkMzFiMzJhMzg0OTNkYjM1ZjA5",
   "tracks": [
     {
       "added_at": "2023-12-06 17:42:26",
@@ -515,21 +515,17 @@
     {
       "added_at": "2023-12-06 17:42:26",
       "album": {
-        "name": "WorKING",
+        "name": "",
         "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
       },
       "artists": [
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 194214,
-      "name": "2 Hielos",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/5Q9WL6KjOioqfqJdX2W72I"
     },
     {

@@ -4,7 +4,7 @@
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-170 songs - 10 hr 36 min
+171 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2022-10-18 | 2023-05-04 |
 | [Behold](https://open.spotify.com/track/6EGELxGGOmmYJ6kOJfdX9V) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 2:20 | 2022-10-18 | 2023-02-02 |
 | [Behold](https://open.spotify.com/track/6PNude8MKBcyjo0FDQjLZZ) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 2:20 | 2022-10-21 | 2023-05-04 |
-| [Best Friend](https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:04 | 2023-05-03 |  |
+| [Best Friend](https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:04 | 2023-05-03 | 2023-12-08 |
+| [Best Friend \(feat\. NERVO, The Knocks & ALISA UENO\)](https://open.spotify.com/track/6twQJ2KMwNzODCY0HzXP2E) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:04 | 2023-05-03 |  |
 | [Big G](https://open.spotify.com/track/4GjYLnxeEeBauUx1AlHucY) | [Chelina Manuhutu](https://open.spotify.com/artist/4IoT1ZwtqNYn1u7q9r62Sy) | [Big G](https://open.spotify.com/album/5nbJg3RK9mbdkEiqYTfuJT) | 6:19 | 2023-05-03 |  |
 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2021-03-16 | 2022-10-19 |
 | [Body Pump \- UNIIQU3 Remix](https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Renaissance \(Remixes\)](https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ) | 3:56 | 2021-03-16 | 2022-10-19 |

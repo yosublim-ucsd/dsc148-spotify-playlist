@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 147878,
       "name": "Afternoon coffee",
       "url": "https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 135819,
       "name": "Club Galactica",
       "url": "https://open.spotify.com/track/5acrzaWCYDnt1An78q6y1N"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 219207,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 116959,
       "name": "Cows In The Distance",
       "url": "https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV"
@@ -3352,6 +3352,24 @@
       "duration_ms": 165269,
       "name": "Endless Everything",
       "url": "https://open.spotify.com/track/6AGvuWY1sA0NHVM2zSC1Ry"
+    },
+    {
+      "album": {
+        "name": "enoshima dolphins",
+        "url": "https://open.spotify.com/album/5nHFa1yTKninzl134sdQmv"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "enoshima dolphins",
+      "url": "https://open.spotify.com/track/3ep6R8V0tLDaAs42iUwtmw"
     },
     {
       "album": {
@@ -4688,7 +4706,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 311935,
       "name": "HARU",
       "url": "https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz"
@@ -4982,7 +5000,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 241369,
       "name": "Hizuru - Jazztronik Remix",
       "url": "https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU"
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Keyframe",
       "url": "https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL"
@@ -6122,7 +6140,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
@@ -7282,7 +7300,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 88373,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/7o5Mjx1XHg7WBARjn9MVJu"
@@ -9030,7 +9048,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 221071,
       "name": "Please Think Twice",
       "url": "https://open.spotify.com/track/4AkAe7RDJP6GhwqFM2JhEL"
@@ -11050,7 +11068,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 138880,
       "name": "Sudachi",
       "url": "https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H"
@@ -11436,6 +11454,24 @@
       "duration_ms": 167344,
       "name": "Synchronizing",
       "url": "https://open.spotify.com/track/5dUD00EY39bUkoW0MeH2Co"
+    },
+    {
+      "album": {
+        "name": "Talking to myself",
+        "url": "https://open.spotify.com/album/6sRCDTfsRwOsQpb6Aj1HOu"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134074,
+      "name": "Talking to myself",
+      "url": "https://open.spotify.com/track/1XgT7W3POsztEoqVtaCbvV"
     },
     {
       "album": {
@@ -12632,7 +12668,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 93882,
       "name": "We Gathered Leaves",
       "url": "https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y"

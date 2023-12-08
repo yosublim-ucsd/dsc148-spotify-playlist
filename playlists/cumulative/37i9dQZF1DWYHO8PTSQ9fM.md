@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Morad, GIMS
+> Les hits du moment sont ici\. Cover : ElGrandeToto
 
 227 songs - 12 hr 26 min
 

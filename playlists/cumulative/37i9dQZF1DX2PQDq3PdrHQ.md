@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-648 songs - 1 day 1 hr 5 min
+649 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Low Tide](https://open.spotify.com/track/2AYtdz8to1h6ZAOUaG0BaU) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Low Tide](https://open.spotify.com/album/3TQI5JVPLXrw7cdrSNdqPz) | 2:37 | 2022-07-15 | 2023-01-20 |
 | [Lucid Dream](https://open.spotify.com/track/0ESvr3vqkGTKqyTI35LIEA) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Lucid Dream](https://open.spotify.com/album/0o4EfuIuCZFgiEv26JUzky) | 2:37 | 2022-10-07 |  |
 | [Lucid Night](https://open.spotify.com/track/7qNraMvsidWQNfHDdqxa0v) | [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Sleepless Nights, Vol\. 1](https://open.spotify.com/album/6qnl9xdLZvudzu2FyMgByj) | 2:35 | 2022-09-30 | 2023-01-07 |
+| [lulling](https://open.spotify.com/track/3yY1F3ztumz6eZTVc7kuiz) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [lulling](https://open.spotify.com/album/2xevJC3xQ7cn8H1MLD9QGV) | 2:05 | 2023-12-08 |  |
 | [luna](https://open.spotify.com/track/6P4kfnlY3xItmwLsgLYSTv) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Jisatsu](https://open.spotify.com/artist/0T1Ope3kfLPZQ6l715wc34) | [luna](https://open.spotify.com/album/7axXxsf3tBqirUSV4WmAtr) | 2:24 | 2022-05-20 | 2023-01-20 |
 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 | 2022-09-16 |  |
 | [Lustrous](https://open.spotify.com/track/7wm5VRPlO06uFdn3DMcLbB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Lustrous](https://open.spotify.com/album/18vznKPczlDc1jadJ8fB3u) | 2:27 | 2022-07-22 | 2022-10-14 |

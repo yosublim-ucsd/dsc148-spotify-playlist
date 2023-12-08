@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Max Styler
 
-1,374 songs - 3 day 6 hr 34 min
+1,375 songs - 3 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Ducati](https://open.spotify.com/track/7zt5nDR0xO2KctrgbYN235) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Ducati](https://open.spotify.com/album/7asDUvdxIPxavwdyX3r4FF) | 3:00 | 2023-06-30 | 2023-11-11 |
 | [Duro](https://open.spotify.com/track/1vDkc8P9SDkqXlXHs3uzjV) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Duro](https://open.spotify.com/album/3QuVE1YSF1gkqt4yoQ0W5L) | 3:08 | 2021-11-26 | 2022-02-26 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-06-24 | 2022-07-23 |
-| [Easy Tiger](https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Easy Tiger](https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn) | 3:26 | 2023-09-08 |  |
+| [Easy Tiger](https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Easy Tiger](https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn) | 3:26 | 2023-09-08 | 2023-12-08 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-02 |  |
 | [Echo In The Dark](https://open.spotify.com/track/1pjJO7KXcaIl3zGloQVi6Q) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Echo In The Dark](https://open.spotify.com/album/46QDC0lHBrJbkMQHvv8hHL) | 3:24 | 2022-08-12 | 2022-11-19 |
 | [Ectogazm](https://open.spotify.com/track/5MYARoapSdgdS3RIYpoUUy) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Ectogazm](https://open.spotify.com/album/2koT4eoxGArDv6D5poxuPv) | 3:50 | 2021-11-26 | 2022-01-14 |
@@ -552,6 +552,7 @@
 | [I Feel It \(In My House\)](https://open.spotify.com/track/4bcC4KbZAz0CxUbVQawpYa) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [I Feel It \(In My House\)](https://open.spotify.com/album/1L6UciZ8HHMraItH0udUcz) | 2:37 | 2022-09-23 | 2022-12-17 |
 | [I Get Deep \- Rework Remix](https://open.spotify.com/track/6mgcbM1WnmlYkWvN7GSGFn) | [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Rework](https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu) | [I Get Deep](https://open.spotify.com/album/5UcYFKPpsMVi1S8PiWLm7k) | 7:10 | 2022-12-28 | 2023-01-06 |
 | [I Got The Cheese](https://open.spotify.com/track/37ZQ9egbyFrc9xk4O9fXBl) | [Crizzy](https://open.spotify.com/artist/4RAe46zs2w4OzdB4BfD6hg), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj) | [I Got The Cheese](https://open.spotify.com/album/78eUQoVk2kfhqPqOhIv9Ew) | 2:24 | 2023-02-10 | 2023-03-11 |
+| [I Got U](https://open.spotify.com/track/4qZ0WykWxm9aImzOI4Ig6L) | [Paul Damixie](https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk) | [I Got U](https://open.spotify.com/album/4kl7iQhSvKlcIOHLttDlIA) | 3:15 | 2023-10-27 |  |
 | [I Just Wanna](https://open.spotify.com/track/07GBjZ4OCaP2T2VRHhlxoD) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [I Just Wanna](https://open.spotify.com/album/4MwXjaofLj3ZDEQK5kpvDC) | 3:39 | 2022-10-21 | 2022-12-29 |
 | [I Know](https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [I Know](https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS) | 3:22 | 2022-09-23 | 2022-12-17 |
 | [I Need Some](https://open.spotify.com/track/7blWEpws63flJYjkyNhGya) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [I Need Some](https://open.spotify.com/album/1VMj4op3upCissjO0BF163) | 2:22 | 2022-10-28 | 2022-12-10 |

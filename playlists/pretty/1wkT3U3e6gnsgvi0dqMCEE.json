@@ -6,24 +6,8 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NDcyLGFiM2IwMjBhMTBjZjE1Nzg0Y2Q2YzYxYWIxNTczOGZmM2QxZmVkNDY=",
+  "snapshot_id": "NDc1LDEzYjY1NGFjOTg3NzQzYTFhZDhmODAxOTE4ZTNmZmU3OGY5ZTg2NGM=",
   "tracks": [
-    {
-      "added_at": "2023-10-16 16:43:24",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
-    },
     {
       "added_at": "2023-10-16 16:43:24",
       "album": {
@@ -917,7 +901,23 @@
       "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
     },
     {
-      "added_at": "2023-11-30 08:04:26",
+      "added_at": "2023-10-16 16:43:24",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+      "added_at": "2023-12-07 08:46:13",
       "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.",
+  "description": "Celebramos las voces extraordinarias del siglo XX, con Raphael en portada.",
   "name": "Voces A\u00f1ejas de Iberoam\u00e9rica",
   "tracks": [
     {
@@ -1172,6 +1172,24 @@
       "duration_ms": 192413,
       "name": "Mary Es Mi Amor",
       "url": "https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB"
+    },
+    {
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 33349,
+  "num_followers": 33367,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjk3ZjY0OTc2MGZhOGI2NWFmNjZiNDU5OGI2OWMxZDQzNDZhZTJj",
+  "snapshot_id": "MCw5NzY3YTA4OTMwNmY4MDM1NDY3N2FiOGM1YTdiYjllM2JkYjgwYzcx",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "#1 Hits",
-        "url": "https://open.spotify.com/album/0DABfstwprmJLBSv5n8Wft"
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
       },
       "artists": [
         {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Vamos Fugir",
-      "url": "https://open.spotify.com/track/5a008ecFPEypprh1yOg1bM"
+      "duration_ms": 152163,
+      "name": "Ag\u00e1rrala - Remix",
+      "url": "https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
+        "name": "#1 Hits",
+        "url": "https://open.spotify.com/album/0DABfstwprmJLBSv5n8Wft"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/5a008ecFPEypprh1yOg1bM"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 318760,
       "name": "Volando Entre Tus Brazos - Salsa Version",
       "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 152163,
-      "name": "Ag\u00e1rrala - Remix",
-      "url": "https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ"
     },
     {
       "added_at": "2021-12-22 23:41:59",

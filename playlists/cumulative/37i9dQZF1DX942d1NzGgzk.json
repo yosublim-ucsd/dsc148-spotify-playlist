@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
+    },
+    {
+      "album": {
         "name": "As You Are - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
@@ -3300,7 +3322,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 131612,
       "name": "Timeout",
       "url": "https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn"

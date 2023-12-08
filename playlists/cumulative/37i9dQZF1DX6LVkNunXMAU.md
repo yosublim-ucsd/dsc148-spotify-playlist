@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-279 songs - 15 hr 16 min
+280 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-04-07 | 2023-06-24 |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-05-26 |  |
 | [Eres](https://open.spotify.com/track/4HWZ7WUCJHXKwtvInX8Ofx) | [Karen Franjola](https://open.spotify.com/artist/3PH36TxbnnpSN9b51PJn5z), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Eres](https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD) | 3:01 | 2023-08-04 | 2023-11-05 |
+| [Eros \(Claroscuro\)](https://open.spotify.com/track/0Np2OCGA4rAcUcdaTSjuH3) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Eros \(Claroscuro\)](https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM) | 2:48 | 2023-12-07 |  |
 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 | 2023-04-14 | 2023-06-24 |
 | [febrero](https://open.spotify.com/track/04Iw1lILPMZ2Olx9uaxuS2) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [febrero](https://open.spotify.com/album/2IFtyFe4JwkDAeNskiNKbo) | 3:16 | 2023-06-23 | 2023-08-26 |
 | [Foto](https://open.spotify.com/track/0XZw6eCsnkMNG7JLJ6LN9g) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Foto](https://open.spotify.com/album/7i5y1TOAfdGoj59JLwtliw) | 3:40 | 2023-06-16 | 2023-06-24 |
@@ -113,7 +114,7 @@
 | [Helen K](https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Helen K](https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt) | 2:58 | 2022-05-20 | 2023-04-15 |
 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 | 2022-05-20 | 2023-04-15 |
 | [hoy me desperté así \- v\. 02](https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [plasti bonus track](https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS) | 3:22 | 2023-12-01 |  |
-| [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 |  |
+| [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 | 2023-12-08 |
 | [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 | 2023-07-28 |  |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO) | 3:52 | 2022-08-05 | 2023-04-15 |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 | 2022-05-20 | 2022-08-15 |

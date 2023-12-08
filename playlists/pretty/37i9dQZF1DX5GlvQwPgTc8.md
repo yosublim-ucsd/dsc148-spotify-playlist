@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,757 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,760 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 46 | [Obsessed](https://open.spotify.com/track/7p4tetW3qNwSCz92PLGJg5) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Obsessed](https://open.spotify.com/album/6rlqFfCAuPnZUFmS8sCIWw) | 3:29 |
 | 47 | [Old Friend](https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:19 |
 | 48 | [J'adore](https://open.spotify.com/track/2ULz7EuDpQ9iifrbHLmpbx) | [Four7](https://open.spotify.com/artist/47rjPnYCVxWRWpkJy6dOVT), [Tiffany](https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F) | [J'adore](https://open.spotify.com/album/4XMXX49JGGjeQmTj6bPjpw) | 5:08 |
-| 49 | [Brother Louie](https://open.spotify.com/track/0fQfopzcRtmYxdK9xFA3Qr) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Brother Louie](https://open.spotify.com/album/6mGRWR6C2qe3nWOn83iCbb) | 2:52 |
-| 50 | [Lullaby](https://open.spotify.com/track/5mPl0yWNZXXMQnsLM8aiiq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/23VMZHUVxRNXdx9ycAaiNd) | 2:40 |
+| 49 | [Lullaby](https://open.spotify.com/track/5mPl0yWNZXXMQnsLM8aiiq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/23VMZHUVxRNXdx9ycAaiNd) | 2:40 |
+| 50 | [Brother Louie](https://open.spotify.com/track/0fQfopzcRtmYxdK9xFA3Qr) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Brother Louie](https://open.spotify.com/album/6mGRWR6C2qe3nWOn83iCbb) | 2:52 |
 
-Snapshot ID: `MCw4MTEzMTQxYThkNjEyNjBlMDFhNTQ3YTdlNzY4OGM3ZTI1OGRlOTkw`
+Snapshot ID: `MCw2MDA5OWY1M2RjYzMzMzhlNDgwNjAyN2Y1YjNlZDA1YTU4OTU2YzVl`

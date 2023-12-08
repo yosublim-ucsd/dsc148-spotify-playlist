@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 291277,
+  "num_followers": 291430,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGRiNTliMTJjOWM4ZGU4ODY4NzVlZTBlYzYzODlhYWQ5ODc0YzQy",
+  "snapshot_id": "MCw5Y2QxODg5ZmQ5YjgzOGI5N2U3YzE1ZDY0NTQ3ZTkxYzJkNDE5M2Uy",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
-      },
-      "artists": [
-        {
-          "name": "datfootdive",
-          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "stay",
-      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
+      },
+      "artists": [
+        {
+          "name": "datfootdive",
+          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -860,7 +860,7 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "3d Blast",
+          "name": "3D BLAST",
           "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u30aa\u30aa\u30cf\u30b7",
-        "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
       "artists": [
         {
-          "name": "Frez Wave",
-          "url": "https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox"
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
         }
       ],
-      "duration_ms": 85090,
-      "name": "Golden Glass",
-      "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+        "name": "\u30aa\u30aa\u30cf\u30b7",
+        "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
       },
       "artists": [
         {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+          "name": "Frez Wave",
+          "url": "https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
+      "duration_ms": 85090,
+      "name": "Golden Glass",
+      "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1428,7 +1428,7 @@
       },
       "artists": [
         {
-          "name": "3d Blast",
+          "name": "3D BLAST",
           "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Fever Dream (slowed + reverb)",
         "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 232000,
       "name": "Fever Dream - slowed + reverb",
       "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Videopolis",
+        "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
+      },
+      "artists": [
+        {
+          "name": "L a z u l i _ y e l l o w",
+          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Soul-Vibration",
+      "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Goodbye, 5o 5oon...",
         "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
       },
@@ -1659,26 +1675,6 @@
       "duration_ms": 176015,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Screensaver",
-        "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
-      },
-      "artists": [
-        {
-          "name": "L a z u l i _ y e l l o w",
-          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
-        },
-        {
-          "name": "Vivi Vulture",
-          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "Screensaver",
-      "url": "https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1699,34 +1695,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
       "artists": [
         {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
         }
       ],
-      "duration_ms": 106802,
-      "name": "I Used To Make Vaporwave",
-      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
+      "duration_ms": 135035,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
     },
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+        "name": "Polygon Paradise",
+        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "Vaporwave Club",
+          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
         }
       ],
-      "duration_ms": 176086,
-      "name": "Harlequin",
-      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
+      "duration_ms": 140678,
+      "name": "Monogon",
+      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
     }
   ],
   "unique_name": "vaporwave",

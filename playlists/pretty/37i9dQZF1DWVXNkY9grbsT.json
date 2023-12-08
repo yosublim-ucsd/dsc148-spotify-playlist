@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 87099,
+  "num_followers": 87137,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDBjMTc4ZWEyMmEzYzJjY2VhYzdlNTE0Zjg0MGU5OTQ4MTdjNDU5",
+  "snapshot_id": "MCw3ZjZjM2I1YTMyOWZhYWQxZDdmMTJlNWIzMzlkOTM5MWYwMDA1ODQ1",
   "tracks": [
     {
       "added_at": "2023-12-01 18:01:27",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Portico",
-        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 402333,
-      "name": "Portico",
-      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Pelikan (Aukai Rework)",
         "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 332633,
       "name": "Pelikan - Aukai Rework",
       "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Portico",
+        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 402333,
+      "name": "Portico",
+      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Traves\u00eda",
         "url": "https://open.spotify.com/album/3R9mvWE3pbsxy5uruk5HNK"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 176162,
       "name": "The Revenant Main Theme (Alva Noto Remodel)",
       "url": "https://open.spotify.com/track/47PdDK2C3a1XuHQTpaBukA"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Consumed In Key",
         "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Weltenwandler",
         "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 316433,
       "name": "Weltenwandler - Radio Edit",
       "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -839,6 +823,22 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Hello Planta",
-        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "Hello Planta",
-      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Night Journeys II",
         "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 436776,
       "name": "Night Journeys II",
       "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Hello Planta",
+        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 128274,
+      "name": "Hello Planta",
+      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Past and Future Tense",
-        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
+        "name": "Burst / Glimmer",
+        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
         }
       ],
-      "duration_ms": 224848,
-      "name": "MD 2",
-      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
+      "duration_ms": 316293,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+        "name": "Past and Future Tense",
+        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
       },
       "artists": [
         {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
         }
       ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+      "duration_ms": 224848,
+      "name": "MD 2",
+      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Petrovo Uho Remixes Part I/III",
+        "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
+      },
+      "artists": [
+        {
+          "name": "Ben Kaczor",
+          "url": "https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL"
+        },
+        {
+          "name": "efdemin",
+          "url": "https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G"
+        }
+      ],
+      "duration_ms": 420923,
+      "name": "Tramuntana - Efdemin Remix",
+      "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Cast Remixes Part III",
         "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
       },
@@ -1275,58 +1295,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Briefly Human",
-        "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
-      },
-      "artists": [
-        {
-          "name": "Oma Nata",
-          "url": "https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo"
-        }
-      ],
-      "duration_ms": 404301,
-      "name": "Artificial Body",
-      "url": "https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 340974,
-      "name": "Tan\u00df",
-      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Petrovo Uho Remixes Part I/III",
-        "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
-      },
-      "artists": [
-        {
-          "name": "Ben Kaczor",
-          "url": "https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL"
-        },
-        {
-          "name": "efdemin",
-          "url": "https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G"
-        }
-      ],
-      "duration_ms": 420923,
-      "name": "Tramuntana - Efdemin Remix",
-      "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1339,6 +1307,22 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Briefly Human",
+        "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
+      },
+      "artists": [
+        {
+          "name": "Oma Nata",
+          "url": "https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo"
+        }
+      ],
+      "duration_ms": 404301,
+      "name": "Artificial Body",
+      "url": "https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/3ecSwABJbDUjSwVLvOQVLJ"
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
       "artists": [
         {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 384813,
-      "name": "Infinito (Version)",
-      "url": "https://open.spotify.com/track/2x6umJ0Bw82UYFUW2kwKFI"
+      "duration_ms": 340974,
+      "name": "Tan\u00df",
+      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1387,6 +1371,22 @@
       "duration_ms": 238029,
       "name": "Belt & Carpet",
       "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/3ecSwABJbDUjSwVLvOQVLJ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 384813,
+      "name": "Infinito (Version)",
+      "url": "https://open.spotify.com/track/2x6umJ0Bw82UYFUW2kwKFI"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Balmy Evening",
-        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
       },
       "artists": [
         {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
         }
       ],
-      "duration_ms": 183672,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1555,18 +1555,34 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
       },
       "artists": [
         {
-          "name": "Ocoeur",
-          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
         }
       ],
-      "duration_ms": 318373,
-      "name": "Opposite Sides",
-      "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1583,22 +1599,6 @@
       "duration_ms": 242000,
       "name": "Springtime in Croatia",
       "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
-        }
-      ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Opal",
-        "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
       },
       "artists": [
         {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 164293,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+        "name": "Opal",
+        "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
       },
       "artists": [
         {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
         }
       ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
+      "duration_ms": 164293,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Bluet",
         "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
       },
@@ -1763,22 +1747,34 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
-        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
       "artists": [
         {
-          "name": "Federico Bisozzi",
-          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
-        },
-        {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 191405,
-      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
-      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "L'attente",
+        "url": "https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi"
+      },
+      "artists": [
+        {
+          "name": "Eskadet",
+          "url": "https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG"
+        }
+      ],
+      "duration_ms": 326362,
+      "name": "Apparences",
+      "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
     }
   ],
   "unique_name": "Electronic X",

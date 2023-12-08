@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3391,
+  "num_followers": 683,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGI0MTZkN2YyZTNlMGRmNmE4ZTZmOTM3ODQyNDkyZTBhYzRlNDhk",
+  "snapshot_id": "MCwwYmUyZDU5MmI5NDA4ODZkNTY2ZWE4YTc5NjAzM2YyZGY3MGRiMWI0",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Recordings from the \u00c5land Islands",
-        "url": "https://open.spotify.com/album/0Cxszkp832OLjhTQdTCEQI"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        },
-        {
-          "name": "Marta Sofia Honer",
-          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Under the Midnight Sun",
-      "url": "https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Annihilation (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 283786,
       "name": "The Willows",
       "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Recordings from the \u00c5land Islands",
+        "url": "https://open.spotify.com/album/0Cxszkp832OLjhTQdTCEQI"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Under the Midnight Sun",
+      "url": "https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B"
     },
     {
       "added_at": "2022-07-06 17:58:03",

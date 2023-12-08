@@ -1,8 +1,38 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : MGMT",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : The Killers",
   "name": "Hot Alternative",
   "tracks": [
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
+    },
     {
       "album": {
         "name": "103",
@@ -250,7 +280,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 202661,
       "name": "Cruel Hearts",
       "url": "https://open.spotify.com/track/0gSGOnRJahLfNiIQr8Whnv"
@@ -395,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Don't You Want To Sleep With Someone Normal?",
+        "url": "https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s"
+      },
+      "artists": [
+        {
+          "name": "Love Fame Tragedy",
+          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228095,
+      "name": "Don't You Want To Sleep With Someone Normal?",
+      "url": "https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k"
+    },
+    {
+      "album": {
         "name": "DooM Dance (feat. Carpenter Brut, Gavin Rossdale)",
         "url": "https://open.spotify.com/album/23pEJLlwOx3z0qOw3rT1AY"
       },
@@ -490,6 +538,24 @@
       "duration_ms": 238945,
       "name": "Ghosts Again",
       "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "album": {
@@ -634,7 +700,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 259337,
       "name": "I COULDN'T CARE",
       "url": "https://open.spotify.com/track/0ikSWphMqweqLxsGa0cLjs"
@@ -688,7 +754,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 232466,
       "name": "Ice Cream (Pay Phone)",
       "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
@@ -821,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Make it good",
+        "url": "https://open.spotify.com/album/0TXsahJIHtf9pKlvsFxnmV"
+      },
+      "artists": [
+        {
+          "name": "Talisco",
+          "url": "https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "Make it good",
+      "url": "https://open.spotify.com/track/6ojM9gN2YbWTuDUKNmjT5Y"
+    },
+    {
+      "album": {
         "name": "Make You Proud",
         "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
       },
@@ -908,6 +992,24 @@
       "duration_ms": 175410,
       "name": "My Lady of Mercy",
       "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
+    },
+    {
+      "album": {
+        "name": "Night Of The Hunter",
+        "url": "https://open.spotify.com/album/4kRBqUuM4kKOgBqUG9usud"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248340,
+      "name": "Night Of The Hunter",
+      "url": "https://open.spotify.com/track/0ytE5aUxuTyXXrUiQMyHUq"
     },
     {
       "album": {
@@ -1106,7 +1208,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 134036,
       "name": "Sadie Hawkins Prom",
       "url": "https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h"
@@ -1136,7 +1238,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 290360,
       "name": "Satanist",
       "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
@@ -1288,6 +1390,24 @@
       "duration_ms": 418080,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK"
+    },
+    {
+      "album": {
+        "name": "Rebel Diamonds",
+        "url": "https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
     },
     {
       "album": {
@@ -1446,7 +1566,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 228544,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy"

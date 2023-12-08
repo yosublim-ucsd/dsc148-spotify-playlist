@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with VNSSA.",
-  "num_followers": 2019803,
+  "num_followers": 2019853,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzVmNzM3ODVhODE4OTFhY2EyZjA4ODY4ZjUzODI2ODMyY2YxNzE1",
+  "snapshot_id": "MCw2MGM1MTQxMTBkMDViMzk1ZjQxYmU4MjNlMDg1YmRkZmZiNGIzODUz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -43,7 +43,7 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "High and I Like It",
+        "name": "High and I Like it",
         "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
       },
       "artists": [
@@ -57,7 +57,7 @@
         }
       ],
       "duration_ms": 223379,
-      "name": "High and I Like It",
+      "name": "High and I Like it",
       "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
     },
     {

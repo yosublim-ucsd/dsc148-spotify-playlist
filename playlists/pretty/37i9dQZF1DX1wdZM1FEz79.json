@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Heo Hoy Kyung(\ud5c8\ud68c\uacbd)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 282996,
+  "num_followers": 283073,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTE4ODc0MTk5NjJjNmNiNGE1ZThhYmU2ZDc2ZTU5YzFjODRmYjk2",
+  "snapshot_id": "MCxhYTYyODM2ZDJjZDJiZDM2Y2E1YzE0YzI5ZWMxY2Y2MTYxMjhhNzMy",
   "tracks": [
     {
       "added_at": "2023-12-05 08:40:16",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-12-05 08:40:16",
       "album": {
-        "name": "Dear my X",
-        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+        "name": "Just 10 centimeters",
+        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Dear my X",
-      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+      "duration_ms": 195506,
+      "name": "Just 10 centimeters",
+      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
     },
     {
       "added_at": "2023-12-05 08:40:16",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-12-05 08:40:16",
       "album": {
-        "name": "Just 10 centimeters",
-        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
+        "name": "Dear my X",
+        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 195506,
-      "name": "Just 10 centimeters",
-      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
+      "duration_ms": 187733,
+      "name": "Dear my X",
+      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
       "added_at": "2023-12-05 08:40:16",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-12-05 08:40:16",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
       "added_at": "2023-12-05 08:40:16",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-12-05 08:40:16",
       "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2023-12-05 08:40:16",

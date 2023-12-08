@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-486 songs - 1 day 8 hr 47 min
+487 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 | 2022-09-05 | 2023-05-23 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-17 |  |
 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 | 2023-10-06 | 2023-11-17 |
-| [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 | 2023-04-11 |  |
+| [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 | 2023-04-11 | 2023-12-08 |
 | [Evian \(feat\. PinkPantheress, Rizloski & Rax\)](https://open.spotify.com/track/5uakDGEx9HegMZZi840VzH) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rizloski](https://open.spotify.com/artist/6Wl9y5OsaB4fyXl0cCC2iO), [Rax](https://open.spotify.com/artist/5WeVKbqPBzsASTkta9ijsz) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:08 | 2022-04-06 | 2022-04-09 |
 | [Evil Butter](https://open.spotify.com/track/1H6VUUUkJfS61xILe4Ly54) | [Mera Bhai](https://open.spotify.com/artist/4C8nlIoLPOidEuovsSBSqU), [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Evil Butter](https://open.spotify.com/album/3HPABO1zYO6djDsOWTEVh8) | 4:35 | 2023-01-16 | 2023-03-03 |
 | [Exhale](https://open.spotify.com/track/3JVxMoCvTaEgnODlMxX378) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Exhale](https://open.spotify.com/album/0Dkj2r4S95C043ELdTDRjV) | 2:50 | 2022-04-06 | 2022-04-17 |
@@ -207,6 +207,7 @@
 | [Hello Happiness](https://open.spotify.com/track/3w3LyAknbXOnyppVCI1QeW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/0lyiUZeydSCaBrDGjJfzPa) | 3:56 | 2022-04-06 | 2022-04-19 |
 | [Higher](https://open.spotify.com/track/46kr1OmRzIFUrDjx5t0WiJ) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:46 | 2022-04-06 | 2022-04-08 |
 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 | 2022-02-25 | 2022-04-09 |
+| [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 | 2023-11-24 |  |
 | [Hooked On You \(feat\. Miya Miya\)](https://open.spotify.com/track/1zO8n7thTD0OAFeelfQpte) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Hooked On You \(feat\. Miya Miya\)](https://open.spotify.com/album/2NjRYjbnOLbMEyzwV5bIJs) | 3:40 | 2022-01-14 | 2022-06-19 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-09-22 |  |
 | [How The Light Gets In](https://open.spotify.com/track/3WCkCuKDZv13MTUmL9FP7s) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [How The Light Gets In](https://open.spotify.com/album/72ImiCyFEh3JXpXbZIW5Qk) | 3:32 | 2023-03-02 | 2023-04-12 |

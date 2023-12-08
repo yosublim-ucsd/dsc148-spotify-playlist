@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 60328,
+  "num_followers": 60645,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDI1ZTg4MTBmMTc5ZmM1NDE5ZmVlZDdhNWI5OTViMGQ0ZTJmNjRm",
+  "snapshot_id": "MCw2ZTY2YTRkNmI1MTA5YTk3YjEyZjJkZTczMzZiYjExNGM3ZjY3YTk5",
   "tracks": [
     {
       "added_at": "2023-11-29 16:22:03",
@@ -293,6 +293,30 @@
       "url": "https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8"
     },
     {
+      "added_at": "2023-12-07 18:54:15",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg"
+    },
+    {
       "added_at": "2023-11-29 16:22:03",
       "album": {
         "name": "All I Want for Christmas",
@@ -447,22 +471,6 @@
     {
       "added_at": "2023-11-29 16:22:03",
       "album": {
-        "name": "A Very Decent Christmas",
-        "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
-      },
-      "artists": [
-        {
-          "name": "Gent & Jawns",
-          "url": "https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Turn Up Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
         "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
         "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
       },
@@ -479,6 +487,22 @@
       "duration_ms": 188264,
       "name": "All I Want for Christmas is You",
       "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
+    },
+    {
+      "added_at": "2023-11-29 16:22:03",
+      "album": {
+        "name": "A Very Decent Christmas",
+        "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
+      },
+      "artists": [
+        {
+          "name": "Gent & Jawns",
+          "url": "https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Turn Up Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
     },
     {
       "added_at": "2023-11-29 16:22:03",
@@ -639,6 +663,26 @@
     {
       "added_at": "2023-11-29 16:22:03",
       "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Late Night Alumni",
+          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Christmas is Here (feat. Late Night Alumni)",
+      "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
+    },
+    {
+      "added_at": "2023-11-29 16:22:03",
+      "album": {
         "name": "Winter Wonderland ^Bsiide",
         "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
       },
@@ -679,26 +723,6 @@
     {
       "added_at": "2023-11-29 16:22:03",
       "album": {
-        "name": "Caroling Caroling",
-        "url": "https://open.spotify.com/album/7zZ5oQWZWn0hZQUCihlGBc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
-        }
-      ],
-      "duration_ms": 206125,
-      "name": "Caroling Caroling",
-      "url": "https://open.spotify.com/track/6bHwkInIrzlxdtpLSaRcU6"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
         "name": "Christmas Days",
         "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
@@ -731,26 +755,6 @@
       "duration_ms": 150021,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
-    },
-    {
-      "added_at": "2023-11-29 16:22:03",
-      "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q"
-      },
-      "artists": [
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
-        }
-      ],
-      "duration_ms": 163312,
-      "name": "It's Christmas Time",
-      "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
     }
   ],
   "unique_name": "Electronic Christmas",

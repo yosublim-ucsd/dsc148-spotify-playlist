@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 223436,
+  "num_followers": 223462,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjYyYzQ1YTQwNmYxM2YxNGY1YTBkYjBlOTA0YjZhYzQ4MmZjNDgx",
+  "snapshot_id": "MCxjYjZmMWM2NDE2OTdlMmFlN2UxYzNkODM4YTUyYjFjMDg1ZmQzMGE0",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -359,62 +359,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Um Toque de Malandragem",
-        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 277411,
-      "name": "Perfeita",
-      "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Melhor S\u00f3",
-        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -443,6 +387,62 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Melhor S\u00f3",
+        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Um Toque de Malandragem",
+        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 277411,
+      "name": "Perfeita",
+      "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Vai",
+        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
+      },
+      "artists": [
+        {
+          "name": "Gbzin",
+          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
+        },
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        }
+      ],
+      "duration_ms": 177410,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -931,6 +951,50 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "TRAP DE MALOKA",
+        "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
+      },
+      "artists": [
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Danike",
+          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
+        },
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Kayin",
+          "url": "https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "NERESZZ",
+          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "TRAP DE MALOKA",
+      "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -983,70 +1047,6 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "TRAP DE MALOKA",
-        "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
-      },
-      "artists": [
-        {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Danike",
-          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
-        },
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Kayin",
-          "url": "https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61"
-        },
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        },
-        {
-          "name": "NERESZZ",
-          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "TRAP DE MALOKA",
-      "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Vai",
-        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
-      },
-      "artists": [
-        {
-          "name": "Gbzin",
-          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
-        },
-        {
-          "name": "Pique Novo",
-          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
-        }
-      ],
-      "duration_ms": 177410,
-      "name": "Vai",
-      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 175031,
-      "name": "Cruzeiro do Ney",
-      "url": "https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Trap The Fato Deluxe",
         "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
@@ -1171,22 +1147,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Xuxu",
-        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
       "artists": [
         {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         }
       ],
-      "duration_ms": 172523,
-      "name": "Xuxu",
-      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
+      "duration_ms": 175031,
+      "name": "Cruzeiro do Ney",
+      "url": "https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 211859,
       "name": "Espero Que Entendam - Freestyle",
       "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Xuxu",
+        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "Xuxu",
+      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "\u00c9 OS D",
+        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "\u00c9 OS D",
+      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Toda Noite",
         "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 142500,
       "name": "Renc Renc",
       "url": "https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "\u00c9 OS D",
-        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "\u00c9 OS D",
-      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
     },
     {
       "added_at": "2023-12-01 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: HARDY",
-  "num_followers": 456827,
+  "num_followers": 456853,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTlkMzNhN2IzOTIzZThiNWE1OTA4M2VhZTg4ZmVjM2FiYmQ5N2Qy",
+  "snapshot_id": "MCw2ZjY3OThjM2IyNjAxYzg0MDllYzZjNjc1NTZlMmE2MWQ0MTE1NmI1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Whiskey Drink",
+      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Mornings With You (with Kaitlin Butts)",
         "url": "https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Highway Desperado",
-        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+        "name": "The Outlaw Side Of Me",
+        "url": "https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 190400,
-      "name": "Whiskey Drink",
-      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
+      "duration_ms": 162344,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -839,22 +855,6 @@
       "duration_ms": 162665,
       "name": "Giddy Up!",
       "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "The Outlaw Side Of Me",
-        "url": "https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 162344,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Second Guessing",
-        "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
-      },
-      "artists": [
-        {
-          "name": "Griffen Palmer",
-          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
-        }
-      ],
-      "duration_ms": 189782,
-      "name": "Second Guessing",
-      "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Come Get Your Memory",
         "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 171000,
       "name": "Come Get Your Memory",
       "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Second Guessing",
+        "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
+      },
+      "artists": [
+        {
+          "name": "Griffen Palmer",
+          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+        }
+      ],
+      "duration_ms": 189782,
+      "name": "Second Guessing",
+      "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "If You Show Me Yours",
+        "url": "https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK"
+      },
+      "artists": [
+        {
+          "name": "Teigen Gayse",
+          "url": "https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "If You Show Me Yours",
+      "url": "https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "If You Show Me Yours",
-        "url": "https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK"
+        "name": "Singing In A Beer",
+        "url": "https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5"
       },
       "artists": [
         {
-          "name": "Teigen Gayse",
-          "url": "https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4"
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
         }
       ],
-      "duration_ms": 226666,
-      "name": "If You Show Me Yours",
-      "url": "https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn"
+      "duration_ms": 172910,
+      "name": "Singing In A Beer",
+      "url": "https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Singing In A Beer",
-        "url": "https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5"
+        "name": "Gravel & Gold",
+        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
       },
       "artists": [
         {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 172910,
-      "name": "Singing In A Beer",
-      "url": "https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe"
+      "duration_ms": 225533,
+      "name": "Walking Each Other Home",
+      "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1343,22 +1359,6 @@
       "duration_ms": 193133,
       "name": "Take Me Backroad (feat. High Valley)",
       "url": "https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Gravel & Gold",
-        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Walking Each Other Home",
-      "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"
     },
     {
       "added_at": "2023-12-01 05:00:00",

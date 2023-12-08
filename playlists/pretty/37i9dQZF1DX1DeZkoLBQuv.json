@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 7369,
+  "num_followers": 7402,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmQ1Y2Y3ODRmYjU1Mjc5NTI5MGUyN2YwMzZlZDIzN2RmMTRiMzA0",
+  "snapshot_id": "MCxmMzBlMzljMjEyNzdmNzAxZmM4OTMyNGI1MjA1NmVhMTk2ZTU2ZGJh",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
+        }
+      ],
+      "duration_ms": 259831,
+      "name": "O Milagre do Natal",
+      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "\u00c9 Natal",
         "url": "https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
-        }
-      ],
-      "duration_ms": 259831,
-      "name": "O Milagre do Natal",
-      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Natal",
         "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
       },
@@ -455,30 +455,6 @@
       "duration_ms": 204196,
       "name": "Natal",
       "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "A Can\u00e7\u00e3o de Natal",
-        "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
-      },
-      "artists": [
-        {
-          "name": "Prisma Brasil",
-          "url": "https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW"
-        },
-        {
-          "name": "Coral Jovem do Unasp - HT",
-          "url": "https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj"
-        },
-        {
-          "name": "Coral Canto Livre",
-          "url": "https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F"
-        }
-      ],
-      "duration_ms": 345735,
-      "name": "Medley de Natal: Num Ber\u00e7o de Palha / Noite de Paz",
-      "url": "https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -527,6 +503,30 @@
       "duration_ms": 195000,
       "name": "\u00d3, Vinde, Adoremos",
       "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "A Can\u00e7\u00e3o de Natal",
+        "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
+      },
+      "artists": [
+        {
+          "name": "Prisma Brasil",
+          "url": "https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW"
+        },
+        {
+          "name": "Coral Jovem do Unasp - HT",
+          "url": "https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj"
+        },
+        {
+          "name": "Coral Canto Livre",
+          "url": "https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F"
+        }
+      ],
+      "duration_ms": 345735,
+      "name": "Medley de Natal: Num Ber\u00e7o de Palha / Noite de Paz",
+      "url": "https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
+        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
+      },
+      "artists": [
+        {
+          "name": "Perlla",
+          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Vem Chegando o Natal",
+      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
-        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
-      },
-      "artists": [
-        {
-          "name": "Perlla",
-          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Vem Chegando o Natal",
-      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
     },
     {
       "added_at": "2022-12-09 06:26:14",

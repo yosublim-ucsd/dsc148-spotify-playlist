@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: BREIMEN
 
-1,071 songs - 2 day 19 hr 18 min
+1,074 songs - 2 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 | 2023-12-05 |  |
 | [Silver Lining](https://open.spotify.com/track/2j7AIjrvfx9hpMhZ5oQGb9) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Silver Lining](https://open.spotify.com/album/2NLxbBx2W8DpuypxMiZ5y3) | 3:37 | 2023-09-05 | 2023-10-06 |
 | [sissy](https://open.spotify.com/track/0LJv2yuJgyruUY0tlKEeGZ) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [sissy](https://open.spotify.com/album/38yPxEEUW4I5HbCksPCzBe) | 3:28 | 2023-04-11 | 2023-04-26 |
+| [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 |  |
 | [slow](https://open.spotify.com/track/6JOrzcUrQXsgEiCC5ETVxU) | [INNOSENT in FORMAL](https://open.spotify.com/artist/3SsYAFoKm9ijpEiqq4EQRR) | [slow](https://open.spotify.com/album/1N6tJEKEBYJ6HCRQwDf5my) | 4:59 | 2023-01-13 | 2023-04-07 |
 | [Small White](https://open.spotify.com/track/5gtz1vlmjbtUePIh3oXhWo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Shinya Ishihara](https://open.spotify.com/artist/2pre2TuvhoYEvrxHSNHodw), [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Small White](https://open.spotify.com/album/7vFfieIpd90YZe7FKUXpAy) | 4:44 | 2023-01-13 | 2023-03-08 |
 | [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-04 | 2023-08-25 |
@@ -642,6 +643,7 @@
 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2023-01-13 | 2023-03-29 |
 | [ひるねの国](https://open.spotify.com/track/7x0x7RjQ0xQEKsfds73MGW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ひるねの国](https://open.spotify.com/album/42FD62QpX9fh4PUcKjSRXM) | 3:06 | 2023-05-16 | 2023-05-18 |
 | [ふたりの傷跡](https://open.spotify.com/track/1hu5dJ6w20i7N8z4o6himl) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ふたりの傷跡](https://open.spotify.com/album/2Op0O3DZ1OAyjenq6eNF3M) | 5:04 | 2023-01-13 | 2023-01-25 |
+| [へっぽこまん \- rearrange ver.](https://open.spotify.com/track/7GbLlaxs7jumurnaQgyE2u) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [はしやすめ](https://open.spotify.com/album/1omaiBv0kc0lIBNDLExibH) | 2:37 | 2023-12-07 |  |
 | [へっぽこ聖剣士](https://open.spotify.com/track/3RzLkHo5tLhRPM0jiRc06Y) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [聖なる交差点 \(International Version\)](https://open.spotify.com/album/22Acl5KYCbpxGPSzPTwkHH) | 4:10 | 2023-11-21 |  |
 | [へっぽこ聖剣士](https://open.spotify.com/track/49iGgcordCDcak4qyUs1q7) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [聖なる交差点](https://open.spotify.com/album/0XLNqMOIIu5XUPMmrmTE2w) | 4:10 | 2023-11-14 | 2023-11-25 |
 | [またね](https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [またね](https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ) | 3:59 | 2023-01-24 | 2023-03-01 |
@@ -666,7 +668,7 @@
 | [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 | 2023-01-17 | 2023-03-18 |
 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 | 2023-04-27 | 2023-05-31 |
 | [イマジネーション \- New Version \-](https://open.spotify.com/track/2jFXcYFDLmdB4tXWrc9fVD) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション \- New Version \-](https://open.spotify.com/album/5buxh2cnDTTIWOumSjmKG3) | 2:55 | 2023-09-26 | 2023-10-13 |
-| [インヒューマンエンパシー](https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [永遠市](https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62) | 4:50 | 2023-10-24 |  |
+| [インヒューマンエンパシー](https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [永遠市](https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62) | 4:50 | 2023-10-24 | 2023-12-08 |
 | [イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム](https://open.spotify.com/track/2p4pU9Hxjd5UEeJJAe6ezh) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム](https://open.spotify.com/album/1m7JxZB7GaLWYxDNEhDVdA) | 3:53 | 2023-06-27 | 2023-06-29 |
 | [エウレカ](https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [エウレカ](https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz) | 3:04 | 2023-06-20 | 2023-08-25 |
 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 | 2023-12-05 |  |
@@ -684,7 +686,7 @@
 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 | 2023-01-13 | 2023-03-01 |
 | [カナヅチ](https://open.spotify.com/track/4LaEWDdKrmU2x3BXMvjSDB) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [カナヅチ](https://open.spotify.com/album/5OVzZm40lG4u43p0XBcYfm) | 3:33 | 2023-07-11 | 2023-08-23 |
 | [カンナ](https://open.spotify.com/track/11TyLXYong1DV4Y3y4rPDS) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [カンナ](https://open.spotify.com/album/2YWx37pEuWVDJNCNkAD3gU) | 4:42 | 2023-10-17 | 2023-10-26 |
-| [カンナ](https://open.spotify.com/track/2fu6UREZVLHnPgioQYmscb) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 4:42 | 2023-10-24 |  |
+| [カンナ](https://open.spotify.com/track/2fu6UREZVLHnPgioQYmscb) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 4:42 | 2023-10-24 | 2023-12-08 |
 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 | 2023-11-14 |  |
 | [キュウセッキン](https://open.spotify.com/track/5pMKNI4JWXDbmgt4qke6pq) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [キュウセッキン](https://open.spotify.com/album/2wz3cBhGjXj7FaoqGDQ6Tu) | 2:55 | 2023-07-11 | 2023-07-13 |
 | [キラーワード](https://open.spotify.com/track/6lOrtgsvN9QKtN4h7S1Y5j) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [キラーワード](https://open.spotify.com/album/0hTDFgya1BSBjCucfBfaTQ) | 4:01 | 2023-11-30 | 2023-12-02 |
@@ -1056,6 +1058,7 @@
 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 | 2023-09-05 | 2023-10-18 |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 | 2023-10-13 |
 | [金糸雀](https://open.spotify.com/track/1Oa7XF4Q34YYArakA4AuVb) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [金糸雀](https://open.spotify.com/album/3HbRbloiXPNXhD9eY7v1FJ) | 4:45 | 2023-04-04 | 2023-04-06 |
+| [闖入者](https://open.spotify.com/track/1ZtYHdhncrvnrm6wMrhk7s) | [Petrolz](https://open.spotify.com/artist/1DI7HK9920SYDDcxXPWeWw) | [乱反射](https://open.spotify.com/album/6sdDF0mmlJudW83EA8XYnm) | 4:58 | 2023-12-07 |  |
 | [陽炎](https://open.spotify.com/track/3PfTPSEod7JVhJYoYwVtWv) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [陽炎](https://open.spotify.com/album/0u58bxsYkFlaE3AaY1dZM2) | 3:22 | 2023-10-31 | 2023-12-01 |
 | [雀の子](https://open.spotify.com/track/3CnqHdUx0nEZ6Sq4rFFmBL) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [雀の子](https://open.spotify.com/album/1MzgYIiGByI7YdHKGCr4xG) | 3:11 | 2023-07-25 | 2023-07-27 |
 | [雑稿 pt.2](https://open.spotify.com/track/4YPXhMFkDZbkiotEFi6BfV) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [悲しい出来事 \-THE OVERKILL\-](https://open.spotify.com/album/0ZaodFLySbuZiNxjzmlNUz) | 3:36 | 2023-11-07 | 2023-11-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best in indie\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,817 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,818 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Hey, Big Beluga](https://open.spotify.com/track/5E3zEkgKnUyiQuHMytfxGa) | [Po Lazarus](https://open.spotify.com/artist/2kOLImI4VIsAM8yA9KQUOi) | [Living In The Light](https://open.spotify.com/album/79FfEcU3In6KhBGT7QYVxR) | 4:45 |
 | 100 | [Parallel](https://open.spotify.com/track/71yizzHrqEmKVdffU6BZbo) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Parallel](https://open.spotify.com/album/7EzyshmCFWJhje9N91PuFL) | 4:06 |
 
-Snapshot ID: `MCw1NDgzN2I2ZjA5MjQ4OThkNzllY2U3MTk3MmMzZWJjMDQyMGFmMDFk`
+Snapshot ID: `MCxiOTI3NDMwMzhiMGU0NTAwNTQzZWI2ZmM4OGFlYTEwZWUzYWE4NzA2`

@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 420807,
+  "num_followers": 420909,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThmMzk4NzhiMmM3MGFjN2Y1NzUyNmJhNzYwYWRlMTkyOTczOTY0",
+  "snapshot_id": "MCxhNDQ4NzNiNTc0NGY3MzliNDkzOTBmODVkNTY4NDVjNzA5YTNjZDA0",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Le Temple Volant",
         "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 125893,
       "name": "Le Temple Volant",
       "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Heart Under",
         "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 230133,
       "name": "I Am You",
       "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "I, Gemini",
+        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 339173,
+      "name": "Deep Six Textbook",
+      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Wicked Animal",
         "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "I, Gemini",
-        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 339173,
-      "name": "Deep Six Textbook",
-      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Miracle of Life",
         "url": "https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "You are the Problem Here",
         "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 218373,
       "name": "You are the Problem Here",
       "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Used To It",
-        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
-      },
-      "artists": [
-        {
-          "name": "Ethan P. Flynn",
-          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
-        }
-      ],
-      "duration_ms": 182002,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Covered In Hether",
         "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 191860,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Used To It",
+        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
+      },
+      "artists": [
+        {
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
+        }
+      ],
+      "duration_ms": 182002,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
     },
     {
       "added_at": "2023-11-03 23:08:22",

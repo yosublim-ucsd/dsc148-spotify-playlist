@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,133 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,148 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 39 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 | 40 | [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 |
 
-Snapshot ID: `MCw3YTM2MTY5OTM1NWVkZWE3ZTE2MjBiNmRkYTA4YjhmZGU2NmRlYTU2`
+Snapshot ID: `MCxmZjFlZWIzMzIzZDhhY2VmYWE3NDI1NjEzYTY4YzljMjFjMjQxMTg1`

@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Pierre Kwenders
 
-318 songs - 19 hr 54 min
+319 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Pepesou](https://open.spotify.com/track/76N0vIFC7O8CNukQLRkOI6) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [KENI](https://open.spotify.com/artist/6lcDFancBq5GIT8rGTyAJV), [Lil Maro](https://open.spotify.com/artist/5JKD7sTK9ipdYfb4wEXA9g) | [Pepesou](https://open.spotify.com/album/6qcMsF79mQ5y4AOvacvvsh) | 5:31 | 2023-03-17 | 2023-08-05 |
 | [Pere \- Remix Version](https://open.spotify.com/track/2c5vJZBWfxd6eTGkpg1PN2) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Dj Wendy Rose](https://open.spotify.com/artist/1ncWJO9Aj0Fq301Cxnfhbr), [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN) | [Pere \(Remix Version\)](https://open.spotify.com/album/25xdyOouxjZNZ5PSO6tieP) | 3:33 | 2022-06-30 | 2022-11-12 |
 | [Pesa](https://open.spotify.com/track/1WV8Q3lGr9ZEkXYGoQIZY5) | [Kelly Zul](https://open.spotify.com/artist/2bO7OAQgHoCEE8sEHkNQOZ) | [Bolingo](https://open.spotify.com/album/5M8U93sR4czpqfToMyTTgM) | 3:36 | 2023-02-10 | 2023-08-05 |
-| [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-09-29 |  |
+| [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-09-29 | 2023-12-08 |
+| [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2023-12-01 |  |
 | [Pieteron](https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Pieteron](https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG) | 3:22 | 2023-11-24 |  |
 | [PISTOLET](https://open.spotify.com/track/794xlzZPneUnPEdosfCjxp) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [PISTOLET](https://open.spotify.com/album/2zodhhPsfim9tEDfpOzjai) | 2:40 | 2023-07-21 | 2023-09-22 |
 | [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-15 |  |

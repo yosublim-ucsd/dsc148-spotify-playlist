@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-470 songs - 1 day 2 hr 44 min
+471 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Loca / El Celular](https://open.spotify.com/track/1H9BTOXs7KCWnVfZoOgLLf) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Invierno en Vivo](https://open.spotify.com/album/1grqXXes9m5X3KQkhE81yP) | 5:21 | 2022-07-29 | 2022-09-20 |
 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 | 2022-07-15 | 2022-07-24 |
 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 | 2022-01-07 |  |
-| [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 | 2023-10-05 |  |
+| [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 | 2023-10-05 | 2023-12-08 |
 | [Lola](https://open.spotify.com/track/6bsR9mIOQ0FNQ2J06V9eXg) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Bailando Con Mi Sombra](https://open.spotify.com/album/5ffP5cXy42RDzWC1QsedmU) | 2:59 | 2022-01-28 | 2022-06-29 |
 | [Loop de Amor](https://open.spotify.com/track/47ppVEH3w6A6pIOmWlpK3y) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Loop de Amor](https://open.spotify.com/album/66jk4CSCR1s8D53bg9kJDC) | 2:44 | 2022-01-07 | 2022-06-29 |
 | [Loop en Mi](https://open.spotify.com/track/7C6aTvTyHYGnLlzV5IKhto) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Loop en Mi](https://open.spotify.com/album/5rXlpB54MxsqiiBmLpUg6q) | 4:25 | 2022-01-28 | 2022-06-11 |
@@ -442,6 +442,7 @@
 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 | 2022-01-07 |  |
 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 | 2022-05-09 | 2022-07-29 |
 | [Turista](https://open.spotify.com/track/5cBuCi1BUv9Tah6aBDwy27) | [La Playa](https://open.spotify.com/artist/3mRz1jPyfOO3MD4BnkQPiO), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Turista](https://open.spotify.com/album/10HW520SZb9WIKWwAlTX1l) | 3:29 | 2022-01-07 | 2022-05-17 |
+| [táctica](https://open.spotify.com/track/4ZI0Q8RaXwSYK6T3CBkMGm) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [táctica](https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR) | 2:23 | 2023-12-07 |  |
 | [Tú](https://open.spotify.com/track/29QK7nmWaJeM3pk1Ajv8AD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Tú](https://open.spotify.com/album/0ZZ6KEkoM7WY9yk32YVNsd) | 3:56 | 2022-01-07 | 2022-07-26 |
 | [Tú Detrás de Todo](https://open.spotify.com/track/6CY2g39NtKYXmwLC2eu2n2) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Tú Detrás de Todo](https://open.spotify.com/album/7oysbRTkJTr9Oee8EUmyUn) | 3:15 | 2022-01-07 | 2022-07-26 |
 | [Tú Me Llevas](https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG) | 4:23 | 2022-01-07 | 2023-04-13 |

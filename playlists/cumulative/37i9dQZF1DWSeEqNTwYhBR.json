@@ -308,10 +308,28 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 213213,
       "name": "Dragostea Din Tei - Original Italian Version",
       "url": "https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy"
+    },
+    {
+      "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Dragostea Din Tei - Original Romanian Version",
+      "url": "https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX"
     },
     {
       "album": {

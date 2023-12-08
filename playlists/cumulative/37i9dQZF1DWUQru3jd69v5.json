@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: 18K",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Don Pero",
   "name": "Raptopia",
   "tracks": [
     {
@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "A45S",
+        "url": "https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "A45S",
+      "url": "https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC"
+    },
+    {
+      "album": {
         "name": "P.A.S.",
         "url": "https://open.spotify.com/album/1mGVUOrgbQssKkgKsIYbEd"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 167283,
       "name": "Ancora un minuto",
       "url": "https://open.spotify.com/track/0MTabSNX8sZzRgjRDqqJ0e"
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 158394,
       "name": "BASTA SESSION N\u00b01",
       "url": "https://open.spotify.com/track/05zm3yVavcLtevyhsCgOO3"
@@ -3721,6 +3739,28 @@
     },
     {
       "album": {
+        "name": "Come a Dakar",
+        "url": "https://open.spotify.com/album/20jMLLeQuGTntObzVBXyzW"
+      },
+      "artists": [
+        {
+          "name": "MBOSS",
+          "url": "https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az"
+        },
+        {
+          "name": "Low Kidd",
+          "url": "https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "Come a Dakar",
+      "url": "https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B"
+    },
+    {
+      "album": {
         "name": "Come Mai",
         "url": "https://open.spotify.com/album/7Gvadg1kPZmybKgSZVqhmd"
       },
@@ -4208,6 +4248,44 @@
       "duration_ms": 198795,
       "name": "Da zero a cento",
       "url": "https://open.spotify.com/track/65GbcnMHYa1wWRV7ElsU6w"
+    },
+    {
+      "album": {
+        "name": "Dakar",
+        "url": "https://open.spotify.com/album/1FbAGKKdivCNVeoNmtJWCM"
+      },
+      "artists": [
+        {
+          "name": "Abe Kayn",
+          "url": "https://open.spotify.com/artist/1U7o0SH2ec5y6KnMJgyjGn"
+        },
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI"
+        },
+        {
+          "name": "Flaco Pnz",
+          "url": "https://open.spotify.com/artist/6CaMJhccw2F1BhhtS1QCgj"
+        },
+        {
+          "name": "Paco",
+          "url": "https://open.spotify.com/artist/5DN3xDZBYJwXznoicLtbSy"
+        },
+        {
+          "name": "Svg Pnz",
+          "url": "https://open.spotify.com/artist/5C18A3u0i59737iDQas7eO"
+        },
+        {
+          "name": "WadeLeVrai",
+          "url": "https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198605,
+      "name": "Dakar",
+      "url": "https://open.spotify.com/track/0e1L1DTR2koDnvZJ4n3ljJ"
     },
     {
       "album": {
@@ -4920,7 +4998,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 195957,
       "name": "Eddie Guerrero (feat. Side Baby)",
       "url": "https://open.spotify.com/track/7e9GiSZmiY6LwNd3P2Tt4Z"
@@ -5322,7 +5400,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 159101,
       "name": "EVIL TWINS (feat. Faneto, Melons el pejor)",
       "url": "https://open.spotify.com/track/4Ojlf4ztVp8AsIS2SJV6H0"
@@ -7049,6 +7127,24 @@
     },
     {
       "album": {
+        "name": "MEZZA PAROLA",
+        "url": "https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180388,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/3ir3hut1UUri2IaTLVr63g"
+    },
+    {
+      "album": {
         "name": "HEART THIEF",
         "url": "https://open.spotify.com/album/2EnsVKUvR4JM4enTIbXfHx"
       },
@@ -8065,6 +8161,24 @@
     },
     {
       "album": {
+        "name": "KRIMINELL",
+        "url": "https://open.spotify.com/album/6sDlXC9wg0sBLOv4kHuCMV"
+      },
+      "artists": [
+        {
+          "name": "Ramzes",
+          "url": "https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208724,
+      "name": "KRIMINELL",
+      "url": "https://open.spotify.com/track/4fywmdizxcc2h9LzQVsN6C"
+    },
+    {
+      "album": {
         "name": "Kurt Cobain",
         "url": "https://open.spotify.com/album/2OhlZbURVdLbN4IikoFicb"
       },
@@ -8308,6 +8422,24 @@
       "duration_ms": 309650,
       "name": "La Famiglia (feat. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, N\u00e9za & Nabi)",
       "url": "https://open.spotify.com/track/4fuCi43DogsknVxQtVpnx0"
+    },
+    {
+      "album": {
+        "name": "La Fortuna",
+        "url": "https://open.spotify.com/album/3C6YvBjWp867BdAC52O19m"
+      },
+      "artists": [
+        {
+          "name": "LocoArmy",
+          "url": "https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "La Fortuna",
+      "url": "https://open.spotify.com/track/72clshXBMKutidadzudGmc"
     },
     {
       "album": {
@@ -8828,7 +8960,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 130578,
       "name": "LCC",
       "url": "https://open.spotify.com/track/6oOSv9oPG5IZTzvt4vr2TB"
@@ -9152,6 +9284,24 @@
       "duration_ms": 144022,
       "name": "LOST CONTROL",
       "url": "https://open.spotify.com/track/4gJXn8lWZVD7Zc8LBTi0Nf"
+    },
+    {
+      "album": {
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/5imk2wsUgGe1erNn7H3osc"
+      },
+      "artists": [
+        {
+          "name": "Not Good",
+          "url": "https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174624,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/5h7M8JWFpujb265bQFan9K"
     },
     {
       "album": {
@@ -10272,7 +10422,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 152210,
       "name": "METTO LE AIR",
       "url": "https://open.spotify.com/track/6Kk4oSUJLNBZYSSfyUnGY8"
@@ -10737,6 +10887,24 @@
     },
     {
       "album": {
+        "name": "Morire",
+        "url": "https://open.spotify.com/album/4dSRjaXGU5uh7E2i8rppWI"
+      },
+      "artists": [
+        {
+          "name": "Blocage",
+          "url": "https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Morire",
+      "url": "https://open.spotify.com/track/4qwSAlQf1ekfpvDA76WqDr"
+    },
+    {
+      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -11064,7 +11232,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 140880,
       "name": "Nazionale",
       "url": "https://open.spotify.com/track/1Aipk8s276jf0GaHbT5Vlz"
@@ -11947,6 +12115,24 @@
     },
     {
       "album": {
+        "name": "OUTFIT",
+        "url": "https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR"
+      },
+      "artists": [
+        {
+          "name": "19F",
+          "url": "https://open.spotify.com/artist/1wtu0PppVIsGTuYVE3gkiR"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179118,
+      "name": "OUTFIT",
+      "url": "https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD"
+    },
+    {
+      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/5LzeVSNCy9PnQNKgMl9Q7y"
       },
@@ -12040,7 +12226,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 176848,
       "name": "Palafitte (feat. Don Pero)",
       "url": "https://open.spotify.com/track/3ndKSn3jPvTfrGHtt25iSI"
@@ -15274,7 +15460,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 163477,
       "name": "SPIN THAT BLOCK",
       "url": "https://open.spotify.com/track/7KrtGSZ0nmL5LmSoGDdfHP"
@@ -15961,6 +16147,28 @@
     },
     {
       "album": {
+        "name": "MEZZA PAROLA",
+        "url": "https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148394,
+      "name": "Tech Pack",
+      "url": "https://open.spotify.com/track/3GNdB5bw9Nal39eCqCLJAm"
+    },
+    {
+      "album": {
         "name": "TEMPORALE",
         "url": "https://open.spotify.com/album/2ujTXwXNw8i6CtiER5GztY"
       },
@@ -16242,7 +16450,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 167106,
       "name": "Top Boy",
       "url": "https://open.spotify.com/track/1ulJFkCkrNued2jimxc8PL"
@@ -16974,6 +17182,24 @@
       "duration_ms": 143816,
       "name": "VELENOSA",
       "url": "https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2"
+    },
+    {
+      "album": {
+        "name": "Vero Stepper",
+        "url": "https://open.spotify.com/album/2U06R6wirFeVoQEkGF3DSz"
+      },
+      "artists": [
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127883,
+      "name": "Vero Stepper",
+      "url": "https://open.spotify.com/track/7MSnErYp36L1D6H0YRRxJp"
     },
     {
       "album": {

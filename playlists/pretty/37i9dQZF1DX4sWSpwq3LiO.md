@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,228,705 likes - 223 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,229,865 likes - 223 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 222 | [Sakteligen](https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Sakteligen](https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2) | 2:11 |
 | 223 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 |
 
-Snapshot ID: `MCwxMzIyNmQ1N2M3OWYyZTZlNzc0YmIyY2FmNjhlNDVkMTE5ZTNmOWQw`
+Snapshot ID: `MCxhN2I3ZDllMGQxYzQ2ZDJjMDQwZmZkZmRjM2Y2NjI0ODc4NWQ2ZTgx`

@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bibi Club",
-  "num_followers": 3546,
+  "num_followers": 3561,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDQ4YTg4NzFiZTQ4ZWE0MDM1NGFhNzY0ZjkzYmRlZWJhYjZjMTkx",
+  "snapshot_id": "MCw3ZTU5NmU5YjFjMTljOWJhMjEyMzM5YWNkNGViZjAxOGQ0NDc5MGZm",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Sainte-Col\u00e8re",
         "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
       "artists": [
         {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -531,34 +531,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
       "artists": [
         {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "tu penses-tu + veux veux pas",
-        "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 190284,
-      "name": "veux veux pas",
-      "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -575,6 +559,22 @@
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "tu penses-tu + veux veux pas",
+        "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 190284,
+      "name": "veux veux pas",
+      "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "We Are Sunshine",
-        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
+        "name": "sadguitar_V777.wav",
+        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
       },
       "artists": [
         {
-          "name": "The Blaze Velluto Collection",
-          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
         }
       ],
-      "duration_ms": 195000,
-      "name": "The Rabbit Song",
-      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
+      "duration_ms": 237022,
+      "name": "sadguitar_V777.wav",
+      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -695,34 +711,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+        "name": "We Are Sunshine",
+        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
       },
       "artists": [
         {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+          "name": "The Blaze Velluto Collection",
+          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
         }
       ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "sadguitar_V777.wav",
-        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
-      },
-      "artists": [
-        {
-          "name": "Emma Beko",
-          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "sadguitar_V777.wav",
-      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+      "duration_ms": 195000,
+      "name": "The Rabbit Song",
+      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Temp\u00eate",
         "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 209680,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "PICTURA DE IPSE : Musique directe",
-        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 189712,
-      "name": "DIMANCHE SOIR",
-      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -871,24 +871,24 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Phil\u00e9douche",
-        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
       "artists": [
         {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 280513,
-      "name": "Phile\u0301douche",
-      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
         }
       ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
+        "name": "Phil\u00e9douche",
+        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
       "artists": [
         {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
         }
       ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+      "duration_ms": 280513,
+      "name": "Phile\u0301douche",
+      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Chicout",
-        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
-      },
-      "artists": [
-        {
-          "name": "Chassepareil",
-          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
-        }
-      ],
-      "duration_ms": 220607,
-      "name": "Feu de for\u00eat",
-      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 131015,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Chicout",
+        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
+      },
+      "artists": [
+        {
+          "name": "Chassepareil",
+          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
+        }
+      ],
+      "duration_ms": 220607,
+      "name": "Feu de for\u00eat",
+      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
       "added_at": "2023-10-27 04:01:00",

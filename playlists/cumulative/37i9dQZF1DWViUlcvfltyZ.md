@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: MILANOSPORT
+> La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Stunt Pilots
 
-665 songs - 1 day 12 hr 54 min
+667 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Color Shades](https://open.spotify.com/track/1IQFjP1hfifbffLTD4z61b) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Color Shades](https://open.spotify.com/album/32aZ5m6NZ2zv9nlReMdrg1) | 3:18 | 2023-09-14 | 2023-10-13 |
 | [Colorare/Ritagliare](https://open.spotify.com/track/3B6n3BN9oX79k3JxQeJMn7) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Colorare/Ritagliare](https://open.spotify.com/album/4BXbAi8pcEkXVMsDYmxvqP) | 3:08 | 2023-10-26 | 2023-11-24 |
 | [Coltello \(feat\. Piero Pelù\)](https://open.spotify.com/track/2jrRvvqAsLBxwAvonVVnvn) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Colla](https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj) | 2:56 | 2022-05-09 | 2022-07-22 |
-| [COME I CLASH](https://open.spotify.com/track/7x1L1aFTrBBJYi959kemtb) | [LEHAVRE](https://open.spotify.com/artist/4g4R5YQzDRaONaJuU3yUls) | [COME I CLASH](https://open.spotify.com/album/6oteA5eXo02tbnKUHV4u1f) | 3:02 | 2023-10-12 |  |
+| [COME I CLASH](https://open.spotify.com/track/7x1L1aFTrBBJYi959kemtb) | [LEHAVRE](https://open.spotify.com/artist/4g4R5YQzDRaONaJuU3yUls) | [COME I CLASH](https://open.spotify.com/album/6oteA5eXo02tbnKUHV4u1f) | 3:02 | 2023-10-12 | 2023-12-08 |
 | [Come mi divori](https://open.spotify.com/track/7uzsMb477hv1SzEMQUAmVd) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Come mi divori](https://open.spotify.com/album/4zAF5jahW8hxPJWfLsoyzk) | 3:11 | 2022-10-27 | 2022-11-11 |
 | [Come mi vuoi](https://open.spotify.com/track/50Q4NLN9n0p5XF3VObLq9T) | [Wepro](https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp) | [Come mi vuoi](https://open.spotify.com/album/4FDhJ1zKCY51vAjCxNRSRX) | 3:02 | 2023-01-12 | 2023-04-14 |
 | [Come se tu](https://open.spotify.com/track/1gm14I6ZhJt2nZBLVv1slR) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Come se tu](https://open.spotify.com/album/3cpuDgTfc4m2aLKRC5hIae) | 3:28 | 2023-05-18 | 2023-10-20 |
@@ -173,6 +173,7 @@
 | [Dimmi Dimmi](https://open.spotify.com/track/0wrRtaEGJpaiYUl7ovrHa4) | [Maida](https://open.spotify.com/artist/3JNcn1jYD34BVFrVvrZBHN) | [Dimmi Dimmi](https://open.spotify.com/album/22LJuu2gun0OObYToNHQRm) | 2:59 | 2023-01-12 | 2023-02-03 |
 | [DIO](https://open.spotify.com/track/5rvSgBzvXLuRHNI6fAXArv) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [DIO](https://open.spotify.com/album/6wWyqa9Ry4Jxne32G7KN9p) | 2:02 | 2022-10-13 | 2023-01-20 |
 | [Diritto Di Obbedire](https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh) | [Golpe](https://open.spotify.com/artist/3poEwG5DgXTTIYKyD2mi33) | [Diritto Di Obbedire](https://open.spotify.com/album/4KwdVsKZZbIs74vOMLrSEZ) | 1:14 | 2023-10-05 | 2023-10-27 |
+| [Distratto](https://open.spotify.com/track/2ouuJSUIduWYoqQVulT4yk) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [I Botanici](https://open.spotify.com/album/3Px7SSj6u1kiwXEXMiKeFw) | 3:18 | 2023-12-07 |  |
 | [Diverso/Uguale](https://open.spotify.com/track/0QnSjvX4FHMcmXRql6Jef5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Diverso/Uguale](https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG) | 3:08 | 2022-05-09 | 2022-06-24 |
 | [DNA](https://open.spotify.com/track/5zBPYJyuIMuSpYVdYIkyV5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [DNA](https://open.spotify.com/album/1pH8NNZryuGdbX3Wq6vAsN) | 3:09 | 2023-04-13 | 2023-05-17 |
 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 | 2022-05-09 | 2022-12-02 |
@@ -459,6 +460,7 @@
 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 | 2022-10-13 | 2022-11-04 |
 | [PORNO](https://open.spotify.com/track/1V943kQXR3Tiz9kqakdnNe) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [PORNO](https://open.spotify.com/album/1AJYKo6p37qlVtEVbeoqJ6) | 3:12 | 2023-02-16 | 2023-05-12 |
 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 | 2022-07-21 | 2023-04-14 |
+| [porpora](https://open.spotify.com/track/0vvvWBQLBrWUE1dWGbk6oQ) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk), [Yumeia](https://open.spotify.com/artist/3J5Sl8WcvtKAbsK8VAD6ID) | [porpora](https://open.spotify.com/album/4Sim5FKvyGnMh7jR6sTloC) | 3:18 | 2023-12-07 |  |
 | [Posso Tenerti Con Me](https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU), [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Posso Tenerti Con Me](https://open.spotify.com/album/1yJSX28RfmbnlkCLD2gyfJ) | 3:09 | 2022-11-24 | 2023-03-10 |
 | [POVERI DIAVOLI](https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [POVERI DIAVOLI](https://open.spotify.com/album/0wUUrD6LCzo2bYz7uwgm5q) | 3:16 | 2022-05-09 | 2022-06-03 |
 | [Preda](https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u) | [Solaris](https://open.spotify.com/artist/3RFeodZEt6cNZo0DPQMd4S) | [Preda](https://open.spotify.com/album/6WmM7P2msBOZaXLMtUpu1A) | 5:28 | 2023-03-02 | 2023-05-10 |
@@ -581,7 +583,7 @@
 | [Tangram](https://open.spotify.com/track/0xJNFB2ievxIj1RotyCVqU) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Stegosauro](https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N) | 3:20 | 2023-08-03 | 2023-09-22 |
 | [Tatuaggi](https://open.spotify.com/track/1Dffk5dsW3B9DPuTsU2XmB) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [Tatuaggi](https://open.spotify.com/album/1GP0BAuJtxI9sCobdTSEsp) | 2:42 | 2022-07-29 | 2022-08-26 |
 | [TDC \(BoJack\)](https://open.spotify.com/track/57jUUESGFDZlaJ6IZrYCCp) | [HOOD](https://open.spotify.com/artist/5IbmWnYEykGQK5N8pUn8ng), [Sillage](https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6) | [TDC \(BoJack\)](https://open.spotify.com/album/7hd7x8eej4bWiUMAxHK7oM) | 2:37 | 2022-07-07 | 2022-09-09 |
-| [Teatro dell'assurdo](https://open.spotify.com/track/6WKkD78hYlGwYwnKZkUYG9) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [Teatro dell'assurdo](https://open.spotify.com/album/49xaH7DdVSX8E3BPrJhYx4) | 3:33 | 2023-10-05 |  |
+| [Teatro dell'assurdo](https://open.spotify.com/track/6WKkD78hYlGwYwnKZkUYG9) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [Teatro dell'assurdo](https://open.spotify.com/album/49xaH7DdVSX8E3BPrJhYx4) | 3:33 | 2023-10-05 | 2023-12-08 |
 | [Terra bruciata](https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Terra bruciata](https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI) | 3:13 | 2023-03-09 | 2023-05-19 |
 | [The Botanist](https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [The Botanist](https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk) | 4:30 | 2023-11-09 |  |
 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 | 2023-11-09 |  |

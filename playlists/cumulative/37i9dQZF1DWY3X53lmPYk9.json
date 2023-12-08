@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Autumn nocturne",
+        "url": "https://open.spotify.com/album/74GNqzlT1Jh72qXGqGqQ0Q"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155191,
+      "name": "Autumn nocturne",
+      "url": "https://open.spotify.com/track/7GzCb29gghRInEd8bUHgLt"
+    },
+    {
+      "album": {
         "name": "Autumn Whispers",
         "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
       },
@@ -956,6 +974,24 @@
       "duration_ms": 227750,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs"
+    },
+    {
+      "album": {
+        "name": "Blue Midnight",
+        "url": "https://open.spotify.com/album/78c6w6eBuP9tdzODxi1SvQ"
+      },
+      "artists": [
+        {
+          "name": "Quinn Harrington",
+          "url": "https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/3wb4QQWD4UBZHSGUEPMX86"
     },
     {
       "album": {
@@ -7105,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "The Songbird",
+        "url": "https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162640,
+      "name": "The Songbird",
+      "url": "https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy"
+    },
+    {
+      "album": {
         "name": "SOLO 1976 A Tribute to Duke Ellington",
         "url": "https://open.spotify.com/album/6BwXDrTA7w4Y4ZzZJSQPYi"
       },
@@ -7588,6 +7642,24 @@
       "duration_ms": 193866,
       "name": "We've Never Been Here",
       "url": "https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti"
+    },
+    {
+      "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/7r2r5H75pSNMcofFz3zQkW"
+      },
+      "artists": [
+        {
+          "name": "Christian Glass",
+          "url": "https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260469,
+      "name": "Weeping Willow",
+      "url": "https://open.spotify.com/track/4sNwc8wHFoErgbeOZOTKMn"
     },
     {
       "album": {

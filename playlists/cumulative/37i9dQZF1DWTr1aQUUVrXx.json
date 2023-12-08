@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213837,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
+    },
+    {
+      "album": {
         "name": "It's Raining Outside",
         "url": "https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS"
       },
@@ -2558,6 +2576,24 @@
       "duration_ms": 152695,
       "name": "Twenty Somethings",
       "url": "https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7"
+    },
+    {
+      "album": {
+        "name": "Velvet Lounge Reverie",
+        "url": "https://open.spotify.com/album/3WQaiEOLo1bjvZwOUdqCAx"
+      },
+      "artists": [
+        {
+          "name": "Fulton Street Players",
+          "url": "https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187131,
+      "name": "Velvet Lounge Reverie",
+      "url": "https://open.spotify.com/track/5ubFgdUwUuPtaNlMq0rgD6"
     },
     {
       "album": {

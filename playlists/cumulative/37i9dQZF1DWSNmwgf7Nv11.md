@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-293 songs - 18 hr 29 min
+294 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 | 2021-07-30 |  |
 | [Redwood Tree](https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Redwood Tree](https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep) | 2:50 | 2021-07-30 |  |
 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 | 2021-07-30 | 2022-07-29 |
-| [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 | 2022-02-25 |  |
+| [Ricochet](https://open.spotify.com/track/5UmoFSMOWeilPzzDCQHND2) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 3:20 | 2023-06-09 |  |
+| [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 | 2022-02-25 | 2023-12-08 |
 | [Ricochet](https://open.spotify.com/track/7ESuHpSILZOP0cpIf9DKYx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 3:20 | 2022-02-25 | 2022-11-14 |
 | [Rising Water](https://open.spotify.com/track/3e288OThYet2Tjbgq8gGla) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/5VECsj7IRVQjIAwMC8LAUa) | 4:56 | 2022-02-25 |  |
 | [Rising Water](https://open.spotify.com/track/51jPtON9dTSMp4YMsvVVlL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rising Water](https://open.spotify.com/album/7Fyik3wUaYUC5is2pfj6cX) | 4:56 | 2021-07-30 | 2022-07-29 |

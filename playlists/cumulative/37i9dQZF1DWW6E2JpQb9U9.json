@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Hasta La Luna - Vivo en el Luna Park",
+        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275845,
+      "name": "Adonde Est\u00e1n",
+      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
+    },
+    {
+      "album": {
         "name": "La Fiesta Inolvidable (En Vivo)",
         "url": "https://open.spotify.com/album/7DjVh2B6EkSoqwGkqHyiBS"
       },
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 145712,
       "name": "Una Persona Especial (En Vivo)",
       "url": "https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht"

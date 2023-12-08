@@ -3183,6 +3183,28 @@
     },
     {
       "album": {
+        "name": "High and I Like it",
+        "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223379,
+      "name": "High and I Like it",
+      "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
+    },
+    {
+      "album": {
         "name": "High Heels - Party Down Under (Sam Feldt vs. Flo Rida)",
         "url": "https://open.spotify.com/album/2Y5uwKIo8qdWB9iizlqFGm"
       },
@@ -5540,7 +5562,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 160869,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/2iMkjgaR9bg6lZrjIcrZj5"

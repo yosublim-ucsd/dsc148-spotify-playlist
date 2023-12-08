@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 51607,
+  "num_followers": 51623,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y3MzExMGZiZjA0YzVlN2E2MzI5ZDAxYzhiYWI5ZTQ0YzUzZWI5",
+  "snapshot_id": "MCxlMzVkMDM5YmMzNThmZjMzNTY5OTZhMzZlN2ZlMDMxODBjYTNhMThj",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Grandes Exitos del Sol",
         "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 203933,
       "name": "Contigo Aprend\u00ed",
       "url": "https://open.spotify.com/track/47NvUPEO2wIsUrAt1dNRfq"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -655,30 +655,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Luna Lunera",
         "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
       },
@@ -707,6 +683,22 @@
       "duration_ms": 225746,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/4I1SpfPK4Vm0hUcOVb7e2w"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -767,18 +759,42 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Antolog\u00eda... Hermanos Michel",
+        "url": "https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL"
+      },
+      "artists": [
+        {
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -815,6 +831,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "La cama de piedra",
+      "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Guitarras Mexicanas, Vol. 2",
         "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
       },
@@ -835,22 +867,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Antolog\u00eda... Hermanos Michel",
-        "url": "https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL"
-      },
-      "artists": [
-        {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Siempre Te Amare",
         "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 149750,
       "name": "Siempre Te Amare",
       "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "La cama de piedra",
-      "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
-      },
-      "artists": [
-        {
-          "name": "Mau Soles",
-          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
-        }
-      ],
-      "duration_ms": 216064,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 153142,
       "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
       "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
+      },
+      "artists": [
+        {
+          "name": "Mau Soles",
+          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
+        }
+      ],
+      "duration_ms": 216064,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Yo Ya No Vuelvo Contigo",
-      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Me Vas A Extran\u0303ar",
         "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 156210,
       "name": "Me Vas A Extran\u0303ar",
       "url": "https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Yo Ya No Vuelvo Contigo",
+      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Exitos de Juan Zaizar",
-        "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
+        "name": "Songbook 3 El Amor Es Vida",
+        "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
       "artists": [
         {
-          "name": "Juan Zaizar",
-          "url": "https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1"
+          "name": "Alexandra Gravas",
+          "url": "https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 204320,
-      "name": "Cruz de olvido",
-      "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
+      "duration_ms": 302093,
+      "name": "Cucurrucuc\u00fa paloma",
+      "url": "https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1139,38 +1143,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "La Puerta Negra",
-        "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
+        "name": "Exitos de Juan Zaizar",
+        "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
       },
       "artists": [
         {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+          "name": "Juan Zaizar",
+          "url": "https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1"
         }
       ],
-      "duration_ms": 147250,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Songbook 3 El Amor Es Vida",
-        "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Gravas",
-          "url": "https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 302093,
-      "name": "Cucurrucuc\u00fa paloma",
-      "url": "https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE"
+      "duration_ms": 204320,
+      "name": "Cruz de olvido",
+      "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
-      },
-      "artists": [
-        {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "No Llega El Olvido",
         "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
       },
@@ -1235,6 +1203,38 @@
       "duration_ms": 180504,
       "name": "No Llega El Olvido",
       "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "La Puerta Negra",
+        "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+      },
+      "artists": [
+        {
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "El Paciente",
-        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Y Todo Para Que",
         "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
       },
@@ -1283,22 +1267,6 @@
       "duration_ms": 152372,
       "name": "Y Todo Para Que",
       "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "No Me Conoces Aun",
-        "url": "https://open.spotify.com/album/0ptz54h0O1QdrkyJR5B6S0"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "No Me Conoces Aun",
-      "url": "https://open.spotify.com/track/6HcczuR38XM8B5Mf0SnQdw"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1319,6 +1287,38 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "El Paciente",
+        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "No Me Conoces Aun",
+        "url": "https://open.spotify.com/album/0ptz54h0O1QdrkyJR5B6S0"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "No Me Conoces Aun",
+      "url": "https://open.spotify.com/track/6HcczuR38XM8B5Mf0SnQdw"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Querida",
         "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t"
-      },
-      "artists": [
-        {
-          "name": "Ferah Vargas",
-          "url": "https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Una Vez Mas",
         "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 230250,
       "name": "Una Vez Mas",
       "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t"
+      },
+      "artists": [
+        {
+          "name": "Ferah Vargas",
+          "url": "https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Con Tus Besos",
         "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 158996,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Solo Vine A Despedirme",
-        "url": "https://open.spotify.com/album/3Nk0RzuCU6NnEfWnDVDTtm"
-      },
-      "artists": [
-        {
-          "name": "Javier Barrera",
-          "url": "https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8"
-        }
-      ],
-      "duration_ms": 201004,
-      "name": "Solo Vine A Despedirme",
-      "url": "https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/19mlWCpjnmnAXYrsYnS7iV"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 171454,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/7ebRw8NKRtmfmeOMpLeOYn"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Solo Vine A Despedirme",
+        "url": "https://open.spotify.com/album/3Nk0RzuCU6NnEfWnDVDTtm"
+      },
+      "artists": [
+        {
+          "name": "Javier Barrera",
+          "url": "https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8"
+        }
+      ],
+      "duration_ms": 201004,
+      "name": "Solo Vine A Despedirme",
+      "url": "https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Agarra Tu Camino",
-        "url": "https://open.spotify.com/album/0q9c2AGlYqLPYBnLC7iCmw"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Agarra Tu Camino",
-      "url": "https://open.spotify.com/track/2IYRUFK8T0tbJCueZoBj9u"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Un Millon De Rosas",
         "url": "https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 179250,
       "name": "Un Millon De Rosas",
       "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Agarra Tu Camino",
+        "url": "https://open.spotify.com/album/0q9c2AGlYqLPYBnLC7iCmw"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Agarra Tu Camino",
+      "url": "https://open.spotify.com/track/2IYRUFK8T0tbJCueZoBj9u"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/72jZEsiUr3shNX6fxrhq8b"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
       },
       "artists": [
         {
-          "name": "Marta Jobim",
-          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+          "name": "Mariachi Arco Iris",
+          "url": "https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna"
         }
       ],
-      "duration_ms": 323164,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4"
+      "duration_ms": 202849,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
     },
     {
       "added_at": "2023-10-06 06:00:00",

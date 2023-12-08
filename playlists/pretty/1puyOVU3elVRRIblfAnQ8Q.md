@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,613 likes - 45 songs - 2 hr 36 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,621 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 6 | [Ring Master](https://open.spotify.com/track/0KOb8JQInFydOboaHSsJls) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 3:46 |
 | 7 | [Intergalactic](https://open.spotify.com/track/6lHfCZ4xezNUIIFCOn18Te) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:46 |
 | 8 | [Fingertips](https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Sky M.](https://open.spotify.com/artist/0jf2HjwY0PCybGRjkz0qXS) | [Paradise](https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX) | 3:17 |
-| 9 | [Disappear](https://open.spotify.com/track/3hy3b5Oei3UySsinfLQJ44) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:02 |
+| 9 | [Disappear](https://open.spotify.com/track/3hy3b5Oei3UySsinfLQJ44) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK), [YAANO](https://open.spotify.com/artist/2T0O5j4GMBDmAd8OaEA2UX) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:02 |
 | 10 | [Bird Feeder](https://open.spotify.com/track/6aRKwQBMl8G2XaGfy7eDrx) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 2:20 |
 | 11 | [Interference](https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Interference](https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd) | 3:48 |
 | 12 | [GLITCH](https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [GLITCH](https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC) | 3:56 |

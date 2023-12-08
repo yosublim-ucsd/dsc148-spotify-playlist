@@ -30315,6 +30315,28 @@
     },
     {
       "album": {
+        "name": "Weapon",
+        "url": "https://open.spotify.com/album/41WivKU0HKTRVQt59MfTzq"
+      },
+      "artists": [
+        {
+          "name": "Nathan Barato",
+          "url": "https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4"
+        },
+        {
+          "name": "Matheo Velez",
+          "url": "https://open.spotify.com/artist/6MxFlTSSCQgopzNmiEsaxU"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150937,
+      "name": "Weapon",
+      "url": "https://open.spotify.com/track/2chLUwM4ofzZxhXIUcVl1P"
+    },
+    {
+      "album": {
         "name": "Weeping Willow",
         "url": "https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD"
       },

@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> Quand R&B francophone rime avec douceur 🍯\. Photo : aupinard
+> Quand R&B francophone rime avec douceur 🍯\. Photo : Anaïs Cardot
 
-76 songs - 3 hr 50 min
+78 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [Cra$h \(feat\. Enchantée Julia & Jazzy Bazz\)](https://open.spotify.com/track/2F2i8pZ4yGqLGrRFuMicOA) | [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy), [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Moussa](https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX) | 3:10 | 2023-09-28 |  |
 | [des bisous](https://open.spotify.com/track/0J1rfWxfvcmoFQnN1Z0iFf) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [des bisous](https://open.spotify.com/album/2BNHfSQ6WMakKIf7mCYpuq) | 2:52 | 2023-10-26 |  |
 | [Dimanche Soir](https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Dimanche Soir](https://open.spotify.com/album/4lSVxSUbj5WchWl67HBwqX) | 3:09 | 2023-10-26 |  |
+| [Donne\-moi tout](https://open.spotify.com/track/0iUXT3c1wN4SBt7UdzaBEc) | [Joss Bari](https://open.spotify.com/artist/4rJInvuWe6jp7FDVpOdwap) | [Donne\-moi tout](https://open.spotify.com/album/2IsCZeyIFElBBw0rZX4Jkz) | 3:02 | 2023-12-08 |  |
 | [E.M.I](https://open.spotify.com/track/5FY2ILoDg2EIvjYJxA25MM) | [Macy Lu](https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB) | [E.M.I](https://open.spotify.com/album/0Pq1bF9Gi48aSXrsrpp2fu) | 3:53 | 2023-10-26 | 2023-12-01 |
 | [ELLE](https://open.spotify.com/track/2tGFMERxBPeRJ0OzQ6BAZv) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB) | [ELLE](https://open.spotify.com/album/0BtEyJbzrnpWrNWuMeip8z) | 2:57 | 2023-09-28 |  |
 | [Encaisser](https://open.spotify.com/track/2MNwHnoWMtZ8V6RA8jC14I) | [Ceddy](https://open.spotify.com/artist/4JtnoUcq4vX7FfPxrFNlqk), [Nola Cherri](https://open.spotify.com/artist/619I9NuGM8wQklavu1cjRj) | [Encaisser](https://open.spotify.com/album/1npBnDSvKkLjVCdJcdL4X5) | 3:23 | 2023-09-28 | 2023-11-17 |
 | [Est\-ce que c'est par là qu'on pleure?](https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [3x5](https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U) | 2:22 | 2023-11-23 |  |
-| [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 |  |
+| [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 | 2023-12-08 |
 | [GOLDEN WAY!](https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [GOLDEN WAY!](https://open.spotify.com/album/6joIZOvnrt7CTmyzUpuwLE) | 3:22 | 2023-10-19 |  |
 | [HOLD\-UP](https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [HOLD\-UP](https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx) | 2:33 | 2023-11-23 |  |
 | [J'apaise](https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [J'apaise](https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E) | 3:48 | 2023-09-28 |  |
@@ -55,6 +56,7 @@
 | [P.U.O.](https://open.spotify.com/track/4MzVaIZs5751w1XQdhmfPJ) | [Baeredith](https://open.spotify.com/artist/11gmga2kStANeq9nBa2TMa) | [RESET](https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e) | 2:30 | 2023-09-28 | 2023-11-17 |
 | [P1M2+](https://open.spotify.com/track/1J83mrCrM6SHUd6Oex6BJT) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UV](https://open.spotify.com/album/3M6wxcxqY9NfeRTkynRQAA) | 2:38 | 2023-09-28 | 2023-12-01 |
 | [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 | 2023-11-09 |  |
+| [Plus la peine](https://open.spotify.com/track/11okUANe3u6NzVAL2G33So) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus la peine](https://open.spotify.com/album/7exJUBfgVVkKFfrnn5eqMZ) | 3:08 | 2023-12-08 |  |
 | [PRADA's BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/track/6q8GWj1qGBieT4fDcLV1Mo) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [PRADA’S BIRTHDAY \- A COLORS SHOW](https://open.spotify.com/album/1sTBYpKRWhZCIAcX5RjztP) | 3:14 | 2023-09-28 | 2023-10-20 |
 | [Que la nuit](https://open.spotify.com/track/5z2n55eaoZSM7KipCmIHa4) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Que la nuit](https://open.spotify.com/album/389WQhjRH4tDq72Eb7MG94) | 2:39 | 2023-11-09 | 2023-12-01 |
 | [quel type de vibe?](https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/4b71KrH0rd453L1aHPN57T) | 1:56 | 2023-10-12 | 2023-10-20 |
@@ -63,7 +65,7 @@
 | [Reste en Vie](https://open.spotify.com/track/1qkwBaQUYh3HeUlUlGu8YM) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:18 | 2023-09-28 |  |
 | [Restons tranquilles](https://open.spotify.com/track/6LW8XqunD8dtcCT1UpBmRG) | [Yakuzian](https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM) | [Restons tranquilles](https://open.spotify.com/album/0Q3snq5JRm4KHx7uXrO2n4) | 2:55 | 2023-09-28 | 2023-10-20 |
 | [Room 69 \- Acoustic version](https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Room 69 \(Acoustic version\)](https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem) | 2:50 | 2023-09-28 |  |
-| [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 | 2023-10-12 |  |
+| [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 | 2023-10-12 | 2023-12-08 |
 | [Sacrifices](https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF) | [Walk in Paris](https://open.spotify.com/artist/7iogfxoFBRb7fwoxDIFJoG), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Sacrifices](https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l) | 3:13 | 2023-09-28 | 2023-11-17 |
 | [Saison](https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 2:56 | 2023-09-28 | 2023-11-10 |
 | [Sans dire au revoir](https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Sans dire au revoir](https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS) | 3:43 | 2023-11-16 |  |

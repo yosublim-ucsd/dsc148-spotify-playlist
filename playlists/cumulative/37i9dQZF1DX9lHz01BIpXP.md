@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i?si=Tj2pMniQQDu3Zm2lEGp2NA">Bigbforever</a>
 
-117 songs - 6 hr 12 min
+118 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,10 @@
 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 | 2023-04-06 |  |
 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 | 2023-03-10 |  |
 | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/track/5S50YUkum96QOyjy08EFF9) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/album/6AeXo59JDG0JoJOppnOJxw) | 3:12 | 2022-09-08 | 2023-07-14 |
-| [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Justin Vega](https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU) | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/album/1vqDxxjiPE1WfbSF8wfPsa) | 2:58 | 2022-09-08 |  |
+| [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Justin Vega](https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU) | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/album/1vqDxxjiPE1WfbSF8wfPsa) | 2:58 | 2022-09-08 | 2023-12-08 |
 | [Dubbel of Niks](https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s) | [RoYal King](https://open.spotify.com/artist/25ebsUtKejuWF9RW98C81q), [Wanie](https://open.spotify.com/artist/6Foq05rhSXH00XxLrvt6yn) | [Dubbel of Niks](https://open.spotify.com/album/4XpDHOUerLd2EokLmdAhO8) | 3:18 | 2023-07-20 | 2023-10-07 |
 | [Duidelik](https://open.spotify.com/track/0fzhyU8gk2lYMAzzyd2dg9) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Duidelik](https://open.spotify.com/album/7iZV2Pb6drsJNfwxwUgHDh) | 2:02 | 2023-07-13 |  |
+| [Dus Okay](https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Jovie](https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37), [EmGee](https://open.spotify.com/artist/7tztZahujREhfsctTM4czq) | [Dus Okay](https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt) | 3:19 | 2023-12-08 |  |
 | [Ek Is Tussen](https://open.spotify.com/track/0XS9vnMfxqTuRDGeQroOKV) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [Ek Is Tussen](https://open.spotify.com/album/04XFXVW4dNH67A1AttIeo0) | 1:32 | 2023-03-30 |  |
 | [Ek Is Tussen \- Remix](https://open.spotify.com/track/0WCKGTPqGTXl0wbaDHxY0t) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [AFRIKAANS GENOEG?](https://open.spotify.com/album/1CHHHkhWAPapUTfpxRbXsi) | 2:34 | 2023-04-13 | 2023-04-21 |
 | [EK ISI UITIE](https://open.spotify.com/track/1ePwUxEbNEbHiYSgiFyydM) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [EK ISI UITIE](https://open.spotify.com/album/0CYLa1vPfWZYI9yk2FEsWR) | 3:25 | 2022-09-08 |  |

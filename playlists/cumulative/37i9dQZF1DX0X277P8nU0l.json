@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 144896,
       "name": "A Bossa \u00e9 Cuca Nova",
       "url": "https://open.spotify.com/track/172Z2U5yabNbrxY9AArzy5"
@@ -170,6 +170,24 @@
       "duration_ms": 199796,
       "name": "Angels & Queens",
       "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+    },
+    {
+      "album": {
+        "name": "another sublet",
+        "url": "https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "another sublet",
+      "url": "https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb"
     },
     {
       "album": {
@@ -829,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
+    },
+    {
+      "album": {
         "name": "What We Call Life",
         "url": "https://open.spotify.com/album/6Ifae2tRjg49lTQ9390iOD"
       },
@@ -1329,6 +1365,28 @@
     },
     {
       "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+    },
+    {
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1438,7 +1496,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS"
@@ -1804,7 +1862,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 223231,
       "name": "Messy",
       "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
@@ -2692,7 +2750,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 211714,
       "name": "Start over",
       "url": "https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs"
@@ -3150,6 +3208,28 @@
       "duration_ms": 217812,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
+    },
+    {
+      "album": {
+        "name": "Together Together",
+        "url": "https://open.spotify.com/album/28hYmqMM8w65i3Yrg6im0c"
+      },
+      "artists": [
+        {
+          "name": "Courtney Farren",
+          "url": "https://open.spotify.com/artist/3nX6SFnMj80b4JUcc76GzT"
+        },
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Together Together",
+      "url": "https://open.spotify.com/track/1cJuew45cBdyPnXyBipX17"
     },
     {
       "album": {

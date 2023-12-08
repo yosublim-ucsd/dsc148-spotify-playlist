@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Gautier Capu\u00e7on",
-  "num_followers": 703892,
+  "num_followers": 703972,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjUyZDBhNjBiMTFkZWIzN2MyZWE0ZmY5MDBhMTI4ZjlmYWE4MjM3",
+  "snapshot_id": "MCxkNTk3N2RkMmUwYWU1MmQ0MzYyZmMzZjE1OGVjOTU1ZDI3YjFhZGZl",
   "tracks": [
     {
       "added_at": "2023-12-01 04:00:00",
@@ -707,6 +707,42 @@
       "duration_ms": 104653,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6fX7PwvMHE9RoBLYhoAdLU"
+    },
+    {
+      "added_at": "2023-12-01 04:00:00",
+      "album": {
+        "name": "Operette. Wien, Berlin, Paris",
+        "url": "https://open.spotify.com/album/0EvFANom9cfc3s1RolltHj"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Diana Damrau",
+          "url": "https://open.spotify.com/artist/4gbrnZzPDYl2SBjzAL4KIE"
+        },
+        {
+          "name": "Elke Kottmair",
+          "url": "https://open.spotify.com/artist/5O4KYF6TatXJSf9lR7v2Em"
+        },
+        {
+          "name": "Emily Sierra",
+          "url": "https://open.spotify.com/artist/4J6Op1RjHLBi4RPQ3eP95W"
+        },
+        {
+          "name": "Ernst Theis",
+          "url": "https://open.spotify.com/artist/21YNxiP6smlWtC9ielf3AB"
+        },
+        {
+          "name": "Das M\u00fcnchner Rundfunkorchester",
+          "url": "https://open.spotify.com/artist/4W72OjTnOLuG6isXCNFgav"
+        }
+      ],
+      "duration_ms": 207557,
+      "name": "Strauss II, J: Das Spitzentuch der K\u00f6nigin: \"Wo die wilde Rose erbl\u00fcht\" (K\u00f6nigin, K\u00f6nig, Irene)",
+      "url": "https://open.spotify.com/track/5QifBTdRjKX4M7hSfliU8R"
     },
     {
       "added_at": "2023-12-01 04:00:00",

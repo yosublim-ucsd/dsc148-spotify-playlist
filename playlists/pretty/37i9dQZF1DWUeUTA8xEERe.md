@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,122 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,132 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 25 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 |
 | 26 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 |
 
-Snapshot ID: `MCxlOWRkNWY4NmI1OTA0NWY2MzNkNjkxODhlYTVkMzNkMWIxYzYyZWU3`
+Snapshot ID: `MCxiODE0MmJlYjJiOWY4OGFkNjU3ZDFlYWM5YTc3ZWMyY2I3ZWE4YzUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,404 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,450 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 100 | [Hush](https://open.spotify.com/track/4iXqSVXVzaldHOsQgHtzOD) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [Hush](https://open.spotify.com/album/27J61fYTdrTOa8DCygULU3) | 2:20 |
 | 101 | [Bittersweet](https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Bittersweet](https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb) | 2:58 |
 
-Snapshot ID: `MCxlNWQxNDlkYzUyMzQwYTRmMWE0NmM2NjNjODI3NGU5OGZhOWMyNTdh`
+Snapshot ID: `MCwwZGJhZGQzZDI1YjUxNDU5NTZlZTNhYjdiOTBhOWM3ZTJmZTNhNzMy`

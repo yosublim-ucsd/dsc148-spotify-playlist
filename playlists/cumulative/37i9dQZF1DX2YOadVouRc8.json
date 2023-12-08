@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 138181,
       "name": "DKT",
       "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
@@ -2035,6 +2035,28 @@
     },
     {
       "album": {
+        "name": "feeling lonely",
+        "url": "https://open.spotify.com/album/3CsUunOj0HJ45lwS5TfigX"
+      },
+      "artists": [
+        {
+          "name": "Obembe",
+          "url": "https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl"
+        },
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "feeling lonely",
+      "url": "https://open.spotify.com/track/724JoIfyLE80Ctr29UhHvV"
+    },
+    {
+      "album": {
         "name": "Feelin U",
         "url": "https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6"
       },
@@ -2324,7 +2346,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 214491,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/1FnIaiMNOQPwcWZJC7gw6V"
@@ -2364,6 +2386,32 @@
       "duration_ms": 179444,
       "name": "Grown Ass Girl.",
       "url": "https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0"
+    },
+    {
+      "album": {
+        "name": "Happiness (feat. Asake & Gunna)",
+        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174743,
+      "name": "Happiness (feat. Asake & Gunna)",
+      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
       "album": {
@@ -2746,7 +2794,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 142703,
       "name": "James Bond",
       "url": "https://open.spotify.com/track/2BZl98NLm3NOanLqkJqkMW"
@@ -3358,7 +3406,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 179915,
       "name": "Maame Water",
       "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
@@ -3599,6 +3647,32 @@
     },
     {
       "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221242,
+      "name": "Mistaken",
+      "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
       },
@@ -3816,7 +3890,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 196363,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
@@ -3900,6 +3974,24 @@
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE"
+    },
+    {
+      "album": {
+        "name": "Outside / Obaa Sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Obaa Sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "album": {
@@ -4306,7 +4398,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 142152,
       "name": "PRACTICE",
       "url": "https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs"
@@ -4542,7 +4634,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 147741,
       "name": "Ring Di Alarm",
       "url": "https://open.spotify.com/track/1D0pdbZyGTIDt6ynWP3JLM"
@@ -5204,7 +5296,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 186358,
       "name": "Stand Attention",
       "url": "https://open.spotify.com/track/2ff1ZzgSQdHDkD3dCKBiEm"
@@ -5946,7 +6038,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
@@ -6238,6 +6330,24 @@
       "duration_ms": 225640,
       "name": "Wamuhle",
       "url": "https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws"
+    },
+    {
+      "album": {
+        "name": "Wanna Dance",
+        "url": "https://open.spotify.com/album/6FxgQ6RHEDhRhHNR899ddv"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191448,
+      "name": "Wanna Dance",
+      "url": "https://open.spotify.com/track/0aRnRPkcyjqw3IeKiZlSFG"
     },
     {
       "album": {

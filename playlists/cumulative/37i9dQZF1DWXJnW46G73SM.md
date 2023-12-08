@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-693 songs - 1 day 15 hr 21 min
+695 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Bagheeb Bmzagy](https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Bagheeb Bmzagy](https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT) | 3:20 | 2023-07-24 | 2023-08-18 |
 | [Bahebak](https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Bahebak](https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0) | 3:02 | 2023-10-12 | 2023-10-15 |
 | [Bahebak](https://open.spotify.com/track/4NCbUpDhOeCLjyBXNpSAcW) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fiha Eh](https://open.spotify.com/album/2UdD6ElFXoz4VmVg5SLgrk) | 3:02 | 2023-10-12 |  |
+| [BALALA](https://open.spotify.com/track/1NJeSBBghUyNjT1ehBWJTe) | [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7), [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV) | [BALALA](https://open.spotify.com/album/3SJe8YpLuzHOPCkWXYmWS9) | 1:52 | 2023-12-07 |  |
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 | 2022-08-24 |
 | [Balbata](https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Balbata](https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7) | 2:46 | 2023-06-29 | 2023-08-02 |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |
@@ -124,6 +125,7 @@
 | [Dawaran](https://open.spotify.com/track/502J71DT2SOAVz6lj0sl7b) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK), [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Dawaran](https://open.spotify.com/album/5a4sKU38KMZaclSzV5aPkf) | 3:29 | 2023-03-06 | 2023-05-05 |
 | [Dayy Al Qamar](https://open.spotify.com/track/7azDgfLs2U5eOOYb9OyPo8) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Dayy Al Qamar](https://open.spotify.com/album/1d2AMpEgkfhHYjVvBbusCn) | 4:06 | 2022-09-20 | 2022-09-22 |
 | [Deb Deb](https://open.spotify.com/track/2u1j3h1Oy9xOgvOV3kvU4X) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Deb Deb](https://open.spotify.com/album/3bPOumkC31Zv4pBa6udoZ7) | 3:00 | 2023-08-18 | 2023-10-16 |
+| [Ded Elnesian \- ضد النسيان](https://open.spotify.com/track/7pofH6bBfbrgtk3qPlzdY0) | [Mirna nasser](https://open.spotify.com/artist/6V50iHFrnnkOzahS4QbvbR) | [Ded Elnesian \(ضد النسيان\)](https://open.spotify.com/album/301Gr4xvKUf04hA0wMOjhD) | 3:25 | 2023-12-07 |  |
 | [Di Halawa](https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Di Halawa](https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT) | 3:16 | 2022-10-06 | 2022-12-30 |
 | [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 | 2023-04-21 |
 | [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-20 | 2022-10-11 |
@@ -497,7 +499,7 @@
 | [Ya Safeena](https://open.spotify.com/track/4ticYbFy3RxBbw94pMvHWj) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ya Safeena](https://open.spotify.com/album/0l4tnmYwdmygeTEeNnDF5N) | 4:09 | 2023-09-06 |  |
 | [Ya Tayar](https://open.spotify.com/track/3lxUL4F9yaYupuTu3g9Byg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Ya Tayar](https://open.spotify.com/album/4TgabhACfeYjXuaefflF5f) | 3:15 | 2023-08-01 | 2023-08-25 |
 | [Yaba](https://open.spotify.com/track/79pLcKb0uJOaROzStukq0f) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:00 | 2023-02-16 | 2023-04-21 |
-| [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 | 2023-08-24 |  |
+| [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 | 2023-08-24 | 2023-12-08 |
 | [Yalla Kammel](https://open.spotify.com/track/5KqYg3pbShUynZVRUh0Shy) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Yalla Kammel](https://open.spotify.com/album/7vQGItxM1KbqJdCXDZNXUF) | 4:15 | 2021-12-23 | 2022-01-28 |
 | [Yama](https://open.spotify.com/track/2at0IvDzFLJxFewmJYw04k) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK), [ZGA](https://open.spotify.com/artist/1NtPe4pU04aWy2Iw8H9eRN) | [Yama](https://open.spotify.com/album/1PCfg41nWx5uUZicb2JiOe) | 3:17 | 2023-09-19 | 2023-09-21 |
 | [Ye'zeek](https://open.spotify.com/track/7kqEwWWW4pseVr6AsXT0zz) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Ye'zeek](https://open.spotify.com/album/0IdEgfAZnIdRLaoje0yEmK) | 4:38 | 2022-02-01 | 2022-05-19 |
@@ -590,7 +592,7 @@
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 | 2023-05-05 |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 | 2023-03-31 |
 | [دادينا](https://open.spotify.com/track/7AInJeOGXWBT9xnxhRTVZW) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [دادينا](https://open.spotify.com/album/69fom2qf7DQkMcBdsMYdfw) | 3:18 | 2023-10-15 |  |
-| [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-08-24 |  |
+| [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-08-24 | 2023-12-08 |
 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 | 2023-08-18 | 2023-09-01 |
 | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/track/6BlG5SOrK1H57svuWMKMba) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/album/5m3TBcO1hB3MjV1l9xLu0p) | 1:51 | 2023-06-26 | 2023-07-28 |
 | [رنة خلخال](https://open.spotify.com/track/4EqNT4pCDGVv2rC5Fd6NBO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [رنة خلخال](https://open.spotify.com/album/0cze08hL6Iw0XbHwqVzwzR) | 3:31 | 2023-08-15 | 2023-09-29 |

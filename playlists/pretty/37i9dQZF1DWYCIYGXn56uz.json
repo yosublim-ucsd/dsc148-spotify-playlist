@@ -1,12 +1,12 @@
 {
   "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Mew. <a href=\"spotify:playlist:37i9dQZF1DWTDcvdOAx9xg\">Scopri il Best Of del 2023 qui!</a>",
-  "num_followers": 387220,
+  "num_followers": 387232,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDY1ZTc2MDhjYmIyNzVlNWMyMTZlNDY5ZTQ2Y2RhNmFiOTgyNTY3",
+  "snapshot_id": "MCxjNDM2MDIzNDU0ODE4ZDMzNWNlMTRlNjJiODE1MGFmN2E2MzNlMDAw",
   "tracks": [
     {
       "added_at": "2023-11-30 23:01:00",
@@ -71,6 +71,22 @@
       "duration_ms": 177769,
       "name": "DIMMI CHE NON \u00c8 UN ADDIO",
       "url": "https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2"
+    },
+    {
+      "added_at": "2023-12-07 23:07:44",
+      "album": {
+        "name": "PERLE",
+        "url": "https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "duration_ms": 190319,
+      "name": "PERLE",
+      "url": "https://open.spotify.com/track/6MKM3j9rx5fP80y9ZJfygk"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -171,22 +187,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "La mia canzone per te",
-        "url": "https://open.spotify.com/album/6k62hQzg2h4sPlusK7JazO"
-      },
-      "artists": [
-        {
-          "name": "Alex Wyse",
-          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
-        }
-      ],
-      "duration_ms": 178991,
-      "name": "La mia canzone per te",
-      "url": "https://open.spotify.com/track/5UeIcE8opHwuFFk6em1U0l"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "Altamente Mia",
         "url": "https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 172718,
       "name": "Altamente Mia",
       "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
+    },
+    {
+      "added_at": "2023-12-07 23:07:44",
+      "album": {
+        "name": "Mai dire mai",
+        "url": "https://open.spotify.com/album/3qGimCe6zsNuq4M52YzFWj"
+      },
+      "artists": [
+        {
+          "name": "Federica_",
+          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
+        }
+      ],
+      "duration_ms": 176115,
+      "name": "Mai dire mai",
+      "url": "https://open.spotify.com/track/0a0u4xR56rAzQVWbY2ovqx"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -239,6 +255,38 @@
       "duration_ms": 175500,
       "name": "BOULEVARD",
       "url": "https://open.spotify.com/track/68ptyloCwRwBybEte88mxp"
+    },
+    {
+      "added_at": "2023-12-07 23:07:44",
+      "album": {
+        "name": "Promesse (from the original Netflix series \"DI4RI\")",
+        "url": "https://open.spotify.com/album/2c3QzmZOHzb3T1Z0IQxBZM"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Promesse (from the original Netflix series \"DI4RI\")",
+      "url": "https://open.spotify.com/track/1cSRzvNN1xMHpkgCBFAqIE"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "La mia canzone per te",
+        "url": "https://open.spotify.com/album/6k62hQzg2h4sPlusK7JazO"
+      },
+      "artists": [
+        {
+          "name": "Alex Wyse",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "duration_ms": 178991,
+      "name": "La mia canzone per te",
+      "url": "https://open.spotify.com/track/5UeIcE8opHwuFFk6em1U0l"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -467,26 +515,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "Fermarmi",
-        "url": "https://open.spotify.com/album/3pt3ZOOOEkkIl711tXiYwQ"
-      },
-      "artists": [
-        {
-          "name": "Diego Lazzari",
-          "url": "https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH"
-        },
-        {
-          "name": "Natasha",
-          "url": "https://open.spotify.com/artist/2pxZIannUq9lCH9ZEQoZZy"
-        }
-      ],
-      "duration_ms": 146689,
-      "name": "Fermarmi",
-      "url": "https://open.spotify.com/track/7eW2y4eObpVw8WPvB3ioRb"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "INCOLMABILE",
         "url": "https://open.spotify.com/album/2SywZjY7wHMeGZRQmGC6VG"
       },
@@ -651,6 +679,38 @@
       "duration_ms": 152571,
       "name": "Follia",
       "url": "https://open.spotify.com/track/6MndhxNWKY5Du4pIGk3CW0"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "Laggi\u00f9",
+        "url": "https://open.spotify.com/album/07mjhDHGXDltlvoFD9cVSj"
+      },
+      "artists": [
+        {
+          "name": "Piccolo G",
+          "url": "https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Laggi\u00f9",
+      "url": "https://open.spotify.com/track/5zRHxcZwWJKqNFONmFZcbk"
+    },
+    {
+      "added_at": "2023-11-30 23:01:00",
+      "album": {
+        "name": "DAMMI UN BACIO JA\u2019",
+        "url": "https://open.spotify.com/album/63Lct71NrJl6FjsJSgBRp5"
+      },
+      "artists": [
+        {
+          "name": "Leo Gassmann",
+          "url": "https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b"
+        }
+      ],
+      "duration_ms": 165901,
+      "name": "DAMMI UN BACIO JA\u2019",
+      "url": "https://open.spotify.com/track/3OCCmqxxlz7AXI1Ns7gY2C"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -847,26 +907,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "A Modo Nostro (feat. Mose)",
-        "url": "https://open.spotify.com/album/3lEdKxz9XtJfmkjAgLJYRN"
-      },
-      "artists": [
-        {
-          "name": "Matteo E Io",
-          "url": "https://open.spotify.com/artist/4Zx1FdnVj10w170XV0GzvO"
-        },
-        {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L"
-        }
-      ],
-      "duration_ms": 139883,
-      "name": "A Modo Nostro (feat. Mose)",
-      "url": "https://open.spotify.com/track/4u8ADeOiiWXSvvI3v8OOrb"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "Pop Corn e patatine RMX",
         "url": "https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx"
       },
@@ -899,22 +939,6 @@
       "duration_ms": 170760,
       "name": "Chi Sono Veramente",
       "url": "https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Non te l'ho detto mai",
-        "url": "https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 136235,
-      "name": "Non te l'ho detto mai",
-      "url": "https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU"
     },
     {
       "added_at": "2023-11-30 23:01:00",
@@ -1003,22 +1027,6 @@
     {
       "added_at": "2023-11-30 23:01:00",
       "album": {
-        "name": "DAMMI UN BACIO JA\u2019",
-        "url": "https://open.spotify.com/album/63Lct71NrJl6FjsJSgBRp5"
-      },
-      "artists": [
-        {
-          "name": "Leo Gassmann",
-          "url": "https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "DAMMI UN BACIO JA\u2019",
-      "url": "https://open.spotify.com/track/3OCCmqxxlz7AXI1Ns7gY2C"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
         "name": "La parte pi\u00f9 bella di me (RMX)",
         "url": "https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2"
       },
@@ -1035,22 +1043,6 @@
       "duration_ms": 135172,
       "name": "La parte pi\u00f9 bella di me - RMX",
       "url": "https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8"
-    },
-    {
-      "added_at": "2023-11-30 23:01:00",
-      "album": {
-        "name": "Laggi\u00f9",
-        "url": "https://open.spotify.com/album/07mjhDHGXDltlvoFD9cVSj"
-      },
-      "artists": [
-        {
-          "name": "Piccolo G",
-          "url": "https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Laggi\u00f9",
-      "url": "https://open.spotify.com/track/5zRHxcZwWJKqNFONmFZcbk"
     }
   ],
   "unique_name": "GENERAZIONE Z",

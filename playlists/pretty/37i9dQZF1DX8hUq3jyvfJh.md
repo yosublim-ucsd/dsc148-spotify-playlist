@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,936 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,079 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Tem Dendê/ Figa de Guiné \- Ao Vivo](https://open.spotify.com/track/6JZMrxEDFKNQouzJwpwaoN) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0) | 3:32 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCw3YTA2ZmYxNTYzZTQwNjZiZjk2ZjQ3Yjg5MjRmNmQ5OThlMGMzZTBk`
+Snapshot ID: `MCwwMTRhYTU1Mzk1Y2MwOTkwZTZmNDBiNjgzMDM0MzZlYzU3OTkwZGRi`

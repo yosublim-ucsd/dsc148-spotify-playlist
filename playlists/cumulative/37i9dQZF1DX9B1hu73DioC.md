@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-712 songs - 1 day 18 hr 41 min
+713 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [All Of Our Yesterdays](https://open.spotify.com/track/3hPFmyctDusOxzqdpB72EJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [All Of Our Yesterdays](https://open.spotify.com/album/0HMR7TYWFVKQiJau7JdzF3) | 4:03 | 2020-10-05\* | 2022-04-19 |
 | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/track/6phFpARTp2T9rcNR3uRXoe) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/album/0y77caNV2gV2gGjG9cOUfT) | 4:19 | 2021-08-27 | 2022-04-15 |
 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 | 2023-08-11 | 2023-08-20 |
-| [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 | 2023-09-15 |  |
+| [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 | 2023-09-15 | 2023-12-08 |
 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 | 2020-10-05\* | 2022-04-19 |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2020-10-16 | 2022-04-17 |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-03-07 | 2022-04-19 |
@@ -417,6 +417,7 @@
 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 | 2022-07-25 | 2023-09-16 |
 | [Metamodernity](https://open.spotify.com/track/61GiMDN1kUiEQK6zHGMdnx) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/5HkW3pBnVMbKRaWbizrIMN) | 2:42 | 2020-10-05\* | 2022-04-18 |
 | [Miami Baby](https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Miami Baby](https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF) | 4:53 | 2023-08-11 | 2023-11-18 |
+| [Miami Baby](https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:53 | 2023-09-29 |  |
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2020-10-16 | 2022-07-29 |
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-10-05\* | 2022-06-01 |
 | [Momma, I've Got a Feeling \- Joey Pecoraro Remix](https://open.spotify.com/track/3MzuvokLBSrQlW06YPBy3D) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE), [Joey Pecoraro](https://open.spotify.com/artist/7xCobP8qDlYdUyYow7Ji38) | [Momma, I've Got a Feeling \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5vJx9C9A0Z6Epc6DBI7gRV) | 3:24 | 2020-10-05\* | 2020-10-06 |

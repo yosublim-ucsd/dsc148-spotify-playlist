@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: Eté & Los Problems
 
-284 songs - 18 hr 46 min
+285 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 | 2022-05-20 |  |
 | [Como Olvidarme](https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:48 | 2022-05-20 |  |
 | [Como Un Río](https://open.spotify.com/track/0tXCHNIzrqqOxQFstqjCco) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Como Un Río](https://open.spotify.com/album/4JH0W4osUjcwofygBU7xuR) | 4:05 | 2023-05-19 | 2023-08-26 |
+| [Condenado El Corazón](https://open.spotify.com/track/0cjvmRCpbGRkpCPylAziqZ) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Condenado El Corazón](https://open.spotify.com/album/7iUHsGAU1itZcYOY3bBiK5) | 4:25 | 2023-12-07 |  |
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-05-20 | 2022-07-20 |
 | [Contradicción](https://open.spotify.com/track/5ZO39qQ9zMDxrVK9ePCNAq) | [Tabaré Cardozo](https://open.spotify.com/artist/5Xm9ynJD7wkdtI5HR2ux9K), [Jorge Nasser](https://open.spotify.com/artist/4di0stdnh2Ia1SMqn5dWd9) | [Contradicción](https://open.spotify.com/album/3BDWrmiQrikcQRbIOsa6F9) | 3:57 | 2022-07-08 | 2022-07-21 |
 | [Contrapunto para Humano y Computadora](https://open.spotify.com/track/5wjFUjiT4gKddiTX9urqN2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Jueves](https://open.spotify.com/album/6CLlWqMKd95lyqfHKBzSM4) | 5:40 | 2022-05-20 | 2022-07-29 |
@@ -199,7 +200,7 @@
 | [Ojos de Dragón!](https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Desafíos](https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6) | 4:17 | 2022-05-20 | 2023-12-05 |
 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2022-07-08 |  |
 | [Once](https://open.spotify.com/track/4CgpP5MxvL4hFNEbvpWDiA) | [La Saga](https://open.spotify.com/artist/4E0jqZtxbwVYgtdj4Ydico) | [El Vendaval](https://open.spotify.com/album/3li7ITSe2mphwtBJsozLPW) | 4:23 | 2022-05-20 | 2022-07-28 |
-| [Paint It, Black \- Mono](https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:24 | 2022-07-08 |  |
+| [Paint It, Black \- Mono](https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:24 | 2022-07-08 | 2023-12-08 |
 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2022-07-08 |  |
 | [Paranoid](https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 2:48 | 2022-09-30 | 2022-11-14 |
 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-07-08 |  |

@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Hasta Que",
+        "url": "https://open.spotify.com/album/5COHGnq2344HryixhhpCrX"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Hasta Que",
+      "url": "https://open.spotify.com/track/7FyCJkK9G61UZaJZHx4f4t"
+    },
+    {
+      "album": {
         "name": "Hasta Que T\u00fa Me Quieras",
         "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
       },
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 158211,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"

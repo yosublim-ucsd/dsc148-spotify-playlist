@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 286188,
+  "num_followers": 286233,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRmMmNhZTQ5ZWYxOWVmYjkzNTUyOTU5NTA5MGNmMTYwMDU0MWFm",
+  "snapshot_id": "MCxlYTc5YmQzZTdkYzQ0ZjBmYzViZWZiYTNjODM5ODE2OWRmMTM2YjVl",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
         }
       ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
+      "duration_ms": 195466,
+      "name": "5-10-15 Hours",
+      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 195466,
-      "name": "5-10-15 Hours",
-      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Crazy Arms",
-      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Essential Eddy Arnold",
         "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 163346,
       "name": "Cattle Call",
       "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Crazy Arms",
+      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
     },
     {
       "added_at": "2023-01-02 21:32:07",

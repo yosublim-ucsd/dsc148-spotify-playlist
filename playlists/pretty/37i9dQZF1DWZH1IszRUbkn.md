@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,773 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,774 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 38 | [Ritmo Robótico](https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV) | [Maria Gabriela de Faria](https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:13 |
 | 39 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
 | 40 | [Ser Mejor](https://open.spotify.com/track/3PEWgIGnnjN9klG2XqtSWq) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL), [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD), [Pablo Espinosa](https://open.spotify.com/artist/7JOnYFbats5w0dEiHED2i4), [Mercedes Lambre](https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh), [Lodovica Comello](https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq), [Candelaria Molfese](https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy), [Samuel Nascmiento](https://open.spotify.com/artist/4tE054ScQH2W03Gq5YKMni), [Facundo Gambandé](https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG), [Alba Rico](https://open.spotify.com/artist/0OHS4qaEImZPoGt9TRuhFf), [Simone Lijoi](https://open.spotify.com/artist/5tD8SBQnGPlf17OgSD8mFw), [Rodrigo Velilla](https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv), [Nick Garnier](https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy) | [Violetta: En Mi Mundo \(Songs from Season 1 / Original Television Soundtrack\)](https://open.spotify.com/album/6BwVuKWzmMYqQv5rubdHEo) | 3:28 |
-| 41 | [Mi Familia](https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 2:54 |
-| 42 | [Tres Gatitos \(Sin Pastel\)](https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY) | [Little Baby Bum en Español](https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w) | [Nanas y Canciones para Niños, Vol\. 5 \(Cantar y Aprender con LittleBabyBum\)](https://open.spotify.com/album/6HfilJnTxnoWW1MA9ZgwiS) | 2:12 |
+| 41 | [Tres Gatitos \(Sin Pastel\)](https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY) | [Little Baby Bum en Español](https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w) | [Nanas y Canciones para Niños, Vol\. 5 \(Cantar y Aprender con LittleBabyBum\)](https://open.spotify.com/album/6HfilJnTxnoWW1MA9ZgwiS) | 2:12 |
+| 42 | [Mi Familia](https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 2:54 |
 | 43 | [Mi mamá](https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones ¡Tope guay!](https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb) | 3:55 |
 | 44 | [Alibombo](https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Alibombo](https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG) | 2:56 |
 | 45 | [Acuarela](https://open.spotify.com/track/34oV1MaJfhU7AJDzERSFlS) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h) | [Porque yo te quiero](https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 49 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 | 50 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
 
-Snapshot ID: `MCxlMjVjNmQwNzA4MGVlYzNhZDBjOTU3ODg1ZmU4NzFiZmJlZjdkZjEy`
+Snapshot ID: `MCw0ZGYxY2M0MGJjNzlhNDE4MzEwNTZjMmExM2VmMDcyMjdmMGVkMDA4`

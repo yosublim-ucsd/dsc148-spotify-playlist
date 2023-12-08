@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,822 likes - 126 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,859 likes - 126 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [daylight falls](https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [daylight falls](https://open.spotify.com/album/4JzQ9ctOcrFaAY1Kfbq4hM) | 2:45 |
 | 126 | [HUSH](https://open.spotify.com/track/7aB5uUd9VUpBoHY4XCxXBw) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:18 |
 
-Snapshot ID: `MCxjZGE4OWE3MGJiZjQxY2FlNDI1YTllN2ViOGY1ZGVlZjlmYzYyMDAw`
+Snapshot ID: `MCxmNWVmZTQ1NGMxZTYyOWVjMzM3Yzk5MDQ1YTYwOGQ3Y2ZiYmUxMmE3`

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Back for Good",
+        "url": "https://open.spotify.com/album/2DYUCHUNd6rgnsSbenSQxl"
+      },
+      "artists": [
+        {
+          "name": "Liam Dunn",
+          "url": "https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154761,
+      "name": "Back for Good",
+      "url": "https://open.spotify.com/track/1ODWd5kl6IzG1ZQARbcAaL"
+    },
+    {
+      "album": {
         "name": "bad guy",
         "url": "https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC"
       },
@@ -974,6 +992,24 @@
       "duration_ms": 147209,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/7GhDCGALFBPrsXycSH8q6Q"
+    },
+    {
+      "album": {
+        "name": "Dream A Little Dream Of Me",
+        "url": "https://open.spotify.com/album/482fvXp5PuWSHqR01zR0xd"
+      },
+      "artists": [
+        {
+          "name": "Daniel Murphy",
+          "url": "https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195167,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/6xIidCUt8vNnGHYfXH9hVU"
     },
     {
       "album": {
@@ -1586,6 +1622,24 @@
       "duration_ms": 145663,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/5NP4t2zPbqoOzeNDZWmE8U"
+    },
+    {
+      "album": {
+        "name": "Heart Of Gold",
+        "url": "https://open.spotify.com/album/3TgtFNT15QX2cM7SrSxkkg"
+      },
+      "artists": [
+        {
+          "name": "Melvin Gale",
+          "url": "https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153203,
+      "name": "Heart Of Gold",
+      "url": "https://open.spotify.com/track/4F9OMPxtu1imufP9PRJMDs"
     },
     {
       "album": {
@@ -4286,7 +4340,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 215375,
       "name": "When I Was Your Man - Acoustic Instrumental",
       "url": "https://open.spotify.com/track/2Oej38AKkUraslaWEK1ATx"

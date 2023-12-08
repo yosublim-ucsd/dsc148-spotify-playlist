@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Condenado El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7iUHsGAU1itZcYOY3bBiK5"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265159,
+      "name": "Condenado El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0cjvmRCpbGRkpCPylAziqZ"
+    },
+    {
+      "album": {
         "name": "Discop\u00e1tico",
         "url": "https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r"
       },
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 204480,
       "name": "Paint It, Black - Mono",
       "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"

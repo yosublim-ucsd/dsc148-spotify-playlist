@@ -18069,6 +18069,28 @@
     },
     {
       "album": {
+        "name": "The Top",
+        "url": "https://open.spotify.com/album/1JgNOCjF42tHnCy6uQVH8i"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
+        },
+        {
+          "name": "Prada Leary",
+          "url": "https://open.spotify.com/artist/5NY4BED9bXS9TB0Y3ITB8j"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "The Top",
+      "url": "https://open.spotify.com/track/67iPIBMaCOyMfqxReI7Gry"
+    },
+    {
+      "album": {
         "name": "The Tortured",
         "url": "https://open.spotify.com/album/1krJiv2VVRsTq1SKn82EPS"
       },

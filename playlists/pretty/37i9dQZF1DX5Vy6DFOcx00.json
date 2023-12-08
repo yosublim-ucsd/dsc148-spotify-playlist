@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3718402,
+  "num_followers": 3719695,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjBhOTZmYTgwZjUyNDM3MDRmZDcyMDgxODFmODc3MzEyNzhlNzc0",
+  "snapshot_id": "MCwxY2FjMTAzOGUyNGQ0YTI0ZTYxNTM2ZDM3MmZiYzBjMDgxNzAyYmZk",
   "tracks": [
     {
       "added_at": "2023-12-02 17:06:35",
@@ -255,6 +255,22 @@
       "duration_ms": 130742,
       "name": "How To Never Stop Being Sad",
       "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
+    },
+    {
+      "added_at": "2023-12-07 20:57:26",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2023-11-15 15:46:28",

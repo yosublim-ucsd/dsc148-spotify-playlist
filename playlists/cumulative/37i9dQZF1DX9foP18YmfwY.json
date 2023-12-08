@@ -816,10 +816,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 218104,
       "name": "Divino Esposo",
       "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
+    },
+    {
+      "album": {
+        "name": "Divino Esposo",
+        "url": "https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218105,
+      "name": "Divino Esposo",
+      "url": "https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps"
     },
     {
       "album": {

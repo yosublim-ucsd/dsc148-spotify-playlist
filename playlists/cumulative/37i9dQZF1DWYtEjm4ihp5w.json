@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: ElGrandeToto",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Sipo, Inkonnu",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 162285,
       "name": "Baghi Ntoub",
       "url": "https://open.spotify.com/track/4ZqfS1PEQlNmfKNUqPXmYr"
@@ -752,10 +752,32 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 164986,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA"
+    },
+    {
+      "album": {
+        "name": "Docteur (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196206,
+      "name": "Docteur - Spotify Singles",
+      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
       "album": {
@@ -1547,6 +1569,28 @@
     },
     {
       "album": {
+        "name": "L7ARB (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242708,
+      "name": "L7ARB - Spotify Singles",
+      "url": "https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/0g1YqG7Hn9RmZ96Q3GGOpq"
       },
@@ -1708,7 +1752,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 176571,
       "name": "Lbaroud",
       "url": "https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox"
@@ -1780,7 +1824,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 166506,
       "name": "Lost Chapter - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6"
@@ -1910,7 +1954,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 188030,
       "name": "MGHAMER",
       "url": "https://open.spotify.com/track/0KSNoWPksTnUbKivbxpVhc"
@@ -1982,7 +2026,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 172941,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG"
@@ -2931,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "TAY9 (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        },
+        {
+          "name": "AKOA",
+          "url": "https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229776,
+      "name": "TAY9 - Spotify Singles",
+      "url": "https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG"
+    },
+    {
+      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd"
       },
@@ -2954,6 +3020,28 @@
       "duration_ms": 211111,
       "name": "Tchin Tchin",
       "url": "https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc"
+    },
+    {
+      "album": {
+        "name": "TODO BEN\u00c9 (Spotify Singles)",
+        "url": "https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "TODO BEN\u00c9 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
     },
     {
       "album": {
@@ -3022,7 +3110,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 177230,
       "name": "TU SAIS DEJA",
       "url": "https://open.spotify.com/track/5aEqH3jmxYadMW6IeA6G0W"
@@ -3062,6 +3150,28 @@
       "duration_ms": 198415,
       "name": "Uno Dos Tres",
       "url": "https://open.spotify.com/track/36qTNWXDs4ky3BfNilyltW"
+    },
+    {
+      "album": {
+        "name": "Unplugged (Spotify Singles)",
+        "url": "https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176589,
+      "name": "Unplugged - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN"
     },
     {
       "album": {
@@ -3313,6 +3423,28 @@
     },
     {
       "album": {
+        "name": "Wsalni MSG",
+        "url": "https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        },
+        {
+          "name": "Flack",
+          "url": "https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Wsalni MSG",
+      "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"
+    },
+    {
+      "album": {
         "name": "Ya Salam",
         "url": "https://open.spotify.com/album/1KtfpysU1BtHrbhVPCHFFJ"
       },
@@ -3424,6 +3556,28 @@
       "duration_ms": 183878,
       "name": "ZOK",
       "url": "https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU"
+    },
+    {
+      "album": {
+        "name": "\u00c9chec (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Sipo",
+          "url": "https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203807,
+      "name": "\u00c9chec - Spotify Singles",
+      "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny, Reekado Banx & Lexsil",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jaivah",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "Buruda",
+        "url": "https://open.spotify.com/album/0eLIVpi2YJkWmABLUrxbt3"
+      },
+      "artists": [
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "Buruda",
+      "url": "https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd"
+    },
+    {
+      "album": {
         "name": "Chargie",
         "url": "https://open.spotify.com/album/0UR1Tq0IKaA72XzuuG4lrt"
       },
@@ -821,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162818,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD"
+    },
+    {
+      "album": {
         "name": "Enjoy",
         "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
       },
@@ -974,7 +1014,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 182624,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/57PEYoPJxjMy35SNHtvwmf"
@@ -1314,6 +1354,36 @@
       "duration_ms": 197648,
       "name": "Hapa",
       "url": "https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/65O1PNI3Xpwe7PiUHGEnT8"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "P.M.P",
+          "url": "https://open.spotify.com/artist/04R8DMlManps9L7xyCndl6"
+        },
+        {
+          "name": "MzVee",
+          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5KZI9ar5x9t0uxsUupnYFz"
     },
     {
       "album": {
@@ -5606,7 +5676,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 252371,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/56AmWoxQ6J153kTtA7GqBE"
@@ -5930,7 +6000,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 172000,
       "name": "Understand (feat. Mac Voice)",
       "url": "https://open.spotify.com/track/6MyvdhuOqOJUQHeYouJF2K"
@@ -6148,7 +6218,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 194823,
       "name": "Wa Sasa",
       "url": "https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf"
@@ -6308,7 +6378,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 299415,
       "name": "Waya",
       "url": "https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP"
@@ -6491,6 +6561,28 @@
     },
     {
       "album": {
+        "name": "Yalaiti (feat. Sabah Salum)",
+        "url": "https://open.spotify.com/album/4TtVxE5tQGvLYMtRARphQ7"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Sabah Salum",
+          "url": "https://open.spotify.com/artist/5oP4uabOkPBwa7nQgcmfqk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205861,
+      "name": "Yalaiti (feat. Sabah Salum)",
+      "url": "https://open.spotify.com/track/1njIXeYvGPfkbyW9OXUCQE"
+    },
+    {
+      "album": {
         "name": "Yamenishika (Remix) [feat. Nandy]",
         "url": "https://open.spotify.com/album/7cBairg5UxvBZOLTmiYQo0"
       },
@@ -6572,6 +6664,32 @@
       "duration_ms": 319285,
       "name": "Yaya (feat. Diamond Platnumz & Jux)",
       "url": "https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf"
+    },
+    {
+      "album": {
+        "name": "You (E.A Remix)",
+        "url": "https://open.spotify.com/album/5PZvJ6rcSc41P3iDSS7u7Z"
+      },
+      "artists": [
+        {
+          "name": "Bruce africa",
+          "url": "https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "You - E.A Remix",
+      "url": "https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5"
     },
     {
       "album": {

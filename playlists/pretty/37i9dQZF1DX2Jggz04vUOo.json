@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3iT6d90Vy630068736OgW8\">Foxall</a>'s favorite tracks. Updated regularly. Curated by Foxall. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 8076,
+  "num_followers": 8101,
   "original_name": "Foxall's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWU3NTQ0YjBlMGI2ODFjYWI2YWRiNTVlOGZmNTUyNDRhZDI2ZTI0",
+  "snapshot_id": "MCwxM2QzMmNjODc5ZTY1MzFiOTFlNTY0ZjU5ZDEzYmNiZDlmYWJjNmY0",
   "tracks": [
     {
       "added_at": "2022-10-14 13:37:03",
@@ -352,8 +352,12 @@
           "url": "https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr"
         },
         {
-          "name": "Mauve (AUS) and JoKe",
-          "url": "https://open.spotify.com/artist/3i2YM0EdOLv1bfuCOLCyFR"
+          "name": "Jo.Ke",
+          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
+        },
+        {
+          "name": "Mauve (AUS)",
+          "url": "https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ"
         }
       ],
       "duration_ms": 349584,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Valence
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,148 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,154 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Neon](https://open.spotify.com/track/2M2MpJLcjmuXYDbFrA8OoE) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Flickering Lights](https://open.spotify.com/album/6w8iEyywSIzRUayxEjr9JC) | 3:16 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCwzOGFhMmYzMDM2MDYzMmVhYjhhYjVhOGI3NTQwZDQ0NWZhNzU0MGEz`
+Snapshot ID: `MCwzMzE4YzAzOTMyODg1MGY1MzQxNjhjOWRjMzE4MzM4MDJhNTM4ZjE0`

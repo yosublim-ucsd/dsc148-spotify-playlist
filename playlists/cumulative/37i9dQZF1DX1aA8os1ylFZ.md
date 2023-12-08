@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-455 songs - 23 hr 40 min
+456 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Find Me Again](https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Find Me Again](https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI) | 2:47 | 2023-10-09 |  |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 | 2023-09-28 |  |
-| [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 | 2023-11-09 |  |
+| [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 | 2023-11-09 | 2023-12-08 |
 | [Focus](https://open.spotify.com/track/1IJ9taH1AFHfrKYvBbgMq1) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/1DLqQDX8YBOFSF6SwosfsK) | 2:44 | 2022-07-22 | 2022-11-17 |
 | [Focus](https://open.spotify.com/track/4g1Ec6coJ3tGrsua8B2yio) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/33oXw6C7qblh1spcJDsved) | 2:44 | 2021-12-16 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/6OZtADZziUiDTULF8rl9ix) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/6hqAU3uwagQI3eIfFGSxPu) | 2:44 | 2022-10-27 | 2023-01-13 |
@@ -340,6 +340,7 @@
 | [Right Here](https://open.spotify.com/track/3MyV9WDPuS1k13pCuydC1P) | [Nicolas Kanza](https://open.spotify.com/artist/751YCAfHx8dQSUbAN8Q9dl) | [Same Love; A Romanticized Timeline](https://open.spotify.com/album/7zpZjaxYyeqio38VIkravV) | 3:02 | 2021-12-16 | 2022-01-21 |
 | [Rise](https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Rise](https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU) | 2:50 | 2023-09-21 |  |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2023-01-12 | 2023-09-15 |
+| [Risk It All \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Risk It All \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd) | 3:21 | 2023-12-07 |  |
 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 | 2023-09-21 | 2023-09-29 |
 | [River](https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [From the Heart](https://open.spotify.com/album/61lKZn6WGuakiPrd6j8i9f) | 3:44 | 2021-12-16 | 2023-02-17 |
 | [Rodeo \(feat\. Big Jade\)](https://open.spotify.com/track/6GXGPEIscxkDwSbn4GFACG) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Rodeo \(feat\. Big Jade\)](https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx) | 4:22 | 2023-04-18 | 2023-09-01 |

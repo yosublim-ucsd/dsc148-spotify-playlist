@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 
 > Les enfants vont danser et se déchaîner!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,608 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,612 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 | 13 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 | 14 | [Blinding Lights](https://open.spotify.com/track/5Sg09MvHqNWPWsYeuY2toY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/6YlDIxqEjvY63ffH6AwCjd) | 3:20 |
 | 15 | [En feu](https://open.spotify.com/track/6FxIFhVlOvI1wcXWe8LKei) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:25 |
-| 16 | [Dragostea Din Tei \- Original Italian Version](https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [Ma Ya Hi \(Dragostea Din Tei\) \[English Mixes\]](https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF) | 3:33 |
+| 16 | [Dragostea Din Tei \- Original Romanian Version](https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu) | 3:34 |
 | 17 | [La même](https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl) | 3:20 |
 | 18 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 19 | [Bim Bam toi](https://open.spotify.com/track/33NTeQz7sVYLmkJ1k8GsVR) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Bim Bam toi](https://open.spotify.com/album/7AvOontpgfp5rWjYLzN8hY) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 | 49 | [Maman me dit](https://open.spotify.com/track/645vPlxFnlvQXxdhV9rM9c) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Maman me dit](https://open.spotify.com/album/1kGhZi4BxwkwwXuVQ7Xwj7) | 2:47 |
 | 50 | [Que Dieu me pardonne](https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 3:31 |
 
-Snapshot ID: `MCxiNTE4ZDVlMWZkNWFlNzU0NTU0ZDgwNDE1MzVjMjA0MTA3MDZlOWMw`
+Snapshot ID: `MCxmODhmYzU0NmI4NWE2ZmQ5YTc1YWMxY2UwNmNmZGRkOWVhYTdmNTRh`

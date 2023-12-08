@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 236579,
+  "num_followers": 236609,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWUzYWIyNzU2YjczNjg1N2E2ODhkM2JiMzIyMzBhZmI2NzVkOGYy",
+  "snapshot_id": "MCxiMGRmZmVkNGFiMjNlNGY1YzI3N2U3YjZmMGJkNWQ0NWExMDNhODY5",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 249495,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Leaving The 99 (Remix)",
         "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 242468,
       "name": "Leaving The 99 - Remix",
       "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 249495,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Still Mighty",
         "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 331800,
       "name": "Feel Holy",
       "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Greater Love",
         "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 339706,
       "name": "Peter",
       "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Keep Your Head Up (Radio Version)",
         "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 215603,
       "name": "Keep Your Head Up - Radio Version",
       "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Stages Of A Breakdown",
         "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 192562,
       "name": "Raise Up",
       "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
       },
       "artists": [
         {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4aMuBVHF6EJuaD1SQMhHub"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        },
+        {
+          "name": "Coop",
+          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
+        }
+      ],
+      "duration_ms": 141177,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1eI2tJUhgaC1b0cYmvzUaa"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Natural Killer",
         "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 200000,
       "name": "Angels vs Demons - Piano Version",
       "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4aMuBVHF6EJuaD1SQMhHub"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        },
-        {
-          "name": "Coop",
-          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
-        }
-      ],
-      "duration_ms": 141177,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1eI2tJUhgaC1b0cYmvzUaa"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Between The Joy And The Sorrow - Part 2",
-        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Between The Joy And The Sorrow",
-      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 228000,
       "name": "Father",
       "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Between The Joy And The Sorrow - Part 2",
+        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Between The Joy And The Sorrow",
+      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "DANGEROUS",
-        "url": "https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G"
+        "name": "High Calling",
+        "url": "https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63"
       },
       "artists": [
         {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+          "name": "The Shelter",
+          "url": "https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 222922,
-      "name": "DANGEROUS",
-      "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
+      "duration_ms": 188731,
+      "name": "High Calling",
+      "url": "https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

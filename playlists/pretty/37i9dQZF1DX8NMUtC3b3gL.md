@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,213 likes - 230 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,219 likes - 230 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 229 | [Patterns Of Nature](https://open.spotify.com/track/3RjNoeYW7Xfyw72744iEDJ) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Patterns Of Nature](https://open.spotify.com/album/2oq1tmjN0vPEE7xDycGydt) | 2:29 |
 | 230 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
 
-Snapshot ID: `MCwzOGNjZmY1NTRmODEwNzc3YmE0NTQyZWI3MWEwMWRhODU5NTY0ODVj`
+Snapshot ID: `MCwzMWYzOTc1MzdmNWU4NTc0ZWFkODAyOTdlNDY5MWNlOTk1OWUxNWU4`

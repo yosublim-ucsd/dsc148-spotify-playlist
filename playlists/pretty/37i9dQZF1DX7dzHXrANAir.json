@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 103396,
+  "num_followers": 103429,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWJkZGY2ZWUxZmQ3OTk3YjQ2NjlkZmRkYTkzZmQ1OWIyMjRhYjBh",
+  "snapshot_id": "MCwxZWRlMThkZTNlOTI2NGViNjM2YTZhZWEwODdlYjkyZWUxMmNmYjRh",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Actual Life 3 Piano EP (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4S8ReXNJUYd3INog1JNlBJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 256874,
       "name": "Winnie (rosslyn crescent)",
       "url": "https://open.spotify.com/track/2TN2PcgQMQPnPVYHHts3Hu"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Bird's Tail (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Hafursey (Yfir)",
         "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 299441,
       "name": "Hafursey (Yfir)",
       "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -639,22 +655,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Caf\u00e9 Papantla",
-      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Driving Through the Aftermath of a Storm on a Clear Day",
         "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
       },
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Falling Colour",
         "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
       },
@@ -719,6 +699,22 @@
       "duration_ms": 215293,
       "name": "Falling Colour",
       "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -747,6 +743,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
-      },
-      "artists": [
-        {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        }
-      ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Wind (Deluxe)",
         "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 133335,
       "name": "Nos - C.B. Rework",
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mia",
-        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
+        "name": "Glass (Solo Piano)",
+        "url": "https://open.spotify.com/album/2CnIxi6GN1s6Wwk6WhsOtK"
       },
       "artists": [
         {
-          "name": "Wide Eyed",
-          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
         }
       ],
-      "duration_ms": 208307,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
+      "duration_ms": 375809,
+      "name": "Glass (Solo Piano)",
+      "url": "https://open.spotify.com/track/7rn4HCPwItrdZxp4bZDblx"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1267,34 +1267,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Walking With Ghosts",
-        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
       },
       "artists": [
         {
-          "name": "Thom Robson",
-          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+          "name": "Wide Eyed",
+          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
         }
       ],
-      "duration_ms": 234473,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 237827,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd"
+      "duration_ms": 208307,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 153120,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Walking With Ghosts",
+        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+      },
+      "artists": [
+        {
+          "name": "Thom Robson",
+          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+        }
+      ],
+      "duration_ms": 234473,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Glass (Solo Piano)",
-        "url": "https://open.spotify.com/album/2CnIxi6GN1s6Wwk6WhsOtK"
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
       "artists": [
         {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 375809,
-      "name": "Glass (Solo Piano)",
-      "url": "https://open.spotify.com/track/7rn4HCPwItrdZxp4bZDblx"
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
-      },
-      "artists": [
-        {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
         "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 307840,
       "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
+      },
+      "artists": [
+        {
+          "name": "Mazoulew",
+          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sleepless Wake",
-        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 222187,
-      "name": "Sleepless Wake",
-      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Human Reworked",
         "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
       },
@@ -1507,26 +1491,38 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Higher Ground",
-        "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
+        "name": "Sleepless Wake",
+        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
       },
       "artists": [
         {
-          "name": "Thomas Slinger",
-          "url": "https://open.spotify.com/artist/0hbbekz6DXUyzhwY0RtcQ7"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 181460,
-      "name": "Feel What You Need",
-      "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
+      "duration_ms": 222187,
+      "name": "Sleepless Wake",
+      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "We All Have Places That We Miss",
+        "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Remembered Words",
+      "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
     }
   ],
   "unique_name": "Classical X",

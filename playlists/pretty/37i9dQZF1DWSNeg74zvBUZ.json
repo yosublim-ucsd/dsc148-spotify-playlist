@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19278,
+  "num_followers": 19280,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTUxYjViNGMxMDE0MzBkMjM2NTUyNDdmZWE1MGQ3MmEwYjAwNzgw",
+  "snapshot_id": "MCwzZmI1MzY4MmZkNGZlMDJhMDNhZDFkZTE0MGM2NTE4M2E2ZGU1ZjI3",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -199,22 +199,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -283,26 +283,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Der Bote",
-        "url": "https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq"
-      },
-      "artists": [
-        {
-          "name": "John Cage",
-          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
-        },
-        {
-          "name": "Alexei Lubimov",
-          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
-        }
-      ],
-      "duration_ms": 531826,
-      "name": "In a Landscape",
-      "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 426533,
       "name": "First Light - Remastered 2004",
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Der Bote",
+        "url": "https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "duration_ms": 531826,
+      "name": "In a Landscape",
+      "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
     },
     {
       "added_at": "2022-12-21 06:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Who Are You",
         "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 124265,
       "name": "The Hostess",
       "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Six Songs for Invisible Gardens",
-        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Peperomia Seedling",
-      "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+        "name": "Six Songs for Invisible Gardens",
+        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 268051,
-      "name": "Dissolving Clouds",
-      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
+      "duration_ms": 223000,
+      "name": "Peperomia Seedling",
+      "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -567,6 +551,22 @@
       "duration_ms": 325489,
       "name": "Coconut Mango",
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 268051,
+      "name": "Dissolving Clouds",
+      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
     },
     {
       "added_at": "2021-11-12 19:00:50",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4"
     },
     {
+      "added_at": "2022-08-03 03:18:13",
+      "album": {
+        "name": "Biologica, Volume One (Water)",
+        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "12121",
+      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Scacco Matto",
@@ -711,22 +727,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
-        "url": "https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb"
-      },
-      "artists": [
-        {
-          "name": "Fabio Caramuru",
-          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
-        }
-      ],
-      "duration_ms": 299472,
-      "name": "Cigarra",
-      "url": "https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Wintergreen",
         "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
       },
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
     },
     {
-      "added_at": "2022-08-03 03:18:13",
+      "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Biologica, Volume One (Water)",
-        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
+        "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
+        "url": "https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb"
       },
       "artists": [
         {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+          "name": "Fabio Caramuru",
+          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
         }
       ],
-      "duration_ms": 156073,
-      "name": "12121",
-      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+      "duration_ms": 299472,
+      "name": "Cigarra",
+      "url": "https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
+        "name": "Anemophily",
+        "url": "https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt"
       },
       "artists": [
         {
-          "name": "Forest Walks",
-          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
+          "name": "Corimbo",
+          "url": "https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6"
         }
       ],
-      "duration_ms": 178260,
-      "name": "A New Day",
-      "url": "https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb"
+      "duration_ms": 223810,
+      "name": "Arboretum",
+      "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
     }
   ],
   "unique_name": "Morning First Light",

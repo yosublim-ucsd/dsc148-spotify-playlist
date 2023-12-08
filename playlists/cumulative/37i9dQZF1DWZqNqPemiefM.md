@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-491 songs - 1 day 14 hr 49 min
+493 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,9 +234,10 @@
 | [looped labyrinth, decayed voice](https://open.spotify.com/track/0s7xkkUwTu77Hffwnxesky) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [bitter sweet](https://open.spotify.com/album/0Of3uyJzRu8UZV8l3iN3k2) | 9:36 | 2022-04-16 | 2022-04-18 |
 | [Loran](https://open.spotify.com/track/7sn2MBviZ595Rrf2pghrPt) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:44 | 2022-03-31 | 2022-04-13 |
 | [Loss](https://open.spotify.com/track/0bmMVu560qMkZEovy1OZR2) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Loss](https://open.spotify.com/album/2oT5ES6bJ6ES4Us6RNu5Gr) | 4:45 | 2023-03-09 | 2023-04-21 |
-| [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 | 2022-03-31 |  |
+| [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 | 2022-03-31 | 2023-12-08 |
 | [Lovers](https://open.spotify.com/track/5M4D3PJGNNfVpHiYr8gvpN) | [Hiroto Kudo](https://open.spotify.com/artist/4HoS8lqkRngSNsSBn4mCvx) | [Interior](https://open.spotify.com/album/6I55s6CLXbibFM576Va21j) | 2:53 | 2022-03-30 | 2022-07-13 |
 | [Lucent](https://open.spotify.com/track/0grXriSrpdF2p51rIkNdpQ) | [Ametsub](https://open.spotify.com/artist/1lqeOtFoEHyRGR9QoRJpEz) | [All is Silence](https://open.spotify.com/album/0QdoBe57VqkP84gNDiQjaZ) | 2:44 | 2022-03-31 | 2022-04-21 |
+| [Luminous](https://open.spotify.com/track/7LRBCqmLF8xWHb7c31cQEf) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [The Two Of Us](https://open.spotify.com/album/3MdRXwsZezswdWUwXQrUFD) | 5:30 | 2023-12-07 |  |
 | [lust](https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 5:00 | 2022-03-31 |  |
 | [Magnetic](https://open.spotify.com/track/0BpAPmGnXe5Mjmza0tENTB) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/7z6v3dBVWjaxsayWo4kbG0) | 2:45 | 2022-12-22 | 2023-01-24 |
 | [Magnetic](https://open.spotify.com/track/2hqr2J2dECDkKSblkJhzvm) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 2:45 | 2022-04-16 | 2022-07-29 |
@@ -287,7 +288,7 @@
 | [ohayashi](https://open.spotify.com/track/7dadALlIbGUdpYYv7HlEFD) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 3:44 | 2023-11-09 |  |
 | [Omoide](https://open.spotify.com/track/5LveNCy5ojSj09DJ8QIh3I) | [Teams](https://open.spotify.com/artist/3ksZVVBYMpLo14U1yVhkAl), [Noah](https://open.spotify.com/artist/2zJRv1ws89WKwU7Q8dwPsm), [Repeat Pattern](https://open.spotify.com/artist/6M3usM8OOsGkcoC0LovBZR) | [Kwaidan](https://open.spotify.com/album/7jZ8Dj4E2wXvdFtO4pwfQe) | 1:46 | 2022-03-30 | 2022-04-01 |
 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 | 2022-03-31 | 2023-03-31 |
-| [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 |  |
+| [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 | 2023-12-08 |
 | [Ongoromochi Souji](https://open.spotify.com/track/1peJy95lggmSY04Nh9LotF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [yOrUkOrU](https://open.spotify.com/album/4j0Q1bfGdSdCPUbftm18gv) | 2:59 | 2022-04-07 | 2022-04-17 |
 | [Opaque](https://open.spotify.com/track/28T3vVyYZejl6mImsSHRtK) | [濱瀬元彦](https://open.spotify.com/artist/1fHhTpHGhai17LCu0I4hGA) | [テクノドローム](https://open.spotify.com/album/08wNWKk2GS5Vg28ipiYPix) | 5:49 | 2022-03-31 | 2022-07-14 |
 | [Optimyst](https://open.spotify.com/track/1sXdGrbrhfWZ8QACYx6Lpx) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/05bDe8Ngwf8YLwu6uPmRsa) | 3:52 | 2022-04-16 | 2022-07-27 |
@@ -375,6 +376,7 @@
 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 | 2022-03-31 | 2022-07-17 |
 | [Solarium](https://open.spotify.com/track/217whXH6oP07asAmFj2YV9) | [Mimicof](https://open.spotify.com/artist/6QdABScSRzyWQv2eD1Pee4) | [Koto Lyra](https://open.spotify.com/album/1M5td7EALTL3XLlaR3weJ1) | 3:08 | 2022-03-31 | 2022-04-13 |
 | [Somnia](https://open.spotify.com/track/7HpY6YxMGS5yw1UX16j2bF) | [kentaro nagata](https://open.spotify.com/artist/4OlkaBqYH5ucIfgoLNeOH9) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 3:26 | 2022-03-31 | 2022-04-14 |
+| [sou / 想](https://open.spotify.com/track/21i3UkXsJylK6dmZOxDwyh) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [sou / 想](https://open.spotify.com/album/7jcctneYrY0HEw5S8pvBph) | 3:25 | 2023-12-07 |  |
 | [Soukyu](https://open.spotify.com/track/0G8dAvU0e2lKQnWFwOcqFx) | [ヨダタケシ](https://open.spotify.com/artist/6CtzbmA2wU6g83a5Kxyz96), [片山 千穂](https://open.spotify.com/artist/7M91rqZA3rL3s0RKriJQzB) | [KOKORO](https://open.spotify.com/album/5u0RY0JrVc9bnIjIMOAlWz) | 7:35 | 2022-04-16 | 2022-07-28 |
 | [Spatial](https://open.spotify.com/track/57aA35Sk8bvernl1JBGfdr) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Spatial](https://open.spotify.com/album/2s0jmqbAKEjzgnh6ayWfl3) | 3:55 | 2022-12-01 | 2022-12-24 |
 | [Spica](https://open.spotify.com/track/2fbzsO9a3JHa9AWCoWTtg3) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:48 | 2022-04-07 | 2022-07-29 |

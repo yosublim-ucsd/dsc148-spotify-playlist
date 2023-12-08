@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7099\)
+## Playlists <a name="playlists"></a> \(7101\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -817,7 +817,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Best of Fresh Finds Polska 2023](/playlists/pretty/37i9dQZF1DWTI0B69TStH2.md)
 - [Best of Fresh Finds Thailand 2023](/playlists/pretty/37i9dQZF1DWSLboKmA6wlS.md)
 - [Best of Fresh Finds Vietnam  2023](/playlists/pretty/37i9dQZF1DX34s4fg4Zx3Z.md)
-- [Best of Gacha Pop 2023](/playlists/pretty/37i9dQZF1DX9ww9tisjowN.md)
 - [Best of Global Hip\-Hop 2023](/playlists/pretty/37i9dQZF1DX2sQHbtx0sdt.md)
 - [Best of Hamilton](/playlists/pretty/37i9dQZF1DX1nsfmnIDVAJ.md)
 - [Best of Indie 2010](/playlists/pretty/37i9dQZF1DWULq23fLWDsl.md)
@@ -2226,6 +2225,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [GRWM✨](/playlists/pretty/37i9dQZF1DWXwsJebq0rKg.md)
 - [GUNDAM SERIES \-ガンダムシリーズ\-](/playlists/pretty/37i9dQZF1DX6aZ9vrXqd1U.md)
 - [Gabry Ponte's DJ Mix](/playlists/pretty/37i9dQZF1DXcpzpfnVhpIz.md)
+- [Gacha Pop](/playlists/pretty/37i9dQZF1DX9ww9tisjowN.md)
 - [Gainsville Stockholm 2012](/playlists/pretty/6ClBNzH2PMh2jvkEuSFBFJ.md)
 - [Gamble & Huff](/playlists/pretty/37i9dQZF1DWXutrsZUdv7b.md)
 - [Game of Thrones: The Official Soundtrack](/playlists/pretty/37i9dQZF1DXdnZT5DhATDx.md)
@@ -3503,6 +3503,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Mutima](/playlists/pretty/37i9dQZF1DXbmINI7suDts.md)
 - [My Hero Academia \-僕のヒーローアカデミア\-](/playlists/pretty/37i9dQZF1DX9Uv7i7ODBAM.md)
 - [My Liberation Notes \(나의 해방일지\)](/playlists/pretty/37i9dQZF1DXd4LoztuhuiY.md)
+- [My Life With The Walter Boys Official Playlist](/playlists/pretty/37i9dQZF1DWWJTipjkC7Fa.md)
 - [My Pets](/playlists/pretty/37i9dQZF1DXafnfRcoly0r.md)
 - [My body is the earth, my mind the sky](/playlists/pretty/3jPJ5g3oEckEYHmI9Tdh5L.md)
 - [Myd's DJ Mix](/playlists/pretty/37i9dQZF1DWZ8NT7BzoF8r.md)
@@ -3540,6 +3541,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Najin](/playlists/pretty/0DGFHitamINEEhQGIJbisL.md)
 - [Namaste](/playlists/pretty/0op6xwVK9pVhcxozSQPEsJ.md)
 - [Namaste Yoga](/playlists/pretty/37i9dQZF1DXd9Uz5V4eZsn.md)
+- [Nana Nenê](/playlists/pretty/37i9dQZF1DX7gmQDrFAm58.md)
 - [Narcos: Mexico Official Playlist](/playlists/pretty/37i9dQZF1DWVnLMMF0vzrO.md)
 - [Nashville Stripped](/playlists/pretty/37i9dQZF1DX2ViysbCzMHO.md)
 - [Nasty Bits](/playlists/pretty/37i9dQZF1DX2VvACCrgjrt.md)

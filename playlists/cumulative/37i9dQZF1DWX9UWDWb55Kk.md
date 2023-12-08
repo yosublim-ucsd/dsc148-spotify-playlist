@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-439 songs - 1 day 3 hr 46 min
+440 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 | 2022-04-08 |  |
 | [Baby](https://open.spotify.com/track/1tUZOu3WGC8aSaZ84oyGDf) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | [Cinema Olympia \- Caetano Raro & Inédito 67\-74](https://open.spotify.com/album/2xl8IQKN9XCMoRl7xh30JI) | 4:10 | 2023-10-21 |  |
 | [Baby](https://open.spotify.com/track/1i6mTfj9Nn2bYMsrkdqdSc) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Drawing Room](https://open.spotify.com/album/5M9BayikE0SjNp4PNpVZtr) | 4:29 | 2023-10-21 |  |
-| [Baby Baby Baby](https://open.spotify.com/track/3OdBWz9Vw4hhwSQ8xFiZEO) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 4:03 | 2022-11-24 |  |
+| [Baby Baby Baby](https://open.spotify.com/track/3OdBWz9Vw4hhwSQ8xFiZEO) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 4:03 | 2022-11-24 | 2023-12-08 |
+| [Baby Baby Baby](https://open.spotify.com/track/1VUmBgC3siyhNO0LaOx0fz) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4) | [Everything is Gonna Be OK in the End](https://open.spotify.com/album/38zGd8XBZyJRxdmxnrGgbQ) | 4:03 | 2022-11-24 |  |
 | [Bad Attitude](https://open.spotify.com/track/4pla7Qmpw3SHEe3aHZkFEf) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Klergy](https://open.spotify.com/artist/1p9Lr8nFJ21Jej6dwMLngp) | [Bad Attitude](https://open.spotify.com/album/3gKtT1weq4ZQWMG3XBqoKj) | 2:51 | 2021-09-01 |  |
 | [BAGDAD \- Cap.7: Liturgia](https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:02 | 2021-09-01 |  |
 | [Bailar](https://open.spotify.com/track/29WDzFwyuYZC2pOPCygqoS) | [Finesse](https://open.spotify.com/artist/0AUUGd16M55jGRXZNbsfj9), [BNMP](https://open.spotify.com/artist/6lQ1BWAXAl2sBmtFvsfuy7), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Ellegas](https://open.spotify.com/artist/4xD2oueqRvCDui9NWjdPQu) | [El Dorado](https://open.spotify.com/album/0eLoADTd1HpL3Fm9wYUzOw) | 3:48 | 2021-09-01 |  |

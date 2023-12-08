@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "butter",
+        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138904,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
+    },
+    {
+      "album": {
         "name": "Buttermilk",
         "url": "https://open.spotify.com/album/2nGkjmdviKiohj2bK8Rooj"
       },
@@ -2366,6 +2384,24 @@
       "duration_ms": 116687,
       "name": "Embers",
       "url": "https://open.spotify.com/track/0ksP7egvKZpPgKXijDoF8f"
+    },
+    {
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
     },
     {
       "album": {
@@ -4418,7 +4454,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 151445,
       "name": "meditation vibes",
       "url": "https://open.spotify.com/track/0tgec4Q65PDKyprqxl10F3"
@@ -4528,6 +4564,24 @@
       "duration_ms": 156000,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/7ramzkXZYtHU4bUzR2qTJ6"
+    },
+    {
+      "album": {
+        "name": "mid autumn",
+        "url": "https://open.spotify.com/album/30tiLGIHjpSplPuKOAcaqW"
+      },
+      "artists": [
+        {
+          "name": "luzzy fogic",
+          "url": "https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "mid autumn",
+      "url": "https://open.spotify.com/track/4QhzZqh71thbm5cxxiHkzT"
     },
     {
       "album": {
@@ -5560,6 +5614,24 @@
       "duration_ms": 120222,
       "name": "Persona",
       "url": "https://open.spotify.com/track/3FFuTbrQPsRS0D4eICmroy"
+    },
+    {
+      "album": {
+        "name": "Pillow",
+        "url": "https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf"
+      },
+      "artists": [
+        {
+          "name": "Hickah",
+          "url": "https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123319,
+      "name": "Pillow",
+      "url": "https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3"
     },
     {
       "album": {
@@ -6788,7 +6860,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 160000,
       "name": "Soaring",
       "url": "https://open.spotify.com/track/7pNnfBL6CY8tsbU9aLLgS9"

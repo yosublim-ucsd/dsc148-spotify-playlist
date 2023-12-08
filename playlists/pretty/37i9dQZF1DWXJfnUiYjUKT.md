@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,472 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,648 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 36 | [DISAPPEAR](https://open.spotify.com/track/4nEXjVr2y4XTjV3mtRBxH6) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DISAPPEAR](https://open.spotify.com/album/6dpHwZukx4LPFryQQ5XJTx) | 3:15 |
 | 37 | [Never Change](https://open.spotify.com/track/1v4zEkTJxtQJJCEY5e2V0z) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Never Change](https://open.spotify.com/album/79JpJRorp0NHWcAUUXpTJP) | 2:41 |
 | 38 | [This Ol' Rodeo](https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [This Ol' Rodeo](https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl) | 4:18 |
-| 39 | [High and I Like It](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like It](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
+| 39 | [High and I Like it](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like it](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
 | 40 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 |
 | 41 | [DISHONORED](https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [IN LOVING MEMORY](https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk) | 2:43 |
 | 42 | [Drug Trade Pt 2 \(feat\. Black Thought & Benny The Butcher\)](https://open.spotify.com/track/0caNSAOGrPfUQAvqi7H91l) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade Pt 2 \(feat\. Black Thought & Benny The Butcher\)](https://open.spotify.com/album/6bcMIqGM6TwlPvhJYsCCSf) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Maybe](https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Maybe](https://open.spotify.com/album/3ebxDsPCt6eQyjlpya02uM) | 3:14 |
 | 100 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 
-Snapshot ID: `MCwyNDNkYzliNmViNjJkODAwZmVmNjUzOTAzZjNjYmE4YjU1YWI5Mjkw`
+Snapshot ID: `MCw3YjRiN2M5Yzk1NjRhM2IyZWJhOWFhMTJiNDZjOWE5YTQ3OWM3ZmIw`

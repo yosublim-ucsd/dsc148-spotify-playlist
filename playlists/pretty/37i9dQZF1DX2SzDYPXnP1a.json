@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 47696,
+  "num_followers": 47817,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzI3ZjBiNWFmNTJlNGJkMWZkY2I2NGRhNTE5NjdlNjJiODJkYmY5",
+  "snapshot_id": "MCwyNDZhYmQ0NmUwYjgzMTQxZjc5Y2JmNGQwZmY0ODAzMjU5YmE1M2Q0",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 218718,
-      "name": "TRUCK",
-      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 224703,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 218718,
+      "name": "TRUCK",
+      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -351,22 +351,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+        "name": "Home Team",
+        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+      "duration_ms": 196281,
+      "name": "Home Team",
+      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -387,18 +383,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Home Team",
-        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
+        "name": "The Devil Don't Sleep",
+        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 196281,
-      "name": "Home Team",
-      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
+      "duration_ms": 187760,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -439,6 +435,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -475,34 +487,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "The Devil Don't Sleep",
-        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
       "artists": [
         {
           "name": "Brantley Gilbert",
           "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
-      },
-      "artists": [
+        },
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "People Talk",
-        "url": "https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 191079,
-      "name": "People Talk",
-      "url": "https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Ride It Hard",
         "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "People Talk",
+        "url": "https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 191079,
+      "name": "People Talk",
+      "url": "https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U"
     },
     {
       "added_at": "2023-12-01 05:01:00",

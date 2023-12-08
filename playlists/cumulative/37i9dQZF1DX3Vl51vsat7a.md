@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
 
-274 songs - 14 hr 44 min
+275 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Backyard Body](https://open.spotify.com/track/1LdlloAKsamceZO7qDSfQS) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [RISE OF THE ROMANIAC](https://open.spotify.com/album/4fXKTHlYNHgc6RLGe4cSrg) | 2:12 | 2022-05-26 | 2022-10-28 |
 | [Bahnhof](https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Nate57](https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Bahnhof](https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g) | 2:43 | 2023-11-16 |  |
 | [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-23 | 2023-03-22 |
-| [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-03-16 |  |
+| [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-03-16 | 2023-12-08 |
 | [besoffen in den spiegel schauen](https://open.spotify.com/track/4xEfMKxaESmdTTAuu2GHK1) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [2022 war film gewesen](https://open.spotify.com/album/7lOlLrkcD0F2SXIqyVxL43) | 2:38 | 2022-12-01 | 2023-02-10 |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 | 2022-07-15 |
 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 | 2023-07-11 |  |
@@ -88,6 +88,7 @@
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-15 | 2023-08-18 |
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 | 2022-10-28 |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-01 | 2023-07-28 |
+| [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 | 2023-12-08 |  |
 | [Fluss](https://open.spotify.com/track/2QuyGidLrET8KlD8fN2bPc) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Fluss](https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx) | 3:17 | 2021-12-16 | 2022-02-25 |
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-01-06 | 2022-06-03 |
 | [Forest Mystery](https://open.spotify.com/track/1UfzVF3KVgc05I8HvPtJ6Y) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Forest Mystery](https://open.spotify.com/album/6VtN92LHbDON4S8KV6wPYL) | 6:27 | 2023-08-24 |  |

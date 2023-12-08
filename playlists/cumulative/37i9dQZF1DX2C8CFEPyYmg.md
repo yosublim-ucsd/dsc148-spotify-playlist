@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-468 songs - 14 hr 26 min
+469 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Child's Legend](https://open.spotify.com/track/6kiYpTu6ZPzJMxu5iHVSkN) | [Abbey Browler](https://open.spotify.com/artist/1kGFfC3m4AXxgjEldPHcM4) | [A Child's Legend](https://open.spotify.com/album/0U4OUGtb7MY2zt8Yn8mYzY) | 1:33 | 2022-08-11 | 2022-10-29 |
 | [A Cradle Song](https://open.spotify.com/track/60E2u8QrNYRC81CCUTWtDe) | [Nerissa Hale](https://open.spotify.com/artist/4g7kMJcLZe9HABplPVtGDb) | [Sunshine and Moonbeams](https://open.spotify.com/album/4SKRDogUPCge6dfaq3NCcU) | 1:30 | 2022-08-11 | 2023-06-09 |
 | [A Day's Worth](https://open.spotify.com/track/5LFpPmEb0XLUXejA719JP2) | [Lunng Fern](https://open.spotify.com/artist/3uuXHV6ZEj5MlSBNjBY2c9) | [A Day's Worth](https://open.spotify.com/album/63dDQzdwERMFdAD7Kn1hM9) | 1:09 | 2022-08-11 | 2022-10-29 |
-| [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/2hdBiTLnpeyWGQYf3hzMMP) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/album/37wsRFcohKgI5VZZaFlajv) | 2:23 | 2023-04-21 |  |
+| [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/6EPgYJrkrl8f228tEXhKcf) | [Divine Dana](https://open.spotify.com/artist/42avXwk7bYkSv0b9NBOhhm) | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/album/5spi6T2rtCXbrIZDIYHfyq) | 1:48 | 2023-12-08 |  |
+| [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/2hdBiTLnpeyWGQYf3hzMMP) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/album/37wsRFcohKgI5VZZaFlajv) | 2:23 | 2023-04-21 | 2023-12-08 |
 | [A Glass of Milk](https://open.spotify.com/track/626KaEupEkq0EgYnwI6dH5) | [Beverly Cantrell](https://open.spotify.com/artist/2ixd56Ho7BJEA3eigxgXT4) | [A Glass of Milk](https://open.spotify.com/album/7A0qy0QZunqfBzEi5cr3D5) | 1:41 | 2022-08-11 |  |
 | [A House on the Prairie](https://open.spotify.com/track/0d9XVdHfqT8HDxK1dVK4yy) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [A House on the Prairie](https://open.spotify.com/album/3xOr5J8QYzF9IjmTU8Zydu) | 1:44 | 2022-08-11 |  |
 | [A Mother's Heart](https://open.spotify.com/track/24D5wWWgW6BoCtJNdpJZzk) | [Susie Helmick](https://open.spotify.com/artist/6Ri49QRsA8vnFUhtUiXipF) | [A Mother's Heart](https://open.spotify.com/album/1ATFQZOKu1iwKfezW8k6Fk) | 1:34 | 2022-08-11 |  |

@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNTY3ODAsMDAwMDAwMDAzMjFlNGFjZGI5N2U4NGI0Y2I5OWFiMmVmMDE3ZWFkZQ==",
+  "snapshot_id": "MjgzNTY3ODAsMDAwMDAwMDAxZDM1ODYzYTA1MmE4ZDI0YTk2YTM3OTllMDdlMjk5NA==",
   "tracks": [
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Feliz Navidad (Metal Version)",
-        "url": "https://open.spotify.com/album/0oJsglUpQOb3imRXh3iMSa"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 219263,
-      "name": "Feliz Navidad (Metal Version)",
-      "url": "https://open.spotify.com/track/6oZD9wB0TopUfxE4G8J0Nb"
-    },
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
@@ -55,8 +39,24 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Feliz Navidad (Metal Version)",
+        "url": "https://open.spotify.com/album/0oJsglUpQOb3imRXh3iMSa"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 219263,
+      "name": "Feliz Navidad (Metal Version)",
+      "url": "https://open.spotify.com/track/6oZD9wB0TopUfxE4G8J0Nb"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Carthage",
-        "url": "https://open.spotify.com/album/7uv2fGsQjwlPEscesUY6eD"
+        "url": "https://open.spotify.com/album/5HVWGN85bLF31yI7YWe4xq"
       },
       "artists": [
         {
@@ -72,29 +72,9 @@
           "url": "https://open.spotify.com/artist/2MwoMDYepqVtZK7b6Oi9s2"
         }
       ],
-      "duration_ms": 240146,
+      "duration_ms": 165403,
       "name": "Highway to Heaven",
-      "url": "https://open.spotify.com/track/1BJ6739UfXdIa2SSrywwat"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "FIVE RINGS",
-        "url": "https://open.spotify.com/album/7EopSafTRCAwzkQ6jCG6cY"
-      },
-      "artists": [
-        {
-          "name": "YOKAY",
-          "url": "https://open.spotify.com/artist/1mqNtc8stMyp6fvbWvro2Y"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "SAMURAI REBELLION",
-      "url": "https://open.spotify.com/track/3rXEn23A39nb6ED77ooCYU"
+      "url": "https://open.spotify.com/track/1t76vFG3TW5f4w1s8iWDz4"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -119,22 +99,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "THE HEADACHE",
-        "url": "https://open.spotify.com/album/6gT9XERfciXvK4k39OUX0c"
+        "name": "FIVE RINGS",
+        "url": "https://open.spotify.com/album/7EopSafTRCAwzkQ6jCG6cY"
       },
       "artists": [
         {
-          "name": "SEAN DON",
-          "url": "https://open.spotify.com/artist/0ii0dZXmrq7ZN4tLWQOh1e"
+          "name": "YOKAY",
+          "url": "https://open.spotify.com/artist/1mqNtc8stMyp6fvbWvro2Y"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 171964,
-      "name": "cold blues",
-      "url": "https://open.spotify.com/track/76zVg3cVjNv0o4AJreFhfE"
+      "duration_ms": 171968,
+      "name": "SAMURAI REBELLION",
+      "url": "https://open.spotify.com/track/3rXEn23A39nb6ED77ooCYU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -163,26 +143,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Facing The Sideways Rain",
-        "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"
+        "name": "THE HEADACHE",
+        "url": "https://open.spotify.com/album/6gT9XERfciXvK4k39OUX0c"
       },
       "artists": [
         {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+          "name": "SEAN DON",
+          "url": "https://open.spotify.com/artist/0ii0dZXmrq7ZN4tLWQOh1e"
         },
         {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Carlos Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 342597,
-      "name": "Facing The Sideways Rain",
-      "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
+      "duration_ms": 171964,
+      "name": "cold blues",
+      "url": "https://open.spotify.com/track/76zVg3cVjNv0o4AJreFhfE"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -215,6 +191,30 @@
       "duration_ms": 224693,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/0YODkdtR9nLeKV9DiTceKr"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Facing The Sideways Rain",
+        "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"
+      },
+      "artists": [
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "duration_ms": 342597,
+      "name": "Facing The Sideways Rain",
+      "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Rockin' Around the Christmas Tree",
-        "url": "https://open.spotify.com/album/2NI06JGd3C4GHOeM55FXxU"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 132464,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/69wYSuJ089rfvYPkVYgd12"
       },
@@ -547,6 +531,38 @@
       "duration_ms": 277488,
       "name": "Eye Witness",
       "url": "https://open.spotify.com/track/1AYvOthT2JbGxmqvGFiNcW"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Rockin' Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/2NI06JGd3C4GHOeM55FXxU"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 132464,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Up on the Housetop",
+        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 170300,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -571,22 +587,6 @@
       "duration_ms": 242561,
       "name": "DOWN BY LAW - Live from Atlanta, GA",
       "url": "https://open.spotify.com/track/6rgawPzwREAF01BSJFXXxD"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Up on the Housetop",
-        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 170300,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
     },
     {
       "added_at": "2023-12-01 05:00:00",

@@ -68,7 +68,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 232917,
       "name": "About You",
       "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
@@ -1160,6 +1160,28 @@
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
+    },
+    {
+      "album": {
+        "name": "Eyesight",
+        "url": "https://open.spotify.com/album/2UmCQEJcx57QCwhGoju6bZ"
+      },
+      "artists": [
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        },
+        {
+          "name": "Damaui",
+          "url": "https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Eyesight",
+      "url": "https://open.spotify.com/track/3cMrgJny9vGJV4IJXV9yF5"
     },
     {
       "album": {

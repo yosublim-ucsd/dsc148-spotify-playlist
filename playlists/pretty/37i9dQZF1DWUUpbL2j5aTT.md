@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House\. Photo: Meca
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,927 likes - 64 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,929 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 | 61 | [Guru Purnima](https://open.spotify.com/track/5dMDYoRM6CwwshxBMtUNAv) | [Nihanna](https://open.spotify.com/artist/5gX7bPFZ3S5TTAzIpsMX9O), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Guru Purnima](https://open.spotify.com/album/772Jumq3fbi8eXJZR9stQJ) | 5:37 |
 | 62 | [Macaw](https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Macaw](https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n) | 6:00 |
 | 63 | [Nosso Espaço](https://open.spotify.com/track/5CRAaaj8HsuQ9gUXFE4RqR) | [Ella De Vuono](https://open.spotify.com/artist/2PRUReyWWiCkqNISBal5sn), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Nossa Gangue](https://open.spotify.com/album/4Hc0j4uyuMGefL33kkYmn6) | 6:16 |
-| 64 | [Circulator](https://open.spotify.com/track/1CGS1ivLi4e7ejfr7Qrgi0) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Circulator](https://open.spotify.com/album/2qoGsSpsx5vYo5RdGLQ2eU) | 3:36 |
+| 64 | [Circulator](https://open.spotify.com/track/1CGS1ivLi4e7ejfr7Qrgi0) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Circulator](https://open.spotify.com/album/2qoGsSpsx5vYo5RdGLQ2eU) | 2:30 |
 
-Snapshot ID: `MCwzNzRiMTg4OGUzNjE1MDhmYmMxMzAzMDEwNDA2OWNiMDU5NmZjMzIz`
+Snapshot ID: `MCwyMWRlNmNlODYwZTA2ZTEwNjJmMTA5NDdhM2U1NWNjM2I0MWE1OTNk`

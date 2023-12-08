@@ -1566,6 +1566,28 @@
     {
       "album": {
         "name": "Various Artists",
+        "url": "https://open.spotify.com/album/1iPORQvynU2LUHJhtp8Rpx"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Thyladomid",
+          "url": "https://open.spotify.com/artist/2ZK6csW8YIGpGGUiQO6wfW"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499786,
+      "name": "Deep In The Three",
+      "url": "https://open.spotify.com/track/5VAK3MPhNoROdWbMIIcUzj"
+    },
+    {
+      "album": {
+        "name": "Various Artists",
         "url": "https://open.spotify.com/album/6EZn2dAuXo3M6U99YvxSyW"
       },
       "artists": [
@@ -1580,7 +1602,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 499786,
       "name": "Deep In The Three",
       "url": "https://open.spotify.com/track/6VmLSbD3pgHBRNWboNyoSq"
@@ -2554,6 +2576,24 @@
       "duration_ms": 308222,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw"
+    },
+    {
+      "album": {
+        "name": "Get Hard (You In The Lobby)",
+        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156948,
+      "name": "Get Hard (You In The Lobby)",
+      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
     },
     {
       "album": {
@@ -4115,6 +4155,28 @@
     },
     {
       "album": {
+        "name": "Low Rider (Kyle Watson Remix)",
+        "url": "https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200788,
+      "name": "Low Rider - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG"
+    },
+    {
+      "album": {
         "name": "Lucky Luke",
         "url": "https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA"
       },
@@ -4170,6 +4232,24 @@
       "duration_ms": 259991,
       "name": "LVSCK",
       "url": "https://open.spotify.com/track/2LhasyAAL9Vhv0EtOgqY0v"
+    },
+    {
+      "album": {
+        "name": "L\u0113t It Go",
+        "url": "https://open.spotify.com/album/3SxIZ9RNGFcFW0ATXNKxVw"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221557,
+      "name": "L\u0113t It Go",
+      "url": "https://open.spotify.com/track/1Xgyx4LF58DLDLQrqM9U7j"
     },
     {
       "album": {
@@ -4826,6 +4906,32 @@
       "duration_ms": 156611,
       "name": "nyc in 1940",
       "url": "https://open.spotify.com/track/6loDuwmsq6fazVxqqRhmcp"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Sei Parar (Mojjo Remix)",
+        "url": "https://open.spotify.com/album/1OUJtYZFBjqViGP0WPHXPl"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Afterclapp",
+          "url": "https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "N\u00e3o Sei Parar - Mojjo Remix",
+      "url": "https://open.spotify.com/track/6j45uOIAiHWIEEaSiCRi4L"
     },
     {
       "album": {
@@ -5641,6 +5747,28 @@
     },
     {
       "album": {
+        "name": "Save My Life (Folamour Remix)",
+        "url": "https://open.spotify.com/album/7emMblwJ7MZ1ejnuBhJ9X7"
+      },
+      "artists": [
+        {
+          "name": "Benny Mussa",
+          "url": "https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293747,
+      "name": "Save My Life - Folamour Remix",
+      "url": "https://open.spotify.com/track/4IbfSkANxDLlaqDptTZ5hE"
+    },
+    {
+      "album": {
         "name": "Saving Up",
         "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
       },
@@ -6278,6 +6406,28 @@
       "duration_ms": 212125,
       "name": "Sweet Summer Dreams - Remix",
       "url": "https://open.spotify.com/track/1ZHWY5QGBNmPAh22YowK36"
+    },
+    {
+      "album": {
+        "name": "S\u00e9curit\u00e9",
+        "url": "https://open.spotify.com/album/32MK0bLin0vaSjCrqiTzmv"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165976,
+      "name": "S\u00e9curit\u00e9",
+      "url": "https://open.spotify.com/track/6qmVGcaUSiavKomB8yHYDb"
     },
     {
       "album": {
@@ -7059,6 +7209,24 @@
     },
     {
       "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "album": {
         "name": "Want U Again",
         "url": "https://open.spotify.com/album/2s0aZNFIJiDY79ONncV56F"
       },
@@ -7424,6 +7592,32 @@
       "duration_ms": 353701,
       "name": "You've Been Missing Me",
       "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
+    },
+    {
+      "album": {
+        "name": "Your Love (Coco & Breezy Remix)",
+        "url": "https://open.spotify.com/album/6tHmz3CPozjHWyn5337q3G"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Your Love (Coco & Breezy Remix)",
+      "url": "https://open.spotify.com/track/1R6oh1GNq3Ql0OJDtym9qw"
     },
     {
       "album": {

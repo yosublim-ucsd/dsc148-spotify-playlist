@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 24281,
+  "num_followers": 24299,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTViOGEyZTgyNWI2YWY4Y2U4NzlmZWU4NjE5YjRkYjZhNzk3ZGI2",
+  "snapshot_id": "MCwxZGZiYjJkOWJlY2Y1NzgyYWZmMjVhZjljZTAzYjIxZTEwN2Y4N2Jm",
   "tracks": [
     {
       "added_at": "2023-11-08 09:00:27",
@@ -792,13 +792,13 @@
       },
       "artists": [
         {
-          "name": "\u5e02\u5ddd\u96db\u83dc (CV.\u5ca1\u54b2\u7f8e\u4fdd)",
-          "url": "https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes"
+          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
+          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
         }
       ],
-      "duration_ms": 231093,
-      "name": "\u3042\u304a\u305e\u3089\u30b5\u30a4\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl"
+      "duration_ms": 277866,
+      "name": "statice",
+      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
     },
     {
       "added_at": "2023-11-08 09:00:27",
@@ -808,13 +808,13 @@
       },
       "artists": [
         {
-          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
-          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
+          "name": "\u5e02\u5ddd\u96db\u83dc (CV.\u5ca1\u54b2\u7f8e\u4fdd)",
+          "url": "https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes"
         }
       ],
-      "duration_ms": 277866,
-      "name": "statice",
-      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
+      "duration_ms": 231093,
+      "name": "\u3042\u304a\u305e\u3089\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl"
     },
     {
       "added_at": "2023-11-08 09:00:27",

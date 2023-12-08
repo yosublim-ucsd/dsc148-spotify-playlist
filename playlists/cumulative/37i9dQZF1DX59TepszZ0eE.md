@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=w5COGWuuThWSR57bXIsUzA">Xolly Mnchwango</a>
 
-178 songs - 17 hr 53 min
+180 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 | 2023-08-25 |  |
 | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/track/1EtlmAlMg6V3Cb4gklkovA) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/album/061BwSXuzM3j9KU96O24tO) | 7:54 | 2023-09-01 | 2023-09-15 |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2023-09-15 |  |
+| [Ngiyazi uMhlengi Wami \(Deluxe\) \- Live](https://open.spotify.com/track/7kZjl6ZYdTgZ8rJ0a7a1RM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ngiyazi uMhlengi Wami \(Deluxe\) \[Live\]](https://open.spotify.com/album/58a7JZmLzeiZIppnzF2ziJ) | 9:21 | 2023-12-08 |  |
 | [Ngobekezela \- Live at Durban ICC RSA](https://open.spotify.com/track/7cbzm3WHC4J30wwQ3BVELA) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba \(Live at Durban ICC RSA\)](https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa) | 2:47 | 2019-01-06 |  |
 | [Ngoziphilela](https://open.spotify.com/track/6U0474ZSk2nJIYrYr5nr4G) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r), [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Ngoziphilela](https://open.spotify.com/album/6fbV9fOh86AldX8ewDfhW9) | 4:04 | 2021-10-14 | 2023-03-18 |
 | [Nguna Phakade \(Live\)](https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Mo Roriseng \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4) | 11:08 | 2023-10-27 |  |
@@ -160,6 +161,7 @@
 | [Uzokuphendula](https://open.spotify.com/track/2AEfhL3jyC37LUoFj1tVLm) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Icebo Le Nkosi](https://open.spotify.com/album/7u3wRzBQ19vBWhYN5kvher) | 5:51 | 2022-09-15 | 2023-03-18 |
 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 | 2023-06-16 |  |
 | [Vela](https://open.spotify.com/track/0GWCvJTm9F7cEBOVNwaSTo) | [Masechaba](https://open.spotify.com/artist/1Vb8rtqOhPNaruaVz4MDb7), [The Real LandLordz](https://open.spotify.com/artist/6QVlBTeWv5eRdNtIMfVz0D) | [Vela](https://open.spotify.com/album/4ZFnH2UP63BOoCkkgg0Gc5) | 3:23 | 2022-03-24 | 2023-03-18 |
+| [Vuma](https://open.spotify.com/track/6JY4EnkudR3Si4OJQcHGmz) | [Mjakes The Producer](https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ), [Bongani Nchang](https://open.spotify.com/artist/2uBMNWP51MKd2o6a3PtTP0), [Khobzn Kiavalla](https://open.spotify.com/artist/5B0lL1PSlcHTwrzxwyYnMs) | [Imithandazo](https://open.spotify.com/album/0GyboSYthk9iUv8QfsZrcj) | 5:43 | 2023-12-08 |  |
 | [Wafika](https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Wafika](https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo) | 8:33 | 2018-09-24 |  |
 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 | 2022-03-24 |  |
 | [Walats3\(Life Giver\)](https://open.spotify.com/track/2ygzqWER8vIMEoMXM3nEwc) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Walats3\(Life Giver\)](https://open.spotify.com/album/5dtz3U2rv8LsBVk2YE5CXH) | 5:31 | 2023-08-04 | 2023-09-15 |

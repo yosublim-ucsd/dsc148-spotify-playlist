@@ -4168,7 +4168,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 193640,
       "name": "Love is a personal thing",
       "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
@@ -4208,6 +4208,24 @@
       "duration_ms": 164346,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0grXriSrpdF2p51rIkNdpQ"
+    },
+    {
+      "album": {
+        "name": "The Two Of Us",
+        "url": "https://open.spotify.com/album/3MdRXwsZezswdWUwXQrUFD"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330933,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/7LRBCqmLF8xWHb7c31cQEf"
     },
     {
       "album": {
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
@@ -6768,6 +6786,24 @@
       "duration_ms": 206014,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/7HpY6YxMGS5yw1UX16j2bF"
+    },
+    {
+      "album": {
+        "name": "sou / \u60f3",
+        "url": "https://open.spotify.com/album/7jcctneYrY0HEw5S8pvBph"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205636,
+      "name": "sou / \u60f3",
+      "url": "https://open.spotify.com/track/21i3UkXsJylK6dmZOxDwyh"
     },
     {
       "album": {

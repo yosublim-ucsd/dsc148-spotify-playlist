@@ -2,9 +2,9 @@
 
 ### [Fresh Pop](https://open.spotify.com/playlist/37i9dQZF1DX2fMaj5GfMh3)
 
-> Kenya is terug op de cover van Fresh Pop💙
+> Noah Kahan op de cover van Fresh Pop
 
-420 songs - 21 hr 9 min
+422 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Cure For Love](https://open.spotify.com/track/3oeewidKD4nsh3MkawPbrH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Cure For Love](https://open.spotify.com/album/2KU9xbHp3q7e3xzv8yYIVE) | 2:57 | 2023-03-30 | 2023-04-07 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-08 | 2023-08-18 |
 | [Daddy Fever](https://open.spotify.com/track/1tljYqOLCvSmR311hO5al2) | [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY) | [Daddy Fever](https://open.spotify.com/album/5KqVLVd0aPjpQUnuFtbjUZ) | 2:31 | 2023-07-14 | 2023-10-06 |
+| [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2023-12-08 |  |
 | [Dance Dance \(Don't Go\)](https://open.spotify.com/track/0Bjb6ooycRufxEEroOmYuB) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/0isvwHsmToFvaEV4Lr4t5c) | 2:10 | 2023-03-30 | 2023-06-23 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 | 2023-09-08 |
 | [dance!](https://open.spotify.com/track/6LDZ2iOlkzKd8p8XkBCm97) | [Lena Hessels](https://open.spotify.com/artist/6YBkOQlHylyrItGxWofF64) | [dance!](https://open.spotify.com/album/03zDCdsipxn2quln99VRcF) | 2:11 | 2023-10-26 |  |
@@ -320,6 +321,7 @@
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-25 | 2023-12-01 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-09 | 2023-06-23 |
 | [Roles Reversed](https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Roles Reversed](https://open.spotify.com/album/2RFdnVvLdNioN4fw42fPfr) | 3:45 | 2023-02-24 | 2023-06-09 |
+| [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-08 |  |
 | [Runaway](https://open.spotify.com/track/72RjHoPZPW3LZHgVS4akIy) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 2:42 | 2023-06-30 | 2023-10-16 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-08-17 | 2023-09-01 |
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2023-08-31 | 2023-10-13 |
@@ -339,7 +341,7 @@
 | [Shy Boy](https://open.spotify.com/track/2diHObxEyYlftJ2pPIB3eG) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 3:29 | 2023-08-10 | 2023-09-21 |
 | [Shy Boy](https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Shy Boy](https://open.spotify.com/album/5SfL9du7O2pG1q14UsegkA) | 3:29 | 2023-06-22 | 2023-08-14 |
 | [Silence Me \(To Death\)](https://open.spotify.com/track/15f6dnQCldwEyP9cHZnVnJ) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Silence Me \(To Death\)](https://open.spotify.com/album/7FKxWyMczQQVF1bs9tIrd0) | 2:20 | 2023-08-25 | 2023-11-17 |
-| [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 |  |
+| [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 | 2023-12-08 |
 | [Sit Down](https://open.spotify.com/track/3ctYEPEXxRaloC9MXbPHxK) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Sit Down](https://open.spotify.com/album/1uF4k4V0tcqaYkbj4qQZdm) | 4:24 | 2023-09-07 | 2023-11-17 |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-08 | 2023-06-23 |
 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 | 2023-02-24 | 2023-04-07 |
@@ -377,7 +379,7 @@
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-09 | 2023-07-08 |
 | [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 | 2023-04-06 | 2023-07-14 |
 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-08-31 | 2023-11-18 |
-| [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 | 2023-11-16 |  |
+| [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 | 2023-11-16 | 2023-12-08 |
 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 | 2023-08-17 | 2023-11-10 |
 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 | 2023-05-26 | 2023-09-22 |
 | [The Feeling of Letting Go](https://open.spotify.com/track/3HG9CPmjjXtuOgq2xY8i2w) | [Moxy The Band](https://open.spotify.com/artist/3dBOwPj9GaClkPMJXIruFP) | [The Feeling of Letting Go](https://open.spotify.com/album/3E878reFrILfVxZifIlTwr) | 3:45 | 2023-02-24 | 2023-03-18 |

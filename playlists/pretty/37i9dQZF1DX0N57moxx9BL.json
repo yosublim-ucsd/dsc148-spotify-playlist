@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 141359,
+  "num_followers": 141436,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDlhNDRhOTFhY2M0NGEzOWU0ZjQ3OGQ4YjM1MWE5ZDNiMWQzMTZh",
+  "snapshot_id": "MCw2NDM5NjBhZDkzODQ3YzIxZmE5MjZjMTczZGZmODU2NGM1ZGNiZWI4",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
-      },
-      "artists": [
-        {
-          "name": "LEDGER",
-          "url": "https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Deathgrip",
         "url": "https://open.spotify.com/album/1MK5aZeXCgg0zXvwdRdcDW"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 254998,
       "name": "Deathgrip",
       "url": "https://open.spotify.com/track/3Ucq1gQdwgIuhytmI1CEyj"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
+      },
+      "artists": [
+        {
+          "name": "LEDGER",
+          "url": "https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Let the Light In",
-        "url": "https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh"
-      },
-      "artists": [
-        {
-          "name": "Ashes Remain",
-          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
-        }
-      ],
-      "duration_ms": 223011,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/6YVeVuB9KpwAeQcKjVEE7k"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/1uRTs9lDqR70WH1QNbWBty"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 164815,
       "name": "On Becoming Willing",
       "url": "https://open.spotify.com/track/5buK9fmCLWolU2FGOuFfJv"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Let the Light In",
+        "url": "https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh"
+      },
+      "artists": [
+        {
+          "name": "Ashes Remain",
+          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
+        }
+      ],
+      "duration_ms": 223011,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/6YVeVuB9KpwAeQcKjVEE7k"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "A Mirror Dimly",
-        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 338333,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Love Letter Kill Shot",
         "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 269733,
       "name": "Panic Room (featuring Andrew Schwab)",
       "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "A Mirror Dimly",
+        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 338333,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "The Fear",
         "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 272281,
       "name": "Listen Friend",
       "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Dark Cold Night",
+        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 281117,
+      "name": "Dark Cold Night",
+      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Dark Cold Night",
-        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 281117,
-      "name": "Dark Cold Night",
-      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
       "artists": [
         {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
       "artists": [
         {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
         }
       ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+      "duration_ms": 168000,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
+      },
+      "artists": [
+        {
+          "name": "Safemode",
+          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+        }
+      ],
+      "duration_ms": 266503,
+      "name": "This Is Not the End",
+      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Future Golden Age",
         "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
       },
@@ -1023,18 +1039,34 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
       },
       "artists": [
         {
-          "name": "Safemode",
-          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
         }
       ],
-      "duration_ms": 266503,
-      "name": "This Is Not the End",
-      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Peace That Starts the War",
         "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 168391,
       "name": "Peace That Starts the War",
       "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Acoustic - EP",
         "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
@@ -1215,38 +1231,6 @@
       "duration_ms": 239552,
       "name": "Burn Back the Sun",
       "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1267,18 +1251,50 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
       "artists": [
         {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        }
+      ],
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
+      },
+      "artists": [
+        {
+          "name": "Danger Scene",
+          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
+        }
+      ],
+      "duration_ms": 246286,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1315,34 +1331,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
       },
       "artists": [
         {
-          "name": "Danger Scene",
-          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
         }
       ],
-      "duration_ms": 246286,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "What I've Become",
-        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "What I've Become",
-      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Salvation For 100%",
-        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        },
-        {
-          "name": "Jacob Coyne",
-          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
-        }
-      ],
-      "duration_ms": 369191,
-      "name": "Salvation For 100%",
-      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1407,18 +1387,38 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
+        "name": "Salvation For 100%",
+        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
       "artists": [
         {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        },
+        {
+          "name": "Jacob Coyne",
+          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
         }
       ],
-      "duration_ms": 255980,
-      "name": "Pls Snd Hlp",
-      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+      "duration_ms": 369191,
+      "name": "Salvation For 100%",
+      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
       },
       "artists": [
         {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+      "duration_ms": 255980,
+      "name": "Pls Snd Hlp",
+      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Death Stare",
-        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
-      },
-      "artists": [
-        {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
-        }
-      ],
-      "duration_ms": 248972,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 258888,
       "name": "Angels vs Demons",
       "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Death Stare",
+        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
+      },
+      "artists": [
+        {
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+        }
+      ],
+      "duration_ms": 248972,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "The Antihero",
+        "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 248392,
+      "name": "The Antihero",
+      "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Rise to the Call",
         "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 340000,
       "name": "Blood of the Son",
       "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "The Antihero",
-        "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 248392,
-      "name": "The Antihero",
-      "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
     }
   ],
   "unique_name": "Top Christian Rock",

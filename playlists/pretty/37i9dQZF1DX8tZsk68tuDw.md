@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with VNSSA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,019,803 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019,853 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
 | 2 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh) | 2:30 |
-| 3 | [High and I Like It](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like It](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
+| 3 | [High and I Like it](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like it](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
 | 4 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
 | 5 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
 | 6 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Tigh Pop](https://open.spotify.com/track/54oQyfr7as59L7u4yvHS3H) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Tigh Pop](https://open.spotify.com/album/3yQOXiQZJVFSyovlXUhulQ) | 4:13 |
 | 75 | [While U Sleep](https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:44 |
 
-Snapshot ID: `MCw4NzVmNzM3ODVhODE4OTFhY2EyZjA4ODY4ZjUzODI2ODMyY2YxNzE1`
+Snapshot ID: `MCw2MGM1MTQxMTBkMDViMzk1ZjQxYmU4MjNlMDg1YmRkZmZiNGIzODUz`

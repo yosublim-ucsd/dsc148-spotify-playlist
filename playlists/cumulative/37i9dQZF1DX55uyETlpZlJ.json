@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Baby I Love You",
+        "url": "https://open.spotify.com/album/0EYeMwaKPXJKYpQ9Pnf0uc"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272869,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0HD2WGprYrNVKsbfN4Uba9"
+    },
+    {
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/2x1naxHI21CUc4UhacSO88"
       },
@@ -790,6 +808,24 @@
       "duration_ms": 209200,
       "name": "Chitte (Tulu Song)",
       "url": "https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7"
+    },
+    {
+      "album": {
+        "name": "Daari - The Way of Life",
+        "url": "https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255623,
+      "name": "Daari - The Way of Life",
+      "url": "https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC"
     },
     {
       "album": {
@@ -3876,7 +3912,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 325309,
       "name": "Rodane",
       "url": "https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O"

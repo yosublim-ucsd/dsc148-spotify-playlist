@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-268 songs - 12 hr 48 min
+269 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bombay Wale](https://open.spotify.com/track/6jXneeDo8tzVKvb9aCiQ3m) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [Bombay Wale](https://open.spotify.com/album/7l6tVpdLTvnXqw0TlVrikR) | 3:04 | 2023-10-19 | 2023-10-26 |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-04-27 |  |
 | [Calaboose](https://open.spotify.com/track/2wHTMZwkLbpM6LNkUBs2Xt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:05 | 2023-03-29 | 2023-07-15 |
+| [Call](https://open.spotify.com/track/4SwNUr2HyPu1HpiIxX3E4R) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Lopon Wala Sidhu](https://open.spotify.com/album/6s0jbF0UuD4Dac4J5AjATY) | 2:34 | 2023-12-07 |  |
 | [Can't Judge](https://open.spotify.com/track/7HI8nsYQlsdz3DA02qbEpl) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Kelly](https://open.spotify.com/artist/4rJT3c6YMsd8gcZNgLpGS5) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 1:59 | 2023-04-14 | 2023-04-21 |
 | [Case](https://open.spotify.com/track/2fRHKT0pS5NyKW32fhLIUb) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Case](https://open.spotify.com/album/3U4DrXSmQRhFQGU7NYvaBs) | 2:04 | 2023-05-17 |  |
 | [Case](https://open.spotify.com/track/5qEFLzru66ilBHP6am3PwA) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Case](https://open.spotify.com/album/5MmDbXyMQTArVzVZ1MuvIF) | 2:19 | 2023-06-30 | 2023-08-04 |
@@ -206,7 +207,7 @@
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/21wSW3l3ykp9cMOkbfMbQo) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-03-29 | 2023-07-28 |
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 |  |
-| [Puthe Kamm](https://open.spotify.com/track/4HYvIbn8pJfRuliUgAzPr5) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Janta Toor](https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K), [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Puthe Kamm](https://open.spotify.com/album/49pgzd02VxYIe6HfQBlIOo) | 2:40 | 2023-12-01 |  |
+| [Puthe Kamm](https://open.spotify.com/track/4HYvIbn8pJfRuliUgAzPr5) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Janta Toor](https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K), [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Puthe Kamm](https://open.spotify.com/album/49pgzd02VxYIe6HfQBlIOo) | 2:40 | 2023-12-01 | 2023-12-08 |
 | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/0le7rsL6RS0cv3JRpPHim3) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/7MNNv8dFXb563dcOpw4P4H) | 2:58 | 2023-04-15 | 2023-04-21 |
 | [Raid](https://open.spotify.com/track/0zzFgse3Kxav0FTpHD32JH) | [Gurpreet Randhawa](https://open.spotify.com/artist/3uB5zQEcpSgthO42DwPcH9), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Raid](https://open.spotify.com/album/5ZkyLxGnYpG47sUsN2f4f8) | 2:16 | 2023-03-29 | 2023-04-21 |
 | [Rebel](https://open.spotify.com/track/55nyHIEC9uSC5nqgMGiZIe) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Chidiyan Da Chamba](https://open.spotify.com/album/7Dsgh4TMCBZW64jpsEGyIv) | 3:11 | 2023-10-20 | 2023-10-24 |

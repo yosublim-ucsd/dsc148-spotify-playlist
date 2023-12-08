@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10925,
+  "num_followers": 10930,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGIzOTg2YWMxODgzYzJiMjliNGVkODZjMWEwZDM1ZWJmZDEzMmEz",
+  "snapshot_id": "MCxiZmUyNWE4NzIxYzVlODc2YzQ2NzdkZjgzOGVkYzIwZDA1N2U2NDFh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "King Bee Shakedown",
-      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 209120,
       "name": "Make It Move",
       "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "King Bee Shakedown",
+      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -413,26 +413,6 @@
       "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Like It on Top",
-        "url": "https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        },
-        {
-          "name": "Keb\u2019 Mo\u2019 and Robben Ford",
-          "url": "https://open.spotify.com/artist/1vtGuNoBIAtbi1wNOGSGHn"
-        }
-      ],
-      "duration_ms": 285893,
-      "name": "Like It on Top",
-      "url": "https://open.spotify.com/track/1MMXilYlgGiVXSz5YCOV9d"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -451,6 +431,26 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Like It on Top",
+        "url": "https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8"
+      },
+      "artists": [
+        {
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+        },
+        {
+          "name": "Keb\u2019 Mo\u2019 and Robben Ford",
+          "url": "https://open.spotify.com/artist/1vtGuNoBIAtbi1wNOGSGHn"
+        }
+      ],
+      "duration_ms": 285893,
+      "name": "Like It on Top",
+      "url": "https://open.spotify.com/track/1MMXilYlgGiVXSz5YCOV9d"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Stompin' Ground",
         "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 239666,
       "name": "Soul Shake",
       "url": "https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Blues in My Soul",
+        "url": "https://open.spotify.com/album/6DnRYbXM7x4vBFcaAS8NWU"
+      },
+      "artists": [
+        {
+          "name": "Lurrie Bell",
+          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "I Feel so Good",
+      "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 295746,
       "name": "Best in Town",
       "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Blues in My Soul",
-        "url": "https://open.spotify.com/album/6DnRYbXM7x4vBFcaAS8NWU"
-      },
-      "artists": [
-        {
-          "name": "Lurrie Bell",
-          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "I Feel so Good",
-      "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Stronger For It",
-        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
       "artists": [
         {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 156773,
-      "name": "Whoop And Holler",
-      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
+      "duration_ms": 290160,
+      "name": "Shakin' Shakin' Shakes",
+      "url": "https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+        "name": "Stronger For It",
+        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
         }
       ],
-      "duration_ms": 290160,
-      "name": "Shakin' Shakin' Shakes",
-      "url": "https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA"
+      "duration_ms": 156773,
+      "name": "Whoop And Holler",
+      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Son Of A Bluesman",
         "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 281013,
       "name": "Funky Broadway",
       "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
     },
     {
       "added_at": "2020-12-01 05:01:00",

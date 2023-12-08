@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 589144,
+  "num_followers": 589239,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q2YjA3ODA0YjE0MWU2MzMxMTM4MTM4YTcyNTVhMDgxZTQ4Yzcy",
+  "snapshot_id": "MCwxMjVhYmFjMGM2MGZjNDMwNzdkYTI2NmNkNmE0MTdiMTRkYWM0N2Fk",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Let Love In (2011 - Remaster)",
         "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 370573,
       "name": "Red Right Hand",
       "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 191000,
       "name": "Fingers To The Bone",
       "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "An Honest Man",
-        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 246177,
-      "name": "An Honest Man",
-      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Common Faults",
         "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
+        "name": "An Honest Man",
+        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
+      "duration_ms": 246177,
+      "name": "An Honest Man",
+      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Heart Of My Own",
-        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
       },
       "artists": [
         {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 229626,
-      "name": "Heart Of My Own",
-      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -559,6 +543,22 @@
       "duration_ms": 226324,
       "name": "Danger and Dread",
       "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Heart Of My Own",
+        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Heart Of My Own",
+      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 234000,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Devil Don't You Fool Me",
-        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
+        "name": "Hawk",
+        "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
       "artists": [
         {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+        },
+        {
+          "name": "Mark Lanegan",
+          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
         }
       ],
-      "duration_ms": 170985,
-      "name": "Devil Don't You Fool Me",
-      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
+      "duration_ms": 168066,
+      "name": "Snake Song",
+      "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -911,22 +915,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hawk",
-        "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
+        "name": "Devil Don't You Fool Me",
+        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
       },
       "artists": [
         {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
-        },
-        {
-          "name": "Mark Lanegan",
-          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Snake Song",
-      "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
+      "duration_ms": 170985,
+      "name": "Devil Don't You Fool Me",
+      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Micah P. Hinson and the Opera Circuit",
-        "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
-      },
-      "artists": [
-        {
-          "name": "Micah P. Hinson",
-          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
-        }
-      ],
-      "duration_ms": 125493,
-      "name": "Diggin A Grave",
-      "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Micah P. Hinson and the Opera Circuit",
+        "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
+      },
+      "artists": [
+        {
+          "name": "Micah P. Hinson",
+          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
+        }
+      ],
+      "duration_ms": 125493,
+      "name": "Diggin A Grave",
+      "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
-      },
-      "artists": [
-        {
-          "name": "The Huntress and Holder of Hands",
-          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
-        }
-      ],
-      "duration_ms": 331908,
-      "name": "Shake off Your Flesh",
-      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 223493,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
+      },
+      "artists": [
+        {
+          "name": "The Huntress and Holder of Hands",
+          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
+        }
+      ],
+      "duration_ms": 331908,
+      "name": "Shake off Your Flesh",
+      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
       "artists": [
         {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
         }
       ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 270228,
       "name": "Highway 9",
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Digging Up Birds: A Collection of Rarities & Others",
         "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 188660,
       "name": "No Way Out but Down (Alternate Version)",
       "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     }
   ],
   "unique_name": "Southern Gothic",

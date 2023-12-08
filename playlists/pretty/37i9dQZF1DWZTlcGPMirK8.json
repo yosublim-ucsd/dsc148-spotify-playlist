@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67059,
+  "num_followers": 67064,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTNmMjUyOTVmNTgyOWMyOGU3ZGY3MDU3ZmY3ZTA4ZTBhMjAwYTBh",
+  "snapshot_id": "MCw1NzI1ODQzZjg5ZTliNmFiZjQxODAwYzNlYzg5NTUxMDllYWFhYmFi",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Two Shoes",
-        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 313053,
-      "name": "Two Shoes",
-      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Reprisal",
         "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 226350,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Two Shoes",
+        "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
+      },
+      "artists": [
+        {
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+        }
+      ],
+      "duration_ms": 313053,
+      "name": "Two Shoes",
+      "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Counting Down The Days",
-        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
     },
     {
       "added_at": "2022-04-18 02:03:22",

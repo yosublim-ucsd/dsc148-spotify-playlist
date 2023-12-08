@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kamaiyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,433 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,480 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 69 | [Cameras Flashin'](https://open.spotify.com/track/6cwvj1tWPqVctQGBBOdLc7) | [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [Hit\-Town](https://open.spotify.com/artist/6trdYy1jd47mHNusphKj3E), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [Mr\. Perfect](https://open.spotify.com/album/2rDRm8efHxLaTMHXqyW8mL) | 2:39 |
 | 70 | [Glock's & AK's](https://open.spotify.com/track/0jn0tCVayrQqg9zvzn0PFr) | [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA) | [Glock's & AK's](https://open.spotify.com/album/3GreW61IzoojtH4KYIW6RB) | 2:14 |
 | 71 | [Wop It](https://open.spotify.com/track/73KXFBOZXWVbK6XBgvohZK) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/6yktmgt5KT7bvcWMQLZJMI) | 1:52 |
-| 72 | [WHAT'S HATNIN](https://open.spotify.com/track/2i160IyYwq8s3dwZHZNtnk) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [WHAT'S HATNIN](https://open.spotify.com/album/3W30Vrsnl4ZD9wPpBEXnF0) | 2:24 |
+| 72 | [WHAT'S HATNIN](https://open.spotify.com/track/2i160IyYwq8s3dwZHZNtnk) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [WHAT'S HATNIN](https://open.spotify.com/album/3W30Vrsnl4ZD9wPpBEXnF0) | 2:26 |
 | 73 | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Hoedown \(with Zoe Osama\)](https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn) | 2:13 |
 | 74 | [Rules](https://open.spotify.com/track/3NTPNlVaX80h6y2zoe5TOs) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Who is Lil Kayla?](https://open.spotify.com/album/7ibYBH48xmJbCendGqf67I) | 1:08 |
 | 75 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCwwNjQ1YTQzZTQ3MThkN2I4MGQ2Y2M1MDk4YTJlZjgxZTA4YzE2MDk1`
+Snapshot ID: `MCw5NTNhNzdlYjAyYWRhYTAzNGVlZDI1ZWY2NDkxNjU1MTk5YTNlMzdi`

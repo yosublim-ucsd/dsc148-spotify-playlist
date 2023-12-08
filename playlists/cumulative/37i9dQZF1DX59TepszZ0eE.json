@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Ngiyazi uMhlengi Wami (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/58a7JZmLzeiZIppnzF2ziJ"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561254,
+      "name": "Ngiyazi uMhlengi Wami (Deluxe) - Live",
+      "url": "https://open.spotify.com/track/7kZjl6ZYdTgZ8rJ0a7a1RM"
+    },
+    {
+      "album": {
         "name": "Kulungile Baba (Live at Durban ICC RSA)",
         "url": "https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa"
       },
@@ -2962,6 +2980,32 @@
       "duration_ms": 203083,
       "name": "Vela",
       "url": "https://open.spotify.com/track/0GWCvJTm9F7cEBOVNwaSTo"
+    },
+    {
+      "album": {
+        "name": "Imithandazo",
+        "url": "https://open.spotify.com/album/0GyboSYthk9iUv8QfsZrcj"
+      },
+      "artists": [
+        {
+          "name": "Mjakes The Producer",
+          "url": "https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ"
+        },
+        {
+          "name": "Bongani Nchang",
+          "url": "https://open.spotify.com/artist/2uBMNWP51MKd2o6a3PtTP0"
+        },
+        {
+          "name": "Khobzn Kiavalla",
+          "url": "https://open.spotify.com/artist/5B0lL1PSlcHTwrzxwyYnMs"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343052,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6JY4EnkudR3Si4OJQcHGmz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 58431,
+  "num_followers": 58472,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzlmMmI1YzAzMzhkZmRhYmNkNGM5MmJkYzU4YWU5ZjQ5ZjgxMTYy",
+  "snapshot_id": "MCxkNWI5OTY4MWM0MDgyZDhiZGYzMmFiNjhmNDY0Y2YzY2U5MjY0YzYz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hold You Tight",
-        "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Hold You Tight",
-      "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+        "name": "Hold You Tight",
+        "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
       },
       "artists": [
         {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+      "duration_ms": 175133,
+      "name": "Hold You Tight",
+      "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Perfect Peace",
-        "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 260799,
-      "name": "Perfect Peace",
-      "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 207440,
       "name": "Keep On Hoping - Piano Choir Version",
       "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Perfect Peace",
+        "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 260799,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Sun Will Rise",
-        "url": "https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "The Sun Will Rise",
-      "url": "https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 246000,
       "name": "Leaving Safe Places",
       "url": "https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Sun Will Rise",
+        "url": "https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "The Sun Will Rise",
+      "url": "https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -643,22 +643,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
       "artists": [
         {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
         }
       ],
-      "duration_ms": 172000,
-      "name": "wearing thin (alt. version)",
-      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -679,22 +675,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Albatross EP",
         "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
       },
@@ -711,18 +691,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Attention (a Devotional Project)",
-        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
         }
       ],
-      "duration_ms": 222613,
-      "name": "Rest with Me",
-      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+      "duration_ms": 172000,
+      "name": "wearing thin (alt. version)",
+      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -739,6 +723,22 @@
       "duration_ms": 342453,
       "name": "(73) the Nearness of You",
       "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Attention (a Devotional Project)",
+        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Rest with Me",
+      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "The Lion And The Lamb - Instrumental",
-      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Jesus Is___. Music Project",
         "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 277853,
       "name": "Jesus Is___.",
       "url": "https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "The Lion And The Lamb - Instrumental",
+      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "an ep of some songs u can read ur bible + journal to",
+        "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 241442,
+      "name": "kindling.mp3",
+      "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Psalm 68",
         "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
@@ -1159,6 +1175,26 @@
       "duration_ms": 252000,
       "name": "Psalm 68",
       "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Freedom Fighter (Jimmy James Remix)",
+        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
+      },
+      "artists": [
+        {
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+        },
+        {
+          "name": "Jimmy James",
+          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Freedom Fighter (Jimmy James Remix)",
+      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1199,22 +1235,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "an ep of some songs u can read ur bible + journal to",
-        "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 241442,
-      "name": "kindling.mp3",
-      "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 236546,
       "name": "playing pretend",
       "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Freedom Fighter (Jimmy James Remix)",
-        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
-      },
-      "artists": [
-        {
-          "name": "NIRVA",
-          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
-        },
-        {
-          "name": "Jimmy James",
-          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Freedom Fighter (Jimmy James Remix)",
-      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "All the Bright Lights",
-        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
-      },
-      "artists": [
-        {
-          "name": "All The Bright Lights",
-          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Wilora Lake",
-      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I'm Healing",
         "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 282734,
       "name": "5am",
       "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "All the Bright Lights",
+        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
+      },
+      "artists": [
+        {
+          "name": "All The Bright Lights",
+          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Wilora Lake",
+      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Suddenly - EP",
-        "url": "https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 289213,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Undress My Heart",
         "url": "https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 225961,
       "name": "Undress My Heart",
       "url": "https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Suddenly - EP",
+        "url": "https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
     },
     {
       "added_at": "2023-07-28 04:02:00",

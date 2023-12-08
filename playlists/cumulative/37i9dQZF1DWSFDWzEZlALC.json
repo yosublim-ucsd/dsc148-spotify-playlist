@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Bleiben k\u00f6nnen",
+        "url": "https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183196,
+      "name": "Bleiben k\u00f6nnen",
+      "url": "https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u"
+    },
+    {
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl"
       },
@@ -1258,6 +1276,24 @@
       "duration_ms": 157216,
       "name": "Candy Crush",
       "url": "https://open.spotify.com/track/7zhRYYYqtKqWEtPUcc4YSF"
+    },
+    {
+      "album": {
+        "name": "CEO",
+        "url": "https://open.spotify.com/album/6G56bPOgaCCMw6KklzTtgV"
+      },
+      "artists": [
+        {
+          "name": "Luzine",
+          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139016,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/6FrpQXdyndAHT64KlhwHPD"
     },
     {
       "album": {
@@ -1666,6 +1702,28 @@
       "duration_ms": 121429,
       "name": "Digitales Wunder",
       "url": "https://open.spotify.com/track/6Ojmg6tZzUgcXmfQA10cvj"
+    },
+    {
+      "album": {
+        "name": "Drachenfrucht",
+        "url": "https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186249,
+      "name": "Drachenfrucht",
+      "url": "https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X"
     },
     {
       "album": {
@@ -2228,7 +2286,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 187351,
       "name": "Eriesee",
       "url": "https://open.spotify.com/track/4rlSGxZkAnnD8nqUusFRyq"
@@ -3483,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "unter meiner bettdecke (Vol.1)",
+        "url": "https://open.spotify.com/album/5Xg4VIr1B39epiQZ8L4O9M"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139859,
+      "name": "ich f\u00fchl nix - unter meiner bettdecke",
+      "url": "https://open.spotify.com/track/7supBJtaBwrju4jn0C45Lc"
+    },
+    {
+      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
       },
@@ -4292,7 +4368,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 156855,
       "name": "Komisch",
       "url": "https://open.spotify.com/track/5xSB65nP67AIjwa7sRpK1V"
@@ -7610,7 +7686,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 148588,
       "name": "ultimate team",
       "url": "https://open.spotify.com/track/3CMpFys8sKu5Y1Wtp1HLis"
@@ -7976,7 +8052,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 167662,
       "name": "wach",
       "url": "https://open.spotify.com/track/2WEjGIRQeAAlHktRdZUjfN"

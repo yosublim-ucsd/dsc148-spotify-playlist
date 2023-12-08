@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: Trash Boat
+> The home for heavy music\. Cover: While She Sleeps
 
-255 songs - 15 hr 30 min
+260 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-07-25 | 2023-08-25 |
 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-10 |  |
 | [DON'T HOLD ME DOWN](https://open.spotify.com/track/2NvjbR2qhfILBblL36Fchm) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [DON'T HOLD ME DOWN](https://open.spotify.com/album/4TYkhMh8yHxNxCOK3j68z8) | 3:14 | 2023-09-07 |  |
+| [DOWN \(feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 | 2023-12-08 |  |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 |  |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-02-03 | 2023-07-26 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 | 2023-10-13 |
@@ -190,7 +191,9 @@
 | [Scissors](https://open.spotify.com/track/0jIXZaSMj34eUHgMJcWxvk) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Scissors](https://open.spotify.com/album/5JaPTF6lQBgfvhPb7zjYo2) | 4:39 | 2023-07-25 | 2023-08-25 |
 | [Scream](https://open.spotify.com/track/1Ar6ZDBwSNYGlSxAiT7xYH) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Prototype](https://open.spotify.com/album/3aEYmTTLwf0viUwQXVLKps) | 3:31 | 2023-07-25 |  |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-03-25 |
-| [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-15 |  |
+| [See You Fall](https://open.spotify.com/track/1PcDdD3RzV2mb9sgu8uAHN) | [Blackwater](https://open.spotify.com/artist/01G6kkvEqxty6exErXNJQF) | [Heard It All Before?](https://open.spotify.com/album/2nvD1Pc4EiwvSoyQGLvspe) | 4:22 | 2023-12-08 |  |
+| [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 | 2023-12-08 |  |
+| [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-15 | 2023-12-08 |
 | [Set Fazers](https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Set Fazers](https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K) | 3:15 | 2023-03-23 | 2023-05-25 |
 | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/album/0HFpaKYTODr44OidzHN4pt) | 2:58 | 2023-03-03 | 2023-10-13 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-11-10 | 2023-07-26 |
@@ -216,9 +219,11 @@
 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 | 2022-11-10 | 2023-03-25 |
 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 | 2023-07-13 | 2023-07-26 |
 | [Tear Me to Pieces](https://open.spotify.com/track/67e8Oap4yuF4yS7XYW5yZW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:56 | 2022-11-10 | 2023-01-20 |
+| [The Beautiful Dark of Life](https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Beautiful Dark of Life](https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp) | 3:08 | 2023-12-08 |  |
 | [The Cave](https://open.spotify.com/track/652J015cmnfWuK3UFUojUW) | [To Kill Achilles](https://open.spotify.com/artist/6JiVwVHJRXHiZuU9vHzjpz) | [The Cave](https://open.spotify.com/album/2QS613ysAclwBts9ii67A2) | 3:35 | 2023-07-25 |  |
 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 | 2022-11-10 | 2023-07-26 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-11-10 | 2023-07-26 |
+| [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 | 2023-12-08 |  |
 | [The Love You Want](https://open.spotify.com/track/4lVVewXw4g8hB7sldQyJiL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:23 | 2023-03-03 | 2023-03-25 |
 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/3iEmgajStVBooooNaltdOv) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators Theme Song \(21 Bullets\) \[feat\. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New\]](https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k) | 4:02 | 2022-11-10 | 2023-07-26 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-11-10 | 2023-07-26 |

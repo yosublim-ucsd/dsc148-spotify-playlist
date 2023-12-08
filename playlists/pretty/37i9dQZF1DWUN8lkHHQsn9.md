@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:2FhI5QfUYl5iIlUog9HHEw">27.Fuckdemons</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,138 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,142 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 19 | [bezdech](https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50) | [livia lena](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [bezdech](https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R) | 3:19 |
 | 20 | [niemówmi](https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc) | [Patryk Janiak](https://open.spotify.com/artist/5f0iJm2Clf3zrxcWfgTS7k) | [niemówmi](https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz) | 2:40 |
 | 21 | [Can't Stand feat\. ZensoFly](https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [ZenSoFly](https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h) | [Can't Stand](https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml) | 5:26 |
-| 22 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
+| 22 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 |
 | 23 | [Inspiracje](https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Inspiracje](https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh) | 2:38 |
-| 24 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 |
+| 24 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
 | 25 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
 | 26 | [Better Off](https://open.spotify.com/track/1tEGMBP6luVt9q9nImOooY) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Better Off](https://open.spotify.com/album/0ehpKSEaud7WMcMNUNiPui) | 3:50 |
 | 27 | [Stukamy się browarami](https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [Stukamy się browarami](https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w) | 3:25 |
@@ -40,18 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 30 | [Światła Lamp](https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Światła Lamp](https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo) | 2:44 |
 | 31 | [Podziemny Slam](https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Podziemny Slam](https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP) | 2:59 |
 | 32 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
-| 33 | [Gdzie spałaś?](https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx) | [DZIWNE SNY](https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Gdzie spałaś?](https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU) | 4:27 |
-| 34 | [Le$bijka](https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Le$bijka](https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2) | 2:49 |
+| 33 | [Le$bijka](https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Le$bijka](https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2) | 2:49 |
+| 34 | [Gdzie spałaś?](https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx) | [DZIWNE SNY](https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Gdzie spałaś?](https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU) | 4:27 |
 | 35 | [Spytaj mnie](https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:13 |
-| 36 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
-| 37 | [Wracam](https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [Wracam](https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB) | 2:48 |
-| 38 | [The Moon](https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [The Moon](https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU) | 4:44 |
+| 36 | [Wracam](https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [Wracam](https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB) | 2:48 |
+| 37 | [The Moon](https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D), [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [The Moon](https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU) | 4:44 |
+| 38 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
 | 39 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
 | 40 | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 |
 | 41 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
-| 42 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
+| 42 | [Dolce Vita](https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Dolce Vita](https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ) | 3:54 |
 | 43 | [Nie chcę tu wracać już](https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH), [Bart Gałązka](https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A) | [Nie chcę tu wracać już](https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd) | 4:10 |
-| 44 | [Dolce Vita](https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Dolce Vita](https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ) | 3:54 |
+| 44 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
 | 45 | [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 |
 | 46 | [Wiem, że Smakuję Jak...](https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Przekleństwa Niewinności](https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5) | 2:51 |
 | 47 | [miss u](https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [miss u](https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz) | 2:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 79 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
 | 80 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MCxiZjg2ZDhiNjJiMjA5NTJlOGQ2OGRlMzNlMTAwNTUwYWQzNjA1NGI1`
+Snapshot ID: `MCxiYzg4MzhkOWFkZmE0YzQyMDg1N2JjNjViZDEzMWY4YjU0ZDU2MDRj`

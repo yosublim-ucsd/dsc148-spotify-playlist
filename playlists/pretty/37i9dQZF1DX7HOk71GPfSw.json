@@ -1,12 +1,12 @@
 {
   "description": "he was a boy, i was a horse. could that make it any more difficult. ",
-  "num_followers": 425271,
+  "num_followers": 425380,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2M3NTU5NWM3MDFhMTJlYmY4MTc0YWUwZmNlNzk1YmE4YmNhZDMy",
+  "snapshot_id": "MCxkNjliNTc5MDE2N2ZhYWU2ZDg3MmI4NDI1NjVmZWZlNTNlYTA3MWVh",
   "tracks": [
     {
       "added_at": "2023-12-01 12:15:00",
@@ -47,6 +47,26 @@
       "duration_ms": 205626,
       "name": "Starfucker",
       "url": "https://open.spotify.com/track/1HBOsPD7SbbShkxh1qfTRn"
+    },
+    {
+      "added_at": "2023-12-08 00:32:00",
+      "album": {
+        "name": "New Beginning (Water From Your Eyes Remix)",
+        "url": "https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        },
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 191239,
+      "name": "New Beginning (Water From Your Eyes Remix)",
+      "url": "https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu"
     },
     {
       "added_at": "2023-11-27 14:46:08",

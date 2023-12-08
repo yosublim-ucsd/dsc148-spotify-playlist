@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 669029,
+  "num_followers": 669233,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTQzM2FhOGZhNDhmNTg0ZGVlYjJlOTU3ZDgyNmQxZDllM2ZiZWEy",
+  "snapshot_id": "MCxkNDJmOWYxNjBmOGNmYTNiZDdkMjhhNmUwY2RhZjQ1YjkzMWViOWEx",
   "tracks": [
     {
       "added_at": "2023-03-17 00:44:12",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/6nUMn31Sn9VsEMY01PZlyH"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
         "name": "No Es Casualidad",
         "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 220546,
       "name": "No Es una Novela",
       "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/6nUMn31Sn9VsEMY01PZlyH"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Xtreme",
-        "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Ahora Vete",
-      "url": "https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "Con Mas Amor",
         "url": "https://open.spotify.com/album/3kjEIFFOJpVHbi9zLxIbhC"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 293543,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/0r55uL83PpPjKguZMRJ0Ly"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Xtreme",
+        "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Ahora Vete",
+      "url": "https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "En Persona",
-        "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
+        "name": "Loco De Amor",
+        "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 193480,
-      "name": "Yo Mismo La Vi",
-      "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
+      "duration_ms": 252173,
+      "name": "Ceniza fria",
+      "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Loco De Amor",
-        "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
+        "name": "En Persona",
+        "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 252173,
-      "name": "Ceniza fria",
-      "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
+      "duration_ms": 193480,
+      "name": "Yo Mismo La Vi",
+      "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
     },
     {
       "added_at": "2023-03-17 00:44:12",

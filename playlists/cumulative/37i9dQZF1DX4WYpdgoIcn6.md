@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-916 songs - 2 day 1 hr 46 min
+917 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [Liquid](https://open.spotify.com/track/6zX7txo7TYY5FnD2Fhckf7) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Liquid](https://open.spotify.com/album/72DBVymsnWnyjVLgOcZF2z) | 2:43 | 2019-06-24 | 2019-08-13 |
 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-05-06 | 2021-08-07 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-07-07 |  |
-| [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-12-16 |  |
+| [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-12-16 | 2023-12-08 |
 | [Living Proof](https://open.spotify.com/track/1jg9clsGCDqOumfS0X5xm9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Living Proof](https://open.spotify.com/album/7BG1hKMWQAUkHBm8f7ppC1) | 3:14 | 2019-11-26 | 2020-06-12 |
 | [Living With No One](https://open.spotify.com/track/7imMaU3xinJn9QQITBDMwQ) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Living With No One](https://open.spotify.com/album/5gHROmuNXouB226HqF5HKc) | 2:53 | 2020-05-01 | 2020-10-21 |
 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 | 2021-02-22 | 2021-03-23 |
@@ -518,6 +518,7 @@
 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 | 2019-12-05 | 2022-07-29 |
 | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC) | 3:41 | 2019-11-17 | 2022-04-21 |
 | [Low Beams](https://open.spotify.com/track/5tYqK9de9RC6PMKDaJvr4Q) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Long Game](https://open.spotify.com/album/1JEM6cvLIfeLtnphHFnQK4) | 2:35 | 2019-10-25 | 2020-10-21 |
+| [Mad at Disney](https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:16 | 2023-11-30 |  |
 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-09-07 | 2023-10-25 |
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-05-24 | 2021-05-25 |
 | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/track/58e08QJdz9zs7AY2KiiHBt) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/album/5dtKqmSeXNh85Mt7tjP3Vt) | 3:44 | 2020-01-04 | 2022-04-21 |

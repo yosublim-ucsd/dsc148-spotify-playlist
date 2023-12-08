@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Uzielito Mix, El Bogueto y Dani Flow en portada ",
-  "num_followers": 12415,
+  "num_followers": 12425,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDg5NzAzMDA0YzMzYjExN2Y1NjZmMzk2ODUzNTM5ZWMxZDQ5MThi",
+  "snapshot_id": "MCwxYTM1ZWU4NjQ5ZDhlNTdmYjBiM2VkNjRjNmY3OGJhOGU2NWE3NzE0",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "CARNET",
-        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 139376,
-      "name": "CARNET",
-      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 226725,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "CARNET",
+        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 139376,
+      "name": "CARNET",
+      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -567,6 +567,30 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "\u00d1ero Session 5",
+        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "\u00d1ero Session 5",
+      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -591,30 +615,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "\u00d1ero Session 5",
-        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        }
-      ],
-      "duration_ms": 147633,
-      "name": "\u00d1ero Session 5",
-      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
-        "url": "https://open.spotify.com/album/717P5W2rhbmKgikLXjWsKG"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Kery",
-          "url": "https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
-      "url": "https://open.spotify.com/track/6ldT8rxnVimIKIJJLAcKq7"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Tu Sicaria",
         "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 147013,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
+        "url": "https://open.spotify.com/album/717P5W2rhbmKgikLXjWsKG"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Kery",
+          "url": "https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
+      "url": "https://open.spotify.com/track/6ldT8rxnVimIKIJJLAcKq7"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Baja Sube Sube",
-        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 211404,
-      "name": "Baja Sube Sube",
-      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Mu\u00e9vete",
         "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 211542,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Baja Sube Sube",
+        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 211404,
+      "name": "Baja Sube Sube",
+      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "\u00d1ero Session 3",
+        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "\u00d1ero Session 3",
+      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Jordan Flight",
         "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 159923,
       "name": "Jordan Flight",
       "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "\u00d1ero Session 3",
-        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Jencko el Shinobi",
-          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "\u00d1ero Session 3",
-      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "\u00d1ero Session 7",
-        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Los Menores",
-          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "\u00d1ero Session 7",
-      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Paleta",
         "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 161216,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 7",
+        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "duration_ms": 183012,
+      "name": "\u00d1ero Session 7",
+      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1627,30 +1627,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Puta Rara, Puta Dominicana",
-        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
-      },
-      "artists": [
-        {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
-        },
-        {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        },
-        {
-          "name": "marceu inovadora",
-          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
-        }
-      ],
-      "duration_ms": 140643,
-      "name": "Puta Rara, Puta Dominicana",
-      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Cumbiaton Total",
         "url": "https://open.spotify.com/album/4BlAGrb8qPYX1TuaInheT4"
       },
@@ -1671,6 +1647,30 @@
       "duration_ms": 185440,
       "name": "Mamita Sensual",
       "url": "https://open.spotify.com/track/1W401R1yONbC7KUXoNQBoM"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Puta Rara, Puta Dominicana",
+        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "marceu inovadora",
+          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
+        }
+      ],
+      "duration_ms": 140643,
+      "name": "Puta Rara, Puta Dominicana",
+      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Mal Trato",
-        "url": "https://open.spotify.com/album/7lGYxJafuQ8kBviQzlrEmf"
-      },
-      "artists": [
-        {
-          "name": "Dahel",
-          "url": "https://open.spotify.com/artist/0B4XH6ZcrdYy0Se1a2At8B"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Mal Trato",
-      "url": "https://open.spotify.com/track/6Ywzm54HyRJZjlnGBGzXYQ"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Barby Bellaka",
         "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 162493,
       "name": "Barby Bellaka",
       "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Mal Trato",
+        "url": "https://open.spotify.com/album/7lGYxJafuQ8kBviQzlrEmf"
+      },
+      "artists": [
+        {
+          "name": "Dahel",
+          "url": "https://open.spotify.com/artist/0B4XH6ZcrdYy0Se1a2At8B"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Mal Trato",
+      "url": "https://open.spotify.com/track/6Ywzm54HyRJZjlnGBGzXYQ"
     },
     {
       "added_at": "2023-11-24 06:00:00",

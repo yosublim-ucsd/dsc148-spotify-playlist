@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Felipe e MC Ryan SP, João Gomes, MC Cabelinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,737 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,925,242 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Só lamento](https://open.spotify.com/track/27b6If422K7cuNezwYN55c) | [Thomas Vaqueiro](https://open.spotify.com/artist/5Fc2BzVQzypkuOBhvYdrvJ), [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv) | [Só lamento](https://open.spotify.com/album/1igCfqzOqI1Gmr4vl6NE6e) | 3:11 |
 | 100 | [Toda Vez \- Ao Vivo](https://open.spotify.com/track/2MDPZG8NsDIVeFoazvS3il) | [Grupo Façanha](https://open.spotify.com/artist/7rVqW5hEuqyZHkgGtuHuLe), [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q) | [Toda Vez \(Ao Vivo\)](https://open.spotify.com/album/0OVb0E8JkEOt9mvZmEFbrF) | 2:46 |
 
-Snapshot ID: `MCxhODA4MzNmODZhYjQ3MDNiZmYyYzg0ZmMxYmNkMDA1M2FjNjNhY2Rk`
+Snapshot ID: `MCxjMWQ2NzJkOTZkYjcwZDk0ZDMwNzU5MWVkYTc4YmYwYjE0Mzk1M2Y2`

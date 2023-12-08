@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34302,
+  "num_followers": 34330,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2Q1MWViODk5Mjc4ZGE5M2RjYTMwNDEzODA3ODliYTAzYWJiNzhk",
+  "snapshot_id": "MCxhODU3NmMwNjNkMzEyM2M5MzliZjM1ODNiMjI4NDhlM2NiYjE1M2E5",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
         "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 102607,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -763,22 +763,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
-        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
       },
       "artists": [
         {
-          "name": "M-TWO Inc.",
-          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
-        },
-        {
-          "name": "designwave co.,ltd.",
-          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
         }
       ],
-      "duration_ms": 102588,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh"
+      "duration_ms": 345666,
+      "name": "Staff & Credits",
+      "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -799,18 +795,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
+        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
       },
       "artists": [
         {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+          "name": "M-TWO Inc.",
+          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+        },
+        {
+          "name": "designwave co.,ltd.",
+          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Staff & Credits",
-      "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
+      "duration_ms": 102588,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh"
     },
     {
       "added_at": "2021-06-30 15:18:23",

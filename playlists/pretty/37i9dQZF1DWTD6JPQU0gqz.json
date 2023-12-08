@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 50553,
+  "num_followers": 50562,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODY2OThkNGVkNzg0NTQ0YjA2N2I1YjE4ODc1ZjYyNmMyNzkwZDBm",
+  "snapshot_id": "MCw5MGU2YzkzOTkyYWZlNzg5MTc0ZDdhNWFlZWRlZmEwN2U5MTVhOWZk",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Date Brillo Cadenita",
-        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
-      },
-      "artists": [
-        {
-          "name": "Fefita La Grande",
-          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
-        }
-      ],
-      "duration_ms": 438480,
-      "name": "La Chiflera",
-      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Date Brillo Cadenita",
+        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
+      },
+      "artists": [
+        {
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
+        }
+      ],
+      "duration_ms": 438480,
+      "name": "La Chiflera",
+      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Pilot (Extended Version)",
         "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
       },
@@ -511,46 +511,6 @@
       "duration_ms": 192506,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Se Acab\u00f3 (feat. Mozart La Para)",
-        "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        }
-      ],
-      "duration_ms": 186216,
-      "name": "Se Acab\u00f3 (feat. Mozart La Para)",
-      "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Qu\u00e9 L\u00e1stima",
-        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 224869,
-      "name": "Qu\u00e9 L\u00e1stima",
-      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -575,6 +535,46 @@
       "duration_ms": 225470,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 224869,
+      "name": "Qu\u00e9 L\u00e1stima",
+      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Se Acab\u00f3 (feat. Mozart La Para)",
+        "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        }
+      ],
+      "duration_ms": 186216,
+      "name": "Se Acab\u00f3 (feat. Mozart La Para)",
+      "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 191906,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+        "name": "NI\u00d1XS ROTXS",
+        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 227836,
-      "name": "Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
+      "duration_ms": 206928,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "NI\u00d1XS ROTXS",
-        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
       },
       "artists": [
         {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 206928,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
+      "duration_ms": 227836,
+      "name": "Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "ABUC",
-        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Afro Mambo",
-      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Los Rakas",
         "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "ABUC",
+        "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Afro Mambo",
+      "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Sleng Teng Riddim",
         "url": "https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
-      },
-      "artists": [
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Duelo",
-      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Lucky 7",
         "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 196000,
       "name": "Soy",
       "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 159218,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
     }
   ],
   "unique_name": "Orgullo Afro-Latino",

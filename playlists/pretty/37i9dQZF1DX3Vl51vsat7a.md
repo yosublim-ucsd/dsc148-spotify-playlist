@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,961 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,966 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alive](https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Alive](https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU) | 3:52 |
-| 2 | [Sorry Mama Papa](https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Details](https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB) | 2:33 |
-| 3 | [Wir machen das](https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [GO TIME](https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP) | 2:53 |
-| 4 | [Retail Therapy](https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Retail Therapy](https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI) | 2:28 |
-| 5 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 |
-| 6 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 |
-| 7 | [Bahnhof](https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Nate57](https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Bahnhof](https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g) | 2:43 |
-| 8 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 |
-| 9 | [FRANKENSTEIN](https://open.spotify.com/track/1TedN903wyVk0dX1gdiADm) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [FRANKENSTEIN](https://open.spotify.com/album/2soZWSMd2glxCRjBNgrws2) | 3:57 |
-| 10 | [Cold Wars](https://open.spotify.com/track/1oQlYBANjW80ewuxr5gHwZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Cold Wars](https://open.spotify.com/album/6IC554ETcIoeMaIofdZNve) | 3:54 |
+| 2 | [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 |
+| 3 | [Sorry Mama Papa](https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Details](https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB) | 2:33 |
+| 4 | [Wir machen das](https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [GO TIME](https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP) | 2:53 |
+| 5 | [Retail Therapy](https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Retail Therapy](https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI) | 2:28 |
+| 6 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 |
+| 7 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 |
+| 8 | [Bahnhof](https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Nate57](https://open.spotify.com/artist/5PIdjtNMwJgYituTP77U3X), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Bahnhof](https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g) | 2:43 |
+| 9 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 |
+| 10 | [FRANKENSTEIN](https://open.spotify.com/track/1TedN903wyVk0dX1gdiADm) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [FRANKENSTEIN](https://open.spotify.com/album/2soZWSMd2glxCRjBNgrws2) | 3:57 |
 | 11 | [ADHD](https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [ADHD](https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu) | 3:57 |
 | 12 | [In The Business](https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [SUPER NOVAA](https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ) | 3:34 |
 | 13 | [nicht nachmachen!!](https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:29 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 29 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 |
 | 30 | [sirens](https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [sirens](https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca) | 3:08 |
 | 31 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
-| 32 | [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 |
-| 33 | [Downgrade](https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Downgrade](https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz) | 2:30 |
-| 34 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
-| 35 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 |
+| 32 | [Downgrade](https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Downgrade](https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz) | 2:30 |
+| 33 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
+| 34 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 |
+| 35 | [Cold Wars](https://open.spotify.com/track/1oQlYBANjW80ewuxr5gHwZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Cold Wars](https://open.spotify.com/album/6IC554ETcIoeMaIofdZNve) | 3:54 |
 | 36 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 |
 | 37 | [Piccolo](https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Piccolo](https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv) | 2:27 |
 | 38 | [In My Novaa](https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [In My Novaa](https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCw0N2RiZGU4YjU0OTZhNDQ2Njk5YTkxY2NlODM2Njg2MzNiYWE3YWQ1`
+Snapshot ID: `MCwxZDRjMjliMmNmMDgyYzRjYjBjNTI2OTZmNDM4MTJhMjA3YjRkZDdk`

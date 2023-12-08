@@ -4,7 +4,7 @@
 
 > Una speciale selezione jazz natalizia! 🎄 A cura di <a href="spotify:artist:2qW0CNnmvdEQwiabdareHi">Paolo Fresu</a>! 🌟
 
-403 songs - 1 day 5 hr 54 min
+404 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Happiness Is To Win A Big Prize In Cash](https://open.spotify.com/track/5VDm73ldQEdTnRy1USuQYh) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy) | [Full Of Life](https://open.spotify.com/album/4tZ3tfiHfHpxBkamyluxJ4) | 5:46 | 2023-06-04 | 2023-09-18 |
 | [Happy Christmas, War Is Over](https://open.spotify.com/track/4JPpPXPhpBAH4le8U1buNw) | [Tom Jones](https://open.spotify.com/artist/1OB6hTSCYbxFscpIV4wAnu), [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [It's Christmas: Natale In Vaticano](https://open.spotify.com/album/4K5jJ4tOFpYz0WPU8eY1Wm) | 3:25 | 2022-12-05 | 2023-02-01 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3wRJXSbKVfPs4e0t38ZHhu) | [Dexter Gordon Quartet](https://open.spotify.com/artist/4jDwy0eEfWolwxMAeWeaik) | [Jingle Bell Jazz](https://open.spotify.com/album/2Q7VM6nxHj7wxW3TlG4OD2) | 9:37 | 2023-12-05 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4t5m1wGdsAxck39Q0R84AQ) | [Luca Jurman](https://open.spotify.com/artist/4JXvGMYRNLql4TdYYYEt7s), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [Jazz for Christmas \(feat\. Antonio Faraò\)](https://open.spotify.com/album/3pqxWoE4p8pzPgtsqtM9Gc) | 4:48 | 2023-12-05 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0R4MUBCZFRNKlzWc8xFssr) | [Luca Jurman](https://open.spotify.com/artist/4JXvGMYRNLql4TdYYYEt7s), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [The Christmas Jazz Collection \(The Most Beautiful Songs for a Groovy Christmas\)](https://open.spotify.com/album/5YyLenaopJP0JDUscyyFxF) | 4:48 | 2023-12-05 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4t5m1wGdsAxck39Q0R84AQ) | [Luca Jurman](https://open.spotify.com/artist/4JXvGMYRNLql4TdYYYEt7s), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [Jazz for Christmas \(feat\. Antonio Faraò\)](https://open.spotify.com/album/3pqxWoE4p8pzPgtsqtM9Gc) | 4:48 | 2023-12-05 | 2023-12-08 |
 | [Heal Me](https://open.spotify.com/track/6J46cgJj4I4aZfONRYJ2Mo) | [Daniela Spalletta](https://open.spotify.com/artist/4pZ9y1HQbossFq7FqwASQn), [Alberto Fidone](https://open.spotify.com/artist/7B1gfbTUqk04jeGIwIdCgO), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Urban Fabula](https://open.spotify.com/artist/4HDUHYRnGlKkLt2nFsPPV0), [Jani Moder](https://open.spotify.com/artist/3zlOpvNe9PQlQZAQzqj68l) | [Per Aspera Ad Astra](https://open.spotify.com/album/4DcdvUUDUhDBrgCkTYKHEV) | 1:43 | 2023-01-30 | 2023-06-05 |
 | [Ho Capito Che Ti Amo](https://open.spotify.com/track/2Yh4T6SjI1M7cAq7pFMIr9) | [Tiziana Ghiglioni](https://open.spotify.com/artist/5dGQIc5HNIp7NUZLFbXEye) | [Canta Tenco](https://open.spotify.com/album/18XNWv5F5FcvnCp08CEF8g) | 3:55 | 2022-08-31 | 2022-10-01 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 3:51 | 2022-11-02 | 2022-12-06 |

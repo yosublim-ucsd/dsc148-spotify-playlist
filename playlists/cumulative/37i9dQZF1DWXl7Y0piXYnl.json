@@ -5,6 +5,46 @@
   "tracks": [
     {
       "album": {
+        "name": "Do One EP",
+        "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "0121 Do One",
+      "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
+    },
+    {
+      "album": {
+        "name": "10 Minutos",
+        "url": "https://open.spotify.com/album/40G5WtSQYbc5sLzPZQ5Rw8"
+      },
+      "artists": [
+        {
+          "name": "Dj Narciso Rsprodu\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/417ingGoxN169eXT6TPXg1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 606022,
+      "name": "10 Minutos",
+      "url": "https://open.spotify.com/track/2Dwkj3gY7KrOOccbrzKHFg"
+    },
+    {
+      "album": {
         "name": "138 Trek (Polo Lilli 145 Edit)",
         "url": "https://open.spotify.com/album/2FAg12NuIwlpf11yt12Zrd"
       },
@@ -2077,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Glue Kit",
+        "url": "https://open.spotify.com/album/3Ywnq2h9WdFj8U5F7XDaFI"
+      },
+      "artists": [
+        {
+          "name": "Mor Elian",
+          "url": "https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321060,
+      "name": "Eso Eso",
+      "url": "https://open.spotify.com/track/1UEcM2HFrTX9GjPOKMXnKE"
+    },
+    {
+      "album": {
         "name": "The Last Illusion",
         "url": "https://open.spotify.com/album/0rKy3fohrZCVezzJKoWwlq"
       },
@@ -2124,7 +2182,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 280329,
       "name": "Everything Is Okay",
       "url": "https://open.spotify.com/track/6mjiQqol6k9jWSZ5BHzuYC"
@@ -2476,7 +2534,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 261703,
       "name": "Floored(Point of impact)",
       "url": "https://open.spotify.com/track/5S6QjkKoEjRDL7lS0P4H9R"
@@ -2620,7 +2678,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 303546,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3v77leN3q7n1SzGBuSsjOr"
@@ -2700,7 +2758,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 115520,
       "name": "Fuwari",
       "url": "https://open.spotify.com/track/3TqIAHbjxHW0K5zdkbF2eS"
@@ -3300,7 +3358,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 212117,
       "name": "I SEE A STAIR",
       "url": "https://open.spotify.com/track/6VrpJ8MqjFV0I6gcoE3ljY"
@@ -3322,6 +3380,24 @@
       "duration_ms": 287452,
       "name": "I Want You To Know",
       "url": "https://open.spotify.com/track/4bZAsC7ftR11pHpRNk2Mhc"
+    },
+    {
+      "album": {
+        "name": "I'm His Ex",
+        "url": "https://open.spotify.com/album/5yV86HtZMmLAgGJ08U4Y6U"
+      },
+      "artists": [
+        {
+          "name": "Bruce",
+          "url": "https://open.spotify.com/artist/538TUK3KiHnDNHkHLF2yrK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261298,
+      "name": "I'm His Ex",
+      "url": "https://open.spotify.com/track/0fbLFXzMAH7ckmFVzdHora"
     },
     {
       "album": {
@@ -3615,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272013,
+      "name": "Kupfer",
+      "url": "https://open.spotify.com/track/1Ltelq7zSzZVDFFXP0iHme"
+    },
+    {
+      "album": {
         "name": "Landscape Perception EP",
         "url": "https://open.spotify.com/album/38HmX1X3uY8alJQ3JYHUSG"
       },
@@ -3728,6 +3822,24 @@
       "duration_ms": 172500,
       "name": "Lift Gate",
       "url": "https://open.spotify.com/track/7r0SYjGuTLgOxoQESaPkc9"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5BJ8m5v6Zfpp3MpeMwc7EG"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342034,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6VEbaay7CDyh03GFQGZtCY"
     },
     {
       "album": {
@@ -4008,7 +4120,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 322463,
       "name": "Mean Friend - DJ Stingray Remix",
       "url": "https://open.spotify.com/track/4nGR1n77YvGdg1cAspVAgl"
@@ -4852,6 +4964,28 @@
       "duration_ms": 305348,
       "name": "On Embers",
       "url": "https://open.spotify.com/track/3Sb0DR0C88Fd9LMf9ewnPV"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/55WvosDdf63tlS27lhHuAh"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        },
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229746,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/6Em6biRI8g3lqFzRRG0xkV"
     },
     {
       "album": {
@@ -5749,6 +5883,24 @@
     },
     {
       "album": {
+        "name": "Sensing",
+        "url": "https://open.spotify.com/album/3fCNv1Sy3qrbhS5Takk5Zl"
+      },
+      "artists": [
+        {
+          "name": "Krotone",
+          "url": "https://open.spotify.com/artist/3fEsphc29rcMD3CyfdfUrR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332197,
+      "name": "Sensing",
+      "url": "https://open.spotify.com/track/5i89W9sYBdNVoZm7VZis0b"
+    },
+    {
+      "album": {
         "name": "Set The Roof",
         "url": "https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty"
       },
@@ -5994,7 +6146,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 150066,
       "name": "Sleep Well Night Time Forest Rain",
       "url": "https://open.spotify.com/track/1SZf00T1NoQGP99Cf1dju3"
@@ -6140,7 +6292,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 190476,
       "name": "Someone Else\u2019s Tune",
       "url": "https://open.spotify.com/track/3pImpd2JMnXAIXYarxYxNc"
@@ -6488,6 +6640,24 @@
       "duration_ms": 347076,
       "name": "Taro",
       "url": "https://open.spotify.com/track/0svb2SpratxjWjQQUp8xEx"
+    },
+    {
+      "album": {
+        "name": "Tboujeh",
+        "url": "https://open.spotify.com/album/5EH4P2HigSKObsdYLk3XMu"
+      },
+      "artists": [
+        {
+          "name": "Bambounou",
+          "url": "https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291080,
+      "name": "Tboujeh",
+      "url": "https://open.spotify.com/track/0rplsBbW7ZNC3uEkJreewE"
     },
     {
       "album": {
@@ -7838,6 +8008,28 @@
       "duration_ms": 156048,
       "name": "Yankee Anthem.",
       "url": "https://open.spotify.com/track/1hNv8iz3gvpbtnfkqOqpqi"
+    },
+    {
+      "album": {
+        "name": "An Honest Meal",
+        "url": "https://open.spotify.com/album/2U3HHXu45RrVHQD2iOpD3j"
+      },
+      "artists": [
+        {
+          "name": "unkle G",
+          "url": "https://open.spotify.com/artist/0XG6XAE3Zeh4tfkLZS9OoZ"
+        },
+        {
+          "name": "Gavsborg",
+          "url": "https://open.spotify.com/artist/1pJjT9XxNky39USV1eAHhN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "You Are So Hillarious",
+      "url": "https://open.spotify.com/track/0LNIGzV5HEkNnLqudVa9Px"
     },
     {
       "album": {

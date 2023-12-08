@@ -22210,6 +22210,10 @@
         {
           "name": "SNIK",
           "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Rvchet",
+          "url": "https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75"
         }
       ],
       "date_added": "2023-12-01",
@@ -24236,7 +24240,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 242696,
       "name": "SPITI",
       "url": "https://open.spotify.com/track/5cOMNVN6kTWvOdcLd7SWej"
@@ -24540,6 +24544,32 @@
       "duration_ms": 179545,
       "name": "Stefania (Kalush Orchestra)",
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
+    },
+    {
+      "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/0El9I9tw2H0ZgUj8HAmGc2"
+      },
+      "artists": [
+        {
+          "name": "12os Pithikos",
+          "url": "https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "BoyPanda",
+          "url": "https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252521,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/1nRCoRDnsczZSgVmSz41pY"
     },
     {
       "album": {

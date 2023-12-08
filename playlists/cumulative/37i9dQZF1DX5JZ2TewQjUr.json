@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: achi",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: erdocia",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "9SHAKE (feat. CotaBoii)",
+        "url": "https://open.spotify.com/album/0BY4GVXRs40s5giB0AHFLY"
+      },
+      "artists": [
+        {
+          "name": "WinWin \u694a\u5b89\u59ae",
+          "url": "https://open.spotify.com/artist/2AndESNVeA7nBIvYfv5BD9"
+        },
+        {
+          "name": "CotaBoii",
+          "url": "https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152123,
+      "name": "9SHAKE (feat. CotaBoii)",
+      "url": "https://open.spotify.com/track/4589vUUzmKfMR0N7Hfqgs9"
+    },
+    {
+      "album": {
         "name": "@me",
         "url": "https://open.spotify.com/album/5DS8PrqGptm1Fes5NX7wrs"
       },
@@ -530,6 +552,24 @@
       "duration_ms": 177103,
       "name": "Amidst the concrete",
       "url": "https://open.spotify.com/track/1kKO5dyVwCrvHUkrgTr8HG"
+    },
+    {
+      "album": {
+        "name": "Apart, so",
+        "url": "https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Apart, so",
+      "url": "https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE"
     },
     {
       "album": {
@@ -3229,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "HEARTACHE",
+        "url": "https://open.spotify.com/album/7nqCquixjmJ6o5n4t7RLHk"
+      },
+      "artists": [
+        {
+          "name": "ben chow",
+          "url": "https://open.spotify.com/artist/3O9Vari0d5odpXVPlRT04w"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210706,
+      "name": "HEARTACHE",
+      "url": "https://open.spotify.com/track/0kukmXMUvUwFyqACRIxl7m"
+    },
+    {
+      "album": {
         "name": "Hell No",
         "url": "https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX"
       },
@@ -4420,6 +4478,28 @@
       "duration_ms": 226323,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/1WLVAwtMG2ybHuumcEivyB"
+    },
+    {
+      "album": {
+        "name": "not so xmas xmas",
+        "url": "https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/2bHGEJ7DiKvSr6iVg0d3lj"
     },
     {
       "album": {
@@ -6088,6 +6168,24 @@
       "duration_ms": 196701,
       "name": "One time.",
       "url": "https://open.spotify.com/track/6nQf3TX6AUJUoNhkisvZYv"
+    },
+    {
+      "album": {
+        "name": "one way letter for the sea",
+        "url": "https://open.spotify.com/album/2oGNlXbcs8Tq9Pv4ojX15N"
+      },
+      "artists": [
+        {
+          "name": "erdocia",
+          "url": "https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "one way letter for the sea",
+      "url": "https://open.spotify.com/track/765bRZYWOKmvgyDv5KgMHQ"
     },
     {
       "album": {
@@ -10796,6 +10894,28 @@
       "duration_ms": 161344,
       "name": "\u539f\u77f3",
       "url": "https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag"
+    },
+    {
+      "album": {
+        "name": "\u53ea\u5f97\u6211\u4e00\u500b\u4eba(feat.MU \u6728)",
+        "url": "https://open.spotify.com/album/3y8cczL71BdIcjPVePxT2C"
+      },
+      "artists": [
+        {
+          "name": "Salty Chick",
+          "url": "https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A"
+        },
+        {
+          "name": "Ryanleeisgod",
+          "url": "https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "\u53ea\u5f97\u6211\u4e00\u500b\u4eba(feat.MU \u6728)",
+      "url": "https://open.spotify.com/track/43Y9A3yEEwdpZhlawhQChk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-338 songs - 20 hr 15 min
+339 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 | 2023-08-08 | 2023-10-06 |
 | [Karadano shinmade kimigasuki](https://open.spotify.com/track/06fGJXHIjgidZWDQrBRm1O) | [Sou Yamasaki](https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs) | [Karadano shinmade kimigasuki](https://open.spotify.com/album/6avvCvAB0scEEPe1J0SgOA) | 4:20 | 2023-02-21 | 2023-05-03 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2022-10-25 | 2023-08-04 |
-| [Keeping Secrets Will Destroy You](https://open.spotify.com/track/771KvpOBMeM782vkK9Lcdw) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Keeping Secrets Will Destroy You](https://open.spotify.com/album/2DNrgSBR1IHTzn4OGBsSst) | 6:00 | 2023-11-21 |  |
+| [Keeping Secrets Will Destroy You](https://open.spotify.com/track/771KvpOBMeM782vkK9Lcdw) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Keeping Secrets Will Destroy You](https://open.spotify.com/album/2DNrgSBR1IHTzn4OGBsSst) | 6:00 | 2023-11-21 | 2023-12-08 |
 | [killed the kid](https://open.spotify.com/track/2D6601bZ6eYBWIkC5dkRCy) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [killed the kid](https://open.spotify.com/album/4ueo9M9jqIxtjEn0ba96KD) | 3:16 | 2023-11-30 |  |
 | [King of a Land](https://open.spotify.com/track/7ccZ3toxjL7khuJWMKGEIx) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/1qocDvSTyeZxCa2MbW5YcE) | 4:14 | 2023-04-25 | 2023-05-03 |
 | [kiss me before u go.](https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [kiss me before u go.](https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ) | 4:03 | 2022-10-20 | 2022-12-14 |
@@ -207,6 +207,7 @@
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 | 2023-11-25 |
 | [Nobody Knows \(Acoustic\)](https://open.spotify.com/track/42pQzfx4pTUbTWNnUY2xw8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [Nobody Knows \(Acoustic\)](https://open.spotify.com/album/16Cx5MBA4HTIPnhBA6VhO3) | 2:15 | 2022-10-20 | 2022-12-14 |
 | [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-10-20 | 2022-12-14 |
+| [Nothing \#2 \(feat\. Alex Siegel\)](https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [THE CHARM PARK II EXTRA](https://open.spotify.com/album/6yzc3XByJ7DRAJDKbDQ3hC) | 3:32 | 2023-12-07 |  |
 | [Oak Hill](https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Oak Hill](https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo) | 4:17 | 2023-02-09 | 2023-03-22 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2022-12-13 | 2023-02-10 |
 | [Old Man](https://open.spotify.com/track/56LNNaTpa4fNuduLV6S0zs) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Old Man](https://open.spotify.com/album/7DbA9Ybpa35tJY2Z9RmLGg) | 3:28 | 2022-10-20 | 2022-11-02 |

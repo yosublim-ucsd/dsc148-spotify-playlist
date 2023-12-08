@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Martino",
+  "description": "Il meglio dell'R&B italiano. Cover: Heartman",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 181524,
       "name": "Dettagli",
       "url": "https://open.spotify.com/track/7isfTQzWnrGZPv0eLf92cF"
@@ -2534,6 +2534,28 @@
       "duration_ms": 213493,
       "name": "Fossi nato gemelli",
       "url": "https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy"
+    },
+    {
+      "album": {
+        "name": "FOTO NUDE",
+        "url": "https://open.spotify.com/album/2BxTbSTe1EUtFl589O2VKC"
+      },
+      "artists": [
+        {
+          "name": "Houston",
+          "url": "https://open.spotify.com/artist/5InAI4J9krBCnTC6yPNbT5"
+        },
+        {
+          "name": "Jurijgami",
+          "url": "https://open.spotify.com/artist/6A4w5E3WNDaZlxWyv5b6oP"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163134,
+      "name": "FOTO NUDE",
+      "url": "https://open.spotify.com/track/7wS6RViV6lpPea9olpNKlQ"
     },
     {
       "album": {
@@ -4865,6 +4887,24 @@
     },
     {
       "album": {
+        "name": "NIRVANA",
+        "url": "https://open.spotify.com/album/0v939XJOQhsSe9WFXxMrF9"
+      },
+      "artists": [
+        {
+          "name": "G-laspada",
+          "url": "https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207898,
+      "name": "NIRVANA",
+      "url": "https://open.spotify.com/track/4fhiwtOWnxHSIt5Rr9YGXa"
+    },
+    {
+      "album": {
         "name": "No eh? Va be'",
         "url": "https://open.spotify.com/album/5SXnrkbFeNPOfFnEHChOX6"
       },
@@ -5084,7 +5124,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 187588,
       "name": "Non oggi",
       "url": "https://open.spotify.com/track/544DE6Qyylu3TJsNxRTe5w"
@@ -5944,7 +5984,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 170343,
       "name": "r!va (feat. Pinguini Tattici Nucleari)",
       "url": "https://open.spotify.com/track/1WzE7gJwVB4ELFUJes2Gm6"
@@ -6326,6 +6366,28 @@
       "duration_ms": 166254,
       "name": "ROOM 23",
       "url": "https://open.spotify.com/track/196D8eiQplLX4y0qnLzaDu"
+    },
+    {
+      "album": {
+        "name": "Rosalyn",
+        "url": "https://open.spotify.com/album/4iPWRaCy4GqUYLbVfwGIZ5"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "Rosalyn",
+      "url": "https://open.spotify.com/track/7bxrxFJkCOYxrcbZwKsRzY"
     },
     {
       "album": {

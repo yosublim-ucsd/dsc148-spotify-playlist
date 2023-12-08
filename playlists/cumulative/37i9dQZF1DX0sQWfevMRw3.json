@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "34:an",
+        "url": "https://open.spotify.com/album/3vmZSW7ZfQB3UAPTOIW1od"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "34:an",
+      "url": "https://open.spotify.com/track/3boRJTCXt9D0MVaDdMyD0r"
+    },
+    {
+      "album": {
         "name": "5 LAKAN P\u00c5 LOGEN",
         "url": "https://open.spotify.com/album/5wA7aNe3otrnDMTdZ4oXaV"
       },
@@ -1798,6 +1816,28 @@
       "duration_ms": 129032,
       "name": "B\u00e4sta Jag Vet (Gathering Crew)",
       "url": "https://open.spotify.com/track/2G63amUDQ43l9sX5LH5sew"
+    },
+    {
+      "album": {
+        "name": "B\u00e4ttre nu",
+        "url": "https://open.spotify.com/album/1ELdEbvCkgqCw9W20dGISZ"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149634,
+      "name": "B\u00e4ttre nu",
+      "url": "https://open.spotify.com/track/64zfkKZElU7EwHGI4AHYac"
     },
     {
       "album": {
@@ -3851,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "En birra har aldrig",
+        "url": "https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147375,
+      "name": "En birra har aldrig",
+      "url": "https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu"
+    },
+    {
+      "album": {
         "name": "En drikkesang",
         "url": "https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl"
       },
@@ -5093,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Flyga som en ripa - Fr\u00e5n \"Ett sista race\"",
+        "url": "https://open.spotify.com/album/4ovIqEvwkUfmrPOccMvv3h"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Flyga som en ripa - Fr\u00e5n \"Ett sista race\"",
+      "url": "https://open.spotify.com/track/6D4PtjpCPd7cvNz5uXoD34"
+    },
+    {
+      "album": {
         "name": "Flyger med min vodkaflaska",
         "url": "https://open.spotify.com/album/1SydjqxdnOEk0EpWbF6lpj"
       },
@@ -5270,6 +5346,28 @@
       "duration_ms": 153292,
       "name": "FRIENDZONE",
       "url": "https://open.spotify.com/track/3EWMmVpdsi2KD3MdfvNiF0"
+    },
+    {
+      "album": {
+        "name": "FRIM\u00c4RKE",
+        "url": "https://open.spotify.com/album/4rbh4E0d0xKWkxfwxVj4aq"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162980,
+      "name": "FRIM\u00c4RKE",
+      "url": "https://open.spotify.com/track/3CjvmAbnvXGcKucpWedqye"
     },
     {
       "album": {
@@ -5814,6 +5912,32 @@
       "duration_ms": 123333,
       "name": "FYLLESVIN",
       "url": "https://open.spotify.com/track/4JAqii8SqeTXZzI5WsxWl4"
+    },
+    {
+      "album": {
+        "name": "FYRA SM\u00c5 RAGGERS",
+        "url": "https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        },
+        {
+          "name": "RIK1",
+          "url": "https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101304,
+      "name": "FYRA SM\u00c5 RAGGERS",
+      "url": "https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G"
     },
     {
       "album": {
@@ -6562,7 +6686,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 151026,
       "name": "Gratis \u00e4r gott",
       "url": "https://open.spotify.com/track/56xw5DCaXRb8C5nfAXUl2C"
@@ -10510,7 +10634,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 124500,
       "name": "Med detsamma",
       "url": "https://open.spotify.com/track/6h1SQBaZ01GpCnYKiI1GNL"
@@ -10924,7 +11048,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 151846,
       "name": "MOTVIND",
       "url": "https://open.spotify.com/track/6rcTOCXzLFVMK9rxfm8WOu"
@@ -14859,6 +14983,28 @@
     },
     {
       "album": {
+        "name": "Snart \u00e4r det \u00f6ver (JUL IGEN)",
+        "url": "https://open.spotify.com/album/7u1MrsMotbwWM50uVLkbRy"
+      },
+      "artists": [
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        },
+        {
+          "name": "DJ DUNK",
+          "url": "https://open.spotify.com/artist/3xZIABI7kdGYETfS4fSbOI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "Snart \u00e4r det \u00f6ver (JUL IGEN)",
+      "url": "https://open.spotify.com/track/5l4ZHTlsiOea7KRWint3gC"
+    },
+    {
+      "album": {
         "name": "SNE",
         "url": "https://open.spotify.com/album/4btDGRubgdOiHAjjvDl4PA"
       },
@@ -15622,6 +15768,28 @@
       "duration_ms": 126240,
       "name": "STORSTADSPOJK",
       "url": "https://open.spotify.com/track/6ibUwkcnHR9CopzegQm5VG"
+    },
+    {
+      "album": {
+        "name": "STORT PAKET",
+        "url": "https://open.spotify.com/album/0b155dAEvcRpOlJvAwMdqV"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "STORT PAKET",
+      "url": "https://open.spotify.com/track/50LZkveL9nIL0srGAhWZ0k"
     },
     {
       "album": {
@@ -16971,6 +17139,28 @@
     },
     {
       "album": {
+        "name": "TIPP TAPP JULKLAPP",
+        "url": "https://open.spotify.com/album/34Q00QpzQs6ANvLwuw1QLL"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152954,
+      "name": "TIPP TAPP JULKLAPP",
+      "url": "https://open.spotify.com/track/5ApOs6v8mpM5P3LRMQzeqS"
+    },
+    {
+      "album": {
         "name": "Tipp Tapp Julklapp (N!NE EPA Remix)",
         "url": "https://open.spotify.com/album/4193LAX5h9G4s15kpT3tpl"
       },
@@ -17466,7 +17656,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 122400,
       "name": "TUSEN MIL",
       "url": "https://open.spotify.com/track/0DJjdJGLhghWbPwzSmdl48"

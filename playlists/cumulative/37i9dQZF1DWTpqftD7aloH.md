@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-252 songs - 23 hr 42 min
+253 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Quarto Secreto](https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Quarto Secreto](https://open.spotify.com/album/4it8ereveBK8yFE4Ja2R87) | 5:07 | 2023-03-17 | 2023-09-02 |
 | [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 | 2022-09-09 | 2023-07-08 |
 | [Quem Te Guarda É Deus](https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Quem Te Guarda É Deus](https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h) | 3:13 | 2023-11-24 |  |
+| [Quero Mais \- Acústico](https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Histórias Vol\. 1 \(Acústico\)](https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx) | 4:08 | 2023-11-24 |  |
 | [Quão Grande é o Meu Deus](https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Grande É O Meu Deus](https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq) | 5:25 | 2023-02-03 |  |
 | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7) | 4:04 | 2022-09-09 | 2023-01-14 |
 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 | 2022-09-09 |  |
@@ -254,7 +255,7 @@
 | [Yeshua](https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.1\)](https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY) | 8:42 | 2023-02-03 |  |
 | [Yeshua](https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [MOVER](https://open.spotify.com/artist/0wNTBKHmaWnXfxiPbdvi2m) | [Momentos](https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX) | 8:42 | 2022-09-09 | 2023-02-04 |
 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 | 2023-04-15 | 2023-10-07 |
-| [Yeshua \- Ao Vivo](https://open.spotify.com/track/337boaYUw9T4DArIIASGT9) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Yeshua](https://open.spotify.com/album/3kxS0sTuaE4F9h9WQiqfK9) | 4:03 | 2023-10-20 |  |
+| [Yeshua \- Ao Vivo](https://open.spotify.com/track/337boaYUw9T4DArIIASGT9) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Yeshua](https://open.spotify.com/album/3kxS0sTuaE4F9h9WQiqfK9) | 4:03 | 2023-10-20 | 2023-12-08 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2022-09-09 | 2023-07-15 |
 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [É Tudo Sobre Você \(Ao Vivo\)](https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok) | 6:12 | 2023-06-23 |  |
 | [És Fiel \- Ao Vivo](https://open.spotify.com/track/4m0Nt1EV6rAKTkWCylIzO9) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 7:58 | 2023-11-24 |  |

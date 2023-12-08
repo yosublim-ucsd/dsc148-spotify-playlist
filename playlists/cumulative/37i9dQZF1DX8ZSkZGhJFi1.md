@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-650 songs - 1 day 2 hr 25 min
+652 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 | 2023-09-08 |  |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 |  |
 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 | 2022-02-17 | 2023-09-09 |
+| [catwalk](https://open.spotify.com/track/1DOEEHMXg2exzfzs2lRts2) | [Burguess' Beatz](https://open.spotify.com/artist/1i1hunPBHEd4w8PVILQjwD) | [catwalk](https://open.spotify.com/album/1v0jGGutvINFPeAdz3LYdJ) | 2:31 | 2023-12-08 |  |
 | [Cavern](https://open.spotify.com/track/3m4iAUrVsW0BFkyOmdeNrr) | [Lil Joke](https://open.spotify.com/artist/5OjXKVQtwCAwQ3EGw3ZzBQ) | [Cavern](https://open.spotify.com/album/2KQOOidJ1pYuui2rnhBio1) | 1:57 | 2023-09-08 |  |
 | [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2023-09-08 |  |
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2023-09-08 |  |
@@ -206,7 +207,7 @@
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 |  |
 | [Games](https://open.spotify.com/track/0ushiWGxHH5atvLnODuINq) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Games](https://open.spotify.com/album/2F495sG8fO4YTW8Fh2czBY) | 1:41 | 2022-02-17 | 2023-01-20 |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2023-09-08 |  |
-| [GIN BASIL SMASH](https://open.spotify.com/track/4Zq8GBwC9oZZNo15i8P5ne) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [GIN BASIL SMASH](https://open.spotify.com/album/0A5jQiXL9zaGXsO4zSGY6R) | 2:18 | 2023-09-08 |  |
+| [GIN BASIL SMASH](https://open.spotify.com/track/4Zq8GBwC9oZZNo15i8P5ne) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [GIN BASIL SMASH](https://open.spotify.com/album/0A5jQiXL9zaGXsO4zSGY6R) | 2:18 | 2023-09-08 | 2023-12-08 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2023-09-08 |  |
 | [Gliding](https://open.spotify.com/track/5tFHUZ0Qldkq8B3OzhgoTm) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [Gliding](https://open.spotify.com/album/6qJG6AhrAb4wxIuR1fsKjp) | 1:43 | 2023-09-08 |  |
 | [glossy window](https://open.spotify.com/track/2AG1nSGB6J9xEQOIm1Dyc8) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [glossy window](https://open.spotify.com/album/0AoH1D4zGLEW72v3xI91QR) | 2:10 | 2023-09-08 |  |
@@ -256,7 +257,7 @@
 | [In Bloom](https://open.spotify.com/track/6uxits25W76rYLfFshJKvs) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [In Bloom](https://open.spotify.com/album/6OjWvKpu6EoPGlnNaO5WXb) | 2:30 | 2023-09-08 | 2023-09-23 |
 | [In Control](https://open.spotify.com/track/7Kqj0LK21ncarCNLOOPJXN) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [In Control](https://open.spotify.com/album/40wQRP2viJpNvswAfeLHji) | 2:12 | 2023-09-08 |  |
 | [In the Quarry](https://open.spotify.com/track/1ppAYsMbptKwowB1Za8g7A) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Gossamer](https://open.spotify.com/album/5AndD9M9ccTWQXPJpipz2z) | 2:21 | 2023-09-08 |  |
-| [Incandescent Sky \- Demo](https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah) | [Xoxo Fernandez](https://open.spotify.com/artist/6G4uvbhINpucP5RBxsiPDN) | [False Euphoria](https://open.spotify.com/album/7Dm64niDkqB3n00XPhmEXd) | 2:05 | 2023-09-08 |  |
+| [Incandescent Sky \- Demo](https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah) | [Xoxo Fernandez](https://open.spotify.com/artist/6G4uvbhINpucP5RBxsiPDN) | [False Euphoria](https://open.spotify.com/album/7Dm64niDkqB3n00XPhmEXd) | 2:05 | 2023-09-08 | 2023-12-08 |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2023-10-20 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
@@ -610,6 +611,7 @@
 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2023-09-08 |  |
 | [Unexpected World](https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw), [Crun](https://open.spotify.com/artist/7aQFz7nMIRg5XTM1YLwEZ4) | [Unexpected World](https://open.spotify.com/album/51loInMhKTCu0j8iW3RW3u) | 1:36 | 2023-09-08 |  |
 | [Unity](https://open.spotify.com/track/2esxMguB1vPwhv9GgKKMdL) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/02HGvM4UDSIiUEOP7PfLMF) | 2:13 | 2023-09-08 |  |
+| [Upper Lows](https://open.spotify.com/track/3lrBu4V4yz4VuFPJe5HNWy) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Upper Lows](https://open.spotify.com/album/0SdoJPwJWy3FPSqpIExNBh) | 2:02 | 2023-12-08 |  |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2023-09-08 |  |
 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 | 2022-02-17 | 2023-09-09 |
 | [Voice in the Back](https://open.spotify.com/track/3ZVpvgHJdEPFxKt8mN5Bk0) | [One Disco Light](https://open.spotify.com/artist/3fTraZW8ip4IoGJxXqiQY1) | [Voice in the Back](https://open.spotify.com/album/5CNa4K75og3D42zcHO9kYx) | 2:23 | 2022-02-17 | 2023-09-09 |

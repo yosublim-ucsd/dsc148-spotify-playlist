@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 297797,
       "name": "Ganjam",
       "url": "https://open.spotify.com/track/3T1NWRHKulKizoexFmhXY4"
@@ -10196,6 +10196,40 @@
       "duration_ms": 193537,
       "name": "Tremendoce, Pt. 2",
       "url": "https://open.spotify.com/track/1Z0jacngBZXJPJsIj2m5Hy"
+    },
+    {
+      "album": {
+        "name": "Tremendoce, Pt. 2 & 3 / Skerry",
+        "url": "https://open.spotify.com/album/0UeU8cZLYdit6W9OV44Nk3"
+      },
+      "artists": [
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "Jonas Kullhammar",
+          "url": "https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB"
+        },
+        {
+          "name": "Per 'Texas' Johansson",
+          "url": "https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T"
+        },
+        {
+          "name": "Tilo Weber",
+          "url": "https://open.spotify.com/artist/3eHtftmDOgj9FpDTcPmvl4"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193537,
+      "name": "Tremendoce, Pt. 2",
+      "url": "https://open.spotify.com/track/6X6tTbpdkGhjltFeSQ5I6O"
     },
     {
       "album": {

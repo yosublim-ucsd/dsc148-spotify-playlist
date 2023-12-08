@@ -2,9 +2,9 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : Meryl
+> Les hits dancehall du moment\. Photo : Jahlys
 
-333 songs - 15 hr 12 min
+335 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Believe](https://open.spotify.com/track/3x8vHQ7puLfFcifPHlnf5I) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Believe](https://open.spotify.com/album/7r7JMmXSL78LgTwpCb0RA9) | 2:13 | 2022-09-29 | 2022-12-02 |
 | [Bend](https://open.spotify.com/track/4oYsDGK6eFXB1zg6pWb1Hj) | [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bend](https://open.spotify.com/album/0Fhl0V0CU8WRvAH8U34ML8) | 2:18 | 2023-06-22 | 2023-08-04 |
 | [Bend It Over](https://open.spotify.com/track/4kx5UasR27nS6Bw6huHhj1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Bend It Over](https://open.spotify.com/album/0NfwvKG89hS98kD3dCaVX1) | 2:55 | 2023-03-23 | 2023-04-28 |
+| [Bi](https://open.spotify.com/track/4RUfwj2WJtQ0G7Lp6mOPGy) | [Olivyah](https://open.spotify.com/artist/1RWFgAXpkRkDhovaib8Bt5) | [Bi](https://open.spotify.com/album/3wIRgjXeN15DvUkmcS9qzV) | 2:16 | 2023-12-08 |  |
 | [Big Machine](https://open.spotify.com/track/6T7OjZ8G5WYiCdWYPTInb6) | [Kaf Malbar](https://open.spotify.com/artist/1id4EoPVo5qfzdP5gMf5U3), [Rikos](https://open.spotify.com/artist/78LEIZgEmSsw4BsrPKMto5) | [Big Machine](https://open.spotify.com/album/4TqK6M5ZV0ASYoubCujjjr) | 3:42 | 2021-12-22 | 2022-02-25 |
 | [Big Woman Thing](https://open.spotify.com/track/6j8NRVBuVs5IGr9AKuw3vp) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Big Woman Thing](https://open.spotify.com/album/115Wut67FRFDrDIM2CXFpY) | 2:35 | 2022-12-22 | 2023-02-17 |
 | [Bless Mo Life](https://open.spotify.com/track/57hfbNwAYXznJHgAGnxHya) | [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf) | [Prophecy](https://open.spotify.com/album/6QC9wozEHeMaEUiipw3gnC) | 2:40 | 2023-08-03 | 2023-11-17 |
@@ -113,7 +114,7 @@
 | [Fling It Back](https://open.spotify.com/track/5rKSO98bJ5fOBYNbpbiXQS) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [New Motion](https://open.spotify.com/album/5tL7qwPbH3xoAXcLdPaHsf) | 2:24 | 2022-06-16 | 2022-07-29 |
 | [Foki](https://open.spotify.com/track/2romlZZi2Ypdik8KPjpv6X) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Alex Sargo](https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG), [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Foki](https://open.spotify.com/album/1xUt5s1XoEoyOQj1lf7xas) | 2:24 | 2022-01-06 | 2022-04-22 |
 | [Forever](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Forever](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 | 2023-05-11 | 2023-06-02 |
-| [Friendzone](https://open.spotify.com/track/5AWWQyAsqtjov0hogzafxE) | [Paille](https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA) | [Friendzone](https://open.spotify.com/album/4tGSazhEvCFBdiricqkJUV) | 3:49 | 2023-10-19 |  |
+| [Friendzone](https://open.spotify.com/track/5AWWQyAsqtjov0hogzafxE) | [Paille](https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA) | [Friendzone](https://open.spotify.com/album/4tGSazhEvCFBdiricqkJUV) | 3:49 | 2023-10-19 | 2023-12-08 |
 | [Fè to choix](https://open.spotify.com/track/4uTUPgwlmnXJ25m5aJjMLh) | [Ken Vybz](https://open.spotify.com/artist/0eomtAhpoAMBnsns4DwGCp) | [G\-Side: The Way I Do It](https://open.spotify.com/album/0JJ9srPt1oHSwQrfMDWFCe) | 2:34 | 2021-12-22 | 2022-01-28 |
 | [Ganja](https://open.spotify.com/track/5Gv89SZih6lHvHpKB1mIhU) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Ganja](https://open.spotify.com/album/11W6IsmcsFkOYe54sTRMBf) | 3:05 | 2021-12-22 | 2022-04-29 |
 | [Genghis Khan](https://open.spotify.com/track/1TZZIVEkj2FgVkBGQCoVoa) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [Genghis Khan](https://open.spotify.com/album/0cnRZoKx2JmGyVftNlU5zF) | 2:15 | 2022-05-26 | 2022-07-15 |
@@ -304,6 +305,7 @@
 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 | 2022-09-08 | 2023-02-24 |
 | [Too Hot](https://open.spotify.com/track/5YIvwu6p04xoP8MM1jUxCq) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Too Hot](https://open.spotify.com/album/0h56vBwhxwsXIYJ7zefydW) | 2:00 | 2023-02-02 | 2023-05-12 |
 | [Touch Yuh Head](https://open.spotify.com/track/3Uz7hukmuZrWgndrVa0iXS) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Monsta Boss](https://open.spotify.com/artist/1M84HVHheuNfv1GbnDMqBb) | [Touch Yuh Head](https://open.spotify.com/album/4oQEwqssWbXMmrGfaTd3UC) | 2:49 | 2022-04-21 | 2022-07-01 |
+| [Tous Les Ken](https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Tous Les Ken](https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK) | 2:41 | 2023-12-08 |  |
 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 | 2023-06-08 |  |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-23 | 2023-05-26 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
@@ -316,7 +318,7 @@
 | [Under Pressure](https://open.spotify.com/track/1qLnwmHgAi1BRAFQovStAY) | [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI) | [4 CENTO](https://open.spotify.com/album/0hgpIQ3169MUzTwGZbGTRD) | 3:12 | 2023-06-15 | 2023-09-08 |
 | [Up Deh](https://open.spotify.com/track/6rf927WwNAaaBKSIE6iUU1) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:58 | 2023-02-23 | 2023-04-07 |
 | [Updown](https://open.spotify.com/track/5YpUq5yJ9VXeEEkGPoQYsU) | [Yelsha](https://open.spotify.com/artist/5i7fohl7VTuGVVn5o9BXQo), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Fluide+](https://open.spotify.com/album/3IaE3CdbwJa2gFuRtX7ql6) | 2:35 | 2023-06-01 | 2023-07-07 |
-| [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 | 2023-09-21 |  |
+| [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 | 2023-09-21 | 2023-12-08 |
 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 | 2021-12-22 | 2022-04-01 |
 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 | 2023-05-11 | 2023-06-23 |
 | [Voyage \(Awa\)](https://open.spotify.com/track/7pwoEsCWELhGg03eWFsfKX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Voyage \(Awa\)](https://open.spotify.com/album/490UUH1LxuKoBIObSCWwGy) | 2:40 | 2023-05-25 | 2023-07-21 |

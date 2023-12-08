@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,070 songs - 2 day 19 hr 33 min
+1,071 songs - 2 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 | 2023-07-04 | 2023-10-08 |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 | 2022-09-30 |
 | [POLARIS IN THE NIGHT](https://open.spotify.com/track/0Nv8zocbCLFa35NK4IQig5) | [シャドウガーデンナンバーズ](https://open.spotify.com/artist/1vfwKBWqzxR5sXotNV8Hvw) | [ENDING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/1S1y6JcfwJhkrOtQsl5Uon) | 3:55 | 2023-10-12 | 2023-11-08 |
-| [Prayer](https://open.spotify.com/track/7pKHXmkkGkT2UZpt7DU4nd) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Prayer](https://open.spotify.com/album/7yCylSqqsPNlVeLPUxJB1h) | 3:08 | 2023-10-07 |  |
+| [Prayer](https://open.spotify.com/track/7pKHXmkkGkT2UZpt7DU4nd) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Prayer](https://open.spotify.com/album/7yCylSqqsPNlVeLPUxJB1h) | 3:08 | 2023-10-07 | 2023-12-08 |
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 | 2022-10-19 |
 | [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 | 2023-04-06 | 2023-05-12 |
 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-08 | 2023-01-13 |
@@ -477,6 +477,7 @@
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
 | [ROZEN HORIZON](https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 6:06 | 2022-05-28 | 2022-07-27 |
 | [Runaway World](https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Runaway World \(TVアニメ「逃走中」オープニング・テーマ\)](https://open.spotify.com/album/32wTeElhxo3cDpPfbu4X9T) | 4:06 | 2023-05-30 | 2023-07-12 |
+| [RVR～ライジングボルテッカーズラップ～ \- オリオVer\. PART2](https://open.spotify.com/track/06HRdIyl7S0qJF8Cbe13R0) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [オリオ\(CV:佐倉綾音\)](https://open.spotify.com/artist/1Ew6K882V9a9XwJlRASVt3) | [RVR～ライジングボルテッカーズラップ～ \(オリオVer\. PART2\)](https://open.spotify.com/album/60Ip4aZQgJ78NlNhWChiLQ) | 1:31 | 2023-12-07 |  |
 | [RVR～ライジングボルテッカーズラップ～ \- モリーVer.](https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [モリ―\(CV:真堂圭\)](https://open.spotify.com/artist/0EYCrd7ZzqVl5vGOJ4Ols9) | [RVR～ライジングボルテッカーズラップ～ \(モリーVer.\)](https://open.spotify.com/album/5g4zaYfnYIuN5uXSJVDrI2) | 1:29 | 2023-07-27 | 2023-09-01 |
 | [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 | 2023-07-27 | 2023-07-29 |
 | [S9aiR](https://open.spotify.com/track/2bREEoMT7EyoUFwxh04IzM) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [S9aiR](https://open.spotify.com/album/6VGtl5hQVxkrUoY3k0t5vm) | 3:17 | 2023-10-07 | 2023-11-08 |

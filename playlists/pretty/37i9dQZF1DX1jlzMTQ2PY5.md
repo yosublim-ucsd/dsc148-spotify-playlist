@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,065 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,120 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 25 | [Are You](https://open.spotify.com/track/2FWmAFaVahfD7CLonK1zxS) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Are You](https://open.spotify.com/album/4eguxtM6kcT3gUh9n4novr) | 4:34 |
 | 26 | [Lowdown](https://open.spotify.com/track/32eraMrOwC4EmBlkCP7IMP) | [Coffee Shop Jungle](https://open.spotify.com/artist/58S1DXVCgmfu5kf5seAuVM), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu) | [Lowdown](https://open.spotify.com/album/0VBnF1WzBoLjG8RiJxw1pZ) | 2:15 |
 | 27 | [High Time](https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [High Time](https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0) | 3:42 |
-| 28 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
-| 29 | [Freefall](https://open.spotify.com/track/0GAHmF6YJKFd1pgk3fdvGs) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/5RxmvOXXB6Czd2gXZH0y9N) | 4:50 |
-| 30 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 |
+| 28 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 |
+| 29 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
+| 30 | [Freefall](https://open.spotify.com/track/0GAHmF6YJKFd1pgk3fdvGs) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/5RxmvOXXB6Czd2gXZH0y9N) | 4:50 |
 | 31 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
 | 32 | [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 |
 | 33 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 43 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
 | 44 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
 | 45 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
-| 46 | [Summer's End](https://open.spotify.com/track/1xSfjrSPQUHyD1xFIJ44vX) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Summer's End](https://open.spotify.com/album/7obp0SlhUqCCHwbnIkAzmN) | 5:18 |
-| 47 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
+| 46 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
+| 47 | [Summer's End](https://open.spotify.com/track/1xSfjrSPQUHyD1xFIJ44vX) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Summer's End](https://open.spotify.com/album/7obp0SlhUqCCHwbnIkAzmN) | 5:18 |
 | 48 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
-| 49 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
-| 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 49 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 50 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
 
-Snapshot ID: `MCwxZWM3ZWM2ZjhmNmZhZTVjNWM4YzAyMDlkYTMwNjEzZmFmYmQ3NDg0`
+Snapshot ID: `MCw0MjlhMzNiMDExZTZmZGRmNzBmNjZjYzQzZjI2Zjc1ZmJhMDgzNTFj`

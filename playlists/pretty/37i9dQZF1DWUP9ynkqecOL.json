@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 20890,
+  "num_followers": 20922,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzVjMWRiYWNmMzMxNDkxNjlkM2E5NjFkMDA0NzMxYjAzZWJjZDhm",
+  "snapshot_id": "MCwxZDg3MTA1YmNmNGJmZjBmM2NjNDdiOGRkN2VjNTJkOTJjNWY3NWNh",
   "tracks": [
     {
       "added_at": "2023-11-10 14:30:24",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Que Bailen",
-      "url": "https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "La Estrella",
         "url": "https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 296258,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/57579JMa428PUzNyRHRtsm"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Asimetrico",
+        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Coplita",
+      "url": "https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Sin darle motivo (Derrok Remix)",
         "url": "https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 264546,
       "name": "Antiguos Due\u00f1os de las Flechas",
       "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Coplita",
-      "url": "https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+      },
+      "artists": [
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        }
+      ],
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Albura Remixed",
         "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
-      },
-      "artists": [
-        {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
-        }
-      ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Truenatruena",
         "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
       },
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
-        "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
+        "name": "New Latam Beats From Argentina (Disco A)",
+        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
       },
       "artists": [
         {
           "name": "Pol Nada",
           "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Kaleema",
-          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
         }
       ],
-      "duration_ms": 241023,
-      "name": "Peoncito de Estancia - Kaleema Remix",
-      "url": "https://open.spotify.com/track/0zIiND609voPOWidaLjnYi"
+      "duration_ms": 325025,
+      "name": "Serenata Plateada",
+      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1071,26 +1067,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
-      },
-      "artists": [
-        {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
-        }
-      ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
       },
@@ -1107,6 +1083,26 @@
       "duration_ms": 377684,
       "name": "Alma",
       "url": "https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+      },
+      "artists": [
+        {
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+        }
+      ],
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "New Latam Beats From Argentina (Disco A)",
-        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
+        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
+        "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
       },
       "artists": [
         {
           "name": "Pol Nada",
           "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Kaleema",
+          "url": "https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW"
         }
       ],
-      "duration_ms": 325025,
-      "name": "Serenata Plateada",
-      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
+      "duration_ms": 241023,
+      "name": "Peoncito de Estancia - Kaleema Remix",
+      "url": "https://open.spotify.com/track/0zIiND609voPOWidaLjnYi"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Camino a la Templanza",
+        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
+      },
+      "artists": [
+        {
+          "name": "Soema Montenegro",
+          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 263424,
+      "name": "Uni\u00f3n de los Amantes",
+      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Luchin",
         "url": "https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 259551,
       "name": "Luchin",
       "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Camino a la Templanza",
-        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
-      },
-      "artists": [
-        {
-          "name": "Soema Montenegro",
-          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 263424,
-      "name": "Uni\u00f3n de los Amantes",
-      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
     },
     {
       "added_at": "2023-11-10 14:30:24",

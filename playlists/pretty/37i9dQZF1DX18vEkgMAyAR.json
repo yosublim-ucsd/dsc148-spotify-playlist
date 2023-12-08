@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 65091,
+  "num_followers": 65128,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzhhZGE1ODE1OTZiYTYzOGE0NjM3NjU0MjczOTdhOGY4ZGUwMzg4",
+  "snapshot_id": "MCxmOWY4MWNmMzBlZjAyYjY1YjAxNjMyZTJiMWQyZmFmZGI4M2FlMzA4",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -815,18 +815,22 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Three Second Memory (Deluxe)",
-        "url": "https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc"
+        "name": "If Summer Was A Sound",
+        "url": "https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh"
       },
       "artists": [
         {
           "name": "GoldFish",
           "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         }
       ],
-      "duration_ms": 359226,
-      "name": "Moonwalk Away",
-      "url": "https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3"
+      "duration_ms": 188995,
+      "name": "Colours & Lights",
+      "url": "https://open.spotify.com/track/4xxnegJcfOiPMRVidxC60N"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "If Summer Was A Sound",
-        "url": "https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh"
+        "name": "Three Second Memory (Deluxe)",
+        "url": "https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc"
       },
       "artists": [
         {
           "name": "GoldFish",
           "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         }
       ],
-      "duration_ms": 188995,
-      "name": "Colours & Lights",
-      "url": "https://open.spotify.com/track/4xxnegJcfOiPMRVidxC60N"
+      "duration_ms": 359226,
+      "name": "Moonwalk Away",
+      "url": "https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3"
     },
     {
       "added_at": "2023-11-03 03:58:52",

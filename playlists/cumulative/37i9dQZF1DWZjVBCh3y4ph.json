@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk du moment. Photo : Oswald",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 218779,
       "name": "Dimension - Radio edit",
       "url": "https://open.spotify.com/track/7FR3FUSLOLHtN8RjFs6kQY"
@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Jeu dangereux",
+        "url": "https://open.spotify.com/album/77vAIuKvXoIEH8d8TtXLUX"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197366,
+      "name": "Jeu dangereux",
+      "url": "https://open.spotify.com/track/0ILZ5MSXz0w6aF3JnqRE6C"
+    },
+    {
+      "album": {
         "name": "Joli coeur",
         "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
       },
@@ -496,6 +514,24 @@
       "duration_ms": 294066,
       "name": "Kar\u00e9s\u00e9 Mwen - Toi et Moi",
       "url": "https://open.spotify.com/track/43La0fMCv1tBBmAeuYSumQ"
+    },
+    {
+      "album": {
+        "name": "KEN",
+        "url": "https://open.spotify.com/album/3TUmGASRCnlDi3r8JWnehM"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199518,
+      "name": "KEN",
+      "url": "https://open.spotify.com/track/2sd3y1eow3RdwiWF17EF8h"
     },
     {
       "album": {
@@ -838,7 +874,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 151011,
       "name": "Ny fitiavanay (Notre amour)",
       "url": "https://open.spotify.com/track/0e23qMbeMafeUQsuaqsIBh"
@@ -1016,7 +1052,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 195381,
       "name": "R\u00e9sign\u00e9e",
       "url": "https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n"
@@ -1272,6 +1308,24 @@
       "duration_ms": 212398,
       "name": "TU ME TOUCHES",
       "url": "https://open.spotify.com/track/1CMYEMTuKG82siF0FMAlqn"
+    },
+    {
+      "album": {
+        "name": "Vide",
+        "url": "https://open.spotify.com/album/5G1hDlDLm8HD5DlDUVxaic"
+      },
+      "artists": [
+        {
+          "name": "Rashel",
+          "url": "https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Vide",
+      "url": "https://open.spotify.com/track/6E5FBWSFWLdHCvBQ8AJsFv"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Adé
+> La pop française annonce la couleur\. Photo : Pierre de Maere
 
-100 songs - 5 hr 0 min
+101 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Fête des années 70](https://open.spotify.com/track/2C8FoGkNZ59r0e4tkVTby5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Fête des années 70](https://open.spotify.com/album/2Joa0NEZ7HkFyTwjITLmZh) | 2:21 | 2023-11-09 |  |
 | [Heureux](https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU) | 2:50 | 2023-11-30 |  |
 | [Hold Up \(à l'eau de rose\)](https://open.spotify.com/track/6a0Ad99CVzcR9FS9XJr9VP) | [Sara Saphir](https://open.spotify.com/artist/64WmkM3KtYsEfK2niBa4Jl) | [Pansements](https://open.spotify.com/album/09p6CCTiy6jIdGDgyFSnTB) | 3:10 | 2023-07-27 | 2023-08-25 |
-| [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 |  |
+| [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 | 2023-12-08 |
 | [Idiot](https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau) | [SAM](https://open.spotify.com/artist/7c5GqUF44K4Hmx77zhALdR), [Allen B](https://open.spotify.com/artist/4IMbOxi9R1vkvUZqPClKt8) | [Idiot](https://open.spotify.com/album/7w44o7QHPANWTfn8qa66Cs) | 2:56 | 2023-09-21 |  |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-07-27 | 2023-10-06 |
 | [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 | 2023-09-28 |  |
@@ -86,6 +86,7 @@
 | [Plus de sens](https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:29 | 2023-07-27 |  |
 | [Populaire](https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Populaire](https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE) | 3:21 | 2023-09-21 |  |
 | [Pura Vida](https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Caméo](https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp) | 2:43 | 2023-07-27 | 2023-09-15 |
+| [QUAND LA NUIT TOMBE](https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [QUAND LA NUIT TOMBE](https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y) | 3:31 | 2023-12-08 |  |
 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-08-24 | 2023-09-15 |
 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 | 2023-10-05 |  |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-07-27 | 2023-11-10 |

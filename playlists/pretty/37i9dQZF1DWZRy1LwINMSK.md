@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Harry Nach & Aqua VS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,046 likes - 106 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,206 likes - 106 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 31 | [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 |
 | 32 | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/track/56EvTtsyFL3JRjgnrafZQ0) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/album/5Ovh7KZm4TLsJGF8JZe7uS) | 3:42 |
 | 33 | [Chinese \(feat\. King Savagge\)](https://open.spotify.com/track/3riIoSIEMCU45UDaVuc7v2) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:21 |
-| 34 | [PFQG](https://open.spotify.com/track/0TDOQOWiL6iw3xW0EF0GKc) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [WorKING](https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl) | 3:42 |
+| 34 | [](https://open.spotify.com/track/0TDOQOWiL6iw3xW0EF0GKc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl) | 0:00 |
 | 35 | [ALMIGHTY](https://open.spotify.com/track/2N5mIfZu5dV66bybxad7Hr) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ALMIGHTY](https://open.spotify.com/album/48O2sAs7j2xV4Wo4VcAgpJ) | 3:01 |
 | 36 | [No Quiero Atraso](https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [El Rey De Los Trenches](https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX) | 3:34 |
 | 37 | [Siciliano](https://open.spotify.com/track/6z1LXHyx2AwwQGXoMUjjbV) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Siciliano](https://open.spotify.com/album/3cYJzm7oqoJXyw3VX3Ohkp) | 3:13 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 105 | [XERATON](https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:41 |
 | 106 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 |
 
-Snapshot ID: `MCw2MDA0NDZhZDJmYTc4ZGRmNjBhYmEyNWEwOTRjMWY0ZTJhNzYyODZh`
+Snapshot ID: `MCxiNTUzMjJhNmQ1NTZhMGNjYWYwYzQzYjFmNTkwNTE5N2I5NDIzOWQw`

@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 87095,
+  "num_followers": 87125,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjA1YjhjZmU5ZmJkNGFjYmYxNGE4YjhlNTczMjMzMjM2NDI3OTZk",
+  "snapshot_id": "MCwyOTE0ZTU0MGFkNWVjMmM2OWY1NDc0OTkxZTVjOWRjYzZlYWI4NDAx",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Maintain The Golden Ratio",
+        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 282702,
+      "name": "The Golden Ratio (Version)",
+      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Just Want Another Chance",
         "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 208210,
       "name": "Can You Feel It - Kevin Saunderson Remix",
       "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain The Golden Ratio",
-        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "The Golden Ratio (Version)",
-      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Maintain",
+        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 296013,
+      "name": "Maintain",
+      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
         "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 320866,
       "name": "Telekinesis",
       "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain",
-        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Maintain",
-      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
     },
     {
       "added_at": "2023-10-26 20:41:14",

@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-303 songs - 19 hr 12 min
+306 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Nightshift](https://open.spotify.com/track/7s7b3petWiTzsJE9oeVXKW) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nightshift](https://open.spotify.com/album/1I7aRHHNn8lmr5ECqMkQ4u) | 2:54 | 2022-12-22 |  |
 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 | 2021-12-14 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
+| [Noir De Noir](https://open.spotify.com/track/5FU6Qj9h9TYGW2v810ZYA5) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Noir De Noir](https://open.spotify.com/album/5EBzEgLhw2nVVUVL1gmnP5) | 3:18 | 2023-12-08 |  |
 | [Northwood Hills](https://open.spotify.com/track/1V67XyPGFveCOfgSCkyJkV) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Northwood Hills](https://open.spotify.com/album/0i4sqxw8WdDJiBkXvZXkkD) | 3:14 | 2022-09-29 |  |
 | [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-28 |  |
@@ -248,6 +249,7 @@
 | [Spring Evening](https://open.spotify.com/track/2xdVhhcaljRGvDEcVRHLQ1) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 3:41 | 2023-01-26 |  |
 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 | 2022-05-31 | 2023-01-20 |
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-01-27 | 2023-05-12 |
+| [Starry Skies and Saxophones](https://open.spotify.com/track/3GvTDh5qbXRvpjcVE5r34w) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Starry Skies and Saxophones](https://open.spotify.com/album/5rkoaMS3FOnul78sYUGdB8) | 3:43 | 2023-12-08 |  |
 | [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2022-12-01 |  |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Still Life](https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Still Life](https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w) | 3:06 | 2021-12-14 | 2022-11-18 |
@@ -294,6 +296,7 @@
 | [Where Or When](https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Where Or When](https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou) | 3:23 | 2022-04-11 | 2022-10-07 |
 | [Whiplashed](https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Whiplashed](https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw) | 3:17 | 2023-04-13 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-05-25 |  |
+| [Wind Dancer](https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz) | [Dreamland](https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj) | [Wind Dancer](https://open.spotify.com/album/32FSarmIZSQXG34jvKX324) | 3:01 | 2023-12-08 |  |
 | [Windows](https://open.spotify.com/track/6ADfA2iC7wIIll0JC99ZH8) | [Chip Weasley](https://open.spotify.com/artist/37X0wybCupItXHrjK20Mdy) | [Windows](https://open.spotify.com/album/11WQszEkjI5k7Q15XkBvNP) | 3:54 | 2022-08-10 | 2022-11-18 |
 | [Winter in Munich](https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Anyone Can Dream](https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m) | 3:12 | 2022-11-10 |  |
 | [Withered Flowers](https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Withered Flowers](https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU) | 3:53 | 2022-11-24 |  |
@@ -308,7 +311,7 @@
 | [You Must Believe In Spring](https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Earthshine](https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM) | 3:42 | 2022-09-06 |  |
 | [You really had me going](https://open.spotify.com/track/7C9UvNUcHTiKYCU2XneGeo) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [You really had me going](https://open.spotify.com/album/5CFJtlj4PGWpgZV0hUijrV) | 3:22 | 2023-02-23 |  |
 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-04-26 |  |
-| [Älvan](https://open.spotify.com/track/2hgywy8NJicnetQ0IQBeaE) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [Älvan](https://open.spotify.com/album/1BBOsIErJVFsq1rZO8OBjt) | 3:22 | 2021-12-14 |  |
+| [Älvan](https://open.spotify.com/track/2hgywy8NJicnetQ0IQBeaE) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [Älvan](https://open.spotify.com/album/1BBOsIErJVFsq1rZO8OBjt) | 3:22 | 2021-12-14 | 2023-12-08 |
 | [Årstaviken](https://open.spotify.com/track/18ktE62juUjPDpFsxsWb8s) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Årstaviken](https://open.spotify.com/album/4zFXOHbWKbfm03dI1hFtSE) | 3:39 | 2022-05-17 |  |
 | [Últimamente](https://open.spotify.com/track/1BJmiWUEqMx2aqHqfIbeAQ) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Últimamente](https://open.spotify.com/album/0UlBxNwVwKvU30I3RHUlAr) | 3:04 | 2022-12-22 |  |
 

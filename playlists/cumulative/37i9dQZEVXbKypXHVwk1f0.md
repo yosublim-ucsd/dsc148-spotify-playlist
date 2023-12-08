@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-993 songs - 2 day 8 hr 1 min
+994 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Lowkey](https://open.spotify.com/track/1rlxwalJtEqWYdOiuSIj9k) | [El Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Focking Rafita](https://open.spotify.com/artist/31ZeHgT3blkmKIIz8b2ZNM) | [Reset](https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf) | 3:07 | 2021-12-11 | 2021-12-13 |
 | [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-30 | 2023-10-06 |
 | [Lujuria Favorita](https://open.spotify.com/track/5z6xis1rcEjjs7MuM4eL1x) | [Joshy Tripp](https://open.spotify.com/artist/04wutY93WvFHxFz1Y0kHoB) | [Lujuria Favorita](https://open.spotify.com/album/4ZlwFkoqPGd5xesy8jk4To) | 3:02 | 2023-10-12 | 2023-10-23 |
+| [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-07 |  |
 | [M3](https://open.spotify.com/track/4WDRKKpJiEZ6DK6FFM3pkZ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:12 | 2023-03-18 | 2023-03-23 |
 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 | 2021-03-27\* | 2021-06-12 |
 | [Mal de Amores](https://open.spotify.com/track/6e9MHg7H3aWv8d0zTwqMug) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Barco de Papel](https://open.spotify.com/album/1teao9NhhnP8BsAJQKBy7l) | 3:23 | 2023-11-11 | 2023-11-14 |
@@ -718,7 +719,7 @@
 | [Problema](https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:53 | 2021-07-04 | 2021-07-10 |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-01-14 | 2022-04-27 |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2022-09-15 | 2023-03-19 |
-| [PROVENZA](https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:27 | 2023-02-25 |  |
+| [PROVENZA](https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:27 | 2023-02-25 | 2023-12-08 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-23 | 2023-02-26 |
 | [PROVENZA \- REMIX](https://open.spotify.com/track/7xHNDiHAqzjIKKeR8f5vhH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:07 | 2023-08-12 | 2023-08-14 |
 | [Ps Claro](https://open.spotify.com/track/6by7Ed1e3yCJFB3PNa8Rbl) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q), [Jhyan Martínez](https://open.spotify.com/artist/0p7owK7kqdSPC9wUC0fdSu) | [Flash Back](https://open.spotify.com/album/0nNVvtHQmf4RyZODwh9FRj) | 3:18 | 2022-06-18 | 2022-07-04 |

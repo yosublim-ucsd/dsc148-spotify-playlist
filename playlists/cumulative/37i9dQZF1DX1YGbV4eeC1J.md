@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Anjella
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Platform
 
-119 songs - 6 hr 48 min
+120 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-08-04 |  |
 | [Jeraha](https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Jeraha](https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O) | 3:01 | 2022-05-26 |  |
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 | 2023-01-20 |
+| [Kama](https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Kama](https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui) | 3:08 | 2023-12-08 |  |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2022-05-26 |  |
 | [Lazizi \- Spotify Singles \- Cover](https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lazizi \- Spotify Singles \(Cover\)](https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce) | 4:40 | 2023-11-03 |  |
 | [Love Song](https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE) | 3:28 | 2023-07-27 |  |
@@ -102,7 +103,7 @@
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 | 2023-12-01 |
 | [Popo](https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Popo](https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx) | 3:15 | 2023-04-27 | 2023-10-20 |
 | [Respect](https://open.spotify.com/track/7jYwtiYbcSBaEeS72pSVGI) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls), [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Respect](https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I) | 2:33 | 2023-10-06 |  |
-| [Salome](https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Salome](https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds) | 3:57 | 2023-08-17 |  |
+| [Salome](https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Salome](https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds) | 3:57 | 2023-08-17 | 2023-12-08 |
 | [Show Off](https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Show Off](https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ) | 3:11 | 2023-08-31 |  |
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-06-23 | 2022-11-25 |
 | [Sina Bahati](https://open.spotify.com/track/6JiFowR4YEQk36S8UBaEwP) | [B Classic 006](https://open.spotify.com/artist/1VEHZ2KUoWyhxinp3ToobA) | [Yellow and Red Roses](https://open.spotify.com/album/2z5Nn68CKn1cSgo5IeYPJH) | 2:27 | 2023-06-15 | 2023-06-30 |

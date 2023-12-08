@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: hyeminsong\)
 
-1,040 songs - 2 day 9 hr 2 min
+1,042 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [HUMAN \(Prod\. Will Not Fear\)](https://open.spotify.com/track/5lGZG3bjtSWQzqtdwWMVTf) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [HUMAN, the single](https://open.spotify.com/album/2dH0UCptGnb1GSN91IU9AW) | 3:00 | 2022-03-10 | 2022-06-14 |
 | [human changes](https://open.spotify.com/track/5yPLjnYG4FqwmEHISAx32K) | [shinsammy sj](https://open.spotify.com/artist/0JkyXXK3HMBCnjUOJNG2rs) | [human changes](https://open.spotify.com/album/2GTBu2dPRDjMoOdEo8sZY4) | 2:30 | 2022-01-13 | 2022-04-21 |
 | [HUNT \(Feat\. PSICK UNIV\)](https://open.spotify.com/track/3UJAaIdK5h9Jm6Z4svPqO2) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PSICK UNIV](https://open.spotify.com/artist/3BkB72oWzyeNp8b16IIbbs) | [2 Kids On The Block \- Part.2](https://open.spotify.com/album/57xErJJ3FrLxw2o6j37F9B) | 4:16 | 2023-08-28 |  |
+| [Hwang Jini Freestyle](https://open.spotify.com/track/655fDPI0t52KQR1dKumUW2) | [CHIO CHICANO](https://open.spotify.com/artist/6Gm4n4X3L1ywYkfd1AEzTb) | [Hwang Jini Freestyle](https://open.spotify.com/album/0Z6mF3rb7phlga9ZLRFO4p) | 2:07 | 2023-12-07 |  |
 | [HYENA](https://open.spotify.com/track/4lNTkGuzgLs5Hkt00O4wVH) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [HYENA \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6SZKcWl8cFQufTpyCsUYLq) | 3:38 | 2022-03-29 | 2022-04-18 |
 | [HYPE ENERGY](https://open.spotify.com/track/6nqHjXK2kBFCVt5iHHZMqA) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 2:25 | 2023-05-24 | 2023-09-08 |
 | [Hyperstar](https://open.spotify.com/track/2eMgUo649JZjeZiGBECUtZ) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:18 | 2021-12-21 | 2022-07-07 |
@@ -996,6 +997,7 @@
 | [Whistle \(Prod\. GroovyRoom\) \(Feat\. Sik\-K, Mirani\)](https://open.spotify.com/track/44ltZBbeCjk9wIediYkHNy) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:44 | 2022-09-06 | 2023-01-03 |
 | [White BM](https://open.spotify.com/track/3LDMnVMx0Fw0ZiACLRrZPK) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [White BM](https://open.spotify.com/album/0GFtMSnGLQFWyByeinsZet) | 2:31 | 2023-01-20 | 2023-03-28 |
 | [White Night \(Feat\. Loco\)](https://open.spotify.com/track/6Z3YqTeAPKrptw70GpHJiO) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [White Night](https://open.spotify.com/album/3ShhhBVOyC5AZ54NJdijYq) | 3:51 | 2022-01-20 | 2022-07-08 |
+| [Who \(Feat\. ZENE THE ZILLA\)](https://open.spotify.com/track/28WREGsCyaGBffXwis3xN1) | [Rosy Barbie](https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [Who \(Feat\. ZENE THE ZILLA\)](https://open.spotify.com/album/5ojgo7pHJfdrU2xTQVbhtV) | 2:33 | 2023-12-07 |  |
 | [Who Gon' Win](https://open.spotify.com/track/3QhwYZM5bLurRmkbWRAWq8) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [FIFA ONLINE 4 : Who Gon' Win](https://open.spotify.com/album/6wl3cJIKm98VHdMHl5yUnX) | 2:27 | 2022-06-09 | 2022-07-15 |
 | [Why Can’t We \(Feat\. GIRIBOY\)](https://open.spotify.com/track/63iZBjTKFxHlmFK4DZXmk8) | [SOMDEF](https://open.spotify.com/artist/6jqPhhNZTfZbBVDYKWIQvT), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [MorningMare](https://open.spotify.com/album/3ftJVkxTGxLZMPmGpCDlLu) | 3:47 | 2021-12-21 | 2022-07-03 |
 | [WHY Y \(Feat\. Tiger JK\)](https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [WHY Y](https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU) | 3:06 | 2021-12-21 | 2022-06-27 |

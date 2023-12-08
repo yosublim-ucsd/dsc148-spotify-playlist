@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Τα καλύτερα από τις καλλιτέχνιδες που ξεχώρισαν το 2023\. Ακούστε γυναικείες φωνές στη διαπασών! Εξώφυλλο: Christina Salti
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,618 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,635 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Ti Ine N’ Agapas](https://open.spotify.com/track/0mfodINpMosvSZr8BH83se) | [Sofia Manousaki](https://open.spotify.com/artist/4HOhcDTOk0JfElBEZynmcO) | [Ti Ine N’ Agapas](https://open.spotify.com/album/3rcpS7U4vnzYpD2j9ZriPs) | 3:24 |
 | 50 | [Louloudaki](https://open.spotify.com/track/7kwJ6XW3XVEkJQ3bMqlN4X) | [Katerina Papoutsaki](https://open.spotify.com/artist/4Mla1mIYdNJkAKTbsltORQ) | [Louloudaki](https://open.spotify.com/album/1pLNCho2WX4KYNzUpb8U0q) | 3:35 |
 
-Snapshot ID: `MCxlOTE3MGJiZDFmZmVlNzg2YWFiYmIxNjBiZGU2NzE5MmJlYTRkOTVh`
+Snapshot ID: `MCwzNzBlMWFjMTNhYmMzZDg5ZWVjMWYzNmRlZDJlZWVmYTRiMmFiMjg2`

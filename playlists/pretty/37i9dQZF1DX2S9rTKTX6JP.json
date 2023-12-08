@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 665486,
+  "num_followers": 665568,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2U5N2UzMzk1YTljZDAzZWY3OTUyNTUwNmI3ZGZjY2M1NDE0NTI1",
+  "snapshot_id": "MCxmM2EwY2M3NTdhZjMyN2M4YTliYTBkOWIxM2JiY2Y2OGY3ZjI3ZGU1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 275968,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Live & Inspired",
+        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Live & Inspired",
-        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 214325,
       "name": "Give Me One Reason (The Plug)",
       "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Dirt Soundtrack",
-        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "WILLOW: Live At Electric Lady",
-        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 123733,
-      "name": "Bag Lady / Split - Live",
-      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Chain",
         "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 275146,
       "name": "The Chain",
       "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "WILLOW: Live At Electric Lady",
+        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "Bag Lady / Split - Live",
+      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 205341,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2339,18 +2323,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
       },
       "artists": [
         {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+      "duration_ms": 205341,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2371,6 +2355,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Mississippi Queen/Slow Hand",
         "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
@@ -2383,6 +2383,22 @@
       "duration_ms": 152973,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2407,22 +2423,6 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
-        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 169319,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/071hmHI51coELRK8hoH12U"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
+        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
     },
     {
       "added_at": "2023-11-17 05:00:00",

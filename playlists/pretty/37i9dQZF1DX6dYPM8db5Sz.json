@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=eILjr2IURVCM_iCCOf3d2w\">Beatenberg</a> ",
-  "num_followers": 10631,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF?si=4ib3OByhT-OwqU0RgZWT6g\">Anke Richards</a> ",
+  "num_followers": 10639,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTExYzIwZDQ4YjkzN2FlNDk3YTI5Y2VmZWZiNGRiOThhN2Y5NWQw",
+  "snapshot_id": "MCwxNmU4NGY5ZjAyNjgwNDU1MDdlMDg3YTBkZjA4MWM4NTE4Y2UxNGZh",
   "tracks": [
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "GUILTY",
+        "url": "https://open.spotify.com/album/4qxULZELSqlALwdnZDplfN"
+      },
+      "artists": [
+        {
+          "name": "Anke Richards",
+          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
+        }
+      ],
+      "duration_ms": 164259,
+      "name": "GUILTY",
+      "url": "https://open.spotify.com/track/0L9fyDr3u7SN9CAK0KuUd8"
+    },
     {
       "added_at": "2023-11-24 06:12:45",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 218132,
       "name": "When I Fall Asleep",
       "url": "https://open.spotify.com/track/1I344E7xPEUPHBBmKOC9Fr"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/760XWxqLpTjY8qjkdlRz13"
+      },
+      "artists": [
+        {
+          "name": "Gerry",
+          "url": "https://open.spotify.com/artist/3wbOanWJxWjAjMQtvrcbvA"
+        }
+      ],
+      "duration_ms": 307285,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/3tDKf6YB3RiwPbVQeR1Oyj"
     },
     {
       "added_at": "2023-11-17 04:48:46",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/6ZZ1JyFWpUv1szHI8HE4e9"
     },
     {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "JAZZ",
+        "url": "https://open.spotify.com/album/5TfPt5KjlqjqT7ITgPJ7qw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Baron",
+          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
+        }
+      ],
+      "duration_ms": 221081,
+      "name": "JAZZ",
+      "url": "https://open.spotify.com/track/7CotRZiziDHVi5RAA9JRoe"
+    },
+    {
       "added_at": "2023-11-30 22:00:00",
       "album": {
         "name": "Another Moon",
@@ -55,6 +103,22 @@
       "duration_ms": 228106,
       "name": "Another Moon",
       "url": "https://open.spotify.com/track/6hwQxKDVmYHnDxp1Qc8yOd"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "To Be Me",
+        "url": "https://open.spotify.com/album/3p85eD900HAdNqkRlcAX6i"
+      },
+      "artists": [
+        {
+          "name": "Leia",
+          "url": "https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI"
+        }
+      ],
+      "duration_ms": 74322,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/5RzEFPCI7PkiEi7Bhc1MKx"
     },
     {
       "added_at": "2023-11-24 06:12:45",
@@ -73,6 +137,22 @@
       "url": "https://open.spotify.com/track/6QknKLdxORTpHLH8l0UHeA"
     },
     {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Past Midnight (Acoustic)",
+        "url": "https://open.spotify.com/album/6ypJ22Tq0udhQseyoPPCIW"
+      },
+      "artists": [
+        {
+          "name": "Cece Vee",
+          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Past Midnight (Acoustic)",
+      "url": "https://open.spotify.com/track/73sgxhsap47d7BDZClpOuJ"
+    },
+    {
       "added_at": "2023-11-30 22:00:00",
       "album": {
         "name": "Legacy Of Love",
@@ -87,6 +167,22 @@
       "duration_ms": 274971,
       "name": "Wolves At War",
       "url": "https://open.spotify.com/track/0U2LVmr7cqEmKfdSC5yo1I"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "I Hate Christmas",
+        "url": "https://open.spotify.com/album/04rdbaRTPik0jEmot6hX6q"
+      },
+      "artists": [
+        {
+          "name": "CHXRL",
+          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "I Hate Christmas",
+      "url": "https://open.spotify.com/track/5K0dqIdylxIoIZ5PHLthpX"
     },
     {
       "added_at": "2023-11-17 04:48:46",
@@ -109,6 +205,22 @@
       "url": "https://open.spotify.com/track/1jUKqH0MwpaEPvPRznSdIs"
     },
     {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/5eQ8QuGhEUFgcbeQ0PWj5p"
+      },
+      "artists": [
+        {
+          "name": "Sasha Dawe",
+          "url": "https://open.spotify.com/artist/3tnBZhxy5Dd7tqb8njoxNL"
+        }
+      ],
+      "duration_ms": 170353,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/3CJ7iGSAkMTNxzaZDxAtKE"
+    },
+    {
       "added_at": "2023-11-30 22:00:00",
       "album": {
         "name": "buoy of the suns",
@@ -125,6 +237,22 @@
       "url": "https://open.spotify.com/track/3KF40oafjsqq2P2Fki8Lli"
     },
     {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Push Me Out To Sea",
+        "url": "https://open.spotify.com/album/4wIr5MesWumJ6YzqpKk1Sg"
+      },
+      "artists": [
+        {
+          "name": "Justin Prins",
+          "url": "https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C"
+        }
+      ],
+      "duration_ms": 176479,
+      "name": "Push Me Out To Sea",
+      "url": "https://open.spotify.com/track/2IX4LYxm1qs0gnQTub6o7Y"
+    },
+    {
       "added_at": "2023-11-24 06:12:45",
       "album": {
         "name": "Myself",
@@ -139,6 +267,22 @@
       "duration_ms": 181520,
       "name": "Myself",
       "url": "https://open.spotify.com/track/2Ihlx7ofrZaCVgt2oPVNzz"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "YOU DON'T KNOW WHAT IT MEANS TO BE SAD",
+        "url": "https://open.spotify.com/album/7K402ZZktGyZ9G5tS1U8rm"
+      },
+      "artists": [
+        {
+          "name": "Shanita.",
+          "url": "https://open.spotify.com/artist/34AnDMAar1ubl6M2u2NQ8O"
+        }
+      ],
+      "duration_ms": 149876,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/641USHusMDHP4M74u92Sei"
     },
     {
       "added_at": "2023-11-30 22:00:00",
@@ -1495,142 +1639,6 @@
       "duration_ms": 181000,
       "name": "I'm A Queen Bee",
       "url": "https://open.spotify.com/track/2LjjY0ncuemeQfYWtn8cd8"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Crescent",
-        "url": "https://open.spotify.com/album/2UqMiDdH0yhMelJ9pvvkCf"
-      },
-      "artists": [
-        {
-          "name": "Talicia",
-          "url": "https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Crescent",
-      "url": "https://open.spotify.com/track/419o5hR6s53S0ic5iP984q"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Self Talk",
-        "url": "https://open.spotify.com/album/0hk4okEhyO7aDLiTObO5I7"
-      },
-      "artists": [
-        {
-          "name": "Mike Baz",
-          "url": "https://open.spotify.com/artist/1wwKCIcDbJw2jUA2OvGhGQ"
-        }
-      ],
-      "duration_ms": 189189,
-      "name": "Self Talk",
-      "url": "https://open.spotify.com/track/0J4crYwpC6mNygzXWU6AY3"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "One Way Train",
-        "url": "https://open.spotify.com/album/6XglhrpK2eS7LCczljJJan"
-      },
-      "artists": [
-        {
-          "name": "Miles Sievwright",
-          "url": "https://open.spotify.com/artist/0JlHD2QNc6R8IzoCzdsp08"
-        }
-      ],
-      "duration_ms": 296160,
-      "name": "One Way Train",
-      "url": "https://open.spotify.com/track/0ZOKIIRIhUQhabsT8MsafH"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Wild City",
-        "url": "https://open.spotify.com/album/0mWT8QTDmKjVngRWBcuLNE"
-      },
-      "artists": [
-        {
-          "name": "Caroline Mackintosh",
-          "url": "https://open.spotify.com/artist/1fv1s2eLO0JBseE31bSTQb"
-        }
-      ],
-      "duration_ms": 297011,
-      "name": "Wild City",
-      "url": "https://open.spotify.com/track/5ALBOB9JGa6dpkT1IQtktz"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "The Bohemian Underground",
-        "url": "https://open.spotify.com/album/3NdCQegppalv14TnDyktt3"
-      },
-      "artists": [
-        {
-          "name": "Savio",
-          "url": "https://open.spotify.com/artist/6dtQQr6xQEbWPD7BgvBdqN"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        },
-        {
-          "name": "The Indications",
-          "url": "https://open.spotify.com/artist/4Bi2r5s8zPqvMLZgTNyDtO"
-        }
-      ],
-      "duration_ms": 186122,
-      "name": "Any Wonder",
-      "url": "https://open.spotify.com/track/4CD1fsXvcBFi8UpEG5NXZt"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "As the Universe so the Soul",
-        "url": "https://open.spotify.com/album/46w2rQ7A25zuEBwRsbpYp1"
-      },
-      "artists": [
-        {
-          "name": "Recall from the FUTURE",
-          "url": "https://open.spotify.com/artist/0O8ssLACysgZ8d9AQlLo1c"
-        }
-      ],
-      "duration_ms": 265718,
-      "name": "As the Universe so the Soul",
-      "url": "https://open.spotify.com/track/5etRGpBT0YASzCvCrpTKu7"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Still A RockStar",
-        "url": "https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2"
-      },
-      "artists": [
-        {
-          "name": "KVSE",
-          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
-        }
-      ],
-      "duration_ms": 146062,
-      "name": "Still A RockStar",
-      "url": "https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Quarter Life Crisis",
-        "url": "https://open.spotify.com/album/5bTGBed0FKungdHiISflgl"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 183524,
-      "name": "Quarter Life Crisis",
-      "url": "https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ"
     }
   ],
   "unique_name": "SAlt",

@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 265081,
+  "num_followers": 265298,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZjMzUwNzcxMzE2ZmQ2MjcwMWMzNzgyZWE5ZWIwOWYzNzYwZjZl",
+  "snapshot_id": "MCw3ZWJiNmU5Zjk4NTc1ZGYxNGM2YmVjMTBlMjlkZjcyZTIzZTQ3ZmVh",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "5150",
-        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Why Can't This Be Love",
-      "url": "https://open.spotify.com/track/0TaT50ZZxT4ytZxuqkE3A9"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Girls, Girls, Girls",
         "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 270533,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "5150",
+        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Why Can't This Be Love",
+      "url": "https://open.spotify.com/track/0TaT50ZZxT4ytZxuqkE3A9"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
-        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 289971,
-      "name": "Dr. Feelgood (2021- Remaster)",
-      "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 282746,
       "name": "Hot for Teacher - 2015 Remaster",
       "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 289971,
+      "name": "Dr. Feelgood (2021- Remaster)",
+      "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Girls, Girls, Girls (40th Anniversary; 2021 - Remaster)",
-        "url": "https://open.spotify.com/album/2nB8qIQjQyde3TIjCW2Hvx"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "Wild Side (2021- Remaster)",
-      "url": "https://open.spotify.com/track/3C7tm62iWcPuIbZRUp5AZU"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Holy Diver",
@@ -711,6 +695,22 @@
       "duration_ms": 239560,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
+        "name": "Girls, Girls, Girls (40th Anniversary; 2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2nB8qIQjQyde3TIjCW2Hvx"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "Wild Side (2021- Remaster)",
+      "url": "https://open.spotify.com/track/3C7tm62iWcPuIbZRUp5AZU"
     },
     {
       "added_at": "2021-03-16 22:32:51",

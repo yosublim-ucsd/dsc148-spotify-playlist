@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Artie 5ive, Rondodasosa",
+  "description": "Solo il meglio dello street rap italiano. Cover: Ghali",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 150526,
       "name": "Calma (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/1845mbE4B3oG3WtAMZCapo"
@@ -3869,6 +3869,28 @@
     },
     {
       "album": {
+        "name": "GURU DEL BUSINESS",
+        "url": "https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133480,
+      "name": "GURU DEL BUSINESS",
+      "url": "https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw"
+    },
+    {
+      "album": {
         "name": "Gu\u00e9rrilla",
         "url": "https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe"
       },
@@ -3968,6 +3990,28 @@
       "duration_ms": 137098,
       "name": "Hoe (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
+    },
+    {
+      "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156447,
+      "name": "HOODRICH",
+      "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
     },
     {
       "album": {
@@ -4916,7 +4960,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 133363,
       "name": "Madame",
       "url": "https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5"
@@ -6116,7 +6160,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 179220,
       "name": "Ovetto Frozen (feat. Papa V)",
       "url": "https://open.spotify.com/track/5fIFDZIWCb4xljatkdsIlY"
@@ -6704,6 +6748,28 @@
       "duration_ms": 150006,
       "name": "Progressi (feat. Vale pain)",
       "url": "https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662"
+    },
+    {
+      "album": {
+        "name": "Prova del 9",
+        "url": "https://open.spotify.com/album/1nVIAc5hUUWuNJ9DPt7WEK"
+      },
+      "artists": [
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129737,
+      "name": "Prova del 9",
+      "url": "https://open.spotify.com/track/5bGCx4HbNEC8KKiVifYX1s"
     },
     {
       "album": {

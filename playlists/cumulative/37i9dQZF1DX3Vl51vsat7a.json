@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 198970,
       "name": "Bedroom Exile",
       "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
@@ -1494,6 +1494,24 @@
       "duration_ms": 179831,
       "name": "Feet Up",
       "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
+    },
+    {
+      "album": {
+        "name": "Fight Club",
+        "url": "https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Fight Club",
+      "url": "https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM"
     },
     {
       "album": {

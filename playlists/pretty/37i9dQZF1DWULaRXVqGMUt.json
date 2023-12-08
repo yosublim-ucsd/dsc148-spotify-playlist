@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 44293,
+  "num_followers": 44316,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzczYjM3MWE0ZDc1YTUwMTQ1YWU3YjZmNDVlNTBiNGE1NDU5OWVh",
+  "snapshot_id": "MCxmMWQ0NjMwMzVmNzAxODFmMTQwMzk0MWIwMmVkZGU2YWQxNWI3NjVj",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Omniboogie 2012",
-        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
-      },
-      "artists": [
-        {
-          "name": "Rob Rio",
-          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
-        }
-      ],
-      "duration_ms": 115582,
-      "name": "Quarter Bass Boogie",
-      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Lost Paramount Tapes",
         "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 235280,
       "name": "Junco Partner #2",
       "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Omniboogie 2012",
+        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
+      },
+      "artists": [
+        {
+          "name": "Rob Rio",
+          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
+        }
+      ],
+      "duration_ms": 115582,
+      "name": "Quarter Bass Boogie",
+      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 238315,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/1PXqvaRKvq3RTrpWZLL3AH"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3YaLFRRsz94OYlAZ2BZiWz"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie Vol. II",
         "url": "https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 131099,
       "name": "Boyd's Boogie Woogie",
       "url": "https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/1PXqvaRKvq3RTrpWZLL3AH"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3YaLFRRsz94OYlAZ2BZiWz"
     },
     {
       "added_at": "2023-09-15 11:42:58",

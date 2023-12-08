@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "ACTIVE",
+        "url": "https://open.spotify.com/album/3DbKlFlBI0yjzjTOYJIgKR"
+      },
+      "artists": [
+        {
+          "name": "Zotto",
+          "url": "https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182621,
+      "name": "ACTIVE",
+      "url": "https://open.spotify.com/track/4P0NCS7lV5u4fOvIuXxVI0"
+    },
+    {
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -4095,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "Here Till The End",
+        "url": "https://open.spotify.com/album/5kEulres3EcRH4AqKR6xPB"
+      },
+      "artists": [
+        {
+          "name": "Khalei KBJ",
+          "url": "https://open.spotify.com/artist/01FYtbyVQ2M9HO0T0vGlua"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Here Till The End",
+      "url": "https://open.spotify.com/track/3YAUd8UZIrUK5jw5QiXOP8"
+    },
+    {
+      "album": {
         "name": "Hermione Granger",
         "url": "https://open.spotify.com/album/0RTB7r4L2kr8tKcIPXz1U1"
       },
@@ -6635,6 +6671,32 @@
     },
     {
       "album": {
+        "name": "NEW SEASON",
+        "url": "https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk"
+      },
+      "artists": [
+        {
+          "name": "psiv",
+          "url": "https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls"
+        },
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        },
+        {
+          "name": "C3VN",
+          "url": "https://open.spotify.com/artist/4XbarFQnYNsfcoCrydE0FX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "NEW SEASON",
+      "url": "https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ"
+    },
+    {
+      "album": {
         "name": "Next Move",
         "url": "https://open.spotify.com/album/0psr5kCPCMwyjvtdsURhmu"
       },
@@ -7782,6 +7844,24 @@
       "duration_ms": 247946,
       "name": "Real",
       "url": "https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO"
+    },
+    {
+      "album": {
+        "name": "Realign",
+        "url": "https://open.spotify.com/album/5XrqZDhOi4gx0L0mzeKwWi"
+      },
+      "artists": [
+        {
+          "name": "King Kerby",
+          "url": "https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "Realign",
+      "url": "https://open.spotify.com/track/0W7c81V1fyE3dXySeuKZIM"
     },
     {
       "album": {
@@ -10139,6 +10219,24 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5D0Uo5APiROUL9ukcALFXC"
+      },
+      "artists": [
+        {
+          "name": "J.E.N.N.Y",
+          "url": "https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163663,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM"
+    },
+    {
+      "album": {
         "name": "In Her Feelings",
         "url": "https://open.spotify.com/album/4TErBkczF1ruHux9wpPbgc"
       },
@@ -10348,6 +10446,24 @@
       "duration_ms": 86076,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6lymDMoeOs8GHutXElZTSn"
+    },
+    {
+      "album": {
+        "name": "Wanna Dance",
+        "url": "https://open.spotify.com/album/6FxgQ6RHEDhRhHNR899ddv"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191448,
+      "name": "Wanna Dance",
+      "url": "https://open.spotify.com/track/0aRnRPkcyjqw3IeKiZlSFG"
     },
     {
       "album": {

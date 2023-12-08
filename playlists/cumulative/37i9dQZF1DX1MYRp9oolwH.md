@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-180 songs - 11 hr 47 min
+181 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Humma Humma](https://open.spotify.com/track/4gkjonokhGz5iVg0Af5z1A) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Tirupathi Jaavana](https://open.spotify.com/artist/6kRspxY3CqfVt2tiKbd8HP) | [Ooru Peru Bhairavakona](https://open.spotify.com/album/6Sa8qfKnsIgzRch6aR7fga) | 3:09 | 2023-11-06 |  |
 | [Humsafar](https://open.spotify.com/track/4qW5RErWBLhzNF7cUYDpvu) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Samajavaragamana](https://open.spotify.com/album/7Ig3ccke0kEEMO7Gry9FvV) | 3:47 | 2023-06-19 | 2023-07-15 |
 | [I Love You](https://open.spotify.com/track/2lkLsQueH2Lhb60JuVxtPJ) | [Roshan Salur](https://open.spotify.com/artist/3mz0Zu1iKlvkuS9pBK8IAD), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Rehman](https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7) | [Raju Gari Ammayi Naidu Gari Abbayi](https://open.spotify.com/album/1uZ2kMEP9HM0YAsBMCVT97) | 4:48 | 2023-08-30 |  |
+| [Idhe Idhe \(From "Hi Nanna"\)](https://open.spotify.com/track/7681Ik3vkdgdwlNpABKtfa) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Idhe Idhe \(From "Hi Nanna"\)](https://open.spotify.com/album/6lBRZkJAa2tOGgPXeYuoUK) | 3:35 | 2023-12-07 |  |
 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 | 2022-07-05 | 2023-04-25 |
 | [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg) | 3:44 | 2023-07-15 |  |
 | [Jada](https://open.spotify.com/track/5C25HcH9Z4C86cC3YhHyBS) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ) | [Jada \(From "Chor Bazaar"\)](https://open.spotify.com/album/0SrSkkcfAv01mebfuDIuqu) | 3:32 | 2022-03-13 | 2023-02-21 |

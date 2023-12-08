@@ -1145,6 +1145,28 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "Dalilah",
+      "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
+    },
+    {
+      "album": {
         "name": "Damn (feat. 6lack)",
         "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
       },
@@ -1562,6 +1584,24 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
+    },
+    {
+      "album": {
+        "name": "Afro Love",
+        "url": "https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208041,
+      "name": "For Instance",
+      "url": "https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ"
     },
     {
       "album": {
@@ -3743,6 +3783,36 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/2mNVGKIBlzM8gDwj7BMR9c"
+      },
+      "artists": [
+        {
+          "name": "Octopizzo",
+          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
+        },
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        },
+        {
+          "name": "Suffix",
+          "url": "https://open.spotify.com/artist/7vnxU9gFgrVnQ9BBxHw60s"
+        },
+        {
+          "name": "Meek",
+          "url": "https://open.spotify.com/artist/5byyBDHX1qHmRwHldi9pRp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153361,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4zcfiDFbvmL9ci2QaFmUcL"
+    },
+    {
+      "album": {
         "name": "Ona",
         "url": "https://open.spotify.com/album/3aYpY9iK3wXfg6Jwoco9Uu"
       },
@@ -4260,7 +4330,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
@@ -4838,7 +4908,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 203026,
       "name": "Special (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4"
@@ -5568,7 +5638,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 203735,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7"

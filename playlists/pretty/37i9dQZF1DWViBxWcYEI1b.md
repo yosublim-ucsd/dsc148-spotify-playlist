@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Jamie Fine
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,037 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,079 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 |
 | 100 | [Matchbox](https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Matchbox](https://open.spotify.com/album/0qt1he5UlLF3ZBtwmcPzif) | 3:31 |
 
-Snapshot ID: `MCw3MWMxNjVmMDkwZThjMDFhNDRlYmUxZDgwNjVjMDU0MmMzODNmY2M4`
+Snapshot ID: `MCw2ZjY0MWFjZjg1NjU3MTU1NmZhNWYxZjRlNjE4OGM2ZWRmMjg2OWUw`

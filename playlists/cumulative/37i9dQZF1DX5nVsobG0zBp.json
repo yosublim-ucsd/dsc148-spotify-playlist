@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: ProfJam.  ",
+  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang.  ",
   "name": "Rap Tuga Hits",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 203812,
       "name": "2020 (feat. Slow J)",
       "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
@@ -194,6 +194,28 @@
       "duration_ms": 189000,
       "name": "3815",
       "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
+    },
+    {
+      "album": {
+        "name": "41",
+        "url": "https://open.spotify.com/album/0j5hj2LagmGhWKkbrHGm2X"
+      },
+      "artists": [
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203090,
+      "name": "41",
+      "url": "https://open.spotify.com/track/1kg0eQ4RkEzdQTICEDthS0"
     },
     {
       "album": {
@@ -656,7 +678,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 165555,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai"
@@ -838,6 +860,24 @@
       "duration_ms": 194782,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
+    },
+    {
+      "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/15axyA5TYLSMDDsUS64xIH"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/1FTuNyIwUs3srXdMIS1Lql"
     },
     {
       "album": {
@@ -1554,7 +1594,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 192143,
       "name": "Gosta",
       "url": "https://open.spotify.com/track/2X10SwvnLgiESulxlxczHz"
@@ -2722,7 +2762,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 185471,
       "name": "Pecado",
       "url": "https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V"

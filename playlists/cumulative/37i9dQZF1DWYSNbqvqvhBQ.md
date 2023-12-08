@@ -2,9 +2,9 @@
 
 ### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Lorrèn
+> Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: KANE
 
-323 songs - 18 hr 47 min
+325 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Back to the Start](https://open.spotify.com/track/4Zr5c2IKhbduZutqAumnWu) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Back to the Start](https://open.spotify.com/album/3uQ44aGvEopFp2QtvWzPXE) | 3:54 | 2023-04-06 | 2023-09-16 |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 | 2023-06-09 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-17 |  |
-| [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 | 2023-06-22 |  |
+| [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 | 2023-06-22 | 2023-12-08 |
 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-02-23 | 2023-04-29 |
 | [Best Damn Day](https://open.spotify.com/track/0MgfP0e6VkyQXSvjfNZ7bM) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Best Damn Day](https://open.spotify.com/album/2a1m48rQO8BWkeIApM0Iu5) | 3:12 | 2023-02-23 | 2023-03-03 |
 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-18 | 2023-10-06 |
@@ -170,6 +170,7 @@
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-23 | 2023-06-23 |
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-23 | 2023-04-14 |
 | [Let U Go](https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Let U Go](https://open.spotify.com/album/6IG6Mr0iTUnnYxnQx3PALc) | 2:55 | 2023-05-25 | 2023-09-22 |
+| [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 | 2023-12-08 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-02-23 | 2023-03-25 |
 | [Lights Light Up](https://open.spotify.com/track/3Yf7XyzrjGEmFRL6qVAKj8) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Lights Light Up](https://open.spotify.com/album/5uVxtDT8TaaZracxN1mGTk) | 4:12 | 2023-02-23 | 2023-04-14 |
 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 | 2023-06-22 |  |
@@ -182,6 +183,7 @@
 | [Love Song](https://open.spotify.com/track/0p2RzDuT4BbboYCsW8LT7C) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 2:40 | 2023-10-12 | 2023-11-18 |
 | [Love Song](https://open.spotify.com/track/5DJeMovbaAfGWcxkN2TVaM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 2:40 | 2023-11-13 |  |
 | [Love Song](https://open.spotify.com/track/6AoAAW6AJBdZ9Ket9nUhSG) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1ej1wD4Xw3T47czXKeFixm) | 2:40 | 2023-08-03 | 2023-10-15 |
+| [Lovestruck](https://open.spotify.com/track/12N4DCVM7AXrIsI33Dafpw) | [Benedict October](https://open.spotify.com/artist/6QSKRQL7F1OQPpJf6JRazP) | [Lovestruck](https://open.spotify.com/album/6J3Vgkharzbmw0GMZ1qwfD) | 4:16 | 2023-12-08 |  |
 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-02 | 2023-07-07 |
 | [Mansion on the Moon](https://open.spotify.com/track/3LNTiQaq5FRbXFQZfKTXK9) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Mansion on the Moon](https://open.spotify.com/album/2qHgrXAiDwa7pkjwXYNvHT) | 3:23 | 2023-04-28 | 2023-09-22 |
 | [Mathematics](https://open.spotify.com/track/7qyDTnHLhucrlpblFvhjuP) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:01 | 2023-09-21 |  |
@@ -277,7 +279,7 @@
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-06 | 2023-08-25 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-05-04 | 2023-10-13 |
 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-05-25 | 2023-09-30 |
-| [The Ballet Girl](https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:21 | 2023-09-29 |  |
+| [The Ballet Girl](https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:21 | 2023-09-29 | 2023-12-08 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2023-02-23 | 2023-03-31 |
 | [The Morning](https://open.spotify.com/track/7cd9c13HeAuG0MRknTz9CY) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW), [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [The Morning](https://open.spotify.com/album/5saTo5SNtfb27aptTSw8mZ) | 4:06 | 2023-06-29 | 2023-09-22 |
 | [The Pool](https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [The Pool](https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8) | 3:35 | 2023-07-31 |  |

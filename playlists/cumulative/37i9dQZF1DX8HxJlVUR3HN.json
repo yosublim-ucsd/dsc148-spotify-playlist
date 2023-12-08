@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Stuck In The Sound",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : SLIFT",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 151100,
       "name": "Born to Win",
       "url": "https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 298826,
       "name": "Eyes Don't Lie",
       "url": "https://open.spotify.com/track/2cbb8P8Hk9wcWCvI26GRAw"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 208000,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/4KGhV3es3fpxChfpBCgAJj"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 668573,
       "name": "Ilion",
       "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Nimh",
+        "url": "https://open.spotify.com/album/4ii1wCmU3rG3ypMJlMZlAW"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578600,
+      "name": "Nimh",
+      "url": "https://open.spotify.com/track/075VP0RTD4nsbMV7EhJD8O"
+    },
+    {
+      "album": {
         "name": "No Way Back",
         "url": "https://open.spotify.com/album/1wA9xFBmCIQ86l91WEQvMi"
       },
@@ -1345,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Full Speed Ahead",
+        "url": "https://open.spotify.com/album/18K13PNqBlXauJxLZpN65v"
+      },
+      "artists": [
+        {
+          "name": "Dirty Fonzy",
+          "url": "https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5VUCoNhF7GjWKLClT4ZEwa"
+    },
+    {
+      "album": {
         "name": "Sassy Sunday",
         "url": "https://open.spotify.com/album/7tVtlnZ2lVOter8U8gJmcy"
       },
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
@@ -1612,6 +1648,24 @@
       "duration_ms": 171720,
       "name": "The Bell Behind The Door - Radio Edit",
       "url": "https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL"
+    },
+    {
+      "album": {
+        "name": "Born to Win",
+        "url": "https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH"
+      },
+      "artists": [
+        {
+          "name": "La Rosa",
+          "url": "https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221898,
+      "name": "The Everything",
+      "url": "https://open.spotify.com/track/5BM00f2FpjolxdSsAbExBQ"
     },
     {
       "album": {
@@ -1796,6 +1850,24 @@
       "duration_ms": 160402,
       "name": "Velvet Moon",
       "url": "https://open.spotify.com/track/2dx6O9590PI61Wsthx1jp3"
+    },
+    {
+      "album": {
+        "name": "Vomit Candy",
+        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "Vomit Candy",
+      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
     },
     {
       "album": {

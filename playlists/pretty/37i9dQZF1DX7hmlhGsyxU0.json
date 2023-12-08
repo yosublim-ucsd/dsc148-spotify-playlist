@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 149242,
+  "num_followers": 149325,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTE3NzdmOWI0M2FhMjhlMmQ1Njg1YmYzMTI4ZmYxOGY5ZjExMmZk",
+  "snapshot_id": "MCw1MTI1YjkxYWJiNTFkMzMzZjRmNDU5NTc3Y2NhYmE0ZGI1Mjk1MWIw",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Ad Infinitum",
-        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
-      },
-      "artists": [
-        {
-          "name": "Vincent Isler",
-          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
-        }
-      ],
-      "duration_ms": 191482,
-      "name": "Ad Infinitum",
-      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Frankenthaler",
         "url": "https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 105145,
       "name": "Frankenthaler",
       "url": "https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Ad Infinitum",
+        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
+      },
+      "artists": [
+        {
+          "name": "Vincent Isler",
+          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
+        }
+      ],
+      "duration_ms": 191482,
+      "name": "Ad Infinitum",
+      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Made To Be Wanting",
-        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
-      },
-      "artists": [
-        {
-          "name": "Job Roggeveen",
-          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
-        }
-      ],
-      "duration_ms": 183764,
-      "name": "Made To Be Wanting",
-      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "World Sleep Day",
         "url": "https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt"
       },
@@ -175,18 +159,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "The Innkeeper and the Moon",
-        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
+        "name": "Made To Be Wanting",
+        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
       },
       "artists": [
         {
-          "name": "Austin Joy",
-          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
+          "name": "Job Roggeveen",
+          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
         }
       ],
-      "duration_ms": 317682,
-      "name": "The Innkeeper and the Moon",
-      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
+      "duration_ms": 183764,
+      "name": "Made To Be Wanting",
+      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -203,6 +187,22 @@
       "duration_ms": 228257,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "The Innkeeper and the Moon",
+        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
+      },
+      "artists": [
+        {
+          "name": "Austin Joy",
+          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
+        }
+      ],
+      "duration_ms": 317682,
+      "name": "The Innkeeper and the Moon",
+      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "len",
-        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
-      },
-      "artists": [
-        {
-          "name": "Flica",
-          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "len",
-      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 153000,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "len",
+        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
+      },
+      "artists": [
+        {
+          "name": "Flica",
+          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "len",
+      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -335,6 +335,22 @@
       "duration_ms": 277138,
       "name": "In a Field of Silence",
       "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Living Rooms",
-        "url": "https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe"
-      },
-      "artists": [
-        {
-          "name": "Joshua Naranjo",
-          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Living Rooms",
-      "url": "https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Sea Notes",
         "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Floating on Land",
         "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 207120,
       "name": "Floating on Land",
       "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Living Rooms",
+        "url": "https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe"
+      },
+      "artists": [
+        {
+          "name": "Joshua Naranjo",
+          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Living Rooms",
+      "url": "https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 202105,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
-      },
-      "artists": [
-        {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -647,22 +631,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Low Sun",
-        "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
       "artists": [
         {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Hristo Dunev",
-          "url": "https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF"
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
         }
       ],
-      "duration_ms": 196537,
-      "name": "Low Sun",
-      "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
+      "duration_ms": 157500,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -683,18 +663,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+        "name": "Low Sun",
+        "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
       "artists": [
         {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Hristo Dunev",
+          "url": "https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
+      "duration_ms": 196537,
+      "name": "Low Sun",
+      "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -711,6 +695,22 @@
       "duration_ms": 108690,
       "name": "S\u00e9r\u00e9nit\u00e9",
       "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud Valanejad",
-          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "K\u00e4rlek",
         "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 111687,
       "name": "Melody of Hope - 2021 Version",
       "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Valanejad",
+          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
+        }
+      ],
+      "duration_ms": 222909,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
-      },
-      "artists": [
-        {
-          "name": "Jack Hopkins",
-          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
-        }
-      ],
-      "duration_ms": 232105,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Words Left Unspoken",
         "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 165741,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+      },
+      "artists": [
+        {
+          "name": "Jack Hopkins",
+          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+        }
+      ],
+      "duration_ms": 232105,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "George Wilson",
+          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
+        }
+      ],
+      "duration_ms": 174894,
+      "name": "Biding Time",
+      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "First Time Of Heaven (Piano and Strings)",
         "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 136521,
       "name": "First Time Of Heaven - Piano and Strings",
       "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "George Wilson",
-          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
-        }
-      ],
-      "duration_ms": 174894,
-      "name": "Biding Time",
-      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
     },
     {
       "added_at": "2023-06-27 16:12:39",

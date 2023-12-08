@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+    },
+    {
+      "album": {
         "name": "Azul '22",
         "url": "https://open.spotify.com/album/0LMmqUmCmVQGYoxQGXHh8p"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
@@ -1424,6 +1442,24 @@
       "duration_ms": 151710,
       "name": "Child's Play",
       "url": "https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um"
+    },
+    {
+      "album": {
+        "name": "Gdzilla",
+        "url": "https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO"
+      },
+      "artists": [
+        {
+          "name": "Gdzilla",
+          "url": "https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ"
     },
     {
       "album": {
@@ -4729,6 +4765,28 @@
     },
     {
       "album": {
+        "name": "Outside / Obaa Sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "Outside (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"
+    },
+    {
+      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -4896,7 +4954,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 152109,
       "name": "Party No Dey Stop (with JayO & Byron Messia) - JayO & Byron Messia Remix",
       "url": "https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ"
@@ -6090,7 +6148,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 149481,
       "name": "Sweet Tea (Aduke)",
       "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"

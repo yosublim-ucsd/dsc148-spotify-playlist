@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-223 songs - 14 hr 16 min
+224 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Ha deg](https://open.spotify.com/track/1BZgQgcgoraUNzsXkaYnbx) | [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ) | [Ha deg](https://open.spotify.com/album/28pt6ynFuJFlN9unTKYDTV) | 4:00 | 2022-03-23 | 2022-04-18 |
 | [Halleluja](https://open.spotify.com/track/0uMp1v64V4pmZgMD4y7mcp) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Halleluja](https://open.spotify.com/album/7BfHnqv7aSZehUU8ZnVm0P) | 3:42 | 2022-01-20 | 2022-01-27 |
 | [Halvveis rundt jorden](https://open.spotify.com/track/1QQsomZh4unathI9P0c4Qn) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N), [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Halvveis rundt jorden](https://open.spotify.com/album/1u5oX5Strf7ELcaOaM833O) | 4:00 | 2022-01-06 | 2022-07-16 |
-| [Han er ikkje deg](https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Han er ikkje deg](https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw) | 2:34 | 2023-01-19 |  |
+| [Han er ikkje deg](https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Han er ikkje deg](https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw) | 2:34 | 2023-01-19 | 2023-12-08 |
 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 | 2021-12-16 |  |
 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 | 2022-07-14 |  |
 | [Heile Livet](https://open.spotify.com/track/1ceubw1ZmicRUFAymxh7Qi) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/3Xx43BvyIoKsXOcPNA1pIu) | 5:50 | 2022-02-10 | 2022-07-28 |
@@ -124,6 +124,7 @@
 | [Intet nytt under solen](https://open.spotify.com/track/3VuCSOTQFM8lhUtKRlZeCO) | [Åse Kleveland](https://open.spotify.com/artist/6MaSC3kVT4BUDanHNS4n8C) | [Norske Viseperler](https://open.spotify.com/album/6Wiegj2UloKYSHTK0BK5mM) | 1:39 | 2022-03-23 | 2022-04-20 |
 | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/track/21hBJzNz2iMICXTe5JMbO9) | [Fredrik Segelstad](https://open.spotify.com/artist/5wHJSWQfAgCCChEShG9eOt) | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/album/5hKEOv6DlNk1MhC84fHc36) | 3:46 | 2022-03-23 | 2022-04-11 |
 | [Jeg elsker dig](https://open.spotify.com/track/3kdqYQxKV7Oz0ct2R2CFzq) | [Lars Lillo\-Stenberg](https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Jeg elsker dig](https://open.spotify.com/album/6DW9rrtAMtC80akurSJxH4) | 4:19 | 2022-01-20 | 2022-05-10 |
+| [Jeg er en by](https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Jeg er en by](https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2) | 4:31 | 2023-11-30 |  |
 | [Jeg ror alene](https://open.spotify.com/track/2FvoA1uCruAwjV49IXQgQz) | [Hanne Krogh](https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY), [Jan Thomas](https://open.spotify.com/artist/3p1BYcJhXCb3WvHLriHIHS) | [Jeg ror alene](https://open.spotify.com/album/3lXlqG2xOV9fpREw4nfJsx) | 3:53 | 2021-12-16 | 2022-07-17 |
 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 | 2021-12-16 |  |
 | [Jordsjuk](https://open.spotify.com/track/2NdDmQVO610U8ktnWlwhcQ) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Vonde Visu](https://open.spotify.com/album/6KSVr0iwmaUr37NTBNaU5h) | 3:33 | 2022-03-23 | 2022-04-21 |

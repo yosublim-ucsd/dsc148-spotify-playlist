@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "12345",
+        "url": "https://open.spotify.com/album/6RqGKs0rcnoY9bos3Oi3fb"
+      },
+      "artists": [
+        {
+          "name": "GDucky",
+          "url": "https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215934,
+      "name": "12345",
+      "url": "https://open.spotify.com/track/0R2MTQjHh6lmOCiVgnHiFW"
+    },
+    {
+      "album": {
         "name": "3 1 0 7 (feat. Duongg & N\u00e2u)",
         "url": "https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 276000,
       "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
       "url": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9"
@@ -573,6 +591,28 @@
     },
     {
       "album": {
+        "name": "lil'O",
+        "url": "https://open.spotify.com/album/2BZr8To1UoZMvADNCV2mAO"
+      },
+      "artists": [
+        {
+          "name": "Osad",
+          "url": "https://open.spotify.com/artist/6sJBvMCAi9NuNCxI9RDYDW"
+        },
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "EM CH\u1ec8 IM L\u1eb6NG",
+      "url": "https://open.spotify.com/track/4W5QAfHlwNHAxosC2sNjWq"
+    },
+    {
+      "album": {
         "name": "Em iu",
         "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
@@ -618,7 +658,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 176150,
       "name": "Em Th\u00edch",
       "url": "https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv"
@@ -809,6 +849,24 @@
     },
     {
       "album": {
+        "name": "IDOOMYTHANG",
+        "url": "https://open.spotify.com/album/3H7Z2Z9rhP6DLEdk8QrOIl"
+      },
+      "artists": [
+        {
+          "name": "THANHDRAW",
+          "url": "https://open.spotify.com/artist/3IX4Pb7ZXycI23PamK8ng8"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134872,
+      "name": "IDOOMYTHANG",
+      "url": "https://open.spotify.com/track/7kveMI8XwHJTpdQa4oF7yL"
+    },
+    {
+      "album": {
         "name": "Khu Tao S\u1ed1ng",
         "url": "https://open.spotify.com/album/215gdadHh4OlcH03JBF7GB"
       },
@@ -824,7 +882,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 244947,
       "name": "Khu Tao S\u1ed1ng",
       "url": "https://open.spotify.com/track/14khFA3ijq29og5P6GJqDP"
@@ -938,7 +996,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 258668,
       "name": "Li\u1ec7u Gi\u1edd",
       "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
@@ -1214,7 +1272,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
@@ -1407,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "SS SWAG",
+        "url": "https://open.spotify.com/album/0mQiOnrmJqyuwqbt1wx3U1"
+      },
+      "artists": [
+        {
+          "name": "SPACESPEAKERS",
+          "url": "https://open.spotify.com/artist/23jUmiOyAG9Dzq6Ayp9LUG"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198948,
+      "name": "SS SWAG",
+      "url": "https://open.spotify.com/track/3JzzDhLizpLrBmNxglvmpd"
+    },
+    {
+      "album": {
         "name": "Rapitalove",
         "url": "https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E"
       },
@@ -1554,7 +1630,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 170500,
       "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
       "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
@@ -1703,6 +1779,24 @@
     },
     {
       "album": {
+        "name": "Voicemail 2: phone calls.",
+        "url": "https://open.spotify.com/album/0qucLTCfkUxDUpyYCgPrGT"
+      },
+      "artists": [
+        {
+          "name": "Han Kim",
+          "url": "https://open.spotify.com/artist/3XUFhqBCW0ak4jrLosr3Wk"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188708,
+      "name": "Voicemail 2: phone calls.",
+      "url": "https://open.spotify.com/track/10SYupbJ8acoR1EnCyRn5b"
+    },
+    {
+      "album": {
         "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
         "url": "https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8"
       },
@@ -1770,7 +1864,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 240000,
       "name": "Y\u00eau 5",
       "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"

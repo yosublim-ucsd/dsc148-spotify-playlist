@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-216 songs - 14 hr 2 min
+217 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [My Day](https://open.spotify.com/track/5KkYwRKIcbDcr0zK0wqK3V) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/5zxSL3pJEKjFuXyHhvmyCF) | 3:41 | 2022-05-11 | 2022-06-03 |
 | [My Dear Love](https://open.spotify.com/track/78dpI1Hsb2zTLWfjskenzm) | [SUZY](https://open.spotify.com/artist/07YU7cDtlWL2qYQ85ZK83K) | [START\-UP \(Original Television Soundtrack\) Pt\. 14](https://open.spotify.com/album/1E90i6Zilg9VuPRnKFcySS) | 4:01 | 2022-05-11 | 2022-07-20 |
 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 | 2022-06-24 | 2023-11-04 |
+| [My Destiny](https://open.spotify.com/track/5lr5WSWaE3Ne0udmLwuSgd) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star Part 1](https://open.spotify.com/album/2azn7Nk5MHMCob6W46D6Xz) | 3:51 | 2023-08-16 |  |
 | [My Home](https://open.spotify.com/track/4gSRzuD3Bs467QdC3fHLcC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [lost \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/317wExRLsZhYrReIr0mRLM) | 3:57 | 2022-06-09 | 2022-06-20 |
 | [My Love](https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dr\. Romantic 2 OST Part.1](https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b) | 3:13 | 2022-05-11 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/5pV6zYBAEZe30fVmuSHaQv) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [START\-UP \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/473vyWg2nhJAefIo01KuEc) | 3:21 | 2022-06-24 | 2022-07-20 |
@@ -200,7 +201,7 @@
 | [Wish](https://open.spotify.com/track/04qqfjPWDqrg9q3HTToCfZ) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 | 2022-10-06 | 2023-03-14 |
 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 | 2022-05-11 |  |
 | [With My Tears](https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0pYCXVuGMKDRCrN05doHXA) | 4:13 | 2022-05-11 | 2022-07-29 |
-| [With My Tears](https://open.spotify.com/track/4Rkp8OAEGdNqysT6LRpz8t) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em) | 4:13 | 2023-03-13 |  |
+| [With My Tears](https://open.spotify.com/track/4Rkp8OAEGdNqysT6LRpz8t) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em) | 4:13 | 2023-03-13 | 2023-12-08 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-10-06 |  |
 | [With you](https://open.spotify.com/track/2fpcCopXJgrHa2xG1yY2jp) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [With You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7hQuNjWTlGRTdxu7TwIM9x) | 4:05 | 2022-06-24 | 2022-07-17 |
 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 | 2022-06-24 |  |

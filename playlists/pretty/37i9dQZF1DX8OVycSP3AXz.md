@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,264 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,292 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 17 | [Et moi, et moi, et moi](https://open.spotify.com/track/4XSRqScl0RWxFjOQID8QCW) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Et moi, et moi, et moi](https://open.spotify.com/album/3UPrsSEE9KIjy0Hln8Swkn) | 2:55 |
 | 18 | [Siffler sur la colline](https://open.spotify.com/track/3gvUS6JaXzbXNihHQlRWBW) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
 | 19 | [Mes mains sur tes hanches](https://open.spotify.com/track/4chX3KwIY3BJBqsnXpgDSy) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Singles + Faces B 1964\-1966](https://open.spotify.com/album/5hMPMHP3ks0km3jDp5xGnF) | 2:57 |
-| 20 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 |
+| 20 | [Aline](https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA) | 2:49 |
 | 21 | [La plus belle pour aller danser](https://open.spotify.com/track/7gmYsqbN1hrrSOsxNlvq4W) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan](https://open.spotify.com/album/06FWWMSdXEmoQaBrTihM0B) | 2:36 |
 | 22 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 |
 | 23 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MCw2YjBmMmVmZTM3ZjQ4ZGY5MGM3OTUzNWE1OGMwZGVhNDA3MTZkM2Jj`
+Snapshot ID: `MCw3YjA0MWIxYjE0M2I4NDNiOTkxMTQ5MzZjNjg0NmI5ZTg2OTY2N2Y4`

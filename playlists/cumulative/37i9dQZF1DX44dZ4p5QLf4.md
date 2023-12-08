@@ -2,9 +2,9 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and artists in the soul space\. Cover: vAn
+> A blend of new songs and artists in the soul space\. Cover: Full Crate
 
-367 songs - 21 hr 54 min
+371 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,10 +76,12 @@
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-07-28 | 2022-12-03 |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-02-10 | 2022-07-29 |
 | [Cigars \(feat\. Alfie Neale & Jarki Monno\)](https://open.spotify.com/track/0RVJGI35nVNlRqJMlIYOe4) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Alfie Neale](https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG), [Jarki Monno](https://open.spotify.com/artist/7Md7xD1AXk3BJ5Jl21H7fg) | [Cigars](https://open.spotify.com/album/5p9gflqMka80oxLg9PsKmX) | 3:17 | 2021-12-16 | 2022-01-26 |
+| [Cold](https://open.spotify.com/track/4SP3ua2KL5zEH3tfTU9d53) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Cold](https://open.spotify.com/album/5aLWbznO7xmRsh14yp0nW7) | 4:43 | 2023-12-08 |  |
 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 | 2021-12-16 | 2022-06-17 |
 | [Company](https://open.spotify.com/track/3SlKn22we9mXaoRY6t78i6) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Company](https://open.spotify.com/album/07yfD6iFop3fOAH5zV5mje) | 2:45 | 2021-12-16 | 2022-01-14 |
 | [Coolest Things \(feat\. Ari Lennox\)](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 | 2022-04-08 | 2023-04-07 |
 | [Copy & Paste Interlude](https://open.spotify.com/track/4Pq1hdbm1GrjBeh46BqFjO) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Copy & Paste Interlude](https://open.spotify.com/album/40WuuDpNMKy5GB2CUQO2Xx) | 2:49 | 2021-12-16 | 2022-04-29 |
+| [Crazy \(DuDuDu\)](https://open.spotify.com/track/3vPku6d0AIu3U2b4HOcKjd) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [KAEDI](https://open.spotify.com/artist/0HNQ9Df6RUMiQHIq7KxLf1) | [Crazy \(DuDuDu\)](https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn) | 3:24 | 2023-12-08 |  |
 | [Cycle](https://open.spotify.com/track/56Uah45lBpN5CcUtksDv8o) | [Strama](https://open.spotify.com/artist/09PM8Vw3f7uJySKt1KZLk0) | [Cycle](https://open.spotify.com/album/35bEP7iJX3JJhRdG5jWuvT) | 3:09 | 2022-04-08 | 2022-07-07 |
 | [Damn](https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Damn](https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb) | 3:16 | 2023-08-15 |  |
 | [Dangerous Thing](https://open.spotify.com/track/2GoLjbOvkBlKxLXLiA4Vst) | [Jay Warren](https://open.spotify.com/artist/692sqZdmqkQjdCk87QECpd) | [Dangerous Thing](https://open.spotify.com/album/1OajkNiDeH1jVZV6lOYwOI) | 3:34 | 2021-12-16 | 2022-01-26 |
@@ -115,6 +117,7 @@
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2022-10-28 |  |
 | [Get It Right](https://open.spotify.com/track/1zB3PXJUnLtaKwh8BFgrPZ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Get It Right](https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8) | 3:08 | 2022-09-22 | 2022-10-15 |
 | [Get It Right](https://open.spotify.com/track/3159fLoJc7neVqMUchcCin) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Get It Right](https://open.spotify.com/album/0UCzllaY9orr3hC1iZsim3) | 4:00 | 2021-12-16 | 2022-02-11 |
+| [Glad I Found You](https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 2:15 | 2023-12-08 |  |
 | [God Body \(feat\. Smino\)](https://open.spotify.com/track/5mIqJuUqMfGP1How6GBcYq) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Candydrip](https://open.spotify.com/album/1Hz5569Rl5Ui6OEtsW7cdi) | 3:21 | 2022-03-10 | 2023-03-03 |
 | [Golden Ticket \(feat\. Masego & Common\)](https://open.spotify.com/track/7lv2uSWG8eJGiHssAlMQ12) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Golden Ticket](https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6) | 3:38 | 2021-12-16 | 2022-01-26 |
 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 | 2021-12-16 | 2022-01-14 |
@@ -136,6 +139,7 @@
 | [here with me](https://open.spotify.com/track/2PkdcWgKmHUrnNMtLqfK5T) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT), [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [here with me](https://open.spotify.com/album/6P0UNRtyeamCXhEraz2Tfa) | 3:41 | 2021-12-16 | 2022-04-29 |
 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 | 2023-04-26 | 2023-07-08 |
 | [High & Dry](https://open.spotify.com/track/3euV86x39viux87PuKhgMq) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [High & Dry](https://open.spotify.com/album/4NZ8TvWas89czIE5aGxUGw) | 2:38 | 2021-12-16 | 2022-01-26 |
+| [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-12-08 |  |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2021-12-16 | 2023-02-18 |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2021-12-16 | 2022-07-07 |
 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 | 2023-03-02 | 2023-10-07 |

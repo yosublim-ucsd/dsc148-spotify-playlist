@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 359447,
+  "num_followers": 359550,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGFmY2M0NzUzYjJhNzg2ZjA4MTMwNTliYTg3MjFkMTE0YzdkMTY5",
+  "snapshot_id": "MCxmY2FiYzMyZTM0MjdlMzNmNGY0ZDU3OGY3YTI5YWQ4MmYzNjQ5NWVk",
   "tracks": [
     {
       "added_at": "2023-11-24 11:28:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 226118,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 160736,
       "name": "17",
       "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2023-11-24 11:28:11",

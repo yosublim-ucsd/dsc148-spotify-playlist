@@ -4,7 +4,7 @@
 
 > Des chansons qui vous feront rire, vous et vos enfants
 
-30 songs - 1 hr 28 min
+31 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Cho ka ka o](https://open.spotify.com/track/1LBV869yOrnIB1IGMOXptG) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Les indispensables](https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm) | 3:02 | 2021-05-04 | 2023-11-03 |
 | [Cho ka ka o](https://open.spotify.com/track/1RFaaBBHa67DqN4z6JvyJW) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Inoubliable](https://open.spotify.com/album/2fU7jjJBncwQhSIwlnYLSm) | 3:02 | 2021-05-04 | 2023-11-05 |
 | [Dragostea Din Tei](https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt) | 3:33 | 2021-05-04 | 2023-10-17 |
-| [Dragostea Din Tei \- Original Italian Version](https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [Ma Ya Hi \(Dragostea Din Tei\) \[English Mixes\]](https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF) | 3:33 | 2021-05-04 |  |
+| [Dragostea Din Tei \- Original Italian Version](https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [Ma Ya Hi \(Dragostea Din Tei\) \[English Mixes\]](https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF) | 3:33 | 2021-05-04 | 2023-12-08 |
+| [Dragostea Din Tei \- Original Romanian Version](https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu) | 3:34 | 2021-05-04 |  |
 | [Dur dur d'être bébé](https://open.spotify.com/track/2vUXD6u34ZsSVsFQTjoqIB) | [Bébé Lilly](https://open.spotify.com/artist/6OsDjsYhaz0dF2Jy3adLl7) | [Dur Dur D'Etre Bébé](https://open.spotify.com/album/2EbNlZUy0cE2EXPZWCOa2M) | 3:16 | 2021-05-04 |  |
 | [Fous ta cagoule \- Radio Edit](https://open.spotify.com/track/5IXh97bXm3Xf04REp19HqK) | [Fatal Bazooka](https://open.spotify.com/artist/5oDxGfxYaJkfp6xZlXQnr8) | [Fous ta cagoule \(Radio Edit\)](https://open.spotify.com/album/0qOrYJgX0rvjShwJRxTD5E) | 3:32 | 2021-05-04 |  |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 | 2021-05-04 |  |

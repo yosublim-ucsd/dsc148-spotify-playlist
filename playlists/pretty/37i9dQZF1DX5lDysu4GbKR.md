@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,258 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,300 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 89 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wrbQzavSwdzRgRCxLBewg) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/0OfmMxMJ99DQL61l89OcUE) | 4:25 |
 | 90 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 
-Snapshot ID: `MCxlMjJhODFiY2I2Yjc5MWRlY2RjNWYxODFkYzFlYjJmZGFhMjQ0Y2Yx`
+Snapshot ID: `MCxmYjA3YmYyMjE5MGZmNjNjMjMwMzg0NTQ3YzgxNDFmY2MyYjk4OTc2`

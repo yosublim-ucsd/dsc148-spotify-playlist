@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una speciale selezione jazz natalizia! 🎄 A cura di <a href="spotify:artist:2qW0CNnmvdEQwiabdareHi">Paolo Fresu</a>! 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,068 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,153 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 34 | [Swingin' Them Jingle Bells](https://open.spotify.com/track/4eJWs2ovx9JVp2UmBK9aiC) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa) | [Swingin' Christmas Party](https://open.spotify.com/album/0DIgfN5Vmz6nJCSLYvwz2n) | 2:56 |
 | 35 | [La letterina di Natale](https://open.spotify.com/track/0gXi92X8G9Bw4RDETbSXLQ) | [Quartetto Cetra](https://open.spotify.com/artist/25ZBunkfzzZnPqVFHRnB74) | [Tutto Cetra "Un bacio a mezzanotte"](https://open.spotify.com/album/2NuD8aJKSh01sJvHUYECB9) | 3:20 |
 | 36 | [Gran Torino](https://open.spotify.com/track/4R2h6ve4nlBWvTn53lWdXP) | [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB) | [Specs people](https://open.spotify.com/album/7qJcMux6Z2Yj0fVwZaFaro) | 4:43 |
-| 37 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4t5m1wGdsAxck39Q0R84AQ) | [Luca Jurman](https://open.spotify.com/artist/4JXvGMYRNLql4TdYYYEt7s), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [Jazz for Christmas \(feat\. Antonio Faraò\)](https://open.spotify.com/album/3pqxWoE4p8pzPgtsqtM9Gc) | 4:48 |
+| 37 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0R4MUBCZFRNKlzWc8xFssr) | [Luca Jurman](https://open.spotify.com/artist/4JXvGMYRNLql4TdYYYEt7s), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [The Christmas Jazz Collection \(The Most Beautiful Songs for a Groovy Christmas\)](https://open.spotify.com/album/5YyLenaopJP0JDUscyyFxF) | 4:48 |
 | 38 | [Alabama Concerto: Blues For Christmas / Rufus Playboy / Grandma's Coffin / Blues For Christmas \(Return\) \- Fourth Movement](https://open.spotify.com/track/5eJiWGyyWo2GaEXp970kvG) | [John Benson Brooks](https://open.spotify.com/artist/0stLI6JkL2UxIuFLTPGJhp), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [John Benson Brooks' Alabama Concerto](https://open.spotify.com/album/6OAlwhUIL9TWNODmmzLXE7) | 7:31 |
 | 39 | [Lu rusciu de lu mare \- Vocal](https://open.spotify.com/track/5waZ6CiNIvE8HFn5KmDEub) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [Locomotive](https://open.spotify.com/artist/7lFPzgsQwdyUrPIaU0oZzo), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Noè](https://open.spotify.com/album/69onXIGBTdfJ7AADZExuXk) | 4:36 |
 | 40 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3wRJXSbKVfPs4e0t38ZHhu) | [Dexter Gordon Quartet](https://open.spotify.com/artist/4jDwy0eEfWolwxMAeWeaik) | [Jingle Bell Jazz](https://open.spotify.com/album/2Q7VM6nxHj7wxW3TlG4OD2) | 9:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 49 | [Didjo](https://open.spotify.com/track/5BbVK4xnh10S4p0VuKqFdO) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Indwe](https://open.spotify.com/artist/39BgxrsJgtMwRHKjwrTdUr) | [Food](https://open.spotify.com/album/4yoRYk48b4Xg3nx4UBhO9u) | 7:53 |
 | 50 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/49zUdbESCRSGaknOJWqnTH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing The Piano](https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F) | 4:42 |
 
-Snapshot ID: `MCxjNjM5MGZjNTk4NjhhN2JkYWVjOWQ3NmI1MWMyODQxYzAzOGU3YmFj`
+Snapshot ID: `MCwwMzEwMmM2MWZhZjliMzg0MGExOWE5ZTc3NjMzNjI5YWZjNWUzNDc0`

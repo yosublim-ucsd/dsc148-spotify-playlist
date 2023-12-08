@@ -1,13 +1,33 @@
 {
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ\">Anendlessocean</a> ",
-  "num_followers": 3780,
+  "num_followers": 3835,
   "original_name": "Praise and Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ2NTNjM2QwNTAxOTAxODdkNGFhODg0NjljYjExOWVlNWU5YWE2",
+  "snapshot_id": "MCw2ZTYwYjcwMjMxNDUyZmNlZDJhNThkNmMyOWY2NWMzM2RjMTJjOWNh",
   "tracks": [
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/52o4SrgD78FtKdtrtCp747"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 208031,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg"
+    },
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "No Trouble",
-        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "No Trouble",
-      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -65,6 +69,22 @@
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
     },
     {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "I'm Grateful (Live)",
+        "url": "https://open.spotify.com/album/4jaJrW5388WekmIDZgQt8z"
+      },
+      "artists": [
+        {
+          "name": "Evans Ogboi",
+          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
+        }
+      ],
+      "duration_ms": 432258,
+      "name": "I'm Grateful (Live)",
+      "url": "https://open.spotify.com/track/2PZ0PgLrppcVON5sGS0VRE"
+    },
+    {
       "added_at": "2023-10-20 00:01:00",
       "album": {
         "name": "To Yahweh's Delight",
@@ -81,52 +101,28 @@
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Your Baby (Paruto Sessions)",
-        "url": "https://open.spotify.com/album/3QBGaUringEPS3uOK6uqwI"
+        "name": "Imithandazo",
+        "url": "https://open.spotify.com/album/0GyboSYthk9iUv8QfsZrcj"
       },
       "artists": [
         {
-          "name": "Echow Clay",
-          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
-        }
-      ],
-      "duration_ms": 214159,
-      "name": "Your Baby (Paruto Sessions)",
-      "url": "https://open.spotify.com/track/4WDoX23maQicnPqtkXfDmo"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z"
-      },
-      "artists": [
+          "name": "Mjakes The Producer",
+          "url": "https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ"
+        },
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172027,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "I Will Pray",
-        "url": "https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn"
-      },
-      "artists": [
+          "name": "Bongani Nchang",
+          "url": "https://open.spotify.com/artist/2uBMNWP51MKd2o6a3PtTP0"
+        },
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Khobzn Kiavalla",
+          "url": "https://open.spotify.com/artist/5B0lL1PSlcHTwrzxwyYnMs"
         }
       ],
-      "duration_ms": 170631,
-      "name": "I Will Pray",
-      "url": "https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0"
+      "duration_ms": 343052,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6JY4EnkudR3Si4OJQcHGmz"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -145,28 +141,56 @@
       "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/7GRdLNNetjhHaz2dDdLfpz"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z"
       },
       "artists": [
         {
-          "name": "Mbonelyn",
-          "url": "https://open.spotify.com/artist/3romvxmdAxsvhY5vhf5NWE"
-        },
-        {
-          "name": "Awesome's Music Group",
-          "url": "https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO"
-        },
-        {
-          "name": "Paul-Emmanuel",
-          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/4F9M0pKsSgkJIpyWRxvF9Y"
+      "duration_ms": 172027,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
+    },
+    {
+      "added_at": "2023-12-08 00:09:00",
+      "album": {
+        "name": "Able",
+        "url": "https://open.spotify.com/album/1fDflEHY7Tc8MSJClipYmQ"
+      },
+      "artists": [
+        {
+          "name": "JhonforChrist",
+          "url": "https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR"
+        },
+        {
+          "name": "HartlhaD",
+          "url": "https://open.spotify.com/artist/6Yk7U5v34wKHuGQFdT0aAy"
+        }
+      ],
+      "duration_ms": 165765,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/6ke0delRcd6LPpRb1yxY3G"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -187,18 +211,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
+        "name": "I Will Pray",
+        "url": "https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn"
       },
       "artists": [
         {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         }
       ],
-      "duration_ms": 370131,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
+      "duration_ms": 170631,
+      "name": "I Will Pray",
+      "url": "https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -227,38 +251,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Faith is Rising",
-        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
         }
       ],
-      "duration_ms": 279066,
-      "name": "You are Yahweh",
-      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7"
-      },
-      "artists": [
-        {
-          "name": "Hills Music",
-          "url": "https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE"
-        },
-        {
-          "name": "Kinsu",
-          "url": "https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh"
-        }
-      ],
-      "duration_ms": 146412,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b"
+      "duration_ms": 370131,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -283,6 +287,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Faith is Rising",
+        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "You are Yahweh",
+      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -297,88 +317,76 @@
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
-      "added_at": "2023-11-03 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Doh Doh Doh",
-        "url": "https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN"
+        "name": "Your Baby (Paruto Sessions)",
+        "url": "https://open.spotify.com/album/3QBGaUringEPS3uOK6uqwI"
       },
       "artists": [
         {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Ife",
-          "url": "https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK"
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
         }
       ],
-      "duration_ms": 153780,
-      "name": "Doh Doh Doh",
-      "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
+      "duration_ms": 214159,
+      "name": "Your Baby (Paruto Sessions)",
+      "url": "https://open.spotify.com/track/4WDoX23maQicnPqtkXfDmo"
     },
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "We Behold(Qavah Anthem)",
-        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
       },
       "artists": [
         {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         }
       ],
-      "duration_ms": 773605,
-      "name": "We Behold(Qavah Anthem)",
-      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
+      "duration_ms": 170019,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
     },
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "We Raise A Sound",
-        "url": "https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU"
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
       },
       "artists": [
         {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        },
-        {
-          "name": "121SELAH",
-          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 432185,
-      "name": "We Raise A Sound",
-      "url": "https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA"
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
-      "added_at": "2023-10-20 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "THIS YEAR (Blessings) [Remix]",
-        "url": "https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U"
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/7GRdLNNetjhHaz2dDdLfpz"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Mbonelyn",
+          "url": "https://open.spotify.com/artist/3romvxmdAxsvhY5vhf5NWE"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Awesome's Music Group",
+          "url": "https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO"
         },
         {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
         }
       ],
-      "duration_ms": 160239,
-      "name": "THIS YEAR (Blessings) - Remix",
-      "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
+      "duration_ms": 166000,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/4F9M0pKsSgkJIpyWRxvF9Y"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -417,6 +425,126 @@
       "url": "https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2"
     },
     {
+      "added_at": "2023-11-03 00:01:00",
+      "album": {
+        "name": "Doh Doh Doh",
+        "url": "https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Ife",
+          "url": "https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK"
+        }
+      ],
+      "duration_ms": 153780,
+      "name": "Doh Doh Doh",
+      "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "We Raise A Sound",
+        "url": "https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU"
+      },
+      "artists": [
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "duration_ms": 432185,
+      "name": "We Raise A Sound",
+      "url": "https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 299176,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "THIS YEAR (Blessings) [Remix]",
+        "url": "https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "THIS YEAR (Blessings) - Remix",
+      "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7"
+      },
+      "artists": [
+        {
+          "name": "Hills Music",
+          "url": "https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE"
+        },
+        {
+          "name": "Kinsu",
+          "url": "https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh"
+        }
+      ],
+      "duration_ms": 146412,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "We Behold(Qavah Anthem)",
+        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
+      },
+      "artists": [
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 773605,
+      "name": "We Behold(Qavah Anthem)",
+      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
+    },
+    {
       "added_at": "2023-11-17 00:01:00",
       "album": {
         "name": "Jesus",
@@ -447,38 +575,6 @@
       "duration_ms": 147121,
       "name": "A Tale of Two Hearts",
       "url": "https://open.spotify.com/track/7yoW4dkqd6414fRVeCY9bN"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -575,22 +671,6 @@
       "duration_ms": 370792,
       "name": "Owo Oluwa",
       "url": "https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 299176,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
     },
     {
       "added_at": "2023-11-03 00:01:00",

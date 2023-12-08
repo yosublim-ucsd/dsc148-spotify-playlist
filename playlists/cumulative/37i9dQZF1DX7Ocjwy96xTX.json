@@ -1315,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Face of Fear",
+        "url": "https://open.spotify.com/album/4ICpqDJoGNdpbHc76yBVDs"
+      },
+      "artists": [
+        {
+          "name": "Taraneh",
+          "url": "https://open.spotify.com/artist/7IoTiUNmwPOdUCPlNtezaO"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244459,
+      "name": "Face of Fear",
+      "url": "https://open.spotify.com/track/5TUnjQIjR79TZTjzEAFviu"
+    },
+    {
+      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },

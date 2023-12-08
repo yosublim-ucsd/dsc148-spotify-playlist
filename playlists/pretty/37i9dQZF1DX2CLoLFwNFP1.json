@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 32112,
+  "num_followers": 32166,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGE5ZDQ0OTI3ZWQ0NDZlYmVhNjA5ZmU4YTNhM2FjOThjNTIxOWM1",
+  "snapshot_id": "MCw5YTg1NTk4NTYxODViZTAwMWUxYWYzODk2MDY0MGRmYzFmYzJmZTkx",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -239,30 +239,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Point Of View: U",
-        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Love The Way (Feat. Jay Park & punchnello)",
-      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
       },
@@ -287,6 +263,30 @@
       "duration_ms": 259982,
       "name": "iffy (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Point Of View: U",
+        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Love The Way (Feat. Jay Park & punchnello)",
+      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "K-TOWN",
+        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 123280,
+      "name": "K-TOWN",
+      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -1939,26 +1959,6 @@
       "duration_ms": 280320,
       "name": "How We Rock",
       "url": "https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "K-TOWN",
-        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 123280,
-      "name": "K-TOWN",
-      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -2063,6 +2063,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "SOJU (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "DNA Remix",
         "url": "https://open.spotify.com/album/7BJ4UhVP36NLhjxgGcXhNA"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 410964,
       "name": "DNA Remix",
       "url": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "SOJU (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
     },
     {
       "added_at": "2023-11-27 14:05:19",

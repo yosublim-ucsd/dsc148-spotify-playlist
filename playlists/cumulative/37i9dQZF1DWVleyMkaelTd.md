@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-167 songs - 10 hr 34 min
+169 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Batida Diferente](https://open.spotify.com/track/3MF97DSrXO444itt0SOyCB) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Batida Diferente](https://open.spotify.com/album/6TEAtBVoHbOdOM0hyqSiCv) | 4:05 | 2022-10-13 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2022-04-26 |  |
 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 | 2022-04-26 |  |
+| [Belém](https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Belém](https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H) | 2:53 | 2023-12-08 |  |
 | [Black Orpheus](https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Black Orpheus](https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P) | 3:24 | 2022-05-10 |  |
 | [Black Orpheus](https://open.spotify.com/track/509iWZpdj11TayPbutE5JG) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:10 | 2022-04-26 | 2022-05-11 |
 | [Blue Bossa](https://open.spotify.com/track/7w5Plin7KHi7vC1bjSeLpW) | [Horace Ingram Trio](https://open.spotify.com/artist/2upKKzpVjxy1rxfwEM7pqT) | [Laura](https://open.spotify.com/album/11rDo8Bvg7KcPW7QDMhDWq) | 5:34 | 2022-04-26 | 2023-03-23 |
@@ -142,6 +143,7 @@
 | [Saudade](https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Saudade](https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu) | 2:40 | 2023-10-20 |  |
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-04-26 | 2023-08-11 |
 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 | 2022-04-26 |  |
+| [Seu Sorriso](https://open.spotify.com/track/4tQ8S7exeZTiZ1DAYWgchp) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Seu Sorriso](https://open.spotify.com/album/7t8vEsRo1BMzxObmka9RKs) | 3:06 | 2023-12-08 |  |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-04-27 |  |
 | [Sombra La Lua](https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Sombra La Lua](https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5) | 3:46 | 2023-11-17 |  |
 | [Something In The Air Between Us](https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 4:12 | 2022-04-26 | 2022-08-11 |

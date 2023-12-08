@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju x Tayc",
   "name": "R&Bae",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 191900,
       "name": "Aime encore",
       "url": "https://open.spotify.com/track/7cdZLWUqqx3bbLBl0HUCCM"
+    },
+    {
+      "album": {
+        "name": "528 HZ",
+        "url": "https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd"
+      },
+      "artists": [
+        {
+          "name": "A\u00f6me",
+          "url": "https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198252,
+      "name": "Aller retour",
+      "url": "https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6"
     },
     {
       "album": {
@@ -386,6 +404,28 @@
       "duration_ms": 211180,
       "name": "Bolingo",
       "url": "https://open.spotify.com/track/0P6QbrmnUbxbriPFNcBzWe"
+    },
+    {
+      "album": {
+        "name": "Bonnie&Clyde",
+        "url": "https://open.spotify.com/album/4EJCeQzdtExY1ArvP3W5ut"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155185,
+      "name": "Bonnie&Clyde",
+      "url": "https://open.spotify.com/track/3PzpCEHGVAfjZPb0jka2L1"
     },
     {
       "album": {
@@ -1543,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+    },
+    {
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN"
       },
@@ -1561,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Plus Comme Avant (R\u00e9edition)",
+        "url": "https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Insomnie",
+      "url": "https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz"
+    },
+    {
+      "album": {
         "name": "Insomnie (feat. Ya Levis)",
         "url": "https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa"
       },
@@ -1576,7 +1656,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 179908,
       "name": "Insomnie (feat. Ya Levis)",
       "url": "https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB"
@@ -2958,7 +3038,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 210642,
       "name": "Parcours",
       "url": "https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2"
@@ -3950,7 +4030,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 161060,
       "name": "Ti Ki Da",
       "url": "https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU"
@@ -4022,7 +4102,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 176423,
       "name": "Trahison",
       "url": "https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9"

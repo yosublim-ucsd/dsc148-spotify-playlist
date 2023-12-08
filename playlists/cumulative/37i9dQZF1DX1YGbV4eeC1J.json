@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Anjella",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Platform",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -674,6 +674,24 @@
       "duration_ms": 158275,
       "name": "Jinadi",
       "url": "https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps"
+    },
+    {
+      "album": {
+        "name": "Kama",
+        "url": "https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188423,
+      "name": "Kama",
+      "url": "https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD"
     },
     {
       "album": {
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 237209,
       "name": "Salome",
       "url": "https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS"

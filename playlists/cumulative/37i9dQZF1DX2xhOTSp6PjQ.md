@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=V68FwFkMQsKXISH2sL7BdA">Inkos'yamagcokama</a>
+> Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61?si=sl\-cqVdKSPmAltwj63V2jA">IZINGANE ZOMA<a>
 
-177 songs - 14 hr 4 min
+179 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Umathandana wokwenzani](https://open.spotify.com/track/5YUJdvQv36liohCLv8l1mR) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Isivulwe Yonke](https://open.spotify.com/album/0k9XE7mJ1sqgety8nkwqa1) | 4:51 | 2023-05-08 |  |
 | [Umbayimbayi](https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umbayimbayi](https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW) | 3:50 | 2023-03-24 |  |
 | [Umcebo](https://open.spotify.com/track/4wPKQWzPiKBBf1AUmAQbA2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi \(Gold Deluxe\)](https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz) | 3:52 | 2023-01-30 | 2023-08-25 |
+| [Umfazi Womuntu Enqunu](https://open.spotify.com/track/4vDPSGw1tPXwu0cCsLg3Lg) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Umfazi Womuntu Enqunu](https://open.spotify.com/album/09pjuUtEgrOpcEdGkHKaov) | 5:51 | 2023-12-08 |  |
 | [Umjolo Lowo](https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Umjolo Lowo](https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB) | 4:04 | 2023-10-16 |  |
 | [Umjolo O Healthy](https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Ugcobo](https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg) | 3:58 | 2023-05-25 | 2023-08-29 |
 | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/track/0RzfxaDqYuolVaKc0jUQ5e) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Igcokama Elisha](https://open.spotify.com/artist/0CfaRCWMy2aXtbVQPCGG15) | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/album/7gB8A3VKKBIX3WBL24ubZQ) | 3:49 | 2023-11-23 |  |
@@ -183,6 +184,7 @@
 | [Wawuthembeni](https://open.spotify.com/track/4lbJb7VVOGShkgblw8YUiY) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Uboya Enkomeni](https://open.spotify.com/album/1PRhgX3Vv4TjqHUWG6R5eh) | 5:07 | 2020-01-07 |  |
 | [Wayimema](https://open.spotify.com/track/3o3kejg8G9xg5jTYuzNpCv) | [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [Ungishiyelani](https://open.spotify.com/album/3QGeKt0V7nXWSiaMweGVBp) | 5:55 | 2018-12-18 | 2023-02-01 |
 | [Xola \(feat\. Nobuhle, Ze2 & Young Stunna\)](https://open.spotify.com/track/5uWDenxq03AYLOq83WzLNo) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Nobuhle](https://open.spotify.com/artist/4PmzNF4U54l7yVubziJ10U), [Ze2](https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 7:30 | 2023-01-30 | 2023-02-03 |
+| [Yimi Isiqhwaga](https://open.spotify.com/track/22EGSr4xGc8zDs3TSjgBXV) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Yimi Isqhwaga](https://open.spotify.com/album/51MFGbYVjczIbS9aR20D5d) | 4:09 | 2023-12-08 |  |
 | [Zamalek](https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [iStiff](https://open.spotify.com/album/406LRBBJauqbHIurtDKm7d) | 4:11 | 2023-01-30 |  |
 | [Zonga Kanjani](https://open.spotify.com/track/6eAkUwh6sgNnGOtHXZOt1j) | [U'mjik' Jelwa](https://open.spotify.com/artist/6CtPmBW0KxaanNVN8ZIJjv) | [iChallenge](https://open.spotify.com/album/1xYSfs18C1r2dUzrJrD2Z7) | 4:22 | 2018-09-25 | 2023-02-01 |
 

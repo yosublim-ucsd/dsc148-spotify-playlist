@@ -1,13 +1,29 @@
 {
-  "description": "Meet the future. New artists on the horizon.",
-  "num_followers": 57567,
+  "description": "Meet the future. New artists on the horizon. Cover: Zior Park.",
+  "num_followers": 57599,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzk2ZTFkMmY3ZmM1Zjk5NjVkYTUxY2MzMjBjMTE2ZjdiODg0OTIx",
+  "snapshot_id": "MCxjMDI2OGNhZmUwNTA4ZjY5NjQ4NjBmZWMwMjk3MGZlY2YxMjdlNzVm",
   "tracks": [
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+    },
     {
       "added_at": "2023-12-01 06:29:10",
       "album": {
@@ -25,20 +41,52 @@
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
+      "added_at": "2023-12-07 06:00:00",
       "album": {
-        "name": "Tic",
-        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+        "name": "Itu Aku",
+        "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
       },
       "artists": [
         {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
         }
       ],
-      "duration_ms": 130815,
-      "name": "Tic",
-      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+      "duration_ms": 254337,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
+        "name": "ELOWI",
+        "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "duration_ms": 173826,
+      "name": "Call of Valhalla",
+      "url": "https://open.spotify.com/track/6hShO2ZZ0bFO1SNfpfkHOD"
+    },
+    {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
+        "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "CHRISTIAN",
+      "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
     },
     {
       "added_at": "2023-10-05 08:01:42",
@@ -85,20 +133,56 @@
       "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
     },
     {
-      "added_at": "2023-10-27 06:00:00",
+      "added_at": "2023-12-07 06:00:00",
       "album": {
-        "name": "ELOWI",
-        "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
+        "name": "Mamas Car",
+        "url": "https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o"
       },
       "artists": [
         {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
         }
       ],
-      "duration_ms": 173826,
-      "name": "Call of Valhalla",
-      "url": "https://open.spotify.com/track/6hShO2ZZ0bFO1SNfpfkHOD"
+      "duration_ms": 136734,
+      "name": "Mamas Car",
+      "url": "https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Hoa C\u1ecf Lau",
+        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
+      },
+      "artists": [
+        {
+          "name": "Phong Max",
+          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
+        }
+      ],
+      "duration_ms": 210820,
+      "name": "Hoa C\u1ecf Lau",
+      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
+        "name": "1.6",
+        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 175304,
+      "name": "HINATA",
+      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -115,6 +199,38 @@
       "duration_ms": 197219,
       "name": "Unhappier",
       "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
+    },
+    {
+      "added_at": "2023-04-17 14:05:23",
+      "album": {
+        "name": "what if i took it off for you?",
+        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "what if i took it off for you?",
+      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
+    },
+    {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "99",
+      "url": "https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g"
     },
     {
       "added_at": "2023-10-27 06:00:00",
@@ -165,20 +281,20 @@
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
     },
     {
-      "added_at": "2023-10-27 06:00:00",
+      "added_at": "2023-12-07 06:00:00",
       "album": {
-        "name": "1.6",
-        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
+        "name": "Bazaar",
+        "url": "https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3"
       },
       "artists": [
         {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
         }
       ],
-      "duration_ms": 175304,
-      "name": "HINATA",
-      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
+      "duration_ms": 296098,
+      "name": "Huzur (Reprise)",
+      "url": "https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -195,6 +311,22 @@
       "duration_ms": 288298,
       "name": "Lamha",
       "url": "https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "\u00d6l \u0130\u00e7imde",
+        "url": "https://open.spotify.com/album/41SssnSpIajL67pupQYIwk"
+      },
+      "artists": [
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "\u00d6l \u0130\u00e7imde",
+      "url": "https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW"
     },
     {
       "added_at": "2023-11-23 06:00:00",
@@ -217,6 +349,22 @@
       "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
     },
     {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "Super Ball",
+      "url": "https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ"
+    },
+    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "Right Person, Wrong Time",
@@ -233,52 +381,36 @@
       "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
     },
     {
-      "added_at": "2023-11-17 06:00:00",
+      "added_at": "2023-12-07 06:00:00",
       "album": {
-        "name": "\u00d6l \u0130\u00e7imde",
-        "url": "https://open.spotify.com/album/41SssnSpIajL67pupQYIwk"
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
       },
       "artists": [
         {
-          "name": "Paptircem",
-          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
         }
       ],
-      "duration_ms": 193124,
-      "name": "\u00d6l \u0130\u00e7imde",
-      "url": "https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW"
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
-      "added_at": "2023-11-17 06:00:00",
+      "added_at": "2023-04-17 14:05:23",
       "album": {
-        "name": "Issa Goodbye",
-        "url": "https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx"
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR"
       },
       "artists": [
         {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
         }
       ],
-      "duration_ms": 216709,
-      "name": "Issa Goodbye",
-      "url": "https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Hoa C\u1ecf Lau",
-        "url": "https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM"
-      },
-      "artists": [
-        {
-          "name": "Phong Max",
-          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
-        }
-      ],
-      "duration_ms": 210820,
-      "name": "Hoa C\u1ecf Lau",
-      "url": "https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb"
+      "duration_ms": 177196,
+      "name": "Gaffe aux autres",
+      "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
     },
     {
       "added_at": "2023-10-27 06:00:00",
@@ -297,6 +429,22 @@
       "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
     },
     {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "Satisfyer",
+        "url": "https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 121451,
+      "name": "Satisfyer",
+      "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
+    },
+    {
       "added_at": "2023-11-17 06:00:00",
       "album": {
         "name": "Snow Angel (Deluxe)",
@@ -311,22 +459,6 @@
       "duration_ms": 159360,
       "name": "I Do",
       "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
-    },
-    {
-      "added_at": "2023-04-17 14:05:23",
-      "album": {
-        "name": "what if i took it off for you?",
-        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "what if i took it off for you?",
-      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -359,6 +491,22 @@
       "duration_ms": 249336,
       "name": "Tak Bisa Bilang",
       "url": "https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg"
+    },
+    {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
     },
     {
       "added_at": "2023-10-27 10:47:14",
@@ -467,22 +615,6 @@
       "duration_ms": 146831,
       "name": "Buchi ai lobi",
       "url": "https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP"
-    },
-    {
-      "added_at": "2023-04-17 14:05:23",
-      "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 177196,
-      "name": "Gaffe aux autres",
-      "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
     },
     {
       "added_at": "2023-11-23 06:00:00",

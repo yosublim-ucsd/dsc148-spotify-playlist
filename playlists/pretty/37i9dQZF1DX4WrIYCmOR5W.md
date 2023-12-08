@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 | 3 | [Le Papa Pingouin](https://open.spotify.com/track/18sK4fcZvpKWM3Ytn1EOwV) | [Pigloo](https://open.spotify.com/artist/37QZVMta82rMyyEZN5ZOeP) | [A Música Dos Brinquedos \- Os Maiores Sucessos da Música Infantil](https://open.spotify.com/album/7voerqDE5nPNhAUdgpeSoT) | 3:07 |
 | 4 | [Baby Shark](https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:20 |
 | 5 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
-| 6 | [Dragostea Din Tei \- Original Italian Version](https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [Ma Ya Hi \(Dragostea Din Tei\) \[English Mixes\]](https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF) | 3:33 |
+| 6 | [Dragostea Din Tei \- Original Romanian Version](https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu) | 3:34 |
 | 7 | [Dur dur d'être bébé](https://open.spotify.com/track/2vUXD6u34ZsSVsFQTjoqIB) | [Bébé Lilly](https://open.spotify.com/artist/6OsDjsYhaz0dF2Jy3adLl7) | [Dur Dur D'Etre Bébé](https://open.spotify.com/album/2EbNlZUy0cE2EXPZWCOa2M) | 3:16 |
 | 8 | [Les bêtises](https://open.spotify.com/track/2n7FDSAsKAzJXqrPBME5B5) | [Bébé Lilly](https://open.spotify.com/artist/6OsDjsYhaz0dF2Jy3adLl7) | [Le Noël des Kids](https://open.spotify.com/album/37TuWqUNLQGIruZ6hq57uY) | 3:00 |
 | 9 | [Un monde parfait](https://open.spotify.com/track/4Dd8r3d1Tu2mvvjn2Vj4Sg) | [Ilona Mitrecey](https://open.spotify.com/artist/5CNueVdkXCAEod4Zf1dU2D) | [Un monde parfait](https://open.spotify.com/album/5IZz0EpqHjb1gZ9IcQK0ct) | 3:07 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 | 25 | [La musclada](https://open.spotify.com/track/23FOEBE5EOSEpBKngOwPOz) | [Les Musclés](https://open.spotify.com/artist/6QppA1SWIWR2jBhBTGp19j) | [L'essentiel](https://open.spotify.com/album/6yOucBhSn24JNDPWdLDtRY) | 4:37 |
 | 26 | [Papayou](https://open.spotify.com/track/7iCol2HISkTo8kv8WC3Ydr) | [Carlos](https://open.spotify.com/artist/5BxSkqB9akjCvWjFig3HdU) | [Cristal collection](https://open.spotify.com/album/4VStD0LHwgI6ok4kmoKVZY) | 3:02 |
 
-Snapshot ID: `MCw3YTM2N2RjOTEzNWJmOGQ2OTg1ZjUwYzUzNzg3MTVkMzQwMTI4ZTI0`
+Snapshot ID: `MCw4NWM2Y2ZhZDcwYjVhMmUzMjVjZjRiNWZkNjcwZmY3NzJhNzA2Zjg2`

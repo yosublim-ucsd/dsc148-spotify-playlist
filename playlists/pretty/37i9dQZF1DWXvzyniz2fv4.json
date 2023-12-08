@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 155105,
+  "num_followers": 155134,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjM1ODA3NGRiNGJiYWVhN2ZjOGI0MjdkZjlmNjA0ZGZiNzhjODZh",
+  "snapshot_id": "MCw1YzIzYWQyMjVmZGEzMjk5M2YyNDZhODA4NjQ5YzJlZDA0YjgzNjIx",
   "tracks": [
     {
       "added_at": "2023-11-24 17:29:54",
@@ -687,30 +687,6 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Inverno",
+        "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 212137,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 169472,
       "name": "Fica",
       "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Inverno",
-        "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 212137,
-      "name": "Ros\u00e9",
-      "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "K.E",
+          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Mais uma Chance",
         "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 183700,
       "name": "Mais uma Chance",
       "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "K.E",
-          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2023-11-24 17:29:54",

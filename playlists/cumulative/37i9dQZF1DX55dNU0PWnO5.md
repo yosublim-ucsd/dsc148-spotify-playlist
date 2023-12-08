@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-388 songs - 23 hr 39 min
+389 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [BUBBA](https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [FACING](https://open.spotify.com/album/5vfsrL6HaXht2KP08gbxmk) | 2:02 | 2022-11-04 |  |
 | [Bubblegum Dreams](https://open.spotify.com/track/2OQ7ETKkq9b11qNKzpBJR5) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Bubblegum Dreams](https://open.spotify.com/album/12Mlypu8Vj37LF8MNmTGeq) | 3:33 | 2023-05-26 | 2023-09-09 |
 | [Buckle Up](https://open.spotify.com/track/6B1TQPyyswTiskhWurN1Rs) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk) | [Buckle Up](https://open.spotify.com/album/4mBCq5MffoxUYKJFx4aU1U) | 5:02 | 2021-01-29 | 2022-03-26 |
+| [Builder](https://open.spotify.com/track/10227FHuo66ztQWglQEGTp) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Builder](https://open.spotify.com/album/2I39kyieeQPEshJZmxMdmh) | 2:31 | 2023-12-08 |  |
 | [By Your Side](https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [By Your Side](https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX) | 2:50 | 2022-07-05 |  |
 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-11 |  |
 | [CANDLELIGHT](https://open.spotify.com/track/6IPuOgW2UAKFc7YCKrSjER) | [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [CANDLELIGHT](https://open.spotify.com/album/4oWfpdMUmJJ0DKe8qiP9uC) | 7:03 | 2021-08-20 |  |
@@ -287,7 +288,7 @@
 | [Sauce Brazil](https://open.spotify.com/track/1enqMgoegZ9tTVhmDfpv3t) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Back & Forth](https://open.spotify.com/album/1dL25WjfKgZ0aSPtfiaxOE) | 5:06 | 2022-05-20 |  |
 | [Sauce Brazil](https://open.spotify.com/track/3qoi5xFFw0UhGVAEkjkva7) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Sauce Brazil](https://open.spotify.com/album/2kIe5TGnIaLKYh0g1tIW70) | 5:06 | 2022-05-16 | 2022-07-29 |
 | [Saudade da Festa](https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [Tali Lamaison](https://open.spotify.com/artist/7DuJwh4J3waP5PYvcLmO3e) | [Saudade da Festa](https://open.spotify.com/album/40zpDaK3TFAP53BtRM2Eqo) | 2:57 | 2021-03-26 |  |
-| [School is Out](https://open.spotify.com/track/5mlKpS72EC7S1EUk0ZGQsS) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Bass Sax Beats, Vol\. 3](https://open.spotify.com/album/3RVIQNt4hC9dmibdhAqxe6) | 3:31 | 2023-09-15 |  |
+| [School is Out](https://open.spotify.com/track/5mlKpS72EC7S1EUk0ZGQsS) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Bass Sax Beats, Vol\. 3](https://open.spotify.com/album/3RVIQNt4hC9dmibdhAqxe6) | 3:31 | 2023-09-15 | 2023-12-08 |
 | [Seventh Wonder](https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Seventh Wonder](https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM) | 3:27 | 2022-09-02 | 2022-11-21 |
 | [Seventh Wonder](https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Seventh Wonder](https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ) | 3:27 | 2022-09-02 |  |
 | [She Can't Help It](https://open.spotify.com/track/75P1VfBkzYIzFDFHeqm1fY) | [Marcus Alan Ward](https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2) | [She Can't Help It](https://open.spotify.com/album/2bkqxeMMPaWryaLiBf0dZT) | 3:46 | 2023-03-24 |  |

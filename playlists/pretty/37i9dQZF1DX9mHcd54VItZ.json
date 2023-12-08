@@ -1,13 +1,29 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=4-pnZ4abSOeO33A8uE0ppw\">Fokofpolisiekar</a>",
-  "num_followers": 15816,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi?si=mzpc0FFRSMmhOyHHh_XGng\">RAAF</a>",
+  "num_followers": 15832,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzIyMWQ2ZTg0Zjk1OTg1NGJlYjJhZTVmZGZiYjU1OGE5YmIwZDJl",
+  "snapshot_id": "MCwyNmY3Yzk3OGQ4OTI3ZGU1YTQyNTMyYjZmZDYzOGJkNWFhNjFkOWNl",
   "tracks": [
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Prediker",
+        "url": "https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "duration_ms": 292771,
+      "name": "Prediker",
+      "url": "https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G"
+    },
     {
       "added_at": "2023-11-24 06:00:13",
       "album": {
@@ -23,6 +39,58 @@
       "duration_ms": 182589,
       "name": "Dans Deur Die Donker",
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Miss Demeanour",
+        "url": "https://open.spotify.com/album/7bwBgt4WywsawL0mMQ5g5Y"
+      },
+      "artists": [
+        {
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+        }
+      ],
+      "duration_ms": 191978,
+      "name": "Miss Demeanour",
+      "url": "https://open.spotify.com/track/2GbdaRIjEkcjN2sivNUYSl"
+    },
+    {
+      "added_at": "2023-11-24 06:00:13",
+      "album": {
+        "name": "Terapie Vir Nou",
+        "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Terapie Vir Nou",
+      "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "INTERNET ROCKSTAR",
+        "url": "https://open.spotify.com/album/2pCcEeO9WHERPNzdemOnVr"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Brogan the band",
+          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+        }
+      ],
+      "duration_ms": 160135,
+      "name": "INTERNET ROCKSTAR",
+      "url": "https://open.spotify.com/track/2T7Lk6O1Op9IiYzGJQ4aXJ"
     },
     {
       "added_at": "2023-11-30 22:00:00",
@@ -45,20 +113,24 @@
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
     },
     {
-      "added_at": "2023-11-24 06:00:13",
+      "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Terapie Vir Nou",
-        "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6AX7duuUmGSxA2GV0QdsTh"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Flat Stanley",
+          "url": "https://open.spotify.com/artist/2N30x8D6x2qXCI8dr7s0J2"
+        },
+        {
+          "name": "Mac Stanley",
+          "url": "https://open.spotify.com/artist/72yw92ZbF6erG4xPviBX2R"
         }
       ],
-      "duration_ms": 218117,
-      "name": "Terapie Vir Nou",
-      "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
+      "duration_ms": 243620,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0TFdmmMFx0KtMThDCnINHP"
     },
     {
       "added_at": "2023-11-24 06:00:13",
@@ -77,6 +149,22 @@
       "url": "https://open.spotify.com/track/1lJ44Qfd4jmcpxzUMRaGoU"
     },
     {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Twak In Die Sak",
+        "url": "https://open.spotify.com/album/4sQIxY95sJP8RyIx17tVsh"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "duration_ms": 148114,
+      "name": "Twak In Die Sak",
+      "url": "https://open.spotify.com/track/0kBHPLX0L9okVxNzaBOhW1"
+    },
+    {
       "added_at": "2023-11-24 06:00:13",
       "album": {
         "name": "Shadow Fiend",
@@ -91,6 +179,22 @@
       "duration_ms": 288000,
       "name": "Shadow Fiend",
       "url": "https://open.spotify.com/track/080JBnOECwq62d9KOSoYFD"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Dans Deur Die Donker",
+        "url": "https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 189941,
+      "name": "Die Goeie Ou Dae",
+      "url": "https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D"
     },
     {
       "added_at": "2023-11-24 06:00:13",
@@ -111,6 +215,22 @@
       "duration_ms": 282000,
       "name": "Down to the River",
       "url": "https://open.spotify.com/track/2XcyCqS4tINmDjYXzz3e39"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "ISO",
+        "url": "https://open.spotify.com/album/25EOl6GdkEV6xilN5S7ghr"
+      },
+      "artists": [
+        {
+          "name": "TRIIIP",
+          "url": "https://open.spotify.com/artist/2GGLj4Ng4Yawj7oj18QCzA"
+        }
+      ],
+      "duration_ms": 225117,
+      "name": "ISO",
+      "url": "https://open.spotify.com/track/2crUqw80TRpgHwQ3XrxcyH"
     },
     {
       "added_at": "2023-11-24 06:00:13",
@@ -727,126 +847,6 @@
       "duration_ms": 137419,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/6ECuZmmXiLXqDtoBOsId2M"
-    },
-    {
-      "added_at": "2023-07-28 06:52:23",
-      "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/7t3nIj86bm0IwI9ReX6Ye3"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        }
-      ],
-      "duration_ms": 175619,
-      "name": "The Real Thing",
-      "url": "https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM"
-    },
-    {
-      "added_at": "2023-09-07 21:59:00",
-      "album": {
-        "name": "Apollo Motel",
-        "url": "https://open.spotify.com/album/3Jqqsx0b3ucMITzbG5r5qB"
-      },
-      "artists": [
-        {
-          "name": "Apollo Motel",
-          "url": "https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t"
-        }
-      ],
-      "duration_ms": 194547,
-      "name": "Apollo Motel",
-      "url": "https://open.spotify.com/track/03omYk1VNwgCdeu72j9zEZ"
-    },
-    {
-      "added_at": "2023-07-28 06:52:23",
-      "album": {
-        "name": "Haunting You",
-        "url": "https://open.spotify.com/album/2Qf78FHmRbc3Qf34eTMPXY"
-      },
-      "artists": [
-        {
-          "name": "Oceans of Angels",
-          "url": "https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Haunting You",
-      "url": "https://open.spotify.com/track/0lIUqLV6zqnyRl7cPPhj9u"
-    },
-    {
-      "added_at": "2023-08-04 10:43:32",
-      "album": {
-        "name": "Big Mistakes",
-        "url": "https://open.spotify.com/album/6k4QPx0m28c6UlXqkiPnlC"
-      },
-      "artists": [
-        {
-          "name": "Trevor Rabin",
-          "url": "https://open.spotify.com/artist/23ukNzhMiRiYgORi3n3RJq"
-        }
-      ],
-      "duration_ms": 332696,
-      "name": "Big Mistakes",
-      "url": "https://open.spotify.com/track/3f5MFKBb6aRheW6IpSn5qw"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Almal Baklei",
-        "url": "https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 145694,
-      "name": "Almal Baklei",
-      "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
-    },
-    {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "#23",
-        "url": "https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2"
-      },
-      "artists": [
-        {
-          "name": "Lisie Basson",
-          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
-        }
-      ],
-      "duration_ms": 162810,
-      "name": "#23",
-      "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/7G4Oa0XkNv552XNf4WcRjn"
-      },
-      "artists": [
-        {
-          "name": "Cindy-Louise",
-          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
-        }
-      ],
-      "duration_ms": 211227,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF"
     }
   ],
   "unique_name": "SA Rock ",

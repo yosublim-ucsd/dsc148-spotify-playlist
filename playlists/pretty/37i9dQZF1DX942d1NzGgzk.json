@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Essosa ",
-  "num_followers": 136144,
+  "num_followers": 136213,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWUwYTVlYzQwYmY5YzY0NTc3MWRmYWI5MjllNWIzNDY3ZDAwMTZj",
+  "snapshot_id": "MCxkNzUxYzgyYmRmMDE3NWJhZjc3ZmE3Y2U2MWZhYTM1MzcyNTZjNGUy",
   "tracks": [
     {
       "added_at": "2023-11-24 03:09:54",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "THERAPY",
         "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 126857,
       "name": "THERAPY",
       "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 298720,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Falling or flying",
-        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Falling or flying",
-      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
-    },
-    {
-      "added_at": "2023-11-24 03:09:54",
-      "album": {
         "name": "Not My Job",
         "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 174588,
       "name": "Not My Job",
       "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
+    },
+    {
+      "added_at": "2023-11-24 03:09:54",
+      "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -955,22 +955,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
         },
         {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 201942,
-      "name": "Bussdown (feat. Shaybo)",
-      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
         }
       ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+      "duration_ms": 201942,
+      "name": "Bussdown (feat. Shaybo)",
+      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
     },
     {
       "added_at": "2023-11-24 03:09:54",
@@ -1051,18 +1055,18 @@
     {
       "added_at": "2023-11-24 03:09:54",
       "album": {
-        "name": "Timeout",
-        "url": "https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg"
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
       "artists": [
         {
-          "name": "Mellina Tey",
-          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 131612,
-      "name": "Timeout",
-      "url": "https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn"
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     }
   ],
   "unique_name": "R&B UK",

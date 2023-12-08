@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-322 songs - 22 hr 0 min
+323 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Come Fly With Me](https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Love Stories](https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N) | 5:52 | 2022-01-20 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml) | 3:23 | 2022-03-25 |  |
 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 | 2023-05-30 |  |
-| [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 | 2022-08-29 |  |
+| [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 | 2022-08-29 | 2023-12-08 |
 | [C’est Magnifique](https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [C’est Magnifique](https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN) | 4:52 | 2022-05-24 | 2022-08-17 |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/69X2tFJnXPGGGvSOJdZ8ou) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love \(Deluxe Edition\)](https://open.spotify.com/album/51v8hjqV3KirevIh7jWI0H) | 3:57 | 2022-01-20 | 2022-05-25 |
 | [Darn That Dream](https://open.spotify.com/track/1bKYwMDGYIRbo2vqm8UCym) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [A Little Moonlight](https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s) | 4:46 | 2022-01-20 |  |
@@ -169,6 +169,7 @@
 | [It Had To Be You](https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI), [Colm Ó Riain](https://open.spotify.com/artist/5tcTYOhvC9z97PfsUC25mr) | [It Had To Be You](https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM) | 2:38 | 2022-03-31 |  |
 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 | 2022-01-20 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 | 2022-02-18 | 2023-11-04 |
+| [It Never Entered My Mind](https://open.spotify.com/track/3Di0QuYbltNHaIU85cpxvi) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 4:28 | 2023-12-07 |  |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2022-01-20 |  |
 | [It's Not Easy Being Green](https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...SPRING](https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc) | 5:03 | 2023-08-15 |  |
 | [It's Only a Paper Moon](https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI) | [Claire Martin](https://open.spotify.com/artist/7iIgJB2PSutn6IYzwdTomh), [Scott Dunn](https://open.spotify.com/artist/1CULc0qvcbzrAU9R8OK0J1), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [It's Only a Paper Moon](https://open.spotify.com/album/1Ml1lR7ejgAB6K3uaXMQ8p) | 4:25 | 2023-05-30 |  |

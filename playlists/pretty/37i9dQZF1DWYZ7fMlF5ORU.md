@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,301 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,367 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 19 | [O Amor de Deus](https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Cuida de Mim](https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY) | 5:01 |
 | 20 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |
 | 21 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
-| 22 | [Vê Se Vigia](https://open.spotify.com/track/3R4hCzwQ1qWVxUia5wn7mj) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH) | 2:54 |
-| 23 | [Jeova é o Teu Cavaleiro](https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 3:23 |
+| 22 | [Jeova é o Teu Cavaleiro](https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 3:23 |
+| 23 | [Vê Se Vigia](https://open.spotify.com/track/3R4hCzwQ1qWVxUia5wn7mj) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH) | 2:54 |
 | 24 | [Tamo Junto](https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r), [Lorena Fadi](https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tamo Junto](https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6) | 3:15 |
 | 25 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 |
 | 26 | [Nossa Gente \- Ao Vivo](https://open.spotify.com/track/5QGURHzwT0j0Fmom11dPhk) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Nic Medeiros](https://open.spotify.com/artist/7z4f7gF5I8R1ZQVPao5Tts), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx) | [Nossa Gente \(Ao Vivo Em Balneário Camboriú, Santa Catarina / 2020\)](https://open.spotify.com/album/0AhbaBsyYzznGVHfC3Bm7Y) | 4:09 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 54 | [Livre Sou](https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 3:29 |
 | 55 | [Cântico Novo](https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Cântico Novo](https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK) | 2:54 |
 | 56 | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/track/7ce5qOUmxru6SaolIhiryx) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/album/245T8eQMUyf53Sx85tCZ4O) | 4:07 |
-| 57 | [Alegria do Céu \(feat\. Banda Salluz\)](https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Banda Salluz](https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9) | [Diferente](https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL) | 3:42 |
+| 57 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 58 | [Louvarei](https://open.spotify.com/track/1HolPI1xldNL8COYPtj1Id) | [Vinicius Motta](https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y) | [Te Adorar](https://open.spotify.com/album/7tXxdiOv0uaMinPIk4Ti14) | 3:54 |
-| 59 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
+| 59 | [Alegria do Céu \(feat\. Banda Salluz\)](https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Banda Salluz](https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9) | [Diferente](https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL) | 3:42 |
 | 60 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
 | 61 | [Glória, Honra e Poder](https://open.spotify.com/track/3GuuK1PM4v64VFyV3LX8LH) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Falando Dele](https://open.spotify.com/album/3IxKIQIkiMvfBTQ0zzdFBq) | 5:09 |
 | 62 | [Rei das Nações](https://open.spotify.com/track/73YXZQaoyLTSUtq4IpGn6s) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2) | [Rei das Nações](https://open.spotify.com/album/46eO3dzrbGtGhr2HPWRCvf) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/1jKezE2CPZGiaywCIDFlpD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Viver O Amor \(Ao Vivo\)](https://open.spotify.com/album/10DzETP5qOEaaDf98uuB39) | 3:50 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxmZDkzZWQ5YWQzZGQxNDg4ODI1N2M2MzI5YTY5NjQwNGFlM2U2Yzcx`
+Snapshot ID: `MCxiZTFhZmU5YjM3ZTQ4Zjk4M2EyOWI0MWY4YmUxZDc5MDIxNDA5OTVh`

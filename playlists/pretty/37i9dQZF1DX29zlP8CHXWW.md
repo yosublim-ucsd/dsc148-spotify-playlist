@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 ### [Road to Passion 2024](https://open.spotify.com/playlist/37i9dQZF1DX29zlP8CHXWW)
 
-> Check out some of the songs from the <a href="https://www.passion2024.com/"> Passion 2024 </a> conference.
+> Songs to prepare your heart for the <a href="https://www.passion2024.com/"> Passion 2024 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,424 likes - 52 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,544 likes - 52 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [He Who Is To Come](https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [He Who Is To Come](https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or) | 6:50 |
-| 2 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
-| 3 | [All Praise \- Live From Passion 2020](https://open.spotify.com/track/5l9AMV6qSOEgbi2qOAcYOM) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 6:54 |
-| 4 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
-| 5 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 |
+| 2 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 3 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
+| 4 | [All Praise \- Live From Passion 2020](https://open.spotify.com/track/5l9AMV6qSOEgbi2qOAcYOM) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 6:54 |
+| 5 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
 | 6 | [Holy \- Live](https://open.spotify.com/track/3gzb78asf6noEszQfOonE0) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Holy \(Live\)](https://open.spotify.com/album/50ZKp6KCrsdai2GqeDGFVq) | 5:31 |
 | 7 | [King \- Live From Passion 2023](https://open.spotify.com/track/4U4pdy7qkgbXdmIQqONia7) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 3:27 |
 | 8 | [Milk & Honey](https://open.spotify.com/track/6iRdkCo5YdYyOyTQroR0xj) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:46 |
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 | 49 | [God Really Loves Us \- Live From Passion 2022](https://open.spotify.com/track/1jn04FVADgMstxG6WyBbX5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 4:26 |
 | 50 | [I've Witnessed It \- Live From Passion 2023](https://open.spotify.com/track/7ui5e4tSU738ae2uTwEwhn) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5KvkvQqiXctKJJPUPTUUtV) | 7:50 |
 | 51 | [Just Too Good](https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf) | 3:23 |
-| 52 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
+| 52 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 |
 
-Snapshot ID: `MCw3ZDMwMGUyZDgxMmUwZjJlZmVlZjgyNzhkNjllZTkzNjI2MTVhNWI3`
+Snapshot ID: `MCw4ZTgyMWRlMDY0ZGM4NzUxMjRlMThjZDhhMDdhMmQ3MTM4NmE3YWVh`

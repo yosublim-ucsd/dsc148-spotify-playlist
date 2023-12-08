@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: YOVNGCHIMI & Dei V",
-  "num_followers": 230463,
+  "num_followers": 230479,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGE2OWU5ZjQzYjA4Mzc2NWRiZDdhZjhjMjY4YTliODFmNzlmMjc4",
+  "snapshot_id": "MCwwMWE3YjU4MThlMjM3MjA1OWMzZjRiMGIzMjgzMWQxMzk1MzEwMmY2",
   "tracks": [
     {
       "added_at": "2023-11-22 19:12:03",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-11-22 19:12:03",
       "album": {
-        "name": "GANGSTA LUV",
-        "url": "https://open.spotify.com/album/6I831rDMtHx8e17mh5xzsP"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        }
-      ],
-      "duration_ms": 231454,
-      "name": "GANGSTA LUV",
-      "url": "https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti"
-    },
-    {
-      "added_at": "2023-11-22 19:12:03",
-      "album": {
         "name": "Blancos & Rojos",
         "url": "https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 162000,
       "name": "Blancos & Rojos",
       "url": "https://open.spotify.com/track/4FRMNJTazpo6vhHnfnG2qy"
+    },
+    {
+      "added_at": "2023-11-22 19:12:03",
+      "album": {
+        "name": "GANGSTA LUV",
+        "url": "https://open.spotify.com/album/6I831rDMtHx8e17mh5xzsP"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "duration_ms": 231454,
+      "name": "GANGSTA LUV",
+      "url": "https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti"
     },
     {
       "added_at": "2023-11-22 19:12:03",

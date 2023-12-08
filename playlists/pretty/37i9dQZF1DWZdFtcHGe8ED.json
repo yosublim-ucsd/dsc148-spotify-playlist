@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 530375,
+  "num_followers": 530575,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjRjMTc4MTZiZjBkYTk2M2UwNzAzY2FmNmU0NmU5ZTNmY2M5ODll",
+  "snapshot_id": "MCw4NWQ1Yzk5NmQ1N2U4YWY4MDAyZjNkOGZiMTQyMTViYzRmYTIzNzkw",
   "tracks": [
     {
       "added_at": "2023-06-27 13:33:22",
@@ -687,8 +687,8 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Persona Non Grata",
-        "url": "https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4"
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
       },
       "artists": [
         {
@@ -696,25 +696,25 @@
           "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
         }
       ],
-      "duration_ms": 181186,
-      "name": "The Beatings Will Continue (Until Morale Improves)",
-      "url": "https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw"
+      "duration_ms": 224066,
+      "name": "Bonded by Blood",
+      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
     },
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Metal Church",
-        "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
+        "name": "M-16 (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6loHWT2ZYOKSZDdpUQqgTr"
       },
       "artists": [
         {
-          "name": "Metal Church",
-          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 302360,
-      "name": "Metal Church",
-      "url": "https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow"
+      "duration_ms": 356973,
+      "name": "Napalm in the Morning (2021 - Remaster)",
+      "url": "https://open.spotify.com/track/7xWgCUckC7bAQfrXGZ8l5e"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
+        "name": "Metal Church",
+        "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
+      },
+      "artists": [
+        {
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Metal Church",
+      "url": "https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
         "name": "The Evil Divide",
         "url": "https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 278381,
       "name": "The Moth",
       "url": "https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "M-16 (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6loHWT2ZYOKSZDdpUQqgTr"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 356973,
-      "name": "Napalm in the Morning (2021 - Remaster)",
-      "url": "https://open.spotify.com/track/7xWgCUckC7bAQfrXGZ8l5e"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -815,24 +815,24 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
+        "name": "M-16",
+        "url": "https://open.spotify.com/album/1ens5WO0JQdJUE3GciGvjF"
       },
       "artists": [
         {
-          "name": "Metal Church",
-          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Start the Fire",
-      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
+      "duration_ms": 289133,
+      "name": "M-16",
+      "url": "https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG"
     },
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+        "name": "Persona Non Grata",
+        "url": "https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Bonded by Blood",
-      "url": "https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV"
+      "duration_ms": 181186,
+      "name": "The Beatings Will Continue (Until Morale Improves)",
+      "url": "https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -859,6 +859,38 @@
       "duration_ms": 166929,
       "name": "Ninja Untouchables/Untouchable Glory",
       "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 250723,
+      "name": "Soul Sacrifice",
+      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
+      },
+      "artists": [
+        {
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Start the Fire",
+      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -895,38 +927,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "M-16",
-        "url": "https://open.spotify.com/album/1ens5WO0JQdJUE3GciGvjF"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "M-16",
-      "url": "https://open.spotify.com/track/5IuHS16yRB8RKtuR4gAGYG"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 250723,
-      "name": "Soul Sacrifice",
-      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "T\u016b",
         "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Born Of The Bomb",
-        "url": "https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca"
-      },
-      "artists": [
-        {
-          "name": "Lich King",
-          "url": "https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Combat Mosh",
-      "url": "https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Five Serpent's Teeth",
         "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 257695,
       "name": "Divine Apprehension",
       "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Born Of The Bomb",
+        "url": "https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca"
+      },
+      "artists": [
+        {
+          "name": "Lich King",
+          "url": "https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Combat Mosh",
+      "url": "https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 261709,
+      "name": "Nightmare Logic",
+      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
         "name": "Thrash Zone",
         "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 261709,
-      "name": "Nightmare Logic",
-      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Mourn the Southern Skies",
         "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 233145,
       "name": "My Time",
       "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Point Of No Return EP",
-        "url": "https://open.spotify.com/album/5mO4PY6XyJAzLFOBJfx88b"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Point Of No Return",
-      "url": "https://open.spotify.com/track/5nx2UgWzyJAjDvpvvnRAZ8"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
+        "name": "Point Of No Return EP",
+        "url": "https://open.spotify.com/album/5mO4PY6XyJAzLFOBJfx88b"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/5nx2UgWzyJAjDvpvvnRAZ8"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
         "name": "Woe to the Vanquished",
         "url": "https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 204200,
       "name": "Remain Violent",
       "url": "https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Filth Upon Filth",
+      "url": "https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1211,22 +1227,6 @@
       "duration_ms": 203000,
       "name": "The Man That Never Was",
       "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Totem",
-        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 173187,
-      "name": "Filth Upon Filth",
-      "url": "https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr"
     },
     {
       "added_at": "2023-07-31 21:34:14",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu"
     },
     {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Conformicide",
-        "url": "https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 289520,
-      "name": "Hang 'Em High",
-      "url": "https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz"
-    },
-    {
       "added_at": "2023-07-31 21:34:14",
       "album": {
         "name": "War Against All",
@@ -1323,6 +1307,22 @@
       "duration_ms": 270920,
       "name": "Enter The Grave",
       "url": "https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Conformicide",
+        "url": "https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 289520,
+      "name": "Hang 'Em High",
+      "url": "https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Darkness Descends",
-        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
+        "name": "Worlds Torn Asunder",
+        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
       },
       "artists": [
         {
-          "name": "Dark Angel",
-          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
+          "name": "Warbringer",
+          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
         }
       ],
-      "duration_ms": 347093,
-      "name": "Darkness Descends",
-      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
+      "duration_ms": 261560,
+      "name": "Living Weapon",
+      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Worlds Torn Asunder",
-        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
+        "name": "Darkness Descends",
+        "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
       },
       "artists": [
         {
-          "name": "Warbringer",
-          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
+          "name": "Dark Angel",
+          "url": "https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV"
         }
       ],
-      "duration_ms": 261560,
-      "name": "Living Weapon",
-      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
+      "duration_ms": 347093,
+      "name": "Darkness Descends",
+      "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1535,18 +1535,34 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Cabaret De La Guillotine",
-        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
+        "name": "Ten Black Years - Best Of",
+        "url": "https://open.spotify.com/album/2wqXsiFeAsqhEuzHfE1VvR"
       },
       "artists": [
         {
-          "name": "Angelus Apatrida",
-          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 361013,
-      "name": "Sharpen the Guillotine",
-      "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
+      "duration_ms": 364626,
+      "name": "Agent Orange",
+      "url": "https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Extreme Aggression",
+        "url": "https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Extreme Aggression",
+      "url": "https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1563,6 +1579,22 @@
       "duration_ms": 351613,
       "name": "Empire of the Blind",
       "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Cabaret De La Guillotine",
+        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
+      },
+      "artists": [
+        {
+          "name": "Angelus Apatrida",
+          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Sharpen the Guillotine",
+      "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1599,38 +1631,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Extreme Aggression",
-        "url": "https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Extreme Aggression",
-      "url": "https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Ten Black Years - Best Of",
-        "url": "https://open.spotify.com/album/2wqXsiFeAsqhEuzHfE1VvR"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 364626,
-      "name": "Agent Orange",
-      "url": "https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "666-Pack",
         "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
       },
@@ -1643,6 +1643,26 @@
       "duration_ms": 92612,
       "name": "All Mosh / No Brain",
       "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        },
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "duration_ms": 218406,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1675,26 +1695,6 @@
       "duration_ms": 370400,
       "name": "Eternal Nightmare",
       "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        },
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
-        }
-      ],
-      "duration_ms": 218406,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Armed To The Teeth",
-        "url": "https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 266014,
-      "name": "Armed To The Teeth",
-      "url": "https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Mental Vortex",
         "url": "https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 330986,
       "name": "Semtex Revolution",
       "url": "https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Ahi K\u0101",
+        "url": "https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm"
+      },
+      "artists": [
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "duration_ms": 226971,
+      "name": "Ahi K\u0101",
+      "url": "https://open.spotify.com/track/6TWusB8IRbn4OCJm3jLQJr"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
+        "name": "Armed To The Teeth",
+        "url": "https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 266014,
+      "name": "Armed To The Teeth",
+      "url": "https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
       },
@@ -1811,34 +1827,18 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Ahi K\u0101",
-        "url": "https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm"
+        "name": "No Place For Disgrace",
+        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
       },
       "artists": [
         {
-          "name": "Alien Weaponry",
-          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
         }
       ],
-      "duration_ms": 226971,
-      "name": "Ahi K\u0101",
-      "url": "https://open.spotify.com/track/6TWusB8IRbn4OCJm3jLQJr"
-    },
-    {
-      "added_at": "2023-07-31 21:34:14",
-      "album": {
-        "name": "A Sign of Things to Come",
-        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "A Sign of Things to Come",
-      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
+      "duration_ms": 373013,
+      "name": "No Place for Disgrace",
+      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1857,20 +1857,20 @@
       "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
     },
     {
-      "added_at": "2023-06-27 13:33:22",
+      "added_at": "2023-07-31 21:34:14",
       "album": {
-        "name": "No Place For Disgrace",
-        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
+        "name": "A Sign of Things to Come",
+        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
       },
       "artists": [
         {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
         }
       ],
-      "duration_ms": 373013,
-      "name": "No Place for Disgrace",
-      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
+      "duration_ms": 275306,
+      "name": "A Sign of Things to Come",
+      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
     },
     {
       "added_at": "2023-06-27 13:33:22",

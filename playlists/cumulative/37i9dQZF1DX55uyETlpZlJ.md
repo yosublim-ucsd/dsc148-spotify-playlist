@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-216 songs - 11 hr 43 min
+218 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Avarisu \- SKODA Deccan Beats](https://open.spotify.com/track/3XBolYD5LpZ0ayiuRJPt1a) | [Neehar Kiran Dabade](https://open.spotify.com/artist/7HoTwBEDd1pZucJ0ntVVlQ), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Avarisu \(SKODA Deccan Beats\)](https://open.spotify.com/album/1tHo4gHFxWE1ZjxCqXhhrd) | 3:42 | 2022-09-27 | 2023-06-21 |
 | [Baare Banake](https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT) | [Sunitha Ananthaswamy](https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON), [Kalashree Dr.Jayashree Aravind](https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ), [Anitha Ananthaswamy](https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv) | [Baare Banake](https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ) | 7:18 | 2023-07-25 |  |
 | [Baby Girl](https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Baby Girl](https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy) | 3:17 | 2023-03-13 | 2023-06-13 |
+| [Baby I Love You](https://open.spotify.com/track/0HD2WGprYrNVKsbfN4Uba9) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Baby I Love You](https://open.spotify.com/album/0EYeMwaKPXJKYpQ9Pnf0uc) | 4:32 | 2023-12-07 |  |
 | [Bad](https://open.spotify.com/track/2eQtJWV3pQac41v6L6PQo2) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Bad](https://open.spotify.com/album/2x1naxHI21CUc4UhacSO88) | 2:51 | 2023-11-28 |  |
 | [Bae](https://open.spotify.com/track/67DY60lKpxmESNLKyHoNZN) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Bae](https://open.spotify.com/album/5qOKwBFn3F00te00jfyN06) | 2:33 | 2023-06-21 | 2023-09-21 |
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
@@ -46,6 +47,7 @@
 | [Chitte](https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34) | [Chitte](https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq) | 2:58 | 2023-02-08 | 2023-09-01 |
 | [Chitte](https://open.spotify.com/track/11D2ENXpVlMasJbwPxcMEJ) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte](https://open.spotify.com/album/18K3VnzpV5fSFZhivYSQei) | 3:28 | 2023-05-25 | 2023-06-08 |
 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 | 2023-05-25 | 2023-06-01 |
+| [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 |  |
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 |  |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 |  |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 |  |
@@ -188,7 +190,7 @@
 | [RCB 12th Man Army](https://open.spotify.com/track/3w0i0dc5rDKfpBTp3e3k07) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [RCB 12th Man Army \- Single](https://open.spotify.com/album/7i4SqRm106EdOoeU7koGbP) | 2:39 | 2023-04-05 |  |
 | [RCB ANTHEM \- Version 2023](https://open.spotify.com/track/34U20Qg8DoIBp7taWrKZAL) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd) | [RCB ANTHEM \(Version 2023\)](https://open.spotify.com/album/4IFnYU4QYdbvUWSpSCKGzC) | 2:32 | 2023-04-28 | 2023-06-08 |
 | [Ready \(Kannada\)](https://open.spotify.com/track/14zs6XjzSjwq0n7hriMaiO) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Viggu](https://open.spotify.com/artist/1SDkJl8i6RxJw0l7EHQvB7) | [Ready \(Kannada\)](https://open.spotify.com/album/2NkcrgFx5vDRtuTbOBovMW) | 1:56 | 2023-09-06 |  |
-| [Rodane](https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Rodane](https://open.spotify.com/album/3jU6zKe1cZbEUjMtScTZDo) | 5:25 | 2023-02-27 |  |
+| [Rodane](https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Rodane](https://open.spotify.com/album/3jU6zKe1cZbEUjMtScTZDo) | 5:25 | 2023-02-27 | 2023-12-08 |
 | [Saagu Nee](https://open.spotify.com/track/5LHpNNd7MqPfYUAzcAQj2Y) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Saagu Nee](https://open.spotify.com/album/0REHSlVg6yr2q0bv1grZ4w) | 2:43 | 2022-09-19 | 2023-07-04 |
 | [Saako Maani Odiddu](https://open.spotify.com/track/0UayXJ56vraoYYvkgtOvcz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Saako Maani Odiddu](https://open.spotify.com/album/73QiTb4EmS5ca6BlWWllAt) | 3:13 | 2023-02-15 | 2023-06-20 |
 | [Sahavaasa](https://open.spotify.com/track/3rv2dzhrrimcWrEAqb6yMc) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Sahavaasa](https://open.spotify.com/album/33AjV8NCgBekha704N5DC8) | 1:31 | 2023-09-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con RaiNao.",
-  "num_followers": 761326,
+  "num_followers": 761313,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTc2MTFhZWViNGJhYTFjZDA3NDM4ODAwOTg0NzBmY2NjZDI3NWY5",
+  "snapshot_id": "MCw1NjdmMTJkYzJmMTU4YTBmZWJlOTY1MmRlOTdmZWYzOGY0NDlkZGY2",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 242980,
+      "name": "SINCERA TE",
+      "url": "https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "1 1 1",
-        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 242980,
-      "name": "SINCERA TE",
-      "url": "https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "LOVELANGUAGE",
         "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 224761,
       "name": "LOVELANGUAGE",
       "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        },
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        }
-      ],
-      "duration_ms": 203999,
-      "name": "WCID?",
-      "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        }
+      ],
+      "duration_ms": 203999,
+      "name": "WCID?",
+      "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
         "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 158643,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Numb The Pain",
         "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+      "duration_ms": 158643,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
     },
     {
       "added_at": "2023-12-01 05:01:00",

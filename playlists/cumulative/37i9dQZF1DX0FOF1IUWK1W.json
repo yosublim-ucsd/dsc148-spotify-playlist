@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Mc Ws da leste, Dj Chadin do C, MC Cothi\u00ea e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Chefin e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1554,6 +1554,28 @@
       "duration_ms": 171077,
       "name": "Cheiro de Balada - Ao Vivo",
       "url": "https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh"
+    },
+    {
+      "album": {
+        "name": "CHEIRO NA CAMISETA",
+        "url": "https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156431,
+      "name": "CHEIRO NA CAMISETA",
+      "url": "https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv"
     },
     {
       "album": {
@@ -4175,6 +4197,44 @@
     },
     {
       "album": {
+        "name": "Vida Cara (Deluxe)",
+        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Mesma Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1"
+    },
+    {
+      "album": {
         "name": "Metade De Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd"
       },
@@ -4496,7 +4556,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 211200,
       "name": "Narcisista - Ao Vivo",
       "url": "https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD"
@@ -7088,7 +7148,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 147132,
       "name": "Voltou Com Quem N\u00e3o Voltava - Ao Vivo",
       "url": "https://open.spotify.com/track/0Q1oLvAI9QaD3DIlvluTqx"

@@ -4,7 +4,7 @@
 
 > Relaxing instrumental beats to chill to.
 
-678 songs - 1 day 2 hr 34 min
+684 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Cartoons & Cereal](https://open.spotify.com/track/3NA3j32GZcVlLHE5ouertM) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:55 | 2023-01-13 |  |
 | [Cash Plants Everywhere Around Me](https://open.spotify.com/track/1TKRQhnQkTU9CCRCQF6mst) | [Diggy Mac Dirt](https://open.spotify.com/artist/4QRxmPoNahr4QIDkGXhZRI) | [KEATS 14](https://open.spotify.com/album/3TAHdCE2XDJXyhHkVJJnYY) | 2:22 | 2023-09-08 | 2023-09-22 |
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-29 |  |
+| [catwalk](https://open.spotify.com/track/1DOEEHMXg2exzfzs2lRts2) | [Burguess' Beatz](https://open.spotify.com/artist/1i1hunPBHEd4w8PVILQjwD) | [catwalk](https://open.spotify.com/album/1v0jGGutvINFPeAdz3LYdJ) | 2:31 | 2023-12-08 |  |
 | [caviar](https://open.spotify.com/track/3y6KYivzMqOZDscUH2Cn9N) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [laugh at the balance](https://open.spotify.com/album/6VrZDk65XkMRuk9IW4tudW) | 2:08 | 2023-01-13 |  |
 | [Chapman](https://open.spotify.com/track/16N0uGSoGeW41PrPCEnh8T) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Chapman](https://open.spotify.com/album/6dP2OierGgAWvXtfjRpWtZ) | 2:09 | 2023-01-13 |  |
 | [charm me](https://open.spotify.com/track/6wnYzqq1yJIPLjO2JcXxup) | [flax flame](https://open.spotify.com/artist/2UZjBwBEki9gEeOYinkKMs) | [charm me](https://open.spotify.com/album/2Z13blqHM97m9zeBjxjfxz) | 2:31 | 2023-01-13 | 2023-07-20 |
@@ -170,6 +171,7 @@
 | [Downstream](https://open.spotify.com/track/6s3p8Ovbf6Bg9tou17Juie) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Downstream](https://open.spotify.com/album/2SI53rb2rae57fFOCFs8fp) | 1:49 | 2023-01-13 |  |
 | [Downtime](https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Downtime](https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM) | 2:16 | 2023-11-24 |  |
 | [downtime](https://open.spotify.com/track/00dVbCr2LYx9vMh1M9u3ID) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [downtime](https://open.spotify.com/album/7nckjQkUXOdwNRkwwCu2TX) | 2:33 | 2023-01-13 | 2023-10-20 |
+| [dream keeper](https://open.spotify.com/track/6xFrBq4Jo0rZup2nygCVSG) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [dream keeper](https://open.spotify.com/album/4f15Bwm2AMymAQrn1Li3Kj) | 2:24 | 2023-12-08 |  |
 | [Dreams in Satin](https://open.spotify.com/track/2qUW2AlOovJqRLUtAKKHK3) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Dreams in Satin](https://open.spotify.com/album/05WKNMZgo4SZX9QEZz2ZSw) | 2:25 | 2023-01-13 | 2023-09-16 |
 | [Dreams Of The Broken](https://open.spotify.com/track/3Mt7n41cPt3oRsG9tp26LD) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Dreams Of The Broken](https://open.spotify.com/album/71nnTtdqPoBvXzderwdhc3) | 1:57 | 2023-01-13 |  |
 | [dreamy sights from the heights](https://open.spotify.com/track/46mR5v8xs33HW4dKncs0kV) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [dreamy sights from the heights](https://open.spotify.com/album/27GV9icO2AKAM5xf8ezgOp) | 2:17 | 2023-01-13 |  |
@@ -261,6 +263,7 @@
 | [Hatching a Dragon](https://open.spotify.com/track/4l6cRJ99ytW8NUqelWn5IL) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Hatching a Dragon](https://open.spotify.com/album/4ZaPUMuADwnfJLZKEXbPix) | 2:46 | 2023-01-13 |  |
 | [have\-a\-cup](https://open.spotify.com/track/5kZHGyQEh8qj9H282Y5vkh) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [have\-a\-cup](https://open.spotify.com/album/3v33qdghvECCPCbFAZwIcR) | 2:16 | 2023-01-13 |  |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
+| [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 | 2023-01-13 |  |
 | [Heart\-Shaped](https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM) | [Lovely Rascals](https://open.spotify.com/artist/3vxzErr7ghDB5qnfFXnaw3) | [Heart\-Shaped](https://open.spotify.com/album/3QREKCZ4wBIIjZT9iLnXN8) | 2:48 | 2023-01-13 |  |
 | [hello there](https://open.spotify.com/track/4KXDXzJQSFnDBwxee5OWuR) | [akanekuro](https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ) | [hello there](https://open.spotify.com/album/5cSWlGSvXTpMYKX7IEhdbY) | 2:08 | 2023-01-13 |  |
@@ -423,6 +426,7 @@
 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 | 2023-10-13 |  |
 | [Out For a Walk](https://open.spotify.com/track/7An9ystJ5VTcPIsTO7x4tb) | [Same as Different](https://open.spotify.com/artist/48fJqNap8T1GWpKx9iNd1F) | [Lofi Jazzy Vibes](https://open.spotify.com/album/6xSoyzpvxutyNhe9gHUjdv) | 1:49 | 2023-01-13 |  |
 | [Outer Space](https://open.spotify.com/track/59Rha4bZILoIIz3RZiBoKM) | [BiRdy SanJazz](https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh) | [Outer Space](https://open.spotify.com/album/6RmwmQHwwQ6ivbCQ6XWXdv) | 2:12 | 2023-09-08 | 2023-09-16 |
+| [palm](https://open.spotify.com/track/2Hwwu9plR7Y0lBxByDiaYS) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [palm](https://open.spotify.com/album/4bFFUeBi8kPYsZl5g0XdqR) | 2:05 | 2023-12-08 |  |
 | [Paper Plane](https://open.spotify.com/track/7C3jWjgrThp6qP0KS6zZwy) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [Paper Plane](https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD) | 2:08 | 2023-01-13 |  |
 | [Parallel](https://open.spotify.com/track/22tdFCCzGNvmSB5lBc7FU0) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Parallel // Goodbye, Shadow](https://open.spotify.com/album/7hw9iK6rCSOLqMSyiA6q4i) | 2:04 | 2023-01-13 | 2023-07-20 |
 | [Paris Coffee Shop](https://open.spotify.com/track/36ncHJiM2riHWO2SFNJG3N) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Paris Coffee Shop](https://open.spotify.com/album/5fQJFzw3FV0I40rFw5ylb5) | 1:45 | 2023-01-13 | 2023-09-29 |
@@ -573,6 +577,7 @@
 | [Sunset Driver](https://open.spotify.com/track/7sB14XGjDap7MksnZD4kBc) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sunset Driver](https://open.spotify.com/album/45L0cycorLNnk9gMiwo2p9) | 3:17 | 2023-01-13 |  |
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2023-01-13 | 2023-09-16 |
 | [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
+| [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 | 2023-12-08 |  |
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2023-01-13 |  |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Sushi Brain](https://open.spotify.com/track/6qsaBLpqxkxCkS2pUYDslr) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Sushi Brain](https://open.spotify.com/album/3zwdMxlU8Ups7n2ZyJwL9B) | 2:14 | 2023-10-13 |  |
@@ -632,6 +637,7 @@
 | [unmellow yellow](https://open.spotify.com/track/5TXDVoAdfLRzv7OM7mfhXW) | [lazer lemon](https://open.spotify.com/artist/2NSxM4R70yorSYTJMoRpzX) | [unmellow yellow](https://open.spotify.com/album/27HTunr8tmVCGb7AReXxBM) | 2:26 | 2023-01-13 |  |
 | [Untouched Forests](https://open.spotify.com/track/7miIY9N2p0EaY6xu2cXjfY) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Untouched Forests](https://open.spotify.com/album/3ltelqdRX4G3Edam3p5n7F) | 2:24 | 2023-04-11 |  |
 | [Unwind](https://open.spotify.com/track/29FJzCW7Uj2VmwW4uroaiC) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Unwind](https://open.spotify.com/album/5PrhLUjoJ1YGI2LjfAIZ1O) | 2:03 | 2023-01-13 |  |
+| [Upper Lows](https://open.spotify.com/track/3lrBu4V4yz4VuFPJe5HNWy) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Upper Lows](https://open.spotify.com/album/0SdoJPwJWy3FPSqpIExNBh) | 2:02 | 2023-12-08 |  |
 | [urban souls](https://open.spotify.com/track/6AQUO1Nblsmz7BW0wvFCgt) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [urban souls](https://open.spotify.com/album/5YvHSBgHmflcRqJyBopsaK) | 2:46 | 2023-01-13 |  |
 | [Usual Place](https://open.spotify.com/track/6ibMtbjYS1Y9q5Otktze3x) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Usual Place](https://open.spotify.com/album/37OPRRkAowU03h8SoRvPYy) | 2:00 | 2023-04-11 | 2023-09-16 |
 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 | 2023-01-13 |  |

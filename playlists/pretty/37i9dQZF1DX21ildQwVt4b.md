@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ildQwVt4b.md) - [plain]
 
 > Featuring all trans, non\-binary, and two spirit voices discussing the future of gender justice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,222 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,221 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxmN2NiYTJiODE5YTBjZGMyOThhNzFhN2U0MjkxY2Y2ZTEwNDRmOTc4`
+Snapshot ID: `MCw2M2NjZjIwMzVkMTAwOGNkYjkyZjM2ZDU4MjIwMTI5ZTQwMmZmMjBj`

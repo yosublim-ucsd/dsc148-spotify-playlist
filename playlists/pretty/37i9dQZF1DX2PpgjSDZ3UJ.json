@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21773,
+  "num_followers": 21781,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzFjZDcwMDQxYzM1NTUxNzE1NDU0YzgwYjIxZWFjNGY1ZGE4ZmFl",
+  "snapshot_id": "MCw5NTYxOWVkNmU1YWIwN2I3YjBmYjNjOWM5ZDBmYjRhNGU0OTBhZjE0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 190640,
       "name": "Danza de Sol",
       "url": "https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "My America Is Not Your America",
         "url": "https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 306321,
       "name": "My America Is Not Your America",
       "url": "https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",

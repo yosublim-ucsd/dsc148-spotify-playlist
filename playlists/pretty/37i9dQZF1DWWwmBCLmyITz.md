@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,274 likes - 44 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,273 likes - 44 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 10 | [Voilà](https://open.spotify.com/track/3e7KcqiZN4wSrpoHUeYXjY) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 4:20 |
 | 11 | [Look Back](https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Look Back](https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN) | 3:04 |
 | 12 | [Thunderclouds \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:07 |
-| 13 | [Batshit](https://open.spotify.com/track/07wiTRlnyYjxGkYvORTdiV) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:23 |
+| 13 | [Batshit](https://open.spotify.com/track/398W8M7yOg2MuZJnlzrRS5) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:23 |
 | 14 | [손나은 추천곡 소개\(Curated by Son Na Eun\)](https://open.spotify.com/track/0hiuqwrfW4gGeuMs2weVwX) | [Son Na Eun](https://open.spotify.com/artist/3k5Lsr3T7BcYtyk1adkEzU) | [Agency Audio liner](https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf) | 0:15 |
 | 15 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 | 16 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 43 | [Don't Say \- Instrumental](https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 |
 | 44 | [Talk To Me \- Instrumental](https://open.spotify.com/track/5WYwLEQPQc8lLejVjUOjzj) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 |
 
-Snapshot ID: `MCxiYmFhMWFkZGY3MDFiOThiYjBhMjNiYjIzM2Y5MzU4ZjZlNGJmZDI0`
+Snapshot ID: `MCxlMDViYTIyZDcyZGJmYjdkZDVhZDVlNmNlN2Y1ZmEwZjE0ODdkMTZi`

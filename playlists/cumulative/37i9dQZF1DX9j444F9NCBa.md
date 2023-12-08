@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-540 songs - 1 day 3 hr 29 min
+548 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [August \- Piano](https://open.spotify.com/track/3RlBhtMVOJQiWWVOL5usY1) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/1AaSKM9uuMtpckNIJQfhR4) | 3:04 | 2022-12-16 | 2023-04-12 |
 | [August \- Piano](https://open.spotify.com/track/65cVOhZ4fd0aZLEyUcj6Je) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 3:04 | 2023-03-24 | 2023-06-03 |
 | [Baby I love your way](https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Baby I Love Your Way](https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ) | 2:23 | 2022-09-30 |  |
+| [Back for Good](https://open.spotify.com/track/1ODWd5kl6IzG1ZQARbcAaL) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [Back for Good](https://open.spotify.com/album/2DYUCHUNd6rgnsSbenSQxl) | 2:34 | 2023-12-08 |  |
 | [bad guy](https://open.spotify.com/track/1zXv69mtvZlCVNKcnutbp7) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [bad guy](https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC) | 2:21 | 2023-01-06 | 2023-06-03 |
 | [Bad Habits](https://open.spotify.com/track/5NNwshgwlk2hv22aj1e1mn) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 3:13 | 2022-12-02 |  |
 | [Bad Habits](https://open.spotify.com/track/35MPKqnvJFDaXYmvJJ7DoZ) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [Bad Habits](https://open.spotify.com/album/2YoyX9aEHljpw3trCnyHQA) | 3:20 | 2022-01-21 | 2022-12-02 |
@@ -93,6 +94,7 @@
 | [Can't Stop This Feeling](https://open.spotify.com/track/4GlJ1fHjO8ZChYRDcrwFr8) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Can't Stop This Feeling](https://open.spotify.com/album/5JQvrqriLPbqUgJCpp8JA8) | 3:01 | 2023-04-14 | 2023-06-03 |
 | [Careless Whisper](https://open.spotify.com/track/3WpgHSVHeSPJXRLSYDJ2kW) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Acoustic Guitar Covers II](https://open.spotify.com/album/5oIcVw7vCzKHtvxTIcLA7d) | 3:12 | 2023-06-08 | 2023-08-11 |
 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-20 |  |
+| [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
 | [Changes](https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Changes](https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ) | 3:09 | 2023-10-06 |  |
 | [Chasing cars](https://open.spotify.com/track/2mZRkIWQS1hqjLeCOFOoOL) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:40 | 2022-12-02 | 2023-04-14 |
 | [Chasing Cars](https://open.spotify.com/track/1L6AJIHq3ZQEBVGGvlltTp) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Chasing Cars](https://open.spotify.com/album/43yyM9q71QSiFRV2ZriGcq) | 2:40 | 2023-04-14 |  |
@@ -125,6 +127,8 @@
 | [Don't Let Me Down \(Instrumental\)](https://open.spotify.com/track/18RRTF9SbEOM9h3aoMKeNc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 | 2022-01-21 | 2023-04-29 |
 | [Don't Look Back In Anger](https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Don't Look Back In Anger](https://open.spotify.com/album/4oHlMLyej1Sb1UPvoDCezc) | 3:46 | 2022-12-02 | 2023-06-03 |
 | [Don't You Worry Child](https://open.spotify.com/track/3J7sFURDzIfnRmyLW8xAzF) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [Don't You Worry Child](https://open.spotify.com/album/3lkTUg2cqPr4Mqt4uXienx) | 3:38 | 2023-05-12 |  |
+| [Don´t Speak](https://open.spotify.com/track/4dHbpaYpTfoms8zFBLjJxC) | [Lily Michaels](https://open.spotify.com/artist/5umBxYZkWxJU6IH1niiJ3m) | [Don´t Speak](https://open.spotify.com/album/5F0qAUqoTQZbhjfyDkRyIx) | 3:42 | 2023-12-08 |  |
+| [Dream A Little Dream Of Me](https://open.spotify.com/track/6xIidCUt8vNnGHYfXH9hVU) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Dream A Little Dream Of Me](https://open.spotify.com/album/482fvXp5PuWSHqR01zR0xd) | 3:15 | 2023-12-08 |  |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2022-01-21 |  |
 | [Drivers License](https://open.spotify.com/track/1PgXOzu9gBTlDwuHBrS4gR) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Sour: Piano Instrumentals](https://open.spotify.com/album/7Gz4bLngGOjRyrkygaDL1O) | 4:20 | 2022-08-15 | 2022-10-29 |
 | [Drivers License](https://open.spotify.com/track/1KNY5yaClbVGYyeGQ9xPGC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Leave The Door Open](https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv) | 4:35 | 2022-10-28 | 2023-06-03 |
@@ -153,6 +157,7 @@
 | [Fields Of Gold](https://open.spotify.com/track/3tPbXeqDlpliZNNaCzNC6K) | [Scarlet Patel](https://open.spotify.com/artist/6Iqj1M1NzaOzIE4d5vCcM4) | [Fields Of Gold](https://open.spotify.com/album/50QiC76tE4Y61Q8il5aC2M) | 1:57 | 2022-09-30 | 2023-03-18 |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2022-01-21 | 2022-10-15 |
 | [Fix You](https://open.spotify.com/track/5dkN1lmO0Qc9tr7zIDsvrq) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Fix You](https://open.spotify.com/album/237VpOpUlxSe4UQJ2d9xSr) | 2:51 | 2023-04-14 | 2023-06-03 |
+| [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2023-12-08 |  |
 | [Fix You](https://open.spotify.com/track/3ForPcmt7W2jUTqgGjyKAN) | [Raphaela Esquelas](https://open.spotify.com/artist/7pd3yh8h1rD9x8POMkzkgg) | [Fix You](https://open.spotify.com/album/428DgqAtnVbbJhVKmcZ2Fl) | 3:39 | 2022-01-21 | 2022-12-02 |
 | [Fix You \- Piano Version](https://open.spotify.com/track/7gQ07Bd21vrDAiBgxcP4o6) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 4:14 | 2022-12-02 | 2023-04-14 |
 | [Flowers](https://open.spotify.com/track/7o8y3eDRgyBHFSjgu5PLXZ) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Flowers](https://open.spotify.com/album/03ZrfMF9vsSN62oQtZFnjZ) | 2:20 | 2023-03-17 |  |
@@ -192,6 +197,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4SKDQlj3g2vIS9AD1C5No9) | [Sarah Lauren](https://open.spotify.com/artist/5vblz7nYQR7uwDnbl38gEL) | [Happier Than Ever](https://open.spotify.com/album/0up0W5DjP25o6LtF9DF8jJ) | 2:57 | 2022-01-21 | 2023-03-25 |
 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 | 2023-02-10 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5NP4t2zPbqoOzeNDZWmE8U) | [Blake Wright](https://open.spotify.com/artist/3xmWhMwY31kqIzejidLlt8) | [Have You Ever Seen The Rain](https://open.spotify.com/album/25SXr9Z24oTBxdcIksPefu) | 2:25 | 2022-10-14 | 2023-04-29 |
+| [Heart Of Gold](https://open.spotify.com/track/4F9OMPxtu1imufP9PRJMDs) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [Heart Of Gold](https://open.spotify.com/album/3TgtFNT15QX2cM7SrSxkkg) | 2:33 | 2023-12-08 |  |
 | [Heartbeats](https://open.spotify.com/track/6my0GIox7dr4mlgNWw4GpL) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:04 | 2022-09-30 | 2023-04-29 |
 | [Heat Waves](https://open.spotify.com/track/48cSs3Ewgi5nuyhIV8byiZ) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 2:58 | 2022-12-02 | 2023-06-03 |
 | [Heat Waves \(arr\. piano\)](https://open.spotify.com/track/3ZBNqHz9AAYqF9XO9h8YG2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Heat Waves \(arr\. piano\)](https://open.spotify.com/album/5u3pwp8T9hJfNuAXDYffTt) | 2:17 | 2022-09-30 |  |
@@ -284,6 +290,7 @@
 | [Let Her Go](https://open.spotify.com/track/4B3pEmqb4yCdmYnG7IW410) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Let Her Go](https://open.spotify.com/album/41DUvdHFyfNuZU33SS795Z) | 3:17 | 2022-12-02 |  |
 | [Let Her Go](https://open.spotify.com/track/2GeoxQFm8rYWTk0wAuEFdV) | [Jonathan Sipal](https://open.spotify.com/artist/4KkUWY9VDplF77DGKmR0WO) | [Let Her Go](https://open.spotify.com/album/2lagKaBH1gT5Q8WJ6Z5Syz) | 2:56 | 2022-01-21 | 2022-05-03 |
 | [Let Her Go](https://open.spotify.com/track/6sXI8gKfhj9qrVe1hHdqtm) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Let Her Go](https://open.spotify.com/album/62yCcm77GRgbBNdRUfSGa5) | 3:09 | 2022-01-21 | 2022-12-16 |
+| [Let It Be](https://open.spotify.com/track/7L8zYETEb2WqxOTGO0kgjS) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Let It Be](https://open.spotify.com/album/0vYgrYSmyXIW4Mc3qL1ZGb) | 2:34 | 2023-12-08 |  |
 | [Let It Be](https://open.spotify.com/track/1kB5w3Oyp36ADW0ApGoHAE) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [Let It Be](https://open.spotify.com/album/0duEcNc0FM3PqWauFPKvQX) | 1:55 | 2023-02-24 | 2023-06-23 |
 | [Let It Be \- Piano Version](https://open.spotify.com/track/6WTikw3wYizU78xt0ahfKv) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 3](https://open.spotify.com/album/03oFXdELtbbLIPkr2FHpHq) | 2:53 | 2022-01-21 | 2023-02-24 |
 | [Let me love you](https://open.spotify.com/track/2I7NvGmHkgxrXp3FziqJGj) | [Tindra Rosenlind](https://open.spotify.com/artist/4JpM15j7tnB2O5mBqGo6E4) | [Let me love you](https://open.spotify.com/album/5rHBl1BPlHZsc9BB7DWO0o) | 4:12 | 2023-04-28 |  |
@@ -337,6 +344,7 @@
 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 | 2023-04-14 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/0rPLpzCJKIwMkM5GHZNm4F) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [Nothing Compares 2 U](https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF) | 3:13 | 2022-01-21 | 2023-04-29 |
 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-20 |  |
+| [Now And Then](https://open.spotify.com/track/2WUT10GOf1uEd0iG42aR7t) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Now And Then](https://open.spotify.com/album/4fCRBbwtAJmOXxJQMLmGie) | 3:08 | 2023-12-08 |  |
 | [Numb \- Piano](https://open.spotify.com/track/0K7yOelIWqEZhn3YUZU70M) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:10 | 2022-10-14 | 2023-04-12 |
 | [Numb \- Piano](https://open.spotify.com/track/5AYOA5nvtsFxEteyELq2Ki) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:10 | 2023-03-24 | 2023-06-03 |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-05-12 |  |

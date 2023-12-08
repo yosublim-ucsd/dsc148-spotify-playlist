@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380385,
+  "num_followers": 380400,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmI2YTA3ZTExNjA5ZjQ1ZGI1NmZiODZlMjMyMDlkYTZiOGQ1OTJi",
+  "snapshot_id": "MCxkYjlhY2IzMDVkM2M1ZjRiYTM2NTNkYmFjZDZhNDY4NzdhZWE1ZjA0",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letting In",
-        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
-      },
-      "artists": [
-        {
-          "name": "Beauville",
-          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
-        },
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Letting In",
-      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Letting In",
+        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
+      },
+      "artists": [
+        {
+          "name": "Beauville",
+          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Letting In",
+      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -591,6 +591,30 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 260866,
       "name": "Surprise Yourself",
       "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Subconsciously",
-        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 199768,
-      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "For The Very Last Time",
         "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 219788,
       "name": "A Million Doubts",
       "url": "https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 200368,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 183988,
       "name": "Sweet Summer Sweat",
       "url": "https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 200368,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D"
     },
     {
       "added_at": "2023-01-11 21:01:15",

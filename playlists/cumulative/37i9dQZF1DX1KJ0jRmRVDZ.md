@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-924 songs - 2 day 4 hr 42 min
+926 songs - 2 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Collar](https://open.spotify.com/track/43CQYlZRuru7VTk1UNDDg7) | [necchi](https://open.spotify.com/artist/27F63dd4bHW1BTIS15fNJb) | [Collar](https://open.spotify.com/album/5XHVSKuy9davVWqjN2bnvI) | 3:26 | 2023-11-29 |  |
 | [Contrail](https://open.spotify.com/track/6Jffw7lJh3tD8SV6rRo1D3) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [Contrail](https://open.spotify.com/album/5FULlgWKDYs668WaYaUq4l) | 2:55 | 2022-06-09 | 2022-06-14 |
 | [crash](https://open.spotify.com/track/0M8fxdsZtUTqo4bD1HxOng) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/1H9MBQi6MUPyVq4oXWEtz8) | 2:46 | 2022-06-09 | 2022-07-27 |
-| [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-16 |  |
+| [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-16 | 2023-12-08 |
 | [curtain](https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [curtain](https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW) | 2:43 | 2022-09-20 | 2022-10-26 |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO) | 2:41 | 2023-03-23 | 2023-03-31 |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 | 2022-06-09 | 2022-07-29 |
@@ -285,6 +285,7 @@
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-16 | 2022-09-07 |
 | [six feet under](https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [six feet under](https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1) | 3:37 | 2023-07-25 | 2023-08-04 |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-11 | 2023-11-29 |
+| [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 |  |
 | [SNEAKING](https://open.spotify.com/track/4zYlju4viLB237Htiz3zgo) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SNEAKING](https://open.spotify.com/album/39rmUoL2KGWuxRFQ28FfhN) | 2:36 | 2023-10-19 | 2023-10-25 |
 | [Someday](https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Someday](https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3) | 5:18 | 2022-06-16 | 2022-06-21 |
 | [Spica](https://open.spotify.com/track/3cwEY2BH2SALUHFeHLW4VM) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Spica](https://open.spotify.com/album/6skxVBdc3IvchpbUBZVZGC) | 2:45 | 2023-06-08 | 2023-08-25 |
@@ -648,6 +649,7 @@
 | [人間たるもの \- feat\. もこう, ユリイ・カノン](https://open.spotify.com/track/7cUfHMsJ1QtyfJhVwD9Y7g) | [WI'P](https://open.spotify.com/artist/1KEzWZ1QDaSTOCDnOB8R5n), [もこう](https://open.spotify.com/artist/7xo4duEUPlaF6Ux6XYSKoK), [ユリイ・カノン](https://open.spotify.com/artist/5BxqmNmDhSlTqIPXKeZIwN) | [人間たるもの \(feat\. もこう, ユリイ・カノン\)](https://open.spotify.com/album/1ICKbyc8VJBLxFYnYabs3d) | 3:10 | 2023-02-16 | 2023-02-22 |
 | [今回の炎上の件について](https://open.spotify.com/track/06Co8a5wRfOAIyKoGXFSj4) | [あたし](https://open.spotify.com/artist/7cXVvrtPmYeDXGSSTvOoSU) | [今回の炎上の件について](https://open.spotify.com/album/2VrYWMnNqRaWwlE5ZadSGY) | 2:21 | 2023-02-21 | 2023-03-01 |
 | [会えない](https://open.spotify.com/track/69iM6Hngr0OkZBxxCaohEx) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [相沢](https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb) | [会えない](https://open.spotify.com/album/0QkxlHYmvEsgFRsAhhP8Jz) | 3:30 | 2023-11-14 |  |
+| [個性](https://open.spotify.com/track/56Fr4U5BImRoCe84QqCNJf) | [Awairo](https://open.spotify.com/artist/5zCXmpe2klqd9LXL9Q7gxa) | [個性](https://open.spotify.com/album/3ZCcLATYnK0XMLiZErvagX) | 3:16 | 2023-12-07 |  |
 | [僕らのストラテジー](https://open.spotify.com/track/2yrOqr7f2bJg5Z5keVIbO8) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp), [晴いちばん](https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW), [Flower](https://open.spotify.com/artist/0VPLGnexd8K6BGbpLiPPVj) | [Ukulele Strategy](https://open.spotify.com/album/47xjZNxmVLnMTTbZrQCWVW) | 3:01 | 2022-06-21 | 2022-07-08 |
 | [優しさの在処](https://open.spotify.com/track/6arv0f7LlfDlyNfsaeVNjV) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [優しさの在処](https://open.spotify.com/album/2coTiBKAUB80TgEKpLxPfa) | 3:43 | 2022-06-30 | 2022-07-05 |
 | [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-01 | 2023-02-24 |

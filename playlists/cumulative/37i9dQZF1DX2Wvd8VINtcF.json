@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "1ST VOWS miracle",
+        "url": "https://open.spotify.com/album/1eNuSm3mRMxjgvFRd3iC0G"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        },
+        {
+          "name": "1ST VOWS",
+          "url": "https://open.spotify.com/artist/2DLo7eCypgXm3ViDvElOWE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "1ST VOWS miracle",
+      "url": "https://open.spotify.com/track/3DroZdaUGFKOaU7Ch6JVRb"
+    },
+    {
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -1001,6 +1023,28 @@
     },
     {
       "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203130,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
+    },
+    {
+      "album": {
         "name": "AM/FM",
         "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
       },
@@ -1455,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Baby You're A Star",
+        "url": "https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141206,
+      "name": "Baby You're A Star",
+      "url": "https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -1506,7 +1568,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 272695,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3znKpMRCzOloTYv0uGAs22"
@@ -2270,7 +2332,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 198649,
       "name": "blueprints of us",
       "url": "https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW"
@@ -2804,6 +2866,28 @@
       "duration_ms": 116976,
       "name": "Calling Your Name",
       "url": "https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u"
+    },
+    {
+      "album": {
+        "name": "Can You Believe It",
+        "url": "https://open.spotify.com/album/23tw3QTMSjioZa9SwmqLZ9"
+      },
+      "artists": [
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        },
+        {
+          "name": "DAYYANI",
+          "url": "https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178203,
+      "name": "Can You Believe It?",
+      "url": "https://open.spotify.com/track/4JCdKIbTurUEw62DBZWerI"
     },
     {
       "album": {
@@ -3558,6 +3642,24 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "album": {
+        "name": "COINS",
+        "url": "https://open.spotify.com/album/0A94tzNwJ1Ypgcb20mOkB4"
+      },
+      "artists": [
+        {
+          "name": "RAEGAN",
+          "url": "https://open.spotify.com/artist/2nB2BHirpyBx2sJc4QKfwz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "COINS",
+      "url": "https://open.spotify.com/track/31hpVui5KjTADblRVdQivQ"
     },
     {
       "album": {
@@ -5034,7 +5136,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 199497,
       "name": "Dust On The Money",
       "url": "https://open.spotify.com/track/0HIgUErSJec4SGCmddPUOz"
@@ -7453,6 +7555,32 @@
     },
     {
       "album": {
+        "name": "Happiness (feat. Asake & Gunna)",
+        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174743,
+      "name": "Happiness (feat. Asake & Gunna)",
+      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
+    },
+    {
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
       },
@@ -8314,7 +8442,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 241166,
       "name": "I Just Wanna Feel Your Love Again",
       "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
@@ -8580,6 +8708,28 @@
       "duration_ms": 218647,
       "name": "I'm So High (feat. Tamera & Toddla T)",
       "url": "https://open.spotify.com/track/1KFfz8hnfidxkvFjyUqvGn"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
       "album": {
@@ -9983,6 +10133,28 @@
     },
     {
       "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
         "name": "Let It Pass",
         "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
       },
@@ -10314,7 +10486,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 211666,
       "name": "Live For Me",
       "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
@@ -10791,6 +10963,28 @@
     },
     {
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb"
       },
@@ -11260,7 +11454,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 126891,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X"
@@ -11408,6 +11602,24 @@
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "album": {
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/5x0EMr3Ue2bH83CbLCm9n4"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/3txGeotloGcxftsfILid6V"
     },
     {
       "album": {
@@ -14473,6 +14685,28 @@
     },
     {
       "album": {
+        "name": "Save My Life (Folamour Remix)",
+        "url": "https://open.spotify.com/album/7emMblwJ7MZ1ejnuBhJ9X7"
+      },
+      "artists": [
+        {
+          "name": "Benny Mussa",
+          "url": "https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293747,
+      "name": "Save My Life - Folamour Remix",
+      "url": "https://open.spotify.com/track/4IbfSkANxDLlaqDptTZ5hE"
+    },
+    {
+      "album": {
         "name": "NO MORE ICONS?",
         "url": "https://open.spotify.com/album/617mKwqMjXsJqpstYxS2AU"
       },
@@ -14506,7 +14740,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 190222,
       "name": "Say You Want Me - Pocket Remix",
       "url": "https://open.spotify.com/track/1tTgKFv9pYOAIJ4n7hY5Bb"
@@ -14550,6 +14784,24 @@
       "duration_ms": 132249,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/0uR3mLceAIilrijZZzrFhy"
+    },
+    {
+      "album": {
+        "name": "see u",
+        "url": "https://open.spotify.com/album/5CuHiWXqJGGzU4UFKL9IDy"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130615,
+      "name": "see u",
+      "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
     },
     {
       "album": {
@@ -15272,7 +15524,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 218133,
       "name": "Small Sanctuary",
       "url": "https://open.spotify.com/track/7Lx1FPVrAunBz3ykpmFxsN"
@@ -15718,7 +15970,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 171985,
       "name": "Stay (ft. Omar Noir)",
       "url": "https://open.spotify.com/track/1yyPP0oltWpmVSUZ5gJe4R"
@@ -17332,7 +17584,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 238732,
       "name": "Tidsmaskin",
       "url": "https://open.spotify.com/track/7cLBjeXENSyfVC6oBz0FFe"
@@ -18365,6 +18617,24 @@
     },
     {
       "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
       },
@@ -18906,7 +19176,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 183093,
       "name": "WIPEOUT",
       "url": "https://open.spotify.com/track/2RVkDG7uifkLrKD66Z8l5z"
@@ -19070,6 +19340,32 @@
       "duration_ms": 211056,
       "name": "Work Hard Play Hard",
       "url": "https://open.spotify.com/track/0MWlasabRTIdgdgiL6X0kL"
+    },
+    {
+      "album": {
+        "name": "worst enemy",
+        "url": "https://open.spotify.com/album/0b7TrvJzjThvAq4KCgXF0C"
+      },
+      "artists": [
+        {
+          "name": "The Two",
+          "url": "https://open.spotify.com/artist/4ZHtEgJXQeL1CgqAcHla5Q"
+        },
+        {
+          "name": "\u9759\u7684 Static",
+          "url": "https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137717,
+      "name": "worst enemy",
+      "url": "https://open.spotify.com/track/3KrScOHsFsTfED2UvGg0N6"
     },
     {
       "album": {

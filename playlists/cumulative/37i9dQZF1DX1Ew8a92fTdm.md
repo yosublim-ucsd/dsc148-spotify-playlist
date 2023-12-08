@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-248 songs - 6 hr 19 min
+255 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Whole New World](https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:29 | 2022-02-10 |  |
 | [Above The Clouds](https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [Above The Clouds](https://open.spotify.com/album/0Qkj0sWVojbN3xsgiramj9) | 1:32 | 2022-02-10 | 2022-06-11 |
 | [Adventure Of Things](https://open.spotify.com/track/1AXMCQeypMb61BTIo3SBTn) | [Magical Wonders](https://open.spotify.com/artist/3WC72UDmuQ9lnnF5LIEvxE) | [Adventure Of Things](https://open.spotify.com/album/2y4N0o49sFYJJpzTqrJlrq) | 1:44 | 2022-02-10 | 2023-06-16 |
+| [Almost Bedtime](https://open.spotify.com/track/4lxWsII6WYqv2m6psFTWjQ) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [Almost Bedtime](https://open.spotify.com/album/1CXOzVd83iN3zwVte4uRgP) | 1:03 | 2023-12-08 |  |
 | [Amapola](https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc) | [Justin Tejedor](https://open.spotify.com/artist/5rF1iAOOglmQTg45bsmRu6) | [Musikbox](https://open.spotify.com/album/5W5UaRDHGYnaO4sk5AWQFZ) | 1:47 | 2022-02-10 | 2022-06-11 |
 | [Angels Watching](https://open.spotify.com/track/645aw5RzvcmIXq9s4H3JpR) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Angels Watching](https://open.spotify.com/album/0Q1B92Ey7yC9X4GAGvtVEb) | 1:20 | 2023-11-17 |  |
 | [Arioso](https://open.spotify.com/track/6cRJchgiqEWwaGQfydYaJW) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Pieces](https://open.spotify.com/album/590SCNsLWNHSHSmCH0mgU9) | 2:01 | 2022-02-10 | 2022-06-11 |
@@ -81,6 +82,7 @@
 | [Duermete Mi Nino](https://open.spotify.com/track/17kSN7QuksZHy3gTzU3v0M) | [Aza Leah](https://open.spotify.com/artist/115UYzeXQVMBYRvWZRiXFT) | [Duermete Mi Nino](https://open.spotify.com/album/4wVoUM7VFbIDommXI56Jvd) | 1:25 | 2022-02-10 | 2023-01-20 |
 | [Edelweiss](https://open.spotify.com/track/4Q5Gw98e96xyi67kB0naKw) | [Steffen Traugott](https://open.spotify.com/artist/4ThuGJiGjqGCld82PmOUt1) | [Wiegenlieder](https://open.spotify.com/album/2WUXZ2EIqoJHekyDWlTLSW) | 1:02 | 2022-02-10 |  |
 | [Edelweiss](https://open.spotify.com/track/4owbjiVRN3BbtDueur0vFW) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [Edelweiss](https://open.spotify.com/album/4qKXRag8TFCZnybgX0x2GO) | 1:22 | 2022-02-10 | 2022-04-23 |
+| [Elephant In The Pool](https://open.spotify.com/track/0oBMQX9VeLnJWNn5qbhVxs) | [Amy Roman](https://open.spotify.com/artist/12FvCDGPna0IpMgSrnNUpe) | [Elephant In The Pool](https://open.spotify.com/album/2gw5n0Ikr8LDgj7tfUSa2U) | 2:18 | 2023-12-08 |  |
 | [Elsas Vaggvisa \(MusicBox\)](https://open.spotify.com/track/10oj8CDN9OqSJRoajUH4Oe) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Stjärnfall MusicBox](https://open.spotify.com/album/552hmmxQb1A0xLHr96t4ac) | 1:06 | 2023-03-16 | 2023-06-03 |
 | [Elvira Fattigans Song](https://open.spotify.com/track/2SBnTu8Ne3WInyZlXuKB5o) | [Wilda Sigridsdottir](https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S) | [Elvira Fattigans Sång](https://open.spotify.com/album/7gDqsbPcfTsUwkWrxBSnJk) | 1:55 | 2023-04-20 | 2023-08-26 |
 | [En Liten Båt](https://open.spotify.com/track/4bhPTh7vuDQW0COhcxciEc) | [Mika Nordlind](https://open.spotify.com/artist/6hnc50bJnPjV4YHbpz4ooq) | [Speldosans Vaggvisor 1](https://open.spotify.com/album/4N3Oaf616jJURxBDwKZ6zh) | 1:22 | 2022-02-10 | 2023-06-03 |
@@ -92,6 +94,7 @@
 | [Floating Clouds](https://open.spotify.com/track/3FFJO2raXUlhCIYHva2qjD) | [Mike J Box](https://open.spotify.com/artist/5kX6lRGMcoyS3ipoQxOy3i) | [Floating Clouds](https://open.spotify.com/album/1q7wE4DmWvxglqyvuKWrDh) | 1:20 | 2023-06-08 |  |
 | [Flying](https://open.spotify.com/track/5ivEvbvH6B40OTa4cdoZKZ) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 1:52 | 2022-02-10 |  |
 | [foambeard](https://open.spotify.com/track/5cgaOEkAcZOOGro5BDMojS) | [Lady Lou Lullabies](https://open.spotify.com/artist/5uwcJi6f4dZ5RDoStZKur0) | [Night Night](https://open.spotify.com/album/7aCxEylSl7Tw85xXr0ggTE) | 2:11 | 2023-09-08 |  |
+| [Give me sunshine](https://open.spotify.com/track/63q2eW7u4f8faDdP6brmvK) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Give me sunshine](https://open.spotify.com/album/0G9Nu1lqp0k3et1aNCC5gK) | 1:34 | 2023-12-08 |  |
 | [Giver of All Dreams](https://open.spotify.com/track/0YMs4x4b2VgKyYVBC1hqy8) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:13 | 2022-02-10 |  |
 | [Go the Distance](https://open.spotify.com/track/1p5bs2UZG8BLLTagZ2ly6m) | [Ember Roses](https://open.spotify.com/artist/0Al4ii7WbbtEf1Ss29RTL6) | [Go the Distance](https://open.spotify.com/album/3XOBAP00FytQ0GgnXDVh5U) | 1:21 | 2022-02-10 |  |
 | [Go to bed, you sleepy head](https://open.spotify.com/track/19XE4ZAK06cqCEYZ9Tq87d) | [Joanie West](https://open.spotify.com/artist/0G7dE6ClPsupJLc2D90Wgn) | [Go to bed, you sleepy head](https://open.spotify.com/album/7iD57NcdkIaAFxzlNwj830) | 1:00 | 2022-02-10 |  |
@@ -137,6 +140,7 @@
 | [Main Theme \(From "Babar"\) Music Box Version](https://open.spotify.com/track/4QYZumVgfGNaP52IVEb6uT) | [Orson's Library](https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT) | [Main Theme \(From "Babar"\)](https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL) | 1:17 | 2022-11-25 |  |
 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 | 2022-11-25 | 2023-08-26 |
 | [Mandy's Song \- Music Box Version](https://open.spotify.com/track/74BZeqiAMkLK9050s5O7rK) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Mandy's Song \(Music Box Version\)](https://open.spotify.com/album/4pfxpWd0pyC41zU8P33MAp) | 1:55 | 2023-10-20 |  |
+| [Mango Sticky Rice](https://open.spotify.com/track/3xc20F7YzKVbSSFLjVdMnh) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Mango Sticky Rice](https://open.spotify.com/album/14udllhsvarw9XRww5kYjc) | 1:18 | 2023-12-08 |  |
 | [Mary Had a Little Lamb](https://open.spotify.com/track/0HBraBC6wDKgcamaMPAzJH) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 1:52 | 2023-08-24 |  |
 | [Merrily We Roll Along](https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Merrily We Roll Along](https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW) | 0:41 | 2023-06-21 |  |
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 |  |
@@ -199,6 +203,7 @@
 | [Stars At Night](https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Stars At Night](https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl) | 1:16 | 2022-06-10 |  |
 | [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-22 |  |
 | [Storybook](https://open.spotify.com/track/3yPJpsAl7FIQ4AaDP5RQkr) | [Maria Gustavo](https://open.spotify.com/artist/0iTNrCJl7pHmoN50pTNL3t) | [Storybook](https://open.spotify.com/album/5hvuGvH0a6v5LntcX7HywG) | 1:51 | 2023-11-17 |  |
+| [Summer Breeze](https://open.spotify.com/track/7wnDE54KPPU2orw1S3rIAP) | [Jasper Rose](https://open.spotify.com/artist/0BPUcozC2MjvitrABNOLId) | [Summer Breeze](https://open.spotify.com/album/6ynhDnqP1WVdmPzpaTQ1GV) | 1:40 | 2023-12-08 |  |
 | [Summer Winds](https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz) | [My Karlsson](https://open.spotify.com/artist/17OxDKRw1phb7w0BuwOJsa) | [Summer Winds](https://open.spotify.com/album/758fZCThDVmBnISA5Cdwk6) | 1:08 | 2023-10-06 |  |
 | [Summertime Waltz](https://open.spotify.com/track/3RAwUnAAIzKKSo0tRxg79H) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Summertime Waltz](https://open.spotify.com/album/5kUIDGogx2UhDNrI2jRBoy) | 2:03 | 2022-05-17 |  |
 | [Sun and Moon](https://open.spotify.com/track/5PNFq0WUwzuIOt4UMkUBKz) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Close Your Eyes \(and Fall Asleep\)](https://open.spotify.com/album/3lP1kXb7V4olCqoREUQaR7) | 2:04 | 2022-02-10 |  |
@@ -214,6 +219,7 @@
 | [Teeny Tiny Fortress](https://open.spotify.com/track/1sYRJMBcaS5TIfelrS4MXE) | [Laila Walton](https://open.spotify.com/artist/6JuIEojmY6muknH6pXp4ZR) | [Teeny Tiny Fortress](https://open.spotify.com/album/3IMKliBe95wlMROqgquHC3) | 1:27 | 2022-10-07 |  |
 | [Ten Green Bottles](https://open.spotify.com/track/253pJVE3sYCzpEWZqteYZh) | [Mamie Botello](https://open.spotify.com/artist/0DIxPs7iNFy6DEvl86W9Yo) | [Sailor Went To Sea](https://open.spotify.com/album/4pHl7jAk6iXfpnkCRIScw6) | 0:46 | 2022-02-10 | 2022-04-23 |
 | [The Astronaut](https://open.spotify.com/track/6fh2DF5RlwJwIuvpTUHSqw) | [Three Potatoes](https://open.spotify.com/artist/2mbvwbw8vinmBCmtNmTOTq) | [The Astronaut](https://open.spotify.com/album/7AaVdOmjThttQc8PsP8bQV) | 1:18 | 2022-10-07 |  |
+| [The Baker's Song](https://open.spotify.com/track/1Ae63oD6DF0gTWhTJ1ZmyW) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [The Baker's Song](https://open.spotify.com/album/18B6H015vql2m1Wmn9wY9h) | 0:56 | 2023-12-08 |  |
 | [The Bestest Friend](https://open.spotify.com/track/3vT72R7AePCJXPKLMvqbpy) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [The Bestest Friend](https://open.spotify.com/album/4IfCGH5U9lMo8sfv80Xha1) | 1:41 | 2022-02-10 |  |
 | [The Carousel](https://open.spotify.com/track/4RTdBnJYhV58DGrhCJy8Q2) | [Gobblis](https://open.spotify.com/artist/3YSmdEAelsfSIm4uArfV3O) | [The Carousel](https://open.spotify.com/album/3d14PkRC52xnekQ7C6QDTC) | 1:12 | 2022-02-10 | 2022-11-26 |
 | [The Fisherman](https://open.spotify.com/track/61ZWC8H3rJ5HP4mwt6CR3Y) | [Hannah Belstead](https://open.spotify.com/artist/1qRdZ3SW7xLqk4GszgtCK6) | [The Fisherman](https://open.spotify.com/album/1xGyvv3513BTEYFACrEdF2) | 1:16 | 2022-02-10 |  |
@@ -236,6 +242,7 @@
 | [Twinkle twinkle little star](https://open.spotify.com/track/3Q1gKxJo0xAsI1TpXdYccs) | [Rene Roses](https://open.spotify.com/artist/221z7KkoNPAehx4DhjF33f) | [Baby Lullabies](https://open.spotify.com/album/5B5AuzHG2fLyxayH4SAKCf) | 1:23 | 2023-02-17 |  |
 | [Twinkle twinkle little star](https://open.spotify.com/track/0GpjHdTg8HUBqqjjbuyRZx) | [Sabelia Robles](https://open.spotify.com/artist/6rq2TupUat1Bqgh9KSmc1e) | [Twinkle twinkle little star](https://open.spotify.com/album/38kjDndrsXh2BuxXhvuOlo) | 0:54 | 2022-02-10 | 2022-04-23 |
 | [Twinkling Dreams](https://open.spotify.com/track/1sSohEBI1HerYA3gOaHJXd) | [David Aydin](https://open.spotify.com/artist/44sI7kxhWJ08lYnGw492Om) | [Twinkling Dreams](https://open.spotify.com/album/3I8IeoIkwK7kAYxunROibU) | 1:19 | 2023-10-20 |  |
+| [Under The Moonlight](https://open.spotify.com/track/02C0r74IluFkqqu5FTMGmq) | [Green Dino](https://open.spotify.com/artist/7MVCEO6QGAHj3KIIQplBpl) | [Under The Moonlight](https://open.spotify.com/album/6MO1hpFOPCS5hYyC4yFXGC) | 1:45 | 2023-12-08 |  |
 | [Until I Found You](https://open.spotify.com/track/7lElQ1zwjKaEfINWBT4ATx) | [Nanny Pim](https://open.spotify.com/artist/35xpkDRoznKCO6bAK4X2tH) | [Until I Found You](https://open.spotify.com/album/2amJKlDL51npWq2CzPjBMO) | 1:07 | 2022-11-25 |  |
 | [Vem kan segla förutan vind](https://open.spotify.com/track/6NOOTscrozQ0KBJauyB0jc) | [Elliot Gordon](https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a) | [Musix Box Lullabies](https://open.spotify.com/album/1u4RVkv7lRBGdiujfpOVxd) | 1:19 | 2023-03-16 | 2023-06-03 |
 | [Videvisan](https://open.spotify.com/track/21bIVZk8cGOCCoEfgnqVEm) | [Kerstin Kempe](https://open.spotify.com/artist/1QvAHSuu023cDHMSIhsslX) | [Videvisan](https://open.spotify.com/album/1zn9Dh2o6gdmi0iH0Atva4) | 1:22 | 2022-12-09 | 2023-08-25 |

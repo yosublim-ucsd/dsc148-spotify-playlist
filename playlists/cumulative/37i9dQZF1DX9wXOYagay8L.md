@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=ZcnGNbUxQlyrFIYIhVZLCw">Lwah Ndlunkulu</a>
+> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu?si=nvvCipfkR6KQyMwv3cqysw">Mnqobi Yazo</a>
 
-511 songs - 1 day 12 hr 42 min
+513 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Idliso](https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK) | [Nozi](https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y) | [Idliso](https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK) | 5:05 | 2022-11-17 | 2023-06-30 |
 | [Ikherubhi](https://open.spotify.com/track/2n8tN67x4dBNUjf5qCGa5r) | [Mpumi Mzobe](https://open.spotify.com/artist/28HsboP2nvlkVyNemAvs3l), [Villager SA](https://open.spotify.com/artist/3IV8hNUqZuET32bq0ttUoj) | [Ikherubhi](https://open.spotify.com/album/2DHztJwxjSs9vdvZcDIIcv) | 5:38 | 2022-10-28 | 2022-11-15 |
 | [Ilanga](https://open.spotify.com/track/2HmBIq2pmNSjCmNNeZMJjM) | [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Deeply Rooted](https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ) | 3:45 | 2021-12-28 | 2022-02-18 |
-| [iLanga Lakho](https://open.spotify.com/track/5EivzbVw42HmpnRPnZRH9c) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [iLanga Lakho](https://open.spotify.com/album/3xqM88DptGJ6iSNf0NXLaK) | 4:44 | 2023-09-21 |  |
+| [Ilanga](https://open.spotify.com/track/71ljcc2HUJFIvZlTpSjzyN) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Ilanga](https://open.spotify.com/album/70iUftbnlvEs0GhQMQxWxJ) | 3:52 | 2023-12-08 |  |
+| [iLanga Lakho](https://open.spotify.com/track/5EivzbVw42HmpnRPnZRH9c) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [iLanga Lakho](https://open.spotify.com/album/3xqM88DptGJ6iSNf0NXLaK) | 4:44 | 2023-09-21 | 2023-12-08 |
 | [Imali](https://open.spotify.com/track/2sSGjEvNGSBS6I0TLI0jrq) | [Mandz Not Hot](https://open.spotify.com/artist/6xXFCjnXMs9UCiyNcegZlw), [S.eemah\_x](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Zwano](https://open.spotify.com/artist/0mDqFvO5UCoFlUdTIKx9tq) | [Imali](https://open.spotify.com/album/2k6F7Etup6B2g3MobHeQSz) | 4:02 | 2023-02-10 | 2023-02-24 |
 | [Imali](https://open.spotify.com/track/7GX1WWRjoDGeYTOLASuEnq) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Imali](https://open.spotify.com/album/7sHBHQnKV7WTD0XHTg7Hue) | 4:18 | 2022-06-30 | 2022-09-10 |
 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 | 2023-08-03 | 2023-08-05 |
@@ -348,7 +349,7 @@
 | [Ooh Lala](https://open.spotify.com/track/1CB29KyAf2lI2UgSYEhPgK) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ooh Lala](https://open.spotify.com/album/5fW2Q1xwB4dHEL5b99xfxD) | 3:22 | 2021-11-18 | 2022-03-25 |
 | [Othanda Mina](https://open.spotify.com/track/7CBGbm4zPNGe0sbCEf1SA5) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Othanda Mina](https://open.spotify.com/album/0OILOtl8viER0JAkRKiORB) | 4:43 | 2021-10-21 | 2022-02-18 |
 | [Outro \(Impi\)](https://open.spotify.com/track/5CZbzl4YZhDIzee6vnZwKN) | [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Emakhosini](https://open.spotify.com/album/0sUls8oOzLRqW6xIEtzCdz) | 3:32 | 2022-09-15 | 2022-11-18 |
-| [Owa Mntwana](https://open.spotify.com/track/75WWCDj6Xk65gCaVjztWrL) | [Mpumi](https://open.spotify.com/artist/7IoFnVmSBtCK528aCfFQdJ) | [Owa Mntwana](https://open.spotify.com/album/2YyC7CGRi19wnXZ87esccw) | 6:17 | 2023-11-16 |  |
+| [Owa Mntwana](https://open.spotify.com/track/75WWCDj6Xk65gCaVjztWrL) | [Mpumi](https://open.spotify.com/artist/7IoFnVmSBtCK528aCfFQdJ) | [Owa Mntwana](https://open.spotify.com/album/2YyC7CGRi19wnXZ87esccw) | 6:17 | 2023-11-16 | 2023-12-08 |
 | [OWAMI \(feat\. Msaki\)](https://open.spotify.com/track/79XTMk8TGJZYpYEvLv0DHq) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [SR3](https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT) | 3:13 | 2022-09-15 | 2022-10-21 |
 | [Pain Ya Jealous](https://open.spotify.com/track/4Y8jM82FUOyltRrqSELVPS) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Pain Ya Jealous](https://open.spotify.com/album/5qz2j8ZfrgsggSqq6ildGe) | 5:13 | 2022-03-24 | 2022-09-23 |
 | [Paradise](https://open.spotify.com/track/2mdqivSHJWsbTR6rIwSUWO) | [Lloyd Cele](https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg) | [Paradise](https://open.spotify.com/album/1ME1ZG3wIh8rVWjTJLUmWU) | 3:42 | 2022-06-16 | 2022-07-01 |
@@ -411,6 +412,7 @@
 | [Sondela](https://open.spotify.com/track/3ldMHmSYIoF2jf042vhG02) | [MaNgcobo Khoza](https://open.spotify.com/artist/7KHsDkc4uJCw3ks741fcuD) | [Sondela](https://open.spotify.com/album/5m8hw6BhkuvavhHViEcpQp) | 3:55 | 2023-08-31 | 2023-10-17 |
 | [Sondela](https://open.spotify.com/track/62zPjW7LXGWj290EvQjreU) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Sondela](https://open.spotify.com/album/4YpgSQZCYVdDxC6hcUcWWi) | 2:26 | 2022-06-02 | 2022-06-17 |
 | [Sondela My Love](https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Tee Tee](https://open.spotify.com/artist/4aBFsMUKrFmmWErhjffHBW) | [Sondela My Love](https://open.spotify.com/album/0AQvG3M6bwk3QlGYYDXgO5) | 3:49 | 2022-09-29 | 2023-06-23 |
+| [Soul Mate](https://open.spotify.com/track/1lKBbu3JssrtPzOCheN0Jk) | [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Ka$h CPT](https://open.spotify.com/artist/6lDKeC4Y5FJqEtnJDzrI2b) | [Soul Mate](https://open.spotify.com/album/4DYk4h1vl3CN06fU2qUWug) | 4:49 | 2023-12-08 |  |
 | [Soze Ndixole](https://open.spotify.com/track/5IE6y5Vqx6bjSws7ZhuCUe) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Soze Ndixole](https://open.spotify.com/album/1aKY1cEE7H73nw7U1RPs6h) | 4:22 | 2023-08-31 |  |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-03-31 | 2022-10-14 |
 | [Sphila](https://open.spotify.com/track/0eRjEAAgM2ERSlIo98hviS) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Sphila](https://open.spotify.com/album/4b96sbHZRnkTRdUvlbiQga) | 5:49 | 2022-10-13 | 2022-11-08 |

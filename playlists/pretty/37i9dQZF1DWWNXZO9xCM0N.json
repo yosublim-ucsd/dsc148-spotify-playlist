@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 72031,
+  "num_followers": 72102,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTNmY2ExZDdlOTY0YzM4ZDhkMGVkYzUzMjY5ZGNhMDIyZDBkYjNi",
+  "snapshot_id": "MCw4ZmI0ZTdiYmNmYmYxYjBjZWU4Mjc3OGQ4YmE1YWY3MzMwNTM3NGE3",
   "tracks": [
     {
       "added_at": "2022-01-11 21:31:49",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Determination",
-        "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 383533,
-      "name": "Yambeque",
-      "url": "https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "Creativo",
         "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 305057,
       "name": "Zumbale",
       "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 383533,
+      "name": "Yambeque",
+      "url": "https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164"
     },
     {
       "added_at": "2022-01-11 21:31:49",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
+        "name": "A Lifetime of Hits... (Live At Centro de Bellas Artes, San Juan, Puerto Rico.)",
+        "url": "https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz"
+      },
+      "artists": [
+        {
+          "name": "Richie Ray & Bobby Cruz",
+          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
+        }
+      ],
+      "duration_ms": 598853,
+      "name": "Sonido Bestial",
+      "url": "https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 364160,
       "name": "Ligia Elena",
       "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
-        "name": "A Lifetime of Hits... (Live At Centro de Bellas Artes, San Juan, Puerto Rico.)",
-        "url": "https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz"
-      },
-      "artists": [
-        {
-          "name": "Richie Ray & Bobby Cruz",
-          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
-        }
-      ],
-      "duration_ms": 598853,
-      "name": "Sonido Bestial",
-      "url": "https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM"
     },
     {
       "added_at": "2022-01-11 21:31:49",

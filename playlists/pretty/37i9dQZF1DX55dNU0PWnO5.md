@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,951 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,985 likes - 200 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [i've prepared my entire life for this](https://open.spotify.com/track/497DyJqfw3viIe75HjzcGH) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO) | [i've prepared my entire life for this](https://open.spotify.com/album/562yLlE32KphWhkVjcMRpm) | 2:57 |
-| 2 | [White Out](https://open.spotify.com/track/4YZ9cfpQajbJksSLynprVr) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [White Out](https://open.spotify.com/album/2F0W8v3yo93XOmFSG40CDj) | 2:48 |
-| 3 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 |
-| 4 | [Intrusive Thoughts](https://open.spotify.com/track/6LoIULr7zGBlFJ7EDO8Ooq) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Intrusive Thoughts](https://open.spotify.com/album/4FhjqWL3DOx3rQGahA36v6) | 3:36 |
-| 5 | [Kairos \(Kefi\)](https://open.spotify.com/track/3ZqrwYaWu4wrum0MkXIdwV) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 5:08 |
-| 6 | [Crumbs](https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Between Planets](https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ) | 1:33 |
-| 7 | [Drum Punishment](https://open.spotify.com/track/18YutEFKQyHt5TUnVR9EAW) | [Jon Kennedy](https://open.spotify.com/artist/0quxTLpktFyiRP853em5Fn) | [Drum Punishment](https://open.spotify.com/album/17MNtFFgce54OjvgtXLEEV) | 6:38 |
-| 8 | [Gone Bowling](https://open.spotify.com/track/67wFGvo3gRo4x9VK4wezWR) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gone Bowling](https://open.spotify.com/album/3atYtuKUcOZAdzZ61Tu00I) | 2:20 |
-| 9 | [IJ](https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [IJ](https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa) | 2:30 |
-| 10 | [School is Out](https://open.spotify.com/track/5mlKpS72EC7S1EUk0ZGQsS) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Bass Sax Beats, Vol\. 3](https://open.spotify.com/album/3RVIQNt4hC9dmibdhAqxe6) | 3:31 |
+| 2 | [Builder](https://open.spotify.com/track/10227FHuo66ztQWglQEGTp) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Builder](https://open.spotify.com/album/2I39kyieeQPEshJZmxMdmh) | 2:31 |
+| 3 | [White Out](https://open.spotify.com/track/4YZ9cfpQajbJksSLynprVr) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [White Out](https://open.spotify.com/album/2F0W8v3yo93XOmFSG40CDj) | 2:48 |
+| 4 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 |
+| 5 | [Intrusive Thoughts](https://open.spotify.com/track/6LoIULr7zGBlFJ7EDO8Ooq) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Intrusive Thoughts](https://open.spotify.com/album/4FhjqWL3DOx3rQGahA36v6) | 3:36 |
+| 6 | [Kairos \(Kefi\)](https://open.spotify.com/track/3ZqrwYaWu4wrum0MkXIdwV) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 5:08 |
+| 7 | [Crumbs](https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Between Planets](https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ) | 1:33 |
+| 8 | [Drum Punishment](https://open.spotify.com/track/18YutEFKQyHt5TUnVR9EAW) | [Jon Kennedy](https://open.spotify.com/artist/0quxTLpktFyiRP853em5Fn) | [Drum Punishment](https://open.spotify.com/album/17MNtFFgce54OjvgtXLEEV) | 6:38 |
+| 9 | [Gone Bowling](https://open.spotify.com/track/67wFGvo3gRo4x9VK4wezWR) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gone Bowling](https://open.spotify.com/album/3atYtuKUcOZAdzZ61Tu00I) | 2:20 |
+| 10 | [IJ](https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [IJ](https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa) | 2:30 |
 | 11 | [Beat Hopper \- The 3rd Session](https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [Beat Hopper \(The 3rd Session\)](https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8) | 4:14 |
 | 12 | [r&r](https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/4WGxcr3aYMv1Dm6Xl1bwRN) | 3:27 |
 | 13 | [Wonder](https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wonder](https://open.spotify.com/album/0V6u5oyZhB5vx1EJroIXi2) | 2:07 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCwxZjlkMDkyOTNhYjZmYmY2YjcyZDRjZTNlNWY4MTU1ODU2NGY2ZmMy`
+Snapshot ID: `MCw1MWU3ZDIyMzM1YzA0NTRjYjYyMGFhMzYxZjBiZmNlOTQ0MDNiMDMz`

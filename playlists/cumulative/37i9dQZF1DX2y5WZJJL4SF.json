@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Dream Is a Wish Your Heart Makes",
+        "url": "https://open.spotify.com/album/5spi6T2rtCXbrIZDIYHfyq"
+      },
+      "artists": [
+        {
+          "name": "Divine Dana",
+          "url": "https://open.spotify.com/artist/42avXwk7bYkSv0b9NBOhhm"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108624,
+      "name": "A Dream Is a Wish Your Heart Makes",
+      "url": "https://open.spotify.com/track/6EPgYJrkrl8f228tEXhKcf"
+    },
+    {
+      "album": {
         "name": "A Glass of Milk",
         "url": "https://open.spotify.com/album/7A0qy0QZunqfBzEi5cr3D5"
       },

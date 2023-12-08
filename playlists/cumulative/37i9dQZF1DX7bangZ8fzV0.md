@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=\-H2WuM3fS\-OOdPCbWfzgBg">Appel</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=jneE8\-H4S9Cm162yA6Ga2g">Ricus Nel</a>
 
-185 songs - 10 hr 20 min
+187 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Die Dansvloer](https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Die Dansvloer](https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx) | 3:04 | 2023-02-02 | 2023-04-21 |
 | [Die Rower](https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Die Rower](https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO) | 4:15 | 2023-09-21 | 2023-10-27 |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 |  |
-| [Ditjies & Datjies](https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3), [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Ditjies & Datjies](https://open.spotify.com/album/7m3yfmPUbRm6FNFBmdyxD6) | 3:18 | 2022-12-01 |  |
+| [Ditjies & Datjies](https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3), [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Ditjies & Datjies](https://open.spotify.com/album/7m3yfmPUbRm6FNFBmdyxD6) | 3:18 | 2022-12-01 | 2023-12-08 |
 | [Dogter](https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dogter](https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i) | 4:03 | 2022-11-17 | 2023-02-03 |
 | [Drink](https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa) | [Frikkie Braaibroodjie](https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL) | [Drink](https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx) | 3:18 | 2022-12-01 | 2023-02-10 |
 | [EEN TWEE](https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [EEN TWEE](https://open.spotify.com/album/3MO3xOBykVnnbqOCXzg1JB) | 2:25 | 2022-07-14 | 2022-10-14 |
@@ -71,6 +71,7 @@
 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 | 2022-04-20 |  |
 | [Handgranaat](https://open.spotify.com/track/0nirzE8VzdxQJDLk4UC1WV) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Handgranaat](https://open.spotify.com/album/3d4NgR6ZcalOKIiktcqTm1) | 3:54 | 2022-04-14 | 2022-10-29 |
 | [Hardekole](https://open.spotify.com/track/61StNZ96SCYNlM5l0IGdPl) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Ouskool \- Boerseun](https://open.spotify.com/album/4uH7O3EodyvrNXyISbLf6F) | 4:29 | 2023-03-09 | 2023-09-01 |
+| [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 | 2023-12-08 |  |
 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 | 2023-11-30 |  |
 | [Hey Jy](https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Hey Jy](https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC) | 3:20 | 2023-08-03 | 2023-11-03 |
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 |  |
@@ -86,6 +87,7 @@
 | [Jona](https://open.spotify.com/track/1ayD1GOwLOYuagWkMKMhnB) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/4csicD8Mqlrxx8vgvUnXGi) | 3:02 | 2022-04-14 | 2022-11-25 |
 | [Jou Lippe](https://open.spotify.com/track/7mvzTspWvSyGyOvH4Z5a0o) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Swaeltjies](https://open.spotify.com/album/4XDDLItIj4rCR8zDdou82V) | 3:35 | 2023-03-09 |  |
 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 | 2022-09-22 | 2023-09-16 |
+| [Kalahari Ferrari](https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kalahari Ferrari](https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP) | 3:22 | 2023-12-08 |  |
 | [Kannie Sonder Jou Nie](https://open.spotify.com/track/1J0nJQxgno6jiHKAhdAO2G) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Jy Ken My Naam](https://open.spotify.com/album/5qKLrFVXNqfps1WvLPF4wF) | 3:26 | 2021-12-02 | 2022-12-24 |
 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 | 2023-03-09 |  |
 | [Khaki](https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Khaki](https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3) | 3:06 | 2023-06-22 |  |
@@ -110,7 +112,7 @@
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 |  |
 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 | 2023-08-24 |  |
 | [Ligte Af](https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Ligte Af](https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe) | 3:26 | 2023-07-20 | 2023-08-18 |
-| [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 |  |
+| [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2023-12-08 |
 | [Lyntjie](https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Lyntjie](https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg) | 3:05 | 2023-07-13 |  |
 | [Maak 'n Plan](https://open.spotify.com/track/5q5fkffY4JxRlb5zpl92kq) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Maak 'n Plan](https://open.spotify.com/album/0f8TL15rhE8ejfouXHDBxs) | 3:08 | 2022-03-17 | 2022-10-29 |
 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 | 2023-05-11 | 2023-07-14 |

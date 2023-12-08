@@ -2,14 +2,15 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Gwendoline
+> La scène française branchée sur courant alternatif\. Photo : TERRIER
 
-99 songs - 5 hr 19 min
+104 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [200 km/h](https://open.spotify.com/track/17UYpnAQnpJLBJCeg8YFUX) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [200 km/h](https://open.spotify.com/album/5xjwqRzTw2YqtxbthiC1JM) | 2:40 | 2023-10-12 |  |
+| [200 km/h](https://open.spotify.com/track/17UYpnAQnpJLBJCeg8YFUX) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [200 km/h](https://open.spotify.com/album/5xjwqRzTw2YqtxbthiC1JM) | 2:40 | 2023-10-12 | 2023-12-08 |
 | [500 Vices](https://open.spotify.com/track/6kbSkAiySurZ6RwcauNVnF) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [500 Vices](https://open.spotify.com/album/3RU6yV2zzVAS9DX6TZHgyV) | 2:51 | 2023-11-23 |  |
+| [A l'envers](https://open.spotify.com/track/6sHyC8rtNTwKFqbYLYQRqz) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [A l'envers](https://open.spotify.com/album/2c3YboUmihsseuzBSeTOI9) | 2:51 | 2023-12-08 |  |
 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 | 2023-11-02 |  |
 | [Aloha Baby](https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Aloha Baby](https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh) | 6:05 | 2023-09-28 | 2023-12-01 |
 | [Aspiration](https://open.spotify.com/track/1blgJMWytwChDZK16qWCfl) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:02 | 2023-11-02 |  |
@@ -18,11 +19,13 @@
 | [Au Top](https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 2:59 | 2023-09-28 | 2023-10-20 |
 | [Bagarre](https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bagarre](https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6) | 2:24 | 2023-10-26 |  |
 | [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 |  |
+| [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:14 | 2023-12-08 |  |
 | [Brumeux](https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Brumeux](https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV) | 3:14 | 2023-10-26 |  |
 | [Call Me](https://open.spotify.com/track/2CF2OEphV5XeP0Gz6eICO7) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Dernier Orage](https://open.spotify.com/album/1lGNHr5zhRiwKfGbQmHKPY) | 3:26 | 2023-10-26 |  |
 | [Catch Me](https://open.spotify.com/track/3aAmbkmw4wGiCAIn1Ktwlv) | [Balm](https://open.spotify.com/artist/4hI6ww0nRIy2qtXh48yKlp) | [Lavender](https://open.spotify.com/album/4nCf0hlINNS0mF6LeK0Cmh) | 3:43 | 2023-09-28 |  |
 | [Ce monde où tu n'existes pas](https://open.spotify.com/track/1rBhr3qkZxueavxEc5xnov) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 3:17 | 2023-11-16 |  |
 | [Ce que la lune éclaire](https://open.spotify.com/track/3m5pD1dbGn5UoWUAiKyg8A) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Ce que la lune éclaire](https://open.spotify.com/album/6I9VmoqM3N8NtEotua9LVH) | 3:45 | 2023-09-28 | 2023-10-06 |
+| [Cendrier](https://open.spotify.com/track/4YEU26a5jxNdgMZZyKcqbv) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Cendrier](https://open.spotify.com/album/7eoZifUGGHBHRgIP0U0mqu) | 3:24 | 2023-12-08 |  |
 | [Christiane F](https://open.spotify.com/track/20qFSAGLPpDxaQJYd1fB7G) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Christiane F](https://open.spotify.com/album/73RKng65JeReqOgTTLGspF) | 2:31 | 2023-09-28 | 2023-11-17 |
 | [Chromé total](https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm) | [Scuffles](https://open.spotify.com/artist/2FLeI069itvCLf9YBn6CpQ) | [Chromé total](https://open.spotify.com/album/1ZkKO0IVqwv6kO3M9d8yWK) | 3:12 | 2023-10-19 |  |
 | [Cl0ckW0rk](https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR) | [Apple Jelly](https://open.spotify.com/artist/587AadegoSQQn1WdhSCnSZ) | [Cl0ckW0rk EP](https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr) | 3:01 | 2023-10-05 | 2023-11-17 |
@@ -32,16 +35,17 @@
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
 | [Dansé](https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Dansé](https://open.spotify.com/album/44DuXaXwALoylbk0vUgC8o) | 2:51 | 2023-09-28 | 2023-11-10 |
 | [Double Tap](https://open.spotify.com/track/1F8y4UfslnzBpWKDZraeD3) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Double Tap](https://open.spotify.com/album/2K13urd2pDuRzpf9OlU2rg) | 2:25 | 2023-10-19 |  |
+| [doudoune northface](https://open.spotify.com/track/4gnbtbry3isjhb75nBIwLA) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [doudoune northface](https://open.spotify.com/album/3itgcSwBsO6trR75ThZCwW) | 3:14 | 2023-12-08 |  |
 | [Du Faux](https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Du Faux](https://open.spotify.com/album/30PG6zM9Qmvarc75N7c3Vp) | 2:34 | 2023-09-28 | 2023-11-03 |
 | [dénudée](https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [dénudée](https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2) | 2:11 | 2023-09-28 | 2023-11-03 |
 | [Désolé, mon cœur](https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [Désolé, mon cœur](https://open.spotify.com/album/0P2z4rhMsoaNmOIFSbGuIl) | 3:01 | 2023-10-26 | 2023-11-24 |
 | [Encore](https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Encore](https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7) | 3:02 | 2023-11-02 | 2023-11-24 |
-| [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 |  |
+| [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 | 2023-12-08 |
 | [Gare à la nuit](https://open.spotify.com/track/4G6dlO9xjCklF062LILK7J) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Gare à la nuit](https://open.spotify.com/album/2O4SxhHbq8BlWSV5mNyPG2) | 3:58 | 2023-11-16 |  |
 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 | 2023-09-28 | 2023-11-10 |
 | [I'm A Mess](https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [I'm A Mess](https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M) | 2:26 | 2023-11-23 |  |
 | [Idiot du quartier de lune](https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0) | [Ian Caulfield](https://open.spotify.com/artist/4jcI2D2oUbSyQYB4isUZiz) | [Idiot du quartier de lune](https://open.spotify.com/album/6fig2z3viSXQIukDe36Hwo) | 3:21 | 2023-10-12 |  |
-| [Ikea Boy](https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Ikea Boy](https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU) | 3:29 | 2023-11-02 |  |
+| [Ikea Boy](https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Ikea Boy](https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU) | 3:29 | 2023-11-02 | 2023-12-08 |
 | [It's Over](https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 4:57 | 2023-09-28 | 2023-10-13 |
 | [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 | 2023-09-28 |  |
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
@@ -54,7 +58,7 @@
 | [L'Usine](https://open.spotify.com/track/6gPrgMobziEaMU1E8w8K5T) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [L'Usine](https://open.spotify.com/album/7qNgn6vkw8jKWrWhhaK7ZB) | 2:21 | 2023-09-28 | 2023-10-06 |
 | [La marée](https://open.spotify.com/track/1w4Ny0UnhzNd6ZBwGjb5jk) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [La marée](https://open.spotify.com/album/3AOvO6Vmjl1Q5gGZ9ht9ze) | 3:18 | 2023-09-28 | 2023-10-06 |
 | [Labrador](https://open.spotify.com/track/37RU5uDagBkmkcf61HGHTZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Labrador](https://open.spotify.com/album/464DpW9aRGNKJIHCud8jRl) | 2:39 | 2023-09-28 | 2023-11-17 |
-| [Laisse moi le chat](https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Laisse moi le chat](https://open.spotify.com/album/2KqwI0E1dIt9aHnJuLIxMt) | 3:25 | 2023-10-05 |  |
+| [Laisse moi le chat](https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Laisse moi le chat](https://open.spotify.com/album/2KqwI0E1dIt9aHnJuLIxMt) | 3:25 | 2023-10-05 | 2023-12-08 |
 | [Le Pigeon](https://open.spotify.com/track/6dT08hM1qO8dx0HEWytgr6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Pigeon](https://open.spotify.com/album/7jf67ZHP55fFr0rDvRFV55) | 2:43 | 2023-10-05 |  |
 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 | 2023-09-28 | 2023-12-01 |
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
@@ -65,6 +69,7 @@
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 |  |
 | [Miami](https://open.spotify.com/track/3xlzqzAs4T4LK0bsE0FEvB) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/46CCI0ZcsEnvxwMHWkZFqw) | 3:31 | 2023-11-09 |  |
 | [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 |  |
+| [Moins seul sans eux](https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Moins seul sans eux](https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp) | 2:11 | 2023-12-08 |  |
 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 | 2023-11-02 |  |
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-09-28 | 2023-11-03 |
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-09-28 | 2023-10-06 |
@@ -78,7 +83,7 @@
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [Presque un secret](https://open.spotify.com/track/5Xsu89IWIRc3s3WCP4o69p) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Presque un secret](https://open.spotify.com/album/5N9tpTQqC42sOtGeevzngE) | 3:04 | 2023-09-28 | 2023-10-06 |
 | [Problèmes](https://open.spotify.com/track/1se9m5r5XhNKHYOA4XS0Yd) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Cabale](https://open.spotify.com/album/3KdpOBLkuf70nhwTu1anQV) | 2:58 | 2023-10-19 |  |
-| [Quel dommage](https://open.spotify.com/track/7tLhOs918gmnFelUpTkVgq) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Quel dommage](https://open.spotify.com/album/3QVyFLFsxzav6hfxRYADr4) | 3:23 | 2023-10-19 |  |
+| [Quel dommage](https://open.spotify.com/track/7tLhOs918gmnFelUpTkVgq) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Quel dommage](https://open.spotify.com/album/3QVyFLFsxzav6hfxRYADr4) | 3:23 | 2023-10-19 | 2023-12-08 |
 | [Radio](https://open.spotify.com/track/3XDbBLoiPf3NNR4DY1wMld) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Radio](https://open.spotify.com/album/1nRoA7wDI7mraWdDMOteQ8) | 3:11 | 2023-09-28 | 2023-10-27 |
 | [Radio](https://open.spotify.com/track/7t4TKQwffyxm6VjV8xUzdP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Radio](https://open.spotify.com/album/4gjmcshJN2wyvrZZeIXO2M) | 2:50 | 2023-09-28 | 2023-11-17 |
 | [Rage2](https://open.spotify.com/track/6FEa9mo6Qrd1v0u5rTUlZU) | [SÜEÜR](https://open.spotify.com/artist/124RVleRdpnGBCTjulr6rq) | [ANANKÉ](https://open.spotify.com/album/7sUul65XdFnWzyjbhI0tpd) | 3:02 | 2023-09-28 | 2023-10-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,100 likes - 99 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,103 likes - 99 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 75 | [唇よ、熱く君を語れ](https://open.spotify.com/track/2fnnbne12pt1I7wsTVcKY1) | [Machiko Watanabe](https://open.spotify.com/artist/3nkQoxtOno0tf1V5nRDL6S) | [Libra](https://open.spotify.com/album/60uGaoE9S0xCSyYWQucTEE) | 3:53 |
 | 76 | [Working My Way Back to You / Forgive Me, Girl](https://open.spotify.com/track/1wouF9mtyiwZDYiq5YElaq) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Smooth And Sweet](https://open.spotify.com/album/2KurzyFucko12doXylecYi) | 4:05 |
 | 77 | [Little Jeannie](https://open.spotify.com/track/19Kf8FxBJ5a1Bb8uKCrIIe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:13 |
-| 78 | [Cruisin' \- Mono Version](https://open.spotify.com/track/1Bh99nlusyJjGkhlrnzbkI) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [20th Century Masters: The Millennium Collection: Best of Smokey Robinson](https://open.spotify.com/album/4jcgpCPYYsGGcOgcUKmMO8) | 4:30 |
+| 78 | [Cruisin'](https://open.spotify.com/track/1Bh99nlusyJjGkhlrnzbkI) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [20th Century Masters: The Millennium Collection: Best of Smokey Robinson](https://open.spotify.com/album/4jcgpCPYYsGGcOgcUKmMO8) | 4:30 |
 | 79 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
 | 80 | [セクシー・ユー \(モンロー・ウォーク\)](https://open.spotify.com/track/3V0qL15FiMlhaPPwaJDSoF) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [郷ひろみ全集/'72～'85 DANDYISM](https://open.spotify.com/album/6XNgAXrJWe4ySXl2GDVV7y) | 3:41 |
 | 81 | [昴\-すばる\-](https://open.spotify.com/track/74E2o7gPc7auKY71mLSfa1) | [Shinji Tanimura](https://open.spotify.com/artist/03MgOjRS1TG6x7OhAB9ZnN) | [谷村新司シングル A面コレクション ～Version～](https://open.spotify.com/album/5PA7a6h1e97eV8e1mrVtXw) | 4:32 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 98 | [とまり木](https://open.spotify.com/track/0u9NfvZhBJOx0mD1dBp28O) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [小林幸子全曲集 2017](https://open.spotify.com/album/6qbTjzj9A6o6d79tHdi2iJ) | 3:29 |
 | 99 | [おまえとふたり](https://open.spotify.com/track/3OL41vM3n4DdyaWELJi6QL) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクション3\(1971\-1994\)～おまえとふたり～](https://open.spotify.com/album/5NC095cpBWbZNFGvpOVoki) | 3:27 |
 
-Snapshot ID: `MCxhYWE3MGZkMDhhYmJhYTRlNmMzZjkwYWQ5M2U2NzYyZjZhYzg4NmU4`
+Snapshot ID: `MCwzNWZhZjRiYjRiN2RkYzJlN2E5NTgyNDg2NmU2MDg0NWRhZTExYTZh`

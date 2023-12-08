@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn?si=C7E\_eE0SQaa4tMoedx4tBQ"> Beeztrap KOTM</a>
 
-134 songs - 6 hr 50 min
+135 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 | 2022-11-04 |  |
 | [Anadwo](https://open.spotify.com/track/5yqluqBQfM3QyBYy42kXT4) | [Xnaiq](https://open.spotify.com/artist/4lCUv4U30YkkIAmVPfcTXR), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sammy Black](https://open.spotify.com/artist/0ul8oqTNdGYbWRpbxBXgjs), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I) | [Anadwo](https://open.spotify.com/album/1Y2DCQ9x2wVGYwjy7MkwGp) | 4:21 | 2022-09-19 | 2022-11-05 |
 | [Asakaa](https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Hordzi](https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot) | [Eye Red](https://open.spotify.com/album/43AXknA94hSHEdLYRJYmNc) | 2:46 | 2022-12-08 |  |
+| [Asamando](https://open.spotify.com/track/6UlH5Nx7C3rpvTvNr0QUgU) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt), [Blvck Jezuz](https://open.spotify.com/artist/3zoHfYJnBN0au3YeRQci5a) | [Asamando](https://open.spotify.com/album/2wqWOTyzaHP4ZmwlygXt0w) | 3:37 | 2023-12-08 |  |
 | [Aso\)den](https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Aso\)den](https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK) | 3:15 | 2022-11-04 | 2023-01-28 |
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-29 |  |
 | [BASELINE](https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV) | [Damy](https://open.spotify.com/artist/6Rd7l8PLs9gpbqEQ9hSpmP), [YokeeGilla](https://open.spotify.com/artist/3Y54NinYYRIlsNUzu39We4) | [BASELINE](https://open.spotify.com/album/5GUeHyG26KMyh1kKEejzcZ) | 3:13 | 2022-11-04 | 2022-12-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 72299,
+  "num_followers": 72314,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTRkY2UxMDgzMDA5ZThlM2M5NjFmYzI0NTA4NmZhYWVhZWFiMDkz",
+  "snapshot_id": "MCwxZTUxMzJhZGQ3MjIyYTUzZTBiMGNkMDU5MzY5ZjM3NjE0NDI2MWEw",
   "tracks": [
     {
       "added_at": "2023-11-30 23:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 223706,
       "name": "Jeg Vet",
       "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+        "name": "Jeg er en by",
+        "url": "https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2"
       },
       "artists": [
         {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+      "duration_ms": 271160,
+      "name": "Jeg er en by",
+      "url": "https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
+        "name": "Kr\u00e5keviks Songbok",
+        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Den Fyrste Song",
+      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
         "name": "Gutta P\u00e5 By`n",
         "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-11-30 23:00:00",
       "album": {
-        "name": "Flyge Fra",
-        "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Ved Sida Av Deg",
-      "url": "https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
         "name": "Under deg",
         "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 244266,
       "name": "Under deg",
       "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
+    },
+    {
+      "added_at": "2023-11-30 23:00:00",
+      "album": {
+        "name": "Flyge Fra",
+        "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Ved Sida Av Deg",
+      "url": "https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm"
     },
     {
       "added_at": "2023-11-30 23:00:00",
@@ -827,26 +843,6 @@
       "duration_ms": 181200,
       "name": "V\u00e5r Beste Dag",
       "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2023-11-30 23:00:00",
-      "album": {
-        "name": "Han er ikkje deg",
-        "url": "https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 154444,
-      "name": "Han er ikkje deg",
-      "url": "https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M"
     }
   ],
   "unique_name": "Norske viser",

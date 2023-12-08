@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90301,
+  "num_followers": 90327,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTkwNzg0MzA0NjkyODhlZWQyZmI4MjRhNTQxODcwMzFjYTc5NmI0",
+  "snapshot_id": "MCwzNDliYWIzN2UyOWVkOGM3YjI1NmY5MjhhZDBjNmVkYjQxOWVlZjRh",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "J\u00f6etry",
         "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 244000,
       "name": "mate in five",
       "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 163723,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ"
+      },
+      "artists": [
+        {
+          "name": "Anubis",
+          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Home For Winter",
         "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
@@ -1267,26 +1283,6 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Losing Interest",
-        "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
-      },
-      "artists": [
-        {
-          "name": "Kstan",
-          "url": "https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i"
-        },
-        {
-          "name": "WiTTZ SG",
-          "url": "https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ"
+        "name": "Losing Interest",
+        "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
       "artists": [
         {
-          "name": "Anubis",
-          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
+          "name": "Kstan",
+          "url": "https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i"
+        },
+        {
+          "name": "WiTTZ SG",
+          "url": "https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx"
         }
       ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a"
+      "duration_ms": 159753,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "Talking Stage",
+      "url": "https://open.spotify.com/track/2wqit987hOdo26WWk95BIK"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "No Love Left",
         "url": "https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 181333,
       "name": "Angels Fly High",
       "url": "https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Talking Stage",
-        "url": "https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "Talking Stage",
-      "url": "https://open.spotify.com/track/2wqit987hOdo26WWk95BIK"
     }
   ],
   "unique_name": "lofi rap",

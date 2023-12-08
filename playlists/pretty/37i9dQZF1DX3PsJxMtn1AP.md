@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,814 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,870 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Once then we'll be free](https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N) | 3:23 |
 | 50 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 |
 
-Snapshot ID: `MCxjYmZmZDg5NGI3ODY2YTRmOTY0M2Q2N2U5NzI0ZGIwZGQ3ODQ1ZTE5`
+Snapshot ID: `MCxiOGI4ZmQ5YjcxM2I0NWJmMzJjNzFhMWJjMjMzZGM3YTAyZGI1ZDNi`

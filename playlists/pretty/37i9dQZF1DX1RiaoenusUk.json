@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25242,
+  "num_followers": 25256,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDQ0ODExOWE4NmRiMjVmZTBkYTFhYTM4N2E0MTY2MTg5MWJkMTVk",
+  "snapshot_id": "MCxhMTQ5N2I3ZmY2Y2Y3NzgzODliZjU4MTJjZmQ0NGVjYTZlODA1YTJj",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Sticky Nostalgia",
-        "url": "https://open.spotify.com/album/4u5QlJAmFtzmgGfQufbt8D"
-      },
-      "artists": [
-        {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
-        }
-      ],
-      "duration_ms": 282919,
-      "name": "Zoom Out",
-      "url": "https://open.spotify.com/track/1WrMYp7UbkzClUkqd3grc2"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Niguiri Sessions",
         "url": "https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 248615,
       "name": "Supremac\u00eda - Niguiri Sessions",
       "url": "https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Sticky Nostalgia",
+        "url": "https://open.spotify.com/album/4u5QlJAmFtzmgGfQufbt8D"
+      },
+      "artists": [
+        {
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+        }
+      ],
+      "duration_ms": 282919,
+      "name": "Zoom Out",
+      "url": "https://open.spotify.com/track/1WrMYp7UbkzClUkqd3grc2"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176924,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -715,6 +715,22 @@
       "duration_ms": 203506,
       "name": "Baila el Funk",
       "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 218172,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -779,22 +795,6 @@
       "duration_ms": 267705,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 218172,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
       },
       "artists": [
         {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
+      "duration_ms": 279399,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
       },
       "artists": [
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Guacamole",
-        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
       "artists": [
         {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 279399,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 287639,
       "name": "Myselfed",
       "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Family Game",
+        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 218045,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 284213,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Family Game",
-        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "B\u00e9sala",
-      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "La Nave",
         "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1283,54 +1283,6 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Maravilla",
-        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
-      },
-      "artists": [
-        {
-          "name": "Los Jureles",
-          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
-        }
-      ],
-      "duration_ms": 240458,
-      "name": "Maravilla",
-      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "A Pesar de la Tormenta",
-        "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
-      },
-      "artists": [
-        {
-          "name": "Florencia Andrada",
-          "url": "https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2"
-        }
-      ],
-      "duration_ms": 175549,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1351,6 +1303,54 @@
       "duration_ms": 175957,
       "name": "Contra la Corriente",
       "url": "https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
+      },
+      "artists": [
+        {
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "A Pesar de la Tormenta",
+        "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
+      },
+      "artists": [
+        {
+          "name": "Florencia Andrada",
+          "url": "https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2"
+        }
+      ],
+      "duration_ms": 175549,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Maravilla",
+        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
+      },
+      "artists": [
+        {
+          "name": "Los Jureles",
+          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
+        }
+      ],
+      "duration_ms": 240458,
+      "name": "Maravilla",
+      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
+      },
+      "artists": [
+        {
+          "name": "Croupier Funk",
+          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
-      },
-      "artists": [
-        {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
     },
     {
       "added_at": "2023-10-06 03:00:00",

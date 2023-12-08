@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
+    },
+    {
+      "album": {
         "name": "Best of (Collector)",
         "url": "https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 170840,
       "name": "Aline",
       "url": "https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa"

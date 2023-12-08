@@ -4,7 +4,7 @@
 
 > Hit the dance floor with your favorite bops!
 
-307 songs - 16 hr 36 min
+308 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2022-12-02 |  |
 | [Stay The Night \- featuring Hayley Williams of Paramore](https://open.spotify.com/track/3xozZw4YNCv777ONrbdHsy) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Stay The Night](https://open.spotify.com/album/7aMi3Itmx21n4TjG59yScf) | 3:37 | 2022-02-16 | 2022-03-16 |
 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 | 2021-12-17 |  |
-| [Stereo Love \- Radio Edit](https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF) | 3:04 | 2022-02-16 |  |
+| [Stereo Love \- Radio Edit](https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF) | 3:04 | 2022-02-16 | 2023-12-08 |
+| [Stereo Love \- Radio Edit](https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE) | 3:05 | 2023-10-19 |  |
 | [Stole the Show](https://open.spotify.com/track/1I8tWeaWcjcnxTcZmt62Bd) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Ultra 2016](https://open.spotify.com/album/2aWiXRmAHqOW6NJ14bNtLU) | 3:42 | 2022-10-08 | 2022-11-14 |
 | [Stole the Show](https://open.spotify.com/track/4iZPNYqzI2L0uwuUKun7Aa) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Stole the Show](https://open.spotify.com/album/26bzHnyTkFBFHUFeRwFDn7) | 3:42 | 2022-04-22 | 2022-06-17 |
 | [Stole the Show](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:43 | 2022-07-21 |  |

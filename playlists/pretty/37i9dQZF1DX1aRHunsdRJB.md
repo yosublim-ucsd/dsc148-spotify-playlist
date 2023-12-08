@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,244 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,243 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 51 | [Anthem](https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi) | [Anthem](https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI) | 2:55 |
 | 52 | [Bad in Bumbum](https://open.spotify.com/track/4NIhpYk93J8Xou2vZt3iIe) | [Mighty](https://open.spotify.com/artist/5stVQl2C3bSrgrQqZieo02), [Subance](https://open.spotify.com/artist/5f7VKqtGJPjgKtA5TtWwRv) | [Local Drum Riddim](https://open.spotify.com/album/6nrr7yxkhFC1GDCNeKoAkD) | 2:31 |
 | 53 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 |
-| 54 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
-| 55 | [Weak](https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Happy Music](https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R) | 2:49 |
+| 54 | [Weak](https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Happy Music](https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R) | 2:49 |
+| 55 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
 | 56 | [Rough Wine](https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:23 |
 | 57 | [Bend Yuh Back](https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bend Yuh Back](https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P) | 2:34 |
 | 58 | [Earthquake](https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Rats Hole Riddim](https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl) | 3:10 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 
-Snapshot ID: `MCw1M2Q3NGEwYWI4NzFmMTJkZTFlMTBlNzE0MWFmZmUzMDY3YzNhMzE4`
+Snapshot ID: `MCwzYzQ5Njc4ZGE3OGZhMzJhMjU5ODdhZjMxMmJmODY5MGQ4NzM1ZDdk`

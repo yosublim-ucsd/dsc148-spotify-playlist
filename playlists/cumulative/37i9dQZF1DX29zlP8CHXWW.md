@@ -2,7 +2,7 @@
 
 ### [Road to Passion 2024](https://open.spotify.com/playlist/37i9dQZF1DX29zlP8CHXWW)
 
-> Check out some of the songs from the <a href="https://www.passion2024.com/"> Passion 2024 </a> conference.
+> Songs to prepare your heart for the <a href="https://www.passion2024.com/"> Passion 2024 </a> conference.
 
 87 songs - 8 hr 16 min
 

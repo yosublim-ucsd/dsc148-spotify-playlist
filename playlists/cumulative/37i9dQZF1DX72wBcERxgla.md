@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-441 songs - 23 hr 6 min
+445 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Astral](https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Astral](https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv) | 2:59 | 2022-12-22 |  |
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn In New York](https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Autumn In New York](https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz) | 4:19 | 2022-09-29 |  |
+| [Autumn nocturne](https://open.spotify.com/track/7GzCb29gghRInEd8bUHgLt) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Autumn nocturne](https://open.spotify.com/album/74GNqzlT1Jh72qXGqGqQ0Q) | 2:35 | 2023-12-08 |  |
 | [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 | 2023-11-17 |  |
 | [Back When](https://open.spotify.com/track/2hmhR1qTgAFVvMMBnuNiNY) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Back When](https://open.spotify.com/album/3clEcra9Uv7aNEbcNRdwzj) | 3:17 | 2023-11-17 |  |
 | [Backwards era](https://open.spotify.com/track/42I2pIhLglLv0La7ubo2U4) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Backwards era](https://open.spotify.com/album/5V8wQwPdd4uZjEo6OhBP3Z) | 2:24 | 2023-08-10 |  |
@@ -51,6 +52,7 @@
 | [Better Be Silent](https://open.spotify.com/track/4atRz5CeV2mQ6Nd7nFgcbm) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Better Be Silent](https://open.spotify.com/album/2dzWiSUPvAbcN9OBhuLANC) | 3:10 | 2023-08-10 |  |
 | [Between the Devil and the Deep Blue Sea](https://open.spotify.com/track/649ZNkGmrhFhrJHjB8iVs6) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:49 | 2023-02-09 |  |
 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
+| [Blue Midnight](https://open.spotify.com/track/3wb4QQWD4UBZHSGUEPMX86) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Blue Midnight](https://open.spotify.com/album/78c6w6eBuP9tdzODxi1SvQ) | 2:26 | 2023-12-08 |  |
 | [Blue Moon](https://open.spotify.com/track/5Ej5z9hWIlNED6HkPT8l2f) | [Shandra Lewis](https://open.spotify.com/artist/6us9lDOOSG2BnBlkWkVO2B) | [Blue Moon](https://open.spotify.com/album/1wJEnxsA2azshg6xkLxZ3D) | 2:43 | 2023-01-05 |  |
 | [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 |  |
 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2022-06-14 |  |
@@ -175,7 +177,7 @@
 | [I'll Remember April](https://open.spotify.com/track/508qW9dDv9pTh85XgQm9Xp) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'll Remember April](https://open.spotify.com/album/7dEMSjL7qPpzPZFCriPLZv) | 3:23 | 2023-09-29 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 | 2023-08-11 |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
-| [I'm Getting Sentimental Over You](https://open.spotify.com/track/7433MybqQz6iILaFXwqCW3) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/73AlHfvtVAHZl6PyzE4tKW) | 3:27 | 2023-05-25 |  |
+| [I'm Getting Sentimental Over You](https://open.spotify.com/track/7433MybqQz6iILaFXwqCW3) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/73AlHfvtVAHZl6PyzE4tKW) | 3:27 | 2023-05-25 | 2023-12-08 |
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2022-04-12 |  |
 | [I've got a crush on you](https://open.spotify.com/track/2xXLKAXQHnr3sBg37JvqWZ) | [James Earle](https://open.spotify.com/artist/0jwxdHbHsTwIrfc3IgCqa3) | [I've got a crush on you](https://open.spotify.com/album/6HXApr4Gro91aaXMUOH7ty) | 2:53 | 2023-04-20 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4UJTsC3tnszd4RnwKFtBkh) | [Jessica Albert](https://open.spotify.com/artist/7lI5xu3g1pfJ3zSkQjPflN) | [Stars Fell on Alabama](https://open.spotify.com/album/4udI8I069Mwb3lbzTBacpH) | 3:37 | 2022-04-12 |  |
@@ -384,6 +386,7 @@
 | [the second time around](https://open.spotify.com/track/17anQSgIRc8QnvL4L4toUS) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 4:41 | 2022-04-12 |  |
 | [The side effects](https://open.spotify.com/track/3Q1eWOScbVt8k40WMegaSJ) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [The side effects](https://open.spotify.com/album/4f2QHZ8zsd4zx9FFlYkDw0) | 2:31 | 2023-08-10 |  |
 | [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2022-11-24 |  |
+| [The Songbird](https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [The Songbird](https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ) | 2:42 | 2023-12-08 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2022-04-12 | 2022-08-11 |
 | [The Summer Rain](https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Woodland](https://open.spotify.com/album/3tm3nZ5qKZvrlvyXdzWJCG) | 3:01 | 2022-04-12 | 2022-05-18 |
 | [The Way It's Supposed To Be](https://open.spotify.com/track/0f1olNUWqtcYBuUv141TBG) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [The Way It's Supposed To Be](https://open.spotify.com/album/0U5RLGTDGtSgj3Pn3p5eAk) | 3:20 | 2023-11-17 |  |
@@ -417,6 +420,7 @@
 | [We Kiss In A Shadow](https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [We Kiss In A Shadow](https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P) | 2:43 | 2023-08-10 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [We'll Be Together Again](https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU) | 4:22 | 2022-10-06 | 2023-05-26 |
 | [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 | 2023-04-27 |  |
+| [Weeping Willow](https://open.spotify.com/track/4sNwc8wHFoErgbeOZOTKMn) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [Weeping Willow](https://open.spotify.com/album/7r2r5H75pSNMcofFz3zQkW) | 4:20 | 2023-12-08 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-10 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-30 | 2022-10-14 |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-12 |  |

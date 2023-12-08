@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Gazo x Tiakola au top de la première playlist de rap français !
+> Tiakola x Gazo au top de la première playlist de rap français !
 
 214 songs - 11 hr 2 min
 

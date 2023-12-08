@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "Astray (CRi Remix)",
+        "url": "https://open.spotify.com/album/7yWguavg78nSjTkuEQsJJZ"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252100,
+      "name": "Astray - CRi Remix",
+      "url": "https://open.spotify.com/track/1kHodAntPiM2UpEhC1rJMy"
+    },
+    {
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
@@ -742,6 +764,24 @@
       "duration_ms": 200365,
       "name": "Blessyou",
       "url": "https://open.spotify.com/track/1NtxuDqsyMJfwk0K4wRpTN"
+    },
+    {
+      "album": {
+        "name": "PUSHER",
+        "url": "https://open.spotify.com/album/4wP7WFvZGQUHyqYpYOeUz8"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "BLINDED",
+      "url": "https://open.spotify.com/track/5e86PQ6kZGuMB3M9f4QSUu"
     },
     {
       "album": {
@@ -1044,6 +1084,28 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "album": {
+        "name": "Coexistence",
+        "url": "https://open.spotify.com/album/67kLWA4NECjGwFQKm6J4ML"
+      },
+      "artists": [
+        {
+          "name": "munro",
+          "url": "https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH"
+        },
+        {
+          "name": "MarMar",
+          "url": "https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166137,
+      "name": "Coexistence",
+      "url": "https://open.spotify.com/track/5tD5TkJ6LxyIqqI9TGUvCc"
     },
     {
       "album": {
@@ -1713,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "feelthisway / 3000 miles",
+        "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "feelthisway",
+      "url": "https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd"
+    },
+    {
+      "album": {
         "name": "Fells (Where the Story Goes)",
         "url": "https://open.spotify.com/album/0uFq1eBr7tQT93Emx5bl5o"
       },
@@ -2247,7 +2327,7 @@
     },
     {
       "album": {
-        "name": "High and I Like It",
+        "name": "High and I Like it",
         "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
       },
       "artists": [
@@ -2264,7 +2344,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223379,
-      "name": "High and I Like It",
+      "name": "High and I Like it",
       "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
     },
     {
@@ -2621,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "I DON'T WANT TO FALL IN LOVE",
+        "url": "https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188983,
+      "name": "I DON'T WANT TO FALL IN LOVE",
+      "url": "https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"
+    },
+    {
+      "album": {
         "name": "I FEEL",
         "url": "https://open.spotify.com/album/0nGfxdatqkx0YTPH7FAC4j"
       },
@@ -2974,6 +3072,32 @@
       "duration_ms": 219812,
       "name": "Just Doin' Me",
       "url": "https://open.spotify.com/track/3k7w2iFmezR29eFEM11AV9"
+    },
+    {
+      "album": {
+        "name": "Just The Kinda Feeling (Nicky Elisabeth Remix)",
+        "url": "https://open.spotify.com/album/1YD0barVcolgJVSdzRwzeX"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174996,
+      "name": "Just The Kinda Feeling - Nicky Elisabeth Remix",
+      "url": "https://open.spotify.com/track/6bZHIYoZn2Lz8sOGZCthYQ"
     },
     {
       "album": {
@@ -3578,6 +3702,28 @@
       "duration_ms": 214266,
       "name": "Losing Focus",
       "url": "https://open.spotify.com/track/51vJGNySaVSxTmcPotlWrU"
+    },
+    {
+      "album": {
+        "name": "Losing My Head (CamrinWatsin Remix)",
+        "url": "https://open.spotify.com/album/3n6Ge7ndkkmt8h9A29sBgJ"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192714,
+      "name": "Losing My Head - CamrinWatsin Remix",
+      "url": "https://open.spotify.com/track/2JI4l38QEH9Qi7OtC21H3a"
     },
     {
       "album": {
@@ -4586,6 +4732,28 @@
       "duration_ms": 287717,
       "name": "Patchouli",
       "url": "https://open.spotify.com/track/6E540MKmdFLZyITSAtZ6Z1"
+    },
+    {
+      "album": {
+        "name": "Peace In Silence",
+        "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Peace In Silence",
+      "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
     },
     {
       "album": {
@@ -5908,6 +6076,46 @@
       "duration_ms": 187111,
       "name": "The Horizon (With You)",
       "url": "https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF"
+    },
+    {
+      "album": {
+        "name": "Guiding Hand Remixes",
+        "url": "https://open.spotify.com/album/7C0IjpdbCnfygW5Kp7mZQn"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223056,
+      "name": "The Pace - niina Remix",
+      "url": "https://open.spotify.com/track/4yI1ZlRHKK5oUkcbdunYpJ"
+    },
+    {
+      "album": {
+        "name": "The Way It Goes",
+        "url": "https://open.spotify.com/album/5dDNHYyo4OBkyKEJAHkrlA"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184790,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre"
     },
     {
       "album": {

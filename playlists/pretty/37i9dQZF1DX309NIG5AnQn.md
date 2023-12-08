@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Justo Antes de la Guerra con los Esquimales
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,894 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,904 likes - 89 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 88 | [Entre el Cielo y el Infierno](https://open.spotify.com/track/5gIwsOOF5mY18gyrGXr0Zb) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Entre el Cielo y el Infierno](https://open.spotify.com/album/3xew3ijgKqFp4YtkfuA55f) | 3:54 |
 | 89 | [Simulando Esperar](https://open.spotify.com/track/29NlMSR1PJstmIksMhLMKt) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Simulando Esperar](https://open.spotify.com/album/2nxDLdVzUcWSQQG7Qi0pme) | 3:59 |
 
-Snapshot ID: `MCwwNDA4N2NmM2IwYWRhOTRjMjhiODlkNTFkN2ZmOWQwMTkxZmQ0MTI2`
+Snapshot ID: `MCw3YjM5NTgyNTdkODUyY2U3OTY3NzY5NTA4MDM2NjhiYmQyZWNiZWVk`

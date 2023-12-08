@@ -4,13 +4,14 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-47 songs - 2 hr 28 min
+48 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alarm](https://open.spotify.com/track/75dMjDJSRQH0AP4rJuOqfC) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Agency \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV) | 3:26 | 2023-01-26 |  |
 | [Alarm \- Instrumental](https://open.spotify.com/track/3iesiARYwUmdBJuRfI5RQu) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Agency \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV) | 3:26 | 2023-01-26 |  |
-| [Batshit](https://open.spotify.com/track/07wiTRlnyYjxGkYvORTdiV) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:23 | 2023-01-11 |  |
+| [Batshit](https://open.spotify.com/track/07wiTRlnyYjxGkYvORTdiV) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:23 | 2023-01-11 | 2023-12-08 |
+| [Batshit](https://open.spotify.com/track/398W8M7yOg2MuZJnlzrRS5) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:23 | 2023-02-22 |  |
 | [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 | 2023-01-20 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2023-01-20 |  |
 | [Closer \(with Paul Blanco, Mahalia\)](https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:16 | 2023-02-03 |  |

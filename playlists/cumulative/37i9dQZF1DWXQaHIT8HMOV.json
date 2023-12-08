@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Kalibwani",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
@@ -858,6 +858,28 @@
       "duration_ms": 176170,
       "name": "Clock",
       "url": "https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "Dalilah",
+      "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
     },
     {
       "album": {
@@ -3134,7 +3156,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 185286,
       "name": "Sibyakukayana",
       "url": "https://open.spotify.com/track/4kDHniS1iVtxCJEBYyZRIt"
@@ -3346,7 +3368,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 214073,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"

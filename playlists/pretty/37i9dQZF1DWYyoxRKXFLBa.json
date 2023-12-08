@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 8563,
+  "num_followers": 8573,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzVkNzgxMmVmMzVmMDU2MjgwYzA5YzUzMTc2NDI1MGQyMDczMjcx",
+  "snapshot_id": "MCwzODVlNTJlNjRkNjU5ZWY2MGUwOGJmNGMwNDljY2E3MWRkNzdkMTgx",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -459,18 +459,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Dopelganga",
-        "url": "https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl"
+        "name": "Locochona",
+        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 260976,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/39p0IFR45geHklTc6WY1t9"
+      "duration_ms": 148338,
+      "name": "Locochona",
+      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -491,22 +495,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Locochona",
-        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
+        "name": "Dopelganga",
+        "url": "https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 148338,
-      "name": "Locochona",
-      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
+      "duration_ms": 260976,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/39p0IFR45geHklTc6WY1t9"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Headrush",
-      "url": "https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "no me convengo",
-        "url": "https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "no me convengo",
-      "url": "https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "DESTRUYA!",
         "url": "https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+        "name": "no me convengo",
+        "url": "https://open.spotify.com/album/2Uw0BxkMZqNIPI428lJNrw"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
+      "duration_ms": 200266,
+      "name": "no me convengo",
+      "url": "https://open.spotify.com/track/5v1NAG0fvXdrNAVbdz3wgW"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Cumbia Feminista",
-        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
-      },
-      "artists": [
-        {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Cumbia Feminista",
-      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Flower of Devotion",
         "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 167327,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Cumbia Feminista",
+        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
+      },
+      "artists": [
+        {
+          "name": "Las Decapitadas",
+          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "Cumbia Feminista",
+      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Amarillo",
-        "url": "https://open.spotify.com/album/2MC5DH933tWiyL8vE5hJ70"
-      },
-      "artists": [
-        {
-          "name": "Herbolaria",
-          "url": "https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/3uNedRR60eGommt5hVXjHT"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Mu\u00e9rete T\u00fa",
         "url": "https://open.spotify.com/album/6gNvQwVQRwSG4cQ5GLYmgI"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 172752,
       "name": "Mu\u00e9rete T\u00fa",
       "url": "https://open.spotify.com/track/3pOdUPiHJaCS9liEjpiIWc"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Amarillo",
+        "url": "https://open.spotify.com/album/2MC5DH933tWiyL8vE5hJ70"
+      },
+      "artists": [
+        {
+          "name": "Herbolaria",
+          "url": "https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/3uNedRR60eGommt5hVXjHT"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+        "name": "Hola Lola",
+        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
         }
       ],
-      "duration_ms": 225587,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+      "duration_ms": 237142,
+      "name": "Hola Lola",
+      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 225587,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Superdependiente",
         "url": "https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 176511,
       "name": "Superdependiente",
       "url": "https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Hola Lola",
-        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        }
-      ],
-      "duration_ms": 237142,
-      "name": "Hola Lola",
-      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Ikite Iru",
-        "url": "https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF"
-      },
-      "artists": [
-        {
-          "name": "Neptuna",
-          "url": "https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Ikite Iru",
-      "url": "https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 170224,
       "name": "Romantinski",
       "url": "https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Ikite Iru",
+        "url": "https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF"
+      },
+      "artists": [
+        {
+          "name": "Neptuna",
+          "url": "https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Ikite Iru",
+      "url": "https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Contradicktion",
-        "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
-      },
-      "artists": [
-        {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
-        }
-      ],
-      "duration_ms": 125250,
-      "name": "Contradicktion",
-      "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Flores Sobre las Piedras",
         "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Contradicktion",
+        "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
+      },
+      "artists": [
+        {
+          "name": "Las Decapitadas",
+          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
+        }
+      ],
+      "duration_ms": 125250,
+      "name": "Contradicktion",
+      "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Corrida al Arco",
-        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 253456,
-      "name": "Corrida al Arco",
-      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Esp\u00e9cimen Surf",
         "url": "https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 149572,
       "name": "Prisma Lunar",
       "url": "https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Corrida al Arco",
+        "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 253456,
+      "name": "Corrida al Arco",
+      "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
     },
     {
       "added_at": "2023-07-28 20:39:17",

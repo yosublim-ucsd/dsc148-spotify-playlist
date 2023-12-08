@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 19,959 likes - 150 songs - 8 hr 34 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 19,958 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 18 | [CRL](https://open.spotify.com/track/1tUxeLNChYWMdlQ6mbffzD) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Lunar Eclipse \(Alix Perez Remix\)](https://open.spotify.com/album/5ycclAUsAR9ptfZk78tTS6) | 4:31 |
 | 19 | [lost](https://open.spotify.com/track/12FZ6JBpPJVrjJZii6IdeE) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [leah julia](https://open.spotify.com/artist/2anFRwD3jRc3N8iTNaz41D) | [lost](https://open.spotify.com/album/2srHHs2U3obr9R2OEllfHL) | 2:49 |
 | 20 | [Peace](https://open.spotify.com/track/0vgQje4JJIRbWq2PfqBIPc) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Peace](https://open.spotify.com/album/3kD3FiaQemVTZvzsqPNnvb) | 3:54 |
-| 21 | [High and I Like It](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like It](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
+| 21 | [High and I Like it](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like it](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
 | 22 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 |
 | 23 | [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 |
 | 24 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 |

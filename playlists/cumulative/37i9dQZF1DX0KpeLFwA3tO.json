@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Alkaline Trio",
+  "description": "The best new music from the wide world of punk. Cover: BIG SPECIAL",
   "name": "All New Punk",
   "tracks": [
     {
@@ -518,7 +518,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 236307,
       "name": "A Flair For Conclusions, Yet She'll Never Be Swan Queen",
       "url": "https://open.spotify.com/track/3p1pZmEemqIIqXKX7PpZwf"
@@ -732,6 +732,28 @@
       "duration_ms": 178124,
       "name": "a world without you",
       "url": "https://open.spotify.com/track/36kVP7v7PSew50WN5U191O"
+    },
+    {
+      "album": {
+        "name": "A. Hole",
+        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
+      },
+      "artists": [
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        },
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152060,
+      "name": "A. Hole",
+      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
     },
     {
       "album": {
@@ -4333,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Chewed Up",
+        "url": "https://open.spotify.com/album/5PLBuD2utr0L4TmLpyZb3s"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Chewed Up",
+      "url": "https://open.spotify.com/track/5N7EGJubbwKLI2A6Oe4WfA"
+    },
+    {
+      "album": {
         "name": "Childhood Eyes",
         "url": "https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN"
       },
@@ -4853,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Company Car",
+        "url": "https://open.spotify.com/album/0LnQR1SxFnBweLTYD6lbBM"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125561,
+      "name": "Company Car",
+      "url": "https://open.spotify.com/track/6UEM132YdTp9pn3PQdyI2v"
+    },
+    {
+      "album": {
         "name": "Dejection",
         "url": "https://open.spotify.com/album/3cLNnrLekSvY8Nrnr3ZSNT"
       },
@@ -5253,6 +5311,24 @@
     },
     {
       "album": {
+        "name": "Cuffing Season",
+        "url": "https://open.spotify.com/album/5JqZYWl6zYtS6ZRJnKNBUG"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146854,
+      "name": "Cuffing Season",
+      "url": "https://open.spotify.com/track/1yg8DnxS1SVVpbEO1IFN2B"
+    },
+    {
+      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3mU7AoUGdBqLu8LfjArZPK"
       },
@@ -5434,7 +5510,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 188155,
       "name": "DANCE WITH ME",
       "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
@@ -6262,6 +6338,24 @@
       "duration_ms": 163003,
       "name": "dig",
       "url": "https://open.spotify.com/track/1gXEGa6aHuX2O5gQdCbxKk"
+    },
+    {
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "album": {
@@ -11138,7 +11232,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 193615,
       "name": "I Just Wanna Play Dead",
       "url": "https://open.spotify.com/track/0J2Xk6yCxuiIihwDb4zZVd"
@@ -11466,7 +11560,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 167810,
       "name": "I Want Out",
       "url": "https://open.spotify.com/track/3eCXFMcneA2bS0vtNWFmUG"
@@ -12516,7 +12610,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 105656,
       "name": "Keep Your Mouth Shut",
       "url": "https://open.spotify.com/track/7IjCXwvjO5HgWOM111qSZP"
@@ -19666,7 +19760,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 176661,
       "name": "Safe and Legal",
       "url": "https://open.spotify.com/track/3TLFWIEEPwDPRNkpFnyYuu"
@@ -20102,7 +20196,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 290731,
       "name": "Second Solution (triple j Live at the Wireless 1998)",
       "url": "https://open.spotify.com/track/5lKAEkVCsG4EEf7clxc2aK"
@@ -20406,7 +20500,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 89922,
       "name": "Shaken",
       "url": "https://open.spotify.com/track/2hDZnewf0zbCdpuM4XIE35"
@@ -21146,6 +21240,24 @@
       "duration_ms": 80106,
       "name": "Small Town Cop Override",
       "url": "https://open.spotify.com/track/6Pg79YzRjjxsX2dWmHNwvG"
+    },
+    {
+      "album": {
+        "name": "Smash The Mirror",
+        "url": "https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184717,
+      "name": "Smash The Mirror",
+      "url": "https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN"
     },
     {
       "album": {
@@ -22460,7 +22572,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 258409,
       "name": "Survivor's Guilt",
       "url": "https://open.spotify.com/track/6jNN6oZaHZ7PiFsRgN8RFT"
@@ -23060,6 +23172,24 @@
       "duration_ms": 189680,
       "name": "Telephones 4 Eyes",
       "url": "https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor"
+    },
+    {
+      "album": {
+        "name": "Tell Her I Said Hi",
+        "url": "https://open.spotify.com/album/7Ktntaw67JA1kcqC6XkwKl"
+      },
+      "artists": [
+        {
+          "name": "Caroline Romano",
+          "url": "https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211538,
+      "name": "Tell Her I Said Hi",
+      "url": "https://open.spotify.com/track/3ihsadGcabEZtqdyRShuKs"
     },
     {
       "album": {
@@ -23744,7 +23874,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
@@ -24759,6 +24889,24 @@
     },
     {
       "album": {
+        "name": "TREES",
+        "url": "https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "TREES",
+      "url": "https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY"
+    },
+    {
+      "album": {
         "name": "Trembling World",
         "url": "https://open.spotify.com/album/3x3uux3mZkMcNGaRjlkkFr"
       },
@@ -24810,6 +24958,24 @@
       "duration_ms": 199732,
       "name": "Troglodyte",
       "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
+    },
+    {
+      "album": {
+        "name": "Trouble In The Winners Circle",
+        "url": "https://open.spotify.com/album/5W8A5K0N8AMmoUXAly4ldp"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "Trouble In The Winners Circle",
+      "url": "https://open.spotify.com/track/6YMjiepySlbkSXwiUVnypE"
     },
     {
       "album": {
@@ -27352,6 +27518,24 @@
       "duration_ms": 199273,
       "name": "Zero",
       "url": "https://open.spotify.com/track/49qf7uMixoBSbiUXzZg5zr"
+    },
+    {
+      "album": {
+        "name": "\u6b7b\u304c\u3075\u305f\u308a\u3092\u5206\u304b\u3064\u307e\u3067",
+        "url": "https://open.spotify.com/album/2WoNMJ9rbmpGFEMYOFB272"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "\u6b7b\u304c\u3075\u305f\u308a\u3092\u5206\u304b\u3064\u307e\u3067",
+      "url": "https://open.spotify.com/track/2VrInjH5nNuehjX97Zq4hq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO"

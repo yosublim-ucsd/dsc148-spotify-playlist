@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 124045,
+  "num_followers": 124050,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjZlYzNiODE3OGYzZWIwMzI3NTg2ZWU2YWZlYmVhZTAzMWI5Mjlm",
+  "snapshot_id": "MCwxODQ1YWE4M2MwNzQxMjVmMjJlODNlMzYyZDgzNzEwYzVhNDZhZTVj",
   "tracks": [
     {
       "added_at": "2023-12-04 02:04:21",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
-        "name": "\u611b\u6c92\u6709\u932f",
-        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
-      },
-      "artists": [
-        {
-          "name": "Elva Hsiao",
-          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
-        }
-      ],
-      "duration_ms": 281237,
-      "name": "\u611b\u6c92\u6709\u932f",
-      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
-    },
-    {
-      "added_at": "2023-11-30 16:00:00",
-      "album": {
         "name": "\u8fd9\u4e16\u754c\u90a3\u4e48\u591a\u4eba(\u7535\u5f71\u300a\u6211\u8981\u6211\u4eec\u5728\u4e00\u8d77\u300b\u4e3b\u9898\u66f2)",
         "url": "https://open.spotify.com/album/0unRhNGDViXGX5H7OwEWqL"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 246000,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
       "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
+        "name": "\u611b\u6c92\u6709\u932f",
+        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
+      },
+      "artists": [
+        {
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+        }
+      ],
+      "duration_ms": 281237,
+      "name": "\u611b\u6c92\u6709\u932f",
+      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
-        "name": "\u84cb\u4e16\u82f1\u96c4",
-        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
-      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
-    },
-    {
-      "added_at": "2023-11-30 16:00:00",
-      "album": {
         "name": "\u6211\u9019\u500b\u4eba (\u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
-        "name": "CHIN UP!",
-        "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
+        "name": "\u84cb\u4e16\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
         }
       ],
-      "duration_ms": 189500,
-      "name": "\u7a7a\u57ce\u8a18",
-      "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
+      "duration_ms": 286733,
+      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
+      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -527,6 +511,22 @@
       "duration_ms": 249417,
       "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
       "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
+        "name": "CHIN UP!",
+        "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "\u7a7a\u57ce\u8a18",
+      "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
+        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
         "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
         "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
-    },
-    {
-      "added_at": "2023-11-30 16:00:00",
-      "album": {
-        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -707,38 +707,6 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
-        "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
-        "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
-      },
-      "artists": [
-        {
-          "name": "\u7da0\u7e61\u773c",
-          "url": "https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri"
-        }
-      ],
-      "duration_ms": 229887,
-      "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 - Demo",
-      "url": "https://open.spotify.com/track/596QP1necn4XdusdVzB0TW"
-    },
-    {
-      "added_at": "2023-11-30 16:00:00",
-      "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
-    },
-    {
-      "added_at": "2023-11-30 16:00:00",
-      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -755,6 +723,22 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
+        "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
+        "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
+      },
+      "artists": [
+        {
+          "name": "\u7da0\u7e61\u773c",
+          "url": "https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri"
+        }
+      ],
+      "duration_ms": 229887,
+      "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 - Demo",
+      "url": "https://open.spotify.com/track/596QP1necn4XdusdVzB0TW"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
         "name": "\u4e00\u6a23\u7f8e\u9e97 (\u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 276559,
       "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
+    },
+    {
+      "added_at": "2023-11-30 16:00:00",
+      "album": {
+        "name": "\u5927\u6d77",
+        "url": "https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 211110,
+      "name": "\u5927\u6d77",
+      "url": "https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z"
     },
     {
       "added_at": "2023-11-30 16:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-11-30 16:00:00",
       "album": {
-        "name": "\u5927\u6d77",
-        "url": "https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88"
+        "name": "\u88dd\u5e40",
+        "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
       },
       "artists": [
         {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+          "name": "Crispy\u8106\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
         }
       ],
-      "duration_ms": 211110,
-      "name": "\u5927\u6d77",
-      "url": "https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z"
+      "duration_ms": 245000,
+      "name": "\u88dd\u5e40",
+      "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

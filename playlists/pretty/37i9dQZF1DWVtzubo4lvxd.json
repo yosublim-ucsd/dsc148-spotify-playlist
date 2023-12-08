@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111505,
+  "num_followers": 111499,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTBmYzJiZjk4NDdmZGMzN2ZiNzVlMmUzZDBmMGVjNWQyZjU0YTkw",
+  "snapshot_id": "MCw1ZGMxNDg3ZDkzMDczNzJhNWMxYjZiZDljZmRiZjY3ZGMyNThlYTQ1",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Playtime",
-        "url": "https://open.spotify.com/album/6CzAUWwXyMbD437lg1E7jL"
-      },
-      "artists": [
-        {
-          "name": "L'Ind\u00e9cis",
-          "url": "https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Soulful",
-      "url": "https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Chillhop Essentials Winter 2016",
         "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 176500,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Playtime",
+        "url": "https://open.spotify.com/album/6CzAUWwXyMbD437lg1E7jL"
+      },
+      "artists": [
+        {
+          "name": "L'Ind\u00e9cis",
+          "url": "https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Soulful",
+      "url": "https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 109948,
-      "name": "nagashi",
-      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "I Don't Love You Anymore",
         "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 139130,
       "name": "sunny",
       "url": "https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 109948,
+      "name": "nagashi",
+      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Where I Met You",
-        "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 141124,
-      "name": "Where I Met You",
-      "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "time's arrow",
         "url": "https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 138812,
       "name": "time's arrow",
       "url": "https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Where I Met You",
+        "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "duration_ms": 141124,
+      "name": "Where I Met You",
+      "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4IJUsrhvtndTW8Ws1X4gRn"
+      },
+      "artists": [
+        {
+          "name": "emune",
+          "url": "https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2NV4b76phwLnxUxcdlOyim"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4IJUsrhvtndTW8Ws1X4gRn"
-      },
-      "artists": [
-        {
-          "name": "emune",
-          "url": "https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2NV4b76phwLnxUxcdlOyim"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Silience",
         "url": "https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Yerba",
+        "url": "https://open.spotify.com/album/31oMm25qyo4tG0l0Yzwz7Q"
+      },
+      "artists": [
+        {
+          "name": "Sleepdealer",
+          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Rolling Papers",
+      "url": "https://open.spotify.com/track/7xMon6pxYKoVIgHdsTUGYr"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -895,38 +911,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
-      },
-      "artists": [
-        {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Yerba",
-        "url": "https://open.spotify.com/album/31oMm25qyo4tG0l0Yzwz7Q"
-      },
-      "artists": [
-        {
-          "name": "Sleepdealer",
-          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Rolling Papers",
-      "url": "https://open.spotify.com/track/7xMon6pxYKoVIgHdsTUGYr"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "BODY N SOUL",
         "url": "https://open.spotify.com/album/3ors81EU27PDdPZkxM19xW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 168000,
       "name": "Mindfulness",
       "url": "https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Kids' Menu",
+        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
+      },
+      "artists": [
+        {
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+        }
+      ],
+      "duration_ms": 148014,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Kids' Menu",
-        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 148014,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Cadillac Mountain",
         "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "corals 2",
+        "url": "https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "sand castles",
+      "url": "https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Sofie's SOS Tape",
         "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "corals 2",
-        "url": "https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "sand castles",
-      "url": "https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "longing for you",
         "url": "https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M"
       },
@@ -1143,6 +1143,26 @@
       "duration_ms": 73846,
       "name": "jocelyn",
       "url": "https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Lost In Florence",
+        "url": "https://open.spotify.com/album/03cB1unsDPer56B2nSxwWB"
+      },
+      "artists": [
+        {
+          "name": "Kendall Miles",
+          "url": "https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2"
+        },
+        {
+          "name": "I Eat Plants for a Living",
+          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
+        }
+      ],
+      "duration_ms": 92471,
+      "name": "Lost In Florence",
+      "url": "https://open.spotify.com/track/4WrlDl9oNqNrnZ10441ANu"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Lost In Florence",
-        "url": "https://open.spotify.com/album/03cB1unsDPer56B2nSxwWB"
-      },
-      "artists": [
-        {
-          "name": "Kendall Miles",
-          "url": "https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2"
-        },
-        {
-          "name": "I Eat Plants for a Living",
-          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
-        }
-      ],
-      "duration_ms": 92471,
-      "name": "Lost In Florence",
-      "url": "https://open.spotify.com/track/4WrlDl9oNqNrnZ10441ANu"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "hometown",
         "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 116061,
       "name": "hammock",
       "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Hills and Horizons",
+        "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Hills and Horizons",
+      "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1247,22 +1263,6 @@
       "duration_ms": 88229,
       "name": "no shame in my game.",
       "url": "https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Hills and Horizons",
-        "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Hills and Horizons",
-      "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
     }
   ],
   "unique_name": "Sunset Chill",

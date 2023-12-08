@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,037 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,049 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 34 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
 | 35 | [Corazón Partío](https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Corazón Partío](https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi) | 3:19 |
 | 36 | [Yo Te Pido Amor](https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Un Poco Locos \(Edición De Lujo\)](https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v) | 3:29 |
-| 37 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
-| 38 | [Desvelado](https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Desvelado](https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4) | 3:51 |
+| 37 | [Desvelado](https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Desvelado](https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4) | 3:51 |
+| 38 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
 | 39 | [La Incondicional \- Version Cumbia](https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia\)](https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr) | 2:36 |
 | 40 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 41 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 54 | [Felices los 4](https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Version Cumbia la Plata 2017](https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2) | 3:00 |
 | 55 | [Una Lady Como Tú](https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T) | 2:20 |
 | 56 | [Jurabas Tu](https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Jurabas Tu](https://open.spotify.com/album/6dhWNg8zugr2KLiqwcMwn1) | 3:11 |
-| 57 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 |
-| 58 | [Escapate Conmigo](https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV) | [Cumbia Para Bailar](https://open.spotify.com/artist/5HJpp04iycnIUsoBcH59Oh) | [Escapate Conmigo](https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ) | 2:19 |
+| 57 | [Escapate Conmigo](https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV) | [Cumbia Para Bailar](https://open.spotify.com/artist/5HJpp04iycnIUsoBcH59Oh) | [Escapate Conmigo](https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ) | 2:19 |
+| 58 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 |
 | 59 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
 | 60 | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9) | 3:13 |
 | 61 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCw4NmQ0Yzk2MzNmYWViNTEwYTZjY2I2ZWYyMjgwODVjODJiOWY1Yzg4`
+Snapshot ID: `MCxhNDRmNTFlNTU4YmE1MjVjYWEyNzFiYWY5NTVmN2M3OWQ3NjdlYzFi`

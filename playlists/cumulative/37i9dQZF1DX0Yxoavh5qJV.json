@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 142840,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 173560,
       "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
@@ -262,6 +262,28 @@
       "duration_ms": 199546,
       "name": "Bring Me Love",
       "url": "https://open.spotify.com/track/5MknXpAUgINT11lxoobaJK"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
       "album": {
@@ -1968,7 +1990,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 203373,
       "name": "Mary, Did You Know?",
       "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
@@ -2749,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
+    },
+    {
+      "album": {
         "name": "A Kylie Christmas",
         "url": "https://open.spotify.com/album/0D0L0pzNy8gu9d1jXbridR"
       },
@@ -2778,7 +2818,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 154906,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/359errH05UQpI0n74V8f4h"
@@ -3056,6 +3096,24 @@
       "duration_ms": 219293,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
+    },
+    {
+      "album": {
+        "name": "A Very Teddy Christmas",
+        "url": "https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251359,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP"
     },
     {
       "album": {
@@ -3446,7 +3504,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 164053,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg"

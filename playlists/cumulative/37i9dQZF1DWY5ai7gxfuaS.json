@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
+  "description": "The future of metal is here.",
   "name": "Alternative Metal",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "80486DX",
       "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
@@ -128,6 +128,32 @@
       "duration_ms": 151911,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/7J7M7bscbyKo7WQSwnry7s"
+    },
+    {
+      "album": {
+        "name": "AFRAID TO DIE",
+        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
+      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
     },
     {
       "album": {
@@ -257,6 +283,36 @@
     },
     {
       "album": {
+        "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+        "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Daryl Palumbo",
+          "url": "https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189552,
+      "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
+      "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
+    },
+    {
+      "album": {
         "name": "AN ITERATION",
         "url": "https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da"
       },
@@ -338,6 +394,24 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
+    },
+    {
+      "album": {
+        "name": "Animo",
+        "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Animo",
+      "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
     },
     {
       "album": {
@@ -754,6 +828,24 @@
       "duration_ms": 297381,
       "name": "Bleed Like You - Merzbow Version",
       "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
+    },
+    {
+      "album": {
+        "name": "BLOODSUCKERS",
+        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Bloodsuckers",
+      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
     },
     {
       "album": {
@@ -1176,7 +1268,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 128571,
       "name": "DIVINE DISINTEGRATION",
       "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
@@ -1198,7 +1290,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
@@ -1300,7 +1392,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 532351,
       "name": "Dr\u00fdsill",
       "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
@@ -1430,6 +1522,24 @@
       "duration_ms": 161318,
       "name": "FAIRY METAL",
       "url": "https://open.spotify.com/track/4ipbPgiF2y8XPXgIsJYu2x"
+    },
+    {
+      "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "album": {
@@ -1815,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
+      },
+      "artists": [
+        {
+          "name": "Revnoir",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v"
+    },
+    {
+      "album": {
         "name": "Satellites (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
@@ -2090,7 +2218,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 461306,
       "name": "Love in the Time of Pestilence",
       "url": "https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX"
@@ -2174,6 +2302,42 @@
       "duration_ms": 164666,
       "name": "Manic",
       "url": "https://open.spotify.com/track/5d0CEohvmvqcizfc0cXn1t"
+    },
+    {
+      "album": {
+        "name": "MILF",
+        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "MILF",
+      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
+    },
+    {
+      "album": {
+        "name": "Mitsuko",
+        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129078,
+      "name": "Mitsuko",
+      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
     },
     {
       "album": {
@@ -2268,6 +2432,24 @@
       "duration_ms": 126912,
       "name": "open water",
       "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
+    },
+    {
+      "album": {
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "Oportunista",
+      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "album": {
@@ -2571,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "album": {
         "name": "Rust on the Gates of Heaven",
         "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
       },
@@ -2582,7 +2782,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 331015,
       "name": "Shrinking Violet",
       "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
@@ -2774,7 +2974,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
@@ -2792,7 +2992,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 202804,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
@@ -3077,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
+    },
+    {
+      "album": {
         "name": "Virus.Dos",
         "url": "https://open.spotify.com/album/6ElO2C628e79gXaKtlp5WD"
       },
@@ -3110,6 +3328,28 @@
       "duration_ms": 203948,
       "name": "Watch The World Burn",
       "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
+    },
+    {
+      "album": {
+        "name": "Welcome To Hell (feat. Emmure)",
+        "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        },
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Welcome To Hell (feat. Emmure)",
+      "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
     },
     {
       "album": {

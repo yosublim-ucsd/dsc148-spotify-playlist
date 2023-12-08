@@ -3051,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "Noir De Noir",
+        "url": "https://open.spotify.com/album/5EBzEgLhw2nVVUVL1gmnP5"
+      },
+      "artists": [
+        {
+          "name": "Odo Lefebvre",
+          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198958,
+      "name": "Noir De Noir",
+      "url": "https://open.spotify.com/track/5FU6Qj9h9TYGW2v810ZYA5"
+    },
+    {
+      "album": {
         "name": "Not Nice At All",
         "url": "https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH"
       },
@@ -3870,6 +3888,24 @@
       "duration_ms": 309360,
       "name": "Spring Is Here",
       "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
+    },
+    {
+      "album": {
+        "name": "Starry Skies and Saxophones",
+        "url": "https://open.spotify.com/album/5rkoaMS3FOnul78sYUGdB8"
+      },
+      "artists": [
+        {
+          "name": "Anita Rosswell",
+          "url": "https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223873,
+      "name": "Starry Skies and Saxophones",
+      "url": "https://open.spotify.com/track/3GvTDh5qbXRvpjcVE5r34w"
     },
     {
       "album": {
@@ -4718,6 +4754,24 @@
       "duration_ms": 598866,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt"
+    },
+    {
+      "album": {
+        "name": "Wind Dancer",
+        "url": "https://open.spotify.com/album/32FSarmIZSQXG34jvKX324"
+      },
+      "artists": [
+        {
+          "name": "Dreamland",
+          "url": "https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Wind Dancer",
+      "url": "https://open.spotify.com/track/32wWxPaGYRbkHHLI3bqoYz"
     },
     {
       "album": {

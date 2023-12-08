@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: K\-OS
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,354 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,358 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Sometimes](https://open.spotify.com/track/7dRqF9yproa1Ef6SQEbadb) | [Kim Davis](https://open.spotify.com/artist/0lR9PoH2KAqso7wAip3PJc) | [Live, Love, Learn](https://open.spotify.com/album/0Qr3iLw5lqYOFrhSdjlOjU) | 3:40 |
 | 75 | [Rewind](https://open.spotify.com/track/1PHtMv7FD30owJuNl2N1tE) | [Andreena](https://open.spotify.com/artist/6Yj9DHVH5JLhPFQMlhG28v), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Rewind](https://open.spotify.com/album/0aEQ1YQNcx2bWHCukaefna) | 3:31 |
 
-Snapshot ID: `MCxjYTQ4MGE0MGQ4YTJiNjA3MWNhYTgwNTQzYWE5MmYzMWU1YjM2NjIx`
+Snapshot ID: `MCw1NmI1NzlkZjMzNGJlYjljYjdiOGZiYjI0NmExZmZkYzU2MWM4ZjE1`

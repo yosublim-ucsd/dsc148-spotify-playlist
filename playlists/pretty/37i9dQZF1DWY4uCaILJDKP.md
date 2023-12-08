@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,195 likes - 110 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,198 likes - 110 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 93 | [Walk My Way](https://open.spotify.com/track/6qwc5HJlfeY766XkKJUWKk) | [Rurika Yokoyama](https://open.spotify.com/artist/0hsUr6BMfIcA0KDbPoJMKi) | [ラピスラズリ](https://open.spotify.com/album/6skpg8b0ZOAmk7YAzicf1z) | 4:23 |
 | 94 | [らくらく全手動空間](https://open.spotify.com/track/26SLADj5TnYucH7blxXsJu) | [涼宮ハルヒちゃん \(CV.平野 綾\)](https://open.spotify.com/artist/25VUgQvIEuU3G2trDJy5fI), [長門有希 \(CV.茅原実里\)](https://open.spotify.com/artist/6sApso3RvtZgoqPpkWIdsB), [朝比奈みくる \(CV.後藤邑子\)](https://open.spotify.com/artist/2oAJCBpd56QFQcVmvTDhFn) | [らくらく全手動空間](https://open.spotify.com/album/3wO313NySmid0xuHA2MJGM) | 3:51 |
 | 95 | [Refrain](https://open.spotify.com/track/1hrnW2QXlx8xrzrY3SojNl) | [Tomiko Van](https://open.spotify.com/artist/7bQTvi0LDupAeQp7wPR4Gr) | [Van.](https://open.spotify.com/album/65qHH8yIeVPFJmzndSO6OS) | 4:26 |
-| 96 | [Chase the Light ! \- hyadain Rererere☆Remix](https://open.spotify.com/track/2V5clBeUzdz7UDji2CAKN2) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Rave\-up Tonight](https://open.spotify.com/album/6x6IU6jrgiC6syaY45kqMs) | 4:18 |
+| 96 | [Chase the Light! \- hyadain Rererere☆Remix](https://open.spotify.com/track/4CYUqJ4sjBF9qo3KpGDYjb) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Rave\-up Tonight](https://open.spotify.com/album/2CGXf0qJO4axNnEjyIgFt4) | 4:18 |
 | 97 | [We Go! \-On Your Mark\-](https://open.spotify.com/track/1LgsZldOk4HvHkFOTkK0zm) | [Hiro Shimono](https://open.spotify.com/artist/5G94RvsmzC8FAA6I7i0OKH) | [We Go!](https://open.spotify.com/album/5NRbYR1pRrwF4UVckWFFkJ) | 4:03 |
 | 98 | [525600min\. 〜Seasons of Love〜](https://open.spotify.com/track/2VlVh4H6ExtXlIOlSdtcyK) | [K](https://open.spotify.com/artist/2XP6sMIt93QYAb3mrkl2Hy) | [525600min\. 〜Seasons of Love〜](https://open.spotify.com/album/6jAvr9v53w8Q21GXuTWSLn) | 4:52 |
 | 99 | [Home Sweet Home !](https://open.spotify.com/track/71t4iyi0NqFcHU1hcYojjH) | [Yutaro Miura](https://open.spotify.com/artist/4NV9z38H7a9yNJCzu5Pnp3) | [FLOWERS](https://open.spotify.com/album/0bKTvirykWz7P04Tx4F6FZ) | 4:01 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 109 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 110 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MCwwZTU0NzgxZGIyOGNmNTJmZThhNDBlZjA4NjU4NWY1OWUxNTBlZjNl`
+Snapshot ID: `MCxmNDlkODczNTJjYjFjYTNhYjM5MTc1ZWYwZTdkYTQyNjZhNzRkN2Jk`

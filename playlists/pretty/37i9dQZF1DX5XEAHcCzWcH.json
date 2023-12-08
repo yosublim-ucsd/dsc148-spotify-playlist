@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 30979,
+  "num_followers": 31011,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTVmN2Q1NzhhNGJiOTQyNjFjMDI2YmNhNjY5YzZkN2Y2NjVjZjVk",
+  "snapshot_id": "MCwyODg3YzBkMTVlMTIxOWYzZDIwYjUzNWJhMTI3OGM0YzRhODY1MGJm",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -279,6 +279,30 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss & The Flip Tops",
+          "url": "https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk"
+        },
+        {
+          "name": "Barrelhouse Chuck",
+          "url": "https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO"
+        },
+        {
+          "name": "Kate Moss",
+          "url": "https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Ain't Times Hard",
+      "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -307,30 +331,6 @@
       "duration_ms": 177439,
       "name": "Boogie Woogie Country Girl",
       "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
-      },
-      "artists": [
-        {
-          "name": "Nick Moss & The Flip Tops",
-          "url": "https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk"
-        },
-        {
-          "name": "Barrelhouse Chuck",
-          "url": "https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO"
-        },
-        {
-          "name": "Kate Moss",
-          "url": "https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Ain't Times Hard",
-      "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Jumpin' With Joe",
-        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "X-Temporaneous Boogie",
         "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 139133,
       "name": "Fluff Boogie",
       "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "If I Hadn't Been High",
-      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "If I Hadn't Been High",
+      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "The Essential Leroy Carr",
         "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 315373,
-      "name": "Ain't Nobody's Business",
-      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Down In Mississippi",
         "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 315373,
+      "name": "Ain't Nobody's Business",
+      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
-        "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
-      },
-      "artists": [
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "Everytime I Get to Drinking",
-      "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 322426,
       "name": "Somebody To Shack",
       "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
+        "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
+      },
+      "artists": [
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "Everytime I Get to Drinking",
+      "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
     },
     {
       "added_at": "2023-09-15 11:43:10",

@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Mateo Falgas",
-  "num_followers": 19056,
+  "num_followers": 19076,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUzNGE3NzkzNTE3MTA5ZjYzMzZhMGZlMGI2ZDYwMmQ3Y2IxOWEy",
+  "snapshot_id": "MCwxNDRjODIzZjQzMmRmZjFkYjJmOGM5MWNiNGYwNTY4NmNlZTk5ZjUw",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "volver\u00e1s??",
-        "url": "https://open.spotify.com/album/5qEWzce6jaRVuEnobRAAOg"
-      },
-      "artists": [
-        {
-          "name": "Hey Kid",
-          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
-        },
-        {
-          "name": "Paula Becker",
-          "url": "https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "volver\u00e1s??",
-      "url": "https://open.spotify.com/track/7z0gvrbNudxiGUJ3mga5XL"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "My Best Self",
         "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
       },
@@ -699,18 +679,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+        "name": "volver\u00e1s??",
+        "url": "https://open.spotify.com/album/5qEWzce6jaRVuEnobRAAOg"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        },
+        {
+          "name": "Paula Becker",
+          "url": "https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz"
         }
       ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+      "duration_ms": 194000,
+      "name": "volver\u00e1s??",
+      "url": "https://open.spotify.com/track/7z0gvrbNudxiGUJ3mga5XL"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -727,6 +711,22 @@
       "duration_ms": 196333,
       "name": "Found Love",
       "url": "https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Larga Duraci\u00f3n",
+        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
+      },
+      "artists": [
+        {
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
+        }
+      ],
+      "duration_ms": 198536,
+      "name": "Las Vacas",
+      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Larga Duraci\u00f3n",
-        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
-      },
-      "artists": [
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 198536,
-      "name": "Las Vacas",
-      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Qu\u00e9 Tal",
         "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 164266,
       "name": "Qu\u00e9 Tal",
       "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 206040,
       "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
       "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 231604,
       "name": "Un ratito m\u00e1s",
       "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Extra\u00f1os",
-        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
-      },
-      "artists": [
-        {
-          "name": "Ayzak Ewan",
-          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
-        }
-      ],
-      "duration_ms": 231878,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 196034,
       "name": "Hace rato",
       "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
+      },
+      "artists": [
+        {
+          "name": "Ayzak Ewan",
+          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
+        }
+      ],
+      "duration_ms": 231878,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
     },
     {
       "added_at": "2023-12-01 05:01:00",

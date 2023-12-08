@@ -4,10 +4,11 @@
 
 > beats + birds = <3
 
-475 songs - 18 hr 17 min
+478 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1st Snow](https://open.spotify.com/track/1P7bWWtP7ll4qBApqcLw3B) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [1st Snow](https://open.spotify.com/album/14NocT8uV7ZpWpGXqx3cxR) | 2:16 | 2023-12-08 |  |
 | [A Little Bird Told Me](https://open.spotify.com/track/0ZXi3n1FhNbusnpDcnxLmA) | [Etchen](https://open.spotify.com/artist/3n5F1rL9ZHZIsYfX9DsT8R) | [WAVES](https://open.spotify.com/album/6AOwfXtb6LPoNa1fKcMunQ) | 1:17 | 2021-12-07 | 2023-03-02 |
 | [a perfect day](https://open.spotify.com/track/6sOI9uZ023BiPOeN3X3uqg) | [Rusty Carz](https://open.spotify.com/artist/0jlbuRqWcK7qyQFLYTdWqG) | [a perfect day](https://open.spotify.com/album/2pxIrPGkb83M4EAqlhWT0W) | 2:33 | 2023-09-29 |  |
 | [A Winter with U](https://open.spotify.com/track/161n2kcoBAL9JajzqP4KuU) | [Spinmont](https://open.spotify.com/artist/6CNlouXOE8j6UGHVmtagw6), [Luvbird](https://open.spotify.com/artist/2vmQ4q3IQKzvHaHTJAh3Ph) | [A Winter with U](https://open.spotify.com/album/2EYPWseqviUX4HXAgNOmUC) | 2:33 | 2021-12-07 | 2022-11-26 |
@@ -271,6 +272,7 @@
 | [Mesmerized](https://open.spotify.com/track/7Hc0KECG4KNIQqDcDtvUIj) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Mesmerized](https://open.spotify.com/album/1ndHDTREiFpE6pQin9lwWL) | 1:33 | 2023-02-17 |  |
 | [mi casita en chile](https://open.spotify.com/track/5PSu0TOeazog7mNcMQqC3u) | [chanchito estafa](https://open.spotify.com/artist/3qrY0YViGM8BhOjdKFNaOE) | [mi casita en chile](https://open.spotify.com/album/3of7gwhDGSRN9BUOlAFT7R) | 2:01 | 2023-08-31 | 2023-09-08 |
 | [Microwave Jam](https://open.spotify.com/track/0JXHJVMM7sy9sszTiEpumr) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Microwave Jam](https://open.spotify.com/album/75JaaUPon3gnk3c8zT4RCm) | 2:25 | 2021-12-07 |  |
+| [mid autumn](https://open.spotify.com/track/4QhzZqh71thbm5cxxiHkzT) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [mid autumn](https://open.spotify.com/album/30tiLGIHjpSplPuKOAcaqW) | 2:16 | 2023-12-08 |  |
 | [Midmorning](https://open.spotify.com/track/35TggOmZhDSWFzwApphPM8) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Midmorning](https://open.spotify.com/album/1r2hnjBiSaZWjukHPsCgRh) | 2:51 | 2022-10-28 |  |
 | [Midnight Thoughts](https://open.spotify.com/track/174cmffB1DSf8pH4A14bDr) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [breakfast oats.](https://open.spotify.com/artist/60GtRTpm5lE77BuKLejtlw) | [Midnight Thoughts](https://open.spotify.com/album/0w1OFJ3h2RQ4oj1JHsBr6I) | 2:10 | 2022-05-13 | 2023-09-16 |
 | [Mikonos](https://open.spotify.com/track/0qnvXzItiOWH4YzNoztrPc) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Mikonos](https://open.spotify.com/album/5oJF59iGEfTX7grO1ovUy6) | 2:20 | 2022-04-08 | 2023-01-07 |
@@ -414,6 +416,7 @@
 | [Stay at the Hotel](https://open.spotify.com/track/0EOgh8Si2DiYd1qjBUY66A) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Stay at the Hotel](https://open.spotify.com/album/6rCbBExCHAeMNd9PD7mQS8) | 2:35 | 2022-11-11 |  |
 | [Steady Somewhere](https://open.spotify.com/track/7J0jAsnZ1VKTizaSaOYtLM) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:36 | 2021-12-07 | 2022-09-17 |
 | [Strange Things](https://open.spotify.com/track/1B8GvOP5g0GiSUEq2Xy6PR) | [Tavles](https://open.spotify.com/artist/4aj1KGHudN7PcWcByOV7H5) | [Strange Things](https://open.spotify.com/album/0Ocq9TrB4PsYajw4hQVbaJ) | 2:40 | 2023-06-06 |  |
+| [streams of life](https://open.spotify.com/track/7IvpSm6iZ43gmaTeKBFro3) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [streams of life](https://open.spotify.com/album/422x82kg1JyRssIOoZqtTX) | 2:28 | 2023-12-08 |  |
 | [Street Light](https://open.spotify.com/track/7jDnKToNs76wyPpZWI40s9) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Street Light](https://open.spotify.com/album/6eEXU50lfZDYvNSL8QMLuP) | 2:08 | 2023-01-13 |  |
 | [String Theori](https://open.spotify.com/track/6hOVJidj6yGlS3sNdhGtNi) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [String Theori](https://open.spotify.com/album/5SQJKy1u9FTIvBZUNqGZrJ) | 3:44 | 2021-12-07 | 2023-03-02 |
 | [Suburra](https://open.spotify.com/track/6op8cMcdA6Rn64jkUjaJRj) | [Prima Volta](https://open.spotify.com/artist/1s38eSWM02uekxwdJt3wd0) | [Suburra](https://open.spotify.com/album/6vcf0kIpP602iYTHp6kzts) | 2:35 | 2023-03-08 |  |

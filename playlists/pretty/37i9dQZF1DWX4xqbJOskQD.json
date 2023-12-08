@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjFlZWQzY2E1YTA0MGNiMzY0NzdlODg1ODkwZTFiODE1ZTBhMDIx",
+  "snapshot_id": "MCxlZGEyZjcyZjJjYTUwZTEzOTQ4MWMxZDQzNjZhNTBjZDk5YTEyYjVh",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Coed Singles",
+        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "duration_ms": 151455,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "That's How Rhythm Was Born",
         "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 201400,
       "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Coed Singles",
-        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 151455,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
     },
     {
       "added_at": "2020-08-17 22:49:59",

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-262 songs - 13 hr 7 min
+265 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Attention](https://open.spotify.com/track/7saPqdjNGYVhEB9EDIsQ3p) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Attention](https://open.spotify.com/album/1xmJoCr4u9QjkoQOOZdoAU) | 2:45 | 2022-12-02 | 2023-06-03 |
 | [Baby Can I Hold You \- Instrumental](https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers Vol\. 3](https://open.spotify.com/album/73kpQrKjqV1DQhiC0gJ2Wh) | 3:15 | 2022-05-20 | 2023-06-16 |
 | [Baby I love your way](https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Baby I Love Your Way](https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ) | 2:23 | 2022-09-30 |  |
+| [Back for Good](https://open.spotify.com/track/1ODWd5kl6IzG1ZQARbcAaL) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [Back for Good](https://open.spotify.com/album/2DYUCHUNd6rgnsSbenSQxl) | 2:34 | 2023-12-08 |  |
 | [bad guy](https://open.spotify.com/track/1zXv69mtvZlCVNKcnutbp7) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [bad guy](https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC) | 2:21 | 2023-01-13 | 2023-06-03 |
 | [Bad Habits](https://open.spotify.com/track/5GhGxnInJgQLbI61S4NwhM) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Bad Habits](https://open.spotify.com/album/6HwuOd0UdhwIMh4Pw8txz0) | 3:07 | 2022-12-02 | 2023-06-03 |
 | [Bad Romance](https://open.spotify.com/track/4AJOciBT4O5PZAETXFoVIe) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Bad Romance](https://open.spotify.com/album/22Lme10YWdkIq1JRWEqUgP) | 2:51 | 2023-09-22 |  |
@@ -62,6 +63,7 @@
 | [Don't Look Back In Anger](https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Don't Look Back In Anger](https://open.spotify.com/album/4oHlMLyej1Sb1UPvoDCezc) | 3:46 | 2022-12-02 |  |
 | [Don't Speak](https://open.spotify.com/track/7eFWJOp5wESaxCakzJ5Jf1) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [Don't Speak](https://open.spotify.com/album/62CounkU6ZMZGGhhGtqdIs) | 2:48 | 2022-05-20 |  |
 | [Don't Start Now](https://open.spotify.com/track/7GhDCGALFBPrsXycSH8q6Q) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Mike Ilyas](https://open.spotify.com/album/38uIgrRbN63mXyyquWx21j) | 2:27 | 2022-05-20 | 2023-04-15 |
+| [Dream A Little Dream Of Me](https://open.spotify.com/track/6xIidCUt8vNnGHYfXH9hVU) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Dream A Little Dream Of Me](https://open.spotify.com/album/482fvXp5PuWSHqR01zR0xd) | 3:15 | 2023-12-08 |  |
 | [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 3:53 | 2022-05-20 | 2023-06-03 |
 | [Easy On Me](https://open.spotify.com/track/7nZrgOtCRXGvrXCbPhuHch) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Easy On Me](https://open.spotify.com/album/1JjZRAcvYYpjY6IALupLZl) | 2:56 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/647uBk9wlI9O1PQu7YkyNG) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Easy On Me](https://open.spotify.com/album/4O4BnpRC1m5VEBqgIFFmTI) | 4:09 | 2022-05-20 | 2022-12-02 |
@@ -96,6 +98,7 @@
 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 | 2022-05-20 | 2023-05-05 |
 | [Hang with me](https://open.spotify.com/track/2czKMSrneOvVEOf2siVEiq) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Hang with me](https://open.spotify.com/album/6FlFjvvHYpeFPDnNqkkowH) | 3:02 | 2023-03-17 | 2023-06-03 |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5NP4t2zPbqoOzeNDZWmE8U) | [Blake Wright](https://open.spotify.com/artist/3xmWhMwY31kqIzejidLlt8) | [Have You Ever Seen The Rain](https://open.spotify.com/album/25SXr9Z24oTBxdcIksPefu) | 2:25 | 2022-12-02 |  |
+| [Heart Of Gold](https://open.spotify.com/track/4F9OMPxtu1imufP9PRJMDs) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [Heart Of Gold](https://open.spotify.com/album/3TgtFNT15QX2cM7SrSxkkg) | 2:33 | 2023-12-08 |  |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/3ViX2a4RmIXOM0z3aeaxMc) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/4xLyBp6kJNpFjYP1OaLXlK) | 4:08 | 2023-03-17 |  |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2023-03-17 | 2023-04-13 |
 | [Heaven](https://open.spotify.com/track/7yAhqUJ1LAkEdYnF8XxNN5) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Dean M Parker](https://open.spotify.com/album/2zNaQCdhfJlWgaYoedd4oP) | 1:39 | 2022-05-20 | 2022-07-02 |
@@ -245,7 +248,7 @@
 | [What A Wonderful World](https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 3:14 | 2023-03-17 | 2023-06-16 |
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-05-20 | 2023-03-18 |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/2SvmLf1WGMevA1POgmsE1j) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/6swVpYrlkNRQXgKuvLPN6n) | 2:46 | 2022-05-20 | 2023-06-03 |
-| [When I Was Your Man \- Acoustic Instrumental](https://open.spotify.com/track/2Oej38AKkUraslaWEK1ATx) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ), [Guus Dielissen](https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P) | [When I Was Your Man \(Acoustic Instrumental\)](https://open.spotify.com/album/5iwJPbUmhTUapFPmP3MoRU) | 3:35 | 2022-05-20 |  |
+| [When I Was Your Man \- Acoustic Instrumental](https://open.spotify.com/track/2Oej38AKkUraslaWEK1ATx) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ), [Guus Dielissen](https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P) | [When I Was Your Man \(Acoustic Instrumental\)](https://open.spotify.com/album/5iwJPbUmhTUapFPmP3MoRU) | 3:35 | 2022-05-20 | 2023-12-08 |
 | [When You Believe](https://open.spotify.com/track/1hH0H7zBLYfhBEFVJIYfyY) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [When You Believe](https://open.spotify.com/album/4XEr0vUwngo6ITz4wynWEz) | 3:24 | 2023-02-24 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/6j0tjTQ6Pz3tB0O8uix2Eo) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [When You Say Nothing At All](https://open.spotify.com/album/1heo44LPMiIUkFQjiQjrM3) | 3:21 | 2023-11-17 |  |
 | [When You Were Young](https://open.spotify.com/track/7zvMrz8rXUXpAkE2uhBIbJ) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [When You Were Young](https://open.spotify.com/album/50vdHsYMxbea4YadMnLA2I) | 1:42 | 2023-02-24 | 2023-08-26 |

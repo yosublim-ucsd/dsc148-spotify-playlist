@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-453 songs - 23 hr 28 min
+457 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn In New York](https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Autumn In New York](https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz) | 4:19 | 2022-09-29 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2021-12-14 | 2022-11-18 |
+| [Autumn nocturne](https://open.spotify.com/track/7GzCb29gghRInEd8bUHgLt) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Autumn nocturne](https://open.spotify.com/album/74GNqzlT1Jh72qXGqGqQ0Q) | 2:35 | 2023-12-08 |  |
 | [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 | 2023-11-17 |  |
 | [Backwards era](https://open.spotify.com/track/42I2pIhLglLv0La7ubo2U4) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Backwards era](https://open.spotify.com/album/5V8wQwPdd4uZjEo6OhBP3Z) | 2:24 | 2023-08-11 |  |
 | [Ballad For Hilda](https://open.spotify.com/track/0GGnf4gQNCrvwC32lroIJv) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 1:53 | 2022-12-01 | 2023-09-16 |
@@ -61,6 +62,7 @@
 | [Birds Don't Sing](https://open.spotify.com/track/3uIsmWUUM9VZP3H6OB2lAk) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Birds Don't Sing](https://open.spotify.com/album/7HLf0GjPxG3UrT5Slydz0I) | 1:52 | 2023-09-22 |  |
 | [Blame it on My Youth](https://open.spotify.com/track/1KWj5vKH4ns49fPDsD6Qa1) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [In Love For the Rest of My Life](https://open.spotify.com/album/7um0tlhr6y5RIufvcyVjbp) | 2:33 | 2022-01-13 | 2023-02-10 |
 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
+| [Blue Midnight](https://open.spotify.com/track/3wb4QQWD4UBZHSGUEPMX86) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Blue Midnight](https://open.spotify.com/album/78c6w6eBuP9tdzODxi1SvQ) | 2:26 | 2023-12-08 |  |
 | [Blue Moon](https://open.spotify.com/track/08iHceGlaOmsMpNJVuN8Ev) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Blue Moon](https://open.spotify.com/album/3bMoWdrQYKVgGklRZVdDXv) | 3:26 | 2022-11-17 |  |
 | [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 | 2023-09-29 |
 | [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 | 2023-02-09 |  |
@@ -402,6 +404,7 @@
 | [The Shadow Of Your Smile \- From The Sandpiper](https://open.spotify.com/track/1JXImcBMjydCrUc9ClAEwO) | [Bill Mays](https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ) | [Cinematic Jazz \#16: The Piano](https://open.spotify.com/album/5ceVKHppWUQt2xkA1wbxdG) | 4:09 | 2021-12-14 | 2022-11-25 |
 | [The side effects](https://open.spotify.com/track/3Q1eWOScbVt8k40WMegaSJ) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [The side effects](https://open.spotify.com/album/4f2QHZ8zsd4zx9FFlYkDw0) | 2:31 | 2023-08-11 |  |
 | [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2022-11-24 |  |
+| [The Songbird](https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [The Songbird](https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ) | 2:42 | 2023-12-08 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/6pmSLP6FNkn7eNaHBFHSZI) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [SOLO 1976 A Tribute to Duke Ellington](https://open.spotify.com/album/6BwXDrTA7w4Y4ZzZJSQPYi) | 3:38 | 2022-03-10 | 2023-05-12 |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2021-12-14 | 2023-03-18 |
 | [There Is No Greater Love](https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [There Is No Greater Love](https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD) | 2:34 | 2023-04-14 |  |
@@ -429,6 +432,7 @@
 | [We Kiss In A Shadow](https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [We Kiss In A Shadow](https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P) | 2:43 | 2023-08-11 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [We'll Be Together Again](https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU) | 4:22 | 2022-10-06 | 2023-03-03 |
 | [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 | 2023-04-27 |  |
+| [Weeping Willow](https://open.spotify.com/track/4sNwc8wHFoErgbeOZOTKMn) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [Weeping Willow](https://open.spotify.com/album/7r2r5H75pSNMcofFz3zQkW) | 4:20 | 2023-12-08 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-11 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-31 |  |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,895 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,896 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 79 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 |
 | 80 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 |
 
-Snapshot ID: `MCxiYTE3NDY1YmVhN2EyZmQ4N2JkODBmYTk3NWM1MTY3MjY0ZTY0M2Jm`
+Snapshot ID: `MCw2NTYzNjYwZjBkZjE1ODEzMGY4MjBmN2RmODIxM2YzZTU2NmMxYWQ4`

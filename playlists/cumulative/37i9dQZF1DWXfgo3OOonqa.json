@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 193000,
       "name": "2 Phones",
       "url": "https://open.spotify.com/track/0NPJkgH7GbaJQTE65JDOEo"
@@ -7264,7 +7264,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 236466,
       "name": "En vanlig tid, en vanlig plats",
       "url": "https://open.spotify.com/track/2AsURZV7h5HfMwot4P0HWN"
@@ -11340,7 +11340,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 184736,
       "name": "INGEN NACAS",
       "url": "https://open.spotify.com/track/1vYlpLhLkZfg30xnG5bsTW"
@@ -11958,6 +11958,28 @@
       "duration_ms": 176854,
       "name": "Joker",
       "url": "https://open.spotify.com/track/0g4CTDdkSQ2YbpM8ElnNqg"
+    },
+    {
+      "album": {
+        "name": "Julbrevet",
+        "url": "https://open.spotify.com/album/60u5LJYUnXwx816jCOH569"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105460,
+      "name": "Julbrevet",
+      "url": "https://open.spotify.com/track/6Zu0W8fwq8TPjAbdjSQBsu"
     },
     {
       "album": {
@@ -13911,6 +13933,24 @@
     },
     {
       "album": {
+        "name": "En paus fr\u00e5n internet - Del 1",
+        "url": "https://open.spotify.com/album/3kda21yqjtpYe0WRwgOk00"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Lokalisering",
+      "url": "https://open.spotify.com/track/0SBiVhqITXijjCtsnKQjBK"
+    },
+    {
+      "album": {
         "name": "Long Time No See",
         "url": "https://open.spotify.com/album/6xtBhrTL8wXjt9SNcQLjme"
       },
@@ -14738,7 +14778,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 132857,
       "name": "MA TINS\u00c4NI",
       "url": "https://open.spotify.com/track/7b9DNLoGVzpxv1yRugBPWg"
@@ -15250,7 +15290,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
@@ -16022,6 +16062,24 @@
       "duration_ms": 147127,
       "name": "Min sida",
       "url": "https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb"
+    },
+    {
+      "album": {
+        "name": "Min Skugga",
+        "url": "https://open.spotify.com/album/6PUHMo6qU9N8GpE4vjLwHE"
+      },
+      "artists": [
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189204,
+      "name": "Min Skugga",
+      "url": "https://open.spotify.com/track/5wOO2PntnNbOSgaszLkbt7"
     },
     {
       "album": {
@@ -18014,7 +18072,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 147013,
       "name": "Palmerna",
       "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
@@ -20572,7 +20630,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 197156,
       "name": "Skenet Bedrar",
       "url": "https://open.spotify.com/track/2c9HQ1EKrrRCgruiXuDay3"
@@ -23686,7 +23744,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 116484,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/2KQPzBXxmHQl199HuQnZEk"

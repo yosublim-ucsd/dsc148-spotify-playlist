@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 572592,
+  "num_followers": 572686,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGNjYWEzYTk5NWIyNDcwMDQ1MDlhMDJhZDRlMjMwNzlmZDk5MWMw",
+  "snapshot_id": "MCw5NjM0YTUyOGRjMzZkNWQwYzY4MWIyNTExZmU4MTY3NjRmNWRkMzRj",
   "tracks": [
     {
       "added_at": "2023-12-06 09:41:58",
@@ -48,7 +48,7 @@
       },
       "artists": [
         {
-          "name": "Amigdala",
+          "name": "Pendarra",
           "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
         }
       ],
@@ -432,7 +432,7 @@
       },
       "artists": [
         {
-          "name": "Amigdala",
+          "name": "Pendarra",
           "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
         }
       ],
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Riuh",
-        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
-      },
-      "artists": [
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        }
-      ],
-      "duration_ms": 265737,
-      "name": "Halu",
-      "url": "https://open.spotify.com/track/2dTIJVE0stqTvrhbpf7fFw"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "terima kasih",
         "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 204126,
       "name": "terima kasih",
       "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Riuh",
+        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "duration_ms": 265737,
+      "name": "Halu",
+      "url": "https://open.spotify.com/track/2dTIJVE0stqTvrhbpf7fFw"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Riuh",
-        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
-      },
-      "artists": [
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        }
-      ],
-      "duration_ms": 311496,
-      "name": "Usik",
-      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "8 Tahun",
         "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 287453,
       "name": "Sesuatu Di Jogja",
       "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Riuh",
+        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "duration_ms": 311496,
+      "name": "Usik",
+      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1024,29 +1024,13 @@
       },
       "artists": [
         {
-          "name": "Amigdala",
+          "name": "Pendarra",
           "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
         }
       ],
       "duration_ms": 317453,
       "name": "Tuhan Sebut Sia-Sia",
       "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1063,6 +1047,22 @@
       "duration_ms": 245400,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+        "name": "happy",
+        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Skinnyfabs",
+          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
         }
       ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+      "duration_ms": 173217,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
     },
     {
       "added_at": "2023-12-06 09:41:58",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "happy",
-        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
       "artists": [
         {
-          "name": "Skinnyfabs",
-          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 173217,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     },
     {
       "added_at": "2023-12-06 09:41:58",

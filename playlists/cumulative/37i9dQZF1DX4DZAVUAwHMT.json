@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Trash Boat",
+  "description": "The UK's biggest rock playlist. Cover: Architects",
   "name": "The Rock List",
   "tracks": [
     {
@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2Qxe83nN1Y8aBXIoUaxjBd"
+      },
+      "artists": [
+        {
+          "name": "The Blinders",
+          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235016,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7fuzX8L06JinfbGT5Jm3gY"
+    },
+    {
+      "album": {
         "name": "punkadonk2",
         "url": "https://open.spotify.com/album/28f5ioD8CPtdT2WIMvrs72"
       },
@@ -478,6 +496,24 @@
       "duration_ms": 171133,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs"
+    },
+    {
+      "album": {
+        "name": "Anxious State of Mind",
+        "url": "https://open.spotify.com/album/0veEsBw8e77FDY5OwDwYvh"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246420,
+      "name": "Anxious State of Mind",
+      "url": "https://open.spotify.com/track/7uV2jXPIfxEXTDcGSwAgIZ"
     },
     {
       "album": {
@@ -982,7 +1018,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 200886,
       "name": "Brakelights",
       "url": "https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6"
@@ -1538,6 +1574,24 @@
       "duration_ms": 187010,
       "name": "Died in My Twenties",
       "url": "https://open.spotify.com/track/5jugjQMGL2QNFdxfl12o5G"
+    },
+    {
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "album": {
@@ -5343,6 +5397,24 @@
     },
     {
       "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W"
       },
@@ -5628,6 +5700,24 @@
       "duration_ms": 168221,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "album": {
+        "name": "Rebel Diamonds",
+        "url": "https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
     },
     {
       "album": {
@@ -6126,6 +6216,24 @@
       "duration_ms": 182407,
       "name": "The Delicate Nature",
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
+    },
+    {
+      "album": {
+        "name": "The General",
+        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262776,
+      "name": "The General",
+      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
     },
     {
       "album": {

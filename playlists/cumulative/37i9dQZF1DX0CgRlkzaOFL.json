@@ -990,7 +990,7 @@
     {
       "album": {
         "name": "Reversal Orchestra Original Soundtrack",
-        "url": "https://open.spotify.com/album/5rlEtouzgzbIcIGOA280lr"
+        "url": "https://open.spotify.com/album/50nc0VNoR3wdoFLRlF5bQ6"
       },
       "artists": [
         {
@@ -1005,6 +1005,28 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 264733,
+      "name": "Reversal Orchestra - Main Theme",
+      "url": "https://open.spotify.com/track/1OvmwxK4zNWaHNTiPUtkaE"
+    },
+    {
+      "album": {
+        "name": "Reversal Orchestra Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rlEtouzgzbIcIGOA280lr"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        },
+        {
+          "name": "\u557c\u9d6c",
+          "url": "https://open.spotify.com/artist/1FI9S6aeJTuR7md0tSBo5h"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
       "duration_ms": 264733,
       "name": "Reversal Orchestra Main Theme",
       "url": "https://open.spotify.com/track/0pv2Mv5hHkYf6VZWvfA6us"

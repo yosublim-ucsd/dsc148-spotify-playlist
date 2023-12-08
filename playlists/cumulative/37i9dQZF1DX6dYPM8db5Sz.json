@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=eILjr2IURVCM_iCCOf3d2w\">Beatenberg</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF?si=4ib3OByhT-OwqU0RgZWT6g\">Anke Richards</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 186122,
       "name": "Any Wonder",
       "url": "https://open.spotify.com/track/4CD1fsXvcBFi8UpEG5NXZt"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 265718,
       "name": "As the Universe so the Soul",
       "url": "https://open.spotify.com/track/5etRGpBT0YASzCvCrpTKu7"
@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/5eQ8QuGhEUFgcbeQ0PWj5p"
+      },
+      "artists": [
+        {
+          "name": "Sasha Dawe",
+          "url": "https://open.spotify.com/artist/3tnBZhxy5Dd7tqb8njoxNL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170353,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/3CJ7iGSAkMTNxzaZDxAtKE"
+    },
+    {
+      "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/2leqLPJD8i4vkVzzvcZEUv"
       },
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 108000,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/419o5hR6s53S0ic5iP984q"
@@ -2192,6 +2210,24 @@
       "duration_ms": 146214,
       "name": "Days On Mountains",
       "url": "https://open.spotify.com/track/4rgNZsyuVYKZfFBRjgt39s"
+    },
+    {
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/760XWxqLpTjY8qjkdlRz13"
+      },
+      "artists": [
+        {
+          "name": "Gerry",
+          "url": "https://open.spotify.com/artist/3wbOanWJxWjAjMQtvrcbvA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307285,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/3tDKf6YB3RiwPbVQeR1Oyj"
     },
     {
       "album": {
@@ -3537,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "GUILTY",
+        "url": "https://open.spotify.com/album/4qxULZELSqlALwdnZDplfN"
+      },
+      "artists": [
+        {
+          "name": "Anke Richards",
+          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164259,
+      "name": "GUILTY",
+      "url": "https://open.spotify.com/track/0L9fyDr3u7SN9CAK0KuUd8"
+    },
+    {
+      "album": {
         "name": "Happier (Radio Remix)",
         "url": "https://open.spotify.com/album/4dmgyRNF1FyHU9Jm94ss5Z"
       },
@@ -4259,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "I Hate Christmas",
+        "url": "https://open.spotify.com/album/04rdbaRTPik0jEmot6hX6q"
+      },
+      "artists": [
+        {
+          "name": "CHXRL",
+          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "I Hate Christmas",
+      "url": "https://open.spotify.com/track/5K0dqIdylxIoIZ5PHLthpX"
+    },
+    {
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0Uw7uhLCXBQN2zYlxM6VQ7"
       },
@@ -4642,6 +4714,24 @@
       "duration_ms": 175923,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
+    },
+    {
+      "album": {
+        "name": "JAZZ",
+        "url": "https://open.spotify.com/album/5TfPt5KjlqjqT7ITgPJ7qw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Baron",
+          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221081,
+      "name": "JAZZ",
+      "url": "https://open.spotify.com/track/7CotRZiziDHVi5RAA9JRoe"
     },
     {
       "album": {
@@ -6435,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "To Be Me",
+        "url": "https://open.spotify.com/album/3p85eD900HAdNqkRlcAX6i"
+      },
+      "artists": [
+        {
+          "name": "Leia",
+          "url": "https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74322,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/5RzEFPCI7PkiEi7Bhc1MKx"
+    },
+    {
+      "album": {
         "name": "Oceanside",
         "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
       },
@@ -6572,7 +6680,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 296160,
       "name": "One Way Train",
       "url": "https://open.spotify.com/track/0ZOKIIRIhUQhabsT8MsafH"
@@ -6778,6 +6886,24 @@
       "duration_ms": 146870,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7"
+    },
+    {
+      "album": {
+        "name": "Past Midnight (Acoustic)",
+        "url": "https://open.spotify.com/album/6ypJ22Tq0udhQseyoPPCIW"
+      },
+      "artists": [
+        {
+          "name": "Cece Vee",
+          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Past Midnight (Acoustic)",
+      "url": "https://open.spotify.com/track/73sgxhsap47d7BDZClpOuJ"
     },
     {
       "album": {
@@ -7131,6 +7257,24 @@
     },
     {
       "album": {
+        "name": "Push Me Out To Sea",
+        "url": "https://open.spotify.com/album/4wIr5MesWumJ6YzqpKk1Sg"
+      },
+      "artists": [
+        {
+          "name": "Justin Prins",
+          "url": "https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176479,
+      "name": "Push Me Out To Sea",
+      "url": "https://open.spotify.com/track/2IX4LYxm1qs0gnQTub6o7Y"
+    },
+    {
+      "album": {
         "name": "Rat Saw God",
         "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
       },
@@ -7160,7 +7304,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 183524,
       "name": "Quarter Life Crisis",
       "url": "https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ"
@@ -7672,7 +7816,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 189189,
       "name": "Self Talk",
       "url": "https://open.spotify.com/track/0J4crYwpC6mNygzXWU6AY3"
@@ -8348,7 +8492,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 146062,
       "name": "Still A RockStar",
       "url": "https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3"
@@ -10128,7 +10272,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 297011,
       "name": "Wild City",
       "url": "https://open.spotify.com/track/5ALBOB9JGa6dpkT1IQtktz"
@@ -10558,6 +10702,24 @@
       "duration_ms": 149853,
       "name": "your love",
       "url": "https://open.spotify.com/track/5qecUAvO8gfPyheq3E7BFO"
+    },
+    {
+      "album": {
+        "name": "YOU DON'T KNOW WHAT IT MEANS TO BE SAD",
+        "url": "https://open.spotify.com/album/7K402ZZktGyZ9G5tS1U8rm"
+      },
+      "artists": [
+        {
+          "name": "Shanita.",
+          "url": "https://open.spotify.com/artist/34AnDMAar1ubl6M2u2NQ8O"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149876,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/641USHusMDHP4M74u92Sei"
     },
     {
       "album": {

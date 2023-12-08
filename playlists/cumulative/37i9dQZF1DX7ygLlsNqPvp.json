@@ -455,6 +455,32 @@
     },
     {
       "album": {
+        "name": "Asamando",
+        "url": "https://open.spotify.com/album/2wqWOTyzaHP4ZmwlygXt0w"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        },
+        {
+          "name": "Ink Boy",
+          "url": "https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt"
+        },
+        {
+          "name": "Blvck Jezuz",
+          "url": "https://open.spotify.com/artist/3zoHfYJnBN0au3YeRQci5a"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Asamando",
+      "url": "https://open.spotify.com/track/6UlH5Nx7C3rpvTvNr0QUgU"
+    },
+    {
+      "album": {
         "name": "Aso)den",
         "url": "https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK"
       },

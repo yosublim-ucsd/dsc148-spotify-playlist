@@ -4,13 +4,13 @@
 
 > You can dance or chill.
 
-176 songs - 8 hr 49 min
+177 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Much](https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [2 Much](https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc) | 2:18 | 2022-09-15 |  |
 | [A Little Bit of Faith](https://open.spotify.com/track/3AnCxW4JAndjVO7Uj1Onzi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [MY PARADE](https://open.spotify.com/artist/4odBqe9WOqpaQWwokqQyyt) | [Colors](https://open.spotify.com/album/6uhw5SnjSw9VGjjYEhlZuB) | 3:02 | 2022-09-15 | 2022-09-30 |
-| [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-15 |  |
+| [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-15 | 2023-12-08 |
 | [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2022-12-22 |  |
 | [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 | 2023-11-07 |
 | [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 | 2023-07-09 |
@@ -61,6 +61,7 @@
 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2022-09-15 |  |
 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-03-02 |  |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2022-09-15 | 2023-03-01 |
+| [Eyesight](https://open.spotify.com/track/3cMrgJny9vGJV4IJXV9yF5) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/2UmCQEJcx57QCwhGoju6bZ) | 3:13 | 2023-12-08 |  |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-15 |  |
 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 | 2022-09-29 | 2022-11-11 |
 | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM) | 2:37 | 2023-02-15 | 2023-11-05 |

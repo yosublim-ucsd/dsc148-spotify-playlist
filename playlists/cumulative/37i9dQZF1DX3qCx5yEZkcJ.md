@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-511 songs - 20 hr 56 min
+512 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bapelujah](https://open.spotify.com/track/52Hm0VKu1rFGiTU1GxYVkh) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Bapelujah](https://open.spotify.com/album/7wQMP5OKSDcA3sUO4AJrGj) | 1:17 | 2021-06-12 | 2022-07-28 |
 | [Berlin Rain](https://open.spotify.com/track/4bIti4ZqD4yOkTvHEHJ04L) | [Muscle](https://open.spotify.com/artist/7rX3arPA93JjNPBtZ9JNu2) | [Berlin Rain / At Dusk](https://open.spotify.com/album/1BzHg6Un80v0yApbtlyt90) | 1:33 | 2019-05-26\* | 2020-01-14 |
 | [Best Regards](https://open.spotify.com/track/4DAgTthT39ZAJTv6Vya7df) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Best Regards](https://open.spotify.com/album/5EFl3ZMdhYIhsBpysh8QlF) | 2:36 | 2020-06-19 | 2022-07-22 |
-| [Best Regards](https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:36 | 2023-11-23 |  |
+| [Best Regards](https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:36 | 2023-11-23 | 2023-12-08 |
 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-09-28 | 2022-07-27 |
 | [Bike Ride in Osaka](https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [Bike Ride in Osaka](https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis) | 2:00 | 2022-10-20 | 2023-03-02 |
 | [birchwood](https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM) | [sus9th](https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC) | [aura collis](https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00) | 3:27 | 2022-01-27 | 2023-03-13 |
@@ -399,6 +399,7 @@
 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 | 2023-07-02 |
 | [Silience](https://open.spotify.com/track/5TuhMyeZ7bBd3A0PzKNW4D) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/4Fw2PdZjZSGA3Tk2lhLAY1) | 3:16 | 2019-05-26\* | 2021-05-27 |
 | [Singing sad](https://open.spotify.com/track/78CuCBf5R2eecbA8cBXBDE) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Rough Sketch](https://open.spotify.com/album/1Otsaxr8Anm1g3JLKevkxg) | 3:07 | 2021-05-10 | 2021-09-10 |
+| [Sinking Ship \- Instrumental](https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [A Kid From Yerevan \(Instrumental\)](https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ) | 2:44 | 2023-12-07 |  |
 | [Sit At The Piano](https://open.spotify.com/track/6dquDJGHcJVIrPYnm01gOf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Sit At The Piano](https://open.spotify.com/album/6AEiOA6DRaotdYeI9564tP) | 2:51 | 2019-05-26\* | 2019-06-15 |
 | [Skies the Limit](https://open.spotify.com/track/26mpkkyZBtcWJz3LiWCr4K) | [Goodge](https://open.spotify.com/artist/7ChpiDDHfolxNhgmjoPnJB) | [Skies the Limit](https://open.spotify.com/album/5ljrbXsoNN1fUoe8iIh86R) | 4:32 | 2020-11-06 | 2022-07-29 |
 | [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-10-26 |  |

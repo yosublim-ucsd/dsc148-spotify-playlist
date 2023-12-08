@@ -4,7 +4,7 @@
 
 > Les enfants vont danser et se déchaîner!
 
-53 songs - 3 hr 7 min
+54 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Despacito \- The Chipmunks Remix](https://open.spotify.com/track/1HisDIXLxLh7moYFzosq2m) | [Alvin & The Real Chipmunks Band](https://open.spotify.com/artist/4j4Lq1ut4h3H3eTIubtyog) | [Despacito \(The Chipmunks Remix\)](https://open.spotify.com/album/4mmOweyuym1Q7OG4jyMaCw) | 3:49 | 2021-05-19 |  |
 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 | 2021-05-19 |  |
 | [Dragostea Din Tei](https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt) | 3:33 | 2021-05-19 | 2023-10-17 |
-| [Dragostea Din Tei \- Original Italian Version](https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [Ma Ya Hi \(Dragostea Din Tei\) \[English Mixes\]](https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF) | 3:33 | 2021-05-19 |  |
+| [Dragostea Din Tei \- Original Italian Version](https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [Ma Ya Hi \(Dragostea Din Tei\) \[English Mixes\]](https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF) | 3:33 | 2021-05-19 | 2023-12-08 |
+| [Dragostea Din Tei \- Original Romanian Version](https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu) | 3:34 | 2021-05-19 |  |
 | [Elle me dit](https://open.spotify.com/track/2CFGQXM3exBO8U9WGve2GY) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love \(Deluxe\)](https://open.spotify.com/album/0zY3JRYHC0rycbFUqGcRpV) | 3:36 | 2021-05-19 |  |
 | [En feu](https://open.spotify.com/track/6FxIFhVlOvI1wcXWe8LKei) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:25 | 2021-05-19 |  |
 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 | 2021-05-19 |  |

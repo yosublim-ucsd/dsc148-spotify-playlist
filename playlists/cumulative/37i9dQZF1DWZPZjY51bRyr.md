@@ -123,7 +123,7 @@
 | [Mirage](https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Mirage](https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx) | 2:18 | 2023-10-26 |  |
 | [Nereal Beauty](https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Nereal Beauty](https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi) | 2:27 | 2023-05-19 |  |
 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 | 2023-10-26 |  |
-| [One Giant Leap](https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9) | [Cosmic Garden Gate](https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0) | [One Giant Leap](https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9) | 2:37 | 2023-09-25 |  |
+| [One Giant Leap](https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9) | [Cosmic Garden Gate](https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0) | [One Giant Leap](https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9) | 2:37 | 2023-09-25 | 2023-12-08 |
 | [Opulence](https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Opulence](https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9) | 2:24 | 2023-04-24 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2023-02-17 |  |
 | [Paessagio Naturale](https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Paessagio Naturale](https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd) | 2:43 | 2023-02-17 |  |
@@ -201,6 +201,6 @@
 | [White Stone](https://open.spotify.com/track/46iDOpQlHuhBlznZapris4) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Distant Call](https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd) | 3:05 | 2023-07-10 |  |
 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 | 2023-02-17 | 2023-08-17 |
 | [Ārōhaṇa](https://open.spotify.com/track/60jHNqUBMnj6mH5EqlxpTX) | [Glåsbird](https://open.spotify.com/artist/6bt0NrtqveKQvQJJv2cD5N) | [Himalaya](https://open.spotify.com/album/5EijZWbp7RKBckHZPqHspP) | 4:53 | 2023-02-17 | 2023-05-20 |
-| [Ātmik Sāmānjasya / Harmony of the Soul](https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Ușā Dhyāna](https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt) | 2:27 | 2023-09-25 | 2023-12-05 |
+| [Ātmik Sāmānjasya / Harmony of the Soul](https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Ușā Dhyāna](https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt) | 2:27 | 2023-09-25 |  |
 
 \*This playlist was first scraped on 2023-02-18. Prior content cannot be recovered.

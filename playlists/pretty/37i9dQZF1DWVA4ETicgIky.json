@@ -1,12 +1,12 @@
 {
   "description": "Baila como en la \u00e9poca de los autos, moda y rocanrol.",
-  "num_followers": 437565,
+  "num_followers": 437615,
   "original_name": "Fiesta 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2IzYWM1YjU3ZjIzNmRhZDQzNjZmNzZkYTBlNDdlMjQ4MWUwNmUy",
+  "snapshot_id": "MCw0NjQ1NDhlMTcxNjMwYmVlY2ZlMzQzNzljZGNlMTMyYTUzMDkwYWM1",
   "tracks": [
     {
       "added_at": "2018-12-09 15:53:33",
@@ -315,22 +315,6 @@
     {
       "added_at": "2018-12-09 15:53:33",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
-    },
-    {
-      "added_at": "2018-12-09 15:53:33",
-      "album": {
         "name": "Nada Personal (Remastered)",
         "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 292573,
       "name": "Nada Personal - Remasterizado 2007",
       "url": "https://open.spotify.com/track/4PBou1i63krEp3jKCPhxVD"
+    },
+    {
+      "added_at": "2018-12-09 15:53:33",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2018-12-09 15:53:33",
@@ -619,22 +619,6 @@
     {
       "added_at": "2018-12-09 15:53:33",
       "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ"
-    },
-    {
-      "added_at": "2018-12-09 15:53:33",
-      "album": {
         "name": "Ana, Jos\u00e9, Nacho",
         "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 153173,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
+    },
+    {
+      "added_at": "2018-12-09 15:53:33",
+      "album": {
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ"
     },
     {
       "added_at": "2018-12-09 15:53:33",

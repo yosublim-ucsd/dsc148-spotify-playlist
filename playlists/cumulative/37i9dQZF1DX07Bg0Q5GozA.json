@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: WhoMadeWho",
+  "description": "New music off the beaten track. Cover: Giol\u00ec & Assia",
   "name": "OFF POP",
   "tracks": [
     {
@@ -520,10 +520,32 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 246840,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203130,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
     },
     {
       "album": {
@@ -3666,7 +3688,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 193845,
       "name": "Foxx",
       "url": "https://open.spotify.com/track/1cAecmf7rCCpqGJvPIZpEo"
@@ -4194,7 +4216,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 242826,
       "name": "Hell & Heaven",
       "url": "https://open.spotify.com/track/1GNecsOsY6eplkYgqsBzwU"
@@ -4464,6 +4486,28 @@
       "duration_ms": 215966,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/5SOmkWOL2ODA3ZY2Y5B4SM"
+    },
+    {
+      "album": {
+        "name": "Hollow (Joe Goddard Remix)",
+        "url": "https://open.spotify.com/album/5xijjV9VS7NRJz0dMwmQqv"
+      },
+      "artists": [
+        {
+          "name": "Kaleida",
+          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401100,
+      "name": "Hollow - Joe Goddard Remix",
+      "url": "https://open.spotify.com/track/4vo9RlUaL3jHapwpUMfFKZ"
     },
     {
       "album": {
@@ -9568,7 +9612,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 326232,
       "name": "Territory Day",
       "url": "https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS"
@@ -9652,7 +9696,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 249822,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/4H8LXYMF0OABJpjL4wD4mb"
@@ -10275,6 +10319,28 @@
     },
     {
       "album": {
+        "name": "Under The Light (Cut Copy Remix)",
+        "url": "https://open.spotify.com/album/6ahvgtYtPtSjSRR9bmmLPC"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        },
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268305,
+      "name": "Under The Light - Cut Copy Remix",
+      "url": "https://open.spotify.com/track/1PzLdi4IlVgmtVYwmS3NXs"
+    },
+    {
+      "album": {
         "name": "Under the Moon",
         "url": "https://open.spotify.com/album/7fn5WEWdDR10ccAxgsrMKp"
       },
@@ -10494,10 +10560,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
+    },
+    {
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "album": {
@@ -10752,6 +10836,24 @@
       "duration_ms": 547334,
       "name": "What Is",
       "url": "https://open.spotify.com/track/11zDGt3Mhbz7Sb9lJldLUN"
+    },
+    {
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "album": {
@@ -11150,6 +11252,24 @@
       "duration_ms": 235949,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4v7SAKFEqPyuYTy9gQRnHP"
+    },
+    {
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/0GIZIsdYluq59vJolVAOfc"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230522,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/0eU6ogqTZmNiARD4PGNaJo"
     },
     {
       "album": {

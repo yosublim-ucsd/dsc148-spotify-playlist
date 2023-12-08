@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 487032,
+  "num_followers": 487129,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODc4MzQ3YmVkNmY3NzYxMzUzN2JlYTMzOWU0NDJhMWY1MWE0M2Jm",
+  "snapshot_id": "MCxiZWE4OTFjMzE5YTdiNGVhMGJhMmUzNjI0M2FhN2I2MjgwNGVhZjY4",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Martyr Parade",
         "url": "https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Death By Rock And Roll",
-      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 160543,
-      "name": "Eagle Birds",
-      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Hollow Bones",
         "url": "https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 207359,
       "name": "Tied Up",
       "url": "https://open.spotify.com/track/08yhz3ei8jgCmwcsHZTSAa"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "This is Our Life",
-        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": "This is Our Life",
-      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Apple Pie",
         "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 179447,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "This is Our Life",
+        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": "This is Our Life",
+      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Down To The Bottom",
-        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 152468,
-      "name": "Down To The Bottom",
-      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 248132,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Down To The Bottom",
+        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 152468,
+      "name": "Down To The Bottom",
+      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Every Hour Is A Dollar Gone",
+        "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "duration_ms": 348706,
+      "name": "Them Shoes",
+      "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Save Me Some Sunshine",
         "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Every Hour Is A Dollar Gone",
-        "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
+        "name": "Skinny",
+        "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
       },
       "artists": [
         {
-          "name": "Patrick Sweany",
-          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 348706,
-      "name": "Them Shoes",
-      "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
+      "duration_ms": 222316,
+      "name": "Skinny",
+      "url": "https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -979,22 +995,6 @@
       "duration_ms": 209029,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Skinny",
-        "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 222316,
-      "name": "Skinny",
-      "url": "https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Denim & Diamonds",
-        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Who You Selling For",
         "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 180226,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Are You Real?",
+        "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Muthafucka",
+      "url": "https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Are You Real?",
-        "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
       },
       "artists": [
         {
-          "name": "Beware Of Darkness",
-          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 212853,
-      "name": "Muthafucka",
-      "url": "https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk"
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
     },
     {
       "added_at": "2023-09-22 00:56:58",

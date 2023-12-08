@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 | 2023-11-21 |
+| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 |  |
 | [3 am walk \- Slowed Version](https://open.spotify.com/track/6WvEAgklyO4jvIer6wkpko) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk \(Slowed Version\)](https://open.spotify.com/album/2WjKZaeFB8MLBCjTzCkbpT) | 3:43 | 2023-11-14 |  |
 | [4am](https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 5:00 | 2022-01-21 |  |
 | [><⋃⊃⊃∑](https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5) | [Vokeebokæybgo Lochtyblchvvaii](https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq) | [OTVR](https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u) | 8:41 | 2022-01-21 |  |
@@ -195,7 +195,7 @@
 | [sentient](https://open.spotify.com/track/2JaBzgwkxZ2TVfCPZOlNOo) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [sentient](https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5) | 3:24 | 2023-10-02 |  |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 | 2022-07-26 |
-| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 |  |
+| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2023-12-08 |
 | [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 | 2022-07-28 |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 |  |

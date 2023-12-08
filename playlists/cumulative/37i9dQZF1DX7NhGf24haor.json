@@ -505,6 +505,28 @@
     },
     {
       "album": {
+        "name": "Arabian Nights",
+        "url": "https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Bram Boender",
+          "url": "https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "Arabian Nights",
+      "url": "https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t"
+    },
+    {
+      "album": {
         "name": "ARCEUS",
         "url": "https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr"
       },
@@ -1183,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Blood Sugar",
+        "url": "https://open.spotify.com/album/5y9YW2YriPyHx54lNo7Qi5"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "Blood Sugar",
+      "url": "https://open.spotify.com/track/4PgNET8VJxNSZYl8ywBuc2"
+    },
+    {
+      "album": {
         "name": "Bloody Mary",
         "url": "https://open.spotify.com/album/4ylGKeeK0j35voCjnsOSfI"
       },
@@ -1466,6 +1506,28 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
+    },
+    {
+      "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/74OTp7REGaYuxV3On4hHLm"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bring The Fire",
+      "url": "https://open.spotify.com/track/77s5PJsYbv9wkTBNSbI5EI"
     },
     {
       "album": {
@@ -4142,7 +4204,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 209032,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/0ONdVHP8eoGupKl1KzM3xv"
@@ -7517,6 +7579,32 @@
     },
     {
       "album": {
+        "name": "RAVE LOVE PT.2",
+        "url": "https://open.spotify.com/album/3p3wFoUkTRpFah1PqWWfTK"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "Disarray",
+          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "MADE FOR YOU",
+      "url": "https://open.spotify.com/track/2gRlN8SSpFocZKUqqSDNOy"
+    },
+    {
+      "album": {
         "name": "Made of Stars",
         "url": "https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU"
       },
@@ -8258,6 +8346,24 @@
       "duration_ms": 207483,
       "name": "My Witness",
       "url": "https://open.spotify.com/track/7Btg1nNz5OuTMY7RTzKz20"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/1bCGQxeHAlY1QPjuUPkIlm"
+      },
+      "artists": [
+        {
+          "name": "VENNIC",
+          "url": "https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/4uZLkiCJHog1qI04KdhzNv"
     },
     {
       "album": {
@@ -9235,6 +9341,32 @@
     },
     {
       "album": {
+        "name": "Pachanga",
+        "url": "https://open.spotify.com/album/490Mim6cyzPDnz47PfbvKs"
+      },
+      "artists": [
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        },
+        {
+          "name": "Kloon",
+          "url": "https://open.spotify.com/artist/3JkCb5x64oiOqmQxuJFTYI"
+        },
+        {
+          "name": "Glusonik",
+          "url": "https://open.spotify.com/artist/74a3QM58GhxOaaX9mxQSIn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203406,
+      "name": "Pachanga",
+      "url": "https://open.spotify.com/track/7acQxS7IlhxBYpSfAW7CPg"
+    },
+    {
+      "album": {
         "name": "EVOLVE",
         "url": "https://open.spotify.com/album/1reohG63PnDofh7MBG8FFq"
       },
@@ -9400,6 +9532,24 @@
       "duration_ms": 233974,
       "name": "Piece of Me",
       "url": "https://open.spotify.com/track/7ep4R3ZU94q7A8RIfC61YD"
+    },
+    {
+      "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/6IZx5SzxQk0tyWfPzdyeVm"
+      },
+      "artists": [
+        {
+          "name": "Riot Shift",
+          "url": "https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/3cA6s2sQZ5UeYjSOZA33ZL"
     },
     {
       "album": {
@@ -10717,6 +10867,32 @@
     },
     {
       "album": {
+        "name": "Run For Cover (feat. Maikki)",
+        "url": "https://open.spotify.com/album/0o4HJX5cqF12QlPQsuyqXn"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274901,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/0sH9yijfwa77I4EwUFueFK"
+    },
+    {
+      "album": {
         "name": "Running up That Hill",
         "url": "https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS"
       },
@@ -11456,6 +11632,28 @@
       "duration_ms": 258303,
       "name": "Stars Of Destiny",
       "url": "https://open.spotify.com/track/4Ew0CksQd8681M60HWDJj0"
+    },
+    {
+      "album": {
+        "name": "Stay Alive 2K24",
+        "url": "https://open.spotify.com/album/2biv7GpWXb9HKAjeGfEGAK"
+      },
+      "artists": [
+        {
+          "name": "D-Attack",
+          "url": "https://open.spotify.com/artist/79QnAdpXGrzcsIOFtW3gR4"
+        },
+        {
+          "name": "MC Diesel",
+          "url": "https://open.spotify.com/artist/20rPxPH4gXyqj2G3ooE44c"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153432,
+      "name": "Stay Alive 2K24",
+      "url": "https://open.spotify.com/track/5o4rviue1So4SS4tECuaHB"
     },
     {
       "album": {
@@ -12813,6 +13011,28 @@
     },
     {
       "album": {
+        "name": "Welcome To My Playground",
+        "url": "https://open.spotify.com/album/3tUMj31ZDb3CXCc2BcaBmC"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Emese",
+          "url": "https://open.spotify.com/artist/33fVGNw6vjjpj4WrrlNHFL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168774,
+      "name": "The Ultimate - Playground Edit",
+      "url": "https://open.spotify.com/track/68xadslBMFHKZcUkah2vGm"
+    },
+    {
+      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/69GpiZakAH99rBwJLQe1LK"
       },
@@ -13332,6 +13552,28 @@
       "duration_ms": 128516,
       "name": "Trommels",
       "url": "https://open.spotify.com/track/6aDqCxxfcz2d9Rxbjdg8DB"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4BL933LPw3SAtBxSVzabDr"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "hazel",
+          "url": "https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2DtksILTdrKLY2wB05iA8f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-303 songs - 1 day 3 hr 58 min
+304 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2020-10-09 |  |
 | [Round Midnight](https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA) | [The Mellowtones](https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6) | [Round Midnight](https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH) | 5:01 | 2023-03-02 |  |
 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 | 2023-01-05 |  |
+| [Sad December](https://open.spotify.com/track/52cNXFZprOJ8M4pnDaaJV5) | [Central Park Quartet](https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4) | [Sad December](https://open.spotify.com/album/2CeZUgIxpoepUunob5AvgL) | 3:56 | 2023-12-08 |  |
 | [Sad Tune](https://open.spotify.com/track/3LZ0GUgBO1XXW6jKK5A2lJ) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [West Village](https://open.spotify.com/album/7gzA8ExUAm5N63xmO3C0KH) | 6:15 | 2020-10-09 | 2022-02-18 |
 | [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 | 2023-02-06 |  |
 | [Seeds Of Change](https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Seeds Of Change](https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi) | 5:13 | 2020-10-09 | 2023-05-04 |

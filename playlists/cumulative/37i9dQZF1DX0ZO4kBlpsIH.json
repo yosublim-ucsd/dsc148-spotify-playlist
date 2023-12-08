@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "c\u2019est pas une valse",
+        "url": "https://open.spotify.com/album/502Abcnvy3uNgBV9H34IZq"
+      },
+      "artists": [
+        {
+          "name": "Cordeone",
+          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194258,
+      "name": "c\u2019est pas une valse",
+      "url": "https://open.spotify.com/track/2M7pnVEq94WK8GY4VVVHnL"
+    },
+    {
+      "album": {
         "name": "Enrique Ugarte: Valse Musette De Paris",
         "url": "https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u"
       },

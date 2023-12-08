@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Trash Boat",
+  "description": "The home for heavy music. Cover: While She Sleeps",
   "name": "The Pit",
   "tracks": [
     {
@@ -1256,6 +1256,28 @@
       "duration_ms": 194640,
       "name": "DON'T HOLD ME DOWN",
       "url": "https://open.spotify.com/track/2NvjbR2qhfILBblL36Fchm"
+    },
+    {
+      "album": {
+        "name": "DOWN (feat. Malevolence)",
+        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234549,
+      "name": "DOWN (feat. Malevolence)",
+      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
     },
     {
       "album": {
@@ -3421,6 +3443,42 @@
     },
     {
       "album": {
+        "name": "Heard It All Before?",
+        "url": "https://open.spotify.com/album/2nvD1Pc4EiwvSoyQGLvspe"
+      },
+      "artists": [
+        {
+          "name": "Blackwater",
+          "url": "https://open.spotify.com/artist/01G6kkvEqxty6exErXNJQF"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262637,
+      "name": "See You Fall",
+      "url": "https://open.spotify.com/track/1PcDdD3RzV2mb9sgu8uAHN"
+    },
+    {
+      "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "album": {
         "name": "SELF HELL",
         "url": "https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW"
       },
@@ -3432,7 +3490,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
@@ -3913,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "The Beautiful Dark of Life",
+        "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188608,
+      "name": "The Beautiful Dark of Life",
+      "url": "https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU"
+    },
+    {
+      "album": {
         "name": "The Cave",
         "url": "https://open.spotify.com/album/2QS613ysAclwBts9ii67A2"
       },
@@ -3964,6 +4040,24 @@
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
+    },
+    {
+      "album": {
+        "name": "The General",
+        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262776,
+      "name": "The General",
+      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
     },
     {
       "album": {

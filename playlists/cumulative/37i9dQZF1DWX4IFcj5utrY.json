@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=Pp_DGPnxRZ6lVU9j-VfIEQ\">Sykes</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=She0_Do8Sf2vq3E4tSqzbA\">Zakes Bantwini</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
@@ -438,6 +438,24 @@
       "duration_ms": 245573,
       "name": "Abantu Bakho",
       "url": "https://open.spotify.com/track/2m67sdSKVxxJYEzSaZpnxs"
+    },
+    {
+      "album": {
+        "name": "The Star Is Reborn",
+        "url": "https://open.spotify.com/album/23EoRgzCXwzvaRQ5WMEL2S"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434000,
+      "name": "Abasekho",
+      "url": "https://open.spotify.com/track/1W5pFCjik3BlmyIsBglaBH"
     },
     {
       "album": {
@@ -2012,6 +2030,28 @@
       "duration_ms": 473965,
       "name": "Awung'Fanele",
       "url": "https://open.spotify.com/track/78eFaunhRYXJL6Y8BQBR8D"
+    },
+    {
+      "album": {
+        "name": "Ayihlale Phansi",
+        "url": "https://open.spotify.com/album/36ecCbIPB7CTIVWBVhN8Rn"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332328,
+      "name": "Ayihlale Phansi",
+      "url": "https://open.spotify.com/track/29qYMwqS5NZ4hOUuEq2N0O"
     },
     {
       "album": {
@@ -6276,6 +6316,28 @@
       "duration_ms": 242182,
       "name": "For You",
       "url": "https://open.spotify.com/track/0obPwk1OrhPBYXKLfOqRl6"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/2HM9ZIBKtC3hTLjhTVrn1O"
+      },
+      "artists": [
+        {
+          "name": "Solanca",
+          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
+        },
+        {
+          "name": "Lokka Vox",
+          "url": "https://open.spotify.com/artist/7Me2tT0W9VHJHchAtFVc2o"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3pFYhtejMNAjTkzVIkUkuQ"
     },
     {
       "album": {
@@ -14412,7 +14474,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 392310,
       "name": "Possessed",
       "url": "https://open.spotify.com/track/1DcNtYSP4pTARn2tYGJmv9"
@@ -17348,7 +17410,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 162727,
       "name": "Take U",
       "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"

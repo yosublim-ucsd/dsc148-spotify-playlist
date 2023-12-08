@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Ceilings",
+        "url": "https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU"
+      },
+      "artists": [
+        {
+          "name": "Miriam Modest",
+          "url": "https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Ceilings",
+      "url": "https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr"
+    },
+    {
+      "album": {
         "name": "Piano Covers",
         "url": "https://open.spotify.com/album/7HzELQCLUpdTlKCVKIJKP9"
       },
@@ -1706,6 +1724,24 @@
       "duration_ms": 142597,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/5UVh8KvLkObml6Je0mkEeC"
+    },
+    {
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv"
+      },
+      "artists": [
+        {
+          "name": "Lars Florence",
+          "url": "https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234937,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L"
     },
     {
       "album": {
@@ -3365,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/0vYgrYSmyXIW4Mc3qL1ZGb"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/7L8zYETEb2WqxOTGO0kgjS"
+    },
+    {
+      "album": {
         "name": "Piano Favorites 3",
         "url": "https://open.spotify.com/album/03oFXdELtbbLIPkr2FHpHq"
       },
@@ -4118,6 +4172,24 @@
       "duration_ms": 178037,
       "name": "Nothing Compares to You",
       "url": "https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO"
+    },
+    {
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/4fCRBbwtAJmOXxJQMLmGie"
+      },
+      "artists": [
+        {
+          "name": "Samantha Foster",
+          "url": "https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/2WUT10GOf1uEd0iG42aR7t"
     },
     {
       "album": {

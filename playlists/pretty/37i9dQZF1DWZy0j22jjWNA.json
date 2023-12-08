@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 88645,
+  "num_followers": 88679,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTU3MjkyZTU0M2FmZGE0ZGRiZmE5NDMzZWQzMjA0ZTI3YWVjZjVj",
+  "snapshot_id": "MCwwNTg0MDAyOGRkMWQwYmRiNTYyMzE3YjYzN2MwNjBjNzgwZGE1MzVm",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Dragons",
-        "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 216315,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Dragons",
+        "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Grateful (feat. Poo Bear)",
-        "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
-      },
-      "artists": [
-        {
-          "name": "13 Crowns",
-          "url": "https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        }
-      ],
-      "duration_ms": 246081,
-      "name": "Grateful (feat. Poo Bear)",
-      "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 233918,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Grateful (feat. Poo Bear)",
+        "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
+      },
+      "artists": [
+        {
+          "name": "13 Crowns",
+          "url": "https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "duration_ms": 246081,
+      "name": "Grateful (feat. Poo Bear)",
+      "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
-      },
-      "artists": [
-        {
-          "name": "Zach Winters",
-          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "THRESHOLDS",
         "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 211880,
       "name": "Go With You",
       "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
+      },
+      "artists": [
+        {
+          "name": "Zach Winters",
+          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "If In Case You Feel The Same",
         "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 289626,
       "name": "Fill My Cup",
       "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 188092,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Hold to the Light",
-        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 201487,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Hold to the Light",
+        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Empress Of
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,394 likes - 152 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,468 likes - 152 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Femenine](https://open.spotify.com/track/3hPVr4qMFJqnObkzACLwQ2) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Femenine](https://open.spotify.com/album/7ASEiWsgFDmEPg0e9vaAVl) | 3:03 |
 | 2 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 |
 | 3 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
-| 4 | [High and I Like It](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like It](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
+| 4 | [High and I Like it](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like it](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 |
 | 5 | [Talk Tonight](https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [The World I'm Searching For](https://open.spotify.com/album/740kshLk68k7I9KSXFi8Hg) | 4:32 |
 | 6 | [Young Folks](https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D) | [Dom Valentino](https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Young Folks](https://open.spotify.com/album/1Wr3TqDX4bDzWELjH0kTE5) | 4:09 |
 | 7 | [I Won’t Let You Down](https://open.spotify.com/track/2WmcCOU2xeScvCKrpui6EV) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Blackboxx](https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:17 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 151 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 152 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 |
 
-Snapshot ID: `MCwyMDQ5Mzc2MWJhZTE2MzM3ZGRmZmFiNzM3NTFlZjdhN2U3MGMwZGE2`
+Snapshot ID: `MCwyMjU1MzMzZGNiODQ2YmE1OTJjMDQwMTAwZmE3YWIzMTU2M2NkOGY1`

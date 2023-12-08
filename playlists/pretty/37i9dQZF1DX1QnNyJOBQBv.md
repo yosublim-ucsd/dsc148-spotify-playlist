@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Latin pop tracks you need to hear\. Cover: Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875,197 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,875,230 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [SONRÍE <3](https://open.spotify.com/track/47sOMp1xXLBzGXOuUZPR4x) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:21 |
 | 50 | [bubble gum](https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [bubble gum](https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw) | 3:30 |
 
-Snapshot ID: `MCw3OTY5MWFmN2NiN2E4ODNiOTA5MzVhYmE5NTAwYjNhYzNkMmJjYzY4`
+Snapshot ID: `MCxiMTk4ZDI2Mjg2MjI1ZTNkYWMyZjcyMjY5ODJjY2E2MjM5MzM2ODRl`

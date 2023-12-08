@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Boombox Cartel & FrostTop
 
-299 songs - 16 hr 25 min
+300 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Breath](https://open.spotify.com/track/0peDcDwrKV0LEeoQuSQVLG) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/1bj4mGXjlOkfZZ5Lv3WcOB) | 3:21 | 2022-02-01 | 2022-10-15 |
 | [Buck](https://open.spotify.com/track/4eydbGI5QpRXs0Tua5m2c1) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Buck](https://open.spotify.com/album/2TtKVJdubkLQ7OrxU5GuHE) | 2:41 | 2022-05-13 | 2023-04-20 |
 | [Bust Out](https://open.spotify.com/track/7bXODu5FcCot1HiqVGZHQo) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC) | [Bust Out](https://open.spotify.com/album/5MTJNbFNMlNzFUMzwdULYL) | 2:43 | 2021-11-19 | 2022-02-02 |
-| [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 | 2022-02-01 |  |
+| [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 | 2022-02-01 | 2023-12-08 |
+| [Came Up \(feat\. Post Malone & Key!\)](https://open.spotify.com/track/6GAhe3wXCDJP1RK5lZLyjX) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up \(feat\. Post Malone & Key!\)](https://open.spotify.com/album/7wl99zAh84VuSvF6Cu3tSy) | 3:34 | 2023-10-27 |  |
 | [Carte Blanche](https://open.spotify.com/track/5dbMRjxGYAOEbVEwMGEDlG) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [tofû](https://open.spotify.com/artist/6Lw31HQJ9LI6AeGBe8bnen) | [Carte Blanche](https://open.spotify.com/album/2aOvovhHojpQ3XKd6Bed9Z) | 4:37 | 2021-11-19 | 2022-02-02 |
 | [Casper](https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Casper](https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq) | 2:41 | 2021-11-19 | 2023-04-01 |
 | [Chicken Wang](https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 1:58 | 2023-03-17 | 2023-11-18 |

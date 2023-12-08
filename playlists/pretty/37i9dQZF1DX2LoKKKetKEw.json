@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:4rwolwLHj97rPwbhyNSeU9\">Marizu</a>",
-  "num_followers": 70463,
+  "num_followers": 70566,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjhlMGIxNDczZDU2MzNjODdjYWUxYjYzMDMzMTk1NzNlOGFjYTI1",
+  "snapshot_id": "MCwwMTM4MWFhMjE5ZmEzYzExYzAzMGIxNDNjYjUzMDQ5ZGE0YWNhYzg1",
   "tracks": [
     {
       "added_at": "2023-12-01 10:13:22",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "OVER",
-        "url": "https://open.spotify.com/album/7lhvGgOvFyFnVkEkIlsBTk"
-      },
-      "artists": [
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        }
-      ],
-      "duration_ms": 162538,
-      "name": "OVER",
-      "url": "https://open.spotify.com/track/5vrl5DchHxFCkXWNRTZeRF"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "OVER",
+        "url": "https://open.spotify.com/album/7lhvGgOvFyFnVkEkIlsBTk"
+      },
+      "artists": [
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "duration_ms": 162538,
+      "name": "OVER",
+      "url": "https://open.spotify.com/track/5vrl5DchHxFCkXWNRTZeRF"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY"
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4"
       },
       "artists": [
         {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
         }
       ],
-      "duration_ms": 197522,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt"
+      "duration_ms": 193200,
+      "name": "Standing",
+      "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY"
       },
       "artists": [
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Standing",
-      "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
+      "duration_ms": 197522,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Praises",
-        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 244300,
-      "name": "Praises",
-      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o"
       },
@@ -983,6 +963,46 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
+        "name": "Praises",
+        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 244300,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "duration_ms": 140198,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
         "name": "Daily (Remix)",
         "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
       },
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "duration_ms": 140198,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/3aFg0FSMqY5qJB263VR7vX"
       },
@@ -1047,6 +1047,30 @@
       "duration_ms": 167800,
       "name": "My Lover",
       "url": "https://open.spotify.com/track/6ZpfJmd40iArYfoXpi6tq5"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1107,46 +1131,22 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "On God",
-        "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
+        "name": "I No Send",
+        "url": "https://open.spotify.com/album/2u4uQpsUizbdl7KQTmnjGS"
       },
       "artists": [
         {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
         },
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 224000,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "Baba Mi",
-        "url": "https://open.spotify.com/album/7pin5EpD8uZx8vsXR82A1f"
-      },
-      "artists": [
-        {
-          "name": "Adeshola",
-          "url": "https://open.spotify.com/artist/5z5CuuEP3epmqJsQsgruER"
-        },
-        {
-          "name": "Laura Ehio",
-          "url": "https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "Baba Mi",
-      "url": "https://open.spotify.com/track/5K823Dh3DwBeP60vn0PYmn"
+      "duration_ms": 233128,
+      "name": "I No Send",
+      "url": "https://open.spotify.com/track/7DObo84GS9cTcf25Z5XMd0"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1171,22 +1171,42 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
+        "name": "Baba Mi",
+        "url": "https://open.spotify.com/album/7pin5EpD8uZx8vsXR82A1f"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+          "name": "Adeshola",
+          "url": "https://open.spotify.com/artist/5z5CuuEP3epmqJsQsgruER"
         },
         {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+          "name": "Laura Ehio",
+          "url": "https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+      "duration_ms": 181782,
+      "name": "Baba Mi",
+      "url": "https://open.spotify.com/track/5K823Dh3DwBeP60vn0PYmn"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1211,26 +1231,6 @@
       "duration_ms": 174545,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "Jireh",
-        "url": "https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Jireh",
-      "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
         "name": "Mon Dieu",
         "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
       },
@@ -1287,46 +1307,6 @@
       "duration_ms": 166000,
       "name": "Mon Dieu",
       "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "Authentic",
-        "url": "https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX"
-      },
-      "artists": [
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 130856,
-      "name": "Authentic",
-      "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "I No Send",
-        "url": "https://open.spotify.com/album/2u4uQpsUizbdl7KQTmnjGS"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "I No Send",
-      "url": "https://open.spotify.com/track/7DObo84GS9cTcf25Z5XMd0"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1355,6 +1335,42 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
+        "name": "Authentic",
+        "url": "https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 130856,
+      "name": "Authentic",
+      "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 145278,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
-      },
-      "artists": [
-        {
-          "name": "Tjsarx",
-          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
       },
       "artists": [
         {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
         }
       ],
-      "duration_ms": 215880,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI"
+      "duration_ms": 169655,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1551,22 +1551,22 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Ike",
-        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
       },
       "artists": [
         {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         },
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
         }
       ],
-      "duration_ms": 229363,
-      "name": "Ike",
-      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
+      "duration_ms": 216111,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
-      },
-      "artists": [
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        },
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        }
-      ],
-      "duration_ms": 216111,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
         "name": "Pepper Dem",
         "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 168813,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "Ike",
+        "url": "https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 229363,
+      "name": "Ike",
+      "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Amplify",
-        "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
-      },
-      "artists": [
-        {
-          "name": "Guvna B",
-          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        }
-      ],
-      "duration_ms": 191808,
-      "name": "Amplify",
-      "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
         "name": "I am Loved",
         "url": "https://open.spotify.com/album/4qJDN4ldOlLXyultmtivtL"
       },
@@ -1719,18 +1699,22 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Hallow",
-        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
+        "name": "Amplify",
+        "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
       },
       "artists": [
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
         }
       ],
-      "duration_ms": 158608,
-      "name": "Hallow",
-      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
+      "duration_ms": 191808,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1759,26 +1743,18 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Make Sense",
-        "url": "https://open.spotify.com/album/50hYQz2kMs1xREwVSDwbiy"
+        "name": "Hallow",
+        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
       },
       "artists": [
         {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "Edem Evangelist",
-          "url": "https://open.spotify.com/artist/0PMnq7uQBuRGsQuhMmikYH"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 204724,
-      "name": "Make Sense",
-      "url": "https://open.spotify.com/track/3PrQ70kcR8zjGOBNjPeykZ"
+      "duration_ms": 158608,
+      "name": "Hallow",
+      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1807,6 +1783,30 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
+        "name": "Make Sense",
+        "url": "https://open.spotify.com/album/50hYQz2kMs1xREwVSDwbiy"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "Edem Evangelist",
+          "url": "https://open.spotify.com/artist/0PMnq7uQBuRGsQuhMmikYH"
+        }
+      ],
+      "duration_ms": 204724,
+      "name": "Make Sense",
+      "url": "https://open.spotify.com/track/3PrQ70kcR8zjGOBNjPeykZ"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
       },
@@ -1819,26 +1819,6 @@
       "duration_ms": 196530,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
-      },
-      "artists": [
-        {
-          "name": "Paul Rarity",
-          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1883,8 +1863,44 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "NOTHING",
-        "url": "https://open.spotify.com/album/5MSlADfWP2gIvuKanKIIAk"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
+      },
+      "artists": [
+        {
+          "name": "Paul Rarity",
+          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "YOUR MIND",
+        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
       },
       "artists": [
         {
@@ -1892,33 +1908,13 @@
           "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
         },
         {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 168326,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/4CTFXBYcl5AHGRee4b2CAO"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "Burdens",
-        "url": "https://open.spotify.com/album/1GSJCgl4b2b45s26Q8gvGi"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Burdens",
-      "url": "https://open.spotify.com/track/5L7VyqfdKSId3nk4hSxLCX"
+      "duration_ms": 175312,
+      "name": "YOUR MIND",
+      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1943,18 +1939,26 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+        "name": "So Special",
+        "url": "https://open.spotify.com/album/6ozNe8OmYeqWKHJot14CWr"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        },
+        {
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+      "duration_ms": 123956,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/0HM72vX16oaPUCedrNrtGP"
     },
     {
       "added_at": "2023-12-01 10:13:22",
@@ -1983,46 +1987,34 @@
     {
       "added_at": "2023-12-01 10:13:22",
       "album": {
-        "name": "YOUR MIND",
-        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
-      },
-      "artists": [
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "YOUR MIND",
-      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
-    },
-    {
-      "added_at": "2023-12-01 10:13:22",
-      "album": {
-        "name": "Belongs to You (EDM Remix)",
-        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
+        "name": "Never Leave Me (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI"
       },
       "artists": [
         {
           "name": "Sarah T\u00e9ibo",
           "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Belongs to You - EDM Remix",
-      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
+      "duration_ms": 211184,
+      "name": "Never Leave Me - Amapiano Remix",
+      "url": "https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE"
+    },
+    {
+      "added_at": "2023-12-01 10:13:22",
+      "album": {
+        "name": "Burdens",
+        "url": "https://open.spotify.com/album/1GSJCgl4b2b45s26Q8gvGi"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Burdens",
+      "url": "https://open.spotify.com/track/5L7VyqfdKSId3nk4hSxLCX"
     }
   ],
   "unique_name": "AfroGospel",

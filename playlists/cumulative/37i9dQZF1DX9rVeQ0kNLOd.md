@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-243 songs - 14 hr 55 min
+245 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2022-12-06 | 2023-09-15 |
 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 | 2022-10-20 | 2023-03-25 |
 | [Lonely](https://open.spotify.com/track/2MSwfMAGN4Tyzg1X6c36YD) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Lonely](https://open.spotify.com/album/3qLazZODKoDnE32BF8PvVG) | 3:48 | 2023-03-21 | 2023-06-16 |
-| [Love](https://open.spotify.com/track/1anZvPKX2bsHX76hDKjCtt) | [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS), [ggoyle](https://open.spotify.com/artist/1aZM18HplOP2ZfNIcRT9NM) | [Love](https://open.spotify.com/album/6VfWHwPRs7ubsFrcmL1UI3) | 3:37 | 2023-09-26 |  |
+| [Love](https://open.spotify.com/track/1anZvPKX2bsHX76hDKjCtt) | [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS), [ggoyle](https://open.spotify.com/artist/1aZM18HplOP2ZfNIcRT9NM) | [Love](https://open.spotify.com/album/6VfWHwPRs7ubsFrcmL1UI3) | 3:37 | 2023-09-26 | 2023-12-08 |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-01-24 | 2023-05-24 |
 | [Lullaby](https://open.spotify.com/track/0kMurvK2rcbHQseXMjBJTT) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET), [Kannon Price](https://open.spotify.com/artist/40DqpvTke3kuyArabmopRw) | [Lullaby](https://open.spotify.com/album/4O4LEkNJwNQhXOojYRNJcM) | 4:01 | 2022-10-20 | 2022-11-23 |
 | [luv revolution](https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 1:49 | 2023-01-12 | 2023-03-04 |
@@ -159,10 +159,11 @@
 | [いのり](https://open.spotify.com/track/5Ghfkd9z1Mq4CHY5wJCP77) | [yr](https://open.spotify.com/artist/3iyYNppMxdrMaND8VaXdxO) | [いのり](https://open.spotify.com/album/1o5xWVczspUHRS1F8bE6dm) | 2:38 | 2022-10-20 | 2022-11-09 |
 | [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 | 2023-06-01 | 2023-09-27 |
 | [きもち](https://open.spotify.com/track/5qTJ5H5Lzyr3x0ZYtnl1dr) | [カルロスまーちゃん](https://open.spotify.com/artist/2E9kXGdygdyQYPY9b24uRc), [FANCY](https://open.spotify.com/artist/4Oe4otAIIYhl48TwtKQ0l9) | [きもち](https://open.spotify.com/album/6uwVI771DDgLyb7EUiICjU) | 3:45 | 2022-12-22 | 2023-02-15 |
-| [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-03-14 |  |
+| [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-03-14 | 2023-12-08 |
 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 | 2022-10-20 | 2023-10-15 |
 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-10-20 | 2022-12-14 |
 | [こんにちは](https://open.spotify.com/track/4OYvYvyVtFyHWomlIulGhU) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Infinity Sunset](https://open.spotify.com/album/44TG59bpLSTuANLGSnhToH) | 2:52 | 2022-11-10 | 2022-11-13 |
+| [ざわわ](https://open.spotify.com/track/1UPBDO5ZltFzGSD9iKM47x) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [ざわわ](https://open.spotify.com/album/2cRRB7OgLQOBZIJQXfix1w) | 3:16 | 2023-12-07 |  |
 | [ずるいね](https://open.spotify.com/track/0btLLjOMp8mQ1q1NA18XpU) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [EP](https://open.spotify.com/album/1dHkwzvY4F4DXOznl8568M) | 3:49 | 2023-01-31 | 2023-03-08 |
 | [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 | 2022-12-13 | 2022-12-15 |
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-03-25 | 2023-10-05 |
@@ -170,6 +171,7 @@
 | [ただで太った人生](https://open.spotify.com/track/3lYf2H0Vc0wQGj4OBhIRu5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 2:42 | 2022-11-30 | 2022-12-01 |
 | [ため息とコーヒー](https://open.spotify.com/track/48SAdZAFQGySWizWud8JxA) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2), [A SCHOOOOL](https://open.spotify.com/artist/5OjUQ6Z5H0rWIuOEQNBQb4) | [ため息とコーヒー](https://open.spotify.com/album/4CzTs9BMIvhJTKvqAJGyZD) | 3:44 | 2023-01-31 | 2023-03-08 |
 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 | 2023-07-18 | 2023-09-08 |
+| [へっぽこまん \- rearrange ver.](https://open.spotify.com/track/7GbLlaxs7jumurnaQgyE2u) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [はしやすめ](https://open.spotify.com/album/1omaiBv0kc0lIBNDLExibH) | 2:37 | 2023-12-07 |  |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 | 2023-02-01 |
 | [まだ寝れないでしょ](https://open.spotify.com/track/4O9bVZoyjxzoDqMDJ3qoDV) | [404](https://open.spotify.com/artist/2bLUPXEzgA4BRIZCk2x1Pi) | [まだ寝れないでしょ](https://open.spotify.com/album/1P1MiACMzpEMlzJ6GKivAW) | 3:40 | 2023-02-07 | 2023-03-03 |
 | [まっさら](https://open.spotify.com/track/04AcTRw3Y0HuMAmQ5Lgiek) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [KIM](https://open.spotify.com/album/4Bxv6H7hADRSsLcpSsRuMc) | 4:43 | 2023-08-01 | 2023-08-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 27957,
+  "num_followers": 28024,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWUwM2Q2ZTg2ZTVkMjgxN2RhMGNjN2FlZmMwOGI3MmI5YjYyZmRk",
+  "snapshot_id": "MCw4YTU5OTE3N2Q3MTg1MDllYWU5ZjM3YTgyNmQyYzNiYzkyNmU5NmQw",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Lo Mejor de Alberto Barros, Vol. 2",
+        "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+        }
+      ],
+      "duration_ms": 294130,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Dos Soneros... Una Historia",
         "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 481280,
       "name": "He Tratado - Live Version",
       "url": "https://open.spotify.com/track/1s6V4WG5Vmqm4Ryd8bV3vR"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lo Mejor de Alberto Barros, Vol. 2",
-        "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Barros",
-          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
-        }
-      ],
-      "duration_ms": 294130,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -783,18 +783,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
       "artists": [
         {
           "name": "Fania All Stars",
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
         }
       ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
+      "duration_ms": 557626,
+      "name": "Descarga Fania - Live",
+      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
     },
     {
       "added_at": "2022-03-18 05:00:00",

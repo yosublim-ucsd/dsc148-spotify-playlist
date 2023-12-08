@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 165638,
+  "num_followers": 165680,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDM5ZDU1MGExOTA4NWRkZjVhNDcxMzExYjI1M2IwZDRiMjkwNDI3",
+  "snapshot_id": "MCxlMzE0NTE5ODRlMjRmOWI3Zjg2ZGExMzc1ODU3NDNlODdlY2RkN2Fi",
   "tracks": [
     {
       "added_at": "2023-12-04 15:16:35",
@@ -235,6 +235,66 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
+        "name": "Sinta-me (senta em mim)",
+        "url": "https://open.spotify.com/album/7nqC8eBOULlhZFSjx3YabB"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Sinta-me (senta em mim)",
+      "url": "https://open.spotify.com/track/4VfNLTHVzGnFVJi9aDblOm"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
+        "name": "Mergulhei",
+        "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
+      },
+      "artists": [
+        {
+          "name": "Izy Castelano",
+          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+        },
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "kLap",
+          "url": "https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        }
+      ],
+      "duration_ms": 211524,
+      "name": "Mergulhei",
+      "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
         "name": "Te Ouvir",
         "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
@@ -283,42 +343,6 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
-        "name": "Mergulhei",
-        "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
-      },
-      "artists": [
-        {
-          "name": "Izy Castelano",
-          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
-        },
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        },
-        {
-          "name": "kLap",
-          "url": "https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        }
-      ],
-      "duration_ms": 211524,
-      "name": "Mergulhei",
-      "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -335,30 +359,6 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
-        "name": "Sinta-me (senta em mim)",
-        "url": "https://open.spotify.com/album/7nqC8eBOULlhZFSjx3YabB"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "JOTA",
-          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Sinta-me (senta em mim)",
-      "url": "https://open.spotify.com/track/4VfNLTHVzGnFVJi9aDblOm"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
         "name": "Faz Arrepiar",
         "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
       },
@@ -839,34 +855,26 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
-        "name": "Sem T\u00e9dio",
-        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
+        "name": "Rec\u00edproco",
+        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
       "artists": [
         {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 180454,
-      "name": "Sem T\u00e9dio",
-      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
+          "name": "Victor JR",
+          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
+        },
         {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+          "name": "Ingrid Milanez",
+          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
+      "duration_ms": 180000,
+      "name": "Rec\u00edproco",
+      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -903,26 +911,18 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
-        "name": "Rec\u00edproco",
-        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+        "name": "Sem T\u00e9dio",
+        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
       },
       "artists": [
         {
-          "name": "Victor JR",
-          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
-        },
-        {
-          "name": "Ingrid Milanez",
-          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Rec\u00edproco",
-      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+      "duration_ms": 180454,
+      "name": "Sem T\u00e9dio",
+      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -963,6 +963,30 @@
       "duration_ms": 139270,
       "name": "GUAPA",
       "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -1015,26 +1039,18 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
       "artists": [
         {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
         }
       ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -1051,22 +1067,6 @@
       "duration_ms": 194000,
       "name": "Respostas",
       "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 144578,
       "name": "Novela",
       "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-12-04 15:16:35",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-12-04 15:16:35",
       "album": {
+        "name": "DE REPENTE",
+        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "DE REPENTE",
+      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+    },
+    {
+      "added_at": "2023-12-04 15:16:35",
+      "album": {
         "name": "se voc\u00ea quiser",
         "url": "https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 224680,
       "name": "se voc\u00ea quiser",
       "url": "https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB"
-    },
-    {
-      "added_at": "2023-12-04 15:16:35",
-      "album": {
-        "name": "DE REPENTE",
-        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "DE REPENTE",
-      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
     },
     {
       "added_at": "2023-12-04 15:16:35",

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 12675,
+  "num_followers": 12698,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzljZDk0MWJjZGJjMDIyNGI1MjYxZjZhM2UxOTVjNzg2YjZiZjM2",
+  "snapshot_id": "MCw3MzM3NTA4ODVmNmZkZTYyMmFjMGNjMDI4ZDM2YTc5YmM1MGE0Zjg4",
   "tracks": [
     {
       "added_at": "2023-11-04 06:04:29",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "To the other side of greed",
-        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "To the other side of greed",
-      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Winded",
         "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 183000,
       "name": "Winded",
       "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "To the other side of greed",
+        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "To the other side of greed",
+      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -207,18 +207,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
       "artists": [
         {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+      "duration_ms": 208920,
+      "name": "Falling In Love (feat. 10cm)",
+      "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -239,22 +243,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "CAKE",
-        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
       },
       "artists": [
         {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
-        },
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Falling In Love (feat. 10cm)",
-      "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "sleepless nights (My Sweden Laundry #1)",
-        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "sleepless nights (My Sweden Laundry #1)",
-      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Someone's playlist #7",
         "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+        "name": "sleepless nights (My Sweden Laundry #1)",
+        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
+      "duration_ms": 220413,
+      "name": "sleepless nights (My Sweden Laundry #1)",
+      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -371,6 +355,22 @@
       "duration_ms": 249723,
       "name": "How did you (feat. Baek Yerin)",
       "url": "https://open.spotify.com/track/2mVb3RIBLffHQsauvkHBuf"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "The Film",
-        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "The Film",
-      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
-        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "beautiful inside",
-      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 267893,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "beautiful inside",
+      "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
       "artists": [
         {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
         }
       ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -643,22 +659,6 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -811,34 +827,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+          "name": "Jo eunsae",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
         }
       ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

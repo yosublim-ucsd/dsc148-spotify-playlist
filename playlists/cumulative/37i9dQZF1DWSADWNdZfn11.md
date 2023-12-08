@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-372 songs - 19 hr 50 min
+376 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 | 2022-08-01 |  |
 | [Careless Whisper](https://open.spotify.com/track/44keYJcx0VOluaff3Tki8q) | [Anna Maria Corelis](https://open.spotify.com/artist/4CjATHfvbMxY5QFDayYRG6) | [Careless Whisper](https://open.spotify.com/album/5PLC6XW2fGVJueGZVLd40Y) | 3:53 | 2023-05-26 | 2023-06-23 |
 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-20 |  |
+| [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
 | [Chasing Cars](https://open.spotify.com/track/5aXyuXE032sbomMTGxGYig) | [Piano Covers Club Delight](https://open.spotify.com/artist/08ambS3rtVC2BP1H4vtHST) | [Piano Covers](https://open.spotify.com/album/7HzELQCLUpdTlKCVKIJKP9) | 4:19 | 2022-08-01 | 2022-11-19 |
 | [Children](https://open.spotify.com/track/1HK3acWRuxitbvqiHuzDeB) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Children](https://open.spotify.com/album/14SHD5kzW5k7DHfHYmbN24) | 3:06 | 2022-09-30 |  |
 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 | 2023-04-14 |  |
@@ -102,6 +103,7 @@
 | [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 3:33 | 2022-08-01 | 2023-02-25 |
 | [Firework \- Piano Version](https://open.spotify.com/track/3aHt6aFoIXjks12rLBiQ3f) | [Simply Piano](https://open.spotify.com/artist/4OJ6BinFB6gr6Jo8NTfuv7), [Suzic](https://open.spotify.com/artist/0bF9vg6HUjKc4P16EelCF9) | [Firework \(Piano Version\)](https://open.spotify.com/album/4vu5H06xxXIljRUP6E3ZNJ) | 4:18 | 2022-08-01 | 2023-02-25 |
 | [Fix You](https://open.spotify.com/track/5UVh8KvLkObml6Je0mkEeC) | [David Schultz](https://open.spotify.com/artist/32hejOfgJ4dBHJD9AGU2fs) | [Piano Covers](https://open.spotify.com/album/7KNA6W2HKiiaSyijxB4oaz) | 2:22 | 2022-08-01 | 2022-11-19 |
+| [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2023-12-08 |  |
 | [Fix You \- Piano Version](https://open.spotify.com/track/7gQ07Bd21vrDAiBgxcP4o6) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 4:14 | 2022-11-18 | 2023-05-06 |
 | [Flowers](https://open.spotify.com/track/4LX1iXRBifNP6Js8mOHSO5) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Flowers](https://open.spotify.com/album/70ltHCbOn5yTYdSeX6xMaQ) | 2:51 | 2023-04-14 | 2023-08-11 |
 | [For No One](https://open.spotify.com/track/1n6hy0dH4wYbD4m7CPAvGF) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [For No One](https://open.spotify.com/album/3PUwPDAALl1BF2Qg4YvEqE) | 2:12 | 2023-04-14 |  |
@@ -194,6 +196,7 @@
 | [Leave The Door Open](https://open.spotify.com/track/0Pd8UT4ZfD24bAL61D7DTC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Leave The Door Open](https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv) | 4:20 | 2022-10-28 | 2023-03-18 |
 | [Leaving On A Jet Plane](https://open.spotify.com/track/2vt0uVbNi6ZVpTXIo1tISR) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Leaving On A Jet Plane](https://open.spotify.com/album/2ujKiDw5nk58E74QnodUYT) | 2:52 | 2023-02-24 | 2023-05-06 |
 | [Let Her Go](https://open.spotify.com/track/6sXI8gKfhj9qrVe1hHdqtm) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Let Her Go](https://open.spotify.com/album/62yCcm77GRgbBNdRUfSGa5) | 3:09 | 2022-08-01 |  |
+| [Let It Be](https://open.spotify.com/track/7L8zYETEb2WqxOTGO0kgjS) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Let It Be](https://open.spotify.com/album/0vYgrYSmyXIW4Mc3qL1ZGb) | 2:34 | 2023-12-08 |  |
 | [Let It Be \- Piano Version](https://open.spotify.com/track/6WTikw3wYizU78xt0ahfKv) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 3](https://open.spotify.com/album/03oFXdELtbbLIPkr2FHpHq) | 2:53 | 2022-08-01 | 2023-05-06 |
 | [Let me love you](https://open.spotify.com/track/2I7NvGmHkgxrXp3FziqJGj) | [Tindra Rosenlind](https://open.spotify.com/artist/4JpM15j7tnB2O5mBqGo6E4) | [Let me love you](https://open.spotify.com/album/5rHBl1BPlHZsc9BB7DWO0o) | 4:12 | 2023-04-28 |  |
 | [Let somebody go](https://open.spotify.com/track/2qDVma0LKZAQTf2JQA58UK) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Let somebody go](https://open.spotify.com/album/1c31HkBc3ogWX2yBcuoT11) | 2:41 | 2023-01-20 |  |
@@ -236,6 +239,7 @@
 | [No One \- Piano Version](https://open.spotify.com/track/58l2B5WJj36xsc0yLYrRTm) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:07 | 2022-08-01 | 2022-12-24 |
 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 | 2023-04-14 |  |
 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-20 |  |
+| [Now And Then](https://open.spotify.com/track/2WUT10GOf1uEd0iG42aR7t) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Now And Then](https://open.spotify.com/album/4fCRBbwtAJmOXxJQMLmGie) | 3:08 | 2023-12-08 |  |
 | [Numb \- Piano](https://open.spotify.com/track/0K7yOelIWqEZhn3YUZU70M) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:10 | 2022-10-14 | 2023-04-12 |
 | [Numb \- Piano](https://open.spotify.com/track/5AYOA5nvtsFxEteyELq2Ki) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:10 | 2023-03-17 | 2023-09-22 |
 | [Ocean \(piano version\)](https://open.spotify.com/track/41eazwc8ETHZWXEyZuYWU4) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Ocean \(piano version\)](https://open.spotify.com/album/72bbEXTqg75eBCue0rBhUv) | 2:29 | 2022-08-01 |  |

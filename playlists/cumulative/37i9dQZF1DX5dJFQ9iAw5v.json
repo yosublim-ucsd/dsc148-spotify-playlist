@@ -134,7 +134,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 327520,
       "name": "Acu\u00e1tico",
       "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
@@ -1351,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Milonga Del Fin Del Mundo",
+        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324720,
+      "name": "Milonga Del Fin Del Mundo",
+      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
+    },
+    {
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
       },
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 402265,
       "name": "Primavera Porte\u00f1a",
       "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
@@ -1802,6 +1820,24 @@
       "duration_ms": 419426,
       "name": "Tatami",
       "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
+    },
+    {
+      "album": {
+        "name": "ESCALECTRIC",
+        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344034,
+      "name": "Terrestre",
+      "url": "https://open.spotify.com/track/0kXyRmTQDrs2oK6uFFWagR"
     },
     {
       "album": {

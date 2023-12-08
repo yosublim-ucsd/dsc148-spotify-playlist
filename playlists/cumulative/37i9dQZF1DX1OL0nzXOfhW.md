@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！見證DEREK DALI & PetPetShawn 登上Clockenflap！
+> 持續發掘世一超新聲！Cover: Nancy Kwai
 
 154 songs - 8 hr 51 min
 

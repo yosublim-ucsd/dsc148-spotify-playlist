@@ -1464,6 +1464,24 @@
     {
       "album": {
         "name": "Anata No STORY (Yaiko Band ver.)",
+        "url": "https://open.spotify.com/album/3yTcBlLUZ4u0LzQSxaYiGg"
+      },
+      "artists": [
+        {
+          "name": "Hitomi Yaida",
+          "url": "https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225233,
+      "name": "Anata No STORY - Yaiko Band ver.",
+      "url": "https://open.spotify.com/track/09TCJw1wvUjWRrPBVizAgD"
+    },
+    {
+      "album": {
+        "name": "Anata No STORY (Yaiko Band ver.)",
         "url": "https://open.spotify.com/album/7y4ZNVPHBbp0wsTDfNKAO0"
       },
       "artists": [
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 225233,
       "name": "Anata No STORY - Yaiko Band ver.",
       "url": "https://open.spotify.com/track/6aH0kKRYvKcdPsNCHPczZN"
@@ -20465,6 +20483,24 @@
     },
     {
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/1TH2eZsAL864QvCL1o7xuv"
+      },
+      "artists": [
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189565,
+      "name": "Turning Point",
+      "url": "https://open.spotify.com/track/5pQR2DV8gHTVNJnXgrBDix"
+    },
+    {
+      "album": {
         "name": "faveur",
         "url": "https://open.spotify.com/album/1yo1HNltioZFkpkR0UDD65"
       },
@@ -20802,6 +20838,24 @@
       "duration_ms": 281761,
       "name": "Voice",
       "url": "https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1"
+    },
+    {
+      "album": {
+        "name": "Songs for You",
+        "url": "https://open.spotify.com/album/5WlAO58oVLTn75TlD6m2fd"
+      },
+      "artists": [
+        {
+          "name": "\u7af9\u6e15\u6176",
+          "url": "https://open.spotify.com/artist/2BXz3nKvKeJfnaj3bkVsnf"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "Voice of an Angel",
+      "url": "https://open.spotify.com/track/4l8YkykRAXnpgyQNNydgT3"
     },
     {
       "album": {
@@ -24651,6 +24705,24 @@
     },
     {
       "album": {
+        "name": "\u306f\u3057\u3084\u3059\u3081",
+        "url": "https://open.spotify.com/album/1omaiBv0kc0lIBNDLExibH"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157346,
+      "name": "\u3078\u3063\u307d\u3053\u307e\u3093 - rearrange ver.",
+      "url": "https://open.spotify.com/track/7GbLlaxs7jumurnaQgyE2u"
+    },
+    {
+      "album": {
         "name": "\u307c\u304f",
         "url": "https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4"
       },
@@ -26794,7 +26866,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 198226,
       "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
       "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
@@ -29322,7 +29394,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 260066,
       "name": "\u4e0d\u6cd5\u4fb5\u5165",
       "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
@@ -37166,7 +37238,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 205373,
       "name": "\u958b\u9752",
       "url": "https://open.spotify.com/track/4cJA1eDGR2G5vaeYeXdglV"

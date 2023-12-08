@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-499 songs - 1 day 0 hr 51 min
+500 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [DUHHH](https://open.spotify.com/track/6RXYtx36Z70CCZiGqSRWbS) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [DUHHH](https://open.spotify.com/album/5wOV9LHdr0wJCReA99G1l1) | 1:58 | 2023-08-11 |  |
 | [E6](https://open.spotify.com/track/1XIiMzDetOej0Fq9v8hj65) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This Is Evvie McKinney](https://open.spotify.com/album/27FOigKMfea4FVW2Kzluza) | 3:30 | 2022-02-04 | 2022-05-29 |
 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 | 2022-05-28 | 2022-08-07 |
-| [Echo](https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid) | 3:18 | 2022-07-17 |  |
+| [Echo](https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid) | 3:18 | 2022-07-17 | 2023-12-08 |
 | [Echo](https://open.spotify.com/track/6I5GtnDdJmKUV3HECV8qVP) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Echo](https://open.spotify.com/album/5Z1gQodeDFvnBLrguBOb1P) | 3:18 | 2022-03-23 | 2022-07-29 |
 | [Elevate](https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Elevate](https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO) | 2:40 | 2022-09-03 | 2022-11-14 |
 | [Encounter](https://open.spotify.com/track/7nHKJ4uHnRPFz1qAP0DOeC) | [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [Stand and Be Counted](https://open.spotify.com/album/2xYTX0itXxqO494sLWZaGW) | 4:13 | 2022-03-23 | 2022-04-21 |
@@ -347,6 +347,7 @@
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2023-08-11 |  |
 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 | 2022-08-06 |  |
 | [Praying Hands](https://open.spotify.com/track/1UBJn7Gl6weQ4vZ68EAphl) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Destined For Greatness](https://open.spotify.com/album/3gKB01Zw0wFbUxPg47AQ0M) | 3:37 | 2022-02-04 | 2023-08-12 |
+| [Press Play](https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Play!](https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM) | 3:15 | 2023-12-01 |  |
 | [Pressure](https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pressure](https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp) | 3:13 | 2022-12-16 | 2023-08-12 |
 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2022-07-17 |  |
 | [Probao](https://open.spotify.com/track/69QW2gAqjCTlpSTW7TVCbh) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Temporadas](https://open.spotify.com/album/5xEKZw2IoJpe5Lh6bEYC45) | 2:41 | 2022-09-03 | 2023-01-20 |

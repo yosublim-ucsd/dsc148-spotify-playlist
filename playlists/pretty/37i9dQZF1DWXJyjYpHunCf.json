@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
-  "num_followers": 881501,
+  "num_followers": 881747,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmY3ZDc4MzlkZTRlYTAwZDU4MmRhNjhkNjQ1OWQzNDBjYzgyOGY2",
+  "snapshot_id": "MCxjZTE5NGIzNmFjOTAxYzBlNzRmNGNlZWYwZWI0YjI5OGExMDIxZGMz",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 156360,
       "name": "I Keep Ticking On",
       "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "same old eyes",
+        "url": "https://open.spotify.com/album/037rgatHuGpK38geQio3H0"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "same old eyes",
+      "url": "https://open.spotify.com/track/6nrtAP312bEU352crkOQtu"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 182640,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "same old eyes",
-        "url": "https://open.spotify.com/album/037rgatHuGpK38geQio3H0"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "same old eyes",
-      "url": "https://open.spotify.com/track/6nrtAP312bEU352crkOQtu"
     }
   ],
   "unique_name": "Folk Pop",

@@ -864,7 +864,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 242453,
       "name": "Ipagpatawad Mo",
       "url": "https://open.spotify.com/track/3On64r714N7t1Q4KuqMYlO"
@@ -1776,6 +1776,24 @@
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/29xs643Q96uQLD8f7SxYYw"
+    },
+    {
+      "album": {
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
     },
     {
       "album": {

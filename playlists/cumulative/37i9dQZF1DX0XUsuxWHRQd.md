@@ -4,7 +4,7 @@
 
 > Music Jack Harlow, Drake and Sexyy Red.
 
-1,862 songs - 4 day 0 hr 28 min
+1,863 songs - 4 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1740,6 +1740,7 @@
 | [VULTURES CRY 2 \(feat\. WizDaWizard and Mike Smiff\)](https://open.spotify.com/track/4xvzXs6duNPDb4sORvmd8q) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Mike Smiff](https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH), [WizDaWizard](https://open.spotify.com/artist/4p8ivLWn8hpHM5uLhYiMix) | [VULTURES CRY 2 \(feat\. WizDaWizard and Mike Smiff\)](https://open.spotify.com/album/2BLLERMxO0aiUF7XTkKAse) | 3:42 | 2020-06-12 | 2020-06-17 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-05-27 | 2022-07-30 |
 | [WAITRESS](https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WAITRESS](https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ) | 2:12 | 2022-08-12 | 2022-09-24 |
+| [Wake Up in the Sky](https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Wake Up in the Sky](https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB) | 3:24 | 2023-12-07 |  |
 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 | 2022-09-16 | 2022-12-17 |
 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 | 2020-03-20 | 2020-07-22 |
 | [WAM](https://open.spotify.com/track/3tZmmHehdQv4dLyrDajMR0) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Floor Seats](https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6) | 2:37 | 2019-08-20 | 2019-08-23 |

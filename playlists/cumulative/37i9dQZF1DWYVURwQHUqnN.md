@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo: Jul
+> Photo: KeBlack
 
-59 songs - 2 hr 58 min
+61 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,11 @@
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2023-11-09 |  |
 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-23 |  |
 | [Eh toi](https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Eh toi](https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9) | 2:50 | 2023-10-26 |  |
-| [Favel \(feat\. Leto\)](https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favel \(feat\. Leto\)](https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q) | 2:24 | 2023-09-28 |  |
+| [Favel \(feat\. Leto\)](https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favel \(feat\. Leto\)](https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q) | 2:24 | 2023-09-28 | 2023-12-08 |
 | [Guadalajara](https://open.spotify.com/track/4e8h0zqi70JHvZbCzrgcHE) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Guadalajara](https://open.spotify.com/album/4ORZW3jfpRuUYC7hg3IBKf) | 2:41 | 2023-09-28 | 2023-11-10 |
 | [J'fais que danser](https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [J'fais que danser](https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27) | 2:53 | 2023-11-09 |  |
 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 | 2023-09-28 | 2023-10-13 |
+| [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 | 2023-12-08 |  |
 | [Khemem](https://open.spotify.com/track/1KcVcJuQEnUQoQ8IzjsdKV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Khemem](https://open.spotify.com/album/1ObRhUhvJgVfFOd6C6x23J) | 2:55 | 2023-09-28 |  |
 | [La Capitale](https://open.spotify.com/track/61ftvJIboUekDBePgs2Qe9) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1) | [La Capitale](https://open.spotify.com/album/5jTEJD2cxm5u2naymHRBDN) | 2:31 | 2023-09-28 | 2023-10-06 |
 | [La grinta](https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La grinta](https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc) | 3:31 | 2023-09-28 | 2023-12-01 |
@@ -37,12 +38,13 @@
 | [MAÑANA](https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:24 | 2023-09-28 | 2023-11-24 |
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2023-11-30 |  |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-09-28 |  |
-| [Méchant](https://open.spotify.com/track/1h8484CNhIZqhMsqD0ljkl) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Méchant](https://open.spotify.com/album/0qnEbi793qwTHRjUIsNQxD) | 2:21 | 2023-09-28 |  |
+| [Méchant](https://open.spotify.com/track/1h8484CNhIZqhMsqD0ljkl) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Méchant](https://open.spotify.com/album/0qnEbi793qwTHRjUIsNQxD) | 2:21 | 2023-09-28 | 2023-12-08 |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2023-09-28 |  |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-09-28 |  |
 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 | 2023-09-28 | 2023-11-10 |
 | [Olala \(feat\. Naza\)](https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Olala \(feat\. Naza\)](https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w) | 2:51 | 2023-11-09 |  |
 | [Parabellum](https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Parabellum](https://open.spotify.com/album/0ghjB2aqTW2WVtuIuR5Psb) | 2:34 | 2023-09-28 |  |
+| [Pas les mots](https://open.spotify.com/track/5EvhoSHeimcPmYB9f4DhND) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Pas les mots](https://open.spotify.com/album/5dufV0lmFg19yoQaFIwXxa) | 3:30 | 2023-12-08 |  |
 | [Pensées noires](https://open.spotify.com/track/10wjcXzC0e5lw99cN4YU7A) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [Pensées noires](https://open.spotify.com/album/4sdwgKGBkbBQpmVXqjx0wg) | 2:37 | 2023-10-12 | 2023-11-10 |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-09-28 |  |
 | [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/track/2aAAKJ6iWImiVL7WAZc6JL) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/album/74frmqOXlv1YtSCVb874M4) | 3:14 | 2023-11-16 |  |

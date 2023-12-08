@@ -287,6 +287,32 @@
     },
     {
       "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/2eD8AcrnpOfnseM1R13GE2"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        },
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        },
+        {
+          "name": "Young Draco",
+          "url": "https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184435,
+      "name": "CRYBABY",
+      "url": "https://open.spotify.com/track/2JRvRZUgczlW96GtykVKIF"
+    },
+    {
+      "album": {
         "name": "CUC HINH",
         "url": "https://open.spotify.com/album/0GcXZumuHbiQLmLyN1TBD7"
       },

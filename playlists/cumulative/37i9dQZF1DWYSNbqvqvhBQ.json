@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Lorr\u00e8n",
+  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: KANE",
   "name": "Stay Tuned!",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 191760,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
@@ -2977,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Lifeline (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227224,
+      "name": "Lifeline - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -3190,6 +3208,24 @@
       "duration_ms": 160081,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/6AoAAW6AJBdZ9Ket9nUhSG"
+    },
+    {
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/6J3Vgkharzbmw0GMZ1qwfD"
+      },
+      "artists": [
+        {
+          "name": "Benedict October",
+          "url": "https://open.spotify.com/artist/6QSKRQL7F1OQPpJf6JRazP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256644,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/12N4DCVM7AXrIsI33Dafpw"
     },
     {
       "album": {
@@ -4970,7 +5006,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG"

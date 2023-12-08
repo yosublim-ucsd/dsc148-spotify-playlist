@@ -3105,6 +3105,28 @@
     },
     {
       "album": {
+        "name": "The\u00a0Christmas Jazz Collection (The Most Beautiful Songs for a Groovy\u00a0Christmas)",
+        "url": "https://open.spotify.com/album/5YyLenaopJP0JDUscyyFxF"
+      },
+      "artists": [
+        {
+          "name": "Luca Jurman",
+          "url": "https://open.spotify.com/artist/4JXvGMYRNLql4TdYYYEt7s"
+        },
+        {
+          "name": "Antonio Fara\u00f2",
+          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0R4MUBCZFRNKlzWc8xFssr"
+    },
+    {
+      "album": {
         "name": "Jazz for Christmas (feat. Antonio Fara\u00f2)",
         "url": "https://open.spotify.com/album/3pqxWoE4p8pzPgtsqtM9Gc"
       },
@@ -3120,7 +3142,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 288000,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/4t5m1wGdsAxck39Q0R84AQ"

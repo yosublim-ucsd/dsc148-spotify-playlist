@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 464998,
+  "num_followers": 465198,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWU0ZDJkMmIxNGY2YjU2NDg3YmM2MGQzNGJiOTQyMDk2YjRhMTAy",
+  "snapshot_id": "MCw4ZTU4Y2JjYTNkOWRhZjAwMmY2NmYzMGExNmI1NDBhMThjMmE3NTYw",
   "tracks": [
     {
       "added_at": "2023-12-06 09:40:22",
@@ -731,8 +731,8 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+      "duration_ms": 300693,
+      "name": "Pandangan Pertama",
+      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -879,8 +879,8 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "RAN For Your Life",
-        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Pandangan Pertama",
-      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Seperti Kisah",
-        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 279031,
-      "name": "Seperti Kisah",
-      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "Judika",
         "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 242942,
       "name": "Jikalau Kau Cinta",
       "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Seperti Kisah",
+        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 279031,
+      "name": "Seperti Kisah",
+      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -1071,6 +1071,38 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 207403,
+      "name": "Jatuh Hati",
+      "url": "https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
@@ -1099,38 +1131,6 @@
       "duration_ms": 216019,
       "name": "Kesempurnaan Cinta",
       "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
-        "name": "Handmade",
-        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 207403,
-      "name": "Jatuh Hati",
-      "url": "https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw"
     },
     {
       "added_at": "2023-12-06 09:40:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-12-06 09:40:22",
       "album": {
-        "name": "Penantian Berharga",
-        "url": "https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 218910,
-      "name": "Penantian Berharga",
-      "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
-    },
-    {
-      "added_at": "2023-12-06 09:40:22",
-      "album": {
         "name": "Ello",
         "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 273491,
       "name": "Selaras",
       "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
+    },
+    {
+      "added_at": "2023-12-06 09:40:22",
+      "album": {
+        "name": "Penantian Berharga",
+        "url": "https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 218910,
+      "name": "Penantian Berharga",
+      "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
     },
     {
       "added_at": "2023-12-06 09:40:22",

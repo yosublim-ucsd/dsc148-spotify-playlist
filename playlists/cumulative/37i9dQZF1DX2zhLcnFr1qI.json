@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 206125,
       "name": "Caroling Caroling",
       "url": "https://open.spotify.com/track/6bHwkInIrzlxdtpLSaRcU6"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 167373,
       "name": "Christmas is Here (feat. Late Night Alumni)",
       "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
@@ -2048,6 +2048,32 @@
       "duration_ms": 194346,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg"
     },
     {
       "album": {

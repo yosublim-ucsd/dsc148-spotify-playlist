@@ -5,24 +5,20 @@
   "tracks": [
     {
       "album": {
-        "name": "WorKING",
+        "name": "",
         "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
       },
       "artists": [
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194214,
-      "name": "2 Hielos",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/5Q9WL6KjOioqfqJdX2W72I"
     },
     {
@@ -710,7 +706,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188571,
-      "name": "Ojos Azules",
+      "name": "OJOS AZULES",
       "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
     },
     {

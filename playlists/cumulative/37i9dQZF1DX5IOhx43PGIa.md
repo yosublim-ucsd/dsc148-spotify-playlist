@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-669 songs - 1 day 10 hr 41 min
+670 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [BUTTERFLY 나비](https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [A PROPHECY](https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg) | 2:28 | 2023-11-17 |  |
 | [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 | 2023-10-06 | 2023-10-20 |
 | [buttons!](https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo) | 3:59 | 2023-10-20 | 2023-12-04 |
+| [buttons! \(with Knock2\)](https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:59 | 2023-12-01 |  |
 | [Call Me Home](https://open.spotify.com/track/0MEwwyJBkGgeDLfDNCJtc1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:45 | 2022-09-23 | 2022-10-08 |
 | [Can We Have A Conversation?](https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Can We Have A Conversation?](https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF) | 2:34 | 2022-05-27 | 2023-02-21 |
 | [can't get over it](https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [can't get over it](https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5) | 2:12 | 2023-10-13 |  |
@@ -510,7 +511,7 @@
 | [Shouldn't Be](https://open.spotify.com/track/3wefloF3t1sFZx8YMFhqYB) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/5PsKfMP5ISDmpr4iKhchmO) | 3:30 | 2022-05-27 | 2022-09-23 |
 | [Shouldn't Be](https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51) | 3:30 | 2022-10-07 | 2023-08-12 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2023-08-12 |
-| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-10-06 |  |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-10-06 | 2023-12-08 |
 | [Siamese](https://open.spotify.com/track/5An220qZmv5fNeKJmaahWJ) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Siamese](https://open.spotify.com/album/41UGbBMtAAlqrcGUGvw8tM) | 2:25 | 2022-05-27 | 2022-07-29 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-25 |  |
 | [Silly Love Songs](https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ) | [Jack Kwon](https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld) | [Silly Love Songs](https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx) | 1:58 | 2023-02-18 |  |

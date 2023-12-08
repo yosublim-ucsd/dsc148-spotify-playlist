@@ -1,12 +1,12 @@
 {
   "description": "Spread some cheer with this list of new and old seasonal favorites. Cover: Brenda Lee",
-  "num_followers": 328351,
+  "num_followers": 328623,
   "original_name": "Happy Holidays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2U1M2RhOTJjNjFlYjIyNjRiMWUyNDg1ZjZjZDMxNDdmMWYwNmE5",
+  "snapshot_id": "MCwwZDA0OTY1YTI4MmYyMzkzZGM1YjJlMmViMzYyMzU3YjE2MmY2MGQ1",
   "tracks": [
     {
       "added_at": "2023-12-01 05:14:43",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-01 05:14:43",
       "album": {
-        "name": "Winter's Calling",
-        "url": "https://open.spotify.com/album/7bxtKj1CULqgolcJkUWCa0"
-      },
-      "artists": [
-        {
-          "name": "Good Lovelies",
-          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
-        }
-      ],
-      "duration_ms": 271525,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/0q17bBvODfs0CheoGjDDR4"
-    },
-    {
-      "added_at": "2023-12-01 05:14:43",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -1295,38 +1279,6 @@
       "duration_ms": 212386,
       "name": "Candy Cane Lane",
       "url": "https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm"
-    },
-    {
-      "added_at": "2023-12-01 05:14:43",
-      "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "River - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc"
-    },
-    {
-      "added_at": "2023-12-01 05:14:43",
-      "album": {
-        "name": "Merry Christmas Baby / White Christmas",
-        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv"
     },
     {
       "added_at": "2023-12-01 05:14:43",

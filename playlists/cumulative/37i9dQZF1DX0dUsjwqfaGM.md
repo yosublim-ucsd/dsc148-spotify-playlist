@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Phí Phương Anh
 
-80 songs - 4 hr 39 min
+81 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Chờ Em Đến Bao Giờ?](https://open.spotify.com/track/0rGytGSktEAcsxOkELz9qZ) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Chờ Em Đến Bao Giờ?](https://open.spotify.com/album/06V2HY4txDblD6b2BSMvDe) | 3:22 | 2023-10-05 | 2023-11-22 |
 | [Congratz to Me \(feat\. SOI\)](https://open.spotify.com/track/3jJOt4nfIGU9WzhdBm1TaR) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:18 | 2022-09-09 | 2023-11-22 |
 | [Crowd](https://open.spotify.com/track/2yXywsQ4lgBRyrk4ey5gCQ) | [RPT TC](https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL), [TDO Kwan](https://open.spotify.com/artist/1TXjcDbR8xtShzu08N5j0x), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Crowd](https://open.spotify.com/album/2HrXbMtw6gcxn2adzRvNlN) | 3:40 | 2023-04-29 |  |
+| [CRYBABY](https://open.spotify.com/track/2JRvRZUgczlW96GtykVKIF) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA) | [CRYBABY](https://open.spotify.com/album/2eD8AcrnpOfnseM1R13GE2) | 3:04 | 2023-12-07 |  |
 | [CUC HINH](https://open.spotify.com/track/6KIbensnme8n5VkCMFJB6O) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [CUC HINH](https://open.spotify.com/album/0GcXZumuHbiQLmLyN1TBD7) | 2:47 | 2023-04-29 |  |
 | [Cánh Cửa](https://open.spotify.com/track/6dvh8dpUCNvKRoJt8m2eMM) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Door To Nowhere](https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3) | 3:41 | 2023-04-13 |  |
 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 | 2023-04-13 |  |

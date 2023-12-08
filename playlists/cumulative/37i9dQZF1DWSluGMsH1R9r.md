@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-612 songs - 1 day 2 hr 18 min
+613 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-02-15 | 2023-07-05 |
 | [Gentle](https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr) | [Lennox Cole](https://open.spotify.com/artist/4ZJ87FCTeqG6E14EkGqXpi) | [Gentle](https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW) | 2:12 | 2021-12-07 |  |
 | [Glendale Walk](https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Glendale Walk](https://open.spotify.com/album/5foJvhdGbJtArvZjVzl7ER) | 3:07 | 2021-12-07 |  |
+| [Glimmer](https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Glimmer](https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf) | 2:40 | 2023-11-28 |  |
 | [Glänta](https://open.spotify.com/track/3VF1j2dGIyKpymo10lG2G5) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Glänta](https://open.spotify.com/album/6vDY52DtIonyQ4O52463we) | 2:54 | 2021-12-07 |  |
 | [Golden Hour](https://open.spotify.com/track/6WMqwT9YNk3hONbnMaf6NG) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Agamon Hula](https://open.spotify.com/album/4MPv3fcMvl3OFc0iNJoDsY) | 2:09 | 2023-01-26 | 2023-08-17 |
 | [Gouttes](https://open.spotify.com/track/6FEpVWSgpAadjPVuKNwCcx) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Gouttes](https://open.spotify.com/album/5Fws3ZQPPNC8m9vcR3H2Yx) | 3:14 | 2021-12-07 |  |
@@ -376,7 +377,7 @@
 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 | 2021-12-07 | 2023-05-04 |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2021-12-07 | 2023-05-04 |
 | [On the Bright Side](https://open.spotify.com/track/76LnyzbX3ZKGapQP0MENm8) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [On the Bright Side](https://open.spotify.com/album/6XZnOiB4lD1zTdblZj6hcE) | 2:52 | 2021-12-07 | 2022-07-16 |
-| [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 | 2021-12-07 |  |
+| [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 | 2021-12-07 | 2023-12-08 |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-07 | 2022-07-16 |
 | [Once Upon an Autumn](https://open.spotify.com/track/19Ngdrq60emLeiLvGLnwbY) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Once Upon an Autumn](https://open.spotify.com/album/0DAq1lRzcSb2BCgeksrb2A) | 1:57 | 2021-12-07 | 2023-01-27 |
 | [One Last Question](https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f) | [Vilma Holík](https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu) | [One Last Question](https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF) | 2:11 | 2023-03-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,923 likes - 120 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,975 likes - 120 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 20 | [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 |
 | 21 | [Movements / The Ascent](https://open.spotify.com/track/473LOUVfW0SnEmg7aXktga) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 6:19 |
 | 22 | [Suiren](https://open.spotify.com/track/3Q6okpLoq2ZhOzZfBHpmei) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 10:01 |
-| 23 | [Be Still](https://open.spotify.com/track/2nXbC8iv1dCTHAZHyinGGw) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/1wSOB3O3o2XfyRQ4XjB1Q4) | 5:28 |
+| 23 | [Be Still](https://open.spotify.com/track/7arBO0khQa2mAENg1rePbE) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/3VlSsznQDQhW1hIi8FrZXn) | 5:28 |
 | 24 | [Do While ⌘X](https://open.spotify.com/track/16fZFSlV2VIDcY77mVtUMI) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:50 |
 | 25 | [Look At My Snowman](https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 4:24 |
 | 26 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 119 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 120 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MCxiMDQxM2EyNzdhYmQyNjBhNzhjY2FkN2I4MWY0NWI2ZmEzYzMxOGY5`
+Snapshot ID: `MCxjODc5MzdlNDgzOTY4MjUwN2MxZGJhZjEwZTQ1NGY0ZTMwODI2YTY1`

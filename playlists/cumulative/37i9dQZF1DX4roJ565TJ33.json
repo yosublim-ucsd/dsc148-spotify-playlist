@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Fem",
+        "url": "https://open.spotify.com/album/5d5O3x26xphGr8brDm28xf"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cantillo Miljonprojektet",
+          "url": "https://open.spotify.com/artist/6gBxnwxD3tt6HHdECgkjRR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366924,
+      "name": "Fem",
+      "url": "https://open.spotify.com/track/5QbTP5pMrdjkxbRDxbnqkC"
+    },
+    {
+      "album": {
         "name": "Figures and Movement",
         "url": "https://open.spotify.com/album/4X7gbUVbwFh3C9hjayeY89"
       },
@@ -1805,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "La La Lars IV",
+        "url": "https://open.spotify.com/album/4gJWzcTebAoSDjdirNSXxv"
+      },
+      "artists": [
+        {
+          "name": "La La Lars",
+          "url": "https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Lugn i Stormen",
+      "url": "https://open.spotify.com/track/0eZBiX6xeNcOnP7T2DXnIp"
+    },
+    {
+      "album": {
         "name": "Layers of Life",
         "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
       },
@@ -1962,6 +1998,28 @@
       "duration_ms": 416813,
       "name": "Mjuk grupp",
       "url": "https://open.spotify.com/track/1tDApryJcHjivjt5oLQgKm"
+    },
+    {
+      "album": {
+        "name": "Monicas vals",
+        "url": "https://open.spotify.com/album/35kVDEb4E8FjjOmtP8zlom"
+      },
+      "artists": [
+        {
+          "name": "Tea Lundgren",
+          "url": "https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc"
+        },
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178874,
+      "name": "Monicas Vals",
+      "url": "https://open.spotify.com/track/60avwAxyPG8ppHoLt8GQTZ"
     },
     {
       "album": {

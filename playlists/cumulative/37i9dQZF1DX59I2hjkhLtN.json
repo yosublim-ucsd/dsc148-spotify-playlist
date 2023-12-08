@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 200000,
       "name": "Bad",
       "url": "https://open.spotify.com/track/6lUYFt2jzyzCDIwoFbmAud"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 267692,
       "name": "Cima Favela",
       "url": "https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 263084,
       "name": "Coisas no Vento",
       "url": "https://open.spotify.com/track/7Gfg5xHobbq5gV6B46mqSL"
@@ -3137,6 +3137,32 @@
     },
     {
       "album": {
+        "name": "Different Way",
+        "url": "https://open.spotify.com/album/4q2yBCJnH6rzehzCUyeEIa"
+      },
+      "artists": [
+        {
+          "name": "RBoy",
+          "url": "https://open.spotify.com/artist/0yfYb8zcJhOTaZFFiIsCjD"
+        },
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        },
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228651,
+      "name": "Different Way",
+      "url": "https://open.spotify.com/track/75IaLJ5Y564PgI1yUOSGjI"
+    },
+    {
+      "album": {
         "name": "Dinastia",
         "url": "https://open.spotify.com/album/757kngTOvcnk5iqohLEpNY"
       },
@@ -3660,6 +3686,24 @@
       "duration_ms": 186500,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6C9nYdUeK4IYjgs2GHmSfb"
+    },
+    {
+      "album": {
+        "name": "Enquanto Eu Viver",
+        "url": "https://open.spotify.com/album/6nTlaec7wOXaUC24a9QpN2"
+      },
+      "artists": [
+        {
+          "name": "E2SON",
+          "url": "https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243289,
+      "name": "Enquanto Eu Viver",
+      "url": "https://open.spotify.com/track/0416e2MiccAlvEtwmNfSwe"
     },
     {
       "album": {
@@ -4460,6 +4504,24 @@
       "duration_ms": 201212,
       "name": "Foste um V\u00edcio",
       "url": "https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au"
+    },
+    {
+      "album": {
+        "name": "Obl\u00edquo",
+        "url": "https://open.spotify.com/album/54Df7jJFSVaesioPnZi30T"
+      },
+      "artists": [
+        {
+          "name": "NOIATT",
+          "url": "https://open.spotify.com/artist/0KZUlXo9Xt5pxkSRZhNJo3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Fotoss\u00edntese",
+      "url": "https://open.spotify.com/track/6kCAwwPzYFk2HmH5YPzVSd"
     },
     {
       "album": {
@@ -5889,6 +5951,28 @@
     },
     {
       "album": {
+        "name": "Karma (feat. Coca FSM) (feat. Coca FSM)",
+        "url": "https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR"
+      },
+      "artists": [
+        {
+          "name": "Tekilla",
+          "url": "https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM"
+        },
+        {
+          "name": "Coca FSM",
+          "url": "https://open.spotify.com/artist/7nBujSP0pSaB93RkhIWIiG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214117,
+      "name": "Karma (feat. Coca FSM) (feat. Coca FSM)",
+      "url": "https://open.spotify.com/track/1Fz1vSPH9JxwmJRtCQPiS6"
+    },
+    {
+      "album": {
         "name": "Key",
         "url": "https://open.spotify.com/album/7FjnrZS5QUq7EeHeyj0ZVy"
       },
@@ -7120,6 +7204,24 @@
       "duration_ms": 202666,
       "name": "Migalhas",
       "url": "https://open.spotify.com/track/2efNQgbiCxyul14somPFfF"
+    },
+    {
+      "album": {
+        "name": "Dupla Personalidade",
+        "url": "https://open.spotify.com/album/20yCSHs6XyhNVsHFT0yJDP"
+      },
+      "artists": [
+        {
+          "name": "Cap\u00e3o",
+          "url": "https://open.spotify.com/artist/1V86kXTwC0BxS5InOpVsVY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "Mikado",
+      "url": "https://open.spotify.com/track/5IQWTfwLGphW2cFeHuAyCe"
     },
     {
       "album": {
@@ -9302,7 +9404,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 202500,
       "name": "Pecado",
       "url": "https://open.spotify.com/track/4X4GElslGhtmrFWcGyp0a4"
@@ -9487,6 +9589,24 @@
     },
     {
       "album": {
+        "name": "PICK UP",
+        "url": "https://open.spotify.com/album/61up6FNPlL9ae5AQuyZsZs"
+      },
+      "artists": [
+        {
+          "name": "HeyRicoo",
+          "url": "https://open.spotify.com/artist/7gv9htyT9jMdsEPLcan5SI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68341,
+      "name": "PICK UP",
+      "url": "https://open.spotify.com/track/0ZPhPW9J2ky662a67e3bql"
+    },
+    {
+      "album": {
         "name": "Pick Up The Phone",
         "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
       },
@@ -9538,7 +9658,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 188424,
       "name": "Piquete",
       "url": "https://open.spotify.com/track/0wWmVsEX8dZXyj6B3XClMg"
@@ -10844,7 +10964,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 123870,
       "name": "Satisfa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3rw6iPZAjtrqFratClh771"
@@ -11949,6 +12069,24 @@
     },
     {
       "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5tXWIsfUyFfnVN1x5hXb9d"
+      },
+      "artists": [
+        {
+          "name": "Holympo",
+          "url": "https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171964,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/3IFifbl19XiTDfnjAqv95l"
+    },
+    {
+      "album": {
         "name": "Tamu a Subir",
         "url": "https://open.spotify.com/album/6eghW6C5nzYvJPlBY0L4Ja"
       },
@@ -12250,7 +12388,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 140042,
       "name": "Topo da Town",
       "url": "https://open.spotify.com/track/4eNkdNRdijS2ay8CzjXr0M"

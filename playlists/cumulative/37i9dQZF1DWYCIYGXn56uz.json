@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 139883,
       "name": "A Modo Nostro (feat. Mose)",
       "url": "https://open.spotify.com/track/4u8ADeOiiWXSvvI3v8OOrb"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 146689,
       "name": "Fermarmi",
       "url": "https://open.spotify.com/track/7eW2y4eObpVw8WPvB3ioRb"
@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Mai dire mai",
+        "url": "https://open.spotify.com/album/3qGimCe6zsNuq4M52YzFWj"
+      },
+      "artists": [
+        {
+          "name": "Federica_",
+          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176115,
+      "name": "Mai dire mai",
+      "url": "https://open.spotify.com/track/0a0u4xR56rAzQVWbY2ovqx"
+    },
+    {
+      "album": {
         "name": "Maldit\u00e8",
         "url": "https://open.spotify.com/album/33ZJcFp35HJ3PbD4Jizz67"
       },
@@ -3442,7 +3460,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 136235,
       "name": "Non te l'ho detto mai",
       "url": "https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU"
@@ -3933,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "PERLE",
+        "url": "https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190319,
+      "name": "PERLE",
+      "url": "https://open.spotify.com/track/6MKM3j9rx5fP80y9ZJfygk"
+    },
+    {
+      "album": {
         "name": "PETARDI",
         "url": "https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod"
       },
@@ -4184,6 +4220,24 @@
       "duration_ms": 203170,
       "name": "PROFUMO",
       "url": "https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz"
+    },
+    {
+      "album": {
+        "name": "Promesse (from the original Netflix series \"DI4RI\")",
+        "url": "https://open.spotify.com/album/2c3QzmZOHzb3T1Z0IQxBZM"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146875,
+      "name": "Promesse (from the original Netflix series \"DI4RI\")",
+      "url": "https://open.spotify.com/track/1cSRzvNN1xMHpkgCBFAqIE"
     },
     {
       "album": {

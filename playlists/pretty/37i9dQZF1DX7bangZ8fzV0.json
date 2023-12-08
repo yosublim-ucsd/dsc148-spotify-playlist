@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=-H2WuM3fS-OOdPCbWfzgBg\">Appel</a>  ",
-  "num_followers": 88936,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=jneE8-H4S9Cm162yA6Ga2g\">Ricus Nel</a>  ",
+  "num_followers": 89044,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWIwMTJkNGU3MjlkYTljNGQyMzZmNTM0MDQxMDYwOGY0MGM3ODU5",
+  "snapshot_id": "MCxlNDQ0OGVkYTgwZWNiNTM1YmJhYTgwNjAwZGI2YTRjYzhmMzlhZGMy",
   "tracks": [
     {
-      "added_at": "2023-11-30 22:00:00",
+      "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Buffel Van Buffelsfontein",
-        "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
+        "name": "Kalahari Ferrari",
+        "url": "https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP"
       },
       "artists": [
         {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
         }
       ],
-      "duration_ms": 176750,
-      "name": "Buffel Van Buffelsfontein",
-      "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
+      "duration_ms": 202348,
+      "name": "Kalahari Ferrari",
+      "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
     },
     {
       "added_at": "2023-09-21 21:59:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Foute",
+        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Foute",
+      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+    },
+    {
       "added_at": "2023-08-24 21:59:00",
       "album": {
         "name": "Liewe Jinne!",
@@ -105,36 +121,20 @@
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2023-12-08 00:09:00",
       "album": {
-        "name": "Foute",
-        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
+        "name": "Hart Breek",
+        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
       },
       "artists": [
         {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
         }
       ],
-      "duration_ms": 202917,
-      "name": "Foute",
-      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Asseblief",
-        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
-      },
-      "artists": [
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "Asseblief",
-      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
+      "duration_ms": 200347,
+      "name": "Hart Breek",
+      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     },
     {
       "added_at": "2023-11-30 22:00:00",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
     },
     {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Laatnag Gedagtes",
-        "url": "https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
-        }
-      ],
-      "duration_ms": 174254,
-      "name": "Laatnag Gedagtes",
-      "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
-    },
-    {
       "added_at": "2023-11-30 22:00:00",
       "album": {
         "name": "Helemal",
@@ -183,6 +167,70 @@
       "duration_ms": 227999,
       "name": "Helemal",
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Asseblief",
+        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "Asseblief",
+      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
+      "added_at": "2023-11-30 22:00:00",
+      "album": {
+        "name": "Buffel Van Buffelsfontein",
+        "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "Buffel Van Buffelsfontein",
+      "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Laatnag Gedagtes",
+        "url": "https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 174254,
+      "name": "Laatnag Gedagtes",
+      "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
     },
     {
       "added_at": "2023-11-23 22:00:00",
@@ -203,34 +251,18 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         }
       ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 220831,
-      "name": "Swipe Regs",
-      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -331,6 +363,22 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 220831,
+      "name": "Swipe Regs",
+      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
         "name": "Spontaan",
         "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
       },
@@ -427,22 +475,6 @@
       "duration_ms": 163035,
       "name": "Ouens Soos Ek",
       "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -659,22 +691,6 @@
       "duration_ms": 185062,
       "name": "Lyntjie",
       "url": "https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2"
-    },
-    {
-      "added_at": "2023-11-23 22:00:00",
-      "album": {
-        "name": "Jona",
-        "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Lyfie",
-      "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -967,26 +983,6 @@
       "duration_ms": 242477,
       "name": "Vir Jou Geval",
       "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Ditjies & Datjies",
-        "url": "https://open.spotify.com/album/7m3yfmPUbRm6FNFBmdyxD6"
-      },
-      "artists": [
-        {
-          "name": "FATMAN",
-          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
-        },
-        {
-          "name": "Lianie May",
-          "url": "https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B"
-        }
-      ],
-      "duration_ms": 198471,
-      "name": "Ditjies & Datjies",
-      "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
     },
     {
       "added_at": "2023-06-29 21:59:00",

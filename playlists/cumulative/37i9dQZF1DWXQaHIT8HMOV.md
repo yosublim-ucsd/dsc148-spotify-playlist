@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan hits in one playlist\. Cover: Kalibwani
+> Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-187 songs - 9 hr 41 min
+188 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 | 2022-08-19 | 2023-09-30 |
 | [Bega Bega](https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Lover Man](https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz) | 2:52 | 2023-05-26 |  |
 | [Bega Bega](https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bega Bega](https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9) | 2:52 | 2023-04-06 | 2023-05-06 |
-| [Belinda](https://open.spotify.com/track/64C4vezOJyDbudIGxquW89) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Belinda](https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW) | 2:13 | 2022-03-17 |  |
+| [Belinda](https://open.spotify.com/track/64C4vezOJyDbudIGxquW89) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Belinda](https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW) | 2:13 | 2022-03-17 | 2023-12-08 |
 | [Best Friend](https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z), [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky) | [Best Friend](https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT) | 2:53 | 2023-06-02 | 2023-09-06 |
 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 | 2022-11-10 | 2023-09-25 |
 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 | 2022-07-29 | 2023-01-05 |
@@ -50,6 +50,7 @@
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-29 |  |
 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 | 2023-02-10 |  |
 | [Clock](https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL) | [Mark Stel](https://open.spotify.com/artist/1UdEDQFkWIBAfTgJVPAx1U), [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Clock](https://open.spotify.com/album/2M1ox2H825rpzaOovVvGLd) | 2:56 | 2022-12-02 | 2023-02-01 |
+| [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 | 2023-12-08 |  |
 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 | 2022-08-12 | 2023-03-27 |
 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 | 2022-12-16 | 2023-07-12 |
 | [Dont\-Stopp](https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9) | 2:54 | 2023-08-25 | 2023-10-13 |
@@ -161,7 +162,7 @@
 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 | 2022-11-25 |  |
 | [Shabada](https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1) | [Mudra D Viral](https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR), [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE) | [Shabada](https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs) | 3:16 | 2023-04-21 |  |
 | [SHE WAAN](https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [SHE WAAN](https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh) | 3:50 | 2023-11-30 |  |
-| [Sibyakukayana](https://open.spotify.com/track/4kDHniS1iVtxCJEBYyZRIt) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Sibyakukayana](https://open.spotify.com/album/0MOxqo1SCkpJFfV8oqSX9I) | 3:05 | 2023-11-24 |  |
+| [Sibyakukayana](https://open.spotify.com/track/4kDHniS1iVtxCJEBYyZRIt) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Sibyakukayana](https://open.spotify.com/album/0MOxqo1SCkpJFfV8oqSX9I) | 3:05 | 2023-11-24 | 2023-12-08 |
 | [Sikwebela](https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA) | [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Sikwebela](https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe) | 2:29 | 2023-02-16 | 2023-05-27 |
 | [Simple Guy](https://open.spotify.com/track/4doqYzAKym2GER3mDaU8jy) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Simple Guy](https://open.spotify.com/album/0xJrCs4TbSSdZUNPpFRjUy) | 3:42 | 2022-07-22 | 2022-10-28 |
 | [Singa](https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Singa](https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9) | 3:17 | 2023-04-27 |  |
@@ -171,7 +172,7 @@
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 |  |
 | [Take You](https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Same Story Riddim](https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK) | 3:00 | 2023-02-11 | 2023-02-17 |
 | [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 | 2023-11-24 |  |
-| [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 | 2023-12-06 |
+| [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2023-03-20 |
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2023-01-13 |
 | [Ten Over 10](https://open.spotify.com/track/3WUrKiGFCB64hHJFGPa7bt) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Ten Over 10 \(Producer Edition\)](https://open.spotify.com/album/5qe99ztflopyhcStRxZHkE) | 3:22 | 2023-04-21 | 2023-07-01 |

@@ -894,6 +894,24 @@
     {
       "album": {
         "name": "PHASE 2",
+        "url": "https://open.spotify.com/album/3VDxaorPQIokHEviqIH8OW"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202413,
+      "name": "Rave-up Tonight",
+      "url": "https://open.spotify.com/track/34iywbfxSn7AOaFoV7hixT"
+    },
+    {
+      "album": {
+        "name": "PHASE 2",
         "url": "https://open.spotify.com/album/5NvvNBuNHN9iDy1MdNYDrK"
       },
       "artists": [
@@ -904,7 +922,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 202413,
       "name": "Rave-up Tonight",
       "url": "https://open.spotify.com/track/4a6UFsB5YKrGYwC50RK5im"

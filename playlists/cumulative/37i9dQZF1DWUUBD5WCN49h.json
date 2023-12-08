@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 159428,
       "name": "2x2",
       "url": "https://open.spotify.com/track/2PDz5WNKhyeiGLHE3UgqaC"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 184745,
       "name": "Again",
       "url": "https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH"
@@ -652,6 +652,24 @@
       "duration_ms": 140246,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
+    },
+    {
+      "album": {
+        "name": "Time Allows",
+        "url": "https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV"
+      },
+      "artists": [
+        {
+          "name": "Altair Sa\u00efd",
+          "url": "https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215978,
+      "name": "All Your Blues",
+      "url": "https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb"
     },
     {
       "album": {
@@ -2821,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Don't Lemme Fall",
+        "url": "https://open.spotify.com/album/55v53pg1Ptr1jLNLl8ewwC"
+      },
+      "artists": [
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Don't Lemme Fall",
+      "url": "https://open.spotify.com/track/4MVTqwtTHFu8DJ5UscmiQA"
+    },
+    {
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
       },
@@ -3002,7 +3038,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 184519,
       "name": "Echo",
       "url": "https://open.spotify.com/track/0OYjR9VR2c7ZTRdW58nTtl"
@@ -4659,6 +4695,24 @@
     },
     {
       "album": {
+        "name": "Here Till The End",
+        "url": "https://open.spotify.com/album/5kEulres3EcRH4AqKR6xPB"
+      },
+      "artists": [
+        {
+          "name": "Khalei KBJ",
+          "url": "https://open.spotify.com/artist/01FYtbyVQ2M9HO0T0vGlua"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Here Till The End",
+      "url": "https://open.spotify.com/track/3YAUd8UZIrUK5jw5QiXOP8"
+    },
+    {
+      "album": {
         "name": "A Night in The Hills",
         "url": "https://open.spotify.com/album/2x28Q8UJfZ4QK75QMqdMew"
       },
@@ -4688,7 +4742,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 170999,
       "name": "High",
       "url": "https://open.spotify.com/track/0wDtgVTuZi9CI7ZgmGpUte"
@@ -5320,7 +5374,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 140050,
       "name": "Icon",
       "url": "https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ"
@@ -5480,6 +5534,28 @@
       "duration_ms": 159000,
       "name": "In The Light - Stripped Version",
       "url": "https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B"
+    },
+    {
+      "album": {
+        "name": "Is Dat So",
+        "url": "https://open.spotify.com/album/1vZSL6Go7LV0ZC9MUbyFNK"
+      },
+      "artists": [
+        {
+          "name": "YDN",
+          "url": "https://open.spotify.com/artist/5qOCIzIkrgsvC9ZuupxN2F"
+        },
+        {
+          "name": "Emsho",
+          "url": "https://open.spotify.com/artist/4pUNH7SgAKaP8mdtyuTEEu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "Is Dat So",
+      "url": "https://open.spotify.com/track/2Vu5QzVxlJNEUdduXw9LHx"
     },
     {
       "album": {
@@ -5908,7 +5984,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 177272,
       "name": "Kash and Karry",
       "url": "https://open.spotify.com/track/3biNFviRXIJFhNULZxZHM0"
@@ -6198,7 +6274,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 153846,
       "name": "LEANING",
       "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
@@ -6892,7 +6968,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 172941,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
@@ -7040,6 +7116,24 @@
       "duration_ms": 179000,
       "name": "Maria",
       "url": "https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p"
+    },
+    {
+      "album": {
+        "name": "MARTINI, CAREFUL",
+        "url": "https://open.spotify.com/album/1HfDnd1TCoaNV1WWRsDbzP"
+      },
+      "artists": [
+        {
+          "name": "Enaky",
+          "url": "https://open.spotify.com/artist/3ve8stsOBoiayDuVU5X724"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165302,
+      "name": "MARTINI",
+      "url": "https://open.spotify.com/track/3oIEApDLNuIBUvo9cxgYLL"
     },
     {
       "album": {
@@ -7613,6 +7707,24 @@
     },
     {
       "album": {
+        "name": "Muse - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303260,
+      "name": "Muse - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2"
+    },
+    {
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
       },
@@ -7672,6 +7784,24 @@
       "duration_ms": 218070,
       "name": "My Killa",
       "url": "https://open.spotify.com/track/1jVC75rTnFC0yhLMIAw16B"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1FoaE6WIwzaif4jyMkmNK9"
+      },
+      "artists": [
+        {
+          "name": "Kholi",
+          "url": "https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4AT8VJdq0SHvBPRdACc9Oc"
     },
     {
       "album": {
@@ -7828,6 +7958,32 @@
       "duration_ms": 160000,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/150vkxjvVxLt2d102XsPMp"
+    },
+    {
+      "album": {
+        "name": "NEW SEASON",
+        "url": "https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk"
+      },
+      "artists": [
+        {
+          "name": "psiv",
+          "url": "https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls"
+        },
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        },
+        {
+          "name": "C3VN",
+          "url": "https://open.spotify.com/artist/4XbarFQnYNsfcoCrydE0FX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "NEW SEASON",
+      "url": "https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ"
     },
     {
       "album": {
@@ -8300,7 +8456,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 251254,
       "name": "Old",
       "url": "https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN"
@@ -8590,6 +8746,24 @@
       "duration_ms": 182067,
       "name": "Oshe",
       "url": "https://open.spotify.com/track/7I8QM1U3MlX21c6348Ywoz"
+    },
+    {
+      "album": {
+        "name": "Osondi Owendi",
+        "url": "https://open.spotify.com/album/72Ej57wkEwKeVt8oIBVW81"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217334,
+      "name": "Osondi Owendi",
+      "url": "https://open.spotify.com/track/0vG1ADDsKH633S42iVG6MW"
     },
     {
       "album": {
@@ -9674,7 +9848,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
@@ -10078,6 +10252,24 @@
       "duration_ms": 182475,
       "name": "SARO",
       "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears (Cover)",
+        "url": "https://open.spotify.com/album/7tHPtTL1aUEIc3GYJBrIn1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Save Your Tears - Cover",
+      "url": "https://open.spotify.com/track/0WGl0AtjfkuF0p20MzwEOP"
     },
     {
       "album": {
@@ -11329,6 +11521,24 @@
     },
     {
       "album": {
+        "name": "The Money",
+        "url": "https://open.spotify.com/album/3RwaH0yePuFVaNeLDrZO9B"
+      },
+      "artists": [
+        {
+          "name": "TRACKDILLA",
+          "url": "https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188023,
+      "name": "The Money",
+      "url": "https://open.spotify.com/track/5tJkUjlnqiRs7tzbK5HX83"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE"
       },
@@ -11922,6 +12132,24 @@
       "duration_ms": 165913,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/5QxGoE7pn8Ghbl0N1leBop"
+    },
+    {
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5D0Uo5APiROUL9ukcALFXC"
+      },
+      "artists": [
+        {
+          "name": "J.E.N.N.Y",
+          "url": "https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163663,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM"
     },
     {
       "album": {
@@ -12912,7 +13140,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 178000,
       "name": "You vs You",
       "url": "https://open.spotify.com/track/70KVV8GlgZoBSCls2UcdYG"

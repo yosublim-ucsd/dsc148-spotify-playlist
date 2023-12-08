@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-70 songs - 5 hr 49 min
+71 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Kisinan](https://open.spotify.com/track/109u6faz5ePtC558pTonCw) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/1gdPykbinggfyDSiAU4MWt) | 4:35 | 2023-08-01 | 2023-09-18 |
 | [KISINAN](https://open.spotify.com/track/26wNc0PJYduNHNQO6nk0xE) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN](https://open.spotify.com/album/4Owqu6uyGpc789JHz2DSt7) | 4:35 | 2023-09-13 |  |
 | [Kisinan](https://open.spotify.com/track/4l0MtxkfzsugEBHSsdhae6) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS), [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/5RW3jMVUCN5eCkuhSkJcZv) | 4:22 | 2023-09-13 |  |
+| [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 | 2023-12-07 |  |
 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 | 2023-08-09 |  |
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-09 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 |  |

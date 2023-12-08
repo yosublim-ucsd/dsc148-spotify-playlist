@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-138 songs - 9 hr 25 min
+139 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [99は終わらない](https://open.spotify.com/track/6PghaG4oeqk5mBOWWpRDgq) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [99は終わらない](https://open.spotify.com/album/0BPzi7foQ4P0jA7pg1jzBk) | 4:20 | 2022-03-08 |  |
 | [canvas](https://open.spotify.com/track/343kCGzVLTw4PsqqjweJIX) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [ヒーロー](https://open.spotify.com/album/66NumpiSIw7X07nSObB3ti) | 5:04 | 2022-03-08 |  |
 | [Changes](https://open.spotify.com/track/02Ik0DMcCN2TMDGKY9JnUL) | [石田裕子](https://open.spotify.com/artist/1SNm8XI0sfrS0q0l4IuXOH) | [Changes](https://open.spotify.com/album/4K33360b8TthyAVug4xtKd) | 3:36 | 2022-03-08 |  |
-| [Chase the Light ! \- hyadain Rererere☆Remix](https://open.spotify.com/track/2V5clBeUzdz7UDji2CAKN2) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Rave\-up Tonight](https://open.spotify.com/album/6x6IU6jrgiC6syaY45kqMs) | 4:18 | 2023-05-16 |  |
+| [Chase the Light ! \- hyadain Rererere☆Remix](https://open.spotify.com/track/2V5clBeUzdz7UDji2CAKN2) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Rave\-up Tonight](https://open.spotify.com/album/6x6IU6jrgiC6syaY45kqMs) | 4:18 | 2023-05-16 | 2023-12-08 |
+| [Chase the Light! \- hyadain Rererere☆Remix](https://open.spotify.com/track/4CYUqJ4sjBF9qo3KpGDYjb) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Rave\-up Tonight](https://open.spotify.com/album/2CGXf0qJO4axNnEjyIgFt4) | 4:18 | 2023-12-05 |  |
 | [Chase the Light! \-ヒャダインリリリリ☆リミックス\-](https://open.spotify.com/track/0bR7POizH4c1qvzlTJhcna) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Rave\-up Tonight](https://open.spotify.com/album/5iyMY90F1YfNm9N3NbtLaN) | 4:18 | 2022-03-08 | 2023-05-24 |
 | [Choose me](https://open.spotify.com/track/1Hw1011LomqKrWZ1SDLXdF) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/album/1KoYnGSN4VVXBXYtB3KF1W) | 3:59 | 2022-03-08 |  |
 | [FiX YOUR TEETH](https://open.spotify.com/track/6nT1NXb2i6lu5wCjWTaK8C) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [涙のステージ / FiX YOUR TEETH](https://open.spotify.com/album/3Pbh5S94wuqc5TwIMWyLsG) | 3:31 | 2022-03-08 |  |

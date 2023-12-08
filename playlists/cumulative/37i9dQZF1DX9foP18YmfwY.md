@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-137 songs - 10 hr 39 min
+138 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Deus Está Aqui \(Noites Traiçoeiras\)](https://open.spotify.com/track/2cnKUhnCJ0MSYsG3q2zQiC) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Katholika Music](https://open.spotify.com/artist/0grtBW6nOD3qjL2S8xNqo2) | [Deus Está Aqui \(Noites Traiçoeiras\)](https://open.spotify.com/album/2IVSlMvLNPCUGCDiAAo2Iw) | 3:45 | 2023-06-02 |  |
 | [Deus te salve Maria](https://open.spotify.com/track/4vwrcMO6M6Gjf1EZHtFyu8) | [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Verónica Sanfilippo](https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf) | [Deus te salve Maria](https://open.spotify.com/album/5AM8zEdKhK1U2L2YPNOD90) | 5:17 | 2023-05-05 | 2023-07-15 |
 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 | 2022-09-02 |  |
-| [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 |  |
+| [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 | 2023-12-08 |
+| [Divino Esposo](https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj) | 3:38 | 2023-11-24 |  |
 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 | 2022-09-02 |  |
 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 | 2022-09-02 | 2023-10-21 |
 | [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 | 2023-03-24 |  |

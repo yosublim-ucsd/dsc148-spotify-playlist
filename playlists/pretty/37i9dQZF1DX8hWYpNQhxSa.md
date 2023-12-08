@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,685 likes - 72 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,750 likes - 72 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 71 | [Nightfall](https://open.spotify.com/track/1AW3CTC4LJi2ZmV7SwCURD) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY \(ORIGINAL TELEVISION SOUNDTRACK\)](https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic) | 2:25 |
 | 72 | [GOOD DAY \(Instrumental\)](https://open.spotify.com/track/47R4Yw5mNQ9GlNVCmcOGGO) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY \(ORIGINAL TELEVISION SOUNDTRACK\)](https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic) | 2:35 |
 
-Snapshot ID: `MCwzNzQ5MzA1ZjJlOGVhZGIwMGQwZmY1NzMwMjFmZGNlOTE1OTU4NWFh`
+Snapshot ID: `MCw4ZGJiNWFiYTgwYmIwMzM5NGUzMmFjN2M2NGM1OGNkMDhkYzlkNTZj`

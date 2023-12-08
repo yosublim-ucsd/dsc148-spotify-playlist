@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:2Q1d40J0u4IWGg4oZNPBZ7">Jonathan Ogden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,404 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,468 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 32 | [When I Think \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 |
 | 33 | [Mercy \- Live](https://open.spotify.com/track/32smGLmKf6J3aYMsQQCf2L) | [Joy Fak](https://open.spotify.com/artist/2ja5AV6o7TtytNPvhxDOAZ) | [Mercy \(Live\)](https://open.spotify.com/album/4nkCtTJ93bjfnlVwLVXMHu) | 4:48 |
 | 34 | [Bigger Odogwu part II \- Orchestra Version](https://open.spotify.com/track/721uEg2yWLLbRQOnxvoD3j) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Bigger Odogwu part II \(Orchestra Version\)](https://open.spotify.com/album/2j9sYczIMecvAchnsheWQt) | 2:59 |
-| 35 | [Come Alive](https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Shemoneh](https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0) | 9:09 |
+| 35 | [Come Alive](https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Shemoneh](https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0) | 9:09 |
 | 36 | [Your Presence](https://open.spotify.com/track/3lMS0wQL34Urc6OQvn77dy) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Your Presence](https://open.spotify.com/album/1E9ma8xvQutFRiaLOZtos0) | 15:32 |
 | 37 | [Kings and Priests](https://open.spotify.com/track/3bqsmAH9998LWPyOd42l15) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Spirit Of Moses \(Kings And Priests\)](https://open.spotify.com/album/6aKr5zjydWLwdsPfbJivaE) | 4:52 |
 | 38 | [When The Lights Came On](https://open.spotify.com/track/15y72VdB2zj17ha4jWxkPp) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [When The Lights Came On](https://open.spotify.com/album/57vCZInTfq1WX6VFvP1faU) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Counting My Blessings \- Acoustic](https://open.spotify.com/track/5GVWorVAP2wKRNfpWHpmOu) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings \(Acoustic\)](https://open.spotify.com/album/4UzqPZ6WHVypd25yzRlQS6) | 3:28 |
 | 100 | [Dancing](https://open.spotify.com/track/04QFC6On6l4CIEIILWy0uW) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Dancing](https://open.spotify.com/album/1OVe71XaeBgdEOMqeQY1EL) | 4:31 |
 
-Snapshot ID: `MCw2MjkzMGRjMDlkMTc2MWU4MGIzYmY2M2FmYjcyMWNlYjNiZTM5NWFl`
+Snapshot ID: `MCw1MDRiNDU1MWM5YmU5MTMxYTJiMWVkZWY5ZDk5OTZhZGU5MTU1YjYx`

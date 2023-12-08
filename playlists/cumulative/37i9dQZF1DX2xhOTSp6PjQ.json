@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=V68FwFkMQsKXISH2sL7BdA\">Inkos'yamagcokama</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61?si=sl-cqVdKSPmAltwj63V2jA\">IZINGANE ZOMA<a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -2989,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "Umfazi Womuntu Enqunu",
+        "url": "https://open.spotify.com/album/09pjuUtEgrOpcEdGkHKaov"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351157,
+      "name": "Umfazi Womuntu Enqunu",
+      "url": "https://open.spotify.com/track/4vDPSGw1tPXwu0cCsLg3Lg"
+    },
+    {
+      "album": {
         "name": "Umjolo Lowo",
         "url": "https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB"
       },
@@ -3412,6 +3430,24 @@
       "duration_ms": 450320,
       "name": "Xola (feat. Nobuhle, Ze2 & Young Stunna)",
       "url": "https://open.spotify.com/track/5uWDenxq03AYLOq83WzLNo"
+    },
+    {
+      "album": {
+        "name": "Yimi Isqhwaga",
+        "url": "https://open.spotify.com/album/51MFGbYVjczIbS9aR20D5d"
+      },
+      "artists": [
+        {
+          "name": "Falabo",
+          "url": "https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249108,
+      "name": "Yimi Isiqhwaga",
+      "url": "https://open.spotify.com/track/22EGSr4xGc8zDs3TSjgBXV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,364 songs - 2 day 3 hr 25 min
+1,365 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Float](https://open.spotify.com/track/3fi6C1J1BbzX8hK78wnYCW) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Daytrip](https://open.spotify.com/album/0CWQ9WxE4Ryf9ge5vp3WPv) | 2:27 | 2022-11-11 | 2022-12-10 |
 | [Float](https://open.spotify.com/track/0yvdmeWytGMCzDAABS9HQ1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Float](https://open.spotify.com/album/4zeOVYdKsMoH4eOFXZlpXK) | 2:48 | 2022-04-08 | 2022-10-15 |
 | [Floating Through Happiness](https://open.spotify.com/track/35qu3HN3wiMUZmqo7Pbp9j) | [JAMMI](https://open.spotify.com/artist/7xtiaT1jm9ea1LcG9JxmSL) | [Floating Through Happiness](https://open.spotify.com/album/4lpQfznS2GsB8CERChScJV) | 2:42 | 2023-07-13 |  |
+| [Floor 5](https://open.spotify.com/track/2IEJDnXmqa2QEkcUureE1p) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Floor 5](https://open.spotify.com/album/6No8Oc4ges6VLYY3wLJSZi) | 1:57 | 2023-12-08 |  |
 | [Floppy](https://open.spotify.com/track/6fONBndFwdCxzEOUrmZCt6) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Floppy](https://open.spotify.com/album/658SRcbp7zMfPZoGwTFPRb) | 2:05 | 2022-09-23 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/1PwpHX9TXeeImQJlYGoxVm) | [Opas](https://open.spotify.com/artist/7wJofd34ZURYOt5kFrCE9M), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Flowers](https://open.spotify.com/album/7gM0G6VELwfyWiiYzmYKDS) | 1:32 | 2022-09-30 | 2023-09-22 |
 | [Flowers, a snail & insects](https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Flowers, a snail & insects](https://open.spotify.com/album/5sb5ksvhXh2qGwvFQdAYs4) | 2:20 | 2023-01-06 | 2023-09-29 |
@@ -541,7 +542,7 @@
 | [Huntington Garden](https://open.spotify.com/track/4bnq7sIgHQEJzUO4LPOrUy) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Huntington Garden](https://open.spotify.com/album/1J4VrEZbAyBz6IxLKEWjbL) | 2:12 | 2022-12-23 | 2023-09-29 |
 | [I can feel it](https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [I can feel it](https://open.spotify.com/album/2VDL52SN0l9MUAvkrC7d5y) | 1:47 | 2022-12-16 |  |
 | [i feel empty](https://open.spotify.com/track/6kLYMXJQxcArmGYcVueUGR) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [i feel empty](https://open.spotify.com/album/06yV2b0E8Hbw8JzD6vrDwU) | 2:23 | 2022-12-09 | 2023-09-29 |
-| [I G S D](https://open.spotify.com/track/0lhV41i2VQmivlyW6Kwnqj) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [I G S D](https://open.spotify.com/album/4mxHR55aIhn6Hf6FK3gFPX) | 2:20 | 2023-11-17 |  |
+| [I G S D](https://open.spotify.com/track/0lhV41i2VQmivlyW6Kwnqj) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [I G S D](https://open.spotify.com/album/4mxHR55aIhn6Hf6FK3gFPX) | 2:20 | 2023-11-17 | 2023-12-08 |
 | [I Know](https://open.spotify.com/track/79AMJyh9oHGXinUaxh6Dd4) | [Nollex](https://open.spotify.com/artist/19WVYQtlRI6EPouvwegNNH) | [Harlow](https://open.spotify.com/album/0X7ddNw3fLTJXDZQ8xW2BQ) | 4:54 | 2022-01-27 | 2022-12-17 |
 | [I Needed](https://open.spotify.com/track/6rsCeQsdo9VyUeJkc9ozgB) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 2:00 | 2022-01-27 | 2022-06-10 |
 | [I try to tell him](https://open.spotify.com/track/552NfkgzKgOqDCk8SQLhmS) | [French Connection](https://open.spotify.com/artist/0mCMWvvi5gXel5a0ZZ172H) | [Grind For Years](https://open.spotify.com/album/5AiP0EETQ0GhQNJdEQbwHi) | 1:48 | 2023-03-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de diciembre 2023",
-  "num_followers": 1538183,
+  "num_followers": 1538287,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTIxNzY2NTQzZWQwMDQzMjg2MjY3ZDM2YTIzNTQ4MmEwZTFhOTJi",
+  "snapshot_id": "MCxiZDY3MjJiMzNjMjdkMzY2OGVkOWFkZjY5ZDUwODBjOTI0ZjMwNjNj",
   "tracks": [
     {
       "added_at": "2023-12-04 16:18:03",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-12-04 16:18:03",
       "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 153153,
+      "name": "TE FUI A SEGUIR",
+      "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
+    },
+    {
+      "added_at": "2023-12-04 16:18:03",
+      "album": {
         "name": "Sobreviviste",
         "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 218357,
       "name": "Love Like This - En Vivo",
       "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
-    },
-    {
-      "added_at": "2023-12-04 16:18:03",
-      "album": {
-        "name": "1 1 1",
-        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 153153,
-      "name": "TE FUI A SEGUIR",
-      "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
     },
     {
       "added_at": "2023-12-05 18:18:52",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-12-04 16:18:03",
       "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
+    },
+    {
+      "added_at": "2023-12-04 16:18:03",
+      "album": {
         "name": "Vas a Destrozarme",
         "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 240377,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/2EtOOnd0tseAvHcm3WzACQ"
-    },
-    {
-      "added_at": "2023-12-04 16:18:03",
-      "album": {
-        "name": "me va a costar",
-        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "me va a costar",
-      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
       "added_at": "2023-12-04 16:18:03",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-12-04 16:18:03",
       "album": {
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 179372,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/1btqNfmvNJb24aWwmQCYZB"
+    },
+    {
+      "added_at": "2023-12-04 16:18:03",
+      "album": {
         "name": "Trajecito XS",
         "url": "https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1"
       },
@@ -447,22 +467,22 @@
     {
       "added_at": "2023-12-04 16:18:03",
       "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
+        "name": "rompo esquemas",
+        "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         },
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 179372,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/1btqNfmvNJb24aWwmQCYZB"
+      "duration_ms": 199421,
+      "name": "rompo esquemas",
+      "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
     },
     {
       "added_at": "2023-12-04 16:18:03",
@@ -547,22 +567,18 @@
     {
       "added_at": "2023-12-04 16:18:03",
       "album": {
-        "name": "rompo esquemas",
-        "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         }
       ],
-      "duration_ms": 199421,
-      "name": "rompo esquemas",
-      "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2023-12-04 16:18:03",
@@ -595,22 +611,6 @@
       "duration_ms": 195720,
       "name": "Extra\u00f1os de Nuevo",
       "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
-    },
-    {
-      "added_at": "2023-12-04 16:18:03",
-      "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2023-12-04 16:18:03",
@@ -725,6 +725,26 @@
       "url": "https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR"
     },
     {
+      "added_at": "2023-12-04 16:18:03",
+      "album": {
+        "name": "Espinos",
+        "url": "https://open.spotify.com/album/42pRgQiT6taWMuVgSuBtjf"
+      },
+      "artists": [
+        {
+          "name": "JPFernandez",
+          "url": "https://open.spotify.com/artist/706Fis25mKER7XOc7PMuBw"
+        },
+        {
+          "name": "DAWII",
+          "url": "https://open.spotify.com/artist/15pOXQyBJvgmMPboMRCZ1M"
+        }
+      ],
+      "duration_ms": 169838,
+      "name": "Espinos",
+      "url": "https://open.spotify.com/track/26xLhBua9jlxARRHNFn8Of"
+    },
+    {
       "added_at": "2023-12-05 16:21:15",
       "album": {
         "name": "Jersey",
@@ -747,22 +767,18 @@
     {
       "added_at": "2023-12-04 16:18:03",
       "album": {
-        "name": "Espinos",
-        "url": "https://open.spotify.com/album/42pRgQiT6taWMuVgSuBtjf"
+        "name": "Q ha pasado?",
+        "url": "https://open.spotify.com/album/2iXUOi42Vmeh6Nb3lkVxQX"
       },
       "artists": [
         {
-          "name": "JPFernandez",
-          "url": "https://open.spotify.com/artist/706Fis25mKER7XOc7PMuBw"
-        },
-        {
-          "name": "DAWII",
-          "url": "https://open.spotify.com/artist/15pOXQyBJvgmMPboMRCZ1M"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 169838,
-      "name": "Espinos",
-      "url": "https://open.spotify.com/track/26xLhBua9jlxARRHNFn8Of"
+      "duration_ms": 229333,
+      "name": "Q ha pasado?",
+      "url": "https://open.spotify.com/track/4yXvXmlW3WmG3U8reXr4oL"
     },
     {
       "added_at": "2023-12-04 16:18:03",
@@ -811,22 +827,6 @@
       "duration_ms": 95798,
       "name": "ALI",
       "url": "https://open.spotify.com/track/0CgKpM15mWm8az3ypb4Q1N"
-    },
-    {
-      "added_at": "2023-12-04 16:18:03",
-      "album": {
-        "name": "Q ha pasado?",
-        "url": "https://open.spotify.com/album/2iXUOi42Vmeh6Nb3lkVxQX"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Q ha pasado?",
-      "url": "https://open.spotify.com/track/4yXvXmlW3WmG3U8reXr4oL"
     },
     {
       "added_at": "2023-12-04 16:18:03",

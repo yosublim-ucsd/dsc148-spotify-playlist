@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 16593,
+  "num_followers": 16604,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWM1YjgwMTIxZDg1Y2FlZTEyMTY1Y2QyNjgxNjdlYmY4MzgxNjcw",
+  "snapshot_id": "MCwyNGQzMTc2NDcwY2M3MDk2NjE3NGNiYzY2Yzk3ZjI3M2ExMDBlZjc4",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -631,22 +631,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 199118,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "You Don't Own Me (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 199314,
       "name": "You Don't Own Me (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 199118,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -763,22 +763,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 172919,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
     },
     {
       "added_at": "2019-02-22 20:19:46",

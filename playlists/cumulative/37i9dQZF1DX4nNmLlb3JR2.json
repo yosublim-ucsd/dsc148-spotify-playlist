@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 161431,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/5JzL1hreVuaZO4Ukl2NemJ"
@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "I'm Just Ken",
+        "url": "https://open.spotify.com/album/2G2p7SYhf4xoFsmGxmbKvn"
+      },
+      "artists": [
+        {
+          "name": "samu2rai",
+          "url": "https://open.spotify.com/artist/2uEs3ZkDHUeILirtWAtu8w"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151426,
+      "name": "I'm Just Ken",
+      "url": "https://open.spotify.com/track/3KaTpFDt5HJPOlUcvISO7n"
+    },
+    {
+      "album": {
         "name": "I'm Yours",
         "url": "https://open.spotify.com/album/2I0Hpt0i39xi2c1RCA8r7F"
       },
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 146250,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/7rJtnC36LIn2faOY55y7wJ"
@@ -3735,6 +3753,42 @@
     },
     {
       "album": {
+        "name": "wefoundlove",
+        "url": "https://open.spotify.com/album/6whfxObR17uLrOUpNpqzEP"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121125,
+      "name": "wefoundlove",
+      "url": "https://open.spotify.com/track/23kBxBCU9ey05l98Okzm1O"
+    },
+    {
+      "album": {
+        "name": "when i was your man",
+        "url": "https://open.spotify.com/album/1ORHp2iPLW0OjhWH7gw4O1"
+      },
+      "artists": [
+        {
+          "name": "haki donzo",
+          "url": "https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138904,
+      "name": "when i was your man",
+      "url": "https://open.spotify.com/track/75z7lw3D0bIqla7vXKbaK7"
+    },
+    {
+      "album": {
         "name": "When Luv Takes Over",
         "url": "https://open.spotify.com/album/5oOQw8yGLUvKgxcc6C6qw7"
       },
@@ -3920,6 +3974,24 @@
       "duration_ms": 213250,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W"
+    },
+    {
+      "album": {
+        "name": "You Remind Me",
+        "url": "https://open.spotify.com/album/5qZFI54oVdsH0fJhfI29e3"
+      },
+      "artists": [
+        {
+          "name": "Cove-Red",
+          "url": "https://open.spotify.com/artist/5hA7qIuiBOCQ00KHKrIhEX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "You Remind Me",
+      "url": "https://open.spotify.com/track/1fPdjrtSgTZKZnRgLWoZv9"
     },
     {
       "album": {

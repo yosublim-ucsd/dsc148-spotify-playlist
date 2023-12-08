@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,795,508 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,795,709 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Yes](https://open.spotify.com/track/5wJzWIpTjufasyBhPmfPwm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her](https://open.spotify.com/album/4bHTLD05ILfR6xCCSoivGQ) | 3:14 |
 | 100 | [Remember](https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Remember](https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8) | 2:56 |
 
-Snapshot ID: `MCxmZDM0ZDBkY2Y5ODZlY2Q1ZDhiYmZiZWYzYjExMmNlZTEzM2FlZjc3`
+Snapshot ID: `MCxlY2M3MzQwZmMxZWNhYWYxZWEzYTExNDIyYWFiZjIwYTk2NmE5Y2E5`

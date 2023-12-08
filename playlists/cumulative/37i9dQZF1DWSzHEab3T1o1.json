@@ -881,6 +881,28 @@
     },
     {
       "album": {
+        "name": "Neon Future IV",
+        "url": "https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168158,
+      "name": "Maldad",
+      "url": "https://open.spotify.com/track/33R8NSJ3eRCwWsnKDxxTrl"
+    },
+    {
+      "album": {
         "name": "Maldad (with Maluma)",
         "url": "https://open.spotify.com/album/5HpsxOzKIW482MRcfK4K7Z"
       },
@@ -896,7 +918,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 168158,
       "name": "Maldad (with Maluma)",
       "url": "https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD"

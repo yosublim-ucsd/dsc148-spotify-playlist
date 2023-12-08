@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 434826,
+  "num_followers": 434850,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTc4MDUwYzliZTEwMDE2Njk3NmFmNjRhODQxZGY2MjFlN2FiYmIw",
+  "snapshot_id": "MCwxNjdiNmNmMWYzYmM1ZjRkMzllMGU3OTc1M2VjNzliNDg1MjhjNDE2",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -275,18 +275,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "solo (vol. 1)",
-        "url": "https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q"
+        "name": "Zangadinha",
+        "url": "https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC"
       },
       "artists": [
         {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 189250,
-      "name": "de volta pra casa",
-      "url": "https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ"
+      "duration_ms": 156635,
+      "name": "Zangadinha",
+      "url": "https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -307,22 +311,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Zangadinha",
-        "url": "https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC"
+        "name": "solo (vol. 1)",
+        "url": "https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
         }
       ],
-      "duration_ms": 156635,
-      "name": "Zangadinha",
-      "url": "https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM"
+      "duration_ms": 189250,
+      "name": "de volta pra casa",
+      "url": "https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -711,6 +711,46 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Cortejo",
+        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 169250,
+      "name": "Cortejo",
+      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Bem Me Queira",
+        "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        },
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 145377,
+      "name": "Bem Me Queira",
+      "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Pelo mundo",
         "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
       },
@@ -739,26 +779,6 @@
       "duration_ms": 175018,
       "name": "Se Me Ver",
       "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Bem Me Queira",
-        "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        },
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 145377,
-      "name": "Bem Me Queira",
-      "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -795,22 +815,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Me Leve",
         "url": "https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr"
       },
@@ -823,6 +827,22 @@
       "duration_ms": 225833,
       "name": "Me Leve",
       "url": "https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -863,26 +883,6 @@
       "duration_ms": 148330,
       "name": "N\u00e3o Me Chame Mais De Ex",
       "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Cortejo",
-        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 169250,
-      "name": "Cortejo",
-      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "(N\u00e3o \u00e9 s\u00f3 mais) um \u00e1lbum de amor",
         "url": "https://open.spotify.com/album/6R4yxWvIdwfjNTIImLyScs"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 161496,
       "name": "Devagar",
       "url": "https://open.spotify.com/track/4Ywyxnxif8qSaOoD0aKMGO"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "deixa eu me perder",
-        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
-      },
-      "artists": [
-        {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "deixa eu me perder",
-      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Tela Crua",
         "url": "https://open.spotify.com/album/2jeDKTduy4R3kG2gVgTjVC"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 225501,
       "name": "Tela Crua",
       "url": "https://open.spotify.com/track/3w7DZzCH9557MSCAcC3AHL"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "deixa eu me perder",
+        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "deixa eu me perder",
+      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Tenta",
-        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        },
-        {
-          "name": "Annalu",
-          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Tenta",
-      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "JOVEM (DELUXE)",
         "url": "https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 174873,
       "name": "colorida",
       "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Tenta",
+        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        },
+        {
+          "name": "Annalu",
+          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Tenta",
+      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Amanheceu Assim",
-        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9fano Ferraz",
-          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "Amanheceu Assim",
-      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Cora\u00e7\u00e3o/Movimento",
         "url": "https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T"
       },
@@ -1451,22 +1435,6 @@
       "duration_ms": 187428,
       "name": "Quero te dar meu cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Sintomas de Saudade",
-        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Sintomas de Saudade",
-      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1487,6 +1455,38 @@
       "duration_ms": 156629,
       "name": "Amar\u00e9",
       "url": "https://open.spotify.com/track/5cmMXwBZQWWtjPRcl3Boc3"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Amanheceu Assim",
+        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9fano Ferraz",
+          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
+        }
+      ],
+      "duration_ms": 204935,
+      "name": "Amanheceu Assim",
+      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Sintomas de Saudade",
+        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 194478,
+      "name": "Sintomas de Saudade",
+      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
     },
     {
       "added_at": "2023-12-01 03:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=4-pnZ4abSOeO33A8uE0ppw\">Fokofpolisiekar</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi?si=mzpc0FFRSMmhOyHHh_XGng\">RAAF</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 162810,
       "name": "#23",
       "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 145694,
       "name": "Almal Baklei",
       "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 194547,
       "name": "Apollo Motel",
       "url": "https://open.spotify.com/track/03omYk1VNwgCdeu72j9zEZ"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 332696,
       "name": "Big Mistakes",
       "url": "https://open.spotify.com/track/3f5MFKBb6aRheW6IpSn5qw"
@@ -1452,6 +1452,24 @@
       "duration_ms": 175438,
       "name": "Didn't Want To Fall In Love With You - Radio Edit",
       "url": "https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s"
+    },
+    {
+      "album": {
+        "name": "Dans Deur Die Donker",
+        "url": "https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189941,
+      "name": "Die Goeie Ou Dae",
+      "url": "https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D"
     },
     {
       "album": {
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 232066,
       "name": "Haunting You",
       "url": "https://open.spotify.com/track/0lIUqLV6zqnyRl7cPPhj9u"
@@ -2961,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "INTERNET ROCKSTAR",
+        "url": "https://open.spotify.com/album/2pCcEeO9WHERPNzdemOnVr"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Brogan the band",
+          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160135,
+      "name": "INTERNET ROCKSTAR",
+      "url": "https://open.spotify.com/track/2T7Lk6O1Op9IiYzGJQ4aXJ"
+    },
+    {
+      "album": {
         "name": "Invisible Visitor",
         "url": "https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP"
       },
@@ -2994,6 +3034,24 @@
       "duration_ms": 203048,
       "name": "Invisible Walls",
       "url": "https://open.spotify.com/track/1eQRPJcdoX8D4nbnxPlJX1"
+    },
+    {
+      "album": {
+        "name": "ISO",
+        "url": "https://open.spotify.com/album/25EOl6GdkEV6xilN5S7ghr"
+      },
+      "artists": [
+        {
+          "name": "TRIIIP",
+          "url": "https://open.spotify.com/artist/2GGLj4Ng4Yawj7oj18QCzA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225117,
+      "name": "ISO",
+      "url": "https://open.spotify.com/track/2crUqw80TRpgHwQ3XrxcyH"
     },
     {
       "album": {
@@ -3684,6 +3742,24 @@
       "duration_ms": 314679,
       "name": "Millions of Us - Part 2",
       "url": "https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS"
+    },
+    {
+      "album": {
+        "name": "Miss Demeanour",
+        "url": "https://open.spotify.com/album/7bwBgt4WywsawL0mMQ5g5Y"
+      },
+      "artists": [
+        {
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191978,
+      "name": "Miss Demeanour",
+      "url": "https://open.spotify.com/track/2GbdaRIjEkcjN2sivNUYSl"
     },
     {
       "album": {
@@ -4449,6 +4525,24 @@
     },
     {
       "album": {
+        "name": "Prediker",
+        "url": "https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292771,
+      "name": "Prediker",
+      "url": "https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G"
+    },
+    {
+      "album": {
         "name": "Prisoner of Love",
         "url": "https://open.spotify.com/album/3LH67r1FHNlrDCr0adjRBA"
       },
@@ -4680,6 +4774,28 @@
       "duration_ms": 170896,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
+    },
+    {
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6AX7duuUmGSxA2GV0QdsTh"
+      },
+      "artists": [
+        {
+          "name": "Flat Stanley",
+          "url": "https://open.spotify.com/artist/2N30x8D6x2qXCI8dr7s0J2"
+        },
+        {
+          "name": "Mac Stanley",
+          "url": "https://open.spotify.com/artist/72yw92ZbF6erG4xPviBX2R"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243620,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0TFdmmMFx0KtMThDCnINHP"
     },
     {
       "album": {
@@ -5672,7 +5788,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 211227,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF"
@@ -5980,7 +6096,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 175619,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM"
@@ -6224,6 +6340,24 @@
       "duration_ms": 161313,
       "name": "Toxic Memories",
       "url": "https://open.spotify.com/track/70Vz80OyLKa5UrChrI3ewd"
+    },
+    {
+      "album": {
+        "name": "Twak In Die Sak",
+        "url": "https://open.spotify.com/album/4sQIxY95sJP8RyIx17tVsh"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148114,
+      "name": "Twak In Die Sak",
+      "url": "https://open.spotify.com/track/0kBHPLX0L9okVxNzaBOhW1"
     },
     {
       "album": {

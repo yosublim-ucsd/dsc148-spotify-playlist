@@ -2,9 +2,9 @@
 
 ### [Voces Añejas de Iberoamérica](https://open.spotify.com/playlist/37i9dQZF1DWYtLQ6jk5kQG)
 
-> Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
+> Celebramos las voces extraordinarias del siglo XX, con Raphael en portada.
 
-112 songs - 6 hr 48 min
+113 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Mary Es Mi Amor](https://open.spotify.com/track/0xAEgTHXmtY1UbHO6w1QN2) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/4azTPxPIIFJlPpG0TrIng4) | 3:08 | 2022-01-28 | 2022-11-13 |
 | [Mary Es Mi Amor](https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:12 | 2022-01-28 |  |
 | [Mary Es Mi Amor](https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Leo Dan Cronología \- Triunfador De América \(1971\)](https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF) | 3:12 | 2022-01-28 | 2022-07-29 |
+| [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 2:54 | 2023-12-07 |  |
 | [Me Olvide De Vivir](https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:52 | 2022-01-28 |  |
 | [Mediterraneo](https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 3:25 | 2022-01-28 |  |
 | [Melina](https://open.spotify.com/track/3RhvIbIMHJqUarymFi2Ax3) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Numero 1](https://open.spotify.com/album/0piqRAcsBKF2if4vmlBnsA) | 2:44 | 2022-01-28 | 2022-11-13 |

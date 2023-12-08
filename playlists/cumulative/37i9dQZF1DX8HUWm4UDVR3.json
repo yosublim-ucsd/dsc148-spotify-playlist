@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ad\u00e9",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Pierre de Maere",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -696,7 +696,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 179920,
       "name": "Honn\u00eate",
       "url": "https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx"
@@ -1478,6 +1478,24 @@
       "duration_ms": 163106,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu"
+    },
+    {
+      "album": {
+        "name": "QUAND LA NUIT TOMBE",
+        "url": "https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "QUAND LA NUIT TOMBE",
+      "url": "https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY"
     },
     {
       "album": {

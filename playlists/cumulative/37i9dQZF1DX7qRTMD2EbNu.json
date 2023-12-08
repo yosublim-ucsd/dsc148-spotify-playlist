@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=b58foJ64RBKLJKWWf8O7qQ\"> M.anifest</a>  ",
+  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=I_2getjJRpygLbICxn8L5Q\"> Sarkodie</a>  ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -300,6 +300,24 @@
       "duration_ms": 274951,
       "name": "Accra (feat. Akan)",
       "url": "https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N"
+    },
+    {
+      "album": {
+        "name": "ACTIVE",
+        "url": "https://open.spotify.com/album/3DbKlFlBI0yjzjTOYJIgKR"
+      },
+      "artists": [
+        {
+          "name": "Zotto",
+          "url": "https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182621,
+      "name": "ACTIVE",
+      "url": "https://open.spotify.com/track/4P0NCS7lV5u4fOvIuXxVI0"
     },
     {
       "album": {
@@ -692,7 +710,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 183600,
       "name": "atross",
       "url": "https://open.spotify.com/track/0IY5XAa2sinzz6cGPs3VBo"
@@ -820,7 +838,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 134345,
       "name": "Balance",
       "url": "https://open.spotify.com/track/5NSGjfOerhb9aQtQtKLyC5"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 120421,
       "name": "BULLET PROOF",
       "url": "https://open.spotify.com/track/0OaJatDVXthF1VDJ5hjunR"
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 255625,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/4zqdtPIc97mJNiDn7wGevB"
@@ -1200,6 +1218,24 @@
       "duration_ms": 192004,
       "name": "Call My Name (Odoyewu)",
       "url": "https://open.spotify.com/track/661N1vOxyokH5dQwNqlryC"
+    },
+    {
+      "album": {
+        "name": "Calvary",
+        "url": "https://open.spotify.com/album/66dkLgp7AaQwXoXl99mFcv"
+      },
+      "artists": [
+        {
+          "name": "Exo Xan",
+          "url": "https://open.spotify.com/artist/3C80ZUchP2UgtoRIeZey5E"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174618,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/69ejQMP0zgomw1bolTsdrJ"
     },
     {
       "album": {
@@ -1634,7 +1670,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 138390,
       "name": "D.N.D",
       "url": "https://open.spotify.com/track/6kdYEpC7B7I76yz6ETGwgr"
@@ -2391,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "FEATURES",
+        "url": "https://open.spotify.com/album/3Ns2QcqBKv6IbenFmPP0Bi"
+      },
+      "artists": [
+        {
+          "name": "Jaleel Thomas",
+          "url": "https://open.spotify.com/artist/3p527f59GZVV7u3bgsE8kZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131908,
+      "name": "FEATURES",
+      "url": "https://open.spotify.com/track/20KFpjdNFUpEMHmnMgLbjs"
+    },
+    {
+      "album": {
         "name": "Road To DND (The Prelude)",
         "url": "https://open.spotify.com/album/71zMrlUTmx1ABRfh7kbc7p"
       },
@@ -2498,6 +2552,24 @@
       "duration_ms": 161666,
       "name": "Fine",
       "url": "https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9"
+    },
+    {
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4YJxiU98oIImqFmuqsT0ng"
+      },
+      "artists": [
+        {
+          "name": "Delis",
+          "url": "https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118531,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/0tVYiZ24VNX1qkneRl9R5C"
     },
     {
       "album": {
@@ -4240,7 +4312,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 118153,
       "name": "LUV THY BROTHER AS THY SELF",
       "url": "https://open.spotify.com/track/42HJiaqkS0jPlljIEcmWWK"
@@ -4655,6 +4727,28 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160888,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/68kLBc1qUai4uAkO6tbKkW"
+    },
+    {
+      "album": {
         "name": "Muntashi",
         "url": "https://open.spotify.com/album/6U0FDsijUBOM1IrraXxBeK"
       },
@@ -4670,7 +4764,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 158371,
       "name": "Muntashi",
       "url": "https://open.spotify.com/track/23qrtEsnizy2O5v6Tr8MJQ"
@@ -4830,7 +4924,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 140125,
       "name": "No Luck",
       "url": "https://open.spotify.com/track/2RVzvB89Lst4inD4pUcnKJ"
@@ -4954,7 +5048,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 190000,
       "name": "Non Profit",
       "url": "https://open.spotify.com/track/1jm90gGyR0lfbCwH5sJJIc"
@@ -5482,6 +5576,24 @@
       "duration_ms": 234800,
       "name": "Only Jah",
       "url": "https://open.spotify.com/track/4GYeAKJryDUpmIFiwwzRw7"
+    },
+    {
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
     },
     {
       "album": {
@@ -6058,7 +6170,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 192008,
       "name": "Running",
       "url": "https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr"
@@ -6080,6 +6192,32 @@
       "duration_ms": 153598,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/7nThzzr76eRvp0uPWxcgMm"
+    },
+    {
+      "album": {
+        "name": "Sake Of Money Pt 2",
+        "url": "https://open.spotify.com/album/3aN2PJw8GkUH4nbnENkDmI"
+      },
+      "artists": [
+        {
+          "name": "Bayku",
+          "url": "https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK"
+        },
+        {
+          "name": "Kwaku T",
+          "url": "https://open.spotify.com/artist/78AuL47blp2sCmfMTxolHb"
+        },
+        {
+          "name": "DJ Kofi",
+          "url": "https://open.spotify.com/artist/4tBkKC4SEvrcSfiY3ekOyK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140632,
+      "name": "Sake Of Money Pt 2",
+      "url": "https://open.spotify.com/track/59QZ7yUyXrENUrjaOwUkvp"
     },
     {
       "album": {
@@ -6562,7 +6700,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 139636,
       "name": "Split Conscience",
       "url": "https://open.spotify.com/track/0oWlEKQyapkqEJLYRa5BeM"
@@ -6952,7 +7090,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 144922,
       "name": "The Harvest - Ghanaian Stallion Remix",
       "url": "https://open.spotify.com/track/5LMnl5fGGfgoMl59aRFMXu"

@@ -4,11 +4,12 @@
 
 > Soft and calm renditions of songs for harp.
 
-242 songs - 6 hr 38 min
+243 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child's Legend](https://open.spotify.com/track/6kiYpTu6ZPzJMxu5iHVSkN) | [Abbey Browler](https://open.spotify.com/artist/1kGFfC3m4AXxgjEldPHcM4) | [A Child's Legend](https://open.spotify.com/album/0U4OUGtb7MY2zt8Yn8mYzY) | 1:33 | 2021-11-11 | 2023-05-19 |
+| [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/6EPgYJrkrl8f228tEXhKcf) | [Divine Dana](https://open.spotify.com/artist/42avXwk7bYkSv0b9NBOhhm) | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/album/5spi6T2rtCXbrIZDIYHfyq) | 1:48 | 2023-12-08 |  |
 | [A Glass of Milk](https://open.spotify.com/track/626KaEupEkq0EgYnwI6dH5) | [Beverly Cantrell](https://open.spotify.com/artist/2ixd56Ho7BJEA3eigxgXT4) | [A Glass of Milk](https://open.spotify.com/album/7A0qy0QZunqfBzEi5cr3D5) | 1:41 | 2021-11-11 |  |
 | [A House on the Prairie](https://open.spotify.com/track/0d9XVdHfqT8HDxK1dVK4yy) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [A House on the Prairie](https://open.spotify.com/album/3xOr5J8QYzF9IjmTU8Zydu) | 1:44 | 2021-11-11 | 2023-02-18 |
 | [A La Nanita Nana](https://open.spotify.com/track/3yxBmeBq6F5PbqO88oFkiA) | [Salma Bolea](https://open.spotify.com/artist/1oSv4SByCh3CRXwj2105DM) | [A La Nanita Nana](https://open.spotify.com/album/2MtH0Qqtm7xIXiqvpkDpWm) | 1:54 | 2021-11-11 | 2023-04-21 |

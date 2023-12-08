@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 565760,
+  "num_followers": 565927,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTEwYWM0NzdlZmNmNjJlYzU5MzFlNTI4YTBjMDljNjliMGUwZmVk",
+  "snapshot_id": "MCxhNzQyNjczM2YzYWNiODM4OWVlOTk0YjBmNzAyMDg5NWM5YTFhYzU2",
   "tracks": [
     {
       "added_at": "2023-12-01 17:43:10",
@@ -1311,42 +1311,6 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
-        "name": "Tranka",
-        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 164323,
-      "name": "Tranka",
-      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
         "name": "EXCUSAS (feat. Dj Lauuh)",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
@@ -1371,6 +1335,42 @@
       "duration_ms": 221333,
       "name": "EXCUSAS (feat. Dj Lauuh)",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
+        "name": "Tranka",
+        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 164323,
+      "name": "Tranka",
+      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        },
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "38",
         "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 161000,
       "name": "38",
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        },
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "Rompelo Ah\u00ed",
+        "url": "https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt"
+      },
+      "artists": [
+        {
+          "name": "Los Nota Lokos",
+          "url": "https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ"
+        }
+      ],
+      "duration_ms": 153512,
+      "name": "Sexy Soltera",
+      "url": "https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "Gancia y Limon",
         "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 233314,
       "name": "Gancia y Limon",
       "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "Rompelo Ah\u00ed",
-        "url": "https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt"
-      },
-      "artists": [
-        {
-          "name": "Los Nota Lokos",
-          "url": "https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ"
-        }
-      ],
-      "duration_ms": 153512,
-      "name": "Sexy Soltera",
-      "url": "https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -2035,26 +2035,18 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
-        "name": "Mirame a la Cara 2",
-        "url": "https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX"
+        "name": "CD3",
+        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
       },
       "artists": [
         {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        },
-        {
-          "name": "Niko Falero",
-          "url": "https://open.spotify.com/artist/2XEkeHFfw9gjyrL2Qoi0vj"
-        },
-        {
-          "name": "Treekoo",
-          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
         }
       ],
-      "duration_ms": 191788,
-      "name": "Mirame a La Cara 2",
-      "url": "https://open.spotify.com/track/03e0QOtYjB7yg2eZ5mPSYG"
+      "duration_ms": 149159,
+      "name": "El Arca De Noe",
+      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -2071,22 +2063,6 @@
       "duration_ms": 238933,
       "name": "La Jarra Loca",
       "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "CD3",
-        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
-      },
-      "artists": [
-        {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
-        }
-      ],
-      "duration_ms": 149159,
-      "name": "El Arca De Noe",
-      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -2115,6 +2091,30 @@
       "duration_ms": 155368,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
+        "name": "Mirame a la Cara 2",
+        "url": "https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        },
+        {
+          "name": "Niko Falero",
+          "url": "https://open.spotify.com/artist/2XEkeHFfw9gjyrL2Qoi0vj"
+        },
+        {
+          "name": "Treekoo",
+          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
+        }
+      ],
+      "duration_ms": 191788,
+      "name": "Mirame a La Cara 2",
+      "url": "https://open.spotify.com/track/03e0QOtYjB7yg2eZ5mPSYG"
     },
     {
       "added_at": "2023-12-01 17:43:10",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2023-12-01 17:43:10",
       "album": {
+        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
+        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Fog\u00f3n",
+      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
+    },
+    {
+      "added_at": "2023-12-01 17:43:10",
+      "album": {
         "name": "ROMPE",
         "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 193989,
       "name": "ROMPE",
       "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
-    },
-    {
-      "added_at": "2023-12-01 17:43:10",
-      "album": {
-        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
-        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Fog\u00f3n",
-      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2023-12-01 17:43:10",

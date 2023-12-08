@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Meryl",
+  "description": "Les hits dancehall du moment. Photo : Jahlys",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -794,6 +794,24 @@
       "duration_ms": 175521,
       "name": "Bend It Over",
       "url": "https://open.spotify.com/track/4kx5UasR27nS6Bw6huHhj1"
+    },
+    {
+      "album": {
+        "name": "Bi",
+        "url": "https://open.spotify.com/album/3wIRgjXeN15DvUkmcS9qzV"
+      },
+      "artists": [
+        {
+          "name": "Olivyah",
+          "url": "https://open.spotify.com/artist/1RWFgAXpkRkDhovaib8Bt5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136813,
+      "name": "Bi",
+      "url": "https://open.spotify.com/track/4RUfwj2WJtQ0G7Lp6mOPGy"
     },
     {
       "album": {
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 229451,
       "name": "Friendzone",
       "url": "https://open.spotify.com/track/5AWWQyAsqtjov0hogzafxE"
@@ -6365,6 +6383,28 @@
     },
     {
       "album": {
+        "name": "Tous Les Ken",
+        "url": "https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK"
+      },
+      "artists": [
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        },
+        {
+          "name": "Elji",
+          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "Tous Les Ken",
+      "url": "https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE"
+    },
+    {
+      "album": {
         "name": "Baby project",
         "url": "https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO"
       },
@@ -6636,7 +6676,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 162666,
       "name": "V6",
       "url": "https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX"

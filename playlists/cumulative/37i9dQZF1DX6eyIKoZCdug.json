@@ -109,6 +109,24 @@
     },
     {
       "album": {
+        "name": "Absurdity",
+        "url": "https://open.spotify.com/album/5zZRTJhOqqAtPHDRt43IRd"
+      },
+      "artists": [
+        {
+          "name": "Chunda Munki",
+          "url": "https://open.spotify.com/artist/1f26k7c9PMYcGiHiIKuhx0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375495,
+      "name": "Absurdity",
+      "url": "https://open.spotify.com/track/7zf5PtZ6ehnbz8gvXXb5GC"
+    },
+    {
+      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 468979,
       "name": "Amplified Zone",
       "url": "https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86"
@@ -194,6 +212,24 @@
       "duration_ms": 444521,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/2RNQtNViN1cvRUcOSKm8S2"
+    },
+    {
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/02CuyRkS6NjTil1vI6Dk1d"
+      },
+      "artists": [
+        {
+          "name": "Blanka Mazimela",
+          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427993,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/7HEAAxdGcMiuXRRLSLeRxn"
     },
     {
       "album": {
@@ -326,7 +362,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 412350,
       "name": "Break Through",
       "url": "https://open.spotify.com/track/19mFJSm6EbG0CqP5WbYIBT"
@@ -414,7 +450,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 359014,
       "name": "Crazy Vibez",
       "url": "https://open.spotify.com/track/2nwXM9eHzj8eQBsuK9osbL"
@@ -528,6 +564,32 @@
       "duration_ms": 356307,
       "name": "Domain",
       "url": "https://open.spotify.com/track/3q0RRZSKh6RLScohpqgjNF"
+    },
+    {
+      "album": {
+        "name": "Don't Wake Up (Citizen Blaq Mix) (feat. Sir Trill)",
+        "url": "https://open.spotify.com/album/0ot7uPauEdSTO2iwWfAdCX"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333250,
+      "name": "Don't Wake Up (Citizen Blaq Mix) (feat. Sir Trill)",
+      "url": "https://open.spotify.com/track/577gR2DoV0c6ZUtkRRo36g"
     },
     {
       "album": {
@@ -682,6 +744,28 @@
       "duration_ms": 475651,
       "name": "Fool Me",
       "url": "https://open.spotify.com/track/1X1IDV1HeEMqpPkKnt1Srx"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3w9NkVTOW9G5pkw4l4AYQ3"
+      },
+      "artists": [
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242182,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0obPwk1OrhPBYXKLfOqRl6"
     },
     {
       "album": {
@@ -1620,7 +1704,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 426289,
       "name": "MOB TIES",
       "url": "https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn"
@@ -2180,6 +2264,32 @@
       "duration_ms": 336638,
       "name": "Saliya Dub",
       "url": "https://open.spotify.com/track/2B8nRDOXsRrH2bQIw8DUr5"
+    },
+    {
+      "album": {
+        "name": "Chuki",
+        "url": "https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8"
+      },
+      "artists": [
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460250,
+      "name": "Samaria",
+      "url": "https://open.spotify.com/track/7JMuksslJfcxK6ZQeQEkW8"
     },
     {
       "album": {
@@ -2807,6 +2917,28 @@
     },
     {
       "album": {
+        "name": "Taru",
+        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399661,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
+    },
+    {
+      "album": {
         "name": "Vumani",
         "url": "https://open.spotify.com/album/6ebtxzQZG0o22JkfFY8t1B"
       },
@@ -2880,7 +3012,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 215536,
       "name": "Werkhom 2.0 (Bonus Track)",
       "url": "https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR"
@@ -2902,7 +3034,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 292886,
       "name": "Where\u2019s Your Father",
       "url": "https://open.spotify.com/track/3XeBivr42lfpYyL3XLjvzj"
@@ -2920,7 +3052,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 281364,
       "name": "Which is Which",
       "url": "https://open.spotify.com/track/7K91DUq99r3KisZTWfwP97"
@@ -3061,6 +3193,32 @@
     },
     {
       "album": {
+        "name": "Yaze Yamnandi",
+        "url": "https://open.spotify.com/album/7qhOVWZl80LdsOpAsc5eHc"
+      },
+      "artists": [
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Deep Narratives",
+          "url": "https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439633,
+      "name": "Yaze Yamnandi",
+      "url": "https://open.spotify.com/track/1KvukmWKoW88NnECROFg2y"
+    },
+    {
+      "album": {
         "name": "ZoTata (feat. Mr JazziQ)",
         "url": "https://open.spotify.com/album/3lIYj6or2ld1pZHNWs6D7G"
       },
@@ -3084,7 +3242,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 453409,
       "name": "ZoTata (feat. Mr JazziQ)",
       "url": "https://open.spotify.com/track/13Z8di7Br7OsZn5GmtesIf"

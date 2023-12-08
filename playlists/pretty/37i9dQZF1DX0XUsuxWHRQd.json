@@ -1,12 +1,12 @@
 {
   "description": "Music Jack Harlow, Drake and Sexyy Red. ",
-  "num_followers": 15700311,
+  "num_followers": 15702505,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTIwYTAyNjkxMDMxZjM0ODMzZWE4ZmFjNTYyMGQzMWZhM2UxMmJk",
+  "snapshot_id": "MCxmMDRiYmE5MmU0MjNkZDQyMzY1YTNmZWQ5OTg4M2NlMWViNTdjYmM4",
   "tracks": [
     {
       "added_at": "2023-12-01 20:25:30",
@@ -179,6 +179,30 @@
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "added_at": "2023-12-07 15:54:42",
+      "album": {
+        "name": "Wake Up in the Sky",
+        "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 204664,
+      "name": "Wake Up in the Sky",
+      "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
     },
     {
       "added_at": "2023-12-01 20:25:30",

@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-260 songs - 15 hr 41 min
+261 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2022-09-02 | 2022-10-29 |
 | [Extinct Californians](https://open.spotify.com/track/66HpVpcaHGSrujIH9DGObN) | [White Lighters](https://open.spotify.com/artist/0kv3JYkOy6mSRXIOeKvyYs) | [Breaker Boy](https://open.spotify.com/album/4do7zPLmn5NefiFf08KjWi) | 2:59 | 2023-10-31 |  |
 | [f my haterz anthem](https://open.spotify.com/track/6N0mSXLOh1j3agMiCxQlCo) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ), [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77), [Sweatcult](https://open.spotify.com/artist/31412uPiG5Il6jKLs4u2C4) | [f my haterz anthem](https://open.spotify.com/album/0s3ocpYpZlUtQmfnL6t1u2) | 3:56 | 2023-10-13 |  |
+| [Face of Fear](https://open.spotify.com/track/5TUnjQIjR79TZTjzEAFviu) | [Taraneh](https://open.spotify.com/artist/7IoTiUNmwPOdUCPlNtezaO) | [Face of Fear](https://open.spotify.com/album/4ICpqDJoGNdpbHc76yBVDs) | 4:04 | 2023-12-07 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2022-09-02 | 2022-10-29 |
 | [fade out](https://open.spotify.com/track/2vNgbnSl6VBCQI3S799n6N) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [demosdemos](https://open.spotify.com/album/0tlrRls5bOWqRWaPkr1jGl) | 2:46 | 2023-01-19 | 2023-05-25 |
 | [Fading Strangers](https://open.spotify.com/track/2XF1JdrtOorRbxw02e3tFI) | [Unreality](https://open.spotify.com/artist/18LV0HPxHANRVU6z3L7xKs) | [Fading Strangers](https://open.spotify.com/album/287xZvqs6sT1Sme8GnVkaf) | 3:15 | 2022-09-16 | 2023-09-30 |

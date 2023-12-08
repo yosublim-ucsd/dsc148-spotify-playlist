@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax. ",
-  "num_followers": 511953,
+  "num_followers": 512186,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2MxZDU3ZTQwMmUzZWE0Yjc4OGZhNmEwYzAzMWRmZTc4ZDUxNjAw",
+  "snapshot_id": "MCw0MDgzOGIyMzkzMmQ4Nzc4YzQ0YTM5ZDM4YjZhYjE4MTcyMzk5ZTQ3",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "4 da manh\u00e3",
+        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "4 da manh\u00e3",
+      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 209546,
       "name": "Vilarejo",
       "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "4 da manh\u00e3",
-        "url": "https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "4 da manh\u00e3",
-      "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -543,22 +543,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 189002,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
-      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
+      "duration_ms": 167250,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -579,22 +579,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 167250,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+      "duration_ms": 189002,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
+      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Garotos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 198075,
+      "name": "Garotos II - Ao Vivo",
+      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Varrendo a Lua",
         "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Garotos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 198075,
-      "name": "Garotos II - Ao Vivo",
-      "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
     },
     {
       "added_at": "2023-12-01 03:00:00",

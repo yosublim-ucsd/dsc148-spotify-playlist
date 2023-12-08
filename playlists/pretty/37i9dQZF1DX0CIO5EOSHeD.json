@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: feeble little horse",
-  "num_followers": 461806,
+  "num_followers": 462054,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmZhYTJkYjE1NGM5Yjc5Zjc4ZDJkYjgyZmY1ZThiNGJjZDBiODcx",
+  "snapshot_id": "MCw5ODE2YjAyMjZiZmY5MjQxZDYzYWRkOTU4OTEzZjZkOTFmNDZkY2Q0",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
       "artists": [
         {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 163764,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
+      "duration_ms": 189805,
+      "name": "Looking For Something",
+      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
       "artists": [
         {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
         }
       ],
-      "duration_ms": 189805,
-      "name": "Looking For Something",
-      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
+      "duration_ms": 163764,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Safe House",
         "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 217849,
       "name": "Safe House",
       "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "It's In My Head",
-        "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 181792,
-      "name": "It's In My Head",
-      "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 249968,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "It's In My Head",
+        "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 181792,
+      "name": "It's In My Head",
+      "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
-        "url": "https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Intersection",
-      "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
+        "url": "https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Intersection",
+      "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "I Clung to You Hoping We'd Both Drown",
-        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
-      },
-      "artists": [
-        {
-          "name": "Flatsound",
-          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
-        }
-      ],
-      "duration_ms": 171261,
-      "name": "My Heart Goes Bum Bum Bum",
-      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 203444,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "I Clung to You Hoping We'd Both Drown",
+        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "duration_ms": 171261,
+      "name": "My Heart Goes Bum Bum Bum",
+      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "KPR",
-        "url": "https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 213002,
-      "name": "KPR",
-      "url": "https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
       },
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "it only gets worse, i promise",
-        "url": "https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj"
+        "name": "KPR",
+        "url": "https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 154640,
-      "name": "it only gets worse, i promise",
-      "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
+      "duration_ms": 213002,
+      "name": "KPR",
+      "url": "https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Peach Tinted",
+        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+      },
+      "artists": [
+        {
+          "name": "peach tinted",
+          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Peach Tinted",
-        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+        "name": "it only gets worse, i promise",
+        "url": "https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj"
       },
       "artists": [
         {
-          "name": "peach tinted",
-          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
+      "duration_ms": 154640,
+      "name": "it only gets worse, i promise",
+      "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Forever at Last",
+        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "New York, Paris and London",
+      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Jelsy",
         "url": "https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Forever at Last",
-        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
-      },
-      "artists": [
-        {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "New York, Paris and London",
-      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2023-12-02 02:07:22",

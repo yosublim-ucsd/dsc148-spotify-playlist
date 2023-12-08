@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135672,
+  "num_followers": 135686,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWIzYzMxMjMyZWFiZDg0MTcyMTllNWNmYzY2NGRhNDc5ODNkMjRl",
+  "snapshot_id": "MCw1OGI3ZTA4NWIyNTA0ZDE2YjFkOTE3MWFiMmFjY2RmMjk2ZTM0OGQ5",
   "tracks": [
     {
       "added_at": "2023-12-01 03:01:00",
@@ -347,6 +347,34 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -383,26 +411,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Sem Compaix\u00e3o",
-        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -431,30 +439,22 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "Sem Compaix\u00e3o",
+        "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
           "name": "Leviano",
           "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Um Toque de Malandragem",
-        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ensinamento do Pai",
-      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/6tGQ5RuoGC9jYuiVVLWBMo"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Um Toque de Malandragem",
+        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ensinamento do Pai",
+      "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -719,30 +719,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "X6",
-        "url": "https://open.spotify.com/album/0udOR3FWCWME2YWiQE3etx"
-      },
-      "artists": [
-        {
-          "name": "Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -771,86 +747,26 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+        "name": "X6",
+        "url": "https://open.spotify.com/album/0udOR3FWCWME2YWiQE3etx"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
         }
       ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
-      },
-      "artists": [
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 221102,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Gato Preto",
-      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
+      "duration_ms": 132413,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -879,6 +795,90 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Gato Preto",
+      "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Entre F\u00e3 e a Luana",
+      "url": "https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
         "name": "BLOCKO",
         "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
       },
@@ -1067,30 +1091,6 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Entre F\u00e3 e a Luana",
-      "url": "https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
         "name": "FREDDIE MERCURY",
         "url": "https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx"
       },
@@ -1143,6 +1143,26 @@
       "duration_ms": 146399,
       "name": "MADDY",
       "url": "https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
+        "name": "Bem Vindo Natal Mixtape 2",
+        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Sa\u00ed da Biqueira",
+      "url": "https://open.spotify.com/track/7DOJ3635MnSx8Q7HMOtog1"
     },
     {
       "added_at": "2023-12-01 03:01:00",
@@ -1203,26 +1223,6 @@
       "duration_ms": 363145,
       "name": "TAMBOR",
       "url": "https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
-        "name": "Bem Vindo Natal Mixtape 2",
-        "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Sa\u00ed da Biqueira",
-      "url": "https://open.spotify.com/track/7DOJ3635MnSx8Q7HMOtog1"
     },
     {
       "added_at": "2023-12-01 03:01:00",

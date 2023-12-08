@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: Elephant Gym (Taiwan)",
-  "num_followers": 88751,
+  "num_followers": 88800,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjI2ZDgyYzJiMTA4MTYwMGU1YzExMDE5MWNkZThlMmMyMzg2ZDBk",
+  "snapshot_id": "MCxmZGMwYjNlMGRjZjViZWVkYjllY2ZlN2VlZjkwYjQxNjNkMGZiODFi",
   "tracks": [
     {
       "added_at": "2023-11-30 17:03:28",
@@ -165,7 +165,7 @@
         }
       ],
       "duration_ms": 206408,
-      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14",
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14 (Crush)",
       "url": "https://open.spotify.com/track/2576NYcj8CX3LupLcdNDVI"
     },
     {
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Do The Dance",
-        "url": "https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza"
+        "name": "Grape Soda",
+        "url": "https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z"
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
         }
       ],
-      "duration_ms": 242466,
-      "name": "Do The Dance",
-      "url": "https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh"
+      "duration_ms": 215172,
+      "name": "Grape Soda",
+      "url": "https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Grape Soda",
-        "url": "https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z"
+        "name": "Do The Dance",
+        "url": "https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza"
       },
       "artists": [
         {
-          "name": "Gabe Watkins",
-          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Grape Soda",
-      "url": "https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH"
+      "duration_ms": 242466,
+      "name": "Do The Dance",
+      "url": "https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "love is growing",
-        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
-      },
-      "artists": [
-        {
-          "name": "Plastic Plastic",
-          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
-        }
-      ],
-      "duration_ms": 178422,
-      "name": "love is growing",
-      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
         "name": "Strangers In The Night",
         "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 235931,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "love is growing",
+        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
+      },
+      "artists": [
+        {
+          "name": "Plastic Plastic",
+          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
+        }
+      ],
+      "duration_ms": 178422,
+      "name": "love is growing",
+      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 273662,
+      "name": "Birdy",
+      "url": "https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
         "name": "Chaos Calls",
         "url": "https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
-        "name": "venus",
-        "url": "https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 250105,
-      "name": "venus",
-      "url": "https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1487,34 +1487,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
+        "name": "venus",
+        "url": "https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
         }
       ],
-      "duration_ms": 273662,
-      "name": "Birdy",
-      "url": "https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
-        "name": "trippin",
-        "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "trippin",
-      "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
+      "duration_ms": 250105,
+      "name": "venus",
+      "url": "https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1531,6 +1515,22 @@
       "duration_ms": 181000,
       "name": "Highteen",
       "url": "https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "trippin",
+        "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 178252,
+      "name": "trippin",
+      "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1555,22 +1555,6 @@
       "duration_ms": 206769,
       "name": "Vast - ANNA Remix",
       "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
-    },
-    {
-      "added_at": "2023-11-30 17:03:28",
-      "album": {
-        "name": "\uff18",
-        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 216674,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1603,6 +1587,22 @@
       "duration_ms": 170000,
       "name": "Different Shade of Blue",
       "url": "https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH"
+    },
+    {
+      "added_at": "2023-11-30 17:03:28",
+      "album": {
+        "name": "\uff18",
+        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "duration_ms": 216674,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "GLOOMY BOOGIE Vol. 1",
-        "url": "https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5"
+        "name": "WATER COMES OUT OF MY EYES",
+        "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
       },
       "artists": [
         {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        },
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
         }
       ],
-      "duration_ms": 139591,
-      "name": "Break From The Party",
-      "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
+      "duration_ms": 202945,
+      "name": "water comes out of my eyes",
+      "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
     },
     {
       "added_at": "2023-11-30 17:03:28",
@@ -1675,18 +1679,18 @@
     {
       "added_at": "2023-11-30 17:03:28",
       "album": {
-        "name": "i hate u",
-        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
+        "name": "GLOOMY BOOGIE Vol. 1",
+        "url": "https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5"
       },
       "artists": [
         {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
         }
       ],
-      "duration_ms": 169767,
-      "name": "i hate u",
-      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
+      "duration_ms": 139591,
+      "name": "Break From The Party",
+      "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
     },
     {
       "added_at": "2023-11-30 17:03:28",

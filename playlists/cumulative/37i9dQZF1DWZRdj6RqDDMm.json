@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Able",
+        "url": "https://open.spotify.com/album/1fDflEHY7Tc8MSJClipYmQ"
+      },
+      "artists": [
+        {
+          "name": "JhonforChrist",
+          "url": "https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR"
+        },
+        {
+          "name": "HartlhaD",
+          "url": "https://open.spotify.com/artist/6Yk7U5v34wKHuGQFdT0aAy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165765,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/6ke0delRcd6LPpRb1yxY3G"
+    },
+    {
+      "album": {
         "name": "Verses, Vol. 1",
         "url": "https://open.spotify.com/album/0lVg5lgO6lof4QoqzZ8jRk"
       },
@@ -949,6 +971,24 @@
     },
     {
       "album": {
+        "name": "I'm Grateful (Live)",
+        "url": "https://open.spotify.com/album/4jaJrW5388WekmIDZgQt8z"
+      },
+      "artists": [
+        {
+          "name": "Evans Ogboi",
+          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432258,
+      "name": "I'm Grateful (Live)",
+      "url": "https://open.spotify.com/track/2PZ0PgLrppcVON5sGS0VRE"
+    },
+    {
+      "album": {
         "name": "I'm in Love",
         "url": "https://open.spotify.com/album/35VR01xOmMuijf913ZPfIA"
       },
@@ -1523,6 +1563,28 @@
     },
     {
       "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/52o4SrgD78FtKdtrtCp747"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208031,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg"
+    },
+    {
+      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/0vaGqeqotjImeaBUvBP4mS"
       },
@@ -1930,6 +1992,32 @@
       "duration_ms": 438857,
       "name": "Upperroom (Live)",
       "url": "https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8"
+    },
+    {
+      "album": {
+        "name": "Imithandazo",
+        "url": "https://open.spotify.com/album/0GyboSYthk9iUv8QfsZrcj"
+      },
+      "artists": [
+        {
+          "name": "Mjakes The Producer",
+          "url": "https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ"
+        },
+        {
+          "name": "Bongani Nchang",
+          "url": "https://open.spotify.com/artist/2uBMNWP51MKd2o6a3PtTP0"
+        },
+        {
+          "name": "Khobzn Kiavalla",
+          "url": "https://open.spotify.com/artist/5B0lL1PSlcHTwrzxwyYnMs"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343052,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6JY4EnkudR3Si4OJQcHGmz"
     },
     {
       "album": {

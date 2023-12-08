@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds GSA in 2023\. Cover: Carla Ahad, Artwork: Isu Kim.
 
-974 songs - 2 day 8 hr 40 min
+975 songs - 2 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,8 @@
 | [Love Myself](https://open.spotify.com/track/3dTuEKvxYXm9KtZF0mqCWN) | [Emilie Azaaria](https://open.spotify.com/artist/6UOLnR88pFy4YFlP54g9yD) | [Love Myself](https://open.spotify.com/album/5brvBPPeB1KnBvWNNf5ue4) | 5:14 | 2023-04-12 | 2023-06-01 |
 | [Love No Matter What](https://open.spotify.com/track/3qxO0Z9BUgFQJSiepeipts) | [Asa 808](https://open.spotify.com/artist/2clnQoRMSrsLAHktJx8SHR), [DAEDE](https://open.spotify.com/artist/0ekeOn40DA2papIFXtW7jH) | [Love No Matter What](https://open.spotify.com/album/7ulloStfrEfAIkNXT5SifS) | 4:17 | 2022-10-26 | 2023-01-12 |
 | [Love the game](https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Love the game](https://open.spotify.com/album/7mE7fQb7p35DLUTSfWeVQc) | 2:41 | 2023-09-13 | 2023-11-30 |
-| [Love the game](https://open.spotify.com/track/4fLhgBiJcZqRqxny5Cgbb6) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout](https://open.spotify.com/album/4oaDmYN7wBnCvWwEwvnAXZ) | 2:41 | 2023-11-29 |  |
+| [Love the game](https://open.spotify.com/track/4fLhgBiJcZqRqxny5Cgbb6) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout](https://open.spotify.com/album/4oaDmYN7wBnCvWwEwvnAXZ) | 2:41 | 2023-11-29 | 2023-12-08 |
+| [Love the game](https://open.spotify.com/track/71xizzTz1gW1vyvAaFuSqm) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout \(Bonustrack Version\)](https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb) | 2:41 | 2023-11-29 |  |
 | [Lovehandles](https://open.spotify.com/track/3AsNe3RSFG6V08WBQCBXQN) | [Eli Riccardi](https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg) | [Lovehandles](https://open.spotify.com/album/3eqzCzNCa8zfiT779VdViv) | 2:07 | 2023-04-05 | 2023-06-01 |
 | [Lullaby](https://open.spotify.com/track/5E098JvWYE6cia9YEH3q6T) | [VINTER](https://open.spotify.com/artist/55LYzBVulUhB6GYloNdtUj) | [Lullaby](https://open.spotify.com/album/4l84LnnbwihjgzYKi0Nvzx) | 2:47 | 2022-08-17 | 2022-09-09 |
 | [Mad](https://open.spotify.com/track/682PIF5yaDJ32zxxqusK18) | [May Roze](https://open.spotify.com/artist/3XTrQMCzWBFMGUXlQ94hCa) | [Mad](https://open.spotify.com/album/4zMT8egvuqwvcKuMrmgRoD) | 3:27 | 2022-03-07 | 2022-04-28 |

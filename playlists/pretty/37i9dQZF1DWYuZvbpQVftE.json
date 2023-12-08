@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 21515,
+  "num_followers": 21552,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDUwYjAxYWRlNGIzNjE1YjU4MDFiNDdhMDUzNTEyYTYxNmM3ZTA4",
+  "snapshot_id": "MCw2ZDk2NTc5ODk5YmMwOGNmOWM2MjE3YzI5N2RjMzBmY2UxZTlmMDE4",
   "tracks": [
     {
       "added_at": "2023-11-17 07:20:54",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-11-17 07:20:54",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 338773,
-      "name": "On The Street Where You Live - Instrumental",
-      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
-    },
-    {
-      "added_at": "2023-11-17 07:20:54",
-      "album": {
         "name": "This Is How I Feel About Jazz",
         "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 340773,
       "name": "Stockholm Sweetnin'",
       "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
+    },
+    {
+      "added_at": "2023-11-17 07:20:54",
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 338773,
+      "name": "On The Street Where You Live - Instrumental",
+      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
     },
     {
       "added_at": "2023-11-17 07:20:54",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-11-17 07:20:54",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 379400,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
-    },
-    {
-      "added_at": "2023-11-17 07:20:54",
-      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 257440,
       "name": "Moon Over Cuba",
       "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
+    },
+    {
+      "added_at": "2023-11-17 07:20:54",
+      "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
     },
     {
       "added_at": "2023-11-17 07:20:54",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-17 07:20:54",
       "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Patti Cake",
-      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
-    },
-    {
-      "added_at": "2023-11-17 07:20:54",
-      "album": {
         "name": "Four!",
         "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2023-11-17 07:20:54",
       "album": {
-        "name": "Coop! The Music Of Bob Cooper",
-        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
       },
       "artists": [
         {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
         }
       ],
-      "duration_ms": 261066,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
+      "duration_ms": 361760,
+      "name": "Patti Cake",
+      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
     },
     {
       "added_at": "2023-11-17 07:20:54",
@@ -607,6 +591,22 @@
       "duration_ms": 289360,
       "name": "Blue Steel",
       "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+    },
+    {
+      "added_at": "2023-11-17 07:20:54",
+      "album": {
+        "name": "Coop! The Music Of Bob Cooper",
+        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
+      },
+      "artists": [
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
     },
     {
       "added_at": "2023-11-17 07:20:54",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-11-17 07:20:54",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+        "name": "Monterey Concerts",
+        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
       },
       "artists": [
         {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
+      "duration_ms": 605400,
+      "name": "Walkin' With Wally - live",
+      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
     }
   ],
   "unique_name": "West Coast Jazz",

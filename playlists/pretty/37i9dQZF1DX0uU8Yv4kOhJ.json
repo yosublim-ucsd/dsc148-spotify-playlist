@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127107,
+  "num_followers": 127113,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDliOWFiYTIxZGUxYzdiNTM0NjBmNWVmMTI3OGIyMTc5OGZkZmIy",
+  "snapshot_id": "MCxhZWRiOTIwMWI3MjNmMGFjYTE2NjhjYjliZmRhMDNiYWJhOThkNTQ5",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Astro",
-        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Religar",
-      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 202008,
       "name": "Francisca Pizarro",
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Religar",
+      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Encuentros (Meetings)",
-        "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
-      },
-      "artists": [
-        {
-          "name": "Sukay",
-          "url": "https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "Baila Caporal",
-      "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "No Vuelvo a Amar (feat. Yuri Ortu\u00f1o Le\u00f3n, Rafael Arias Paz, Orlando Jim\u00e9nez, Ra\u00fal Muriel) [Bolivia y Su Folklore]",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Encuentros (Meetings)",
+        "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
+      },
+      "artists": [
+        {
+          "name": "Sukay",
+          "url": "https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "Baila Caporal",
+      "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Morena Esperanza (Remasterizado)",
         "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 266080,
       "name": "Isla Negra",
       "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 317790,
+      "name": "Gente Mariposa",
+      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -739,22 +755,6 @@
       "duration_ms": 208170,
       "name": "Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 317790,
-      "name": "Gente Mariposa",
-      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "La Casa No Existe",
+        "url": "https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 204814,
+      "name": "Ag\u00fcita del Equilibrio",
+      "url": "https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Pu\u00f1ales",
         "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "La Casa No Existe",
-        "url": "https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT"
+        "name": "Pura Flor",
+        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 204814,
-      "name": "Ag\u00fcita del Equilibrio",
-      "url": "https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr"
+      "duration_ms": 237613,
+      "name": "Pura Flor",
+      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -855,26 +871,6 @@
       "duration_ms": 223047,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Viaje de Mixturas",
-        "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
-      },
-      "artists": [
-        {
-          "name": "Paulopulus",
-          "url": "https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo"
-        },
-        {
-          "name": "Juan Luis Pereira",
-          "url": "https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Viaje Andino",
-      "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
     }
   ],
   "unique_name": "Entre los Andes",

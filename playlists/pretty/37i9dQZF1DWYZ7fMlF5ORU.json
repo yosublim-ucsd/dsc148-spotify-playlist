@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 149301,
+  "num_followers": 149367,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDkzZWQ5YWQzZGQxNDg4ODI1N2M2MzI5YTY5NjQwNGFlM2U2Yzcx",
+  "snapshot_id": "MCxiZTFhZmU5YjM3ZTQ4Zjk4M2EyOWI0MWY4YmUxZDc5MDIxNDA5OTVh",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ele Continua Sendo Deus",
-        "url": "https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH"
-      },
-      "artists": [
-        {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
-        }
-      ],
-      "duration_ms": 174098,
-      "name": "V\u00ea Se Vigia",
-      "url": "https://open.spotify.com/track/3R4hCzwQ1qWVxUia5wn7mj"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Deus Cuida de Mim",
         "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 203081,
       "name": "Jeova \u00e9 o Teu Cavaleiro",
       "url": "https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ele Continua Sendo Deus",
+        "url": "https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 174098,
+      "name": "V\u00ea Se Vigia",
+      "url": "https://open.spotify.com/track/3R4hCzwQ1qWVxUia5wn7mj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
+        "name": "Por Amor a Ti",
+        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Banda Salluz",
-          "url": "https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9"
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Alegria do C\u00e9u (feat. Banda Salluz)",
-      "url": "https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS"
+      "duration_ms": 163000,
+      "name": "Medley: Dom Supremo",
+      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -995,18 +991,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Por Amor a Ti",
-        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
       },
       "artists": [
         {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Banda Salluz",
+          "url": "https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Medley: Dom Supremo",
-      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
+      "duration_ms": 222466,
+      "name": "Alegria do C\u00e9u (feat. Banda Salluz)",
+      "url": "https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS"
     },
     {
       "added_at": "2023-10-20 03:00:00",

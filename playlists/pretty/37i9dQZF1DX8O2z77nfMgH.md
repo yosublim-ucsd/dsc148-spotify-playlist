@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,872 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,878 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 56 | [Voltei Pra Cachorrada](https://open.spotify.com/track/2gF0DUT64JEFjqb0PJXj1M) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4PIUg2M3yEkQQFEK0zY0uz) | 2:23 |
 | 57 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 |
 
-Snapshot ID: `MCwxY2Y0NzU5ODk0OTU1MWZmYTc3Zjg3YzhjNWY1MzU3NzA0OWZjMmE0`
+Snapshot ID: `MCw1ZWIwNTBmMjJmMWNiYTE0MjBhMWFmZmE2ZWMyYjQ4ZTFlNjk3ZWIx`

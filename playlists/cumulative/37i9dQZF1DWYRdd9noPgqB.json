@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Borrowed Time (feat. Forest Claudette)",
+        "url": "https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193687,
+      "name": "Borrowed Time (feat. Forest Claudette)",
+      "url": "https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake"
+    },
+    {
+      "album": {
         "name": "Gabi Hartmann",
         "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
       },
@@ -541,6 +563,28 @@
     },
     {
       "album": {
+        "name": "I am II",
+        "url": "https://open.spotify.com/album/5HMwumvj1kXuCX2640QPZr"
+      },
+      "artists": [
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        },
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182700,
+      "name": "Don't Worry About Me - Juveniles rework",
+      "url": "https://open.spotify.com/track/4Yr4m1mWXgufM27ABA9QND"
+    },
+    {
+      "album": {
         "name": "DON'T YOU THINK IT'D BE NICE ?",
         "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
       },
@@ -556,6 +600,32 @@
       "duration_ms": 190292,
       "name": "DON'T YOU THINK IT'D BE NICE ?",
       "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
+    },
+    {
+      "album": {
+        "name": "Curio Part II",
+        "url": "https://open.spotify.com/album/4RUvalMQW42XY9a1sgCDip"
+      },
+      "artists": [
+        {
+          "name": "AllttA",
+          "url": "https://open.spotify.com/artist/1si6mnxJ6IpTOTW13ECa0o"
+        },
+        {
+          "name": "20syl",
+          "url": "https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV"
+        },
+        {
+          "name": "Mr. J. Medeiros",
+          "url": "https://open.spotify.com/artist/0r9XuUo5aHtAEZiWsOA0wT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252835,
+      "name": "Every Bullet so Far",
+      "url": "https://open.spotify.com/track/6qugUDiEBLgFFrhCa40RS5"
     },
     {
       "album": {
@@ -1392,7 +1462,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 264000,
       "name": "Sugar Hill - Roisto Remix",
       "url": "https://open.spotify.com/track/4mPa2hYYzVACNKBJCcbgaY"
@@ -1548,7 +1618,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 237960,
       "name": "The Meeting Place",
       "url": "https://open.spotify.com/track/0RwXCC1iiZEfoKCtuGhrHS"
@@ -1642,7 +1712,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"

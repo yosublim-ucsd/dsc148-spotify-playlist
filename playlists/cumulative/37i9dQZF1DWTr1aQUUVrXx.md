@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-162 songs - 9 hr 35 min
+164 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 |  |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2023-03-03 |  |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2023-03-03 |  |
+| [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 |  |
 | [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2023-03-03 |  |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2023-03-03 |  |
 | [I’m just on the road](https://open.spotify.com/track/5R6016N0exIZeQj0xAzI5k) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [I’m just on the road](https://open.spotify.com/album/45FXaj9wvYxVsEKRqEz3Ub) | 2:37 | 2023-04-14 |  |
@@ -150,6 +151,7 @@
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-14 |  |
 | [Tuxedo and top hat](https://open.spotify.com/track/3c5s24ryFSbhu9RqQML4gd) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Tuxedo and top hat](https://open.spotify.com/album/2plkKk4zTHEOE0IFgVOGnz) | 2:28 | 2023-05-25 |  |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2023-03-03 |  |
+| [Velvet Lounge Reverie](https://open.spotify.com/track/5ubFgdUwUuPtaNlMq0rgD6) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Velvet Lounge Reverie](https://open.spotify.com/album/3WQaiEOLo1bjvZwOUdqCAx) | 3:07 | 2023-12-08 |  |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2023-03-03 |  |
 | [Vilan](https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Vilan](https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g) | 2:54 | 2023-11-17 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2023-03-03 |  |

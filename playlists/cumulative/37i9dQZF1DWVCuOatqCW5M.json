@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Madhur Sharma",
+  "description": "New music from popular Hindi artists. Cover- Sonu Nigam",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 273486,
       "name": "Aatish Mein",
       "url": "https://open.spotify.com/track/6SFyV5ngjxaCiqPi4KB4D9"
@@ -854,6 +854,32 @@
       "duration_ms": 258000,
       "name": "Ae Ri Sakhi",
       "url": "https://open.spotify.com/track/0vWHsHZAWTZquLkTfOM2Gd"
+    },
+    {
+      "album": {
+        "name": "Afra Tafri",
+        "url": "https://open.spotify.com/album/2WGd8Ft7xq1T2k6aP9IP6O"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257181,
+      "name": "Afra Tafri",
+      "url": "https://open.spotify.com/track/6UehxEB7DqnuIGkvdYFDvj"
     },
     {
       "album": {
@@ -1270,7 +1296,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 181350,
       "name": "Awara",
       "url": "https://open.spotify.com/track/7bTwiyIvTfHVcK7K8IwobP"
@@ -2938,7 +2964,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 182400,
       "name": "Chhan Chhan",
       "url": "https://open.spotify.com/track/3YekdE6R0xcjd5ezanD5zo"
@@ -4801,6 +4827,24 @@
     },
     {
       "album": {
+        "name": "Falling Again",
+        "url": "https://open.spotify.com/album/7gXy5Nm7ZRKLzAdFgD2sCi"
+      },
+      "artists": [
+        {
+          "name": "Raman",
+          "url": "https://open.spotify.com/artist/60Pg5sPykBui7UZsqaoHu8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228437,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk"
+    },
+    {
+      "album": {
         "name": "Feel You Now",
         "url": "https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC"
       },
@@ -6280,6 +6324,28 @@
       "duration_ms": 223875,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/2ZAJXdd4kUIlaUwt3MqqPb"
+    },
+    {
+      "album": {
+        "name": "Ishq - E - Mareez",
+        "url": "https://open.spotify.com/album/6N8H6aZooLNkrTdD88i7IX"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Rajat Arora",
+          "url": "https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "Ishq - E - Mareez",
+      "url": "https://open.spotify.com/track/51Bi6z6lTWksfxYza8CdZ1"
     },
     {
       "album": {
@@ -8026,7 +8092,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 181986,
       "name": "Kataar Mein",
       "url": "https://open.spotify.com/track/2qMLFGGbNB3bDZuJFaT9Q1"
@@ -8674,7 +8740,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 218257,
       "name": "Khuda K Paas",
       "url": "https://open.spotify.com/track/2eA9Fj0XSILNZzgMDqaS7x"
@@ -8784,6 +8850,32 @@
       "duration_ms": 234893,
       "name": "Khwahish - Pehli Baarish",
       "url": "https://open.spotify.com/track/0PdvXdwNuxpFkLMKN2DbMN"
+    },
+    {
+      "album": {
+        "name": "Kill Me Now",
+        "url": "https://open.spotify.com/album/4xHyno8Hir0GxtyuKgaKuf"
+      },
+      "artists": [
+        {
+          "name": "Sahir",
+          "url": "https://open.spotify.com/artist/4mVLU0C7PoQ6ETixTAQuuK"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "A$AD",
+          "url": "https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217864,
+      "name": "Kill Me Now",
+      "url": "https://open.spotify.com/track/173057f6S2oeU3E3fOn4Fs"
     },
     {
       "album": {
@@ -13622,7 +13714,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 161423,
       "name": "Sab Moh Maaya Hai (Title Track) - From \"Sab Moh Maaya Hai\"",
       "url": "https://open.spotify.com/track/2yYMlF4ruQTqaqCoC1jljL"
@@ -15435,6 +15527,28 @@
     },
     {
       "album": {
+        "name": "Tere Naina (From \"Dill Bill\")",
+        "url": "https://open.spotify.com/album/5Y1HI1sUwHlNTthjKcE7xY"
+      },
+      "artists": [
+        {
+          "name": "Jeet Gannguli",
+          "url": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+        },
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258403,
+      "name": "Tere Naina - From \"Dill Bill\"",
+      "url": "https://open.spotify.com/track/2bsElnRokI9Ur3c9i5WvRR"
+    },
+    {
+      "album": {
         "name": "Tere Saath",
         "url": "https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q"
       },
@@ -17236,6 +17350,24 @@
       "duration_ms": 143385,
       "name": "Vadhu Var",
       "url": "https://open.spotify.com/track/6MGYsVZhTmu6G6GET8LI5p"
+    },
+    {
+      "album": {
+        "name": "Ve Mai Kehna",
+        "url": "https://open.spotify.com/album/07mr9B5rufrsckncMTmLda"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Ve Mai Kehna",
+      "url": "https://open.spotify.com/track/54xudESkJcqv9R6wPxNUJ9"
     },
     {
       "album": {

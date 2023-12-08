@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Sidecars.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 239573,
       "name": "Aviones plateados - Versi\u00f3n 2023",
       "url": "https://open.spotify.com/track/3je2TX1tt9e7iXiGByeeie"
@@ -3107,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Hasta que cierro los ojos",
+        "url": "https://open.spotify.com/album/6nuNtudPXfOG8YJck48E4Z"
+      },
+      "artists": [
+        {
+          "name": "Sidecars",
+          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245074,
+      "name": "Hasta que cierro los ojos",
+      "url": "https://open.spotify.com/track/2iU5yApTiBhiXKx2uaKZP0"
+    },
+    {
+      "album": {
         "name": "Diario de una tregua",
         "url": "https://open.spotify.com/album/7cmVvrFXZuMgiEakavUfQO"
       },
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 227319,
       "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
       "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
@@ -3936,6 +3954,24 @@
       "duration_ms": 199226,
       "name": "Lucha de Gigantes",
       "url": "https://open.spotify.com/track/5afAcSipBblWpFBxU93khB"
+    },
+    {
+      "album": {
+        "name": "Lugar perfecto",
+        "url": "https://open.spotify.com/album/7ldxxbdzLICFxziYr0SuLb"
+      },
+      "artists": [
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Lugar perfecto",
+      "url": "https://open.spotify.com/track/2nUwZKuTz2vXh0qSqbPiEp"
     },
     {
       "album": {
@@ -4138,7 +4174,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Mar antiguo - Versi\u00f3n 2023",
       "url": "https://open.spotify.com/track/4azPip5EUOk4jJxJxb6wbm"
@@ -6086,7 +6122,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-08",
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"

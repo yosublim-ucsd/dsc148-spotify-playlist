@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:5cgtn5YWC3Fr06wTps1dBq">Goapele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,990 likes - 71 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,007 likes - 71 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 63 | [CUHMUNNITY MONEY 2009 \(feat\. AD\)](https://open.spotify.com/track/5oTZvnzeM9LzTPpwcPB2Us) | [JasonMartin](https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI) | [A Compton Story](https://open.spotify.com/album/5f3ar4qWYfif5VySZZbkSc) | 0:55 |
 | 64 | [Brrrrrdadumdum](https://open.spotify.com/track/3wo8A1xdCoHJ7gl4Sri4fu) | [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [Brrrrrdadumdum](https://open.spotify.com/album/54pjaSyuMBiMGdNFZEhcsD) | 2:40 |
 | 65 | [Belle](https://open.spotify.com/track/5DBnZxRQmspUGMtiLSuy9M) | [Euhydi](https://open.spotify.com/artist/5Aw4GUbCmSu1ighGC8wiW9), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Belle](https://open.spotify.com/album/53GM81cP751HczYPL4fIFN) | 3:12 |
-| 66 | [Merry Bhrismas](https://open.spotify.com/track/2Gy0L0pWwrvHwhb6XrfJQx) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Uce Lee](https://open.spotify.com/artist/68jYg2JGsz1wuseOhegSpN) | [Merry Bhrismas](https://open.spotify.com/album/3Jyrp9oyDj2mw3k8JhTNBl) | 2:42 |
+| 66 | [Merry Bhrismas](https://open.spotify.com/track/2Gy0L0pWwrvHwhb6XrfJQx) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Merry Bhrismas](https://open.spotify.com/album/3Jyrp9oyDj2mw3k8JhTNBl) | 2:42 |
 | 67 | [Bad Days](https://open.spotify.com/track/73dlSW9tXWylelVyaeM6Xw) | [Rayven Justice](https://open.spotify.com/artist/0m9husdLSRyNHOuxFAr5hB) | [Bad Days](https://open.spotify.com/album/5hpgxrw8ne11NJXvpvAjTN) | 2:20 |
 | 68 | [Closer](https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Closer](https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji) | 3:33 |
 | 69 | [Fall's Back](https://open.spotify.com/track/1yK2N7ZVvICnLK0Og3kzoP) | [Griff Tyler](https://open.spotify.com/artist/6haDJLArD4GA9AF3YM2EVS) | [When Summer's Over](https://open.spotify.com/album/6r3PvzOCS8xQUfBSmrBd2e) | 2:00 |
 | 70 | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 |
 | 71 | [Warmer with You](https://open.spotify.com/track/3FIU12rRLkfrHdA0vBIsHN) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Warmer with You](https://open.spotify.com/album/5SwM2wVqEX9FmRHgTOfuL5) | 2:17 |
 
-Snapshot ID: `MCw3NmM4MmZhZDM0YzFmMGE2OGE5ZDY5ZDFjNjg4Zjk4MDdlNGU4OWQw`
+Snapshot ID: `MCxlNjM0NTZlYTA0NzU5ODdjY2MwYWMwZDg5NjM0OGNjODVmOGY0NDli`

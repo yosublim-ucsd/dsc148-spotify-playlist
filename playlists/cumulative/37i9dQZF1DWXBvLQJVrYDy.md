@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-193 songs - 12 hr 36 min
+196 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-08-18 |  |
 | [Cocktails For Two](https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Verve Jazz Masters 34: Coleman Hawkins](https://open.spotify.com/album/068xxiiZI5PQYoYVQl2R7y) | 2:39 | 2022-08-18 | 2023-05-05 |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/3tznBwhLYOJzC3mh6DBM47) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-08-18 |  |
+| [Connections](https://open.spotify.com/track/2ogKZchAqOWwZtTiRvWfNK) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Connections](https://open.spotify.com/album/0VB2e5tcXGwJDetWSbOS7D) | 3:40 | 2023-12-08 |  |
 | [Coral](https://open.spotify.com/track/2nIW5sfh2pW6Ftk8Qes2jv) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Coral](https://open.spotify.com/album/2p9Tfv7xnwAkhXMIoNcPik) | 3:37 | 2022-08-18 |  |
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 |  |
 | [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 | 2022-08-18 | 2023-05-05 |
@@ -191,6 +192,7 @@
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-08-18 |  |
 | [What´s New](https://open.spotify.com/track/0BL42uZtaUUFXL26jWVmBR) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [What´s New](https://open.spotify.com/album/0c71OvAIq0htZlQAYh4TrT) | 3:38 | 2022-08-18 |  |
 | [When I Fall In Love](https://open.spotify.com/track/5qua84zdZZxV4dRI1v0WLN) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [When I Fall In Love](https://open.spotify.com/album/2TyUlWNdCzTFItxohR2PO2) | 4:23 | 2022-08-18 |  |
+| [When You're Not Around Med](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 | 2023-12-08 |  |
 | [Where Or When](https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Where Or When](https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou) | 3:23 | 2022-08-18 |  |
 | [Will You Wait For Me](https://open.spotify.com/track/0FFYwlRnQbuQhfW2pbzIgv) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Will You Wait For Me](https://open.spotify.com/album/0vHnbVxEXwagrTFClPMVgi) | 3:47 | 2023-11-17 |  |
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-18 |  |
@@ -200,6 +202,7 @@
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-13 |  |
 | [You Must Believe In Spring](https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Earthshine](https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM) | 3:42 | 2022-09-07 |  |
 | [You've Changed \- Remastered 2015](https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright \(Remastered\)](https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC) | 7:27 | 2022-08-18 | 2023-02-03 |
+| [Your Goodbye](https://open.spotify.com/track/23O9t0qs6YkUFIiRmxAXAV) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Your Goodbye](https://open.spotify.com/album/6ua5uLyEVWOz4e23b7TduX) | 3:40 | 2023-12-08 |  |
 | [Your Smile](https://open.spotify.com/track/1j49Blzw3HDfZ3KUs88zzl) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Your Smile](https://open.spotify.com/album/7FHXsFk96blgIpAujGbNUT) | 3:21 | 2023-10-27 |  |
 
 \*This playlist was first scraped on 2022-08-19. Prior content cannot be recovered.

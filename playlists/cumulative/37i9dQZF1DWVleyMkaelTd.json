@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Bel\u00e9m",
+        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173507,
+      "name": "Bel\u00e9m",
+      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
+    },
+    {
+      "album": {
         "name": "Black Orpheus",
         "url": "https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P"
       },
@@ -2418,6 +2436,24 @@
       "duration_ms": 171482,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
+    },
+    {
+      "album": {
+        "name": "Seu Sorriso",
+        "url": "https://open.spotify.com/album/7t8vEsRo1BMzxObmka9RKs"
+      },
+      "artists": [
+        {
+          "name": "Eric Merlino",
+          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186477,
+      "name": "Seu Sorriso",
+      "url": "https://open.spotify.com/track/4tQ8S7exeZTiZ1DAYWgchp"
     },
     {
       "album": {

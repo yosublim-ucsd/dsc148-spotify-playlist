@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Los Farmerz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,178,494 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,179,684 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 79 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 80 | [T.H.C\. \- En Vivo](https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [T.H.C\. \(En Vivo\)](https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv) | 3:12 |
 
-Snapshot ID: `MCwxOTdmODlmMWE5MTY0MjU3ODBiMzE2YzI5MGMwODc3ZTY0OTc3OTBj`
+Snapshot ID: `MCxhYzllZWI2MzY4MWI5ODg2NWE4NmFmYjU0ZGU4YTkzMzM1NjgyNjUw`

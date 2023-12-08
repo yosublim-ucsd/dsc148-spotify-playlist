@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Meca
 
-102 songs - 6 hr 23 min
+102 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bring It](https://open.spotify.com/track/202FD57PWY2iEj7EknxD4D) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Bring It](https://open.spotify.com/album/0Z5MIDlXE844e9KA6aIhYg) | 2:08 | 2023-08-04 |  |
 | [Brisa](https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Brisa](https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q) | 5:33 | 2023-11-17 |  |
 | [Bump Bump Bump \- Radio Edit](https://open.spotify.com/track/74nFwxAEaYFOW4LpCvLVcX) | [Sandeville](https://open.spotify.com/artist/2l3hKaFThCf5oYsFUv25RH), [Astro](https://open.spotify.com/artist/0JahJweSrkgfC9tHhneWg8) | [Bump Bump Bump \(Radio Edit\)](https://open.spotify.com/album/2o6K63g3jNaY2JcXvaYlmC) | 2:52 | 2023-07-21 | 2023-12-02 |
-| [Circulator](https://open.spotify.com/track/1CGS1ivLi4e7ejfr7Qrgi0) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Circulator](https://open.spotify.com/album/2qoGsSpsx5vYo5RdGLQ2eU) | 3:36 | 2023-11-17 |  |
+| [Circulator](https://open.spotify.com/track/1CGS1ivLi4e7ejfr7Qrgi0) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Circulator](https://open.spotify.com/album/2qoGsSpsx5vYo5RdGLQ2eU) | 2:30 | 2023-11-17 |  |
 | [Closer \- Radio Edit](https://open.spotify.com/track/57YS2mQSZ2tvUMTbFlHvyC) | [Bruno Motta](https://open.spotify.com/artist/6rRHgYbcaw2xKpo7LjyGiK), [Only Fusion](https://open.spotify.com/artist/5T5Wm4YyqAy4DERFkdS3qi) | [Closer](https://open.spotify.com/album/4BXdb3T0TG7EiFldBaImfU) | 4:30 | 2023-07-21 | 2023-10-21 |
 | [Come Back](https://open.spotify.com/track/6XKAsu3Hu56kN6ighNsxiL) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Come Back](https://open.spotify.com/album/3r7PkLLbdscNV61NrOOOBe) | 3:17 | 2023-11-10 |  |
 | [Cornetera](https://open.spotify.com/track/77llNe4mjR1Vesm3zoohku) | [Cityburn](https://open.spotify.com/artist/567HOJYjplPqcqvqGfBLUm) | [Cornetera](https://open.spotify.com/album/6kUsuX5ifNBUdFQPARiE6u) | 5:54 | 2023-07-21 |  |
